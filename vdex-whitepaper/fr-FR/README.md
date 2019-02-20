@@ -1,4 +1,4 @@
-# VDex Whitepaper
+# Livre blanc sur le VDex
 
 ## 1. INTRODUCTION
 
