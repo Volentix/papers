@@ -1,7 +1,7 @@
-# THE VOLENTIX VDEX WHITE PAPER
+# THE VOLENTIX <br> VDEX WHITE PAPER
 
-0.1.4
-10242018
+0.1.4<br>
+10242018<br>
 www.volentix.io
 
 ## 1. INTRODUCTION
@@ -18,6 +18,7 @@ The Volentix ecosystem will exist atop four pillars, an initializing array of ap
 
 Venue is planned as a dynamic community platform that recruits and aligns members of the Volentix community to facilitate distribution of VTX, the native digital asset of the Volentix ecosystem, and to promote awareness of Volentix initiatives. Recently launched in beta testing, Venue enables users to receive VTX in exchange, for example, for participating in developing dedicated communities, submitting bug fixes, and claiming bounties. Leaderboards and live metrics reflect user participation. The first signature campaign was launched on the https://bitcointalk.org/ forum on July 13, 2018. Please visit https://venue.volentix.io for more information.
 
+![](main3-3000px.jpg)
 ### 2.2 VERTO
 
 Verto is being built as a multi-currency wallet for use with the VDex decentralized exchange, and intends to facilitate personal custody and local management of private and public keys in peer-to-peer transactions, with the goal of eliminating the risks of devastating losses of stake associated with traumatic failures of central operators. Verto plans to employ a system of smart contracts to maintain the state between two trading clients, the simplest operations being accomplished with atomic swaps.[1]
