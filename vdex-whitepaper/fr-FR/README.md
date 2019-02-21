@@ -7,7 +7,7 @@ www.volentix.io
 
 ## 1. INTRODUCTION
 
-Volentix présente VDex, conçu comme un échange d’actifs numériques distribuées, décentralisé en mettant l’accent sur l’expérience utilisateur, le développement communautaire et la gouvernance. By accessing established technologies and planning selective new protocols with priority on security, speed, authentication, ease of use, scalability, and multi-asset support, VDex intends to facilitate peer-to-peer transactions by assembling a portfolio of decentralized applications built on EOS.IO smart contracts.
+Volentix présente VDex, conçu comme un échange d’actifs numériques distribuées, décentralisé en mettant l’accent sur l’expérience utilisateur, le développement communautaire et la gouvernance. En accédant aux technologies établies et en planifiant de nouveaux protocoles sélectifs en priorité sur la sécurité, la vitesse, l'authentification, la facilité d'utilisation, l'évolutivité et le support multi-actifs, VDex a l'intention de faciliter les transactions par les pairs en assemblant un portefeuille d'applications décentralisées construites sur des contrats intelligents EOS.IO.
 
 The VDex launch point anticipates matching Volentix's design requirements to available technologies superimposed on the EOS.IO decentralized operating system. We intend to test our assumptions by prototyping via custom EZEOS software, which we built and customized with EOS.IO's cleos command line tools. This software resides at: https://github.com/Volentix/ezeos
 
@@ -39,7 +39,7 @@ The fourth pillar of Volentix, the VDex exchange, is the tradable digital assets
 
 We have evaluated various operating systems as candidates for the substructure of our VDex exchange. Though we honor the work done by a number of the established leaders in digital assets and blockchain technology, among those trailblazers the work of EOS.IO as an operating system-like framework upon which decentralized applications can be built stands out, in our opinion, as exemplary. The software provides accounts, authentication, databases, asynchronous communication, and scheduling across clusters. Components and protocols are already built into the platform, and a subset can be used to satisfy our VDex requirements. VDex will initially benefit from the standard features offered by EOS.IO such as account and wallet creation and the recovery of stolen keys, but we plan subsequently to implement protocols for creation of a decentralized exchange through EOS contracts and other tools.[2] Here is a summary of encouraging methodologies:
 
-### Context Free Actions
+### Actions libres du contexte
 
 Most of the scalability techniques proposed by Ethereum (Sharding, Raiden, Plasma, State Channels) become more efficient, parallelizable, and practical while also ensuring speedy inter-blockchain communication and unimpaired scalability. A Context Free Action involves computations that depend only on transaction data, and not upon the blockchain state.
 
@@ -71,7 +71,7 @@ Data is shared between contracts via an oracle, which, "in the context of blockc
 
 In EOS.IO, issuance of a digital asset creates a sidechain, which is an emerging mechanism permitting digital assets from one blockchain to be securely used in a separate blockchain and then moved back to the original blockchain. Efficiency of processing is promoted by creating multiple sidechains. A TCP-like communication channel between different blockchains evaluates proofs. For each shard (a unit of parallelizable execution in a cycle), a balanced merkle tree is constructed of these action commitments to generate a temporary shared merkle root; this is done for speed of parallel computation. The block header contains the root of a balanced merkle tree the leaves of which are the roots of these individual shard merkle trees. [2]
 
-#### 3.0.5 Liquidity
+#### 3.0.5 Liquidité
 
 A digital asset is liquid if it is easily sold or purchased in ordinary trading volumes without a significant short-term impact on its prevailing market price. In order to achieve such a status, traditionally any tradable asset must surmount a trading volume threshold sufficient to support stability. Specifically, we anticipate adopting the following methodologies: Loopring protocol with the use of EOS.IO contracts acting as nodes.[5] Bancor algorithm used to bring stability to the digital asset.[6] Toggles between these protocols and HTLC (atomic swaps) according to Vespucci analyses on the VDex network.
 
@@ -79,7 +79,7 @@ A digital asset is liquid if it is easily sold or purchased in ordinary trading 
 
 A Hashed Timelock Contract (HTLC)[1] is a smart contract enabling the implementation of time-bound transactions. Users will be offered a variable lock-in period for their transactions, with a discount on transaction fees in exchange for choosing a longer lock-in period.
 
-### 3.1 NETWORK TOPOLOGY
+### 3.1 TOPOLOGIE DU RÉSEAU
 
 #### 3.1.1 Nodes
 
