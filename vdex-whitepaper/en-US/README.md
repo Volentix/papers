@@ -1,8 +1,8 @@
-# THE VOLENTIX <br> VDEX WHITE PAPER
+# THE VOLENTIX VDEX WHITE PAPER
 
-0.1.4<br>
-10242018<br>
-www.volentix.io
+- Version: 0.1.4
+- Updated: 10-24-2018
+- Website: www.volentix.io
 
 ## 1. INTRODUCTION
 
