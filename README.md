@@ -58,7 +58,7 @@ There are several image files in the `/img/` directory that are generated using 
 Compile using pandoc
 ```bash
 cd ~/papers
-pandoc vdex-whitepaper/en-US/INDEX.md --pdf-engine=xelatex -o vdex-whitepaper.pdf
+pandoc vdex-whitepaper/en-US/README.md --pdf-engine=xelatex -o vdex-whitepaper.pdf
 
 ```
 
