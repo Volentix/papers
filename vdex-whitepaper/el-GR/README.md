@@ -1,32 +1,32 @@
 # THE VOLENTIX VDEX WHITE PAPER
 
-- Version: 0.1.4
-- Updated: 10-24-2018
-- Website: www.volentix.io
+- Έκδοση: 0.1.4
+- Ενημερώθηκε: 10-24-2018
+- Ιστοσελίδα: www.volentix.io
 
 ## 1. ΕΙΣΑΓΩΓΗ
 
-Η Volentix εισάγει VDex, σχεδιασμένη ως κατανεμημένη, αποκεντρωμένη ψηφιακή ανταλλαγή περιουσιακών στοιχείων με έμφαση στην εμπειρία των χρηστών και την ανάπτυξη και διακυβέρνηση της κοινότητας. By accessing established technologies and planning selective new protocols with priority on security, speed, authentication, ease of use, scalability, and multi-asset support, VDex intends to facilitate peer-to-peer transactions by assembling a portfolio of decentralized applications built on EOS.IO smart contracts.
+Η Volentix εισάγει VDex, σχεδιασμένη ως κατανεμημένη, αποκεντρωμένη ψηφιακή ανταλλαγή περιουσιακών στοιχείων με έμφαση στην εμπειρία των χρηστών και την ανάπτυξη και διακυβέρνηση της κοινότητας. Με την πρόσβαση σε καθιερωμένες τεχνολογίες και το σχεδιασμό επιλεκτικών νέων πρωτοκόλλων με προτεραιότητα στην ασφάλεια, την ταχύτητα, τον έλεγχο ταυτότητας, την ευκολία χρήσης, την επεκτασιμότητα και την υποστήριξη πολλαπλών περιουσιακών στοιχείων, η VDex προτίθεται να διευκολύνει τις συναλλαγές peer-to-peer συγκεντρώνοντας ένα χαρτοφυλάκιο αποκεντρωμένων εφαρμογών, EOS.IO έξυπνες συμβάσεις.
 
-The VDex launch point anticipates matching Volentix's design requirements to available technologies superimposed on the EOS.IO decentralized operating system. We intend to test our assumptions by prototyping via custom EZEOS software, which we built and customized with EOS.IO's cleos command line tools. This software resides at: https://github.com/Volentix/ezeos
+Το σημείο εκκίνησης VDex προβλέπει την προσαρμογή των απαιτήσεων σχεδιασμού της Volentix σε διαθέσιμες τεχνολογίες που τοποθετούνται πάνω στο αποκεντρωμένο λειτουργικό σύστημα EOS.IO. Σκοπεύουμε να δοκιμάσουμε τις παραδοχές μας με τη δημιουργία πρωτοτύπων μέσω προσαρμοσμένου λογισμικού EZEOS, το οποίο κατασκευάσαμε και προσαρμόσαμε με τα εργαλεία γραμμής εντολών της EOS.IO. Αυτό το λογισμικό βρίσκεται στη διεύθυνση: https://github.com/Volentix/ezeos
 
 ## 2. VOLENTIX
 
-The Volentix ecosystem will exist atop four pillars, an initializing array of applications specifically known as Venue, Verto, Vespucci, and VDex.
+Το οικοσύστημα Volentix θα υπάρχει πάνω σε τέσσερις πυλώνες, μια αρχική σειρά εφαρμογών που είναι γνωστές ως Venue, Verto, Vespucci και VDex.
 
 ### 2.1 VENUE
 
-Venue is planned as a dynamic community platform that recruits and aligns members of the Volentix community to facilitate distribution of VTX, the native digital asset of the Volentix ecosystem, and to promote awareness of Volentix initiatives. Recently launched in beta testing, Venue enables users to receive VTX in exchange, for example, for participating in developing dedicated communities, submitting bug fixes, and claiming bounties. Leaderboards and live metrics reflect user participation. The first signature campaign was launched on the https://bitcointalk.org/ forum on July 13, 2018. Please visit https://venue.volentix.io for more information.
+Ο χώρος σχεδιάζεται ως μια δυναμική πλατφόρμα κοινότητας που προσλαμβάνει και ευθυγραμμίζει τα μέλη της κοινότητας Volentix για τη διευκόλυνση της διανομής του VTX, του φυσικού ψηφιακού στοιχείου του οικοσυστήματος Volentix, και για την προώθηση της ευαισθητοποίησης των πρωτοβουλιών Volentix. Πρόσφατα ξεκίνησε με δοκιμές beta, ο χώρος επιτρέπει στους χρήστες να λαμβάνουν VTX σε αντάλλαγμα, για παράδειγμα, για τη συμμετοχή τους στην ανάπτυξη ειδικών κοινοτήτων, την υποβολή διορθώσεων σφαλμάτων και την αποζημίωση. Οι κορυφαίοι πίνακες και οι μετρήσεις σε πραγματικό χρόνο αντικατοπτρίζουν τη συμμετοχή των χρηστών. Η πρώτη εκστρατεία υπογραφής ξεκίνησε στο φόρουμ https://bitcointalk.org/ στις 13 Ιουλίου 2018. Επισκεφθείτε τη διεύθυνση https://venue.volentix.io για περισσότερες πληροφορίες.
 
 ![](../main3-3000px.jpg)
 
 ### 2.2 VERTO
 
-Verto is being built as a multi-currency wallet for use with the VDex decentralized exchange, and intends to facilitate personal custody and local management of private and public keys in peer-to-peer transactions, with the goal of eliminating the risks of devastating losses of stake associated with traumatic failures of central operators. Verto plans to employ a system of smart contracts to maintain the state between two trading clients, the simplest operations being accomplished with atomic swaps.[1]
+Η Verto χτίζεται ως πορτοφόλι πολλών νομισμάτων για χρήση με την αποκεντρωμένη ανταλλαγή VDex και σκοπεύει να διευκολύνει την προσωπική επιμέλεια και την τοπική διαχείριση ιδιωτικών και δημόσιων κλειδιών στις συναλλαγές peer-to-peer, με στόχο την εξάλειψη των κινδύνων καταστροφικών ζημιών του μεριδίου που σχετίζεται με τραυματικές αστοχίες των κεντρικών φορέων εκμετάλλευσης. Η Verto σχεδιάζει να εφαρμόσει ένα σύστημα έξυπνων συμβάσεων για τη διατήρηση του κράτους μεταξύ δύο εμπορικών πελατών, ενώ οι απλούστερες λειτουργίες πραγματοποιούνται με ατομικές ανταλλαγές.[1]
 
 ### 2.3 VESPUCCI
 
-Vespucci is envisioned as an analytics engine accessible via a user-friendly interface with treasure troves of real-time and historical market data, such as digital assets ratings and sentiment analysis. We wish to empower users with tools to graph and compare tradeable digital assets, to access and parse historical trading records, to plot trends and patterns, and to monitor and assess open-source software developments. Vespucci seeks to bring to your fingertips confident and comprehensive market-relevant data by aggregating the information currently scattered throughout many different blockchains, websites, chat rooms, and exchanges.
+Ο Vespucci θεωρείται ως ένας μηχανισμός ανάλυσης που είναι προσβάσιμος μέσω ενός φιλικού προς το χρήστη διεπαφής με θησαυρούς πραγματικών και ιστορικών δεδομένων της αγοράς, όπως οι αξιολογήσεις ψηφιακών περιουσιακών στοιχείων και η ανάλυση συναισθημάτων. Επιθυμούμε να δώσουμε στους χρήστες τη δυνατότητα να δημιουργήσουν γραφικά και να συγκρίνουν τα εμπορικά ψηφιακά περιουσιακά στοιχεία, να αποκτήσουν πρόσβαση και να αναλύσουν ιστορικά εμπορικά αρχεία, να σχεδιάσουν τάσεις και πρότυπα και να παρακολουθήσουν και να αξιολογήσουν τις εξελίξεις λογισμικού ανοιχτού κώδικα. Vespucci seeks to bring to your fingertips confident and comprehensive market-relevant data by aggregating the information currently scattered throughout many different blockchains, websites, chat rooms, and exchanges.
 
 ### 2.4 VDEX
 
