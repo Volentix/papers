@@ -455,10 +455,10 @@ This text is based on NH’s original vision docs and AA’s update on them.
 
 [14] <https://gist.github.com/gavinandresen/e20c3b5a1d4b97f79ac2> [O(1) Block Propagation]
 
-[15] <http://blocktivity.info/> [activity on blockchains, projects being used by people]
+[15] [ http://blocktivity.info/ ](http://blocktivity.info/) [δραστηριότητα σε μπλοκ αλτήρες, έργα που χρησιμοποιούνται από άτομα]
 
-[16] <https://www.coingecko.com/> [Cryptocurrencies Chart]
+[16] <https://www.coingecko.com/> [Διάγραμμα κρυπτοεπενδυμών]
 
 [17] <https://www.investopedia.com>
 
-Brackets at the end of certain references indicate the part of the paper that uses this reference.
+Στηρίγματα στο τέλος ορισμένων αναφορών υποδεικνύουν το τμήμα του χαρτιού που χρησιμοποιεί αυτή την αναφορά.
