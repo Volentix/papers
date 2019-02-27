@@ -32,25 +32,25 @@ Vespucci is envisioned as an analytics engine accessible via a user-friendly int
 
 The fourth pillar of Volentix, the VDex exchange, is the tradable digital assets platform introduced in detail in this white paper. For smooth and secure usability, we plan VDex to integrate with your own personal Verto wallet and Vespucci interface. We expect VDex to be able to manage transactions involving both VTX and the vast array of digital assets and blockchains extant from time to time throughout the world. We are developing Venue as a complementary adjunct primarily in order to incentivize and drive native VTX-based initiatives.
 
-## 3. ARCHITECTURE
+## 3. MİMARİ
 
-#### 3.0.1 Operating system
+#### 3.0.1 İşletim sistemi
 
 We have evaluated various operating systems as candidates for the substructure of our VDex exchange. Though we honor the work done by a number of the established leaders in digital assets and blockchain technology, among those trailblazers the work of EOS.IO as an operating system-like framework upon which decentralized applications can be built stands out, in our opinion, as exemplary. The software provides accounts, authentication, databases, asynchronous communication, and scheduling across clusters. Components and protocols are already built into the platform, and a subset can be used to satisfy our VDex requirements. VDex will initially benefit from the standard features offered by EOS.IO such as account and wallet creation and the recovery of stolen keys, but we plan subsequently to implement protocols for creation of a decentralized exchange through EOS contracts and other tools.[2] Here is a summary of encouraging methodologies:
 
-### Context Free Actions
+### Ücretsiz İçerik İşlemleri
 
 Most of the scalability techniques proposed by Ethereum (Sharding, Raiden, Plasma, State Channels) become more efficient, parallelizable, and practical while also ensuring speedy inter-blockchain communication and unimpaired scalability. A Context Free Action involves computations that depend only on transaction data, and not upon the blockchain state.
 
-### Binary/JSON conversion
+### Binary/JSON dönüştürme
 
 EOS contracts combine the human readability of JSON with the efficiency of binary.
 
-### Parallelization and optimization
+### Paralelleştirme ve optimizasyon
 
 Separating authentication from application allows faster transaction times and increases bandwidth. EOS.IO blocks are reportedly produced every 500ms.
 
-### Web Assembly(WASM)
+### Web Meclisi(WASM)
 
 Web Assembly enables high-performance Web applications and also secures each application in its own sandbox, through which functionalities VDex can obtain network access, filesystem namespace restrictions, and enforced rule-based execution.
 
@@ -62,15 +62,15 @@ The well-known and popular programming language C++ appears highly suitable for 
 
 Service contracts are standardized to provide a baseline measure of interoperability between and among disparate systems by harmonization of data models. Indeed, the Standardized Service Contract design principle advocates that service contracts be based on standardized data models. Analysis is done on the service inventory blueprint to find out the commonly occurring business documents that are exchanged between services. These business documents are then modeled in a standardized manner. The Canonical Schema pattern reduces the need for application of the data model transformation design pattern. [3]
 
-#### 3.0.3 Inter-Contract Communication
+#### 3.0.3 Sözleşmeler-Arası İletişim
 
 Data is shared between contracts via an oracle, which, "in the context of blockchains and smart contracts, is an agent that finds and verifies real-world occurrences and submits this information to a blockchain to be used by smart contracts.” [4] Every node will have an identical copy of these data, for use in smart contract computation. Rather than the smart contract functioning to pull the data, instead the oracle pushes the data onto the blockchain. In the instance of a blockchain, most reading of the data is done via polling "models" in order to monitor blockchain state and to perform certain responsive actions.
 
-#### 3.0.4 Sidechains
+#### 3.0.4 Yan zincirler
 
 In EOS.IO, issuance of a digital asset creates a sidechain, which is an emerging mechanism permitting digital assets from one blockchain to be securely used in a separate blockchain and then moved back to the original blockchain. Efficiency of processing is promoted by creating multiple sidechains. A TCP-like communication channel between different blockchains evaluates proofs. For each shard (a unit of parallelizable execution in a cycle), a balanced merkle tree is constructed of these action commitments to generate a temporary shared merkle root; this is done for speed of parallel computation. The block header contains the root of a balanced merkle tree the leaves of which are the roots of these individual shard merkle trees. [2]
 
-#### 3.0.5 Liquidity
+#### 3.0.5 Likidite
 
 A digital asset is liquid if it is easily sold or purchased in ordinary trading volumes without a significant short-term impact on its prevailing market price. In order to achieve such a status, traditionally any tradable asset must surmount a trading volume threshold sufficient to support stability. Specifically, we anticipate adopting the following methodologies: Loopring protocol with the use of EOS.IO contracts acting as nodes.[5] Bancor algorithm used to bring stability to the digital asset.[6] Toggles between these protocols and HTLC (atomic swaps) according to Vespucci analyses on the VDex network.
 
@@ -80,13 +80,13 @@ A Hashed Timelock Contract (HTLC)[1] is a smart contract enabling the implementa
 
 ### 3.1 NETWORK TOPOLOGY
 
-#### 3.1.1 Nodes
+#### 3.1.1 Düğümler
 
-Nodes are the endpoints of the VDex exchange. Their functions are:
+Düğümler VDex borsasının son noktalarıdır. İşlevleri:
 
-1. Act as portals to VDex through the Verto wallet.
+1. Verto cüzdanı vasıtasıyla VDex'e portallar olarak rol yapın.
 
-2. Merge order book information.
+2. Sipariş bilgileri defterini birleştir.
 
 3. Settle order book.
 
