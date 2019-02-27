@@ -108,11 +108,11 @@ EOS.IO düşük gecikmeli blok onayına sahip (0.5 saniye).[5] Bu gecikme derece
 
 ### 3.2 EMİR KİTABI
 
-Emir defteri ilgili kullanıcılardan VDex kayıtları al-ve-sat emirlerinin listesidir. Eşleşen bir motor hangi emirlerin yerine getirilebileceğini belirlemek için bir emir defteri kullanır. The Loopring protocol allows for customizing the order book data structure.[5] Containers provided by EOS.IO can be used for optimal performance.[8]
+Emir defteri ilgili kullanıcılardan VDex kayıtları al-ve-sat emirlerinin listesidir. Eşleşen bir motor hangi emirlerin yerine getirilebileceğini belirlemek için bir emir defteri kullanır. Döngü protokolü, emir defteri veri yapısını özelleştirmeye izin verir.[5] EOS.IO tarafından sağlanan kaplar, optimum performans için kullanılabilir.[8]
 
-#### 3.2.1 Data structures
+#### 3.2.1 Veri yapıları
 
-Using the Loopring Protocol FIFO (first-in first-out) circular buffer, nodes can design their order books to display and match a user's order. This method follows an OTC model, where limit orders are positioned based on price only.[5] Referencing the EOS.IO persistence API, the order book is able to take advantage of the powerful multi-index container shared among nodes through the same EOS.IO account.
+Döngü Protokolü FIFO (ilk-giren ilk-çıkan) dairesel arabelleği kullanan düğümler, emir defterlerini bir kullanıcının emrini görüntülemek ve eşleştirmek için tasarlayabilir. This method follows an OTC model, where limit orders are positioned based on price only.[5] Referencing the EOS.IO persistence API, the order book is able to take advantage of the powerful multi-index container shared among nodes through the same EOS.IO account.
 
 #### 3.2.2 On-Chain order book
 
