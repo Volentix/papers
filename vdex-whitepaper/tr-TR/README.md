@@ -160,7 +160,7 @@ Phase 1. 5%. Early passive seed funders.
 
 Phase 2. 28%. Funders via qualified private pre-sales and possible public sale.
 
-3. Facilitators. (Advisors, Developers, Promoters, Custodians). Bu kategorideki alt kategorilerden yardım taleplerinin, projenin önemli miktarda finansman desteği almadan önce ve sonra önemli ölçüde farklılık gösterebileceğini unutmayın ancak bazı kişiler her iki aşamada da hizmet verebilir.
+3. Facilitators. (Danışmanlar, Geliştiriciler, Destekleyiciler, Saklayıcılar). Bu kategorideki alt kategorilerden yardım taleplerinin, projenin önemli miktarda finansman desteği almadan önce ve sonra önemli ölçüde farklılık gösterebileceğini unutmayın ancak bazı kişiler her iki aşamada da hizmet verebilir.
 
 1. Aşama %10.
 
@@ -170,7 +170,7 @@ Phase 2. 28%. Funders via qualified private pre-sales and possible public sale.
 
 #### 3.4.3 VTX Dağıtımı
 
-In light of market conditions at the time of this writing, Volentix is considering timing, means, and terms and conditions of VTX distribution as a function of private pre-sales and possible public sale. Lütfen güncellemeler için Web sitemizi izleyin.
+Bu yazım sırasındaki piyasa koşulları ışığında Volentix, VTX dağıtımının zamanlamasını, araçlarını ve şartlarını ve koşullarını özel satış öncesi ve olası kamu satışının bir fonksiyonu olarak görüyor. Lütfen güncellemeler için Web sitemizi izleyin.
 
 ### 3.5 EOS.IO PLATFORM DAĞITIMI
 
@@ -184,9 +184,9 @@ Decentralized applications allocate memory, CPU, bandwidth, and other resources 
 
 Multiple messages and multiple accounts can be assigned to the same thread.
 
-### 3.6 BLOCKCHAIN INTERACTION
+### 3.6 BLOK ZİNCİRİ ETKİLEŞİMİ
 
-#### 3.6.1 Inter-Blockchain Communication
+#### 3.6.1 Blok Zinciri-Arası İletişim
 
 EOS.IO is designed to make Inter-Blockchain Communication (IBC) proofs lightweight. For chains with insufficient capacity for processing the IBC proofs and establishing validity, there is an option to default to trusted oracles/escrows. With an EOS.IO-based smart contract, a trusted multi-signature wallet holding the asset in escrow can be used to persuade the signing/publishing of the transaction based on IBC proofs from the originating chain.
 
