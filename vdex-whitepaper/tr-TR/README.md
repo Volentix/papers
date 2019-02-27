@@ -166,13 +166,13 @@ Phase 2. 28%. Funders via qualified private pre-sales and possible public sale.
 
 2. Aşama %10.
 
-4. Merkezi olmayan hazine. %35. Topluluk üyeleri merkezi olmayan özerk bir organizasyonun (DAO) ilerici gelişimine katılım için teşvik edildi ve ödüllendirildi. A decentralized treasury is anticipated to be administered by smart contracts and community consensus.
+4. Merkezi olmayan hazine. %35. Topluluk üyeleri merkezi olmayan özerk bir organizasyonun (DAO) ilerici gelişimine katılım için teşvik edildi ve ödüllendirildi. Merkezi olmayan bir hazinenin akıllı sözleşmeler ve topluluk fikir birliği ile yönetilmesi bekleniyor.
 
-#### 3.4.3 VTX Distribution
+#### 3.4.3 VTX Dağıtımı
 
-In light of market conditions at the time of this writing, Volentix is considering timing, means, and terms and conditions of VTX distribution as a function of private pre-sales and possible public sale. Please monitor our website for updates.
+In light of market conditions at the time of this writing, Volentix is considering timing, means, and terms and conditions of VTX distribution as a function of private pre-sales and possible public sale. Lütfen güncellemeler için Web sitemizi izleyin.
 
-### 3.5 EOS.IO PLATFORM DEPLOYMENT
+### 3.5 EOS.IO PLATFORM DAĞITIMI
 
 The following considerations are relevant to our deploying the VDex exchange on the EOS.IO platform:
 
