@@ -86,15 +86,15 @@ Düğümler VDex borsasının son noktalarıdır. İşlevleri:
 
 1. Verto cüzdanı vasıtasıyla VDex'e portallar olarak rol yapın.
 
-2. Sipariş bilgileri defterini birleştir.
+2. Emir kitabı bilgilerini birleştir.
 
-3. Sipariş kitabını kapat.
+3. Emir kitabını kapat.
 
-4. Sipariş iptalini yönet.
+4. Emir iptalini yönet.
 
 5. RAFT protokolü için zaman aşımlarını atayın.
 
-6. Initiate contracts for orders that have been filled.
+6. Doldurulan emirler için sözleşmeleri başlat.
 
 Nodes earn a portion of the fee for each transaction. If a user has sufficient funds and possesses a good track record, his or her Verto wallet can act as a node.
 
