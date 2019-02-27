@@ -48,17 +48,17 @@ EOS contracts combine the human readability of JSON with the efficiency of binar
 
 ### Paralelleştirme ve optimizasyon
 
-Separating authentication from application allows faster transaction times and increases bandwidth. EOS.IO blocks are reportedly produced every 500ms.
+Separating authentication from application allows faster transaction times and increases bandwidth. EOS.IO bloklarının her 500ms'de bir üretildiği bildiriliyor.
 
 ### Web Meclisi(WASM)
 
-Web Assembly enables high-performance Web applications and also secures each application in its own sandbox, through which functionalities VDex can obtain network access, filesystem namespace restrictions, and enforced rule-based execution.
+Web Meclisi yüksek-performanslı Web uygulamalarını mümkün kılar ve aynı zamanda VDex'in ağ erişimi, dosya sistemi ad kısıtlamaları ve zorunlu kural-tabanlı yürütme sağladığı işlevsellikler sayesinde her uygulamayı kendi sanal alanında güvence altına alır.
 
-### Rust/C++ contracts
+### Rust/C++ sözleşmeleri
 
-The well-known and popular programming language C++ appears highly suitable for WASM. C++ has highly mature debugging support and libraries. The EOS codebase uses templates liberally, and C++ allows the use of templates and operator overloading to define a runtime cost-free validation of units. The program reinitializes to clean state at the start of every message, a distinct advantage that streamlines formulation of smart contracts. The WebAssembly framework automatically rejects any transaction addressing memory inaccurately. In case dynamic memory allocation is necessary, users can depart to smart pointers because EOS.IO contracts use C++14. It is noteworthy that the first implementation of PARSEC Directed Acyclic Graph (DAG) technology is expected to be in Rust.
+İyi bilinen ve popüler programlama dili C++ WASM için oldukça uygun görünüyor. C++ has highly mature debugging support and libraries. The EOS codebase uses templates liberally, and C++ allows the use of templates and operator overloading to define a runtime cost-free validation of units. The program reinitializes to clean state at the start of every message, a distinct advantage that streamlines formulation of smart contracts. The WebAssembly framework automatically rejects any transaction addressing memory inaccurately. In case dynamic memory allocation is necessary, users can depart to smart pointers because EOS.IO contracts use C++14. It is noteworthy that the first implementation of PARSEC Directed Acyclic Graph (DAG) technology is expected to be in Rust.
 
-#### 3.0.2 Schema defined messages and database
+#### 3.0.2 Şema tanımlı mesajlar ve veritabanı
 
 Service contracts are standardized to provide a baseline measure of interoperability between and among disparate systems by harmonization of data models. Indeed, the Standardized Service Contract design principle advocates that service contracts be based on standardized data models. Analysis is done on the service inventory blueprint to find out the commonly occurring business documents that are exchanged between services. These business documents are then modeled in a standardized manner. The Canonical Schema pattern reduces the need for application of the data model transformation design pattern. [3]
 
@@ -112,7 +112,7 @@ Emir defteri ilgili kullanıcılardan VDex kayıtları al-ve-sat emirlerinin lis
 
 #### 3.2.1 Veri yapıları
 
-Döngü Protokolü FIFO (ilk-giren ilk-çıkan) dairesel arabelleği kullanan düğümler, emir defterlerini bir kullanıcının emrini görüntülemek ve eşleştirmek için tasarlayabilir. This method follows an OTC model, where limit orders are positioned based on price only.[5] Referencing the EOS.IO persistence API, the order book is able to take advantage of the powerful multi-index container shared among nodes through the same EOS.IO account.
+Döngü Protokolü FIFO (ilk-giren ilk-çıkan) dairesel arabelleği kullanan düğümler, emir defterlerini bir kullanıcının emrini görüntülemek ve eşleştirmek için tasarlayabilir. Bu yöntem limit emirlerinin yalnızca fiyata göre konumlandırıldığı OTC modelini izler.[5] EOS.IO süreklilik API'ına atıfta bulunarak, emir kitabı, aynı EOS.IO hesabı üzerinden düğümler arasında paylaşılan çok dizinli güçlü kapsayıcıdan yararlanabilir.
 
 #### 3.2.2 On-Chain order book
 
