@@ -160,13 +160,13 @@ Phase 1. 5%. Early passive seed funders.
 
 Phase 2. 28%. Funders via qualified private pre-sales and possible public sale.
 
-3. Facilitators. (Advisors, Developers, Promoters, Custodians). Note that requirements for assistance from the sub-categories in this category may differ significantly before and after the project receives substantial funding support, but certain individuals may serve during both phases.
+3. Facilitators. (Advisors, Developers, Promoters, Custodians). Bu kategorideki alt kategorilerden yardım taleplerinin, projenin önemli miktarda finansman desteği almadan önce ve sonra önemli ölçüde farklılık gösterebileceğini unutmayın ancak bazı kişiler her iki aşamada da hizmet verebilir.
 
 1. Aşama %10.
 
 2. Aşama %10.
 
-4. Merkezi olmayan hazine. 35%. Community members incentivized and rewarded for participation in progressive development of a decentralized autonomous organization (DAO). A decentralized treasury is anticipated to be administered by smart contracts and community consensus.
+4. Merkezi olmayan hazine. %35. Topluluk üyeleri merkezi olmayan özerk bir organizasyonun (DAO) ilerici gelişimine katılım için teşvik edildi ve ödüllendirildi. A decentralized treasury is anticipated to be administered by smart contracts and community consensus.
 
 #### 3.4.3 VTX Distribution
 
