@@ -88,11 +88,11 @@ Düğümler VDex borsasının son noktalarıdır. İşlevleri:
 
 2. Sipariş bilgileri defterini birleştir.
 
-3. Settle order book.
+3. Sipariş kitabını kapat.
 
-4. Manage order cancellation.
+4. Sipariş iptalini yönet.
 
-5. Assign timeouts for the RAFT protocol.
+5. RAFT protokolü için zaman aşımlarını atayın.
 
 6. Initiate contracts for orders that have been filled.
 
