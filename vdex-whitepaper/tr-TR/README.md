@@ -182,13 +182,13 @@ Geliştiriciler akıllı bir sözleşme yapmak için EOS.IO-uyumlu tokenler kull
 
 Merkezi olmayan uygulamalar sözleşmelerine bellek, CPU, bant genişliği ve diğer kaynakları tahsis eder.
 
-Multiple messages and multiple accounts can be assigned to the same thread.
+Aynı konuya birden fazla mesaj ve birden fazla hesap atanabilir.
 
 ### 3.6 BLOK ZİNCİRİ ETKİLEŞİMİ
 
 #### 3.6.1 Blok Zinciri-Arası İletişim
 
-EOS.IO is designed to make Inter-Blockchain Communication (IBC) proofs lightweight. For chains with insufficient capacity for processing the IBC proofs and establishing validity, there is an option to default to trusted oracles/escrows. With an EOS.IO-based smart contract, a trusted multi-signature wallet holding the asset in escrow can be used to persuade the signing/publishing of the transaction based on IBC proofs from the originating chain.
+EOS.IO Blok Zincir-Arası İletişim (IBC) hafif kanıtlar yapmak için tasarlanmıştır. For chains with insufficient capacity for processing the IBC proofs and establishing validity, there is an option to default to trusted oracles/escrows. With an EOS.IO-based smart contract, a trusted multi-signature wallet holding the asset in escrow can be used to persuade the signing/publishing of the transaction based on IBC proofs from the originating chain.
 
 #### 3.6.2 Çoklu-Blok Zinciri Bilgisi
 
@@ -230,7 +230,7 @@ True randomisation of address space layout, route or utilizing varying lengths o
 
 #### 3.8.4 Günlük denetim
 
-Parsec does not rely on logs for the determination of consensus. On the other hand, RAFT will require this. In any case, Validator nodes will be designed to require minimal information To determine consensus as to minimize the transaction process time.
+Parsec fikir birliğinin tespiti için kayıtlara dayanmaz. On the other hand, RAFT will require this. In any case, Validator nodes will be designed to require minimal information To determine consensus as to minimize the transaction process time.
 
 #### 3.8.5 Transaction as Proof of Stake (TaPoS)
 
@@ -268,13 +268,13 @@ Timing attacks are a class of cryptographic attacks through which a third-party 
 
 Our focus on user experience is primary. We wish to make VTX and the four pillars of Volentix -- Venue, Verto, Vespucci, and VDex -- easily accessible to and useable by all those who wish to join our community. We expect the experience continually to be educational as well, with templates and simulators to support a superior UX/UI relationship.
 
-### 3.11 TRUE DECENTRALIZATION
+### 3.11 DOĞRU MERKEZSİZLEŞME
 
 EOS.IO is an open-source, scalable infrastructure for decentralized applications. Its goal is a fair and transparent block producer (BP) election process utilizing a democratic delegated proof of stake (DPoS) consensus. Particularly as such a system just begins to proliferate, there will be glitches. Therefore, some degree of retained centralization is inevitable and necessary. But our guiding philosophy is one of decentralization, and our ongoing efforts are targeted to promoting a reduction in dependence on central authority.
 
 For example, initially we plan to erect a system for electing nodes (when solving order books) that will not use a shared central clock or DPoS but instead will be based either on random timeouts for the determination of leaders in an election (RAFT) or on Directed Acyclic Graph (DAG) in the PARSEC protocol.
 
-### 3.12 SYSTEM RECOVERY
+### 3.12 SİSTEM KURTARMA
 
 The RAFT and PARSEC protocols provide a robust system for recovery in the case of node failure. Security measures are also provided for trading between and among native blockchains. If a chain defies identification, the system defaults to the next block or a short time lock.
 
@@ -286,21 +286,21 @@ Daily announcements of fresh code developments impacting on use of digital asset
 
 All of us at Volentix are dedicating our work and insights to developing a program premised on empowerment and independence. If you are of a mind to join us, in whatever capacity, then please do so and please become educated on the topics contained in this white paper and additional Volentix publications as we share them with our community.
 
-## 5. TIMELINE
+## 5. ZAMAN ÇİZELGESİ
 
-Please monitor our website and social media for updates and other important announcements. Thank you very much for your attention and interest.
+Please monitor our website and social media for updates and other important announcements. İlginiz ve dikkatiniz için çok teşekkür ederiz.
 
-## DISCLAIMER
+## FERAGATNAME
 
 This white paper was prepared, and is presented, for information purposes only. The information presented does not purport to be comprehensive. The information is subject to change in whole or in part at any time without notice. Volentix Labs reserves the right to amend, replace, remove, or delete any and all information at the sole and exclusive discretion of Volentix. Volentix Labs makes no representation or warranty, expressed or implied, concerning the accuracy or completeness of the information and expressly disclaims any and all liability of any and all kinds whatsoever for the information contained or not contained. Volentix Labs requests each and every reader to read the information fully and carefully, and to undertake independent investigation and analysis of the information, and to seek and obtain professional advice for purposes of evaluating the information. To the knowledge of Volentix Labs, no regulatory agency, government, or other third-party enforcement entity has reviewed, evaluated, or approved any part or all of the information. This information is not an offer or solicitation of any kind whatsoever and does not form the basis for any contract or commitment of any kind whatsoever. Any statement considered to be forward-looking is purely a matter of opinion, and no viewer should rely on any such statement or on any part or all of the information in any way whatsoever.
 
-## FOOTNOTES
+## DİPNOTLARI
 
 1. K. Kurokawa, Atomic cross chain transfer, an overview, (2015).
 
-2. EOS.IO, Eos.io technical white paper v2, (2018).
+2. EOS.IO, Eos.io teknik tanıtım belgesi v2, (2018).
 
-3. . T. Earl, Soa principles of service design, (2016).
+3. . T. Earl, Soa hizmet tasarım ilkeleri, (2016).
 
 4. blockchainhub.net, blockchain-oracles, (2017).
 
@@ -308,7 +308,7 @@ This white paper was prepared, and is presented, for information purposes only. 
 
 6. G. B. Eyal Hertzog, Guy Benartzi, Bancor protocol: Continuous liquidity for cryptographic tokens through their smart contracts, (2018).
 
-7. L. Lamport, The part time parliament, (1998).
+7. L. Lamport, yarı zamanlı parlamento, (1998).
 
 8. D. Larimer, eosio.boot telegram chat, (2018).
 
