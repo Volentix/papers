@@ -174,13 +174,13 @@ Bu yazım sırasındaki piyasa koşulları ışığında Volentix, VTX dağıtı
 
 ### 3.5 EOS.IO PLATFORM DAĞITIMI
 
-The following considerations are relevant to our deploying the VDex exchange on the EOS.IO platform:
+Aşağıdaki hususlar EOS.IO platformunda VDex değiş tokuşunu uygulamamızla ilgilidir:
 
-Deploying a contract has a cost but is free to use.
+Bir sözleşmeyi dağıtmanın bir bedeli vardır ancak kullanımı ücretsizdir.
 
-Developers stake EOS.IO-compliant tokens to deploy a smart contract. After the contract is deployed, the locked tokens are returned.
+Geliştiriciler akıllı bir sözleşme yapmak için EOS.IO-uyumlu tokenler kullanır. Sözleşme dağıtıldıktan sonra, kilitli tokenler iade edilir.
 
-Decentralized applications allocate memory, CPU, bandwidth, and other resources to their contracts.
+Merkezi olmayan uygulamalar sözleşmelerine bellek, CPU, bant genişliği ve diğer kaynakları tahsis eder.
 
 Multiple messages and multiple accounts can be assigned to the same thread.
 
@@ -190,17 +190,17 @@ Multiple messages and multiple accounts can be assigned to the same thread.
 
 EOS.IO is designed to make Inter-Blockchain Communication (IBC) proofs lightweight. For chains with insufficient capacity for processing the IBC proofs and establishing validity, there is an option to default to trusted oracles/escrows. With an EOS.IO-based smart contract, a trusted multi-signature wallet holding the asset in escrow can be used to persuade the signing/publishing of the transaction based on IBC proofs from the originating chain.
 
-#### 3.6.2 Multi-Blockchain Information
+#### 3.6.2 Çoklu-Blok Zinciri Bilgisi
 
 Comprehensible multi-blockchain information can be obtained by aggregating blockchain timelines in parallel order (with variance in the frequency of change of state). This system can trigger multi-chain load balancers, transfer states, draw data outputs from smart contracts, and foreign blockchain transaction execution. Relative block distance, relative global state, and timestamped events are recorded on a global ledger to optimize and confirm transactions before they actually happen on the native chain. This approach could also be used to determine block production coincidence between chains to access greater liquidity.[12]
 
-### 3.7 SECURITY CONCERNS
+### 3.7 GÜVENLİK ENDİŞELERİ
 
 To shake out certain assumptions, we intend to commence security testing following the prototyping phase. Security concerns are of paramount importance to users and must be addressed. Threats include, for example, an attacker executing malicious code within a transaction or manipulating the order of transactions or the timestamps of blocks. In the following sections, we address certain security measures and specific security threats and remedies.
 
-### 3.8 SECURITY MEASURES
+### 3.8 GÜVENLİK ÖNLEMLERİ
 
-#### 3.8.1 Contract security
+#### 3.8.1 Güvenlik sözleşmesi
 
 Retain vast majority of funds in a time-delayed, multi-signature-controlled account.
 
@@ -214,21 +214,21 @@ Deploy a custom contract that requires a mandatory 24-hour waiting period for al
 
 Utilize contracts with hardware wallets for all signing, including for automated withdrawals.
 
-Upgrade broken contracts.
+Bozuk sözleşmeleri yükseltin.
 
 Include ability to pause the functionality of a contract.
 
 Include ability to delay an action of a contract.
 
-#### 3.8.2 Auditing rogue processes
+#### 3.8.2 Hileli işlemleri denetleme
 
-The advanced anomaly detection algorithms provided by Numenta's Nupic library will require less voluminous training data sets than conventional AI systems.
+Numenta'nın Nupic kütüphanesi tarafından sağlanan gelişmiş anomali tespit algoritmaları geleneksel AI sistemlerine göre daha az hacimli eğitim veri setleri gerektirecektir.
 
-#### 3.8.3 Randomization
+#### 3.8.3 Rasgeleleştirme
 
 True randomisation of address space layout, route or utilizing varying lengths of timeouts as in the RAFT protocol can complexify systems enough to enhance resilience and further secure systems against a side-channel attack or front running.
 
-#### 3.8.4 Log inspection
+#### 3.8.4 Günlük denetim
 
 Parsec does not rely on logs for the determination of consensus. On the other hand, RAFT will require this. In any case, Validator nodes will be designed to require minimal information To determine consensus as to minimize the transaction process time.
 
