@@ -340,9 +340,9 @@ Komodo, Özgürlük odaklı, gelişmiş bir blok zinciri teknolojisi, (2018).
 
 Q. Likit, Likit olmayan kripto ekonomisine likidite sağlanması, (2018).
 
-S. R. M.P.M-S, Aniket Kate Matteo Maffei, Concurrency and privacy with payment-channel networks, (2017).
+S. R. M.P.M-S, Aniket Kate Matteo Maffei, Ödeme kanalı ağlarıyla eş zamanlılık ve gizlilik, (2017).
 
-SingularityNET, A decentralized, open market and inter-network for ais, (2018).
+SingularityNET, Bir merkezi olmayan, açık pazar ve ais için ağlar arası, (2018).
 
 M. M. Timo Hanke and D. Williams, Dfinity technology overview series consensus system, (2018).
 
