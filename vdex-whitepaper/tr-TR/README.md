@@ -1,4 +1,4 @@
-# THE VOLENTIX VDEX WHITE PAPER
+# VOLENTIX VDEX TANITIM BELGESİ
 
 - Sürüm: 0.1.4
 - Güncellendi: 10-24-2018
@@ -114,7 +114,7 @@ Emir defteri ilgili kullanıcılardan VDex kayıtları al-ve-sat emirlerinin lis
 
 Döngü Protokolü FIFO (ilk-giren ilk-çıkan) dairesel arabelleği kullanan düğümler, emir defterlerini bir kullanıcının emrini görüntülemek ve eşleştirmek için tasarlayabilir. Bu yöntem limit emirlerinin yalnızca fiyata göre konumlandırıldığı OTC modelini izler.[5] EOS.IO süreklilik API'ına atıfta bulunarak, emir kitabı, aynı EOS.IO hesabı üzerinden düğümler arasında paylaşılan çok dizinli güçlü kapsayıcıdan yararlanabilir.
 
-#### 3.2.2 On-Chain order book
+#### 3.2.2 Zincir-İçi emir kitabı
 
 An on-chain order book is a record of offers residing on the wallet (node) chosen to settle the order book. It resides in a persistent database on each node subscribing to the same account as all the other nodes.
 
@@ -126,15 +126,15 @@ Residing on the aggregator, offline order books serve for simulator and security
 
 For decentralization purposes, nodes will take turns to settle the order book. The settling node must be designated by the protocol and all order book entries from all nodes must be available to the settling nodes. We believe the RAFT[9] and PARSEC[10] consensus mechanisms offer effective solutions. RAFT is a well-established algorithm and is easy to implement.[7] PARSEC is more recent and more efficient, using Directed Acyclic Graph (DAG) technology and eliminating the need for copying logs.
 
-### 3.3 ORDER SETTLEMENT
+### 3.3 EMİR VERME
 
-Order settlement contains familiar elements of conventional financial market transactions. Utilizing FIFO technology to design the order book, VDex intends to check order, inventory, and fill rate, as well as limit orders and cancellations.
+Emir verme geleneksel finansal piyasa işlemlerinin bilinen öğelerini içerir. Utilizing FIFO technology to design the order book, VDex intends to check order, inventory, and fill rate, as well as limit orders and cancellations.
 
 ### 3.4 VTX
 
-#### 3.4.1 VTX Issuance and Use
+#### 3.4.1 VTX Çıkarma ve Kullanımı
 
-VTX is the native digital asset to be issued and used on the VDex decentralized exchange. We currently plan to use an eosio.token contract from the EOS.IO framework to issue 2.1 billion EOS.IO-compliant VTX tokens with a supply of 1.3 billion. VTX will have a diverse array of uses, for example:
+VTX is the native digital asset to be issued and used on the VDex decentralized exchange. We currently plan to use an eosio.token contract from the EOS.IO framework to issue 2.1 billion EOS.IO-compliant VTX tokens with a supply of 1.3 billion. VTX çeşitli kullanım alanlarına sahip olacaktır, örneğin:
 
 To reward participants in the consensus process and in Venue campaigns.
 
