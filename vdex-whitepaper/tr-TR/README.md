@@ -114,11 +114,11 @@ Emir defteri ilgili kullanıcılardan VDex kayıtları al-ve-sat emirlerinin lis
 
 Döngü Protokolü FIFO (ilk-giren ilk-çıkan) dairesel arabelleği kullanan düğümler, emir defterlerini bir kullanıcının emrini görüntülemek ve eşleştirmek için tasarlayabilir. Bu yöntem limit emirlerinin yalnızca fiyata göre konumlandırıldığı OTC modelini izler.[5] EOS.IO süreklilik API'ına atıfta bulunarak, emir kitabı, aynı EOS.IO hesabı üzerinden düğümler arasında paylaşılan çok dizinli güçlü kapsayıcıdan yararlanabilir.
 
-#### 3.2.2 Zincir-İçi emir kitabı
+#### 3.2.2 Açık-Zincir emir kitabı
 
 An on-chain order book is a record of offers residing on the wallet (node) chosen to settle the order book. It resides in a persistent database on each node subscribing to the same account as all the other nodes.
 
-#### 3.2.3 Off-Chain order book
+#### 3.2.3 Kapalı-Zincir emir kitabı
 
 Residing on the aggregator, offline order books serve for simulator and security purposes.
 
@@ -136,7 +136,7 @@ Emir verme geleneksel finansal piyasa işlemlerinin bilinen öğelerini içerir.
 
 VTX is the native digital asset to be issued and used on the VDex decentralized exchange. We currently plan to use an eosio.token contract from the EOS.IO framework to issue 2.1 billion EOS.IO-compliant VTX tokens with a supply of 1.3 billion. VTX çeşitli kullanım alanlarına sahip olacaktır, örneğin:
 
-To reward participants in the consensus process and in Venue campaigns.
+Fikir birliği sürecinde ve Mekan kampanyalarında katılımcıları ödüllendirmek için.
 
 To pay and redistribute transaction fees on the VDex exchange.
 
@@ -148,19 +148,19 @@ To incentivize users to participate in order book settlement by becoming nodes v
 
 To incentivize users to lock funds in for \>24 hours by HTLC time-bound transactions.
 
-#### 3.4.2 VTX Allocation
+#### 3.4.2 VTX Tahsisi
 
 A digital assets ecosystem requires an array of certain fundamental human constituents who shepherd the project forward.[11] It is essential to compensate those individuals for their participation. Subject to adjustment, Volentix currently anticipates the following allocations:
 
-1. Contributors. 12%. An array of individuals, akin to founders, who contribute insights, time and talent, though often work without early compensation.
+1. Katkıda Bulunanlar. %12. An array of individuals, akin to founders, who contribute insights, time and talent, though often work without early compensation.
 
-2. Supporters.
+2. Destekçiler.
 
-Phase 1. 5%. Early passive seed funders.
+1. Aşama %5. Erken pasif tohum fon sağlayıcıları.
 
-Phase 2. 28%. Funders via qualified private pre-sales and possible public sale.
+2. Aşama %28. Nitelikli özel ön satışlar ve olası kamu satışları aracılığıyla fon verenler.
 
-3. Facilitators. (Danışmanlar, Geliştiriciler, Destekleyiciler, Saklayıcılar). Bu kategorideki alt kategorilerden yardım taleplerinin, projenin önemli miktarda finansman desteği almadan önce ve sonra önemli ölçüde farklılık gösterebileceğini unutmayın ancak bazı kişiler her iki aşamada da hizmet verebilir.
+3. Yardımcılar. (Danışmanlar, Geliştiriciler, Destekleyiciler, Saklayıcılar). Bu kategorideki alt kategorilerden yardım taleplerinin, projenin önemli miktarda finansman desteği almadan önce ve sonra önemli ölçüde farklılık gösterebileceğini unutmayın ancak bazı kişiler her iki aşamada da hizmet verebilir.
 
 1. Aşama %10.
 
@@ -196,7 +196,7 @@ Comprehensible multi-blockchain information can be obtained by aggregating block
 
 ### 3.7 GÜVENLİK ENDİŞELERİ
 
-To shake out certain assumptions, we intend to commence security testing following the prototyping phase. Security concerns are of paramount importance to users and must be addressed. Threats include, for example, an attacker executing malicious code within a transaction or manipulating the order of transactions or the timestamps of blocks. In the following sections, we address certain security measures and specific security threats and remedies.
+Bazı varsayımları ortadan kaldırmak için prototip aşamasını takiben, güvenlik testine başlamak istiyoruz. Security concerns are of paramount importance to users and must be addressed. Threats include, for example, an attacker executing malicious code within a transaction or manipulating the order of transactions or the timestamps of blocks. In the following sections, we address certain security measures and specific security threats and remedies.
 
 ### 3.8 GÜVENLİK ÖNLEMLERİ
 
@@ -232,13 +232,13 @@ True randomisation of address space layout, route or utilizing varying lengths o
 
 Parsec fikir birliğinin tespiti için kayıtlara dayanmaz. On the other hand, RAFT will require this. In any case, Validator nodes will be designed to require minimal information To determine consensus as to minimize the transaction process time.
 
-#### 3.8.5 Transaction as Proof of Stake (TaPoS)
+#### 3.8.5 Alım Kanıtı olarak İşlem (TaPoS)
 
 This mechanism prevents the replay of a transaction on forks that do not include the referenced block. Signals the network that a particular user and stake are on a specific fork.
 
 ### 3.9 Security threats and remedies
 
-#### 3.9.1 Double spend
+#### 3.9.1 Çifte harcama
 
 A double spend is an attack in which a particular cryptocurrency stake is spent in more than one transaction.
 
@@ -248,11 +248,11 @@ A Finney attack pre-mines one transaction into a block and spends the same token
 
 A 51% attack can be mounted by anyone owning \>50% of the total computing power of a network. A majority ownership position permits reversal of any transaction and allows total control of selection of transactions appearing in blocks. EOS.IO, Loopring, and RAFT appear to prevent this problem. If a block producer takes an unreasonable amount of runtime or is not sufficiently profitable, then the process is blacklisted.[5]
 
-#### 3.9.2 Front running
+#### 3.9.2 Ön koşu
 
 A front runner steals one or more orders from a pending order book settlement transaction. Both EOS.IO and Loopring offer remedies in which keys are protected because they are not part of the on-chain transaction, and therefore remain unknown to parties other than the owner. Only the order book settling node is possessed of the sensitive information, and each node uses a different solution for resolving the order books, introducing yet another level of complexity to promote security.
 
-#### 3.9.3 Forged identities
+#### 3.9.3 Sahte kimlikler
 
 Malicious users create forged identities to send a large number of small orders to attack Loopring nodes. However, most of these orders will be rejected for not yielding satisfying profit when matched.
 
