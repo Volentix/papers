@@ -318,21 +318,21 @@ This white paper was prepared, and is presented, for information purposes only. 
 
 11. Dane Keller Rutledge, Dijital Varlıklar Ekosisteminin (DAE) Temel İnsan Bileşenleri. (2018).
 
-12. BlockColliderTeam, Block collider white paper, (2018).
+12. BlockColliderTeam, Blok çarpıştırıcısı tanıtım belgesi, (2018).
 
-## SUPPLEMENTAL REFERENCES
+## EK REFERANSLAR
 
-Aelf, A multi-chain parallel computing blockchain framework, (2018).
+Aelf, Bir çoklu-zincir paralel hesaplama blok zinciri çatısı, (2018).
 
-ARK, A platform for consumer adoption, (2018).
+ARK, Tüketici kabulü için bir platform, (2018).
 
-V. Buterin, Ethereum: a next generation smart contract and decentralized application platform, (2013).
+V. Buterin, Ethereum: yeni nesil akıllı sözleşme ve merkezi olmayan bir uygulama platformu, (2013).
 
 S. Cormier, A machine based societal model for curbing citizen cynicism, (2017).
 
-M. Duncan, Quale, Halo platform, (2018).
+M. Duncan, Quale, Halo platformu, (2018).
 
-S. D. K. M. T. S. H. Garcia-Molina, The eigentrust algorithm for reputation management in p2p networks, (2018).
+S. D. K. M. T. S. H. Garcia-Molina, P2p ağlarında itibar yönetimi için eigentrust algoritması, (2018).
 
 M. R. Garrick Hileman, Global cryptocurrency benchmarking study, (2017).
 
