@@ -334,11 +334,11 @@ M. Duncan, Quale, Halo platformu, (2018).
 
 S. D. K. M. T. S. H. Garcia-Molina, P2p ağlarında itibar yönetimi için eigentrust algoritması, (2018).
 
-M. R. Garrick Hileman, Global cryptocurrency benchmarking study, (2017).
+M. R. Garrick Hileman, Küresel kripto para birimi kıyaslama çalışması, (2017).
 
-Komodo, An advanced blockchain technology, focused on freedom, (2018).
+Komodo, Özgürlük odaklı, gelişmiş bir blok zinciri teknolojisi, (2018).
 
-Q. Liquid, Providing liquidity to the non-liquid crypto economy, (2018).
+Q. Likit, Likit olmayan kripto ekonomisine likidite sağlanması, (2018).
 
 S. R. M.P.M-S, Aniket Kate Matteo Maffei, Concurrency and privacy with payment-channel networks, (2017).
 
