@@ -246,7 +246,7 @@ This mechanism prevents the replay of a transaction on forks that do not include
 
 A Finney attack pre-mines one transaction into a block and spends the same tokens before releasing the block to invalidate that transaction.
 
-A 51% attack can be mounted by anyone owning \>50% of the total computing power of a network. A majority ownership position permits reversal of any transaction and allows total control of selection of transactions appearing in blocks. EOS.IO, Loopring ve RAFT bu problemi önlüyor gibi görünüyor. If a block producer takes an unreasonable amount of runtime or is not sufficiently profitable, then the process is blacklisted.[5]
+Bir ağın toplam bilgi işlem gücünün \>%50'sine sahip olan herhangi biri tarafından %51 saldırısı gerçekleştirilebilir. A majority ownership position permits reversal of any transaction and allows total control of selection of transactions appearing in blocks. EOS.IO, Loopring ve RAFT bu problemi önlüyor gibi görünüyor. Eğer bir blok üreticisi makul olmayan miktarda bir çalışma süresi alırsa veya yeterince karlı değilse, işlem kara listeye alınır.[5]
 
 #### 3.9.2 Ön koşu
 
@@ -282,7 +282,7 @@ The RAFT and PARSEC protocols provide a robust system for recovery in the case o
 
 Daily announcements of fresh code developments impacting on use of digital assets reveal the tremendous benefit of the open-source code philosophy. We at Volentix recognize we are the beneficiaries of the enormous financial resources dedicated by many early movers to developing digital assets applications over the past decade. We now have an opportunity to take the next step by creating VDex, a decentralized exchange for the next generation of digital assets transactions.
 
-## 4. CONCLUDING THOUGHTS
+## 4. SON DÜŞÜNCELER
 
 All of us at Volentix are dedicating our work and insights to developing a program premised on empowerment and independence. If you are of a mind to join us, in whatever capacity, then please do so and please become educated on the topics contained in this white paper and additional Volentix publications as we share them with our community.
 
@@ -310,13 +310,13 @@ This white paper was prepared, and is presented, for information purposes only. 
 
 7. L. Lamport, yarı zamanlı parlamento, (1998).
 
-8. D. Larimer, eosio.boot telegram chat, (2018).
+8. D. Larimer, eosio.boot telegram sohbeti, (2018).
 
-9. J. O. Diego Ongaro, In search of an understandable consensus algorithm, (2018).
+9. J. O. Diego Ongaro, Anlaşılabilir bir fikir birliği algoritması arayışı içinde, (2018).
 
-10. F. H. Q. M. S. S. Pierre Chevalier, Bart lomiej KamiÂťnski, Protocol for asynchronous, reliable, secure and efficient consensus (parsec), (2018).
+10. F. H. Q. M. S. S. Pierre Chevalier, Bart lomiej KamiÂťnski, Eş zamanlı olmayan, dürüst, güvenli ve verimli bir fikir birliği için protokol (parsec), (2018).
 
-11. Dane Keller Rutledge, Fundamental Human Constituents of a Digital Assets Ecosystem (DAE). (2018).
+11. Dane Keller Rutledge, Dijital Varlıklar Ekosisteminin (DAE) Temel İnsan Bileşenleri. (2018).
 
 12. BlockColliderTeam, Block collider white paper, (2018).
 
