@@ -14,9 +14,9 @@ The VDex launch point anticipates matching Volentix's design requirements to ava
 
 The Volentix ecosystem will exist atop four pillars, an initializing array of applications specifically known as Venue, Verto, Vespucci, and VDex.
 
-### 2.1 MEKAN
+### 2.1 VENUE
 
-Mekan, Volentix ekosisteminin yerel dijital varlığı olan VTX'in dağıtımını kolaylaştırmak ve Volentix girişimlerinin farkındalığını arttırmak için Volentix topluluğunun üyelerini işe alan ve hizalayan dinamik bir topluluk platformu olarak planlanmıştır. Recently launched in beta testing, Venue enables users to receive VTX in exchange, for example, for participating in developing dedicated communities, submitting bug fixes, and claiming bounties. Leaderboards and live metrics reflect user participation. The first signature campaign was launched on the https://bitcointalk.org/ forum on July 13, 2018. Please visit https://venue.volentix.io for more information.
+Venue, Volentix ekosisteminin yerel dijital varlığı olan VTX'in dağıtımını kolaylaştırmak ve Volentix girişimlerinin farkındalığını arttırmak için Volentix topluluğunun üyelerini işe alan ve hizalayan dinamik bir topluluk platformu olarak planlanmıştır. Recently launched in beta testing, Venue enables users to receive VTX in exchange, for example, for participating in developing dedicated communities, submitting bug fixes, and claiming bounties. Leaderboards and live metrics reflect user participation. The first signature campaign was launched on the https://bitcointalk.org/ forum on July 13, 2018. Please visit https://venue.volentix.io for more information.
 
 ![](../main3-3000px.jpg)
 
@@ -136,7 +136,7 @@ Emir verme geleneksel finansal piyasa işlemlerinin bilinen öğelerini içerir.
 
 VTX is the native digital asset to be issued and used on the VDex decentralized exchange. We currently plan to use an eosio.token contract from the EOS.IO framework to issue 2.1 billion EOS.IO-compliant VTX tokens with a supply of 1.3 billion. VTX çeşitli kullanım alanlarına sahip olacaktır, örneğin:
 
-Fikir birliği sürecinde ve Mekan kampanyalarında katılımcıları ödüllendirmek için.
+Fikir birliği sürecinde ve Venue kampanyalarında katılımcıları ödüllendirmek için.
 
 To pay and redistribute transaction fees on the VDex exchange.
 
@@ -236,7 +236,7 @@ Parsec fikir birliğinin tespiti için kayıtlara dayanmaz. On the other hand, R
 
 This mechanism prevents the replay of a transaction on forks that do not include the referenced block. Signals the network that a particular user and stake are on a specific fork.
 
-### 3.9 Security threats and remedies
+### 3.9 Güvenlik tehditleri ve çözüm yolları
 
 #### 3.9.1 Çifte harcama
 
@@ -256,17 +256,17 @@ A front runner steals one or more orders from a pending order book settlement tr
 
 Malicious users create forged identities to send a large number of small orders to attack Loopring nodes. However, most of these orders will be rejected for not yielding satisfying profit when matched.
 
-#### 3.9.4 Insufficient Balance
+#### 3.9.4 Yetersiz Bakiye
 
 Malicious users sign and spread orders the value of which is non-zero but the address of which has a zero balance. Nodes monitor actual balances, update these order states accordingly, and then discard them.
 
-#### 3.9.5 Timing attack
+#### 3.9.5 Zamanlama saldırısı
 
 Timing attacks are a class of cryptographic attacks through which a third-party observer can deduce the content of encrypted data by recording and analyzing the time taken to execute cryptographic algorithms. The RAFT algorithm prevents timing attacks by using randomness of timeouts.
 
-### 3.10 USER EXPERIENCE
+### 3.10 KULLANICI DENEYİMİ
 
-Our focus on user experience is primary. We wish to make VTX and the four pillars of Volentix -- Venue, Verto, Vespucci, and VDex -- easily accessible to and useable by all those who wish to join our community. We expect the experience continually to be educational as well, with templates and simulators to support a superior UX/UI relationship.
+Kullanıcı deneyimine odaklanmamız önceliklidir. VTX ve Volentix'in dört ayağını -- Venue, Verto, Vespucci ve VDex -- topluluğumuza katılmak isteyen herkes tarafından kolayca erişilebilir ve kullanılabilir hale getirmek istiyoruz. We expect the experience continually to be educational as well, with templates and simulators to support a superior UX/UI relationship.
 
 ### 3.11 DOĞRU MERKEZSİZLEŞME
 
