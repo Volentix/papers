@@ -8,11 +8,11 @@
 
 Volentix introduceert VDex, ontworpen als een gedistribueerd, gedecentraliseerd digitaal-vermogen exchange, met nadruk op gebruikerservaring, en gemeenschapsontwikkeling en bestuur. Door toegang tot gevestigde technologieën en het plannen van selectieve nieuwe protocollen met de nadruk op beveiliging, snelheid, verificatie, gebruiksgemak, schaalbaarheid, en multi-asset ondersteuning, wil VDex peer-to-peer transacties vergemakkelijken door het samenstellen van een portfolio van gedecentraliseerde toepassingen gebouwd op EOS. IO smart contracts.
 
-The VDex launch point anticipates matching Volentix's design requirements to available technologies superimposed on the EOS.IO decentralized operating system. We intend to test our assumptions by prototyping via custom EZEOS software, which we built and customized with EOS.IO's cleos command line tools. This software resides at: https://github.com/Volentix/ezeos
+Het VDex-startpunt verwacht aanpassing aan de ontwerpvereisten van Volentix aan beschikbare technologieën bovenop het EOS.IO gedecentraliseerde besturingssysteem. We zijn van plan onze aannames te testen door het prototypen via aangepaste EZEOS software, die we hebben gebouwd en aangepast met de cleos command line tools van EOS.IO. Deze software is te vinden op: https://github.com/Volentix/ezeos
 
 ## 2. VOLENTIX
 
-The Volentix ecosystem will exist atop four pillars, an initializing array of applications specifically known as Venue, Verto, Vespucci, and VDex.
+Het Volentix-ecosysteem zal bovenop vier pijlers bestaan, een initialiserende reeks toepassingen die specifiek bekend staan als: Venue, Verto, Vespucci, en VDex.
 
 ### 2.1 VENUE
 
