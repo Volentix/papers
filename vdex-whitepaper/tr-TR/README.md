@@ -240,7 +240,7 @@ This mechanism prevents the replay of a transaction on forks that do not include
 
 #### 3.9.1 Çifte harcama
 
-A double spend is an attack in which a particular cryptocurrency stake is spent in more than one transaction.
+Çifte harcama belirli bir kripto para birimi hissesinin birden fazla işlemde harcandığı bir saldırıdır.
 
 A race attack occurs when two conflicting transactions are sent in rapid succession into the network.
 
