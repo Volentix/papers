@@ -344,12 +344,12 @@ S. R. M.P.M-S, Aniket Kate Matteo Maffei, Ödeme kanalı ağlarıyla eş zamanl�
 
 SingularityNET, Bir merkezi olmayan, açık pazar ve ais için ağlar arası, (2018).
 
-M. M. Timo Hanke and D. Williams, Dfinity technology overview series consensus system, (2018).
+M. M. Timo Hanke ve D. Williams, Dfinity teknolojisine genel bakış serisi fikir birliği sistemi, (2018).
 
-A. B. Will Warren, 0x: An open protocol for decentralized exchange on the ethereum blockchain, (2017).
+A. B. Will Warren, 0x: Ethereum blok zinciri üzerindeki merkezi olmayan borsa için açık bir protokol, (2017).
 
 G. Wood, Ethereum: A secure decentralised generalised transaction ledger.ethereum project yellow paper, (2014).
 
 Dane Keller Rutledge, Creating a Comprehensive Digital Assets Ecosystem (DAE), (2018).
 
-## END OF PAPER
+## BELGENİN SONU
