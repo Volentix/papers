@@ -6,7 +6,7 @@ The relatively recent explosion of cryptocurrencies has attracted a lot of popul
 
 * ### **GENEL BAKIŞ**
 
-Vespucci Volentix ekosisteminin parçasıdır. In particular, it implements one of the main pillars of the Volentix ecosystem, of which VDex is the fulcrum. VDex is a decentralized exchange with the user and community in mind. Vespucci, besides being a digital asset audit and assessment utility accessible to non-experts, it is also a tool to chart and juxtapose tradeable digital assets. Moreover, it provides a dashboard for cryptocurrencies’ activity in the digital world.
+Vespucci Volentix ekosisteminin parçasıdır. In particular, it implements one of the main pillars of the Volentix ecosystem, of which VDex is the fulcrum. VDex kullanıcı ve akılda olan topluluk ile merkezi olmayan bir borsadır. Vespucci, besides being a digital asset audit and assessment utility accessible to non-experts, it is also a tool to chart and juxtapose tradeable digital assets. Moreover, it provides a dashboard for cryptocurrencies’ activity in the digital world.
 
 Our primary goal is to offer all users of digital assets an intuitive analytical agent and rating system for digital assets, merging the following aspects (see figure below):
 
@@ -53,12 +53,12 @@ The features of Vespucci are as follows.
 Vespucci is designed under the following principles.
 
 * Objective in order not to risk compromising the Volentix DAO goodwill before it is established beyond any doubt
-* Automated
-* In demand
-* Decentralized implementation
-* Open-source
+* Otomatikleştirilmiş
+* Aranılan
+* Merkezi olmayan uygulama
+* Açık Kaynak
 * Intuitive
-* #### **HOW VESPUCCI WORKS**
+* #### **VESPUCCI NASIL ÇALIŞIR**
 
 The three pillars are described in the following subsections. In these subsections a large number of criteria is mentioned. The results of the SA component is made available along with the Technical and FTA results to the users so they can access a complete 360 view of each coin’s state, rank and ultimately understand the coin’s true value and potential. ‪An evaluation of both established cryptocurrencies and known “scam-coins” is performed, and the resulting parameters deemed most relevant in determining cryptocurrency validity is integrated into the system.
 
