@@ -1,12 +1,12 @@
-# Vespucci Whitepaper
+# Vespucci Tanıtım Belgesi
 
-### **ABSTRACT**
+### **ÖZET**
 
 The relatively recent explosion of cryptocurrencies has attracted a lot of popularity and more people are becoming aware of the benefits over fiat currency. The ever-increasing number of platforms that support cryptocurrencies and allow for transactions between a wide variety of products and services attract many users forming a new, dynamic generation of traders, for whom the intricacies of the blockchain technology are transparent. To navigate the complex world of cryptocurrencies, new users, along with experienced investors, would greatly benefit from a system that evaluates cryptocurrencies and creates a ranking that can be used as an investing guide, to be personalized with user-defined parameters. Vespucci is a new system that goes beyond the aforementioned functionalities. In particular, it monitors the evolution of blockchain and cryptocurrency markets and, by harnessing the power of cutting-edge AI and Machine Learning technolo gy, delivers unbiased, robust and up-to-date rankings that represent the real value of a very wide spectrum of coins so as to, eventually, act as a predictor of their future course. This ranking system is complete in the sense that it draws from a very large set of sources, categorized into three pillars, namely, sentiment analysis, fundamental and technological analysis, and technical analysis. Vespucci is part of the integrated ecosystem of Volentix, built around the decentralized exchange platform VDex; the latter employs a collection of smart EOS.IO contracts to establish quick and secure transactions, user anonymity, liquidity, scalability, performance, and estimation of profit margin. This whit e paper presents an in-depth overview of how Vespucci works, including a discussion of several technical aspects, and also highlights the different ways it can be used.
 
-* ### **OVERVIEW**
+* ### **GENEL BAKIŞ**
 
-Vespucci is part of the Volentix ecosystem. In particular, it implements one of the main pillars of the Volentix ecosystem, of which VDex is the fulcrum. VDex is a decentralized exchange with the user and community in mind. Vespucci, besides being a digital asset audit and assessment utility accessible to non-experts, it is also a tool to chart and juxtapose tradeable digital assets. Moreover, it provides a dashboard for cryptocurrencies’ activity in the digital world.
+Vespucci Volentix ekosisteminin parçasıdır. In particular, it implements one of the main pillars of the Volentix ecosystem, of which VDex is the fulcrum. VDex is a decentralized exchange with the user and community in mind. Vespucci, besides being a digital asset audit and assessment utility accessible to non-experts, it is also a tool to chart and juxtapose tradeable digital assets. Moreover, it provides a dashboard for cryptocurrencies’ activity in the digital world.
 
 Our primary goal is to offer all users of digital assets an intuitive analytical agent and rating system for digital assets, merging the following aspects (see figure below):
 
