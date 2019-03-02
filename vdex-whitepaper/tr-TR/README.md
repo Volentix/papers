@@ -254,7 +254,7 @@ A front runner steals one or more orders from a pending order book settlement tr
 
 #### 3.9.3 Sahte kimlikler
 
-Malicious users create forged identities to send a large number of small orders to attack Loopring nodes. However, most of these orders will be rejected for not yielding satisfying profit when matched.
+Kötü niyetli kullanıcılar Loopring düğümlerine saldırmak için çok sayıda küçük sipariş göndermek için sahte kimlikler oluştururlar. Bununla birlikte, bu siparişlerin çoğu eşleştiğinde tatmin edici kar elde etmediği için reddedilecektir.
 
 #### 3.9.4 Yetersiz Bakiye
 
@@ -270,7 +270,7 @@ Kullanıcı deneyimine odaklanmamız önceliklidir. VTX ve Volentix'in dört aya
 
 ### 3.11 DOĞRU MERKEZSİZLEŞME
 
-EOS.IO is an open-source, scalable infrastructure for decentralized applications. Its goal is a fair and transparent block producer (BP) election process utilizing a democratic delegated proof of stake (DPoS) consensus. Particularly as such a system just begins to proliferate, there will be glitches. Therefore, some degree of retained centralization is inevitable and necessary. But our guiding philosophy is one of decentralization, and our ongoing efforts are targeted to promoting a reduction in dependence on central authority.
+EOS.IO, merkezi olmayan uygulamalar için açık kaynaklı ölçeklenebilir bir altyapıdır. Its goal is a fair and transparent block producer (BP) election process utilizing a democratic delegated proof of stake (DPoS) consensus. Particularly as such a system just begins to proliferate, there will be glitches. Therefore, some degree of retained centralization is inevitable and necessary. But our guiding philosophy is one of decentralization, and our ongoing efforts are targeted to promoting a reduction in dependence on central authority.
 
 For example, initially we plan to erect a system for electing nodes (when solving order books) that will not use a shared central clock or DPoS but instead will be based either on random timeouts for the determination of leaders in an election (RAFT) or on Directed Acyclic Graph (DAG) in the PARSEC protocol.
 
@@ -278,9 +278,9 @@ For example, initially we plan to erect a system for electing nodes (when solvin
 
 The RAFT and PARSEC protocols provide a robust system for recovery in the case of node failure. Security measures are also provided for trading between and among native blockchains. If a chain defies identification, the system defaults to the next block or a short time lock.
 
-### 3.13 EVOLVING ARCHITECTURE
+### 3.13 GELİŞEN MİMARİ
 
-Daily announcements of fresh code developments impacting on use of digital assets reveal the tremendous benefit of the open-source code philosophy. We at Volentix recognize we are the beneficiaries of the enormous financial resources dedicated by many early movers to developing digital assets applications over the past decade. We now have an opportunity to take the next step by creating VDex, a decentralized exchange for the next generation of digital assets transactions.
+Daily announcements of fresh code developments impacting on use of digital assets reveal the tremendous benefit of the open-source code philosophy. Volentix olarak, son on yılda dijital varlık uygulamaları geliştirmeye yönelik birçok erken göçmen tarafından tahsis edilen muazzam finansal kaynakların lehtarları olduğumuzu biliyoruz. We now have an opportunity to take the next step by creating VDex, a decentralized exchange for the next generation of digital assets transactions.
 
 ## 4. SON DÜŞÜNCELER
 
@@ -304,7 +304,7 @@ This white paper was prepared, and is presented, for information purposes only. 
 
 4. blockchainhub.net, blockchain-oracles, (2017).
 
-5. F. Zhou, Wang, Loopring: A decentralized token exchange protocol, (2018).
+5. F. Zhou, Wang, Loopring: Merkezi olmayan bir token değiş tokuş protokolü, (2018).
 
 6. G. B. Eyal Hertzog, Guy Benartzi, Bancor protocol: Continuous liquidity for cryptographic tokens through their smart contracts, (2018).
 
