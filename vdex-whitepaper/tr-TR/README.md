@@ -16,7 +16,7 @@ Volentix ekosistemi, özellikle Venue, Verto, Vespucci ve VDex olarak bilinen bi
 
 ### 2.1 VENUE
 
-Venue, Volentix ekosisteminin yerel dijital varlığı olan VTX'in dağıtımını kolaylaştırmak ve Volentix girişimlerinin farkındalığını arttırmak için Volentix topluluğunun üyelerini işe alan ve hizalayan dinamik bir topluluk platformu olarak planlanmıştır. Beta testlerinde yeni piyasaya sürülen Venue, kullanıcıların, örneğin adanmış topluluklar geliştirmek, hata düzeltmeleri göndermek ve ikramiye talep etmek karşılığında VTX almalarına olanak tanıyor. Leaderboards and live metrics reflect user participation. The first signature campaign was launched on the https://bitcointalk.org/ forum on July 13, 2018. Daha fazla bilgi için lütfen https://venue.volentix.io adresini ziyaret edin.
+Venue, Volentix ekosisteminin yerel dijital varlığı olan VTX'in dağıtımını kolaylaştırmak ve Volentix girişimlerinin farkındalığını arttırmak için Volentix topluluğunun üyelerini işe alan ve hizalayan dinamik bir topluluk platformu olarak planlanmıştır. Beta testlerinde yeni piyasaya sürülen Venue, kullanıcıların, örneğin adanmış topluluklar geliştirmek, hata düzeltmeleri göndermek ve ikramiye talep etmek karşılığında VTX almalarına olanak tanıyor. Leaderboards and live metrics reflect user participation. İlk imza kampanyası 13 Temmuz 2018'de https://bitcointalk.org/ forumunda başlatıldı. Daha fazla bilgi için lütfen https://venue.volentix.io adresini ziyaret edin.
 
 ![](../main3-3000px.jpg)
 
