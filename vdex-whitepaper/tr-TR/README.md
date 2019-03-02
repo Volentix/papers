@@ -72,7 +72,7 @@ EOS.IO'da, dijital bir varlığın verilmesi, bir yan zincir oluşturur, bu, bir
 
 #### 3.0.5 Likidite
 
-A digital asset is liquid if it is easily sold or purchased in ordinary trading volumes without a significant short-term impact on its prevailing market price. In order to achieve such a status, traditionally any tradable asset must surmount a trading volume threshold sufficient to support stability. Specifically, we anticipate adopting the following methodologies: Loopring protocol with the use of EOS.IO contracts acting as nodes.[5] Bancor algorithm used to bring stability to the digital asset.[6] Toggles between these protocols and HTLC (atomic swaps) according to Vespucci analyses on the VDex network.
+Bir dijital varlık geçerli piyasa fiyatlarına kısa vadeli bir etkisi olmadan, normal işlem hacimlerinde kolayca satılır veya satın alınırsa likit olur. In order to achieve such a status, traditionally any tradable asset must surmount a trading volume threshold sufficient to support stability. Specifically, we anticipate adopting the following methodologies: Loopring protocol with the use of EOS.IO contracts acting as nodes.[5] Bancor algorithm used to bring stability to the digital asset.[6] Toggles between these protocols and HTLC (atomic swaps) according to Vespucci analyses on the VDex network.
 
 #### 3.0.6 Şifreli Zaman Aşımı Sözleşmeleri (Atomik Takaslar)
 
@@ -230,7 +230,7 @@ True randomisation of address space layout, route or utilizing varying lengths o
 
 #### 3.8.4 Günlük denetim
 
-Parsec fikir birliğinin tespiti için kayıtlara dayanmaz. On the other hand, RAFT will require this. In any case, Validator nodes will be designed to require minimal information To determine consensus as to minimize the transaction process time.
+Parsec fikir birliğinin tespiti için kayıtlara dayanmaz. Diğer yandan, RAFT buna ihtiyaç duyacaktır. Her durumda, Doğrulayıcı düğümleri, işlem süreci süresini en aza indirmek İçin fikir birliği belirlemek için minimum bilgi gerektirecek şekilde tasarlanacaktır.
 
 #### 3.8.5 Alım Kanıtı olarak İşlem (TaPoS)
 
@@ -258,11 +258,11 @@ Malicious users create forged identities to send a large number of small orders 
 
 #### 3.9.4 Yetersiz Bakiye
 
-Malicious users sign and spread orders the value of which is non-zero but the address of which has a zero balance. Nodes monitor actual balances, update these order states accordingly, and then discard them.
+Kötü niyetli kullanıcılar değeri sıfır olmayan, ancak adresi sıfır bakiyeli olan siparişleri imzalar ve yayarlar. Nodes monitor actual balances, update these order states accordingly, and then discard them.
 
 #### 3.9.5 Zamanlama saldırısı
 
-Timing attacks are a class of cryptographic attacks through which a third-party observer can deduce the content of encrypted data by recording and analyzing the time taken to execute cryptographic algorithms. The RAFT algorithm prevents timing attacks by using randomness of timeouts.
+Timing attacks are a class of cryptographic attacks through which a third-party observer can deduce the content of encrypted data by recording and analyzing the time taken to execute cryptographic algorithms. RAFT algoritması, zamanlama saldırılarını zaman aşımlarının rastgeleliğini kullanarak önler.
 
 ### 3.10 KULLANICI DENEYİMİ
 
