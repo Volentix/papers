@@ -4,7 +4,7 @@
 - Aggiornata il: 10-24-2018
 - Sito web: www.volentix.io
 
-## 1. INTRODUCTION
+## 1. INTRODUZIONE
 
 Volentix introduces VDex, designed as a distributed, decentralized digital assets exchange with emphasis on user experience and community development and governance. By accessing established technologies and planning selective new protocols with priority on security, speed, authentication, ease of use, scalability, and multi-asset support, VDex intends to facilitate peer-to-peer transactions by assembling a portfolio of decentralized applications built on EOS.IO smart contracts.
 
