@@ -1,10 +1,10 @@
-# THE VOLENTIX VDEX WHITE PAPER
+# IWE FUNFUN TI VOLENTIX VDEX
 
-- Version: 0.1.4
-- Updated: 10-24-2018
-- Website: www.volentix.io
+- Ẹyà: 0.1.4
+- Ìmúdójúìwọ̀n waye ni: 10-24-2018
+- Aaye ayelujara: www.volentix.io
 
-## 1. INTRODUCTION
+## 1. IFIHAN
 
 Volentix introduces VDex, designed as a distributed, decentralized digital assets exchange with emphasis on user experience and community development and governance. By accessing established technologies and planning selective new protocols with priority on security, speed, authentication, ease of use, scalability, and multi-asset support, VDex intends to facilitate peer-to-peer transactions by assembling a portfolio of decentralized applications built on EOS.IO smart contracts.
 
