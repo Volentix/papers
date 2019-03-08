@@ -11,8 +11,8 @@ Vespucci Volentix ekosisteminin parçasıdır. In particular, it implements one 
 Our primary goal is to offer all users of digital assets an intuitive analytical agent and rating system for digital assets, merging the following aspects (see figure below):
 
 * duyarlılık analizi için bir duyarlılık ölçer (SA),
-* teknik analizler (TA), ve
-* temel / teknolojik analizler (FTA).
+* teknik analiz (TA), ve
+* temel / teknolojik analiz (FTA).
 
 Vespucci offers for the first time a well-rounded profile of each digital asset of interest along with a live rating, representing a combination of different indicators, based on the principles of decentralized governance, peer privacy, public ledger via a public blockchain, and open source code. Hence, its analysis is free of the bias of specific individuals or interest groups and the employed methods are up for scrutiny and discussion by the community. Decentralized applications offer a paradigm shift in current technology; a particularly relevant instance lies within the emerging cryptocurrency exchanges. Using some of the most powerful cutting-edge methods, our approach abides by open standards and the principles of ease of use.
 
@@ -34,16 +34,16 @@ The rating and analytical capacity of Vespucci relies on the three pillars of: S
 
 ![](https://volentix.io/file/2019/01/1k.jpg)
 
-* ### **VESPUCCI TASARIMI**
+* ### **VESPUCCİ TASARIMI**
 
-* #### **VESPUCCI FEATURES**
+* #### **VESPUCCI ÖZELLİKLERİ**
 
 Vespucci'nin özellikleri aşağıdaki gibidir.
 
-* Rating of cryptocurrencies, easily leading to a Prediction machine.
+* Bir Tahmin makinesine kolayca yol açan kripto para birimlerinin derecelendirilmesi.
 * Combination of a complete spectrum of criteria ranging from Fundamental / Technological Analysis to technical / economics aspects up to a sentiment gauge.
 * Transparency in methodology (data sources, ingestion mechanism, data manipulation process, algorithms)
-* Broad spectrum of sources (to avoid biased data)
+* Geniş kaynak spektrumu (taraflı verileri önlemek için)
 * Modular design that offers the ability to extend the platform to other applications such as smart contracts.
 * Security: Data Sources on EOS Blockchain (VLabs)
 * High accuracy using sophisticated Evaluation methods, AI, and Deep Learning
@@ -57,10 +57,10 @@ Vespucci, aşağıdaki prensiplere göre tasarlanmıştır.
 * Aranılan
 * Merkezi olmayan uygulama
 * Açık Kaynak
-* Intuitive
+* Sezgisel
 * #### **VESPUCCI NASIL ÇALIŞIR**
 
-The three pillars are described in the following subsections. In these subsections a large number of criteria is mentioned. The results of the SA component is made available along with the Technical and FTA results to the users so they can access a complete 360 view of each coin’s state, rank and ultimately understand the coin’s true value and potential. ‪An evaluation of both established cryptocurrencies and known “scam-coins” is performed, and the resulting parameters deemed most relevant in determining cryptocurrency validity is integrated into the system.
+The three pillars are described in the following subsections. Bu alt bölümlerde çok sayıda kriterden bahsedilmiştir. The results of the SA component is made available along with the Technical and FTA results to the users so they can access a complete 360 view of each coin’s state, rank and ultimately understand the coin’s true value and potential. ‪An evaluation of both established cryptocurrencies and known “scam-coins” is performed, and the resulting parameters deemed most relevant in determining cryptocurrency validity is integrated into the system.
 
 In order to test Vespucci in a semi-public release using prospective volunteers, the system is being introduced to various outside users for bug testing of the assessment system functions, and the UI. ‬‪It is carried out in a public setting through the organization of a closed beta release. Users are selected to allow for more constructive and relevant feedback information.‬ ‪An ongoing iterative process of tweaks, fixes, and adjustments will take place during the beta release from the insight derived from user feedback.‬
 
@@ -92,9 +92,9 @@ By leveraging Python’s Machine learning framework, and given the language’s 
   <tr>
     
 
-<td>**Source**</td>
+<td>**Kaynak**</td>
 
-<td>**Analysis**</td>
+<td>**Analiz**</td>
 
   </tr>
   
@@ -103,7 +103,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Twitter </td>
 
-<td>Sentiment</td>
+<td>Duyarlılık</td>
 
   </tr>
   
@@ -112,7 +112,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Reddit</td>
 
-<td>Sentiment</td>
+<td>Duyarlılık</td>
 
   </tr>
   
@@ -121,7 +121,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Facebook</td>
 
-<td>Sentiment</td>
+<td>Duyarlılık</td>
 
   </tr>
   
@@ -130,7 +130,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Telegram</td>
 
-<td>Sentiment</td>
+<td>Duyarlılık</td>
 
   </tr>
   
@@ -184,7 +184,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>BitInfoCharts</td>
 
-<td>Technical </td>
+<td>Teknik </td>
 
   </tr>
   
@@ -193,7 +193,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Cointelegraph</td>
 
-<td>Technical </td>
+<td>Teknik </td>
 
   </tr>
   
@@ -202,7 +202,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>CCN</td>
 
-<td>Sentiment (Forums & News)</td>
+<td>Duyarlılık (Forumlar & Haberler)</td>
 
   </tr>
   
@@ -211,7 +211,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>CoinDesk</td>
 
-<td>Sentiment (Forums & News)</td>
+<td>Duyarlılık (Forumlar & Haberler)</td>
 
   </tr>
   
