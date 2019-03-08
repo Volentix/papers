@@ -16,7 +16,7 @@ Het Volentix-ecosysteem zal bovenop vier pijlers bestaan, een initialiserende re
 
 ### 2.1 VENUE
 
-Venue is gepland als een dynamisch gemeenschapsplatform dat leden van de Volentix gemeenschap werft en op één lijn brengt om de distributie van VTX, de digitale valuta van het Volentix-ecosysteem, te vergemakkelijken, en om bekendheid van Volentix initiatieven te bevorderen. Sinds de start in beta-testen, maakt Venue het voor gebruikers mogelijk om VTX te ontvangen in ruil voor, bijvoorbeeld, deelname aan de ontwikkeling van toegewijde gemeenschappen, het indienen van bugfixes, en het claimen van bounties. Leaderboards and live metrics reflect user participation. The first signature campaign was launched on the https://bitcointalk.org/ forum on July 13, 2018. Please visit https://venue.volentix.io for more information.
+Venue is gepland als een dynamisch gemeenschapsplatform dat leden van de Volentix gemeenschap werft en op één lijn brengt om de distributie van VTX, de digitale valuta van het Volentix-ecosysteem, te vergemakkelijken, en om bekendheid van Volentix initiatieven te bevorderen. Sinds de start in beta-testen, maakt Venue het voor gebruikers mogelijk om VTX te ontvangen in ruil voor, bijvoorbeeld, deelname aan de ontwikkeling van toegewijde gemeenschappen, het indienen van bugfixes, en het claimen van bounties. Leaderboards en live statistieken weerspiegelen gebruikersparticipatie. De eerste handtekening-campagne werd op 13 juli 2018 gelanceerd op het https://bitcointalk.org/ forum. Bezoek https://venue.volentix.io voor meer informatie.
 
 ![](../main3-3000px.jpg)
 
