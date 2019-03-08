@@ -188,11 +188,11 @@ Aynı konuya birden fazla mesaj ve birden fazla hesap atanabilir.
 
 #### 3.6.1 Blok Zinciri-Arası İletişim
 
-EOS.IO Blok Zincir-Arası İletişim (IBC) hafif kanıtlar yapmak için tasarlanmıştır. IBC kanıtlarının işleme koyma ve geçerliliği sağlama konusunda yetersiz kapasiteye sahip zincirler için, varsayılan güvenilir uzmanlar/emanetler için bir seçenek vardır. With an EOS.IO-based smart contract, a trusted multi-signature wallet holding the asset in escrow can be used to persuade the signing/publishing of the transaction based on IBC proofs from the originating chain.
+EOS.IO Blok Zincir-Arası İletişim (IBC) hafif kanıtlar yapmak için tasarlanmıştır. IBC kanıtlarının işleme koyma ve geçerliliği sağlama konusunda yetersiz kapasiteye sahip zincirler için, varsayılan güvenilir uzmanlar/emanetler için bir seçenek vardır. EOS.IO tabanlı bir akıllı sözleşmeyle, varlığı emanet içinde tutan güvenilir bir çoklu imza cüzdanı, kaynak zincirindeki IBC kanıtlarına dayanan işlemin imzalanma/yayınlanmasına ikna etmek için kullanılabilir.
 
 #### 3.6.2 Çoklu-Blok Zinciri Bilgisi
 
-Comprehensible multi-blockchain information can be obtained by aggregating blockchain timelines in parallel order (with variance in the frequency of change of state). This system can trigger multi-chain load balancers, transfer states, draw data outputs from smart contracts, and foreign blockchain transaction execution. Relative block distance, relative global state, and timestamped events are recorded on a global ledger to optimize and confirm transactions before they actually happen on the native chain. This approach could also be used to determine block production coincidence between chains to access greater liquidity.[12]
+Anlaşılabilir çoklu blok zinciri bilgileri, blok zinciri zaman çizelgelerini paralel sırada (durum değişim sıklığındaki varyansla) toplayarak elde edilebilir. Bu sistem çok zincirli yük dengeleyicileri, aktarma durumlarını, akıllı sözleşmelerden veri çıktılarını ve yabancı blok zinciri işlemlerinin yürütülmesini tetikleyebilir. Relative block distance, relative global state, and timestamped events are recorded on a global ledger to optimize and confirm transactions before they actually happen on the native chain. This approach could also be used to determine block production coincidence between chains to access greater liquidity.[12]
 
 ### 3.7 GÜVENLİK ENDİŞELERİ
 
@@ -226,7 +226,7 @@ Numenta'nın Nupic kütüphanesi tarafından sağlanan gelişmiş anomali tespit
 
 #### 3.8.3 Rasgeleleştirme
 
-True randomisation of address space layout, route or utilizing varying lengths of timeouts as in the RAFT protocol can complexify systems enough to enhance resilience and further secure systems against a side-channel attack or front running.
+Adres alanı düzeninin gerçek rasgele randomizasyonu, RAFT protokolünde olduğu gibi değişen uzunluktaki zaman aşımlarını yönlendirmek veya kullanmak, bir yan kanal saldırılarına veya önden çalışanlara karşı esnekliği artırmak için sistemleri yeterince karmaşık ve daha güvenli hale getirebilir.
 
 #### 3.8.4 Günlük denetim
 
