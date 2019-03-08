@@ -20,9 +20,9 @@ General architecture of Vespucci
 
 ![](https://volentix.io/file/2019/01/Web-1920-–-6@3x.png)
 
-* ### **OBJECTIVE**
+* ### **OBJEKTİF**
 
-Vespucci offers a web-based platform to enable users to navigate through crypto data and make informed trading and digital-asset utilization decisions. In particular, it provides:
+Vespucci offers a web-based platform to enable users to navigate through crypto data and make informed trading and digital-asset utilization decisions. Özellikle şunları sağlar:
 
 * An intuitive analytical agent leading to an easy to understand overview of cryptocurrencies.
 * A rating system of cryptocurrencies, including risk assessment.
