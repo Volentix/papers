@@ -262,7 +262,7 @@ Kötü niyetli kullanıcılar değeri sıfır olmayan, ancak adresi sıfır baki
 
 #### 3.9.5 Zamanlama saldırısı
 
-Zamanlama saldırıları, üçüncü taraf bir gözlemcinin, şifreleme algoritmalarını yürütmek için harcanan zamanı kaydederek ve analiz ederek şifreli veri içeriğini tespit edebileceği bir şifreleme saldırısı sınıfıdır. RAFT algoritması, zamanlama saldırılarını zaman aşımlarının rastgeleliğini kullanarak önler.
+Zamanlama saldırıları, üçüncü taraf bir gözlemcinin, şifreleme algoritmalarını yürütmek için harcanan zamanı kaydederek ve analiz ederek şifreli veri içeriğini toplayacağı bir şifreleme saldırısı sınıfıdır. RAFT algoritması, zamanlama saldırılarını zaman aşımlarının rastgeleliğini kullanarak önler.
 
 ### 3.10 KULLANICI DENEYİMİ
 
