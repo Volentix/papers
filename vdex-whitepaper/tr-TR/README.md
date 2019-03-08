@@ -246,11 +246,11 @@ Bu mekanizma, başvurulan bloğu içermeyen çatallarda bir işlemin tekrarlanma
 
 Bir Finney ön mayınlar saldırısı bir işlemi bir bloğa dönüştürür ve bloğu bu işlemi geçersiz kılmak için serbest bırakmadan önce aynı tokenleri harcar.
 
-Bir ağın toplam bilgi işlem gücünün \>%50'sine sahip olan herhangi biri tarafından %51 saldırısı gerçekleştirilebilir. A majority ownership position permits reversal of any transaction and allows total control of selection of transactions appearing in blocks. EOS.IO, Loopring ve RAFT bu problemi önlüyor gibi görünüyor. Eğer bir blok üreticisi makul olmayan miktarda bir çalışma süresi alırsa veya yeterince karlı değilse, işlem kara listeye alınır.[5]
+Bir ağın toplam bilgi işlem gücünün \>%50'sine sahip olan herhangi biri tarafından %51 saldırısı gerçekleştirilebilir. Çoğunluk sahiplik pozisyonu, herhangi bir işlemin tersine çevrilmesine izin verir ve bloklarda görünen işlemlerin seçiminin tamamen kontrol edilmesini sağlar. EOS.IO, Loopring ve RAFT bu problemi önlüyor gibi görünüyor. Eğer bir blok üreticisi makul olmayan miktarda bir çalışma süresi alırsa veya yeterince karlı değilse, işlem kara listeye alınır.[5]
 
 #### 3.9.2 Ön koşu
 
-A front runner steals one or more orders from a pending order book settlement transaction. Hem EOS.IO hem de Loopring, açık zincir işleminin bir parçası olmadığından anahtarların korunduğu için çözümler sunar ve bu nedenle de mal sahibi dışındaki şahıslar tarafından bilinmeyen olarak kalır. Only the order book settling node is possessed of the sensitive information, and each node uses a different solution for resolving the order books, introducing yet another level of complexity to promote security.
+Bir ön koşucu, bekleyen bir emir defteri ödeme işleminden bir veya daha fazla emir çalar. Hem EOS.IO hem de Loopring, açık zincir işleminin bir parçası olmadığından anahtarların korunduğu için çözümler sunar ve bu nedenle de mal sahibi dışındaki şahıslar tarafından bilinmeyen olarak kalır. Only the order book settling node is possessed of the sensitive information, and each node uses a different solution for resolving the order books, introducing yet another level of complexity to promote security.
 
 #### 3.9.3 Sahte kimlikler
 
@@ -258,15 +258,15 @@ Kötü niyetli kullanıcılar Loopring düğümlerine saldırmak için çok say�
 
 #### 3.9.4 Yetersiz Bakiye
 
-Kötü niyetli kullanıcılar değeri sıfır olmayan, ancak adresi sıfır bakiyeli olan siparişleri imzalar ve yayarlar. Nodes monitor actual balances, update these order states accordingly, and then discard them.
+Kötü niyetli kullanıcılar değeri sıfır olmayan, ancak adresi sıfır bakiyeli olan siparişleri imzalar ve yayarlar. Düğümler gerçek dengeleri izler, bu sıralama durumlarını buna göre güncellerler ve sonra onları atarlar.
 
 #### 3.9.5 Zamanlama saldırısı
 
-Timing attacks are a class of cryptographic attacks through which a third-party observer can deduce the content of encrypted data by recording and analyzing the time taken to execute cryptographic algorithms. RAFT algoritması, zamanlama saldırılarını zaman aşımlarının rastgeleliğini kullanarak önler.
+Zamanlama saldırıları, üçüncü taraf bir gözlemcinin, şifreleme algoritmalarını yürütmek için harcanan zamanı kaydederek ve analiz ederek şifreli veri içeriğini tespit edebileceği bir şifreleme saldırısı sınıfıdır. RAFT algoritması, zamanlama saldırılarını zaman aşımlarının rastgeleliğini kullanarak önler.
 
 ### 3.10 KULLANICI DENEYİMİ
 
-Kullanıcı deneyimine odaklanmamız önceliklidir. VTX ve Volentix'in dört ayağını -- Venue, Verto, Vespucci ve VDex -- topluluğumuza katılmak isteyen herkes tarafından kolayca erişilebilir ve kullanılabilir hale getirmek istiyoruz. We expect the experience continually to be educational as well, with templates and simulators to support a superior UX/UI relationship.
+Kullanıcı deneyimine odaklanmamız önceliklidir. VTX ve Volentix'in dört ayağını -- Venue, Verto, Vespucci ve VDex -- topluluğumuza katılmak isteyen herkes tarafından kolayca erişilebilir ve kullanılabilir hale getirmek istiyoruz. Üstün bir UX/UI ilişkisini destekleyecek şablon ve simülatörlerle, deneyimin sürekli olarak eğitici olmasını da bekliyoruz.
 
 ### 3.11 DOĞRU MERKEZSİZLEŞME
 
