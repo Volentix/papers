@@ -10,13 +10,13 @@ Vespucci Volentix ekosisteminin parçasıdır. In particular, it implements one 
 
 Our primary goal is to offer all users of digital assets an intuitive analytical agent and rating system for digital assets, merging the following aspects (see figure below):
 
-* a sentiment gauge for sentiment analysis (SA),
-* technical analysis (TA), and
-* fundamental / technological analysis (FTA).
+* duyarlılık analizi için bir duyarlılık ölçer (SA),
+* teknik analizler (TA), ve
+* temel / teknolojik analizler (FTA).
 
 Vespucci offers for the first time a well-rounded profile of each digital asset of interest along with a live rating, representing a combination of different indicators, based on the principles of decentralized governance, peer privacy, public ledger via a public blockchain, and open source code. Hence, its analysis is free of the bias of specific individuals or interest groups and the employed methods are up for scrutiny and discussion by the community. Decentralized applications offer a paradigm shift in current technology; a particularly relevant instance lies within the emerging cryptocurrency exchanges. Using some of the most powerful cutting-edge methods, our approach abides by open standards and the principles of ease of use.
 
-General architecture of Vespucci
+Vespucci genel mimarisi
 
 ![](https://volentix.io/file/2019/01/Web-1920-–-6@3x.png)
 
@@ -26,7 +26,7 @@ Vespucci offers a web-based platform to enable users to navigate through crypto 
 
 * An intuitive analytical agent leading to an easy to understand overview of cryptocurrencies.
 * A rating system of cryptocurrencies, including risk assessment.
-* A dashboard for cryptocurrency news.
+* Kripto para birimi haberleri için bir gösterge tablosu.
 
 ![](https://volentix.io/file/2019/01/02-icon.jpg)
 
@@ -34,11 +34,11 @@ The rating and analytical capacity of Vespucci relies on the three pillars of: S
 
 ![](https://volentix.io/file/2019/01/1k.jpg)
 
-* ### **DESIGNING VESPUCCI**
+* ### **VESPUCCI TASARIMI**
 
 * #### **VESPUCCI FEATURES**
 
-The features of Vespucci are as follows.
+Vespucci'nin özellikleri aşağıdaki gibidir.
 
 * Rating of cryptocurrencies, easily leading to a Prediction machine.
 * Combination of a complete spectrum of criteria ranging from Fundamental / Technological Analysis to technical / economics aspects up to a sentiment gauge.
@@ -48,9 +48,9 @@ The features of Vespucci are as follows.
 * Security: Data Sources on EOS Blockchain (VLabs)
 * High accuracy using sophisticated Evaluation methods, AI, and Deep Learning
 * Intuitive algorithms, possibility for weighs given by user, Post-processing for humans.
-* #### **PRINCIPLES**
+* #### **PRENSİPLER**
 
-Vespucci is designed under the following principles.
+Vespucci, aşağıdaki prensiplere göre tasarlanmıştır.
 
 * Objective in order not to risk compromising the Volentix DAO goodwill before it is established beyond any doubt
 * Otomatikleştirilmiş
