@@ -6,7 +6,7 @@
 
 ## 1. IFIHAN
 
-Volentix n ṣafihan VDex, ti o jẹ siseto gẹgẹ bi ibi ipasipaarọ ohun-ini oni-nọmba alaisilojukan, ti o jẹ pinpin pẹlu itẹramọ lori iriri olumulo ati idagbasoke awujọ ati iṣejọba. By accessing established technologies and planning selective new protocols with priority on security, speed, authentication, ease of use, scalability, and multi-asset support, VDex intends to facilitate peer-to-peer transactions by assembling a portfolio of decentralized applications built on EOS.IO smart contracts.
+Volentix n ṣafihan VDex, ti o jẹ siseto gẹgẹ bi ibi ipasipaarọ ohun-ini oni-nọmba alaisilojukan, ti o jẹ pinpin pẹlu itẹramọ lori iriri olumulo ati idagbasoke awujọ ati iṣejọba. Nipa wiwọle si awọn imọ-ẹrọ ti o fẹsẹrinlẹ ati siseto yiyan awọn ilana titun ti o pataki aabo, iyara, ìfàṣẹsí, irọrun ti lilo, agbara iṣiṣẹ ṣi, ati atilẹyin ọlọpọ-ohun ini, VDex n gbero lati ṣọ awọn iṣowo ẹgbẹ́-sí-ẹgbẹ́ di irọrun nipa sisẹ atopọ awọn ohun elo alaisilojukan ti o jẹ gbigbe dede lori awọn iwe adehun EOS.IO to jafafa.
 
 The VDex launch point anticipates matching Volentix's design requirements to available technologies superimposed on the EOS.IO decentralized operating system. We intend to test our assumptions by prototyping via custom EZEOS software, which we built and customized with EOS.IO's cleos command line tools. This software resides at: https://github.com/Volentix/ezeos
 
