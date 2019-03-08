@@ -12,7 +12,7 @@ Aaye ifilọle VDex n ṣe ifojusọna fun sise ibamu awọn ibeere idalara ti V
 
 ## 2. VOLENTIX
 
-The Volentix ecosystem will exist atop four pillars, an initializing array of applications specifically known as Venue, Verto, Vespucci, and VDex.
+Awujọ Volentix yoo duro le ori awọn opo mẹrin, ibi ibẹẹrẹ iseto awọn ohun elo ti a mọ si Venue, Verto, Vespucci, ati VDex ni pato.
 
 ### 2.1 VENUE
 
