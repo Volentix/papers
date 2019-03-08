@@ -152,7 +152,7 @@ HTLC'nin zamana bağlı işlemleriyle kullanıcıları \>24 saat boyunca fonlar�
 
 Dijital varlıklar ekosistemi, projeyi öne süren belli başlı temel insan bileşenlerini gerektirir.[11] Bu bireylere katılımlarını telafi etmek esastır. Ayarlamaya tabi olarak, Volentix şu anda aşağıdaki tahsisleri öngörmektedir:
 
-1. Katkıda Bulunanlar. %12. An array of individuals, akin to founders, who contribute insights, time and talent, though often work without early compensation.
+1. Katkıda Bulunanlar. %12. Kuruculara benzer, içgörülere, zamana ve yeteneğe katkıda bulunan bir dizi insan, genellikle erken tazminat olmadan çalışır.
 
 2. Destekçiler.
 
@@ -188,7 +188,7 @@ Aynı konuya birden fazla mesaj ve birden fazla hesap atanabilir.
 
 #### 3.6.1 Blok Zinciri-Arası İletişim
 
-EOS.IO Blok Zincir-Arası İletişim (IBC) hafif kanıtlar yapmak için tasarlanmıştır. For chains with insufficient capacity for processing the IBC proofs and establishing validity, there is an option to default to trusted oracles/escrows. With an EOS.IO-based smart contract, a trusted multi-signature wallet holding the asset in escrow can be used to persuade the signing/publishing of the transaction based on IBC proofs from the originating chain.
+EOS.IO Blok Zincir-Arası İletişim (IBC) hafif kanıtlar yapmak için tasarlanmıştır. IBC kanıtlarının işleme koyma ve geçerliliği sağlama konusunda yetersiz kapasiteye sahip zincirler için, varsayılan güvenilir uzmanlar/emanetler için bir seçenek vardır. With an EOS.IO-based smart contract, a trusted multi-signature wallet holding the asset in escrow can be used to persuade the signing/publishing of the transaction based on IBC proofs from the originating chain.
 
 #### 3.6.2 Çoklu-Blok Zinciri Bilgisi
 
@@ -206,17 +206,17 @@ Retain vast majority of funds in a time-delayed, multi-signature-controlled acco
 
 Use multi-signatures on a hot wallet with several independent processes/servers double-checking all withdrawals, with the concomitant benefit of creating a trusted list of accounts.
 
-Deploy a custom contract that allows withdrawals only to accounts verified by KYC/AML.
+Yalnızca KYC/AML tarafından doğrulanmış hesaplara para çekme olanağı sağlayan özel bir sözleşme kullanın.
 
-Deploy a custom contract that accepts only deposits of known assets from accounts verified by KYC/AML.
+KYC/AML tarafından doğrulanan hesaplardan yalnızca bilinen varlıkların mevduatını kabul eden özel bir sözleşme kullanın.
 
-Deploy a custom contract that requires a mandatory 24-hour waiting period for all withdrawals.
+Tüm para çekme işlemleri için 24 saat zorunlu bir bekleme süresi gerektiren özel bir sözleşme kullanın.
 
-Utilize contracts with hardware wallets for all signing, including for automated withdrawals.
+Otomatik para çekme işlemleri de dahil olmak üzere, tüm imzalama için donanım cüzdanlarıyla yapılan sözleşmelerden yararlanın.
 
 Bozuk sözleşmeleri yükseltin.
 
-Include ability to pause the functionality of a contract.
+Bir sözleşmenin işlevselliğini duraklatma özelliğini dahil edin.
 
 Include ability to delay an action of a contract.
 
