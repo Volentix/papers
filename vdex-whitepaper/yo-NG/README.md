@@ -1,22 +1,22 @@
-# THE VOLENTIX VDEX WHITE PAPER
+# IWE FUNFUN TI VOLENTIX VDEX
 
-- Versione: 0.1.4
-- Aggiornata il: 10-24-2018
-- Sito web: www.volentix.io
+- Ẹyà: 0.1.4
+- Ìmúdójúìwọ̀n waye ni: 10-24-2018
+- Aaye ayelujara: www.volentix.io
 
-## 1. INTRODUZIONE
+## 1. IFIHAN
 
-Volentix presenta VDex, progettato come una piattaforma decentralizzata per lo scambio di beni digitali con enfasi sull'user experience e la governanza e lo sviluppo da parte della comunità. Attraverso l'utilizzo di tecnologie già esistenti e programmando nuovi protocolli selettivi dando priorità a sicurezza, velocità, autenticazione, facilità di utilizzo, scalabilità, e supporto multi-asset, VDex vuole facilitare le transazioni di tipo peer-to-peer mettendo insieme un portfolio di applicazioni decentralizzate costruite sulla base degli smart contract di EOS.IO.
+Volentix n ṣafihan VDex, ti o jẹ siseto gẹgẹ bi ibi ipasipaarọ ohun-ini oni-nọmba alaisilojukan, ti o jẹ pinpin pẹlu itẹramọ lori iriri olumulo ati idagbasoke awujọ ati iṣejọba. Nipa wiwọle si awọn imọ-ẹrọ ti o fẹsẹrinlẹ ati siseto yiyan awọn ilana titun ti o pataki aabo, iyara, ìfàṣẹsí, irọrun ti lilo, agbara iṣiṣẹ ṣi, ati atilẹyin ọlọpọ-ohun ini, VDex n gbero lati ṣọ awọn iṣowo ẹgbẹ́-sí-ẹgbẹ́ di irọrun nipa sisẹ atopọ awọn ohun elo alaisilojukan ti o jẹ gbigbe dede lori awọn iwe adehun EOS.IO to jafafa.
 
-The VDex launch point anticipates matching Volentix's design requirements to available technologies superimposed on the EOS.IO decentralized operating system. Intendiamo testare le nostre ipotesi creando dei prototipi tramite software EZEOS personalizzato, che abbiamo costruito e personalizzati attraverso gli strumenti di della riga di comando cleos di EOS.IO. Questo software risiede in: https://github.com/Volentix/ezeos
+Aaye ifilọle VDex n ṣe ifojusọna fun sise ibamu awọn ibeere idalara ti Volentix si awọn imọ ẹrọ ti o wa nilẹ lori eto isẹ sise alaisilojukan EOS.IO. We intend to test our assumptions by prototyping via custom EZEOS software, which we built and customized with EOS.IO's cleos command line tools. Software yi wa ni: https://github.com/Volentix/ezeos
 
 ## 2. VOLENTIX
 
-L'ecosistema Volentix esisterà sulla base di 4 pilastri, un array di applicazioni di inizializzazione specificamente note come Venue, Verto, Vespucci, e VDex.
+Awujọ Volentix yoo duro le ori awọn opo mẹrin, ibi ibẹẹrẹ iseto awọn ohun elo ti a mọ si Venue, Verto, Vespucci, ati VDex ni pato.
 
 ### 2.1 VENUE
 
-Venue è progettato come una piattaforma comunitaria dinamica che recruta e allinea i membri della comunità Volentix per facilitare la distribuzione di VTX, l'aset digitale nativo dell'ecosistema Volentix, e promuove la consapevolezza delle iniziative di Volentix. Lanciata recentemente nella versione di beta test, Venue permette agli utenti di ricevere VTX in cambio, ad esempio, per la partecipazione alle comunità dedicate allo sviluppo, presentando soluzioni ai bug, e rivendicando le bountie (taglie). Le classifiche e le metriche live riflettono la partecipazione dell'utente. La prima campagna di raccolta firme è stata lanciata sul forum di https://bitcointalk.org/ il 13 Luglio 2018. Per ulteriori informazioni visita https://venue.volentix.io.
+Venue jẹ gbigbekalẹ gẹgẹbi pilatifọọmu awujọ alayipada ti o n gba ati ṣiṣe aato awọn ọmọ ẹgbẹ ti awujọ Volentix lati jẹ ki pinpin VTX rọrun, ohun-ini oni-nọmba ibilẹ ti awujọ Volentix, ati lati ṣe ipolongo imọ nipa awọn eto Volentix. Ifilọlẹ igbeyẹwo beta waye laipẹ, Venue n fun awọn olumulo laaye lati gba VTX ni paṣipaarọ, fun apẹẹrẹ, fun kikopa ninu sisẹ idagbasoke awọn awujọ ti o ni ifarajin, fifi awọn atunṣe asise ranṣẹ, ati gbigba awọn ẹbun. Awọn Patako-ipo ati awọn iwọn bosenlọ lọwọ jẹ afihan ikopa awọn olumulo. Ifihan ipolongo akọkọ jẹ fifilọlẹ lori https://bitcointalk.org/ forum ni Osu keje ọjọ kẹtala, ọdun 2018. Jọwọ ṣabẹwo https://venue.volentix.io fun alaye siwaju sii.
 
 ![](../main3-3000px.jpg)
 
