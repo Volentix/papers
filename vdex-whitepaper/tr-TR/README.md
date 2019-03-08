@@ -116,13 +116,13 @@ Döngü Protokolü FIFO (ilk-giren ilk-çıkan) dairesel arabelleği kullanan d�
 
 #### 3.2.2 Açık-Zincir emir kitabı
 
-Açık zincirde bir emir defteri, emir defterini düzenlemek için seçilen cüzdan (düğüm) üzerinde bulunan tekliflerin bir kaydıdır. It resides in a persistent database on each node subscribing to the same account as all the other nodes.
+Açık zincirde bir emir defteri, emir defterini düzenlemek için seçilen cüzdan (düğüm) üzerinde bulunan tekliflerin bir kaydıdır. Diğer tüm düğümlerle aynı hesaba abone olan her düğümde kalıcı bir veritabanında bulunur.
 
 #### 3.2.3 Kapalı-Zincir emir kitabı
 
-Residing on the aggregator, offline order books serve for simulator and security purposes.
+Toplayıcıya dayanarak, çevrimdışı emir kitapları servisi simülatör ve güvenlik amaçlıdır.
 
-#### 3.2.4 Decentralization process of order book settlement
+#### 3.2.4 Emir defteri anlaşmasının merkezi olmayan süreci
 
 For decentralization purposes, nodes will take turns to settle the order book. The settling node must be designated by the protocol and all order book entries from all nodes must be available to the settling nodes. We believe the RAFT[9] and PARSEC[10] consensus mechanisms offer effective solutions. RAFT is a well-established algorithm and is easy to implement.[7] PARSEC is more recent and more efficient, using Directed Acyclic Graph (DAG) technology and eliminating the need for copying logs.
 
