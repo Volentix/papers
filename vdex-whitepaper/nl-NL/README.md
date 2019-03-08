@@ -22,7 +22,7 @@ Venue is gepland als een dynamisch gemeenschapsplatform dat leden van de Volenti
 
 ### 2.2 VERTO
 
-Verto is being built as a multi-currency wallet for use with the VDex decentralized exchange, and intends to facilitate personal custody and local management of private and public keys in peer-to-peer transactions, with the goal of eliminating the risks of devastating losses of stake associated with traumatic failures of central operators. Verto plans to employ a system of smart contracts to maintain the state between two trading clients, the simplest operations being accomplished with atomic swaps.[1]
+Verto wordt gebouwd als een multivaluta portemonnee voor gebruik met de gedecentraliseerde VDex exchange, en is bedoeld om persoonlijke inverzekeringstelling en lokaal beheer van particuliere en publieke sleutels in peer-to-peer transacties te vergemakkelijken, met als doel het elimineren van de risico's van verwoestende verliezen van belang geassocieerd met traumatische storingen van centrale operatoren. Verto heeft als plan een systeem van smart contracts in te zetten om de status tussen twee handelsklanten te handhaven, waarbij de eenvoudigste operaties worden uitgevoerd met atomaire swaps.[1]
 
 ### 2.3 VESPUCCI
 
