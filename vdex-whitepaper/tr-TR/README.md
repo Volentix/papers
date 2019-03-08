@@ -142,11 +142,11 @@ VDex borsasında işlem ücretlerini ödemek ve yeniden dağıtmak için.
 
 VTX sahiplerine tahsis edilen oylama haklarını kullanarak, Volentix ekosistemine teklifleri sunmak ve oy kullanmak için.
 
-To stake support for reviewing proposals and implementing projects.
+Teklifleri gözden geçirme konusunda destek almak ve projeleri uygulamak için.
 
-To incentivize users to participate in order book settlement by becoming nodes via their Verto wallets.
+Kullanıcıları Verto cüzdanları aracılığıyla düğüm haline getirerek emir defteri anlaşmasına katılmaya teşvik etmek için.
 
-To incentivize users to lock funds in for \>24 hours by HTLC time-bound transactions.
+HTLC'nin zamana bağlı işlemleriyle kullanıcıları \>24 saat boyunca fonları kilitlemeye teşvik etmek için.
 
 #### 3.4.2 VTX Tahsisi
 
