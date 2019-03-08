@@ -134,13 +134,13 @@ Emir verme geleneksel finansal piyasa işlemlerinin bilinen öğelerini içerir.
 
 #### 3.4.1 VTX Çıkarma ve Kullanımı
 
-VTX, VDex merkezi olmayan borsasında çıkarılacak ve kullanılacak yerel dijital varlıktır. We currently plan to use an eosio.token contract from the EOS.IO framework to issue 2.1 billion EOS.IO-compliant VTX tokens with a supply of 1.3 billion. VTX çeşitli kullanım alanlarına sahip olacaktır, örneğin:
+VTX, VDex merkezi olmayan borsasında çıkarılacak ve kullanılacak yerel dijital varlıktır. Şu anda EOS.IO çerçevesinden 2.1 milyar EOS.IO uyumlu VTX tokenleri çıkması için 1.3 milyar tedarikle birlikte bir eosio.token sözleşmesini kullanmayı planlıyoruz. VTX çeşitli kullanım alanlarına sahip olacaktır, örneğin:
 
 Fikir birliği sürecinde ve Venue kampanyalarında katılımcıları ödüllendirmek için.
 
-To pay and redistribute transaction fees on the VDex exchange.
+VDex borsasında işlem ücretlerini ödemek ve yeniden dağıtmak için.
 
-To submit and vote on proposals to the Volentix ecosystem, using the voting rights allocated to VTX holders.
+VTX sahiplerine tahsis edilen oylama haklarını kullanarak, Volentix ekosistemine teklifleri sunmak ve oy kullanmak için.
 
 To stake support for reviewing proposals and implementing projects.
 
