@@ -150,7 +150,7 @@ HTLC'nin zamana bağlı işlemleriyle kullanıcıları \>24 saat boyunca fonlar�
 
 #### 3.4.2 VTX Tahsisi
 
-A digital assets ecosystem requires an array of certain fundamental human constituents who shepherd the project forward.[11] It is essential to compensate those individuals for their participation. Subject to adjustment, Volentix currently anticipates the following allocations:
+Dijital varlıklar ekosistemi, projeyi öne süren belli başlı temel insan bileşenlerini gerektirir.[11] Bu bireylere katılımlarını telafi etmek esastır. Ayarlamaya tabi olarak, Volentix şu anda aşağıdaki tahsisleri öngörmektedir:
 
 1. Katkıda Bulunanlar. %12. An array of individuals, akin to founders, who contribute insights, time and talent, though often work without early compensation.
 
