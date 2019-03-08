@@ -218,7 +218,7 @@ Bozuk sözleşmeleri yükseltin.
 
 Bir sözleşmenin işlevselliğini duraklatma özelliğini dahil edin.
 
-Include ability to delay an action of a contract.
+Bir sözleşme eyleminin yapılmasını geciktirme özelliğini dahil edin.
 
 #### 3.8.2 Hileli işlemleri denetleme
 
