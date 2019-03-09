@@ -22,7 +22,7 @@ Venue jẹ gbigbekalẹ gẹgẹbi pilatifọọmu awujọ alayipada ti o n gba 
 
 ### 2.2 VERTO
 
-Verto is being built as a multi-currency wallet for use with the VDex decentralized exchange, and intends to facilitate personal custody and local management of private and public keys in peer-to-peer transactions, with the goal of eliminating the risks of devastating losses of stake associated with traumatic failures of central operators. Verto plans to employ a system of smart contracts to maintain the state between two trading clients, the simplest operations being accomplished with atomic swaps.[1]
+Verto jẹ gbigbe dide gẹgẹbi apo owo olorisirisi-owo fun lilo pẹlu paṣipaarọ alaisilojukan ti VDex, o si ni ero lati mu irọrun ba ifipamọ ti ara ẹni ati iṣakoso ibilẹ ti awọn kọkọrọ ikọkọ ati kọkọrọ gbangba ninu awọn iṣowo ẹgbẹ-si-ẹgbẹ, pẹlu afojusun lati se imukuro awọn ewu ti awọn ipadanu oniparun ti isamisi ti o ni nkan ṣe pẹlu awọn ikuna ti awọn oṣiṣẹ iṣakoso aaringbungbu. Verto plans to employ a system of smart contracts to maintain the state between two trading clients, the simplest operations being accomplished with atomic swaps.[1]
 
 ### 2.3 VESPUCCI
 
