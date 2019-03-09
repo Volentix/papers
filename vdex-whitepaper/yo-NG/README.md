@@ -38,7 +38,7 @@ Opo kẹrin ti Volentix, ibi ipaṣipaarọ VDex, jẹ pilatifọọmu ṣiṣe 
 
 A ti ṣe agbeyẹwo awọn orisirisi eto isẹ sise ori ẹrọ bi awọn oludije fun ipilẹ ti ibi ipaṣipaarọ VDex wa. Bi o tilẹ ṣepe a bọwọ fun iṣẹ ti awọn asaaju ti o ti fẹsẹrinlẹ ni idi awọn ohun-ini oni-nọmba ati imọ-ẹrọ blockchain ti se, ninu awọn assaju naa iṣẹ ti EOS.IO gẹgẹbi ilana eto isẹ ṣiṣe ti ori ẹrọ lori eyi ti a ti le se agbedide awọn ohun elo alaisilojukan da yatọ, ninu ero wa, bi awokọṣe. Software naa pese awọn akọọlẹ, ìfàṣẹsí, awọn ibi ipamọ data, ibaraẹnisọrọ alailo aago, ati ṣiṣe eto kari awọn iṣupọ. Awọn ẹya ohun elo ati awọn Ilana ti wa ni kikọ tẹlẹ sinu pilatifọọmu naa, ati pe ẹya kan le jẹ lilo lati le ni ibaamu pẹlu awọn ibeere VDex wa. VDex yoo kọkọ jẹ anfani lati ara awọn ẹya to pewọn ti EOS.IO n funni gẹgẹbi akọọlẹ ati sisẹda apo owo ati gbigba awọn kọkọrọ ti o jẹ jiji pada, ṣugbọn a gbero totẹlera lati ṣe amulo awọn ilana fun ṣiṣẹda ibi ipasiparọ alaisilojukan nipasẹ awọn iwe adehun EOS ati awọn irinṣẹ miran.[2] Eyi ni alaye isọniṣoki awọn ilana amoriya:
 
-### Context Free Actions
+### Awọn Igbesẹ Alaini Aami itọka
 
 Most of the scalability techniques proposed by Ethereum (Sharding, Raiden, Plasma, State Channels) become more efficient, parallelizable, and practical while also ensuring speedy inter-blockchain communication and unimpaired scalability. A Context Free Action involves computations that depend only on transaction data, and not upon the blockchain state.
 
