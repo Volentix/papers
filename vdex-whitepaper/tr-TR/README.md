@@ -270,7 +270,7 @@ Kullanıcı deneyimine odaklanmamız önceliklidir. VTX ve Volentix'in dört aya
 
 ### 3.11 DOĞRU MERKEZSİZLEŞME
 
-EOS.IO, merkezi olmayan uygulamalar için açık kaynaklı ölçeklenebilir bir altyapıdır. Its goal is a fair and transparent block producer (BP) election process utilizing a democratic delegated proof of stake (DPoS) consensus. Particularly as such a system just begins to proliferate, there will be glitches. Therefore, some degree of retained centralization is inevitable and necessary. But our guiding philosophy is one of decentralization, and our ongoing efforts are targeted to promoting a reduction in dependence on central authority.
+EOS.IO, merkezi olmayan uygulamalar için açık kaynaklı ölçeklenebilir bir altyapıdır. Amacı, bir demokratik delegeli hisse kanıtı (DPoS) fikir birliğini kullanan adil ve şeffaf bir blok üreticisi (BP) seçim sürecidir. Özellikle böyle bir sistem daha yeni çoğalmaya başladığında, aksaklıklar olacaktır. Bu nedenle, bir miktar korunmuş merkezileşme kaçınılmaz ve gereklidir. Ancak yol gösterici felsefemiz, ademi merkeziyetçilikten biridir ve devam eden çabalarımız merkezi otoriteye bağımlılığın azalmasını teşvik etmeyi hedeflemektedir.
 
 For example, initially we plan to erect a system for electing nodes (when solving order books) that will not use a shared central clock or DPoS but instead will be based either on random timeouts for the determination of leaders in an election (RAFT) or on Directed Acyclic Graph (DAG) in the PARSEC protocol.
 
