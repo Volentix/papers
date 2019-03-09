@@ -348,7 +348,7 @@ M. M. Timo Hanke ve D. Williams, Dfinity teknolojisine genel bakış serisi fiki
 
 A. B. Will Warren, 0x: Ethereum blok zinciri üzerindeki merkezi olmayan borsa için açık bir protokol, (2017).
 
-G. Wood, Ethereum: A secure decentralised generalised transaction ledger.ethereum project yellow paper, (2014).
+G. Ahşap, Ethereum: Güvenli bir merkezi olmayan genelleştirilmiş işlem ledger.ethereum proje sarı belgesi, (2014).
 
 Dane Keller Rutledge, Creating a Comprehensive Digital Assets Ecosystem (DAE), (2018).
 
