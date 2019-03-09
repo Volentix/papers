@@ -375,7 +375,7 @@ KULLANICI SEÇENEKLERİ
 
 * ### **GENEL MİMARLIK VE UYGULAMA**
 
-We have discussed the three main subsystems of Fundamental / Technological Analysis, Technical Analysis, and Sentiment Analysis. All three pillars are imperfect. Furthermore, only the most experienced analysts can combine all three systems in one rating strategy. The final score for each cryptocurrency depends on each of the three components, weighted either by default values or by weighs provided by the user. Since we are firm believers in the value of the technology and the value of the team behind each cryptocurrency, FTA and, especially, the technological aspects are assigned a total weight of 50% by default. Based on research and trial of assessment parameters, appropriate weights are derived to quantifiably gauge the validity of a coin. We exploit recent breakthroughs in deep neural networks in order to automate the combination of scores without human intervention so as to avoid introducing direct or indirect bias.
+We have discussed the three main subsystems of Fundamental / Technological Analysis, Technical Analysis, and Sentiment Analysis. Üç sütun da kusurlu. Furthermore, only the most experienced analysts can combine all three systems in one rating strategy. The final score for each cryptocurrency depends on each of the three components, weighted either by default values or by weighs provided by the user. Since we are firm believers in the value of the technology and the value of the team behind each cryptocurrency, FTA and, especially, the technological aspects are assigned a total weight of 50% by default. Based on research and trial of assessment parameters, appropriate weights are derived to quantifiably gauge the validity of a coin. We exploit recent breakthroughs in deep neural networks in order to automate the combination of scores without human intervention so as to avoid introducing direct or indirect bias.
 
 The outputs of all three constituents together with the corresponding price (the price being inverse to risk) movements for different frames yield a ranking of the cryptocurrencies and the tokens in the most holistic approach ever achieved. This is coupled with Post-processing for humans.
 
@@ -399,7 +399,7 @@ To effectiv ely manage our computer cluster consisting of listening and analyzin
 
 The **implementation** of the Vespucci analysis tools is in Python using various data analytics libraries, wrappers for the different APIs, and libraries for machine learning. The libraries to be used are some of the following:
 
-* NumPy, Pandas, Seaborn, matplotlib for the analysis part.
+* NumPy, Pandas, Seaborn, analiz bölümü için matplotlib.
 * Scikit-learn, TensorFlow for machine learning.
 * NLTK, Tweepy, VADER, TextBlob for twitter sentiment analysis.
 * pyodbc to connect with our database.
@@ -418,30 +418,30 @@ Storage techniques may rely on off-chain Order books developed by VLabs, which i
 ![](https://volentix.io/file/2019/01/Web-1920-–-2@3x.png)
 
 The project’s timeline is shown in the above figure. The main milestones are:  
-— Vespucci MVP. November 2018 .  
-— Vespucci, version 1.0\. April 2019.
+— Vespucci MVP. Kasım 2018.  
+— Vespucci, sürüm 1.0\. Nisan 2019.
 
-### **ACKNOWLEDGMENTS**
+### **TEŞEKKÜR**
 
 This text is based on NH’s original vision docs and AA’s update on them.
 
-### **REFERENCES**
+### **REFERANSLAR**
 
 [1] J. Yao et al. Forecasting and Analysis of Marketing Data using Neural Networks”, Journal of Science and Engineering 14:843-862 (1998)
 
-[2] E. Kouloumpis et al. Twitter Sentiment Analysis: The Good the Bad and the OMG!”, International AAAI Conference on Weblogs and Social Media (ICWSM-11) (2011)
+[2] E. Kouloumpis et al. Twitter Duyarlılık Analizi: Kötü, İyi ve AMAN TANRIM!”, Uluslararası AAAI Weblogs ve Sosyal Medya üzerinde Konferans (ICWSM-11) (2011)
 
-[3] A. Severyn et al. Twitter Sentiment Analysis with Deep Convolutional Neural Networks, International ACM SIGIR Conference on Research and Development in Information Retrieval:959-962 (2015)
+[3] A. Severyn ve ark. Twitter Sentiment Analysis with Deep Convolutional Neural Networks, International ACM SIGIR Conference on Research and Development in Information Retrieval:959-962 (2015)
 
 [4] C.J. & Gilbert et al. VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text. International Conference on Weblogs and Social Media (ICWSM-14) 8 (2014)
 
-[5] Bird et al. Natural Language Processing with Python, O’Reilly Media Inc. (2009)
+[5] Kuş ve ark. Python ile Doğal Dil İşleme, O’Reilly Media Inc. (2009)
 
-[6] E. Stenqvist et al. Predicting Bitcoin price fluctuation with Twitter sentiment analysis. MSc Thesis. School of Computer Science and Communication, KTH Royal Institute of Technology, Stockholm, Sweden (2017)
+[6] E. Stenqvist et al. Twitter duyarlılık analizi ile Bitcoin fiyatındaki dalgalanmayı tahmin etmek. Yüksek Lisans Tezi. School of Computer Science and Communication, KTH Royal Institute of Technology, Stockholm, Sweden (2017)
 
-[7] H. Kakavand, N. Kost De Sevres, and B. Chilton, The Blockchain Revolution: An Analysis of Regulation and Technology Related to Distributed Ledger Technologies. SSRN Electronic Journal. 10.2139/ ssrn.2849251 (2017)
+[7] H. Kakavand, N. Kost De Sevres, and B. Chilton, The Blockchain Revolution: An Analysis of Regulation and Technology Related to Distributed Ledger Technologies. SSRN Elektronik Dergi. 10.2139/ ssrn.2849251 (2017)
 
-[8] Arup Foresight: Blockchain Technology
+[8] Arup Öngörüsü: Blok zinciri Teknolojisi
 
 [9] Volentix Labs,The Volentix VDEX Whitepaper (2018) <https://s3.ca-central-1.amazonaws.com/volentix/VDexWhitePaper.pdf>
 
