@@ -443,21 +443,21 @@ Bu metin NH’nin orijinal vizyon belgelerine ve AA’nın güncellemelerine day
 
 [8] Arup Öngörüsü: Blok zinciri Teknolojisi
 
-[9] Volentix Laboratuarları,Volentix VDEX Tanıtım belgesi (2018) <https://s3.ca-central-1.amazonaws.com/volentix/VDexWhitePaper.pdf>
+[9] Volentix Laboratuvarları,Volentix VDEX Tanıtım belgesi (2018) <https://s3.ca-central-1.amazonaws.com/volentix/VDexWhitePaper.pdf>
 
 [10] <http://crix.hu-berlin.de/> [Teknik Analiz]
 
 [11] <https://hackernoon.com/a-framework-for-evaluating-cryptocurrencies-e1b504179848>
 
-[12] <https://eos.io/>, Eos.io technical white paper v2 (2018).
+[12] <https://eos.io/>, Eos.io teknik tanıtım belgesi v2 (2018).
 
 [13] <https://cryptocoinrankings.com/index.php> [teknik indikatörler]
 
-[14] <https://gist.github.com/gavinandresen/e20c3b5a1d4b97f79ac2> [O(1) Block Propagation]
+[14] <https://gist.github.com/gavinandresen/e20c3b5a1d4b97f79ac2> [O(1) Blok Yayılımı]
 
-[15] <http://blocktivity.info/> [activity on blockchains, projects being used by people]
+[15] <http://blocktivity.info/> [blok zincirleri üzerindeki etkinlik, insanlar tarafından kullanılan projeler]
 
-[16] <https://www.coingecko.com/> [Cryptocurrencies Chart]
+[16] <https://www.coingecko.com/> [Kripto Para Birimleri Grafiği]
 
 [17] <https://www.investopedia.com>
 
