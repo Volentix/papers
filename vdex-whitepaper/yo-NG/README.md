@@ -30,7 +30,7 @@ Vespucci jẹ fifojusun gẹgẹbi ohun elo iyanana ti o se wọle si nipasẹ i
 
 ### 2.4 VDEX
 
-Opo kẹrin ti Volentix, ibi ipaṣipaarọ VDex, jẹ pilatifọọmu ṣiṣe owo awọn ohun-ini oni-nọmba ti a ṣe alaye ninu iwe funfun yii. For smooth and secure usability, we plan VDex to integrate with your own personal Verto wallet and Vespucci interface. We expect VDex to be able to manage transactions involving both VTX and the vast array of digital assets and blockchains extant from time to time throughout the world. We are developing Venue as a complementary adjunct primarily in order to incentivize and drive native VTX-based initiatives.
+Opo kẹrin ti Volentix, ibi ipaṣipaarọ VDex, jẹ pilatifọọmu ṣiṣe owo awọn ohun-ini oni-nọmba ti a ṣe alaye ninu iwe funfun yii. Fun lilo ti o dan mọran ati ti o ni aabo, a gbero lati jẹki VDex ṣiṣẹpọ pẹlu apo owo Verto ti ara rẹ ati intafeesi Vespucci. A reti pe ki VDex ni anfani lati ṣakoso awọn iṣowo ti o jẹmọ VTX ati eto ọpọlọpọ awọn ohun-ini oni-nọmba ati awọn blockchain ti o si wa laye lati igba de igba jakejado agbalaye. We are developing Venue as a complementary adjunct primarily in order to incentivize and drive native VTX-based initiatives.
 
 ## 3. ARCHITECTURE
 
