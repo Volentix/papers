@@ -40,13 +40,13 @@ A ti ṣe agbeyẹwo awọn orisirisi eto isẹ sise ori ẹrọ bi awọn oludi
 
 ### Awọn Igbesẹ Alaini Aami itọka
 
-Ọpọlọpọ awọn ilana ipele agbara odiwọn ti Ethereum gbero (Sharding, Raiden, Plasma, State Channels) tubọ sisẹ si, o ṣese ni ọgbaọgba, ati pe o bojumu nigba ti o n ṣe aridaju iyara ibaraẹnisọrọ laarin-blockchain ati aidibajẹ ipele agbara odiwọn. Igbesẹ Alaini Aami itọka jẹmọ awọn isiro ti o dalori idunadura data nikan, ko kin ṣe lori ipo blockchain.
+Ọpọlọpọ awọn ilana ipele agbara odiwọn ti Ethereum gbero (Sharding, Raiden, Plasma, State Channels) tubọ sisẹ si, o ṣe mu dọgba, ati pe o bojumu nigba ti o n ṣe aridaju iyara ibaraẹnisọrọ laarin-blockchain ati aidibajẹ ipele agbara odiwọn. Igbesẹ Alaini Aami itọka jẹmọ awọn isiro ti o dalori idunadura data nikan, ko kin ṣe lori ipo blockchain.
 
 ### Iyipada Binary/JSON
 
-EOS contracts combine the human readability of JSON with the efficiency of binary.
+Awọn iwe adehun EOS da anfani awọn eniyan lati leka JSON pọ mọ iṣiṣẹsi ti binari.
 
-### Parallelization and optimization
+### Imudọgba ati imupeye
 
 Separating authentication from application allows faster transaction times and increases bandwidth. EOS.IO blocks are reportedly produced every 500ms.
 
