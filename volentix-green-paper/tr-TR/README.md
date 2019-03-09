@@ -47,18 +47,18 @@ In contemplating technological design, we have evaluated various existing (and e
 
 We aim to make VTX and the four pillars of VOLENTIX — VENUE, VERTO, VESPUCCI, and VDEX — easily accessible to and usable by all those who wish to join our community. We plan a user interface that makes available to you relevant market data as well as your account information. We expect the experience to be enhanced by continuing education, with templates and simulators to support a superior UX/UI relationship.
 
-## PHILOSOPHY AND COMMITMENT
+## FELSEFE VE BAĞLILIK
 
 Our guiding philosophy is one of decentralization, and our ongoing efforts are targeted to promoting a reduction in dependence on central authority. The tremendous benefit of the open-source code philosophy  
-is that every day there are announcements of fresh code developments impacting on convenient and safe trading and use of digital assets. Our premise is security and ease of operation. Prudence mandates education. The most important asset is knowledge.
+is that every day there are announcements of fresh code developments impacting on convenient and safe trading and use of digital assets. Our premise is security and ease of operation. İhtiyat, eğitimi zorunlu kılar. En önemli varlık bilgidir.
 
-All of us at VOLENTIX are dedicating sizable quantities of work and insights to developing a program premised on empowerment and independence. Please monitor our website and social media for updates and other important announcements. Thank you very much for your attention and interest.
+All of us at VOLENTIX are dedicating sizable quantities of work and insights to developing a program premised on empowerment and independence. Please monitor our website and social media for updates and other important announcements. Dikkatiniz ve ilginiz için çok teşekkür ederiz.
 
-Volentix Labs
+Volentix Laboratuvarları
 
-## Disclaimer
+## Sorumluluk Reddi
 
-FOR INFORMATION PURPOSES ONLY. This information does not purport to be comprehensive. The information is subject to change in whole or in part at any time without notice. Volentix Labs reserves the right to amend, replace, remove, or delete any and all information at the sole and exclusive discretion of Volentix Labs. Volentix Labs makes no representation or warranty, expressed or implied, concerning the accuracy or completeness of the information and expressly disclaims any and all liability of any and all kinds whatsoever for the information contained or not contained. Volentix Labs requests each and every reader to read the information fully and carefully, and to undertake independent investigation and analysis of the information, and to seek and obtain professional advice for purposes of evaluating the information. To the knowledge of Volentix Labs, no regulatory agency, government, or other third-party enforcement entity has reviewed, evaluated, or approved any part or all of the information. This information is not an offer or solicitation of any kind whatsoever and does not form the basis for any contract or commitment of any kind whatsoever. Any statement considered to be forward-looking is purely a matter of opinion, and no viewer should rely on any such statement or on any part or all of the information in any way whatsoever.
+SADECE BİLGİ AMAÇLARI İÇİN. Bu bilgiler kapsamlı olduğunu iddia etmiyor. The information is subject to change in whole or in part at any time without notice. Volentix Labs reserves the right to amend, replace, remove, or delete any and all information at the sole and exclusive discretion of Volentix Labs. Volentix Labs makes no representation or warranty, expressed or implied, concerning the accuracy or completeness of the information and expressly disclaims any and all liability of any and all kinds whatsoever for the information contained or not contained. Volentix Labs requests each and every reader to read the information fully and carefully, and to undertake independent investigation and analysis of the information, and to seek and obtain professional advice for purposes of evaluating the information. To the knowledge of Volentix Labs, no regulatory agency, government, or other third-party enforcement entity has reviewed, evaluated, or approved any part or all of the information. This information is not an offer or solicitation of any kind whatsoever and does not form the basis for any contract or commitment of any kind whatsoever. Any statement considered to be forward-looking is purely a matter of opinion, and no viewer should rely on any such statement or on any part or all of the information in any way whatsoever.
 
 ## RESTRICTION REGARDING U.S.A.
 
