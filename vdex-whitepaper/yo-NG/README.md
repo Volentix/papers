@@ -52,7 +52,7 @@ Yiya ifasẹsi sọtọ si ohun elo n faye gba ki akoko idunadura yara sii ati m
 
 ### Apejọ Ayelujara(WASM)
 
-Web Assembly enables high-performance Web applications and also secures each application in its own sandbox, through which functionalities VDex can obtain network access, filesystem namespace restrictions, and enforced rule-based execution.
+Apejọ Ayelujara jẹ ki iṣẹ ṣiṣe awọn ohun elo Ayelujara gaju si ati o tun da aabo bo ohun elo kọọkan ninu apoti ara rẹ, nipasẹ eyiti awọn iṣẹsi VDex le ri iwọle nẹtiwọki gba, awọn ihamọ aaye-orukọ faili-eto, ati aseyege ti o da lori ofin afipamu.
 
 ### Rust/C++ contracts
 
