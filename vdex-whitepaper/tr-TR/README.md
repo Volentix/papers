@@ -272,7 +272,7 @@ Kullanıcı deneyimine odaklanmamız önceliklidir. VTX ve Volentix'in dört aya
 
 EOS.IO, merkezi olmayan uygulamalar için açık kaynaklı ölçeklenebilir bir altyapıdır. Amacı, bir demokratik delegeli hisse kanıtı (DPoS) fikir birliğini kullanan adil ve şeffaf bir blok üreticisi (BP) seçim sürecidir. Özellikle böyle bir sistem daha yeni çoğalmaya başladığında, aksaklıklar olacaktır. Bu nedenle, bir miktar korunmuş merkezileşme kaçınılmaz ve gereklidir. Ancak yol gösterici felsefemiz, ademi merkeziyetçilikten biridir ve devam eden çabalarımız merkezi otoriteye bağımlılığın azalmasını teşvik etmeyi hedeflemektedir.
 
-For example, initially we plan to erect a system for electing nodes (when solving order books) that will not use a shared central clock or DPoS but instead will be based either on random timeouts for the determination of leaders in an election (RAFT) or on Directed Acyclic Graph (DAG) in the PARSEC protocol.
+Örneğin, başlangıçta paylaşılan bir merkezi saat ya da DPoS kullanmayacak, ancak bunun yerine bir seçimdeki liderlerin (RAFT) belirlenmesi için rastgele zaman aşımlarına ya da düğümlerin seçilmesi için (emir kitaplarını çözerken) PARSEC protokolünde Yönlendirilmiş Asiklik Grafiği'ne (DAG) dayanacak olan bir sistem kurmayı planlıyoruz.
 
 ### 3.12 SİSTEM KURTARMA
 
