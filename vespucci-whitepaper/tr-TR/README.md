@@ -411,47 +411,47 @@ For Sentiment Analysis, and possibly other modules as well, a **node.js** system
 
 Vespucci **data** sources may include, but not be limited to: historic trading records, trading trends, developer activity and plan analysis, digital asset distribution and governance information, terms and conditions and current and historic address balances as well as forum sentiment analysis. This information can be found scattered among blockchain explorer sites and chat rooms. In particular, Sentiment analysis (see relevant [section](https://docs.google.com/document/d/1NLr-rgF66NCBmLmPIdElltKYVPJrLVO7DZDpcNEm6OU/edit?ts=5bec2f33#heading=h.tuaauijo691s)) would require data on all coins for a limited period of time. This is a vast amount of data and in order to minimise the impact that data will have on the system, we employ big data techniques of compression, aggregation, and filtering.
 
-Storage techniques may rely on off-chain Order books developed by VLabs, which is a sophisticated data structure with high security standards. It relies on EOS.IO, and its persistence API. One advantage of such a system is that it is not expensive; on the other hand, it is sufficiently efficient for our purposes. While transactions are handled by the VDex, non-transactional data will remain off-chain.
+Storage techniques may rely on off-chain Order books developed by VLabs, which is a sophisticated data structure with high security standards. EOS.IO'ya ve kalıcı API'ına güvenir. One advantage of such a system is that it is not expensive; on the other hand, it is sufficiently efficient for our purposes. While transactions are handled by the VDex, non-transactional data will remain off-chain.
 
-* ### **TIMELINE**
+* ### **ZAMAN ÇİZELGESİ**
 
 ![](https://volentix.io/file/2019/01/Web-1920-–-2@3x.png)
 
-The project’s timeline is shown in the above figure. The main milestones are:  
+Projenin zaman çizelgesi yukarıdaki şekilde gösterilmektedir. Ana kilometre taşları:  
 — Vespucci MVP. Kasım 2018.  
 — Vespucci, sürüm 1.0\. Nisan 2019.
 
 ### **TEŞEKKÜR**
 
-This text is based on NH’s original vision docs and AA’s update on them.
+Bu metin NH’nin orijinal vizyon belgelerine ve AA’nın güncellemelerine dayanmaktadır.
 
 ### **REFERANSLAR**
 
-[1] J. Yao et al. Forecasting and Analysis of Marketing Data using Neural Networks”, Journal of Science and Engineering 14:843-862 (1998)
+[1] J. Yao ve ark. Forecasting and Analysis of Marketing Data using Neural Networks”, Journal of Science and Engineering 14:843-862 (1998)
 
-[2] E. Kouloumpis et al. Twitter Duyarlılık Analizi: Kötü, İyi ve AMAN TANRIM!”, Uluslararası AAAI Weblogs ve Sosyal Medya üzerinde Konferans (ICWSM-11) (2011)
+[2] E. Kouloumpis ve ark. Twitter Duyarlılık Analizi: Kötü, İyi ve AMAN TANRIM!”, Uluslararası AAAI Weblogs ve Sosyal Medya üzerinde Konferans (ICWSM-11) (2011)
 
 [3] A. Severyn ve ark. Twitter Sentiment Analysis with Deep Convolutional Neural Networks, International ACM SIGIR Conference on Research and Development in Information Retrieval:959-962 (2015)
 
-[4] C.J. & Gilbert et al. VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text. International Conference on Weblogs and Social Media (ICWSM-14) 8 (2014)
+[4] C.J. & Gilbert et al. VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text. Uluslararası Weblogs ve Sosyal Medya Konferansı (ICWSM-14) 8 (2014)
 
 [5] Kuş ve ark. Python ile Doğal Dil İşleme, O’Reilly Media Inc. (2009)
 
-[6] E. Stenqvist et al. Twitter duyarlılık analizi ile Bitcoin fiyatındaki dalgalanmayı tahmin etmek. Yüksek Lisans Tezi. School of Computer Science and Communication, KTH Royal Institute of Technology, Stockholm, Sweden (2017)
+[6] E. Stenqvist et al. Twitter duyarlılık analizi ile Bitcoin fiyatındaki dalgalanmayı tahmin etmek. Yüksek Lisans Tezi. Bilgisayar Bilimi ve İletişim Fakültesi, KTH Kraliyet Teknoloji Enstitüsü, Stockholm, İsveç (2017)
 
-[7] H. Kakavand, N. Kost De Sevres, and B. Chilton, The Blockchain Revolution: An Analysis of Regulation and Technology Related to Distributed Ledger Technologies. SSRN Elektronik Dergi. 10.2139/ ssrn.2849251 (2017)
+[7] H. Kakavand, N. Kost De Sevres ve B. Chilton, Blok Zinciri Devrimi: Dağıtılmış Defteri Kebir Teknolojileri ile İlgili Bir Düzenleme ve Teknoloji Analizi. SSRN Elektronik Dergi. 10.2139/ ssrn.2849251 (2017)
 
 [8] Arup Öngörüsü: Blok zinciri Teknolojisi
 
-[9] Volentix Labs,The Volentix VDEX Whitepaper (2018) <https://s3.ca-central-1.amazonaws.com/volentix/VDexWhitePaper.pdf>
+[9] Volentix Laboratuarları,Volentix VDEX Tanıtım belgesi (2018) <https://s3.ca-central-1.amazonaws.com/volentix/VDexWhitePaper.pdf>
 
-[10] <http://crix.hu-berlin.de/> [Technical Analysis]
+[10] <http://crix.hu-berlin.de/> [Teknik Analiz]
 
 [11] <https://hackernoon.com/a-framework-for-evaluating-cryptocurrencies-e1b504179848>
 
 [12] <https://eos.io/>, Eos.io technical white paper v2 (2018).
 
-[13] <https://cryptocoinrankings.com/index.php> [technical indicators]
+[13] <https://cryptocoinrankings.com/index.php> [teknik indikatörler]
 
 [14] <https://gist.github.com/gavinandresen/e20c3b5a1d4b97f79ac2> [O(1) Block Propagation]
 
