@@ -30,13 +30,13 @@ Vespucci jẹ fifojusun gẹgẹbi ohun elo iyanana ti o se wọle si nipasẹ i
 
 ### 2.4 VDEX
 
-Opo kẹrin ti Volentix, ibi ipaṣipaarọ VDex, jẹ pilatifọọmu ṣiṣe owo awọn ohun-ini oni-nọmba ti a ṣe alaye ninu iwe funfun yii. Fun lilo ti o dan mọran ati ti o ni aabo, a gbero lati jẹki VDex ṣiṣẹpọ pẹlu apo owo Verto ti ara rẹ ati intafeesi Vespucci. A reti pe ki VDex ni anfani lati ṣakoso awọn iṣowo ti o jẹmọ VTX ati eto ọpọlọpọ awọn ohun-ini oni-nọmba ati awọn blockchain ti o si wa laye lati igba de igba jakejado agbalaye. We are developing Venue as a complementary adjunct primarily in order to incentivize and drive native VTX-based initiatives.
+Opo kẹrin ti Volentix, ibi ipaṣipaarọ VDex, jẹ pilatifọọmu ṣiṣe owo awọn ohun-ini oni-nọmba ti a ṣe alaye ninu iwe funfun yii. Fun lilo ti o dan mọran ati ti o ni aabo, a gbero lati jẹki VDex ṣiṣẹpọ pẹlu apo owo Verto ti ara rẹ ati intafeesi Vespucci. A reti pe ki VDex ni anfani lati ṣakoso awọn iṣowo ti o jẹmọ VTX ati eto ọpọlọpọ awọn ohun-ini oni-nọmba ati awọn blockchain ti o si wa laye lati igba de igba jakejado agbalaye. A n se agbedide Venue gẹgẹbi alabaṣiṣẹpọ ni pato lati ma peṣe iwuri ati atilẹyin fun awọn eto-atinuda ibilẹ ti o da lori VTX.
 
-## 3. ARCHITECTURE
+## 3. IYAWORAN
 
-#### 3.0.1 Operating system
+#### 3.0.1 Eto Isẹ sise ori ẹrọ
 
-We have evaluated various operating systems as candidates for the substructure of our VDex exchange. Though we honor the work done by a number of the established leaders in digital assets and blockchain technology, among those trailblazers the work of EOS.IO as an operating system-like framework upon which decentralized applications can be built stands out, in our opinion, as exemplary. The software provides accounts, authentication, databases, asynchronous communication, and scheduling across clusters. Components and protocols are already built into the platform, and a subset can be used to satisfy our VDex requirements. VDex will initially benefit from the standard features offered by EOS.IO such as account and wallet creation and the recovery of stolen keys, but we plan subsequently to implement protocols for creation of a decentralized exchange through EOS contracts and other tools.[2] Here is a summary of encouraging methodologies:
+A ti ṣe agbeyẹwo awọn orisirisi eto isẹ sise ori ẹrọ bi awọn oludije fun ipilẹ ti ibi ipaṣipaarọ VDex wa. Though we honor the work done by a number of the established leaders in digital assets and blockchain technology, among those trailblazers the work of EOS.IO as an operating system-like framework upon which decentralized applications can be built stands out, in our opinion, as exemplary. The software provides accounts, authentication, databases, asynchronous communication, and scheduling across clusters. Components and protocols are already built into the platform, and a subset can be used to satisfy our VDex requirements. VDex will initially benefit from the standard features offered by EOS.IO such as account and wallet creation and the recovery of stolen keys, but we plan subsequently to implement protocols for creation of a decentralized exchange through EOS contracts and other tools.[2] Here is a summary of encouraging methodologies:
 
 ### Context Free Actions
 
