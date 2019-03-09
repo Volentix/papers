@@ -78,7 +78,7 @@ This ensures that Vespucci SA component is able to cover the vast majority of pu
 
 Vespucci’s public opinion listeners run on cloud-based VMs that are able to instantly scale-out to address all potential workloads. This way Vespucci handles and ingests the massive, yet valuable, data volumes related to cryptocurrencies that are being generated at every given moment. Parallelization is key when handling Big Data and Vespucci’s architecture leverages parallelization, multi-threading and concurrency wherever possible. Micro-services and serverless code run in parallel to orchestrate the ingestion procedures and data flows.
 
-In the second phase, scoring tools are adapted and enhanced so as to focus their functionality to cryptocurrencies and, eventually, our own software shall be developed for this task. Moreover, some storage is used (see the relevant [section](https://docs.google.com/document/d/1NLr-rgF66NCBmLmPIdElltKYVPJrLVO7DZDpcNEm6OU/edit?ts=5bec2f33#heading=h.921dav9nirz6)) for aggregate data needed in order (a) to make historical comparisons and (b) to train the Convolutional Neural Network that produces the final score. For (a), we could make use of the entire history of each token since its creation. For (b), deep learning needs data covering a period of up to two years.
+In the second phase, scoring tools are adapted and enhanced so as to focus their functionality to cryptocurrencies and, eventually, our own software shall be developed for this task. Moreover, some storage is used (see the relevant [section](https://docs.google.com/document/d/1NLr-rgF66NCBmLmPIdElltKYVPJrLVO7DZDpcNEm6OU/edit?ts=5bec2f33#heading=h.921dav9nirz6)) for aggregate data needed in order (a) to make historical comparisons and (b) to train the Convolutional Neural Network that produces the final score. (a) için, oluşturulduğundan beri her tokenin geçmişinin tamamını kullanabiliriz. (b) için, derin öğrenme iki yıla kadar bir süreyi kapsayan verilere ihtiyaç duyar.
 
 Eventually, Vespucci will reach out to the open-source community in an attempt to make the platform decentralized to a great degree . The intention is to decentralize the data ingestion and sentiment scoring functionality in order to provide secure, community led, unbiased and credible results.
 
@@ -86,7 +86,7 @@ Eventually, Vespucci will reach out to the open-source community in an attempt t
 
 By leveraging Python’s Machine learning framework, and given the language’s advantages, it is only natural for this module to be implemented in Python. It interfaces with particular machine learning libraries such as Scikit-learn, TensorFlow, CNTK, Torch, Theano, and Keras.
 
-‪A user experience linking to the cryptocurrency’s public community forum is developed to provide up to date announcements and statistics of community activity. The final score can be derived as a scoring function. Eventually, machine learning techniques are applied to deliver real-time sentiment analysis.‬
+‪A user experience linking to the cryptocurrency’s public community forum is developed to provide up to date announcements and statistics of community activity. Nihai puan, bir puanlama işlevi olarak elde edilebilir. Neticede, gerçek zamanlı duyarlılık analizini teslim etmek için makine öğrenme teknikleri uygulanır.‬
 
 <table>
   <tr>
@@ -139,14 +139,14 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>LinkedIn</td>
 
-<td>Sentiment & Technological</td>
+<td>Duyarlılık & Teknolojik</td>
 
   </tr>
   
   <tr>
     
 
-<td>Coin Sites</td>
+<td>Sikke Siteleri</td>
 
 <td>Teknolojik & Temel</td>
 
@@ -236,7 +236,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 * #### **TEKNİK ANALİZ**
 
-Technical analysis is a trading tool employed to evaluate [securities](https://www.investopedia.com/terms/s/security.asp) and identify trading opportunities by analyzing statistics gathered from trading activity, such as price movement and volume. Unlike fundamental analysts who attempt to evaluate a security’s intrinsic value, [technical analysts](https://www.investopedia.com/terms/t/technical-analyst.asp) focus on charts of price movement and va rious analytical tools to evaluate a security’s strength or weakness. A typical source may be **coinmarketcap**. We focus on indicators and methods suitable for assets with high volatility of prices, and hence suitable for cryptocurrencies.
+Technical analysis is a trading tool employed to evaluate [securities](https://www.investopedia.com/terms/s/security.asp) and identify trading opportunities by analyzing statistics gathered from trading activity, such as price movement and volume. Unlike fundamental analysts who attempt to evaluate a security’s intrinsic value, [technical analysts](https://www.investopedia.com/terms/t/technical-analyst.asp) focus on charts of price movement and va rious analytical tools to evaluate a security’s strength or weakness. Tipik bir kaynak **coinmarketcap** olabilir. We focus on indicators and methods suitable for assets with high volatility of prices, and hence suitable for cryptocurrencies.
 
 Technical analysts believe the analysis of price movement or the supply and demand of currencies is the best way to identify trends in the currency. Price movements tend to trade within a trend or range. In connection with this belief, technical analysts assume that history tends to repeat itself, based on the idea that market participants have often reacted in a similar fashion to reoccurring market events. There is a very large number of techniques and indices for data analysis. In this section, we focus on certain simple techniques, such as Keltner Channels , moving average crossovers, RSI, Bollinger Bands, and the popular MACD, and to some advanced methods, such as Fibonnaci, and Ichimoku Kinko Hyo.
 
