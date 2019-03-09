@@ -284,7 +284,7 @@ Daily announcements of fresh code developments impacting on use of digital asset
 
 ## 4. SON DÜŞÜNCELER
 
-Volentix'teki hepimiz, çalışmalarımızı ve içgörülerimizi güçlendirme ve bağımsızlık üzerine kurulu bir program geliştirmeye adadık. If you are of a mind to join us, in whatever capacity, then please do so and please become educated on the topics contained in this white paper and additional Volentix publications as we share them with our community.
+Volentix'teki hepimiz, çalışmalarımızı ve içgörülerimizi güçlendirme ve bağımsızlık üzerine kurulu bir program geliştirmeye adadık. Bize ne şekilde bir kapasitede olursa olsun katılmaya karar verirseniz, lütfen bunu yapın ve lütfen bu tanıtım belgesinde yer alan konular ve topluluğumuzla paylaştığımız Volentix ek yayınları hakkında eğitimli olun.
 
 ## 5. ZAMAN ÇİZELGESİ
 
