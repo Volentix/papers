@@ -250,7 +250,7 @@ Bir ağın toplam bilgi işlem gücünün \>%50'sine sahip olan herhangi biri ta
 
 #### 3.9.2 Ön koşu
 
-Bir ön koşucu, bekleyen bir emir defteri ödeme işleminden bir veya daha fazla emir çalar. Hem EOS.IO hem de Loopring, açık zincir işleminin bir parçası olmadığından anahtarların korunduğu için çözümler sunar ve bu nedenle de mal sahibi dışındaki şahıslar tarafından bilinmeyen olarak kalır. Only the order book settling node is possessed of the sensitive information, and each node uses a different solution for resolving the order books, introducing yet another level of complexity to promote security.
+Bir ön koşucu, bekleyen bir emir defteri ödeme işleminden bir veya daha fazla emir çalar. Hem EOS.IO hem de Loopring, açık zincir işleminin bir parçası olmadığından anahtarların korunduğu için çözümler sunar ve bu nedenle de mal sahibi dışındaki şahıslar tarafından bilinmeyen olarak kalır. Yalnızca emir defteri anlaşma düğümü hassas bilgilere sahiptir ve her düğüm, emir defterlerini çözmek için farklı bir çözüm kullanır, güvenliği arttırmak için başka bir karmaşıklık seviyesi sunar.
 
 #### 3.9.3 Sahte kimlikler
 
