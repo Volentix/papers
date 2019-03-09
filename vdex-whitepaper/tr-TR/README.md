@@ -350,6 +350,6 @@ A. B. Will Warren, 0x: Ethereum blok zinciri üzerindeki merkezi olmayan borsa i
 
 G. Ahşap, Ethereum: Güvenli bir merkezi olmayan genelleştirilmiş işlem ledger.ethereum proje sarı belgesi, (2014).
 
-Dane Keller Rutledge, Creating a Comprehensive Digital Assets Ecosystem (DAE), (2018).
+Dane Keller Rutledge, Kapsamlı bir Dijital Varlıklar Ekosistemi (DAE), (2018) Oluşturmak.
 
 ## BELGENİN SONU
