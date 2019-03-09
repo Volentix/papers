@@ -306,7 +306,7 @@ Bu tanıtım belgesi, sadece bilgi amaçlı hazırlanmış ve sunulmuştur. Sunu
 
 5. F. Zhou, Wang, Loopring: Merkezi olmayan bir token değiş tokuş protokolü, (2018).
 
-6. G. B. Eyal Hertzog, Guy Benartzi, Bancor protocol: Continuous liquidity for cryptographic tokens through their smart contracts, (2018).
+6. G. B. Eyal Hertzog, Guy Benartzi, Bancor protokolü: Akıllı sözleşmeleri vasıtasıyla kriptografik tokenler için sürekli likidite, (2018).
 
 7. L. Lamport, yarı zamanlı parlamento, (1998).
 
@@ -328,7 +328,7 @@ ARK, Tüketici kabulü için bir platform, (2018).
 
 V. Buterin, Ethereum: yeni nesil akıllı sözleşme ve merkezi olmayan bir uygulama platformu, (2013).
 
-S. Cormier, A machine based societal model for curbing citizen cynicism, (2017).
+S. Cormier, Vatandaş sinizmini engellemek için makine temelli bir toplumsal model, (2017).
 
 M. Duncan, Quale, Halo platformu, (2018).
 
