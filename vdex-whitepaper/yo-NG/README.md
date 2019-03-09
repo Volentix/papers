@@ -40,7 +40,7 @@ A ti ṣe agbeyẹwo awọn orisirisi eto isẹ sise ori ẹrọ bi awọn oludi
 
 ### Awọn Igbesẹ Alaini Aami itọka
 
-Most of the scalability techniques proposed by Ethereum (Sharding, Raiden, Plasma, State Channels) become more efficient, parallelizable, and practical while also ensuring speedy inter-blockchain communication and unimpaired scalability. A Context Free Action involves computations that depend only on transaction data, and not upon the blockchain state.
+Ọpọlọpọ awọn ilana ipele agbara odiwọn ti Ethereum gbero (Sharding, Raiden, Plasma, State Channels) tubọ dara si, o ṣese ni ọgbaọgba, ati pe o bojumu nigba ti o n ṣe aridaju iyara ibaraẹnisọrọ laarin-blockchain ati aidibajẹ ipele agbara odiwọn. A Context Free Action involves computations that depend only on transaction data, and not upon the blockchain state.
 
 ### Binary/JSON conversion
 
