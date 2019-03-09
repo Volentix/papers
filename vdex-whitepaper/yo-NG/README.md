@@ -60,7 +60,7 @@ Ede siseto C++ ti o lokiki ati ti o gbajumọ farahan bi eyi ti o dara julọ fu
 
 #### 3.0.2 Schema defined messages and database
 
-Awọn adehun iṣẹ ti wa ni imudojuwọn lati pese ipilẹṣẹ odiwọn ti isisẹpọ laarin ati ninu awọn eto ti o yatọ nipasẹ sise asopọ awọn awoṣe data. Indeed, the Standardized Service Contract design principle advocates that service contracts be based on standardized data models. Analysis is done on the service inventory blueprint to find out the commonly occurring business documents that are exchanged between services. These business documents are then modeled in a standardized manner. The Canonical Schema pattern reduces the need for application of the data model transformation design pattern. [3]
+Awọn adehun iṣẹ ti wa ni imudojuwọn lati pese ipilẹṣẹ odiwọn ti isisẹpọ laarin ati ninu awọn eto ti o yatọ nipasẹ sise asopọ awọn awoṣe data. Nitootọ, ilana Eto Adehun Adojuiwọn beere fun pe ki awọn adehun eto da lori awọn awoṣe data ti o dojuiwọn. Iyanana ma n jẹ ṣiṣe lori apẹrẹ iwe-akọọlẹ ti iṣẹ lati wa awọn iwe-iṣowo owo ti o n waye daadaa ti o n jẹ pipaarọ laarin awọn iṣẹ. These business documents are then modeled in a standardized manner. The Canonical Schema pattern reduces the need for application of the data model transformation design pattern. [3]
 
 #### 3.0.3 Inter-Contract Communication
 
