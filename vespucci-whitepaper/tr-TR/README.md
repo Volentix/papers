@@ -281,21 +281,21 @@ Various blockchain technologies have been developed to tackle various challenges
 * Scalability concerns how the system’s performance is affected by the number of nodes, transactions and users, and the scattering of the geographic positions of the nodes.
 * Hardware requirements for storage, memory and processors needed to store the blockchain network and validate the transactions and blocks, as well as how these requirements change while the networks grows.
 
-To implement the above analysis, further detail is given in the next section. Bugün, blok zinciri kaşifleri bu görevi desteklemek için yaygın olarak mevcuttur. In particular, blockchain explorers such as [coinmetrics](https://coinmetrics.io/) and [cryptocompare](https://www.cryptocompare.com/) were combined, in order to meet the needs of FTA. The former is an open source crypto-asset analytics service, providing daily data for the most major cryptocurrencies (about 64 currently). Cryptocompare is a platform with live cryptocurrency data; its API makes available historical and live streaming cryptocurrency data, such as pricing, volume and block explorer data from multiple exchanges and blockchains.
+Yukarıdaki analizi yapmak için, bir sonraki bölümde daha fazla ayrıntı verilmiştir. Bugün, blok zinciri kaşifleri bu görevi desteklemek için yaygın olarak mevcuttur. In particular, blockchain explorers such as [coinmetrics](https://coinmetrics.io/) and [cryptocompare](https://www.cryptocompare.com/) were combined, in order to meet the needs of FTA. The former is an open source crypto-asset analytics service, providing daily data for the most major cryptocurrencies (about 64 currently). Cryptocompare is a platform with live cryptocurrency data; its API makes available historical and live streaming cryptocurrency data, such as pricing, volume and block explorer data from multiple exchanges and blockchains.
 
 Among others, some of the features available by both APIs are:
 
 * transaction count – number of transactions happening on the public blockchain a day
 * transaction volume (usd) – total value of outputs on the blockchain, on a given day
 * adjusted transaction volume (usd) – estimated ([https://coinmetrics.io/introducing-adjusted-estimates](https://coinmetrics.io/introducing-adjusted-estimates/))
-* payment count
-* active addresses
-* fees
+* ödeme sayısı
+* aktif adresler
+* ücretler
 * ortanca ücret
 * oluşturulan sikkeler
-* average difficulty
-* median transaction value (usd)
-* block size
+* ortalama zorluk
+* ortanca işlem değeri (usd)
+* blok boyutu
 * blok sayısı
 * fiyat (usd)
 * piyasa kapitalizasyonu (usd)
@@ -328,7 +328,7 @@ Daha spesifik olarak, deponun popülaritesini ve sağlamlığını belirleyen gi
 
 The combination of these criteria relies essentially on an adapted and powerful scoring function which, eventually, may be replaced by a Convolutional Neural Network, also discussed in support of Sentiment Analysis (see relevant section).
 
-* #### **BLOCKCHAIN STATISTICS, BLOCKCHAIN FULL NODE, AND EVM ANALYSIS**
+* #### **BLOK ZİNCİRİ İSTATİSTİKLERİ, BLOK ZİNCİRİ TAM DÜĞÜM VE EVM ANALİZİ**
 
 This module is responsible for communicating with each of the nodes deployed for each blockchain being assessed. Its role is to provide a coherent standardized interface to the RESTful endpoint layer so that the nature of any blockchain can be abstracted, while knowing how to query any blockchain full node being run by the system, in order to collect information about the chain and network properties of that chain. In many instances, a tradable token is not actually running on its own dedicated chain but is sooner implemented using a system of contracts running on a smart-contract-enabling blockchain such as Ethereum. In such a case, this module communicates both with the full node for this chain, and the other modules, for example, the Ethereum static analysis module mentioned deeper in this document.
 
@@ -346,25 +346,25 @@ The results interface provides a collapsed view, providing an index for expandab
 
 Following the success of the Ethereum Wallet and Ethereum Mist browser, the main interface exposed to a user is hosted inside an Electron app. Electron is a mature technology introduced by Github to create modern desktop applications. Since Vespucci is not tied to Desktop-based APIs however, it is also possible to port this application to run inside of a browser. The interface for the app can be designed by using mature UI libraries for modern applications. With each component existing on its own, it is also straightforward to pull components out and add new ones as the product is trialed with users without adversely affecting the product as a whole.
 
-PLATFORM FEATURES
+PLATFORM ÖZELLİKLERİ
 
-* Show all parameters that were used to calculate Vespucci score.
+* Vespucci puanını hesaplamak için kullanılan tüm parametreleri göster.
 * Ability for the user to modify basic parameters for score configuration.
-* Display filters for cryptocoins.
-* Cryptocurrency index
-* Rating system of Vespucci using 5 stars rating system
+* Kripto sikkeler için filtreleri görüntüleyin.
+* Kripto Para Birimi indeksi
+* 5 yıldız derecelendirme sistemi kullanan Vespucci derecelendirme sistemi
 * Show general information and characteristics of the cryptocurrency of user’s choice
 * Sentiment analysis charts
 * Cryptocurrency distribution scheme
-* Transaction history
+* İşlem geçmişi
 * Teknik Özellikler
 * Github üzerindeki etkinliğin grafikleri
-* Activity on social networks using points on world map
-* Ability to add other utility charts through a list of parameters
+* Dünya haritasında puanları kullanarak sosyal ağlarda etkinlik
+* Bir parametre listesi aracılığıyla başka yardımcı program çizelgeleri ekleme kabiliyeti
 
 KULLANICI SEÇENEKLERİ
 
-* Show all the encryption, next to the name and symbol of Vespucci’s rating.
+* Vespucci’nin adının ve sembolünün yanındaki tüm şifrelemeyi gösterin.
 * Adjust rating system by selecting active Vespucci parameters.
 * Configure rating system by selecting the priority of the basic parameters and adjusting weights.
 * Be informed separately about the effect of the basic parameters via diagrams and gain a deeper picture of those that shape the fluctuation of the value of each currency.
