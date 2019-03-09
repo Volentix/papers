@@ -56,7 +56,7 @@ Apejọ Ayelujara jẹ ki iṣẹ ṣiṣe awọn ohun elo Ayelujara gaju si ati
 
 ### Rust/C++ awọn iwe adehun
 
-Ede siseto C++ ti o lokiki ati ti o gbajumọ farahan bi eyi ti o dara julọ fun WASM. C++ ni atilẹyin ati awọn ile ikowesi iṣatunṣe aṣiṣe alailẹgbẹ. Codebase EOS n lo awọn awoṣe lọfẹ, atipe C++ faye gba lilo awọn awoṣe ati apọju isẹ oṣiṣẹ lati seto akoko isẹ ọfẹ sise fun idaniloju ti awọn ẹya. The program reinitializes to clean state at the start of every message, a distinct advantage that streamlines formulation of smart contracts. The WebAssembly framework automatically rejects any transaction addressing memory inaccurately. In case dynamic memory allocation is necessary, users can depart to smart pointers because EOS.IO contracts use C++14. It is noteworthy that the first implementation of PARSEC Directed Acyclic Graph (DAG) technology is expected to be in Rust.
+Ede siseto C++ ti o lokiki ati ti o gbajumọ farahan bi eyi ti o dara julọ fun WASM. C++ ni atilẹyin ati awọn ile ikowesi iṣatunṣe aṣiṣe alailẹgbẹ. Codebase EOS n lo awọn awoṣe lọfẹ, atipe C++ faye gba lilo awọn awoṣe ati apọju isẹ oṣiṣẹ lati seto akoko isẹ ọfẹ sise fun idaniloju ti awọn ẹya. The program reinitializes to clean state at the start of every message, a distinct advantage that streamlines formulation of smart contracts. Ilana WebAssembly n ti atinuwa kọ eyikeyi idunadura ti o n se iranti ti ko ni ibaamu. Bi o ba ṣẹlẹ iyasọtọ iranti alayipada jẹ pataki, awọn olumulo le kuro lọ si awọn atọka to jafafa nitori awọn iwe adehun EOS.IO n lo C++ 14. It is noteworthy that the first implementation of PARSEC Directed Acyclic Graph (DAG) technology is expected to be in Rust.
 
 #### 3.0.2 Schema defined messages and database
 
