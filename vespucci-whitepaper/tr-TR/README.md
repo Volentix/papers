@@ -248,7 +248,7 @@ Technical analysts believe the analysis of price movement or the supply and dema
 
 **Bollinger Bands** are a technical chart indicator popular among traders across several financial markets. On a chart there are two “bands” that sandwich the market price. Many use them primarily to determine overbought and oversold levels. A common strategy is to sell when the price touches the upper Bollinger Band and buy when it hits the lower band. This technique also called range-bound markets. In this type of market, the price bounces off the Bollinger Bands like a ball bouncing between two walls.
 
-**MACD** calculates the difference between a currency’s 26-day and 12-day exponential moving averages (EMA). The 12-day EMA is the faster one, while the 26-day is a slower moving average. The calculation of both EMAs uses the closing prices of whatever period is measured. On the MACD chart, a nine-day EMA of MACD itself is plotted as well, and it acts as a signal for buy and sell decisions.The MACD histogram provides a visual depiction of the difference between MACD and its nine-day EMA. MACD histogram is one of the main tools traders use to gauge momentum, because it gives an intuitive visual representation of the speed of price movement. For this reason, the MACD is commonly used to measure the strength of a price move rather than the direction or trend of a currency.
+**MACD**, bir para biriminin 26 günlük ve 12 günlük üssel hareketli ortalamalar (EMA) arasındaki farkı hesaplar. The 12-day EMA is the faster one, while the 26-day is a slower moving average. The calculation of both EMAs uses the closing prices of whatever period is measured. On the MACD chart, a nine-day EMA of MACD itself is plotted as well, and it acts as a signal for buy and sell decisions.The MACD histogram provides a visual depiction of the difference between MACD and its nine-day EMA. MACD histogram is one of the main tools traders use to gauge momentum, because it gives an intuitive visual representation of the speed of price movement. For this reason, the MACD is commonly used to measure the strength of a price move rather than the direction or trend of a currency.
 
 More advanced techniques for data analysis are the Fibonacci methods as well as Ichimoku Kinko Hyo techniques, as discussed in the sequel.
 
@@ -258,10 +258,10 @@ More advanced techniques for data analysis are the Fibonacci methods as well as 
 
 **Fibonacci Channels:** The Fibonacci pattern can be applied to channels not only vertically, but also diagonally. One common technique is the combination of diagonal and vertical Fibonacci studies to find areas where both indicate significant resistance.
 
-**Ichimoku Kinko Hyo** is a technical indicator that is used to gauge momentum along with future areas of support and resistance.It was originally developed by a Japanese newspaper writer to combine various technical strategies into a single indicator that could be easily implemented and interpreted. Ichimoku indicator is a combination of five key components:
+**Ichimoku Kinko Hyo** is a technical indicator that is used to gauge momentum along with future areas of support and resistance.It was originally developed by a Japanese newspaper writer to combine various technical strategies into a single indicator that could be easily implemented and interpreted. Ichimoku indikatörü, beş anahtar bileşenin kombinasyonudur:
 
 1. Tenkan-sen: Represents support and resistance level, and it’s a signal line for reversals.
-2. Kijun-sen: Represents support and resistance level. It’s a confirmation of a trend change, and can be used as a trailing stop-loss point.
+2. Kijun-sen: Destek ve direnç seviyesini temsil eder. It’s a confirmation of a trend change, and can be used as a trailing stop-loss point.
 3. Senkou Span A: Is the average of tenkan-sen and kijun-sen for 26 periods ahead. The resulting line is used to identify future areas of support and resistance.
 4. Senkou Span B: Is calculated by the highest high and the lowest low over the past 52 periods, for 26 periods ahead. The resulting line is used to identify future areas of support and resistance.
 5. Chickou Span: Is the current period’s closing price plotted 26 days back on the chart. This line is used to show possible areas of support and resistance.
