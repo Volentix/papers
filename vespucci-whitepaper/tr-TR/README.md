@@ -354,8 +354,8 @@ PLATFORM ÖZELLİKLERİ
 * Kripto Para Birimi indeksi
 * 5 yıldız derecelendirme sistemi kullanan Vespucci derecelendirme sistemi
 * Show general information and characteristics of the cryptocurrency of user’s choice
-* Sentiment analysis charts
-* Cryptocurrency distribution scheme
+* Duyarlılık analiz grafikleri
+* Kripto Para Birimi dağıtım şeması
 * İşlem geçmişi
 * Teknik Özellikler
 * Github üzerindeki etkinliğin grafikleri
@@ -397,10 +397,10 @@ To effectiv ely manage our computer cluster consisting of listening and analyzin
 
 ![](https://volentix.io/file/2019/01/Web-1920-–-3@2x.png)
 
-The **implementation** of the Vespucci analysis tools is in Python using various data analytics libraries, wrappers for the different APIs, and libraries for machine learning. The libraries to be used are some of the following:
+The **implementation** of the Vespucci analysis tools is in Python using various data analytics libraries, wrappers for the different APIs, and libraries for machine learning. Kullanılacak kütüphaneler aşağıdakilerden bazılarıdır:
 
 * NumPy, Pandas, Seaborn, analiz bölümü için matplotlib.
-* Scikit-learn, TensorFlow for machine learning.
+* Makine öğrenimi için Scikit-learn, TensorFlow.
 * NLTK, Tweepy, VADER, TextBlob for twitter sentiment analysis.
 * pyodbc to connect with our database.
 * Blockchair.com API and coinmarketcap, a wrapper around the coinmarketcap.com API, to obtain information about each coin, such as the market cap ranking, and to update them easily
