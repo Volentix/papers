@@ -64,7 +64,7 @@ Awọn adehun iṣẹ ti wa ni imudojuwọn lati pese ipilẹṣẹ odiwọn ti 
 
 #### 3.0.3 Inter-Contract Communication
 
-Data is shared between contracts via an oracle, which, "in the context of blockchains and smart contracts, is an agent that finds and verifies real-world occurrences and submits this information to a blockchain to be used by smart contracts.” [4] Every node will have an identical copy of these data, for use in smart contract computation. Rather than the smart contract functioning to pull the data, instead the oracle pushes the data onto the blockchain. In the instance of a blockchain, most reading of the data is done via polling "models" in order to monitor blockchain state and to perform certain responsive actions.
+Data ma jẹ pinpin laarin awọn adehun nipasẹ oracle kan, eyi ti, "ninu ọrọ awọn blockchain ati awọn adehun ajafafa, jẹ aṣoju ti o n ṣawari ati se ijẹri awọn iṣẹlẹ bosenlọ gangan ni aye ati ki o fi alaye yii ranṣẹ si blockchain lati lo nipasẹ awọn adehun ajafafa." [4] Gbogbo oku ipade yoo ni ẹda ti o jọra ti awọn data wọnyi, fun lilo ninu iṣiro adehun ajafafa. Kakaki adehun ajafafa ṣiṣẹ lati fa data naa kuro, dipo oracle naa n tari data naa si ori blockchain naa. In the instance of a blockchain, most reading of the data is done via polling "models" in order to monitor blockchain state and to perform certain responsive actions.
 
 #### 3.0.4 Sidechains
 
