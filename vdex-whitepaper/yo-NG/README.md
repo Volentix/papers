@@ -66,9 +66,9 @@ Awọn adehun iṣẹ ti wa ni imudojuwọn lati pese ipilẹṣẹ odiwọn ti 
 
 Data ma jẹ pinpin laarin awọn adehun nipasẹ oracle kan, eyi ti, "ninu ọrọ awọn blockchain ati awọn adehun ajafafa, jẹ aṣoju ti o n ṣawari ati se ijẹri awọn iṣẹlẹ bosenlọ gangan ni aye ati ki o fi alaye yii ranṣẹ si blockchain lati lo nipasẹ awọn adehun ajafafa." [4] Gbogbo oku ipade yoo ni ẹda ti o jọra ti awọn data wọnyi, fun lilo ninu iṣiro adehun ajafafa. Kakaki adehun ajafafa ṣiṣẹ lati fa data naa kuro, dipo oracle naa n tari data naa si ori blockchain naa. Ni apẹẹrẹ ti blockchain, ọpọ kika ti awọn data naa ma n jẹ ṣiṣe nipasẹ isewadi "awọn awoṣe" lati le se amojuto ipo blockchain ati lati ṣe diẹ ninu awọn igbesẹ idahun.
 
-#### 3.0.4 Sidechains
+#### 3.0.4 Awọn ẹka-ẹgbẹgbẹ
 
-In EOS.IO, issuance of a digital asset creates a sidechain, which is an emerging mechanism permitting digital assets from one blockchain to be securely used in a separate blockchain and then moved back to the original blockchain. Efficiency of processing is promoted by creating multiple sidechains. A TCP-like communication channel between different blockchains evaluates proofs. For each shard (a unit of parallelizable execution in a cycle), a balanced merkle tree is constructed of these action commitments to generate a temporary shared merkle root; this is done for speed of parallel computation. The block header contains the root of a balanced merkle tree the leaves of which are the roots of these individual shard merkle trees. [2]
+Ni EOS.IO, ipinfunni ti ohun-ini oni-nọmba ma n ṣẹda ẹka-ẹgbẹgbẹ kan, eyi ti o jẹ ilana ti o n jade bọ ti o gba awọn ohun-elo oni-nọmba laaye lati jẹ lilo pẹlu aabo lati blockchain kan ninu blockchain miran ti o yatọ ati lẹhinna jẹ didapada si ojulowo blockchain. Efficiency of processing is promoted by creating multiple sidechains. A TCP-like communication channel between different blockchains evaluates proofs. For each shard (a unit of parallelizable execution in a cycle), a balanced merkle tree is constructed of these action commitments to generate a temporary shared merkle root; this is done for speed of parallel computation. The block header contains the root of a balanced merkle tree the leaves of which are the roots of these individual shard merkle trees. [2]
 
 #### 3.0.5 Liquidity
 
