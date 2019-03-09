@@ -276,7 +276,7 @@ EOS.IO, merkezi olmayan uygulamalar için açık kaynaklı ölçeklenebilir bir 
 
 ### 3.12 SİSTEM KURTARMA
 
-RAFT ve PARSEC protokolleri düğüm arızası durumunda kurtarma için güçlü bir sistem sağlar. Security measures are also provided for trading between and among native blockchains. If a chain defies identification, the system defaults to the next block or a short time lock.
+RAFT ve PARSEC protokolleri düğüm arızası durumunda kurtarma için güçlü bir sistem sağlar. Güvenlik önlemleri ayrıca yerel blok zincirleri içinde ve arasında ticaret yapmayı sağlamaktadır. If a chain defies identification, the system defaults to the next block or a short time lock.
 
 ### 3.13 GELİŞEN MİMARİ
 
@@ -292,11 +292,11 @@ Please monitor our website and social media for updates and other important anno
 
 ## FERAGATNAME
 
-This white paper was prepared, and is presented, for information purposes only. The information presented does not purport to be comprehensive. The information is subject to change in whole or in part at any time without notice. Volentix Labs reserves the right to amend, replace, remove, or delete any and all information at the sole and exclusive discretion of Volentix. Volentix Labs makes no representation or warranty, expressed or implied, concerning the accuracy or completeness of the information and expressly disclaims any and all liability of any and all kinds whatsoever for the information contained or not contained. Volentix Labs requests each and every reader to read the information fully and carefully, and to undertake independent investigation and analysis of the information, and to seek and obtain professional advice for purposes of evaluating the information. To the knowledge of Volentix Labs, no regulatory agency, government, or other third-party enforcement entity has reviewed, evaluated, or approved any part or all of the information. This information is not an offer or solicitation of any kind whatsoever and does not form the basis for any contract or commitment of any kind whatsoever. Any statement considered to be forward-looking is purely a matter of opinion, and no viewer should rely on any such statement or on any part or all of the information in any way whatsoever.
+This white paper was prepared, and is presented, for information purposes only. Sunulan bilgiler, kapsamlı olma iddiasında değildir. The information is subject to change in whole or in part at any time without notice. Volentix Labs reserves the right to amend, replace, remove, or delete any and all information at the sole and exclusive discretion of Volentix. Volentix Labs makes no representation or warranty, expressed or implied, concerning the accuracy or completeness of the information and expressly disclaims any and all liability of any and all kinds whatsoever for the information contained or not contained. Volentix Labs requests each and every reader to read the information fully and carefully, and to undertake independent investigation and analysis of the information, and to seek and obtain professional advice for purposes of evaluating the information. To the knowledge of Volentix Labs, no regulatory agency, government, or other third-party enforcement entity has reviewed, evaluated, or approved any part or all of the information. This information is not an offer or solicitation of any kind whatsoever and does not form the basis for any contract or commitment of any kind whatsoever. İleriye dönük olduğu düşünülen herhangi bir ifade tamamen bir fikir meselesidir ve hiçbir izleyici, herhangi bir şekilde bu tür bir ifadeye veya bilgilerin hiçbir bölümüne veya tümüne güvenmemelidir.
 
 ## DİPNOTLARI
 
-1. K. Kurokawa, Atomic cross chain transfer, an overview, (2015).
+1. K. Kurokawa, Atomik çapraz zincir transferi, bir genel bakış, (2015).
 
 2. EOS.IO, Eos.io teknik tanıtım belgesi v2, (2018).
 
