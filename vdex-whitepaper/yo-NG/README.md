@@ -26,7 +26,7 @@ Verto jẹ gbigbe dide gẹgẹbi apo owo olorisirisi-owo fun lilo pẹlu paṣi
 
 ### 2.3 VESPUCCI
 
-Vespucci jẹ fifojusun gẹgẹbi ohun elo iyanana ti o se wọle si nipasẹ intafeesi onirọrun-olumulo pẹlu awọn ile ipamọ iṣura ti bosenlọ lọwọ ati awọn itan data ọja, gẹgẹbi awọn iwontunwonsi awọn ohun-ini oni-nọmba ati awọn iyanana igbeyewo ero. We wish to empower users with tools to graph and compare tradeable digital assets, to access and parse historical trading records, to plot trends and patterns, and to monitor and assess open-source software developments. Vespucci seeks to bring to your fingertips confident and comprehensive market-relevant data by aggregating the information currently scattered throughout many different blockchains, websites, chat rooms, and exchanges.
+Vespucci jẹ fifojusun gẹgẹbi ohun elo iyanana ti o se wọle si nipasẹ intafeesi onirọrun-olumulo pẹlu awọn ile ipamọ iṣura ti bosenlọ lọwọ ati awọn itan data ọja, gẹgẹbi awọn iwontunwonsi awọn ohun-ini oni-nọmba ati awọn iyanana igbeyewo ero. A fẹ lati ro awọn olumulo lagbara pẹlu awọn irinṣẹ lati ṣe iwọn ati ṣe afiwe awọn ohun-ini oni-nọmba ti o ṣe fisowo, lati wọle ati pin awọn akọsilẹ itan iṣowo, lati ṣeto awọn aṣa ati awọn ilana, ati lati mojuto ati ṣayẹwo awọn idagbasoke software orisun-gbangba. Vespucci seeks to bring to your fingertips confident and comprehensive market-relevant data by aggregating the information currently scattered throughout many different blockchains, websites, chat rooms, and exchanges.
 
 ### 2.4 VDEX
 
