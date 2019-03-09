@@ -40,9 +40,9 @@ A ti ṣe agbeyẹwo awọn orisirisi eto isẹ sise ori ẹrọ bi awọn oludi
 
 ### Awọn Igbesẹ Alaini Aami itọka
 
-Ọpọlọpọ awọn ilana ipele agbara odiwọn ti Ethereum gbero (Sharding, Raiden, Plasma, State Channels) tubọ dara si, o ṣese ni ọgbaọgba, ati pe o bojumu nigba ti o n ṣe aridaju iyara ibaraẹnisọrọ laarin-blockchain ati aidibajẹ ipele agbara odiwọn. A Context Free Action involves computations that depend only on transaction data, and not upon the blockchain state.
+Ọpọlọpọ awọn ilana ipele agbara odiwọn ti Ethereum gbero (Sharding, Raiden, Plasma, State Channels) tubọ dara si, o ṣese ni ọgbaọgba, ati pe o bojumu nigba ti o n ṣe aridaju iyara ibaraẹnisọrọ laarin-blockchain ati aidibajẹ ipele agbara odiwọn. Igbesẹ Alaini Aami itọka jẹmọ awọn isiro ti o dalori idunadura data nikan, ko kin ṣe lori ipo blockchain.
 
-### Binary/JSON conversion
+### Iyipada Binary/JSON
 
 EOS contracts combine the human readability of JSON with the efficiency of binary.
 
