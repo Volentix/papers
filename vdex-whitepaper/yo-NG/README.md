@@ -50,7 +50,7 @@ Awọn iwe adehun EOS da anfani awọn eniyan lati leka JSON pọ mọ iṣiṣ�
 
 Yiya ifasẹsi sọtọ si ohun elo n faye gba ki akoko idunadura yara sii ati muki itankanlẹ pọ si. Awọn bulọọki EOS.IO n jẹ gbigbe jade ni gbogbo 500ms.
 
-### Web Assembly(WASM)
+### Apejọ Ayelujara(WASM)
 
 Web Assembly enables high-performance Web applications and also secures each application in its own sandbox, through which functionalities VDex can obtain network access, filesystem namespace restrictions, and enforced rule-based execution.
 
