@@ -64,7 +64,7 @@ Awọn adehun iṣẹ ti wa ni imudojuwọn lati pese ipilẹṣẹ odiwọn ti 
 
 #### 3.0.3 Inter-Contract Communication
 
-Data ma jẹ pinpin laarin awọn adehun nipasẹ oracle kan, eyi ti, "ninu ọrọ awọn blockchain ati awọn adehun ajafafa, jẹ aṣoju ti o n ṣawari ati se ijẹri awọn iṣẹlẹ bosenlọ gangan ni aye ati ki o fi alaye yii ranṣẹ si blockchain lati lo nipasẹ awọn adehun ajafafa." [4] Gbogbo oku ipade yoo ni ẹda ti o jọra ti awọn data wọnyi, fun lilo ninu iṣiro adehun ajafafa. Kakaki adehun ajafafa ṣiṣẹ lati fa data naa kuro, dipo oracle naa n tari data naa si ori blockchain naa. In the instance of a blockchain, most reading of the data is done via polling "models" in order to monitor blockchain state and to perform certain responsive actions.
+Data ma jẹ pinpin laarin awọn adehun nipasẹ oracle kan, eyi ti, "ninu ọrọ awọn blockchain ati awọn adehun ajafafa, jẹ aṣoju ti o n ṣawari ati se ijẹri awọn iṣẹlẹ bosenlọ gangan ni aye ati ki o fi alaye yii ranṣẹ si blockchain lati lo nipasẹ awọn adehun ajafafa." [4] Gbogbo oku ipade yoo ni ẹda ti o jọra ti awọn data wọnyi, fun lilo ninu iṣiro adehun ajafafa. Kakaki adehun ajafafa ṣiṣẹ lati fa data naa kuro, dipo oracle naa n tari data naa si ori blockchain naa. Ni apẹẹrẹ ti blockchain, ọpọ kika ti awọn data naa ma n jẹ ṣiṣe nipasẹ isewadi "awọn awoṣe" lati le se amojuto ipo blockchain ati lati ṣe diẹ ninu awọn igbesẹ idahun.
 
 #### 3.0.4 Sidechains
 
