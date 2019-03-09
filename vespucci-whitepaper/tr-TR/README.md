@@ -321,10 +321,10 @@ This module (related to Sentiment analysis) examines information from Github and
 * The expertise and track record of the team and their continued commitment to their project (frequency of commits, frequency the community responds to bugs, contributions over time, and the amount of time that has been consistently spent building up the project),
 * The activity on GitHub, which is tightly related to the previous item, and the number of followers of the project,
 * The quality of code (programming languages, test coverage, ratio of bugs over lines of code,build breaks etc), robustness, and maintenance of the software,
-* The corresponding white paper.
-* The mathematical and cryptographical principles of the system.
+* Tanıtım belgesine karşılık gelen.
+* Sistemin matematiksel ve kriptografiksel prensipleri.
 
-More specifically, some features of the git repositories that determine the repository’s popularity and robustness are its forks and stars, the activity of the maintenance team, measured by the rate of issues closed and of pull requests, as well as the quality of the project’s source code, measured by its test coverage and other code quality metrics. These can be obtained from the [CoinGecko](https://www.coingecko.com/en) API, a cryptocurrency ranking chart app that ranks digital currencies by developer activity, community, and liquidity.
+Daha spesifik olarak, deponun popülaritesini ve sağlamlığını belirleyen git depolarının bazı özellikleri çatalları ve yıldızları, bakım ekibinin etkinliği, kapatılan sorunların oranı ve çekme talepleri, projenin kaynak kodunun kalitesinin yanı sıra kod, test kapsamı ve diğer kod kalitesi ölçümleriyle ölçülür. Bunlar, geliştirici etkinliği, topluluk ve likidite açısından dijital para birimlerini sıralayan bir kripto para birimi sıralama grafik uygulaması olan [CoinGecko](https://www.coingecko.com/en) API'ından elde edilebilir.
 
 The combination of these criteria relies essentially on an adapted and powerful scoring function which, eventually, may be replaced by a Convolutional Neural Network, also discussed in support of Sentiment Analysis (see relevant section).
 
@@ -338,7 +338,7 @@ To glean the most useful information about a blockchain, it’s usually necessar
 
 A great number of the tokens being traded today are ERC20 tokens implemented on top of the Ethereum blockchain. Further, many of the most exciting tokens are part of a larger system of smart contracts that use an ERC20 token as their native token. Providing an in-depth analysis of these, and any smart contract system riding on top of Ethereum’s EVM is very useful for the high-level goals of Vespucci. This module thus exists to consume smart contract systems associated with some ERC20 tokens to grade them, at the code-level, on overall safety, the presence of bugs, and other important factors that can be ascertained with a static analysis of the contract code in a system of smart contracts. Much of its core logic is written in Python, and bridges are developed to the blockchain statistics module.
 
-* ### **USER EXPERIENCE**
+* ### **KULLANICI DENEYİMİ**
 
 ‪Vespucci has a User interface (UI) that allows for straightforward parameter input and coherently displays the resulting assessment metrics. The input interface provides a list with all available coins or a selection of the top ranked coins based on market cap value: the user may select those of interest to him/her. Alternatively, it is required for the user to provide the link to one (or more) cryptocurrency’s public blockchain along with the link to the project source code as basic inputs. The type and level of analysis to be performed on the given coin is chosen. More detailed analysis requires more inputs. ‬
 
@@ -357,12 +357,12 @@ PLATFORM FEATURES
 * Sentiment analysis charts
 * Cryptocurrency distribution scheme
 * Transaction history
-* Technical Characteristics
-* Charts of activity on Github
+* Teknik Özellikler
+* Github üzerindeki etkinliğin grafikleri
 * Activity on social networks using points on world map
 * Ability to add other utility charts through a list of parameters
 
-USER OPTIONS
+KULLANICI SEÇENEKLERİ
 
 * Show all the encryption, next to the name and symbol of Vespucci’s rating.
 * Adjust rating system by selecting active Vespucci parameters.
@@ -373,7 +373,7 @@ USER OPTIONS
 
 ![](https://volentix.io/file/2019/01/main-dashboard-–-3@3x.png)
 
-* ### **OVERALL ARCHITECTURE AND IMPLEMENTATION**
+* ### **GENEL MİMARLIK VE UYGULAMA**
 
 We have discussed the three main subsystems of Fundamental / Technological Analysis, Technical Analysis, and Sentiment Analysis. All three pillars are imperfect. Furthermore, only the most experienced analysts can combine all three systems in one rating strategy. The final score for each cryptocurrency depends on each of the three components, weighted either by default values or by weighs provided by the user. Since we are firm believers in the value of the technology and the value of the team behind each cryptocurrency, FTA and, especially, the technological aspects are assigned a total weight of 50% by default. Based on research and trial of assessment parameters, appropriate weights are derived to quantifiably gauge the validity of a coin. We exploit recent breakthroughs in deep neural networks in order to automate the combination of scores without human intervention so as to avoid introducing direct or indirect bias.
 
