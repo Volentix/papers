@@ -48,7 +48,7 @@ Awọn iwe adehun EOS da anfani awọn eniyan lati leka JSON pọ mọ iṣiṣ�
 
 ### Imudọgba ati imupeye
 
-Separating authentication from application allows faster transaction times and increases bandwidth. EOS.IO blocks are reportedly produced every 500ms.
+Yiya ifasẹsi sọtọ si ohun elo n faye gba ki akoko idunadura yara sii ati muki itankanlẹ pọ si. EOS.IO blocks are reportedly produced every 500ms.
 
 ### Web Assembly(WASM)
 
