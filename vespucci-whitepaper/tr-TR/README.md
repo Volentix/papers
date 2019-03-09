@@ -298,23 +298,23 @@ Among others, some of the features available by both APIs are:
 * block size
 * blok sayısı
 * fiyat (usd)
-* market capitalization (usd)
-* exchange volume(usd)
-* total coins mined
-* difficulty adjustment
-* block reward reduction, number & time
-* net hashes per second
-* total coins mined
+* piyasa kapitalizasyonu (usd)
+* borsa hacmi(usd)
+* toplam kazılmış sikkeler
+* zorluk ayarı
+* blok ödül azaltma, sayı ve & zaman
+* saniye başı net şifrelemeler
+* toplam kazılmış sikkeler
 
-**Source Code – Developer activity**
+**Kaynak Kodu – Geliştirici etkinliği**
 
 There is an aspect of quantitative analysis from a social perspective which looks at the involvement of the developer community surrounding the project, quite related to Sentiment Analysis. Research into metrics that accurately reflect rates of community participation as well as creator participation will be assessed. These factors may include but are not limited to:‬
 
-‪• online community participation
+• çevrimiçi topluluk katılımı
 
-‪• code base activity‬
+‪‪• temel kod etkinliği
 
-‪• creator approachability and responsiveness ‬.
+• oluşturucu yaklaşılabilirliği ve duyarlılığı.
 
 This module (related to Sentiment analysis) examines information from Github and other sources such as literature review. It grades the quality of a codebase by looking at social cues well-known among software developers, and in particular:
 
