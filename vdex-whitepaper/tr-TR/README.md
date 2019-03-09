@@ -276,7 +276,7 @@ EOS.IO, merkezi olmayan uygulamalar için açık kaynaklı ölçeklenebilir bir 
 
 ### 3.12 SİSTEM KURTARMA
 
-The RAFT and PARSEC protocols provide a robust system for recovery in the case of node failure. Security measures are also provided for trading between and among native blockchains. If a chain defies identification, the system defaults to the next block or a short time lock.
+RAFT ve PARSEC protokolleri düğüm arızası durumunda kurtarma için güçlü bir sistem sağlar. Security measures are also provided for trading between and among native blockchains. If a chain defies identification, the system defaults to the next block or a short time lock.
 
 ### 3.13 GELİŞEN MİMARİ
 
