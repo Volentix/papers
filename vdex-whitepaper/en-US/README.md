@@ -1,7 +1,7 @@
 # THE VOLENTIX VDEX WHITE PAPER
 
 - Version: 0.1.4
-- Updated: 10-24-2018
+- Updated: 11-03-2019
 - Website: www.volentix.io
 
 ## 1. INTRODUCTION
@@ -16,7 +16,9 @@ The Volentix ecosystem will exist atop four pillars, an initializing array of ap
 
 ### 2.1 VENUE
 
-Venue is planned as a dynamic community platform that recruits and aligns members of the Volentix community to facilitate distribution of VTX, the native digital asset of the Volentix ecosystem, and to promote awareness of Volentix initiatives. Recently launched in beta testing, Venue enables users to receive VTX in exchange, for example, for participating in developing dedicated communities, submitting bug fixes, and claiming bounties. Leaderboards and live metrics reflect user participation. The first signature campaign was launched on the https://bitcointalk.org/ forum on July 13, 2018. Please visit https://venue.volentix.io for more information.
+Venue is planned as a dynamic community platform that recruits and aligns members of the Volentix community to facilitate distribution of VTX, the native digital asset of the Volentix ecosystem, and to promote awareness of Volentix initiatives. 
+
+Recently launched in beta testing, Venue enables users to receive VTX in exchange, for example, for participating in developing dedicated communities, submitting bug fixes, and claiming bounties. Leaderboards and live metrics reflect user participation. The first signature campaign was launched on the https://bitcointalk.org/ forum on July 13, 2018. Please visit https://venue.volentix.io for more information.
 
 ![](../main3-3000px.jpg)
 
@@ -26,17 +28,17 @@ Verto is being built as a multi-currency wallet for use with the VDex decentrali
 
 ### 2.3 VESPUCCI
 
-Vespucci is envisioned as an analytics engine accessible via a user-friendly interface with treasure troves of real-time and historical market data, such as digital assets ratings and sentiment analysis. We wish to empower users with tools to graph and compare tradeable digital assets, to access and parse historical trading records, to plot trends and patterns, and to monitor and assess open-source software developments. Vespucci seeks to bring to your fingertips confident and comprehensive market-relevant data by aggregating the information currently scattered throughout many different blockchains, websites, chat rooms, and exchanges.
+Vespucci is envisioned as an analytics engine accessible via a user-friendly interface with treasure troves of real-time and historical market data, such as digital assets ratings and sentiment analysis. We wish to empower users with tools to graph and compare tradeable digital assets, to access and parse historical trading records, to plot trends and patterns, and to monitor and assess open-source software developments. Vespucci seeks to bring to your fingertips confident and comprehensive market-relevant data by aggregating the information currently scattered throughout many different blockchains, websites, chat rooms, and exchanges. 
 
 ### 2.4 VDEX
 
-The fourth pillar of Volentix, the VDex exchange, is the tradable digital assets platform introduced in detail in this white paper. For smooth and secure usability, we plan VDex to integrate with your own personal Verto wallet and Vespucci interface. We expect VDex to be able to manage transactions involving both VTX and the vast array of digital assets and blockchains extant from time to time throughout the world. We are developing Venue as a complementary adjunct primarily in order to incentivize and drive native VTX-based initiatives.
+The fourth pillar of Volentix, the VDex exchange, is the tradable digital assets platform introduced in detail in this white paper. For smooth and secure usability, we plan VDex to integrate with your own personal Verto wallet and Vespucci interface. We expect VDex to be able to manage transactions involving both VTX and the vast array of digital assets and blockchains extant from time to time throughout the world. We are developing Venue as a complementary adjunct primarily in order to incentivize and drive native VTX-based initiatives. 
 
 ## 3. ARCHITECTURE
 
 #### 3.0.1 Operating system
 
-We have evaluated various operating systems as candidates for the substructure of our VDex exchange. Though we honor the work done by a number of the established leaders in digital assets and blockchain technology, among those trailblazers the work of EOS.IO as an operating system-like framework upon which decentralized applications can be built stands out, in our opinion, as exemplary. The software provides accounts, authentication, databases, asynchronous communication, and scheduling across clusters. Components and protocols are already built into the platform, and a subset can be used to satisfy our VDex requirements. VDex will initially benefit from the standard features offered by EOS.IO such as account and wallet creation and the recovery of stolen keys, but we plan subsequently to implement protocols for creation of a decentralized exchange through EOS contracts and other tools.[2] Here is a summary of encouraging methodologies:
+We have evaluated various operating systems as candidates for the substructure of our VDex exchange. Though we honor the work done by a number of the established leaders in digital assets and blockchain technology, among those trailblazers the work of EOS.IO as an operating system-like framework upon which decentralized applications can be built stands out, in our opinion, as exemplary. The software provides accounts, authentication, databases, asynchronous communication, and scheduling across clusters. Components and protocols are already built into the platform, and a subset can be used to satisfy our VDex requirements. VDex will initially benefit from the standard features offered by EOS.IO such as account and wallet creation and the recovery of stolen keys, but we plan subsequently to implement protocols for creation of a decentralized exchange through EOS contracts and other tools.[2] Here is a summary of encouraging methodologies: 
 
 ### Context Free Actions
 
@@ -64,7 +66,7 @@ Service contracts are standardized to provide a baseline measure of interoperabi
 
 #### 3.0.3 Inter-Contract Communication
 
-Data is shared between contracts via an oracle, which, "in the context of blockchains and smart contracts, is an agent that finds and verifies real-world occurrences and submits this information to a blockchain to be used by smart contracts.” [4] Every node will have an identical copy of these data, for use in smart contract computation. Rather than the smart contract functioning to pull the data, instead the oracle pushes the data onto the blockchain. In the instance of a blockchain, most reading of the data is done via polling "models" in order to monitor blockchain state and to perform certain responsive actions.
+Data is shared between contracts via an oracle, which, "in the context of blockchains and smart contracts, is an agent that finds and verifies real-world occurrences and submits this information to a blockchain to be used by smart contracts.” [4] Every node will have an identical copy of these data, for use in smart contract computation. Rather than the smart contract functioning to pull the data, instead the oracle pushes the data onto the blockchain. In the instance of a blockchain, most reading of the data is done via polling "models" in order to monitor blockchain state and to perform certain responsive actions. 
 
 #### 3.0.4 Sidechains
 
@@ -112,7 +114,9 @@ The order book is the list of buy-and-sell orders VDex records from interested u
 
 #### 3.2.1 Data structures
 
-Using the Loopring Protocol FIFO (first-in first-out) circular buffer, nodes can design their order books to display and match a user's order. This method follows an OTC model, where limit orders are positioned based on price only.[5] Referencing the EOS.IO persistence API, the order book is able to take advantage of the powerful multi-index container shared among nodes through the same EOS.IO account.
+Using the Loopring Protocol FIFO (first-in first-out) circular buffer, nodes can design their order books to display and match a user’s order. This method follows an OTC model, where limit orders are positioned based on price only.[5]
+
+Referencing the EOS.IO persistence API, the order book is able to take advantage of the powerful multi-index container shared among nodes through the same EOS.IO account.
 
 #### 3.2.2 On-Chain order book
 
@@ -146,27 +150,27 @@ To stake support for reviewing proposals and implementing projects.
 
 To incentivize users to participate in order book settlement by becoming nodes via their Verto wallets.
 
-To incentivize users to lock funds in for \>24 hours by HTLC time-bound transactions.
+To incentivize users to lock funds in for >24 hours by HTLC time-bound transactions.
 
 #### 3.4.2 VTX Allocation
 
 A digital assets ecosystem requires an array of certain fundamental human constituents who shepherd the project forward.[11] It is essential to compensate those individuals for their participation. Subject to adjustment, Volentix currently anticipates the following allocations:
 
-1.  Contributors. 12%. An array of individuals, akin to founders, who contribute insights, time and talent, though often work without early compensation.
+1. Contributors. 12%. An array of individuals, akin to founders, who contribute insights, time and talent, though often work without early compensation.
 
-2.  Supporters.
+2. Supporters.
 
 Phase 1. 5%. Early passive seed funders.
 
 Phase 2. 28%. Funders via qualified private pre-sales and possible public sale.
 
-3.  Facilitators. (Advisors, Developers, Promoters, Custodians). Note that requirements for assistance from the sub-categories in this category may differ significantly before and after the project receives substantial funding support, but certain individuals may serve during both phases.
+3. Facilitators. (Advisors, Developers, Promoters, Custodians). Note that requirements for assistance from the sub-categories in this category may differ significantly before and after the project receives substantial funding support, but certain individuals may serve during both phases.
 
 Phase 1. 10%.
 
 Phase 2. 10%.
 
-4.  Decentralized treasury. 35%. Community members incentivized and rewarded for participation in progressive development of a decentralized autonomous organization (DAO). A decentralized treasury is anticipated to be administered by smart contracts and community consensus.
+4. Decentralized treasury. 35%. Community members incentivized and rewarded for participation in progressive development of a decentralized autonomous organization (DAO). A decentralized treasury is anticipated to be administered by smart contracts and community consensus.
 
 #### 3.4.3 VTX Distribution
 
@@ -222,7 +226,8 @@ Include ability to delay an action of a contract.
 
 #### 3.8.2 Auditing rogue processes
 
-The advanced anomaly detection algorithms provided by Numenta's Nupic library will require less voluminous training data sets than conventional AI systems.
+The advanced anomaly detection algorithms provided by Numenta’s Nupic library
+will require less voluminous training data sets than conventional AI systems.
 
 #### 3.8.3 Randomization
 
@@ -230,11 +235,15 @@ True randomisation of address space layout, route or utilizing varying lengths o
 
 #### 3.8.4 Log inspection
 
-Parsec does not rely on logs for the determination of consensus. On the other hand, RAFT will require this. In any case, Validator nodes will be designed to require minimal information To determine consensus as to minimize the transaction process time.
+Parsec does not rely on logs for the determination of consensus.
+On the other hand, RAFT will require this. In any case,
+Validator nodes will be designed to require minimal information
+To determine consensus as to minimize the transaction process time.
 
 #### 3.8.5 Transaction as Proof of Stake (TaPoS)
 
-This mechanism prevents the replay of a transaction on forks that do not include the referenced block. Signals the network that a particular user and stake are on a specific fork.
+This mechanism prevents the replay of a transaction on forks that do not include 
+the referenced block. Signals the network that a particular user and stake are on a specific fork.
 
 ### 3.9 Security threats and remedies
 
@@ -246,7 +255,7 @@ A race attack occurs when two conflicting transactions are sent in rapid success
 
 A Finney attack pre-mines one transaction into a block and spends the same tokens before releasing the block to invalidate that transaction.
 
-A 51% attack can be mounted by anyone owning \>50% of the total computing power of a network. A majority ownership position permits reversal of any transaction and allows total control of selection of transactions appearing in blocks. EOS.IO, Loopring, and RAFT appear to prevent this problem. If a block producer takes an unreasonable amount of runtime or is not sufficiently profitable, then the process is blacklisted.[5]
+A 51% attack can be mounted by anyone owning >50% of the total computing power of a network. A majority ownership position permits reversal of any transaction and allows total control of selection of transactions appearing in blocks. EOS.IO, Loopring, and RAFT appear to prevent this problem. If a block producer takes an unreasonable amount of runtime or is not sufficiently profitable, then the process is blacklisted.[5]
 
 #### 3.9.2 Front running
 
@@ -270,7 +279,7 @@ Our focus on user experience is primary. We wish to make VTX and the four pillar
 
 ### 3.11 TRUE DECENTRALIZATION
 
-EOS.IO is an open-source, scalable infrastructure for decentralized applications. Its goal is a fair and transparent block producer (BP) election process utilizing a democratic delegated proof of stake (DPoS) consensus. Particularly as such a system just begins to proliferate, there will be glitches. Therefore, some degree of retained centralization is inevitable and necessary. But our guiding philosophy is one of decentralization, and our ongoing efforts are targeted to promoting a reduction in dependence on central authority.
+EOS.IO is an open-source, scalable infrastructure for decentralized applications. Its goal is a fair and transparent block producer (BP) election process utilizing a democratic delegated proof of stake (DPoS) consensus. Particularly as such a system just begins to proliferate, there will be glitches.  Therefore, some degree of retained centralization is inevitable and necessary. But our guiding philosophy is one of decentralization, and our ongoing efforts are targeted to promoting a reduction in dependence on central authority.
 
 For example, initially we plan to erect a system for electing nodes (when solving order books) that will not use a shared central clock or DPoS but instead will be based either on random timeouts for the determination of leaders in an election (RAFT) or on Directed Acyclic Graph (DAG) in the PARSEC protocol.
 
@@ -300,7 +309,7 @@ This white paper was prepared, and is presented, for information purposes only. 
 
 2.  EOS.IO, Eos.io technical white paper v2, (2018).
 
-3.  . T. Earl, Soa principles of service design, (2016).
+3.  T. Earl, Soa principles of service design, (2016).
 
 4.  blockchainhub.net, blockchain-oracles, (2017).
 
@@ -314,11 +323,11 @@ This white paper was prepared, and is presented, for information purposes only. 
 
 9.  J. O. Diego Ongaro, In search of an understandable consensus algorithm, (2018).
 
-10. F. H. Q. M. S. S. Pierre Chevalier, Bart lomiej KamiÂťnski, Protocol for asynchronous, reliable, secure and efficient consensus (parsec), (2018).
+10.  F. H. Q. M. S. S. Pierre Chevalier, Bart lomiej KamiÂťnski, Protocol for asynchronous, reliable, secure and efficient consensus (parsec), (2018).
 
-11. Dane Keller Rutledge, Fundamental Human Constituents of a Digital Assets Ecosystem (DAE). (2018).
+11.  Dane Keller Rutledge, Fundamental Human Constituents of a Digital Assets Ecosystem (DAE). (2018).
 
-12. BlockColliderTeam, Block collider white paper, (2018).
+12.  BlockColliderTeam, Block collider white paper, (2018).
 
 ## SUPPLEMENTAL REFERENCES
 
