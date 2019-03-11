@@ -457,7 +457,7 @@ Bu metin NH’nin orijinal vizyon belgelerine ve AA’nın güncellemelerine day
 
 [15] <http://blocktivity.info/> [blok zincirleri üzerindeki etkinlik, insanlar tarafından kullanılan projeler]
 
-[16] <https://www.coingecko.com/> [Kripto Para Birimleri Grafiği]
+[16] <https://www.coingecko.com/> [Cryptocurrencies Chart]
 
 [17] <https://www.investopedia.com>
 
