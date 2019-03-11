@@ -8,7 +8,7 @@
 
 Volentix introduces VDex, designed as a distributed, decentralized digital assets exchange with emphasis on user experience and community development and governance. By accessing established technologies and planning selective new protocols with priority on security, speed, authentication, ease of use, scalability, and multi-asset support, VDex intends to facilitate peer-to-peer transactions by assembling a portfolio of decentralized applications built on EOS.IO smart contracts.
 
-The VDex launch point anticipates matching Volentix's design requirements to available technologies superimposed on the EOS.IO decentralized operating system. We intend to test our assumptions by prototyping via custom EZEOS software, which we built and customized with EOS.IO’s cleos command line tools. This software resides at: https://github.com/Volentix/ezeos
+The VDex launch point anticipates matching Volentix's design requirements to available technologies superimposed on the EOS.IO decentralized operating system. We intend to test our assumptions by prototyping via custom EZEOS software, which we built and customized with EOS.IO's cleos command line tools. This software resides at: https://github.com/Volentix/ezeos
 
 ## 2. VOLENTIX
 
@@ -154,7 +154,7 @@ To incentivize users to lock funds in for >24 hours by HTLC time-bound transacti
 
 #### 3.4.2 VTX Allocation
 
-A digital assets ecosystem requires an array of certain fundamental human constituents who shepherd the project forward.[11] It is essential to compensate those individuals for their participation. Subject to adjustment, Volentix currently anticipates the following allocations:  
+A digital assets ecosystem requires an array of certain fundamental human constituents who shepherd the project forward.[11] It is essential to compensate those individuals for their participation. Subject to adjustment, Volentix currently anticipates the following allocations:
 
 1. Contributors. 12%. An array of individuals, akin to founders, who contribute insights, time and talent, though often work without early compensation.
 
@@ -231,7 +231,7 @@ will require less voluminous training data sets than conventional AI systems.
 
 #### 3.8.3 Randomization
 
-True randomisation of address space layout, route or  utilizing varying lengths of timeouts as in the RAFT protocol can complexify systems enough to enhance resilience and further secure systems  against a side-channel attack or front running. 
+True randomisation of address space layout, route or utilizing varying lengths of timeouts as in the RAFT protocol can complexify systems enough to enhance resilience and further secure systems against a side-channel attack or front running.
 
 #### 3.8.4 Log inspection
 
@@ -251,7 +251,7 @@ the referenced block. Signals the network that a particular user and stake are o
 
 A double spend is an attack in which a particular cryptocurrency stake is spent in more than one transaction.
 
-A race attack occurs when two conflicting transactions are sent in rapid succession into the network. 
+A race attack occurs when two conflicting transactions are sent in rapid succession into the network.
 
 A Finney attack pre-mines one transaction into a block and spends the same tokens before releasing the block to invalidate that transaction.
 
@@ -310,7 +310,7 @@ This white paper was prepared, and is presented, for information purposes only. 
 
 2.  EOS.IO, Eos.io technical white paper v2, (2018).
 
-3..  T. Earl, Soa principles of service design, (2016).
+3.  T. Earl, Soa principles of service design, (2016).
 
 4.  blockchainhub.net, blockchain-oracles, (2017).
 
@@ -336,7 +336,7 @@ Aelf, A multi-chain parallel computing blockchain framework, (2018).
 
 ARK, A platform for consumer adoption, (2018).
 
-V. Buterin, Ethereum: a next generation smart contract and decentralized application platform, (2013). 
+V. Buterin, Ethereum: a next generation smart contract and decentralized application platform, (2013).
 
 S. Cormier, A machine based societal model for curbing citizen cynicism, (2017).
 
@@ -360,6 +360,6 @@ A. B. Will Warren, 0x: An open protocol for decentralized exchange on the ethere
 
 G. Wood, Ethereum: A secure decentralised generalised transaction ledger.ethereum project yellow paper, (2014).
 
-Dane Keller Rutledge, Creating a Comprehensive Digital Assets Ecosystem (DAE), (2018). 
+Dane Keller Rutledge, Creating a Comprehensive Digital Assets Ecosystem (DAE), (2018).
 
 ## END OF PAPER
