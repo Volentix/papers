@@ -1,7 +1,7 @@
 # IWE FUNFUN TI VOLENTIX VDEX
 
 - Ẹyà: 0.1.4
-- Ìmúdójúìwọ̀n waye ni: 10-24-2018
+- Updated: 11-03-2019
 - Aaye ayelujara: www.volentix.io
 
 ## 1. IFIHAN
@@ -16,63 +16,65 @@ Awujọ Volentix yoo duro le ori awọn opo mẹrin, ibi ibẹẹrẹ iseto aw�
 
 ### 2.1 VENUE
 
-Venue jẹ gbigbekalẹ gẹgẹbi pilatifọọmu awujọ alayipada ti o n gba ati ṣiṣe aato awọn ọmọ ẹgbẹ ti awujọ Volentix lati jẹ ki pinpin VTX rọrun, ohun-ini oni-nọmba ibilẹ ti awujọ Volentix, ati lati ṣe ipolongo imọ nipa awọn eto Volentix. Ifilọlẹ igbeyẹwo beta waye laipẹ, Venue n fun awọn olumulo laaye lati gba VTX ni paṣipaarọ, fun apẹẹrẹ, fun kikopa ninu sisẹ idagbasoke awọn awujọ ti o ni ifarajin, fifi awọn atunṣe asise ranṣẹ, ati gbigba awọn ẹbun. Awọn Patako-ipo ati awọn iwọn bosenlọ lọwọ jẹ afihan ikopa awọn olumulo. Ifihan ipolongo akọkọ jẹ fifilọlẹ lori https://bitcointalk.org/ forum ni Osu keje ọjọ kẹtala, ọdun 2018. Jọwọ ṣabẹwo https://venue.volentix.io fun alaye siwaju sii.
+Venue is planned as a dynamic community platform that recruits and aligns members of the Volentix community to facilitate distribution of VTX, the native digital asset of the Volentix ecosystem, and to promote awareness of Volentix initiatives.
+
+Recently launched in beta testing, Venue enables users to receive VTX in exchange, for example, for participating in developing dedicated communities, submitting bug fixes, and claiming bounties. Leaderboards and live metrics reflect user participation. The first signature campaign was launched on the https://bitcointalk.org/ forum on July 13, 2018. Please visit https://venue.volentix.io for more information.
 
 ![](../main3-3000px.jpg)
 
 ### 2.2 VERTO
 
-Verto jẹ gbigbe dide gẹgẹbi apo owo olorisirisi-owo fun lilo pẹlu paṣipaarọ alaisilojukan ti VDex, o si ni ero lati mu irọrun ba ifipamọ ti ara ẹni ati iṣakoso ibilẹ ti awọn kọkọrọ ikọkọ ati kọkọrọ gbangba ninu awọn iṣowo ẹgbẹ-si-ẹgbẹ, pẹlu afojusun lati se imukuro awọn ewu ti awọn ipadanu oniparun ti isamisi ti o ni nkan ṣe pẹlu awọn ikuna ti awọn oṣiṣẹ iṣakoso aaringbungbu. Verto ngbero lati lo eto awọn iwe adehun to jafafa lati ṣetọju ipo ti o wa laarin awọn onibara iṣowo mejeji, awọn iṣẹ ti o rọrun julọ n jẹ ṣiṣe pẹlu awọn ipasiparọ alaini alagata. [1]
+Verto is being built as a multi-currency wallet for use with the VDex decentralized exchange, and intends to facilitate personal custody and local management of private and public keys in peer-to-peer transactions, with the goal of eliminating the risks of devastating losses of stake associated with traumatic failures of central operators. Verto plans to employ a system of smart contracts to maintain the state between two trading clients, the simplest operations being accomplished with atomic swaps.[1]
 
 ### 2.3 VESPUCCI
 
-Vespucci jẹ fifojusun gẹgẹbi ohun elo iyanana ti o se wọle si nipasẹ intafeesi onirọrun-olumulo pẹlu awọn ile ipamọ iṣura ti bosenlọ lọwọ ati awọn itan data ọja, gẹgẹbi awọn iwontunwonsi awọn ohun-ini oni-nọmba ati awọn iyanana igbeyewo ero. A fẹ lati ro awọn olumulo lagbara pẹlu awọn irinṣẹ lati ṣe iwọn ati ṣe afiwe awọn ohun-ini oni-nọmba ti o ṣe fisowo, lati wọle ati pin awọn akọsilẹ itan iṣowo, lati ṣeto awọn aṣa ati awọn ilana, ati lati mojuto ati ṣayẹwo awọn idagbasoke software orisun-gbangba. Vespucci n wa lati mu awọn alaye ti o kun ati ti o gboya lori iṣowo ọja nipa sise akojọpọ awọn ijabọ alaye ti o lọwọlọwọ yii fọn kakiri gbogbo awọn oriṣiriṣi awọn blockchain, awọn aaye ayelujara, awọn yara itakurọsọ, ati awọn ibi iyipada.
+Vespucci is envisioned as an analytics engine accessible via a user-friendly interface with treasure troves of real-time and historical market data, such as digital assets ratings and sentiment analysis. We wish to empower users with tools to graph and compare tradeable digital assets, to access and parse historical trading records, to plot trends and patterns, and to monitor and assess open-source software developments. Vespucci seeks to bring to your fingertips confident and comprehensive market-relevant data by aggregating the information currently scattered throughout many different blockchains, websites, chat rooms, and exchanges.
 
 ### 2.4 VDEX
 
-Opo kẹrin ti Volentix, ibi ipaṣipaarọ VDex, jẹ pilatifọọmu ṣiṣe owo awọn ohun-ini oni-nọmba ti a ṣe alaye ninu iwe funfun yii. Fun lilo ti o dan mọran ati ti o ni aabo, a gbero lati jẹki VDex ṣiṣẹpọ pẹlu apo owo Verto ti ara rẹ ati intafeesi Vespucci. A reti pe ki VDex ni anfani lati ṣakoso awọn iṣowo ti o jẹmọ VTX ati eto ọpọlọpọ awọn ohun-ini oni-nọmba ati awọn blockchain ti o si wa laye lati igba de igba jakejado agbalaye. A n se agbedide Venue gẹgẹbi alabaṣiṣẹpọ ni pato lati ma peṣe iwuri ati atilẹyin fun awọn eto-atinuda ibilẹ ti o da lori VTX.
+The fourth pillar of Volentix, the VDex exchange, is the tradable digital assets platform introduced in detail in this white paper. For smooth and secure usability, we plan VDex to integrate with your own personal Verto wallet and Vespucci interface. We expect VDex to be able to manage transactions involving both VTX and the vast array of digital assets and blockchains extant from time to time throughout the world. We are developing Venue as a complementary adjunct primarily in order to incentivize and drive native VTX-based initiatives.
 
 ## 3. IYAWORAN
 
 #### 3.0.1 Eto Isẹ sise ori ẹrọ
 
-A ti ṣe agbeyẹwo awọn orisirisi eto isẹ sise ori ẹrọ bi awọn oludije fun ipilẹ ti ibi ipaṣipaarọ VDex wa. Bi o tilẹ ṣepe a bọwọ fun iṣẹ ti awọn asaaju ti o ti fẹsẹrinlẹ ni idi awọn ohun-ini oni-nọmba ati imọ-ẹrọ blockchain ti se, ninu awọn assaju naa iṣẹ ti EOS.IO gẹgẹbi ilana eto isẹ ṣiṣe ti ori ẹrọ lori eyi ti a ti le se agbedide awọn ohun elo alaisilojukan da yatọ, ninu ero wa, bi awokọṣe. Software naa pese awọn akọọlẹ, ìfàṣẹsí, awọn ibi ipamọ data, ibaraẹnisọrọ alailo aago, ati ṣiṣe eto kari awọn iṣupọ. Awọn ẹya ohun elo ati awọn Ilana ti wa ni kikọ tẹlẹ sinu pilatifọọmu naa, ati pe ẹya kan le jẹ lilo lati le ni ibaamu pẹlu awọn ibeere VDex wa. VDex yoo kọkọ jẹ anfani lati ara awọn ẹya to pewọn ti EOS.IO n funni gẹgẹbi akọọlẹ ati sisẹda apo owo ati gbigba awọn kọkọrọ ti o jẹ jiji pada, ṣugbọn a gbero totẹlera lati ṣe amulo awọn ilana fun ṣiṣẹda ibi ipasiparọ alaisilojukan nipasẹ awọn iwe adehun EOS ati awọn irinṣẹ miran.[2] Eyi ni alaye isọniṣoki awọn ilana amoriya:
+We have evaluated various operating systems as candidates for the substructure of our VDex exchange. Though we honor the work done by a number of the established leaders in digital assets and blockchain technology, among those trailblazers the work of EOS.IO as an operating system-like framework upon which decentralized applications can be built stands out, in our opinion, as exemplary. The software provides accounts, authentication, databases, asynchronous communication, and scheduling across clusters. Components and protocols are already built into the platform, and a subset can be used to satisfy our VDex requirements. VDex will initially benefit from the standard features offered by EOS.IO such as account and wallet creation and the recovery of stolen keys, but we plan subsequently to implement protocols for creation of a decentralized exchange through EOS contracts and other tools.[2] Here is a summary of encouraging methodologies:
 
 ### Awọn Igbesẹ Alaini Aami itọka
 
-Ọpọlọpọ awọn ilana ipele agbara odiwọn ti Ethereum gbero (Sharding, Raiden, Plasma, State Channels) tubọ sisẹ si, o ṣe mu dọgba, ati pe o bojumu nigba ti o n ṣe aridaju iyara ibaraẹnisọrọ laarin-blockchain ati aidibajẹ ipele agbara odiwọn. Igbesẹ Alaini Aami itọka jẹmọ awọn isiro ti o dalori idunadura data nikan, ko kin ṣe lori ipo blockchain.
+Most of the scalability techniques proposed by Ethereum (Sharding, Raiden, Plasma, State Channels) become more efficient, parallelizable, and practical while also ensuring speedy inter-blockchain communication and unimpaired scalability. A Context Free Action involves computations that depend only on transaction data, and not upon the blockchain state.
 
 ### Iyipada Binary/JSON
 
-Awọn iwe adehun EOS da anfani awọn eniyan lati leka JSON pọ mọ iṣiṣẹsi ti binari.
+EOS contracts combine the human readability of JSON with the efficiency of binary.
 
 ### Imudọgba ati imupeye
 
-Yiya ifasẹsi sọtọ si ohun elo n faye gba ki akoko idunadura yara sii ati muki itankanlẹ pọ si. Awọn bulọọki EOS.IO n jẹ gbigbe jade ni gbogbo 500ms.
+Separating authentication from application allows faster transaction times and increases bandwidth. EOS.IO blocks are reportedly produced every 500ms.
 
 ### Apejọ Ayelujara(WASM)
 
-Apejọ Ayelujara jẹ ki iṣẹ ṣiṣe awọn ohun elo Ayelujara gaju si ati o tun da aabo bo ohun elo kọọkan ninu apoti ara rẹ, nipasẹ eyiti awọn iṣẹsi VDex le ri iwọle nẹtiwọki gba, awọn ihamọ aaye-orukọ faili-eto, ati aseyege ti o da lori ofin afipamu.
+Web Assembly enables high-performance Web applications and also secures each application in its own sandbox, through which functionalities VDex can obtain network access, filesystem namespace restrictions, and enforced rule-based execution.
 
 ### Rust/C++ awọn iwe adehun
 
-Ede siseto C++ ti o lokiki ati ti o gbajumọ farahan bi eyi ti o dara julọ fun WASM. C++ ni atilẹyin ati awọn ile ikowesi iṣatunṣe aṣiṣe alailẹgbẹ. Codebase EOS n lo awọn awoṣe lọfẹ, atipe C++ faye gba lilo awọn awoṣe ati apọju isẹ oṣiṣẹ lati seto akoko isẹ ọfẹ sise fun idaniloju ti awọn ẹya. The program reinitializes to clean state at the start of every message, a distinct advantage that streamlines formulation of smart contracts. Ilana WebAssembly n ti atinuwa kọ eyikeyi idunadura ti o n se iranti ti ko ni ibaamu. Bi o ba ṣẹlẹ iyasọtọ iranti alayipada jẹ pataki, awọn olumulo le kuro lọ si awọn atọka to jafafa nitori awọn iwe adehun EOS.IO n lo C++ 14. O to kiyesi pe imuse akọkọ ti imọ ẹrọ PARSEC Directed Acyclic Graph (DAG) ni a reti ki o wa ni Rust.
+The well-known and popular programming language C++ appears highly suitable for WASM. C++ has highly mature debugging support and libraries. The EOS codebase uses templates liberally, and C++ allows the use of templates and operator overloading to define a runtime cost-free validation of units. The program reinitializes to clean state at the start of every message, a distinct advantage that streamlines formulation of smart contracts. The WebAssembly framework automatically rejects any transaction addressing memory inaccurately. In case dynamic memory allocation is necessary, users can depart to smart pointers because EOS.IO contracts use C++14. It is noteworthy that the first implementation of PARSEC Directed Acyclic Graph (DAG) technology is expected to be in Rust.
 
 #### 3.0.2 Schema defined messages and database
 
-Awọn adehun iṣẹ ti wa ni imudojuwọn lati pese ipilẹṣẹ odiwọn ti isisẹpọ laarin ati ninu awọn eto ti o yatọ nipasẹ sise asopọ awọn awoṣe data. Nitootọ, ilana Eto Adehun Adojuiwọn beere fun pe ki awọn adehun eto da lori awọn awoṣe data ti o dojuiwọn. Iyanana ma n jẹ ṣiṣe lori apẹrẹ iwe-akọọlẹ ti iṣẹ lati wa awọn iwe-iṣowo owo ti o n waye daadaa ti o n jẹ pipaarọ laarin awọn iṣẹ. Awọn iwe iṣowo yii ma wa jẹ ṣiṣe ni ọna ti o kun ojuiwọn. The Canonical Schema pattern reduces the need for application of the data model transformation design pattern. [3]
+Service contracts are standardized to provide a baseline measure of interoperability between and among disparate systems by harmonization of data models. Indeed, the Standardized Service Contract design principle advocates that service contracts be based on standardized data models. Analysis is done on the service inventory blueprint to find out the commonly occurring business documents that are exchanged between services. These business documents are then modeled in a standardized manner. The Canonical Schema pattern reduces the need for application of the data model transformation design pattern. [3]
 
 #### 3.0.3 Inter-Contract Communication
 
-Data ma jẹ pinpin laarin awọn adehun nipasẹ oracle kan, eyi ti, "ninu ọrọ awọn blockchain ati awọn adehun ajafafa, jẹ aṣoju ti o n ṣawari ati se ijẹri awọn iṣẹlẹ bosenlọ gangan ni aye ati ki o fi alaye yii ranṣẹ si blockchain lati lo nipasẹ awọn adehun ajafafa." [4] Gbogbo oku ipade yoo ni ẹda ti o jọra ti awọn data wọnyi, fun lilo ninu iṣiro adehun ajafafa. Kakaki adehun ajafafa ṣiṣẹ lati fa data naa kuro, dipo oracle naa n tari data naa si ori blockchain naa. Ni apẹẹrẹ ti blockchain, ọpọ kika ti awọn data naa ma n jẹ ṣiṣe nipasẹ isewadi "awọn awoṣe" lati le se amojuto ipo blockchain ati lati ṣe diẹ ninu awọn igbesẹ idahun.
+Data is shared between contracts via an oracle, which, "in the context of blockchains and smart contracts, is an agent that finds and verifies real-world occurrences and submits this information to a blockchain to be used by smart contracts.” [4] Every node will have an identical copy of these data, for use in smart contract computation. Rather than the smart contract functioning to pull the data, instead the oracle pushes the data onto the blockchain. In the instance of a blockchain, most reading of the data is done via polling "models" in order to monitor blockchain state and to perform certain responsive actions.
 
 #### 3.0.4 Awọn ẹka-ẹgbẹgbẹ
 
-Ni EOS.IO, ipinfunni ti ohun-ini oni-nọmba ma n ṣẹda ẹka-ẹgbẹgbẹ kan, eyi ti o jẹ ilana ti o n jade bọ ti o gba awọn ohun-elo oni-nọmba laaye lati jẹ lilo pẹlu aabo lati blockchain kan ninu blockchain miran ti o yatọ ati lẹhinna jẹ didapada si ojulowo blockchain. Iṣiṣẹṣi ti iṣaayan ma n jẹ gbigbelarugẹ nipasẹ ṣiṣẹda awọn ọpọlọpọ awọn ẹka-ẹgbẹgbẹ. A TCP-like communication channel between different blockchains evaluates proofs. For each shard (a unit of parallelizable execution in a cycle), a balanced merkle tree is constructed of these action commitments to generate a temporary shared merkle root; this is done for speed of parallel computation. The block header contains the root of a balanced merkle tree the leaves of which are the roots of these individual shard merkle trees. [2]
+In EOS.IO, issuance of a digital asset creates a sidechain, which is an emerging mechanism permitting digital assets from one blockchain to be securely used in a separate blockchain and then moved back to the original blockchain. Efficiency of processing is promoted by creating multiple sidechains. A TCP-like communication channel between different blockchains evaluates proofs. For each shard (a unit of parallelizable execution in a cycle), a balanced merkle tree is constructed of these action commitments to generate a temporary shared merkle root; this is done for speed of parallel computation. The block header contains the root of a balanced merkle tree the leaves of which are the roots of these individual shard merkle trees. [2]
 
 #### 3.0.5 Liquidity
 
-Ohun-ini oni-nọmba jẹ owo lọwọ ti o ba jẹ tita tabi rira ni awọn iwọn iṣowo laisi ipa ọlọjọ kukuru ti o han lori iye owo ọja lọwọlọwọ. Lati le de iru ipo bayii, nigbagbogbo eyikeyi awọn dukia ti o se ṣowo gbọdọ bori ipele awọn iwọn iṣowo ti o to lati ṣe atilẹyin fun iduroṣinṣin. Specifically, we anticipate adopting the following methodologies: Loopring protocol with the use of EOS.IO contracts acting as nodes.[5] Bancor algorithm used to bring stability to the digital asset.[6] Toggles between these protocols and HTLC (atomic swaps) according to Vespucci analyses on the VDex network.
+A digital asset is liquid if it is easily sold or purchased in ordinary trading volumes without a significant short-term impact on its prevailing market price. In order to achieve such a status, traditionally any tradable asset must surmount a trading volume threshold sufficient to support stability. Specifically, we anticipate adopting the following methodologies: Loopring protocol with the use of EOS.IO contracts acting as nodes.[5] Bancor algorithm used to bring stability to the digital asset.[6] Toggles between these protocols and HTLC (atomic swaps) according to Vespucci analyses on the VDex network.
 
 #### 3.0.6 Hashed Timelock Contracts (Atomic Swaps)
 
@@ -112,7 +114,9 @@ The order book is the list of buy-and-sell orders VDex records from interested u
 
 #### 3.2.1 Data structures
 
-Using the Loopring Protocol FIFO (first-in first-out) circular buffer, nodes can design their order books to display and match a user's order. This method follows an OTC model, where limit orders are positioned based on price only.[5] Referencing the EOS.IO persistence API, the order book is able to take advantage of the powerful multi-index container shared among nodes through the same EOS.IO account.
+Using the Loopring Protocol FIFO (first-in first-out) circular buffer, nodes can design their order books to display and match a user’s order. This method follows an OTC model, where limit orders are positioned based on price only.[5]
+
+Referencing the EOS.IO persistence API, the order book is able to take advantage of the powerful multi-index container shared among nodes through the same EOS.IO account.
 
 #### 3.2.2 On-Chain order book
 
@@ -146,7 +150,7 @@ To stake support for reviewing proposals and implementing projects.
 
 To incentivize users to participate in order book settlement by becoming nodes via their Verto wallets.
 
-To incentivize users to lock funds in for \>24 hours by HTLC time-bound transactions.
+To incentivize users to lock funds in for >24 hours by HTLC time-bound transactions.
 
 #### 3.4.2 VTX Allocation
 
@@ -222,7 +226,7 @@ Include ability to delay an action of a contract.
 
 #### 3.8.2 Auditing rogue processes
 
-The advanced anomaly detection algorithms provided by Numenta's Nupic library will require less voluminous training data sets than conventional AI systems.
+The advanced anomaly detection algorithms provided by Numenta’s Nupic library will require less voluminous training data sets than conventional AI systems.
 
 #### 3.8.3 Randomization
 
@@ -246,7 +250,7 @@ A race attack occurs when two conflicting transactions are sent in rapid success
 
 A Finney attack pre-mines one transaction into a block and spends the same tokens before releasing the block to invalidate that transaction.
 
-A 51% attack can be mounted by anyone owning \>50% of the total computing power of a network. A majority ownership position permits reversal of any transaction and allows total control of selection of transactions appearing in blocks. EOS.IO, Loopring, and RAFT appear to prevent this problem. If a block producer takes an unreasonable amount of runtime or is not sufficiently profitable, then the process is blacklisted.[5]
+A 51% attack can be mounted by anyone owning >50% of the total computing power of a network. A majority ownership position permits reversal of any transaction and allows total control of selection of transactions appearing in blocks. EOS.IO, Loopring, and RAFT appear to prevent this problem. If a block producer takes an unreasonable amount of runtime or is not sufficiently profitable, then the process is blacklisted.[5]
 
 #### 3.9.2 Front running
 
@@ -300,7 +304,7 @@ This white paper was prepared, and is presented, for information purposes only. 
 
 2. EOS.IO, Eos.io technical white paper v2, (2018).
 
-3. . T. Earl, Soa principles of service design, (2016).
+3. T. Earl, Soa principles of service design, (2016).
 
 4. blockchainhub.net, blockchain-oracles, (2017).
 
