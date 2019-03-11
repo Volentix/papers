@@ -6,13 +6,13 @@
 
 ## 1. INTRODUCTION
 
- Volentix introduces VDex, designed as a distributed, decentralized digital assets exchange with emphasis on user experience and community development and governance. By accessing established technologies and planning selective new protocols with priority on security, speed, authentication, ease of use, scalability, and multi-asset support, VDex intends to facilitate peer-to-peer transactions by assembling a portfolio of decentralized applications built on EOS.IO smart contracts. 
+Volentix introduces VDex, designed as a distributed, decentralized digital assets exchange with emphasis on user experience and community development and governance. By accessing established technologies and planning selective new protocols with priority on security, speed, authentication, ease of use, scalability, and multi-asset support, VDex intends to facilitate peer-to-peer transactions by assembling a portfolio of decentralized applications built on EOS.IO smart contracts.
 
 The VDex launch point anticipates matching Volentix's design requirements to available technologies superimposed on the EOS.IO decentralized operating system. We intend to test our assumptions by prototyping via custom EZEOS software, which we built and customized with EOS.IO’s cleos command line tools. This software resides at: https://github.com/Volentix/ezeos
 
 ## 2. VOLENTIX
 
-The Volentix ecosystem will exist atop four pillars, an initializing array of applications specifically known as Venue, Verto, Vespucci, and VDex. 
+The Volentix ecosystem will exist atop four pillars, an initializing array of applications specifically known as Venue, Verto, Vespucci, and VDex.
 
 ### 2.1 VENUE
 
@@ -54,7 +54,7 @@ Separating authentication from application allows faster transaction times and i
 
 ### Web Assembly(WASM)
 
-Web Assembly enables high-performance Web applications and also secures each application in its own sandbox, through which functionalities VDex can obtain network access, filesystem namespace restrictions, and enforced rule-based execution. 
+Web Assembly enables high-performance Web applications and also secures each application in its own sandbox, through which functionalities VDex can obtain network access, filesystem namespace restrictions, and enforced rule-based execution.
 
 ### Rust/C++ contracts
 
@@ -67,7 +67,6 @@ Service contracts are standardized to provide a baseline measure of interoperabi
 #### 3.0.3 Inter-Contract Communication
 
 Data is shared between contracts via an oracle, which, "in the context of blockchains and smart contracts, is an agent that finds and verifies real-world occurrences and submits this information to a blockchain to be used by smart contracts.” [4] Every node will have an identical copy of these data, for use in smart contract computation. Rather than the smart contract functioning to pull the data, instead the oracle pushes the data onto the blockchain. In the instance of a blockchain, most reading of the data is done via polling "models" in order to monitor blockchain state and to perform certain responsive actions. 
-
 
 #### 3.0.4 Sidechains
 
@@ -85,17 +84,17 @@ A Hashed Timelock Contract (HTLC)[1] is a smart contract enabling the implementa
 
 #### 3.1.1 Nodes
 
-Nodes are the endpoints of the VDex exchange. Their functions are: 
+Nodes are the endpoints of the VDex exchange. Their functions are:
 
 1. Act as portals to VDex through the Verto wallet.
 
-2. Merge order book information. 
+2. Merge order book information.
 
 3. Settle order book.
 
 4. Manage order cancellation.
 
-5. Assign timeouts for the RAFT protocol. 
+5. Assign timeouts for the RAFT protocol.
 
 6. Initiate contracts for orders that have been filled.
 
@@ -105,11 +104,9 @@ Nodes earn a portion of the fee for each transaction. If a user has sufficient f
 
 The VDex aggregators are dedicated Volentix servers for simulator and security purposes. One of their functions is to pull logs and order book data from nodes into sparse distributed representations for hierarchical temporal memory as intrusion [7] analysis for detecting anomalies in the system. The aggregators will also be host to other components such as metachain ledgers and blockchain scrapers.
 
-
 #### 3.1.3 Latency
 
 EOS.IO has low latency block confirmation (0.5 seconds).[5] This degree of latency can be maintained in transactions with other blockchains if those chains admit of similar latency. But fundamentally the transaction is only as rapid as the lesser-rapid chain in the equation. It is well known, for example, that a Bitcoin block requires approximately ten minutes for processing. Receiving a transaction hash does not mean the transaction is confirmed; it means only that a node accepted the transaction without error, although there is generally a high probability other block producers will accept it.
-
 
 ### 3.2 ORDER BOOK
 
@@ -133,10 +130,9 @@ Residing on the aggregator, offline order books serve for simulator and security
 
 For decentralization purposes, nodes will take turns to settle the order book. The settling node must be designated by the protocol and all order book entries from all nodes must be available to the settling nodes. We believe the RAFT[9] and PARSEC[10] consensus mechanisms offer effective solutions. RAFT is a well-established algorithm and is easy to implement.[7] PARSEC is more recent and more efficient, using Directed Acyclic Graph (DAG) technology and eliminating the need for copying logs.
 
-
 ### 3.3 ORDER SETTLEMENT
 
-Order settlement contains familiar elements of conventional financial market transactions. Utilizing FIFO technology to design the order book, VDex intends to check order, inventory, and fill rate, as well as limit orders and cancellations. 
+Order settlement contains familiar elements of conventional financial market transactions. Utilizing FIFO technology to design the order book, VDex intends to check order, inventory, and fill rate, as well as limit orders and cancellations.
 
 ### 3.4 VTX
 
@@ -146,33 +142,33 @@ VTX is the native digital asset to be issued and used on the VDex decentralized 
 
 To reward participants in the consensus process and in Venue campaigns.
 
-To pay and redistribute transaction fees on the VDex exchange. 
+To pay and redistribute transaction fees on the VDex exchange.
 
 To submit and vote on proposals to the Volentix ecosystem, using the voting rights allocated to VTX holders.
 
-To stake support for reviewing proposals and implementing projects. 
+To stake support for reviewing proposals and implementing projects.
 
-To incentivize users to participate in order book settlement by becoming nodes via their Verto wallets.  
+To incentivize users to participate in order book settlement by becoming nodes via their Verto wallets.
 
-To incentivize users to lock funds in for >24 hours by HTLC time-bound transactions. 
+To incentivize users to lock funds in for >24 hours by HTLC time-bound transactions.
 
 #### 3.4.2 VTX Allocation
 
 A digital assets ecosystem requires an array of certain fundamental human constituents who shepherd the project forward.[11] It is essential to compensate those individuals for their participation. Subject to adjustment, Volentix currently anticipates the following allocations:  
 
-1. Contributors. 12%. An array of individuals, akin to founders, who contribute insights, time and talent, though often work without early compensation. 
+1. Contributors. 12%. An array of individuals, akin to founders, who contribute insights, time and talent, though often work without early compensation.
 
-2. Supporters. 
+2. Supporters.
 
 Phase 1. 5%. Early passive seed funders.
 
-Phase 2. 28%. Funders via qualified private pre-sales and possible public sale. 
+Phase 2. 28%. Funders via qualified private pre-sales and possible public sale.
 
-3. Facilitators. (Advisors, Developers, Promoters, Custodians). Note that requirements for assistance from the sub-categories in this category may differ significantly before and after the project receives substantial funding support, but certain individuals may serve during both phases. 
+3. Facilitators. (Advisors, Developers, Promoters, Custodians). Note that requirements for assistance from the sub-categories in this category may differ significantly before and after the project receives substantial funding support, but certain individuals may serve during both phases.
 
-Phase 1. 10%. 
+Phase 1. 10%.
 
-Phase 2. 10%. 
+Phase 2. 10%.
 
 4. Decentralized treasury. 35%. Community members incentivized and rewarded for participation in progressive development of a decentralized autonomous organization (DAO). A decentralized treasury is anticipated to be administered by smart contracts and community consensus.
 
@@ -190,8 +186,7 @@ Developers stake EOS.IO-compliant tokens to deploy a smart contract. After the c
 
 Decentralized applications allocate memory, CPU, bandwidth, and other resources to their contracts.
 
-Multiple messages and multiple accounts can be assigned to the same thread. 
-
+Multiple messages and multiple accounts can be assigned to the same thread.
 
 ### 3.6 BLOCKCHAIN INTERACTION
 
@@ -205,7 +200,7 @@ Comprehensible multi-blockchain information can be obtained by aggregating block
 
 ### 3.7 SECURITY CONCERNS
 
-To shake out certain assumptions, we intend to commence security testing following the prototyping phase. Security concerns are of paramount importance to users and must be addressed. Threats include, for example, an attacker executing malicious code within a transaction or manipulating the order of transactions or the timestamps of blocks. In the following sections, we address certain security measures and specific security threats and remedies. 
+To shake out certain assumptions, we intend to commence security testing following the prototyping phase. Security concerns are of paramount importance to users and must be addressed. Threats include, for example, an attacker executing malicious code within a transaction or manipulating the order of transactions or the timestamps of blocks. In the following sections, we address certain security measures and specific security threats and remedies.
 
 ### 3.8 SECURITY MEASURES
 
@@ -232,7 +227,7 @@ Include ability to delay an action of a contract.
 #### 3.8.2 Auditing rogue processes
 
 The advanced anomaly detection algorithms provided by Numenta’s Nupic library
-will require less voluminous training data sets than conventional AI systems. 
+will require less voluminous training data sets than conventional AI systems.
 
 #### 3.8.3 Randomization
 
@@ -258,7 +253,7 @@ A double spend is an attack in which a particular cryptocurrency stake is spent 
 
 A race attack occurs when two conflicting transactions are sent in rapid succession into the network. 
 
-A Finney attack pre-mines one transaction into a block and spends the same tokens before releasing the block to invalidate that transaction. 
+A Finney attack pre-mines one transaction into a block and spends the same tokens before releasing the block to invalidate that transaction.
 
 A 51% attack can be mounted by anyone owning >50% of the total computing power of a network. A majority ownership position permits reversal of any transaction and allows total control of selection of transactions appearing in blocks. EOS.IO, Loopring, and RAFT appear to prevent this problem. If a block producer takes an unreasonable amount of runtime or is not sufficiently profitable, then the process is blacklisted.[5]
 
@@ -269,15 +264,15 @@ A front runner steals one or more orders from a pending order book settlement tr
 
 #### 3.9.3 Forged identities
 
-Malicious users create forged identities to send a large number of small orders to attack Loopring nodes. However, most of these orders will be rejected for not yielding satisfying profit when matched. 
+Malicious users create forged identities to send a large number of small orders to attack Loopring nodes. However, most of these orders will be rejected for not yielding satisfying profit when matched.
 
 #### 3.9.4 Insufficient Balance
 
-Malicious users sign and spread orders the value of which is non-zero but the address of which has a zero balance. Nodes monitor actual balances, update these order states accordingly, and then discard them. 
+Malicious users sign and spread orders the value of which is non-zero but the address of which has a zero balance. Nodes monitor actual balances, update these order states accordingly, and then discard them.
 
 #### 3.9.5 Timing attack
 
-Timing attacks are a class of cryptographic attacks through which a third-party observer can deduce the content of encrypted data by recording and analyzing the time taken to execute cryptographic algorithms. The RAFT algorithm prevents timing attacks by using randomness of timeouts. 
+Timing attacks are a class of cryptographic attacks through which a third-party observer can deduce the content of encrypted data by recording and analyzing the time taken to execute cryptographic algorithms. The RAFT algorithm prevents timing attacks by using randomness of timeouts.
 
 ### 3.10 USER EXPERIENCE
 
@@ -285,30 +280,29 @@ Our focus on user experience is primary. We wish to make VTX and the four pillar
 
 ### 3.11 TRUE DECENTRALIZATION
 
-EOS.IO is an open-source, scalable infrastructure for decentralized applications. Its goal is a fair and transparent block producer (BP) election process utilizing a democratic delegated proof of stake (DPoS) consensus. Particularly as such a system just begins to proliferate, there will be glitches.  Therefore, some degree of retained centralization is inevitable and necessary. But our guiding philosophy is one of decentralization, and our ongoing efforts are targeted to promoting a reduction in dependence on central authority. 
+EOS.IO is an open-source, scalable infrastructure for decentralized applications. Its goal is a fair and transparent block producer (BP) election process utilizing a democratic delegated proof of stake (DPoS) consensus. Particularly as such a system just begins to proliferate, there will be glitches.  Therefore, some degree of retained centralization is inevitable and necessary. But our guiding philosophy is one of decentralization, and our ongoing efforts are targeted to promoting a reduction in dependence on central authority.
 
 For example, initially we plan to erect a system for electing nodes (when solving order books) that will not use a shared central clock or DPoS but instead will be based either on random timeouts for the determination of leaders in an election (RAFT) or on Directed Acyclic Graph (DAG) in the PARSEC protocol.
 
 ### 3.12 SYSTEM RECOVERY
 
-The RAFT and PARSEC protocols provide a robust system for recovery in the case of node failure. Security measures are also provided for trading between and among native blockchains. If a chain defies identification, the system defaults to the next block or a short time lock. 
+The RAFT and PARSEC protocols provide a robust system for recovery in the case of node failure. Security measures are also provided for trading between and among native blockchains. If a chain defies identification, the system defaults to the next block or a short time lock.
 
 ### 3.13 EVOLVING ARCHITECTURE
 
-Daily announcements of fresh code developments impacting on use of digital assets reveal the tremendous benefit of the open-source code philosophy. We at Volentix recognize we are the beneficiaries of the enormous financial resources dedicated by many early movers to developing digital assets applications over the past decade. We now have an opportunity to take the next step by creating VDex, a decentralized exchange for the next generation of digital assets transactions. 
+Daily announcements of fresh code developments impacting on use of digital assets reveal the tremendous benefit of the open-source code philosophy. We at Volentix recognize we are the beneficiaries of the enormous financial resources dedicated by many early movers to developing digital assets applications over the past decade. We now have an opportunity to take the next step by creating VDex, a decentralized exchange for the next generation of digital assets transactions.
 
 ## 4. CONCLUDING THOUGHTS
 
-All of us at Volentix are dedicating our work and insights to developing a program premised on empowerment and independence. If you are of a mind to join us, in whatever capacity, then please do so and please become educated on the topics contained in this white paper and additional Volentix publications as we share them with our community. 
+All of us at Volentix are dedicating our work and insights to developing a program premised on empowerment and independence. If you are of a mind to join us, in whatever capacity, then please do so and please become educated on the topics contained in this white paper and additional Volentix publications as we share them with our community.
 
 ## 5. TIMELINE
 
-Please monitor our website and social media for updates and other important announcements. Thank you very much for your attention and interest. 
+Please monitor our website and social media for updates and other important announcements. Thank you very much for your attention and interest.
 
 ## DISCLAIMER
 
-This white paper was prepared, and is presented, for information purposes only. The information presented does not purport to be comprehensive. The information is subject to change in whole or in part at any time without notice. Volentix Labs reserves the right to amend, replace, remove, or delete any and all information at the sole and exclusive discretion of Volentix. Volentix Labs makes no representation or warranty, expressed or implied, concerning the accuracy or completeness of the information and expressly disclaims any and all liability of any and all kinds whatsoever for the information contained or not contained. Volentix Labs requests each and every reader to read the information fully and carefully, and to undertake independent investigation and analysis of the information, and to seek and obtain professional advice for purposes of evaluating the information. To the knowledge of Volentix Labs, no regulatory agency, government, or other third-party enforcement entity has reviewed, evaluated, or approved any part or all of the information. This information is not an offer or solicitation of any kind whatsoever and does not form the basis for any contract or commitment of any kind whatsoever. Any statement considered to be forward-looking is purely a matter of opinion, and no viewer should rely on any such statement or on any part or all of the information in any way whatsoever. 
-
+This white paper was prepared, and is presented, for information purposes only. The information presented does not purport to be comprehensive. The information is subject to change in whole or in part at any time without notice. Volentix Labs reserves the right to amend, replace, remove, or delete any and all information at the sole and exclusive discretion of Volentix. Volentix Labs makes no representation or warranty, expressed or implied, concerning the accuracy or completeness of the information and expressly disclaims any and all liability of any and all kinds whatsoever for the information contained or not contained. Volentix Labs requests each and every reader to read the information fully and carefully, and to undertake independent investigation and analysis of the information, and to seek and obtain professional advice for purposes of evaluating the information. To the knowledge of Volentix Labs, no regulatory agency, government, or other third-party enforcement entity has reviewed, evaluated, or approved any part or all of the information. This information is not an offer or solicitation of any kind whatsoever and does not form the basis for any contract or commitment of any kind whatsoever. Any statement considered to be forward-looking is purely a matter of opinion, and no viewer should rely on any such statement or on any part or all of the information in any way whatsoever.
 
 ## FOOTNOTES
 
@@ -367,6 +361,5 @@ A. B. Will Warren, 0x: An open protocol for decentralized exchange on the ethere
 G. Wood, Ethereum: A secure decentralised generalised transaction ledger.ethereum project yellow paper, (2014).
 
 Dane Keller Rutledge, Creating a Comprehensive Digital Assets Ecosystem (DAE), (2018). 
-
 
 ## END OF PAPER
