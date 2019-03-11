@@ -142,17 +142,17 @@ VDex borsasında işlem ücretlerini ödemek ve yeniden dağıtmak için.
 
 VTX sahiplerine tahsis edilen oylama haklarını kullanarak, Volentix ekosistemine teklifleri sunmak ve oy kullanmak için.
 
-To stake support for reviewing proposals and implementing projects.
+Teklifleri gözden geçirme konusunda destek almak ve projeleri uygulamak için.
 
-To incentivize users to participate in order book settlement by becoming nodes via their Verto wallets.
+Kullanıcıları Verto cüzdanları aracılığıyla düğüm haline getirerek emir defteri anlaşmasına katılmaya teşvik etmek için.
 
-To incentivize users to lock funds in for \>24 hours by HTLC time-bound transactions.
+HTLC'nin zamana bağlı işlemleriyle kullanıcıları \>24 saat boyunca fonları kilitlemeye teşvik etmek için.
 
 #### 3.4.2 VTX Tahsisi
 
-A digital assets ecosystem requires an array of certain fundamental human constituents who shepherd the project forward.[11] It is essential to compensate those individuals for their participation. Subject to adjustment, Volentix currently anticipates the following allocations:
+Dijital varlıklar ekosistemi, projeyi öne süren belli başlı temel insan bileşenlerini gerektirir.[11] Bu bireylere katılımlarını telafi etmek esastır. Ayarlamaya tabi olarak, Volentix şu anda aşağıdaki tahsisleri öngörmektedir:
 
-1. Katkıda Bulunanlar. %12. An array of individuals, akin to founders, who contribute insights, time and talent, though often work without early compensation.
+1. Katkıda Bulunanlar. %12. Kuruculara benzer, içgörülere, zamana ve yeteneğe katkıda bulunan bir dizi insan, genellikle erken tazminat olmadan çalışır.
 
 2. Destekçiler.
 
@@ -188,37 +188,37 @@ Aynı konuya birden fazla mesaj ve birden fazla hesap atanabilir.
 
 #### 3.6.1 Blok Zinciri-Arası İletişim
 
-EOS.IO Blok Zincir-Arası İletişim (IBC) hafif kanıtlar yapmak için tasarlanmıştır. For chains with insufficient capacity for processing the IBC proofs and establishing validity, there is an option to default to trusted oracles/escrows. With an EOS.IO-based smart contract, a trusted multi-signature wallet holding the asset in escrow can be used to persuade the signing/publishing of the transaction based on IBC proofs from the originating chain.
+EOS.IO Blok Zincir-Arası İletişim (IBC) hafif kanıtlar yapmak için tasarlanmıştır. IBC kanıtlarının işleme koyma ve geçerliliği sağlama konusunda yetersiz kapasiteye sahip zincirler için, varsayılan güvenilir uzmanlar/emanetler için bir seçenek vardır. EOS.IO tabanlı bir akıllı sözleşmeyle, varlığı emanet içinde tutan güvenilir bir çoklu imza cüzdanı, kaynak zincirindeki IBC kanıtlarına dayanan işlemin imzalanma/yayınlanmasına ikna etmek için kullanılabilir.
 
 #### 3.6.2 Çoklu-Blok Zinciri Bilgisi
 
-Comprehensible multi-blockchain information can be obtained by aggregating blockchain timelines in parallel order (with variance in the frequency of change of state). This system can trigger multi-chain load balancers, transfer states, draw data outputs from smart contracts, and foreign blockchain transaction execution. Relative block distance, relative global state, and timestamped events are recorded on a global ledger to optimize and confirm transactions before they actually happen on the native chain. This approach could also be used to determine block production coincidence between chains to access greater liquidity.[12]
+Anlaşılabilir çoklu blok zinciri bilgileri, blok zinciri zaman çizelgelerini paralel sırada (durum değişim sıklığındaki varyansla) toplayarak elde edilebilir. Bu sistem çok zincirli yük dengeleyicileri, aktarma durumlarını, akıllı sözleşmelerden veri çıktılarını ve yabancı blok zinciri işlemlerinin yürütülmesini tetikleyebilir. Göreceli blok mesafesi, göreceli küresel durum ve zaman damgalı olaylar, gerçekte yerel zincirde gerçekleşmeden önce işlemleri optimize etmek ve onaylamak için küresel bir defteri kebire kaydedilir. Bu yaklaşım daha büyük likiditeye erişmek için zincirler arasındaki blok üretim çakışmasının belirlenmesinde de kullanılabilir.[12]
 
 ### 3.7 GÜVENLİK ENDİŞELERİ
 
-Bazı varsayımları ortadan kaldırmak için prototip aşamasını takiben, güvenlik testine başlamak istiyoruz. Security concerns are of paramount importance to users and must be addressed. Threats include, for example, an attacker executing malicious code within a transaction or manipulating the order of transactions or the timestamps of blocks. In the following sections, we address certain security measures and specific security threats and remedies.
+Bazı varsayımları ortadan kaldırmak için prototip aşamasını takiben, güvenlik testine başlamak istiyoruz. Güvenlik kaygıları kullanıcılar için son derece önemlidir ve ele alınması gerekir. Tehditler, örneğin, bir işlem içinde kötü amaçlı kod yürüten veya işlemlerin emir sırasını veya blokların zaman damgalarını değiştiren bir saldırganı içerir. Takip eden bölümlerde, bazı güvenlik önlemlerini ve belirli güvenlik tehditlerini ve çözüm yollarını ele alıyoruz.
 
 ### 3.8 GÜVENLİK ÖNLEMLERİ
 
 #### 3.8.1 Güvenlik sözleşmesi
 
-Retain vast majority of funds in a time-delayed, multi-signature-controlled account.
+Zaman gecikmeli, çoklu imza kontrollü bir hesapta bulunan fonların büyük çoğunluğunu saklayın.
 
-Use multi-signatures on a hot wallet with several independent processes/servers double-checking all withdrawals, with the concomitant benefit of creating a trusted list of accounts.
+Güvenilir bir hesap listesi oluşturmanın faydasıyla birlikte, tüm para çekme işlemlerini iki kez kontrol eden birkaç bağımsız işlemler/sunucular içeren sıcak bir cüzdanda çoklu imzalar kullanın.
 
-Deploy a custom contract that allows withdrawals only to accounts verified by KYC/AML.
+Yalnızca KYC/AML tarafından doğrulanmış hesaplara para çekme olanağı sağlayan özel bir sözleşme kullanın.
 
-Deploy a custom contract that accepts only deposits of known assets from accounts verified by KYC/AML.
+KYC/AML tarafından doğrulanan hesaplardan yalnızca bilinen varlıkların mevduatını kabul eden özel bir sözleşme kullanın.
 
-Deploy a custom contract that requires a mandatory 24-hour waiting period for all withdrawals.
+Tüm para çekme işlemleri için 24 saat zorunlu bir bekleme süresi gerektiren özel bir sözleşme kullanın.
 
-Utilize contracts with hardware wallets for all signing, including for automated withdrawals.
+Otomatik para çekme işlemleri de dahil olmak üzere, tüm imzalama için donanım cüzdanlarıyla yapılan sözleşmelerden yararlanın.
 
 Bozuk sözleşmeleri yükseltin.
 
-Include ability to pause the functionality of a contract.
+Bir sözleşmenin işlevselliğini duraklatma özelliğini dahil edin.
 
-Include ability to delay an action of a contract.
+Bir sözleşme eyleminin yapılmasını geciktirme özelliğini dahil edin.
 
 #### 3.8.2 Hileli işlemleri denetleme
 
@@ -226,7 +226,7 @@ Numenta'nın Nupic kütüphanesi tarafından sağlanan gelişmiş anomali tespit
 
 #### 3.8.3 Rasgeleleştirme
 
-True randomisation of address space layout, route or utilizing varying lengths of timeouts as in the RAFT protocol can complexify systems enough to enhance resilience and further secure systems against a side-channel attack or front running.
+Adres alanı düzeninin gerçek rasgele randomizasyonu, RAFT protokolünde olduğu gibi değişen uzunluktaki zaman aşımlarını yönlendirmek veya kullanmak, bir yan kanal saldırılarına veya önden çalışanlara karşı esnekliği artırmak için sistemleri yeterince karmaşık ve daha güvenli hale getirebilir.
 
 #### 3.8.4 Günlük denetim
 
@@ -234,7 +234,7 @@ Parsec fikir birliğinin tespiti için kayıtlara dayanmaz. Diğer yandan, RAFT 
 
 #### 3.8.5 Alım Kanıtı olarak İşlem (TaPoS)
 
-This mechanism prevents the replay of a transaction on forks that do not include the referenced block. Signals the network that a particular user and stake are on a specific fork.
+Bu mekanizma, başvurulan bloğu içermeyen çatallarda bir işlemin tekrarlanmasını engeller. Belirli bir kullanıcının ve riskin spesifik bir çatal üzerinde olduğu ağı işaretler.
 
 ### 3.9 Güvenlik tehditleri ve çözüm yolları
 
@@ -244,13 +244,13 @@ This mechanism prevents the replay of a transaction on forks that do not include
 
 Çakışan iki işlem hızlı bir şekilde ağa art arda gönderildiğinde bir yarış saldırısı gerçekleşir.
 
-A Finney attack pre-mines one transaction into a block and spends the same tokens before releasing the block to invalidate that transaction.
+Bir Finney ön mayınlar saldırısı bir işlemi bir bloğa dönüştürür ve bloğu bu işlemi geçersiz kılmak için serbest bırakmadan önce aynı tokenleri harcar.
 
-Bir ağın toplam bilgi işlem gücünün \>%50'sine sahip olan herhangi biri tarafından %51 saldırısı gerçekleştirilebilir. A majority ownership position permits reversal of any transaction and allows total control of selection of transactions appearing in blocks. EOS.IO, Loopring ve RAFT bu problemi önlüyor gibi görünüyor. Eğer bir blok üreticisi makul olmayan miktarda bir çalışma süresi alırsa veya yeterince karlı değilse, işlem kara listeye alınır.[5]
+Bir ağın toplam bilgi işlem gücünün \>%50'sine sahip olan herhangi biri tarafından %51 saldırısı gerçekleştirilebilir. Çoğunluk sahiplik pozisyonu, herhangi bir işlemin tersine çevrilmesine izin verir ve bloklarda görünen işlemlerin seçiminin tamamen kontrol edilmesini sağlar. EOS.IO, Loopring ve RAFT bu problemi önlüyor gibi görünüyor. Eğer bir blok üreticisi makul olmayan miktarda bir çalışma süresi alırsa veya yeterince karlı değilse, işlem kara listeye alınır.[5]
 
 #### 3.9.2 Ön koşu
 
-A front runner steals one or more orders from a pending order book settlement transaction. Hem EOS.IO hem de Loopring, açık zincir işleminin bir parçası olmadığından anahtarların korunduğu için çözümler sunar ve bu nedenle de mal sahibi dışındaki şahıslar tarafından bilinmeyen olarak kalır. Only the order book settling node is possessed of the sensitive information, and each node uses a different solution for resolving the order books, introducing yet another level of complexity to promote security.
+Bir ön koşucu, bekleyen bir emir defteri ödeme işleminden bir veya daha fazla emir çalar. Hem EOS.IO hem de Loopring, açık zincir işleminin bir parçası olmadığından anahtarların korunduğu için çözümler sunar ve bu nedenle de mal sahibi dışındaki şahıslar tarafından bilinmeyen olarak kalır. Yalnızca emir defteri anlaşma düğümü hassas bilgilere sahiptir ve her düğüm, emir defterlerini çözmek için farklı bir çözüm kullanır, güvenliği arttırmak için başka bir karmaşıklık seviyesi sunar.
 
 #### 3.9.3 Sahte kimlikler
 
@@ -258,25 +258,25 @@ Kötü niyetli kullanıcılar Loopring düğümlerine saldırmak için çok say�
 
 #### 3.9.4 Yetersiz Bakiye
 
-Kötü niyetli kullanıcılar değeri sıfır olmayan, ancak adresi sıfır bakiyeli olan siparişleri imzalar ve yayarlar. Nodes monitor actual balances, update these order states accordingly, and then discard them.
+Kötü niyetli kullanıcılar değeri sıfır olmayan, ancak adresi sıfır bakiyeli olan siparişleri imzalar ve yayarlar. Düğümler gerçek dengeleri izler, bu sıralama durumlarını buna göre güncellerler ve sonra onları atarlar.
 
 #### 3.9.5 Zamanlama saldırısı
 
-Timing attacks are a class of cryptographic attacks through which a third-party observer can deduce the content of encrypted data by recording and analyzing the time taken to execute cryptographic algorithms. RAFT algoritması, zamanlama saldırılarını zaman aşımlarının rastgeleliğini kullanarak önler.
+Zamanlama saldırıları, üçüncü taraf bir gözlemcinin, şifreleme algoritmalarını yürütmek için harcanan zamanı kaydederek ve analiz ederek şifreli veri içeriğini toplayacağı bir şifreleme saldırısı sınıfıdır. RAFT algoritması, zamanlama saldırılarını zaman aşımlarının rastgeleliğini kullanarak önler.
 
 ### 3.10 KULLANICI DENEYİMİ
 
-Kullanıcı deneyimine odaklanmamız önceliklidir. VTX ve Volentix'in dört ayağını -- Venue, Verto, Vespucci ve VDex -- topluluğumuza katılmak isteyen herkes tarafından kolayca erişilebilir ve kullanılabilir hale getirmek istiyoruz. We expect the experience continually to be educational as well, with templates and simulators to support a superior UX/UI relationship.
+Kullanıcı deneyimine odaklanmamız önceliklidir. VTX ve Volentix'in dört ayağını -- Venue, Verto, Vespucci ve VDex -- topluluğumuza katılmak isteyen herkes tarafından kolayca erişilebilir ve kullanılabilir hale getirmek istiyoruz. Üstün bir UX/UI ilişkisini destekleyecek şablon ve simülatörlerle, deneyimin sürekli olarak eğitici olmasını da bekliyoruz.
 
 ### 3.11 DOĞRU MERKEZSİZLEŞME
 
-EOS.IO, merkezi olmayan uygulamalar için açık kaynaklı ölçeklenebilir bir altyapıdır. Its goal is a fair and transparent block producer (BP) election process utilizing a democratic delegated proof of stake (DPoS) consensus. Particularly as such a system just begins to proliferate, there will be glitches. Therefore, some degree of retained centralization is inevitable and necessary. But our guiding philosophy is one of decentralization, and our ongoing efforts are targeted to promoting a reduction in dependence on central authority.
+EOS.IO, merkezi olmayan uygulamalar için açık kaynaklı ölçeklenebilir bir altyapıdır. Amacı, bir demokratik delegeli hisse kanıtı (DPoS) fikir birliğini kullanan adil ve şeffaf bir blok üreticisi (BP) seçim sürecidir. Özellikle böyle bir sistem daha yeni çoğalmaya başladığında, aksaklıklar olacaktır. Bu nedenle, bir miktar korunmuş merkezileşme kaçınılmaz ve gereklidir. Ancak yol gösterici felsefemiz, ademi merkeziyetçilikten biridir ve devam eden çabalarımız merkezi otoriteye bağımlılığın azalmasını teşvik etmeyi hedeflemektedir.
 
-For example, initially we plan to erect a system for electing nodes (when solving order books) that will not use a shared central clock or DPoS but instead will be based either on random timeouts for the determination of leaders in an election (RAFT) or on Directed Acyclic Graph (DAG) in the PARSEC protocol.
+Örneğin, başlangıçta paylaşılan bir merkezi saat ya da DPoS kullanmayacak, ancak bunun yerine bir seçimdeki liderlerin (RAFT) belirlenmesi için rastgele zaman aşımlarına ya da düğümlerin seçilmesi için (emir kitaplarını çözerken) PARSEC protokolünde Yönlendirilmiş Asiklik Grafiği'ne (DAG) dayanacak olan bir sistem kurmayı planlıyoruz.
 
 ### 3.12 SİSTEM KURTARMA
 
-The RAFT and PARSEC protocols provide a robust system for recovery in the case of node failure. Security measures are also provided for trading between and among native blockchains. If a chain defies identification, the system defaults to the next block or a short time lock.
+RAFT ve PARSEC protokolleri düğüm arızası durumunda kurtarma için güçlü bir sistem sağlar. Güvenlik önlemleri ayrıca yerel blok zincirleri içinde ve arasında ticaret yapmayı sağlamaktadır. If a chain defies identification, the system defaults to the next block or a short time lock.
 
 ### 3.13 GELİŞEN MİMARİ
 
@@ -284,19 +284,19 @@ Daily announcements of fresh code developments impacting on use of digital asset
 
 ## 4. SON DÜŞÜNCELER
 
-All of us at Volentix are dedicating our work and insights to developing a program premised on empowerment and independence. If you are of a mind to join us, in whatever capacity, then please do so and please become educated on the topics contained in this white paper and additional Volentix publications as we share them with our community.
+Volentix'teki hepimiz, çalışmalarımızı ve içgörülerimizi güçlendirme ve bağımsızlık üzerine kurulu bir program geliştirmeye adadık. Bize ne şekilde bir kapasitede olursa olsun katılmaya karar verirseniz, lütfen bunu yapın ve lütfen bu tanıtım belgesinde yer alan konular ve topluluğumuzla paylaştığımız Volentix ek yayınları hakkında eğitimli olun.
 
 ## 5. ZAMAN ÇİZELGESİ
 
-Please monitor our website and social media for updates and other important announcements. İlginiz ve dikkatiniz için çok teşekkür ederiz.
+Güncellemeler ve diğer önemli duyurular için lütfen web sitemizi ve sosyal medyayı izleyin. İlginiz ve dikkatiniz için çok teşekkür ederiz.
 
 ## FERAGATNAME
 
-This white paper was prepared, and is presented, for information purposes only. The information presented does not purport to be comprehensive. The information is subject to change in whole or in part at any time without notice. Volentix Labs reserves the right to amend, replace, remove, or delete any and all information at the sole and exclusive discretion of Volentix. Volentix Labs makes no representation or warranty, expressed or implied, concerning the accuracy or completeness of the information and expressly disclaims any and all liability of any and all kinds whatsoever for the information contained or not contained. Volentix Labs requests each and every reader to read the information fully and carefully, and to undertake independent investigation and analysis of the information, and to seek and obtain professional advice for purposes of evaluating the information. To the knowledge of Volentix Labs, no regulatory agency, government, or other third-party enforcement entity has reviewed, evaluated, or approved any part or all of the information. This information is not an offer or solicitation of any kind whatsoever and does not form the basis for any contract or commitment of any kind whatsoever. Any statement considered to be forward-looking is purely a matter of opinion, and no viewer should rely on any such statement or on any part or all of the information in any way whatsoever.
+Bu tanıtım belgesi, sadece bilgi amaçlı hazırlanmış ve sunulmuştur. Sunulan bilgiler, kapsamlı olma iddiasında değildir. The information is subject to change in whole or in part at any time without notice. Volentix Labs reserves the right to amend, replace, remove, or delete any and all information at the sole and exclusive discretion of Volentix. Volentix Labs makes no representation or warranty, expressed or implied, concerning the accuracy or completeness of the information and expressly disclaims any and all liability of any and all kinds whatsoever for the information contained or not contained. Volentix Labs requests each and every reader to read the information fully and carefully, and to undertake independent investigation and analysis of the information, and to seek and obtain professional advice for purposes of evaluating the information. To the knowledge of Volentix Labs, no regulatory agency, government, or other third-party enforcement entity has reviewed, evaluated, or approved any part or all of the information. This information is not an offer or solicitation of any kind whatsoever and does not form the basis for any contract or commitment of any kind whatsoever. İleriye dönük olduğu düşünülen herhangi bir ifade tamamen bir fikir meselesidir ve hiçbir izleyici, herhangi bir şekilde bu tür bir ifadeye veya bilgilerin hiçbir bölümüne veya tümüne güvenmemelidir.
 
 ## DİPNOTLARI
 
-1. K. Kurokawa, Atomic cross chain transfer, an overview, (2015).
+1. K. Kurokawa, Atomik çapraz zincir transferi, bir genel bakış, (2015).
 
 2. EOS.IO, Eos.io teknik tanıtım belgesi v2, (2018).
 
@@ -306,7 +306,7 @@ This white paper was prepared, and is presented, for information purposes only. 
 
 5. F. Zhou, Wang, Loopring: Merkezi olmayan bir token değiş tokuş protokolü, (2018).
 
-6. G. B. Eyal Hertzog, Guy Benartzi, Bancor protocol: Continuous liquidity for cryptographic tokens through their smart contracts, (2018).
+6. G. B. Eyal Hertzog, Guy Benartzi, Bancor protokolü: Akıllı sözleşmeleri vasıtasıyla kriptografik tokenler için sürekli likidite, (2018).
 
 7. L. Lamport, yarı zamanlı parlamento, (1998).
 
@@ -328,7 +328,7 @@ ARK, Tüketici kabulü için bir platform, (2018).
 
 V. Buterin, Ethereum: yeni nesil akıllı sözleşme ve merkezi olmayan bir uygulama platformu, (2013).
 
-S. Cormier, A machine based societal model for curbing citizen cynicism, (2017).
+S. Cormier, Vatandaş sinizmini engellemek için makine temelli bir toplumsal model, (2017).
 
 M. Duncan, Quale, Halo platformu, (2018).
 
@@ -348,8 +348,8 @@ M. M. Timo Hanke ve D. Williams, Dfinity teknolojisine genel bakış serisi fiki
 
 A. B. Will Warren, 0x: Ethereum blok zinciri üzerindeki merkezi olmayan borsa için açık bir protokol, (2017).
 
-G. Wood, Ethereum: A secure decentralised generalised transaction ledger.ethereum project yellow paper, (2014).
+G. Ahşap, Ethereum: Güvenli bir merkezi olmayan genelleştirilmiş işlem ledger.ethereum proje sarı belgesi, (2014).
 
-Dane Keller Rutledge, Creating a Comprehensive Digital Assets Ecosystem (DAE), (2018).
+Dane Keller Rutledge, Kapsamlı bir Dijital Varlıklar Ekosistemi (DAE), (2018) Oluşturmak.
 
 ## BELGENİN SONU
