@@ -30,7 +30,7 @@ Vespucci n pese pilatifọọmu ti o da lori ayelujara lati jẹ ki awọn olumu
 
 ![](https://volentix.io/file/2019/01/02-icon.jpg)
 
-Agbara ipele ipo ati iyanana ti Vespucci gbẹkẹle awọn opo mẹta ti: Iyanana iwoyesi, Iyanana idiju / ọrọ aje, ati iyanana awọn ọja / awọn ohun elo. Vespucci ṣe akanpọ awọn aaye wọnyi lati le pese ipele ipo ati ipo nipasẹ lilo Ẹkọ Ẹrọ ati Nẹtiwọki Neural (NN). It offers a service that has never been available before since it integrates all features in the following figure.
+Agbara ipele ipo ati iyanana ti Vespucci gbẹkẹle awọn opo mẹta ti: Iyanana iwoyesi, Iyanana idiju / ọrọ aje, ati iyanana awọn ọja / awọn ohun elo. Vespucci ṣe akanpọ awọn aaye wọnyi lati le pese ipele ipo ati ipo nipasẹ lilo Ẹkọ Ẹrọ ati Nẹtiwọki Neural (NN). O n pese iṣẹ kan ti ko ti wa ri rara tẹlẹ niwọn to jẹpe o n ṣe iṣiṣẹpọ gbogbo awọn ẹya ara ti o wa ninu akawe wọnyii.
 
 ![](https://volentix.io/file/2019/01/1k.jpg)
 
