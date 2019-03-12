@@ -6,7 +6,7 @@ Awọn ibugbamu fẹrẹfẹ ti o waye laipẹ lori awọn owo kiripito ti fa �
 
 * ### **ISỌNISOKI**
 
-Vespucci jẹ ara awujọ ti Volentix. Ni pato, o n ṣe ọkan ninu awọn opo pataki ti awujọ Volentix, eyiti VDex jẹ alatilẹyin fun. VDex jẹ ibi ipaṣipaarọ ti o ni ero nipa olumulo ati awujọ lọkan. Vespucci, besides being a digital asset audit and assessment utility accessible to non-experts, it is also a tool to chart and juxtapose tradeable digital assets. Moreover, it provides a dashboard for cryptocurrencies’ activity in the digital world.
+Vespucci jẹ ara awujọ ti Volentix. Ni pato, o n ṣe ọkan ninu awọn opo pataki ti awujọ Volentix, eyiti VDex jẹ alatilẹyin fun. VDex jẹ ibi ipaṣipaarọ ti o ni ero nipa olumulo ati awujọ lọkan. Vespucci, besides being a digital asset audit and assessment utility accessible to non-experts, it is also a tool to chart and juxtapose tradeable digital assets. Jubẹlọ, o n pese dasibọọdu fun iṣẹ ti awọn owo kiripito ni aye oni-nọmba.
 
 Our primary goal is to offer all users of digital assets an intuitive analytical agent and rating system for digital assets, merging the following aspects (see figure below):
 
