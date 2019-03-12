@@ -14,7 +14,7 @@ Afojusun wa gangan ni lati pese gbogbo awọn olumulo ti awọn dukia oni-nọmb
 * iyanana idiju (TA), ati
 * iyanana awọn ọja / awọn ohun elo (FTA).
 
-Vespucci n pese fun igba akọkọ akọsilẹ to kun daadaa ti ọkọọkọkan awọn ohun-ini oni-nọmba ti o nifẹsi pẹlu ipele ipo boṣenlọ, ti o n ṣe asoju apapọ orisirisi awọn atọka, o da lori awọn ilana ti iṣejọba alaisilojukan, ipamọ ẹgbẹ, lẹja gbangba nipasẹ blockchain gbangba kan, ati koodu orisun gbangba. Nitorina, iyanana rẹ jẹ eyi ti ko ṣegbe ṣẹyin awọn ẹni kankan ni pato tabi awọn ẹgbẹ ti o nifẹsi atipe awọn ọna ti o jẹ lilo wa fun iyẹwo ati ijiroro nipasẹ awujọ. Awọn ohun elo alaisilojukan n pese iyipada dandan ninu imọ-ẹrọ igbalode; apẹẹrẹ pataki kan ti o jẹmọ wa ninu awọn ibi ipasipaarọ owo kiripito to n jẹyọ. Using some of the most powerful cutting-edge methods, our approach abides by open standards and the principles of ease of use.
+Vespucci n pese fun igba akọkọ akọsilẹ to kun daadaa ti ọkọọkọkan awọn ohun-ini oni-nọmba ti o nifẹsi pẹlu ipele ipo boṣenlọ, ti o n ṣe asoju apapọ orisirisi awọn atọka, o da lori awọn ilana ti iṣejọba alaisilojukan, ipamọ ẹgbẹ, lẹja gbangba nipasẹ blockchain gbangba kan, ati koodu orisun gbangba. Nitorina, iyanana rẹ jẹ eyi ti ko ṣegbe ṣẹyin awọn ẹni kankan ni pato tabi awọn ẹgbẹ ti o nifẹsi atipe awọn ọna ti o jẹ lilo wa fun iyẹwo ati ijiroro nipasẹ awujọ. Awọn ohun elo alaisilojukan n pese iyipada dandan ninu imọ-ẹrọ igbalode; apẹẹrẹ pataki kan ti o jẹmọ wa ninu awọn ibi ipasipaarọ owo kiripito to n jẹyọ. Lilo diẹ ninu awọn ọna agbara ti o ta yọọ julọ, ọna na wa ni ibamu pẹlu awọn gbèdéke gbangba ati awọn ilana ti irọrun lilo.
 
 General architecture of Vespucci
 
