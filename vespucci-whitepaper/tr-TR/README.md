@@ -437,7 +437,7 @@ Bu metin NH’nin orijinal vizyon belgelerine ve AA’nın güncellemelerine day
 
 [5] Kuş ve ark. Python ile Doğal Dil İşleme, O’Reilly Media Inc. (2009)
 
-[6] E. Stenqvist et al. Twitter duyarlılık analizi ile Bitcoin fiyatındaki dalgalanmayı tahmin etmek. Yüksek Lisans Tezi. Bilgisayar Bilimi ve İletişim Fakültesi, KTH Kraliyet Teknoloji Enstitüsü, Stockholm, İsveç (2017)
+[6] E. Stenqvist ve ark. Twitter duyarlılık analizi ile Bitcoin fiyatındaki dalgalanmayı tahmin etmek. Yüksek Lisans Tezi. Bilgisayar Bilimi ve İletişim Fakültesi, KTH Kraliyet Teknoloji Enstitüsü, Stockholm, İsveç (2017)
 
 [7] H. Kakavand, N. Kost De Sevres ve B. Chilton, Blok Zinciri Devrimi: Dağıtılmış Defteri Kebir Teknolojileri ile İlgili Bir Düzenleme ve Teknoloji Analizi. SSRN Elektronik Dergi. 10.2139/ ssrn.2849251 (2017)
 
