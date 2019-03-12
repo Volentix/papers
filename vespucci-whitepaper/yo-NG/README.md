@@ -22,10 +22,10 @@ Iyaworan gbogbogbo ti Vespucci
 
 * ### **ERONGBA**
 
-Vespucci offers a web-based platform to enable users to navigate through crypto data and make informed trading and digital-asset utilization decisions. In particular, it provides:
+Vespucci n pese pilatifọọmu ti o da lori ayelujara lati jẹ ki awọn olumulo lọ kaakiri inu awọn data kiripito ati ṣe ipinnu iṣowo pẹlu oye ati awọn ipinnu ilo dukia oni-nọmba. Ni pato, o n pese:
 
-* An intuitive analytical agent leading to an easy to understand overview of cryptocurrencies.
-* A rating system of cryptocurrencies, including risk assessment.
+* Asoju iyanana onifura kan ti o mu ki o rọrun lati ni oye isọnisoki ti awọn owo kiripito.
+* Eto ipele ipo ti awọn owo kiripito, pẹlu agbeyẹwo ewu.
 * A dashboard for cryptocurrency news.
 
 ![](https://volentix.io/file/2019/01/02-icon.jpg)
