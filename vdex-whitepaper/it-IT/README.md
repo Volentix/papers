@@ -42,15 +42,15 @@ Abbiamo valutato diversi sistemi operativi come candidati per la sottostruttura 
 
 ### Azioni Acontestuali
 
-Most of the scalability techniques proposed by Ethereum (Sharding, Raiden, Plasma, State Channels) become more efficient, parallelizable, and practical while also ensuring speedy inter-blockchain communication and unimpaired scalability. A Context Free Action involves computations that depend only on transaction data, and not upon the blockchain state.
+La maggior parte delle tecniche di scalabilità proposte da Ethereum (Sharding, Raiden, Plasma, State Channels) diventano più efficienti, parallelizzabili e pratiche, garantendo allo stesso tempo una rapida comunicazione inter-blockchain e una scalabilità inalterata. Un'Azione Acontestuale comporta computazioni che dipendono solo dai dati delle transazioni, e non dallo stato della blockchain.
 
-### Binary/JSON conversion
+### Conversione Binaria/JSON
 
-EOS contracts combine the human readability of JSON with the efficiency of binary.
+I contratti EOS combinano la leggibilità umana della JSON con l'efficienza della binaria.
 
-### Parallelization and optimization
+### Parallelizzazione e ottimizzazione
 
-Separating authentication from application allows faster transaction times and increases bandwidth. EOS.IO blocks are reportedly produced every 500ms.
+La separazione dell'autenticazione dall'applicazione permette transazioni più rapide e aumenta la larghezza di banda. Secondo quanto riferito, I blocchi EOS.IO vengono prodotti ogni 500ms.
 
 ### Web Assembly(WASM)
 
