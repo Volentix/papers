@@ -14,7 +14,7 @@ Afojusun wa gangan ni lati pese gbogbo awọn olumulo ti awọn dukia oni-nọmb
 * iyanana idiju (TA), ati
 * iyanana awọn ọja / awọn ohun elo (FTA).
 
-Vespucci offers for the first time a well-rounded profile of each digital asset of interest along with a live rating, representing a combination of different indicators, based on the principles of decentralized governance, peer privacy, public ledger via a public blockchain, and open source code. Hence, its analysis is free of the bias of specific individuals or interest groups and the employed methods are up for scrutiny and discussion by the community. Decentralized applications offer a paradigm shift in current technology; a particularly relevant instance lies within the emerging cryptocurrency exchanges. Using some of the most powerful cutting-edge methods, our approach abides by open standards and the principles of ease of use.
+Vespucci n pese fun igba akọkọ akọsilẹ to kun daadaa ti ọkọọkọkan awọn ohun-ini oni-nọmba ti o nifẹsi pẹlu ipele ipo boṣenlọ, ti o n ṣe asoju apapọ orisirisi awọn atọka, o da lori awọn ilana ti iṣejọba alaisilojukan, ipamọ ẹgbẹ, lẹja gbangba nipasẹ blockchain gbangba kan, ati koodu orisun gbangba. Hence, its analysis is free of the bias of specific individuals or interest groups and the employed methods are up for scrutiny and discussion by the community. Decentralized applications offer a paradigm shift in current technology; a particularly relevant instance lies within the emerging cryptocurrency exchanges. Using some of the most powerful cutting-edge methods, our approach abides by open standards and the principles of ease of use.
 
 General architecture of Vespucci
 
