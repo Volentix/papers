@@ -26,7 +26,7 @@ Vespucci n pese pilatifọọmu ti o da lori ayelujara lati jẹ ki awọn olumu
 
 * Asoju iyanana onifura kan ti o mu ki o rọrun lati ni oye isọnisoki ti awọn owo kiripito.
 * Eto ipele ipo ti awọn owo kiripito, pẹlu agbeyẹwo ewu.
-* A dashboard for cryptocurrency news.
+* Dasibọọdu fun awọn iroyin owo kiripito.
 
 ![](https://volentix.io/file/2019/01/02-icon.jpg)
 
