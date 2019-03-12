@@ -8,11 +8,11 @@ Awọn ibugbamu fẹrẹfẹ ti o waye laipẹ lori awọn owo kiripito ti fa �
 
 Vespucci jẹ ara awujọ ti Volentix. Ni pato, o n ṣe ọkan ninu awọn opo pataki ti awujọ Volentix, eyiti VDex jẹ alatilẹyin fun. VDex jẹ ibi ipaṣipaarọ ti o ni ero nipa olumulo ati awujọ lọkan. Vespucci, besides being a digital asset audit and assessment utility accessible to non-experts, it is also a tool to chart and juxtapose tradeable digital assets. Jubẹlọ, o n pese dasibọọdu fun iṣẹ ti awọn owo kiripito ni aye oni-nọmba.
 
-Our primary goal is to offer all users of digital assets an intuitive analytical agent and rating system for digital assets, merging the following aspects (see figure below):
+Afojusun wa gangan ni lati pese gbogbo awọn olumulo ti awọn dukia oni-nọmba ni asoju iyanana onifura ati ilana fun sise ipele ipo fun awọn dukia oni-nọmba, ṣiṣe akanpọ awọn aaye wọnyi (wo akawe isalẹ):
 
-* a sentiment gauge for sentiment analysis (SA),
-* technical analysis (TA), and
-* fundamental / technological analysis (FTA).
+* iwọn iwoyesi fun iyanana iwoyesi (SA),
+* iyanana idiju (TA), ati
+* iyanana awọn ọja / awọn ohun elo (FTA).
 
 Vespucci offers for the first time a well-rounded profile of each digital asset of interest along with a live rating, representing a combination of different indicators, based on the principles of decentralized governance, peer privacy, public ledger via a public blockchain, and open source code. Hence, its analysis is free of the bias of specific individuals or interest groups and the employed methods are up for scrutiny and discussion by the community. Decentralized applications offer a paradigm shift in current technology; a particularly relevant instance lies within the emerging cryptocurrency exchanges. Using some of the most powerful cutting-edge methods, our approach abides by open standards and the principles of ease of use.
 
