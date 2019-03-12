@@ -354,6 +354,6 @@ A. B. Will Warren, 0x: An open protocol for decentralized exchange on the ethere
 
 G. Wood, Ethereum: A secure decentralised generalised transaction ledger.ethereum project yellow paper, (2014).
 
-Dane Keller Rutledge, Creating a Comprehensive Digital Assets Ecosystem (DAE), (2018).
+Dane Keller Rutledge, Kapsamlı bir Dijital Varlıklar Ekosistemi (DAE) Oluşturmak, (2018).
 
 ## BELGENİN SONU
