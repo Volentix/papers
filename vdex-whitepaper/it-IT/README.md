@@ -32,7 +32,7 @@ Vespucci is envisioned as an analytics engine accessible via a user-friendly int
 
 ### 2.4 VDEX
 
-The fourth pillar of Volentix, the VDex exchange, is the tradable digital assets platform introduced in detail in this white paper. For smooth and secure usability, we plan VDex to integrate with your own personal Verto wallet and Vespucci interface. We expect VDex to be able to manage transactions involving both VTX and the vast array of digital assets and blockchains extant from time to time throughout the world. We are developing Venue as a complementary adjunct primarily in order to incentivize and drive native VTX-based initiatives.
+Il quarto pilastro di Volentix, l'exchange di VDex, è la piattaforma di commercio dei beni digitali presentata in dettaglio in questo white paper. Per un utilizzo fluido e sicuro, abbiamo intenzione di integrare VDex con il tuo wallet Verto personale e con l'interfaccia di Vespucci. We expect VDex to be able to manage transactions involving both VTX and the vast array of digital assets and blockchains extant from time to time throughout the world. We are developing Venue as a complementary adjunct primarily in order to incentivize and drive native VTX-based initiatives.
 
 ## 3. ARCHITECTURE
 
