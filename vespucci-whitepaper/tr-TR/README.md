@@ -429,7 +429,7 @@ Bu metin NH’nin orijinal vizyon belgelerine ve AA’nın güncellemelerine day
 
 [1] J. Yao ve ark. Forecasting and Analysis of Marketing Data using Neural Networks”, Journal of Science and Engineering 14:843-862 (1998)
 
-[2] E. Kouloumpis ve ark. Twitter Duyarlılık Analizi: Kötü, İyi ve AMAN TANRIM!”, Uluslararası AAAI Weblogs ve Sosyal Medya üzerinde Konferans (ICWSM-11) (2011)
+[2] E. Kouloumpis ve ark. Twitter Duyarlılık Analizi: Kötü, İyi ve AMAN TANRIM!”, Uluslararası AAAI Weblogs ve Sosyal Medya Konferansı (ICWSM-11) (2011)
 
 [3] A. Severyn ve ark. Twitter Sentiment Analysis with Deep Convolutional Neural Networks, International ACM SIGIR Conference on Research and Development in Information Retrieval:959-962 (2015)
 
@@ -457,7 +457,7 @@ Bu metin NH’nin orijinal vizyon belgelerine ve AA’nın güncellemelerine day
 
 [15] <http://blocktivity.info/> [blok zincirleri üzerindeki etkinlik, insanlar tarafından kullanılan projeler]
 
-[16] <https://www.coingecko.com/> [Cryptocurrencies Chart]
+[16] <https://www.coingecko.com/> [Kripto Para Birimleri Grafiği]
 
 [17] <https://www.investopedia.com>
 
