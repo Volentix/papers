@@ -52,12 +52,12 @@ Awọn ẹya ara ti Vespucci ni awọn wọnyi.
 
 Vespucci jẹ siseto labẹ awọn ilana wọnyi.
 
-* Objective in order not to risk compromising the Volentix DAO goodwill before it is established beyond any doubt
-* Automated
-* In demand
-* Decentralized implementation
-* Open-source
-* Intuitive
+* Afojusun lati le maṣe jẹ ki orukọ rere ti Volentix DAO bajẹ ṣaaju ko to fẹsẹmulẹ kọja eyikeyi isiyemeji
+* Alaifọwọyi
+* Ni ibeere
+* Imusisẹ Alaisilojukan
+* Orisun-gbangba
+* Niifura
 * #### **HOW VESPUCCI WORKS**
 
 The three pillars are described in the following subsections. In these subsections a large number of criteria is mentioned. The results of the SA component is made available along with the Technical and FTA results to the users so they can access a complete 360 view of each coin’s state, rank and ultimately understand the coin’s true value and potential. ‪An evaluation of both established cryptocurrencies and known “scam-coins” is performed, and the resulting parameters deemed most relevant in determining cryptocurrency validity is integrated into the system.
