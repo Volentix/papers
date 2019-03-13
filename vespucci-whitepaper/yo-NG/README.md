@@ -34,7 +34,7 @@ Agbara ipele ipo ati iyanana ti Vespucci gbẹkẹle awọn opo mẹta ti: Iyana
 
 ![](https://volentix.io/file/2019/01/1k.jpg)
 
-* ### **DESIGNING VESPUCCI**
+* ### **DIDA VESPUCCI LARA**
 
 * #### **VESPUCCI FEATURES**
 
