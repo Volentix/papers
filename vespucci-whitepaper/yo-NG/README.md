@@ -41,7 +41,7 @@ Agbara ipele ipo ati iyanana ti Vespucci gbẹkẹle awọn opo mẹta ti: Iyana
 Awọn ẹya ara ti Vespucci ni awọn wọnyi.
 
 * Ipele ipo ti awọn owo kiripito, ton fi irọrun yọri si ẹrọ asọtẹlẹ.
-* Combination of a complete spectrum of criteria ranging from Fundamental / Technological Analysis to technical / economics aspects up to a sentiment gauge.
+* Akanpọ gbogbo orisirisi awọn ipewọn ti o bẹrẹ lati Iyanana Awọn ọja / Awọn ohun elo si awọn aaye iyanana idiju / ọrọ aje titi kan iwọn iwoyesi.
 * Transparency in methodology (data sources, ingestion mechanism, data manipulation process, algorithms)
 * Broad spectrum of sources (to avoid biased data)
 * Modular design that offers the ability to extend the platform to other applications such as smart contracts.
