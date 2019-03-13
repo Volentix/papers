@@ -36,11 +36,11 @@ Agbara ipele ipo ati iyanana ti Vespucci gbẹkẹle awọn opo mẹta ti: Iyana
 
 * ### **DIDA VESPUCCI LARA**
 
-* #### **VESPUCCI FEATURES**
+* #### **AWỌN ẸRỌ VESPUCCI**
 
-The features of Vespucci are as follows.
+Awọn ẹya ara ti Vespucci ni awọn wọnyi.
 
-* Rating of cryptocurrencies, easily leading to a Prediction machine.
+* Ipele ipo ti awọn owo kiripito, ton fi irọrun yọri si ẹrọ asọtẹlẹ.
 * Combination of a complete spectrum of criteria ranging from Fundamental / Technological Analysis to technical / economics aspects up to a sentiment gauge.
 * Transparency in methodology (data sources, ingestion mechanism, data manipulation process, algorithms)
 * Broad spectrum of sources (to avoid biased data)
