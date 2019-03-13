@@ -48,9 +48,9 @@ Awọn ẹya ara ti Vespucci ni awọn wọnyi.
 * Aabo: Awọn orisun data lori Blockchain EOS (VLabs)
 * Iṣedeede to ga julọ nipa lilo awọn ọna igbelewọn igbalode, AI, ati ẹkọ-kikọ to jinlẹ
 * Awọn alugọridimu onifura, iṣeeṣe fun awọn iwọn ti awọn olumulo pese, Igbẹhin-isaayan fun awọn eniyan.
-* #### **PRINCIPLES**
+* #### **AWỌN ILANA**
 
-Vespucci is designed under the following principles.
+Vespucci jẹ siseto labẹ awọn ilana wọnyi.
 
 * Objective in order not to risk compromising the Volentix DAO goodwill before it is established beyond any doubt
 * Automated
