@@ -60,7 +60,7 @@ Vespucci jẹ siseto labẹ awọn ilana wọnyi.
 * Niifura
 * #### **BI VESPUCCI ṢE N ṢIṢẸ**
 
-Awọn opo mẹtẹta ni a ṣe apejuwe wọn ninu awọn ẹya abala wọnyii. Ni awọn ẹya abala yii nọmba nla ti awọn ipewọn ni o jẹ didarukọ. The results of the SA component is made available along with the Technical and FTA results to the users so they can access a complete 360 view of each coin’s state, rank and ultimately understand the coin’s true value and potential. ‪An evaluation of both established cryptocurrencies and known “scam-coins” is performed, and the resulting parameters deemed most relevant in determining cryptocurrency validity is integrated into the system.
+Awọn opo mẹtẹta ni a ṣe apejuwe wọn ninu awọn ẹya abala wọnyii. Ni awọn ẹya abala yii nọmba nla ti awọn ipewọn ni o jẹ didarukọ. Awọn abajade ti ẹya ohun elo SA jẹ eyiti o wa pẹlu awọn abajade Idiji ati FTA si awọn olumulo ki wọn le ri aaye lati ri gbogbo ipo owo kọọkan, ipele ipo ati ni ipari ni oye otitọ nipa iwulo owo naa ati iwulo ọjọ iwaju. ‪An evaluation of both established cryptocurrencies and known “scam-coins” is performed, and the resulting parameters deemed most relevant in determining cryptocurrency validity is integrated into the system.
 
 In order to test Vespucci in a semi-public release using prospective volunteers, the system is being introduced to various outside users for bug testing of the assessment system functions, and the UI. ‬‪It is carried out in a public setting through the organization of a closed beta release. Users are selected to allow for more constructive and relevant feedback information.‬ ‪An ongoing iterative process of tweaks, fixes, and adjustments will take place during the beta release from the insight derived from user feedback.‬
 
