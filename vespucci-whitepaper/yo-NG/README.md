@@ -47,7 +47,7 @@ Awọn ẹya ara ti Vespucci ni awọn wọnyi.
 * Idalara modular ti o n pese agbara lati fa pilatifọọmu naa gun lọ si ọdọ awọn ohun elo miiran gẹgẹbi awọn iwe adehun to jafafa.
 * Aabo: Awọn orisun data lori Blockchain EOS (VLabs)
 * Iṣedeede to ga julọ nipa lilo awọn ọna igbelewọn igbalode, AI, ati ẹkọ-kikọ to jinlẹ
-* Intuitive algorithms, possibility for weighs given by user, Post-processing for humans.
+* Awọn alugọridimu onifura, iṣeeṣe fun awọn iwọn ti awọn olumulo pese, Igbẹhin-isaayan fun awọn eniyan.
 * #### **PRINCIPLES**
 
 Vespucci is designed under the following principles.
