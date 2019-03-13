@@ -62,7 +62,7 @@ Vespucci jẹ siseto labẹ awọn ilana wọnyi.
 
 Awọn opo mẹtẹta ni a ṣe apejuwe wọn ninu awọn ẹya abala wọnyii. Ni awọn ẹya abala yii nọmba nla ti awọn ipewọn ni o jẹ didarukọ. Awọn abajade ti ẹya ohun elo SA jẹ eyiti o wa pẹlu awọn abajade Idiji ati FTA si awọn olumulo ki wọn le ri aaye lati ri gbogbo ipo owo kọọkan, ipele ipo ati ni ipari ni oye otitọ nipa iwulo owo naa ati iwulo ọjọ iwaju. Igbelewon ti awọn owo kiripito to ti fẹsẹmulẹ tẹlẹ ati ti awọn eyi ti a mọ si "awọn owo-gbajuẹ" jẹ ṣiṣe, awọn abajade ilana iṣẹ ti o jẹ yiyan gẹgẹbi eyi to jẹmọ ṣiṣe ipinnu ifẹsẹmulẹ owo kiripito julọ ti jẹ gbigbe sinu eto.
 
-Lati le ṣe ayẹwo Vespucci ninu igbejade kan to fẹẹrẹ jẹ gbogbogbo nipa lilo awọn olujọwọ ara ẹni ti a fojusun, eto naa n jẹ fifihan lọwọlọwọ yii si orisirisi awọn olumulo ti ita fun ayẹwo fun asise ninu agbeyẹwo awọn iṣẹ eto, ati UI naa. O jẹ ṣiṣe ninu eto ti oju gbangba nipasẹ ajọ ti igbejade beta pipade. Users are selected to allow for more constructive and relevant feedback information.‬ ‪An ongoing iterative process of tweaks, fixes, and adjustments will take place during the beta release from the insight derived from user feedback.‬
+Lati le ṣe ayẹwo Vespucci ninu igbejade kan to fẹẹrẹ jẹ gbogbogbo nipa lilo awọn olujọwọ ara ẹni ti a fojusun, eto naa n jẹ fifihan lọwọlọwọ yii si orisirisi awọn olumulo ti ita fun ayẹwo fun asise ninu agbeyẹwo awọn iṣẹ eto, ati UI naa. O jẹ ṣiṣe ninu eto ti oju gbangba nipasẹ ajọ ti igbejade beta pipade. Awọn olumulo jẹ yiyan lati faye gba alaye esi idahun alatunṣe ati to wulo. Ilana atẹnumọ awọn ayipada, awọn atunṣe, ati awọn atunto to nlọ lọwọ yoo waye ni akoko igbejade ti beta lati inu oye ti o wa lati inu esi idahun olumulo
 
 * ### **PILARS**
 
