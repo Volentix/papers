@@ -45,8 +45,8 @@ Awọn ẹya ara ti Vespucci ni awọn wọnyi.
 * Ainikọnunkọhọ ninu ọna ti a lo (awọn orisun data, ilana eto ifasara, ilana ifọwọyi data, awọn alugọridimu)
 * Orisirisi awọn orisun ti o fẹ (lati yago fun data to ṣegbe)
 * Idalara modular ti o n pese agbara lati fa pilatifọọmu naa gun lọ si ọdọ awọn ohun elo miiran gẹgẹbi awọn iwe adehun to jafafa.
-* Security: Data Sources on EOS Blockchain (VLabs)
-* High accuracy using sophisticated Evaluation methods, AI, and Deep Learning
+* Aabo: Awọn orisun data lori Blockchain EOS (VLabs)
+* Iṣedeede to ga julọ nipa lilo awọn ọna igbelewọn igbalode, AI, ati ẹkọ-kikọ to jinlẹ
 * Intuitive algorithms, possibility for weighs given by user, Post-processing for humans.
 * #### **PRINCIPLES**
 
