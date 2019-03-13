@@ -42,9 +42,9 @@ Awọn ẹya ara ti Vespucci ni awọn wọnyi.
 
 * Ipele ipo ti awọn owo kiripito, ton fi irọrun yọri si ẹrọ asọtẹlẹ.
 * Akanpọ gbogbo orisirisi awọn ipewọn ti o bẹrẹ lati Iyanana Awọn ọja / Awọn ohun elo si awọn aaye iyanana idiju / ọrọ aje titi kan iwọn iwoyesi.
-* Transparency in methodology (data sources, ingestion mechanism, data manipulation process, algorithms)
-* Broad spectrum of sources (to avoid biased data)
-* Modular design that offers the ability to extend the platform to other applications such as smart contracts.
+* Ainikọnunkọhọ ninu ọna ti a lo (awọn orisun data, ilana eto ifasara, ilana ifọwọyi data, awọn alugọridimu)
+* Orisirisi awọn orisun ti o fẹ (lati yago fun data to ṣegbe)
+* Idalara modular ti o n pese agbara lati fa pilatifọọmu naa gun lọ si ọdọ awọn ohun elo miiran gẹgẹbi awọn iwe adehun to jafafa.
 * Security: Data Sources on EOS Blockchain (VLabs)
 * High accuracy using sophisticated Evaluation methods, AI, and Deep Learning
 * Intuitive algorithms, possibility for weighs given by user, Post-processing for humans.
