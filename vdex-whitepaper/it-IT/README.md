@@ -64,7 +64,7 @@ Il noto e popolare linguaggio di programmazione C++ appare altamente adatto a WA
 
 Service contracts are standardized to provide a baseline measure of interoperability between and among disparate systems by harmonization of data models. Infatti, il principio del modello del Contratto di Servizio Standardizzato prevede che i contratti di servizio siano basati su modelli di dati standardizzati. L'analisi viene effettuata sul progetto di inventario dei servizi per scoprire i documenti aziendali più comuni che vengono scambiati tra i servizi. Questi documenti aziendali vengono poi modellati in un modo standardizzato. The Canonical Schema pattern reduces the need for application of the data model transformation design pattern. [3]
 
-#### 3.0.3 Inter-Contract Communication
+#### 3.0.3 Comunicazione Inter-Contract
 
 Data is shared between contracts via an oracle, which, "in the context of blockchains and smart contracts, is an agent that finds and verifies real-world occurrences and submits this information to a blockchain to be used by smart contracts.” [4] Every node will have an identical copy of these data, for use in smart contract computation. Rather than the smart contract functioning to pull the data, instead the oracle pushes the data onto the blockchain. In the instance of a blockchain, most reading of the data is done via polling "models" in order to monitor blockchain state and to perform certain responsive actions.
 
