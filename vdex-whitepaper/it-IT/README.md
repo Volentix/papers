@@ -62,7 +62,7 @@ Il noto e popolare linguaggio di programmazione C++ appare altamente adatto a WA
 
 #### 3.0.2 Schema defined messages and database
 
-Service contracts are standardized to provide a baseline measure of interoperability between and among disparate systems by harmonization of data models. Indeed, the Standardized Service Contract design principle advocates that service contracts be based on standardized data models. Analysis is done on the service inventory blueprint to find out the commonly occurring business documents that are exchanged between services. These business documents are then modeled in a standardized manner. The Canonical Schema pattern reduces the need for application of the data model transformation design pattern. [3]
+Service contracts are standardized to provide a baseline measure of interoperability between and among disparate systems by harmonization of data models. Infatti, il principio del modello del Contratto di Servizio Standardizzato prevede che i contratti di servizio siano basati su modelli di dati standardizzati. Analysis is done on the service inventory blueprint to find out the commonly occurring business documents that are exchanged between services. These business documents are then modeled in a standardized manner. The Canonical Schema pattern reduces the need for application of the data model transformation design pattern. [3]
 
 #### 3.0.3 Inter-Contract Communication
 
