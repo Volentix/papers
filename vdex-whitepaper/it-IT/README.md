@@ -66,7 +66,7 @@ Service contracts are standardized to provide a baseline measure of interoperabi
 
 #### 3.0.3 Comunicazione Inter-Contract
 
-Data is shared between contracts via an oracle, which, "in the context of blockchains and smart contracts, is an agent that finds and verifies real-world occurrences and submits this information to a blockchain to be used by smart contracts.” [4] Every node will have an identical copy of these data, for use in smart contract computation. Rather than the smart contract functioning to pull the data, instead the oracle pushes the data onto the blockchain. In the instance of a blockchain, most reading of the data is done via polling "models" in order to monitor blockchain state and to perform certain responsive actions.
+I dati sono condivisi tra i contratti attraverso un oracolo, che, "nel contesto delle blockchain e degli smart contract, è un agente che trova e verifica gli eventi del mondo reale e invia queste informazioni ad una blockchain che verrà utilizzata dagli smart contract". [4] Ogni nodo avrà una copia identica di questi dati, da utilizzare nella computazione degli smart contract. Rather than the smart contract functioning to pull the data, instead the oracle pushes the data onto the blockchain. In the instance of a blockchain, most reading of the data is done via polling "models" in order to monitor blockchain state and to perform certain responsive actions.
 
 #### 3.0.4 Sidechains
 
