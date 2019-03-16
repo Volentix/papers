@@ -70,7 +70,7 @@ I dati sono condivisi tra i contratti attraverso un oracolo, che, "nel contesto 
 
 #### 3.0.4 Sidechains
 
-In EOS.IO, issuance of a digital asset creates a sidechain, which is an emerging mechanism permitting digital assets from one blockchain to be securely used in a separate blockchain and then moved back to the original blockchain. Efficiency of processing is promoted by creating multiple sidechains. A TCP-like communication channel between different blockchains evaluates proofs. For each shard (a unit of parallelizable execution in a cycle), a balanced merkle tree is constructed of these action commitments to generate a temporary shared merkle root; this is done for speed of parallel computation. The block header contains the root of a balanced merkle tree the leaves of which are the roots of these individual shard merkle trees. [2]
+In EOS.IO, l'emissione di un bene digitale rea una sidechain, cioè un meccanismo emergente che permette ad un bene digitale proveniente da una blockchain di essere utilizzato in modo sicuro in un altra blockchain e poi essere rispostato sulla blockchain originale. L'efficienza dell'elaborazione è promossa dalla creazione di molteplici sidechain. Un canale di comunicazione tra blockchain diverse tipo TCP valuta le prove. Per ogni frammento (un'unità di esecuzione parallelizzabile in un ciclo), con questi impegni di azione viene costruito un albero di merkle equilibrato per generare una radice di merkle condivisa temporaneamente; ciò viene fatto per la velocità di calcolo parallelo. The block header contains the root of a balanced merkle tree the leaves of which are the roots of these individual shard merkle trees. [2]
 
 #### 3.0.5 Liquidity
 
