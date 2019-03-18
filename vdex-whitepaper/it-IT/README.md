@@ -74,7 +74,7 @@ In EOS.IO, l'emissione di un bene digitale rea una sidechain, cioè un meccanism
 
 #### 3.0.5 Liquidità
 
-Un asset digitale è liquido se può essere facilmente venduto o comprato in volumi di scambio ordinari senza che nel breve termine ci sia alcun impatto significativo sul suo prezzo di mercato prevalente. Per ottenere tale status, di solito qualsiasi asset negoziabile deve superare una soglia di volume di negoziazione sufficiente per sostenere la stabilità. Specifically, we anticipate adopting the following methodologies: Loopring protocol with the use of EOS.IO contracts acting as nodes.[5] Bancor algorithm used to bring stability to the digital asset.[6] Toggles between these protocols and HTLC (atomic swaps) according to Vespucci analyses on the VDex network.
+Un asset digitale è liquido se può essere facilmente venduto o comprato in volumi di scambio ordinari senza che nel breve termine ci sia alcun impatto significativo sul suo prezzo di mercato prevalente. Per ottenere tale status, di solito qualsiasi asset negoziabile deve superare una soglia di volume di negoziazione sufficiente per sostenere la stabilità. In particolare, prevediamo di adottare le seguenti metodologie: Protocollo Loopring con l'utilizzo di contratti EOS.IO che agiscono come nodi.[5] Algoritmo di Bancor utilizzato per portare stabilità all'asset digitale.[6] Commutazioni tra questi protocolli e gli HTLC (atomic swap) secondo le analisi di Vespucci sulla rete VDex.
 
 #### 3.0.6 Hashed Timelock Contracts (Atomic Swaps)
 
