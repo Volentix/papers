@@ -78,7 +78,7 @@ Un asset digitale è liquido se può essere facilmente venduto o comprato in vol
 
 #### 3.0.6 Hashed Timelock Contracts (Atomic Swaps)
 
-A Hashed Timelock Contract (HTLC)[1] is a smart contract enabling the implementation of time-bound transactions. Users will be offered a variable lock-in period for their transactions, with a discount on transaction fees in exchange for choosing a longer lock-in period.
+Un Hashed Timelock Contract (HTLC)[1] è uno smart contract che consente l'implementazione di transazioni a tempo limitato. Users will be offered a variable lock-in period for their transactions, with a discount on transaction fees in exchange for choosing a longer lock-in period.
 
 ### 3.1 NETWORK TOPOLOGY
 
