@@ -98,7 +98,7 @@ Nodes are the endpoints of the VDex exchange. Le loro funzioni sono:
 
 6. Initiate contracts for orders that have been filled.
 
-Nodes earn a portion of the fee for each transaction. If a user has sufficient funds and possesses a good track record, his or her Verto wallet can act as a node.
+I nodi guadagnano una parte delle commissioni per ogni transazione. Se un utente ha fondi sufficienti e possiede una buona reputazione, il suo portafoglio Verto può fungere da nodo.
 
 #### 3.1.2 Aggregators
 
