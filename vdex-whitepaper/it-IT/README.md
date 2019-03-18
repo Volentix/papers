@@ -78,23 +78,23 @@ Un asset digitale è liquido se può essere facilmente venduto o comprato in vol
 
 #### 3.0.6 Hashed Timelock Contracts (Atomic Swaps)
 
-Un Hashed Timelock Contract (HTLC)[1] è uno smart contract che consente l'implementazione di transazioni a tempo limitato. Users will be offered a variable lock-in period for their transactions, with a discount on transaction fees in exchange for choosing a longer lock-in period.
+Un Hashed Timelock Contract (HTLC)[1] è uno smart contract che consente l'implementazione di transazioni a tempo limitato. Agli utenti sarà offerto un periodo di lock-in variabile per le loro transazioni, con uno sconto sulle commissioni della transazione in cambio della scelta di un periodo di lock-in più lungo.
 
-### 3.1 NETWORK TOPOLOGY
+### 3.1 TOPOLOGIA DI RETE
 
-#### 3.1.1 Nodes
+#### 3.1.1 Nodi
 
-Nodes are the endpoints of the VDex exchange. Their functions are:
+Nodes are the endpoints of the VDex exchange. Le loro funzioni sono:
 
-1. Act as portals to VDex through the Verto wallet.
+1. Agire come portali per VDex attraverso il wallet di Verto.
 
-2. Merge order book information.
+2. Unire le informazioni del registro ordini.
 
-3. Settle order book.
+3. Impostare il registro ordini.
 
-4. Manage order cancellation.
+4. Gestire l'anullamento dell'ordine.
 
-5. Assign timeouts for the RAFT protocol.
+5. Assegnare timeout per il protocollo RAFT.
 
 6. Initiate contracts for orders that have been filled.
 
