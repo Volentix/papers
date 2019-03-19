@@ -1,7 +1,7 @@
 # THE VOLENTIX VDEX WHITE PAPER
 
 - Versione: 0.1.4
-- Updated: 11-03-2019
+- Aggiornato il: 11-03-2019
 - Sito web: www.volentix.io
 
 ## 1. INTRODUZIONE
