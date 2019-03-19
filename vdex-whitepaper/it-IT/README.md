@@ -84,7 +84,7 @@ Un Hashed Timelock Contract (HTLC)[1] è uno smart contract che consente l'imple
 
 #### 3.1.1 Nodi
 
-Nodes are the endpoints of the VDex exchange. Le loro funzioni sono:
+I nodi sono gli endpoint dell'exchange VDex. Le loro funzioni sono:
 
 1. Agire come portali per VDex attraverso il wallet di Verto.
 
@@ -96,7 +96,7 @@ Nodes are the endpoints of the VDex exchange. Le loro funzioni sono:
 
 5. Assegnare timeout per il protocollo RAFT.
 
-6. Initiate contracts for orders that have been filled.
+6. Inizializzare i contratti per gli ordini che sono stati completati.
 
 I nodi guadagnano una parte delle commissioni per ogni transazione. Se un utente ha fondi sufficienti e possiede una buona reputazione, il suo portafoglio Verto può fungere da nodo.
 
