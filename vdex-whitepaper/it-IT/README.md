@@ -104,7 +104,7 @@ I nodi guadagnano una parte delle commissioni per ogni transazione. Se un utente
 
 Gli aggregatori di VDex sono server dedicati di Volentix che hanno come scopo la sicurezza e le simulazioni. One of their functions is to pull logs and order book data from nodes into sparse distributed representations for hierarchical temporal memory as intrusion [7] analysis for detecting anomalies in the system. The aggregators will also be host to other components such as metachain ledgers and blockchain scrapers.
 
-#### 3.1.3 Latency
+#### 3.1.3 Latenza
 
 EOS.IO has low latency block confirmation (0.5 seconds).[5] This degree of latency can be maintained in transactions with other blockchains if those chains admit of similar latency. But fundamentally the transaction is only as rapid as the lesser-rapid chain in the equation. It is well known, for example, that a Bitcoin block requires approximately ten minutes for processing. Receiving a transaction hash does not mean the transaction is confirmed; it means only that a node accepted the transaction without error, although there is generally a high probability other block producers will accept it.
 
