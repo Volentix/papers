@@ -6,7 +6,7 @@
 
 ## 1. المقدمة
 
-Volentix تقدم VDex، مصممة لتبادل الممتلكات الرقمية اللامركزية مع التركيز على تجربة المستخدم وتنمية المجتمع والإدارة. By accessing established technologies and planning selective new protocols with priority on security, speed, authentication, ease of use, scalability, and multi-asset support, VDex intends to facilitate peer-to-peer transactions by assembling a portfolio of decentralized applications built on EOS.IO smart contracts.
+Volentix تقدم VDex، مصممة لتبادل الممتلكات الرقمية اللامركزية مع التركيز على تجربة المستخدم وتنمية المجتمع والإدارة. من خلال النفاذ إلى التقنيات المعمول بها والتخطيط لبروتوكولات جديدة مختارة مع إعطاء الأولوية للأمان، السرعة، المصادقة، سهولة الاستخدام، قابلية التوسع ودعم الممتلكات المتعددة، تعتزم VDex تسهيل معاملات نظير إلى نظير من خلال تجميع مجموعة من التطبيقات اللامركزية المبنية على العقود الذكية الخاصة بـ EOS.IO.
 
 The VDex launch point anticipates matching Volentix's design requirements to available technologies superimposed on the EOS.IO decentralized operating system. We intend to test our assumptions by prototyping via custom EZEOS software, which we built and customized with EOS.IO's cleos command line tools. This software resides at: https://github.com/Volentix/ezeos
 
