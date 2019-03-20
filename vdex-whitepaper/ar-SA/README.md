@@ -1,4 +1,4 @@
-# THE VOLENTIX VDEX WHITE PAPER
+# الوثيقة البيضاء الخاصة بـ VOLENTIX وVDEX
 
 - الإصدار: 0.1.4
 - محدث في: 11-03-2019
@@ -6,7 +6,7 @@
 
 ## 1. المقدمة
 
-Volentix introduces VDex, designed as a distributed, decentralized digital assets exchange with emphasis on user experience and community development and governance. By accessing established technologies and planning selective new protocols with priority on security, speed, authentication, ease of use, scalability, and multi-asset support, VDex intends to facilitate peer-to-peer transactions by assembling a portfolio of decentralized applications built on EOS.IO smart contracts.
+Volentix تقدم VDex، مصممة لتبادل الممتلكات الرقمية اللامركزية مع التركيز على تجربة المستخدم وتنمية المجتمع والإدارة. By accessing established technologies and planning selective new protocols with priority on security, speed, authentication, ease of use, scalability, and multi-asset support, VDex intends to facilitate peer-to-peer transactions by assembling a portfolio of decentralized applications built on EOS.IO smart contracts.
 
 The VDex launch point anticipates matching Volentix's design requirements to available technologies superimposed on the EOS.IO decentralized operating system. We intend to test our assumptions by prototyping via custom EZEOS software, which we built and customized with EOS.IO's cleos command line tools. This software resides at: https://github.com/Volentix/ezeos
 
