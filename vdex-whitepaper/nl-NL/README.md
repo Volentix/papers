@@ -1,7 +1,7 @@
 # DE VOLENTIX VDEX WHITE PAPER
 
 - Versie: 0.1.4
-- Bijgewerkt: 24-10-2018
+- Updated: 11-03-2019
 - Website: www.volentix.io
 
 ## 1. INLEIDING
@@ -16,17 +16,19 @@ Het Volentix-ecosysteem zal bovenop vier pijlers bestaan, een initialiserende re
 
 ### 2.1 VENUE
 
-Venue is gepland als een dynamisch gemeenschapsplatform dat leden van de Volentix gemeenschap werft en op één lijn brengt om de distributie van VTX, de digitale valuta van het Volentix-ecosysteem, te vergemakkelijken, en om bekendheid van Volentix initiatieven te bevorderen. Sinds de start in beta-testen, maakt Venue het voor gebruikers mogelijk om VTX te ontvangen in ruil voor, bijvoorbeeld, deelname aan de ontwikkeling van toegewijde gemeenschappen, het indienen van bugfixes, en het claimen van bounties. Leaderboards en live statistieken weerspiegelen gebruikersparticipatie. De eerste handtekening-campagne werd op 13 juli 2018 gelanceerd op het https://bitcointalk.org/ forum. Bezoek https://venue.volentix.io voor meer informatie.
+Venue is planned as a dynamic community platform that recruits and aligns members of the Volentix community to facilitate distribution of VTX, the native digital asset of the Volentix ecosystem, and to promote awareness of Volentix initiatives.
+
+Recently launched in beta testing, Venue enables users to receive VTX in exchange, for example, for participating in developing dedicated communities, submitting bug fixes, and claiming bounties. Leaderboards and live metrics reflect user participation. The first signature campaign was launched on the https://bitcointalk.org/ forum on July 13, 2018. Please visit https://venue.volentix.io for more information.
 
 ![](../main3-3000px.jpg)
 
 ### 2.2 VERTO
 
-Verto wordt gebouwd als een multivaluta portemonnee voor gebruik met de gedecentraliseerde VDex exchange, en is bedoeld om persoonlijke inverzekeringstelling en lokaal beheer van particuliere en publieke sleutels in peer-to-peer transacties te vergemakkelijken, met als doel het elimineren van de risico's van verwoestende verliezen van belang geassocieerd met traumatische storingen van centrale operatoren. Verto heeft als plan een systeem van smart contracts in te zetten om de status tussen twee handelsklanten te handhaven, waarbij de eenvoudigste operaties worden uitgevoerd met atomaire swaps.[1]
+Verto is being built as a multi-currency wallet for use with the VDex decentralized exchange, and intends to facilitate personal custody and local management of private and public keys in peer-to-peer transactions, with the goal of eliminating the risks of devastating losses of stake associated with traumatic failures of central operators. Verto plans to employ a system of smart contracts to maintain the state between two trading clients, the simplest operations being accomplished with atomic swaps.[1]
 
 ### 2.3 VESPUCCI
 
-Verspucci is gepland als een analystische aandrijving die toegankelijk is via een gebruiksvriendelijke interface met een schat aan real-time en historische marktgegevens, zoals digitaal bezit waarderingen en sentiment analyse. We wish to empower users with tools to graph and compare tradeable digital assets, to access and parse historical trading records, to plot trends and patterns, and to monitor and assess open-source software developments. Vespucci seeks to bring to your fingertips confident and comprehensive market-relevant data by aggregating the information currently scattered throughout many different blockchains, websites, chat rooms, and exchanges.
+Vespucci is envisioned as an analytics engine accessible via a user-friendly interface with treasure troves of real-time and historical market data, such as digital assets ratings and sentiment analysis. We wish to empower users with tools to graph and compare tradeable digital assets, to access and parse historical trading records, to plot trends and patterns, and to monitor and assess open-source software developments. Vespucci seeks to bring to your fingertips confident and comprehensive market-relevant data by aggregating the information currently scattered throughout many different blockchains, websites, chat rooms, and exchanges.
 
 ### 2.4 VDEX
 
@@ -112,7 +114,9 @@ The order book is the list of buy-and-sell orders VDex records from interested u
 
 #### 3.2.1 Data structures
 
-Using the Loopring Protocol FIFO (first-in first-out) circular buffer, nodes can design their order books to display and match a user's order. This method follows an OTC model, where limit orders are positioned based on price only.[5] Referencing the EOS.IO persistence API, the order book is able to take advantage of the powerful multi-index container shared among nodes through the same EOS.IO account.
+Using the Loopring Protocol FIFO (first-in first-out) circular buffer, nodes can design their order books to display and match a user’s order. This method follows an OTC model, where limit orders are positioned based on price only.[5]
+
+Referencing the EOS.IO persistence API, the order book is able to take advantage of the powerful multi-index container shared among nodes through the same EOS.IO account.
 
 #### 3.2.2 On-Chain order book
 
@@ -146,7 +150,7 @@ To stake support for reviewing proposals and implementing projects.
 
 To incentivize users to participate in order book settlement by becoming nodes via their Verto wallets.
 
-To incentivize users to lock funds in for \>24 hours by HTLC time-bound transactions.
+To incentivize users to lock funds in for >24 hours by HTLC time-bound transactions.
 
 #### 3.4.2 VTX Allocation
 
@@ -222,7 +226,7 @@ Include ability to delay an action of a contract.
 
 #### 3.8.2 Auditing rogue processes
 
-The advanced anomaly detection algorithms provided by Numenta's Nupic library will require less voluminous training data sets than conventional AI systems.
+The advanced anomaly detection algorithms provided by Numenta’s Nupic library will require less voluminous training data sets than conventional AI systems.
 
 #### 3.8.3 Randomization
 
@@ -246,7 +250,7 @@ A race attack occurs when two conflicting transactions are sent in rapid success
 
 A Finney attack pre-mines one transaction into a block and spends the same tokens before releasing the block to invalidate that transaction.
 
-A 51% attack can be mounted by anyone owning \>50% of the total computing power of a network. A majority ownership position permits reversal of any transaction and allows total control of selection of transactions appearing in blocks. EOS.IO, Loopring, and RAFT appear to prevent this problem. If a block producer takes an unreasonable amount of runtime or is not sufficiently profitable, then the process is blacklisted.[5]
+A 51% attack can be mounted by anyone owning >50% of the total computing power of a network. A majority ownership position permits reversal of any transaction and allows total control of selection of transactions appearing in blocks. EOS.IO, Loopring, and RAFT appear to prevent this problem. If a block producer takes an unreasonable amount of runtime or is not sufficiently profitable, then the process is blacklisted.[5]
 
 #### 3.9.2 Front running
 
@@ -300,7 +304,7 @@ This white paper was prepared, and is presented, for information purposes only. 
 
 2. EOS.IO, Eos.io technical white paper v2, (2018).
 
-3. . T. Earl, Soa principles of service design, (2016).
+3. T. Earl, Soa principles of service design, (2016).
 
 4. blockchainhub.net, blockchain-oracles, (2017).
 

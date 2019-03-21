@@ -2,83 +2,83 @@
 
 ### **ISỌNISOKI**
 
-Awọn ibugbamu fẹrẹfẹ ti o waye laipẹ lori awọn owo kiripito ti fa ọpọlọpọ ifojusi ati mu ki awọn eniyan diẹ si ni imọ nipa awọn anfani rẹ lori owo fiati. The ever-increasing number of platforms that support cryptocurrencies and allow for transactions between a wide variety of products and services attract many users forming a new, dynamic generation of traders, for whom the intricacies of the blockchain technology are transparent. To navigate the complex world of cryptocurrencies, new users, along with experienced investors, would greatly benefit from a system that evaluates cryptocurrencies and creates a ranking that can be used as an investing guide, to be personalized with user-defined parameters. Vespucci is a new system that goes beyond the aforementioned functionalities. In particular, it monitors the evolution of blockchain and cryptocurrency markets and, by harnessing the power of cutting-edge AI and Machine Learning technolo gy, delivers unbiased, robust and up-to-date rankings that represent the real value of a very wide spectrum of coins so as to, eventually, act as a predictor of their future course. This ranking system is complete in the sense that it draws from a very large set of sources, categorized into three pillars, namely, sentiment analysis, fundamental and technological analysis, and technical analysis. Vespucci is part of the integrated ecosystem of Volentix, built around the decentralized exchange platform VDex; the latter employs a collection of smart EOS.IO contracts to establish quick and secure transactions, user anonymity, liquidity, scalability, performance, and estimation of profit margin. This whit e paper presents an in-depth overview of how Vespucci works, including a discussion of several technical aspects, and also highlights the different ways it can be used.
+Awọn ibugbamu fẹrẹfẹ ti o waye laipẹ lori awọn owo kiripito ti fa ọpọlọpọ ifojusi ati mu ki awọn eniyan diẹ si ni imọ nipa awọn anfani rẹ lori owo fiati. Awọn nọmba pilatifọọmu ton ṣe atilẹyin fun awọn owo kiripito ati ti o faye gba awọn isowo laarin awọn orisirisi awọn ọja ati awọn iṣẹ ton fi gbogbo igba pọsi nfa ọpọlọpọ awọn olumulo mọra ti o jasi ṣiṣẹda ẹgbẹ tuntun, ti iran awọn onisowo onimudagbasoke, awọn ẹniti awọn alaye imọ ẹrọ blockchain ti o pamọ han si kedere. Lati se akoja aye awọn owo kiripito ti o jẹ ọlọpọ ẹka, awọn olumulo titun, pẹlu awọn oludokoowo ti o ni iriri, yoo jẹ anfani pupọ lati inu eto ti o n ṣe agbeyẹwo awọn owo kiripito ati ṣe iṣẹda ipele ipo ti o le ṣiṣẹ bi itọnisọna fun idokowo, lati sọ di ti ara ẹni pẹlu awọn ilana iṣẹ ti olumulo la kalẹ. Vespucci jẹ eto tuntun ti o kọja awọn iṣiṣẹ ti a ti sọ tẹlẹ. Ni pato, o n mojuto idagbasoke ti blockchain ati awọn ọja owo kiripito ati, nipa sise amulo agbara AI to ta yọọ ati imọ-ẹrọ ti Ẹkọ Ẹrọ, n ṣe ijabọ alaisegbe, ti o rọbọ ati ipele ipo ti o kun fọfọ to jẹ aṣoju ojulowo iyatọ nla ti awọn owo lati le, lakotan, ṣe bi alasọtẹlẹ ti ipa ọna ọjọ iwaju wọn. Eto ipele ipo yii ti pari ni ero pe o n fa lati awọn orisun ti o tobi pupọ, ti o jẹ pinpin si awọn opo mẹta, eyun, iyanana iwoyesi, iyanana awọn ọja ati awọn ohun elo, ati iyanana awọn idiju. Vespucci jẹ ara awujọ alabaṣepọ ti Volentix, to jẹ gbigbedide yika pilatifọọmu ibi ipaṣipaarọ alaisilojukan VDex; asọgbẹhin naa n lo akojọpọ awọn iwe adehun EOS.IO to jafafa lati pilẹ awọn iṣowo to yara ti o si ni aabo, àìdánimọ olumulo, Irọrun tita dukia, ipele agbara, iṣẹ ṣiṣe, ati isọtẹlẹ ti aala èrè. Iwe funfun yii n ṣe afihan alaye ijinlẹ bi Vespucci ṣe n ṣiṣẹ, pẹlu ijiroro ti awọn ọpọlọpọ aaye idiju, ati tun ṣe afihan awọn ọna oriṣiriṣi ti o le gba jẹ lilo.
 
-* ### **OVERVIEW**
+* ### **ISỌNISOKI**
 
-Vespucci is part of the Volentix ecosystem. In particular, it implements one of the main pillars of the Volentix ecosystem, of which VDex is the fulcrum. VDex is a decentralized exchange with the user and community in mind. Vespucci, besides being a digital asset audit and assessment utility accessible to non-experts, it is also a tool to chart and juxtapose tradeable digital assets. Moreover, it provides a dashboard for cryptocurrencies’ activity in the digital world.
+Vespucci jẹ ara awujọ ti Volentix. Ni pato, o n ṣe ọkan ninu awọn opo pataki ti awujọ Volentix, eyiti VDex jẹ alatilẹyin fun. VDex jẹ ibi ipaṣipaarọ ti o ni ero nipa olumulo ati awujọ lọkan. Vespucci, yatọ si jijẹ ayẹwo dukia oni-nọmba ati iwulo agbeyẹwo ti o wa fun wiwọle si fun awọn alailoye kikun, o tun jẹ irinṣẹ lati ṣe apẹrẹ ati ṣafiwera awọn dukia oni-nọmba to ṣe fiṣowo. Jubẹlọ, o n pese dasibọọdu fun iṣẹ ti awọn owo kiripito ni aye oni-nọmba.
 
-Our primary goal is to offer all users of digital assets an intuitive analytical agent and rating system for digital assets, merging the following aspects (see figure below):
+Afojusun wa gangan ni lati pese gbogbo awọn olumulo ti awọn dukia oni-nọmba ni asoju iyanana onifura ati ilana fun sise ipele ipo fun awọn dukia oni-nọmba, ṣiṣe akanpọ awọn aaye wọnyi (wo akawe isalẹ):
 
-* a sentiment gauge for sentiment analysis (SA),
-* technical analysis (TA), and
-* fundamental / technological analysis (FTA).
+* iwọn iwoyesi fun iyanana iwoyesi (SA),
+* iyanana idiju (TA), ati
+* iyanana awọn ọja / awọn ohun elo (FTA).
 
-Vespucci offers for the first time a well-rounded profile of each digital asset of interest along with a live rating, representing a combination of different indicators, based on the principles of decentralized governance, peer privacy, public ledger via a public blockchain, and open source code. Hence, its analysis is free of the bias of specific individuals or interest groups and the employed methods are up for scrutiny and discussion by the community. Decentralized applications offer a paradigm shift in current technology; a particularly relevant instance lies within the emerging cryptocurrency exchanges. Using some of the most powerful cutting-edge methods, our approach abides by open standards and the principles of ease of use.
+Vespucci n pese fun igba akọkọ akọsilẹ to kun daadaa ti ọkọọkọkan awọn ohun-ini oni-nọmba ti o nifẹsi pẹlu ipele ipo boṣenlọ, ti o n ṣe asoju apapọ orisirisi awọn atọka, o da lori awọn ilana ti iṣejọba alaisilojukan, ipamọ ẹgbẹ, lẹja gbangba nipasẹ blockchain gbangba kan, ati koodu orisun gbangba. Nitorina, iyanana rẹ jẹ eyi ti ko ṣegbe ṣẹyin awọn ẹni kankan ni pato tabi awọn ẹgbẹ ti o nifẹsi atipe awọn ọna ti o jẹ lilo wa fun iyẹwo ati ijiroro nipasẹ awujọ. Awọn ohun elo alaisilojukan n pese iyipada dandan ninu imọ-ẹrọ igbalode; apẹẹrẹ pataki kan ti o jẹmọ wa ninu awọn ibi ipasipaarọ owo kiripito to n jẹyọ. Lilo diẹ ninu awọn ọna agbara ti o ta yọọ julọ, ọna na wa ni ibamu pẹlu awọn gbèdéke gbangba ati awọn ilana ti irọrun lilo.
 
-General architecture of Vespucci
+Iyaworan gbogbogbo ti Vespucci
 
 ![](https://volentix.io/file/2019/01/Web-1920-–-6@3x.png)
 
-* ### **OBJECTIVE**
+* ### **ERONGBA**
 
-Vespucci offers a web-based platform to enable users to navigate through crypto data and make informed trading and digital-asset utilization decisions. In particular, it provides:
+Vespucci n pese pilatifọọmu ti o da lori ayelujara lati jẹ ki awọn olumulo lọ kaakiri inu awọn data kiripito ati ṣe ipinnu iṣowo pẹlu oye ati awọn ipinnu ilo dukia oni-nọmba. Ni pato, o n pese:
 
-* An intuitive analytical agent leading to an easy to understand overview of cryptocurrencies.
-* A rating system of cryptocurrencies, including risk assessment.
-* A dashboard for cryptocurrency news.
+* Asoju iyanana onifura kan ti o mu ki o rọrun lati ni oye isọnisoki ti awọn owo kiripito.
+* Eto ipele ipo ti awọn owo kiripito, pẹlu agbeyẹwo ewu.
+* Dasibọọdu fun awọn iroyin owo kiripito.
 
 ![](https://volentix.io/file/2019/01/02-icon.jpg)
 
-The rating and analytical capacity of Vespucci relies on the three pillars of: Sentiment analysis, Technical / economic analysis, and Fundamental / technological analysis. Vespucci combines these aspects in order to provide rating and ranking by employing Machine Learning and Neural Network (NN) technology. It offers a service that has never been available before since it integrates all features in the following figure.
+Agbara ipele ipo ati iyanana ti Vespucci gbẹkẹle awọn opo mẹta ti: Iyanana iwoyesi, Iyanana idiju / ọrọ aje, ati iyanana awọn ọja / awọn ohun elo. Vespucci ṣe akanpọ awọn aaye wọnyi lati le pese ipele ipo ati ipo nipasẹ lilo Ẹkọ Ẹrọ ati Nẹtiwọki Neural (NN). O n pese iṣẹ kan ti ko ti wa ri rara tẹlẹ niwọn to jẹpe o n ṣe iṣiṣẹpọ gbogbo awọn ẹya ara ti o wa ninu akawe wọnyii.
 
 ![](https://volentix.io/file/2019/01/1k.jpg)
 
-* ### **DESIGNING VESPUCCI**
+* ### **DIDA VESPUCCI LARA**
 
-* #### **VESPUCCI FEATURES**
+* #### **AWỌN ẸRỌ VESPUCCI**
 
-The features of Vespucci are as follows.
+Awọn ẹya ara ti Vespucci ni awọn wọnyi.
 
-* Rating of cryptocurrencies, easily leading to a Prediction machine.
-* Combination of a complete spectrum of criteria ranging from Fundamental / Technological Analysis to technical / economics aspects up to a sentiment gauge.
-* Transparency in methodology (data sources, ingestion mechanism, data manipulation process, algorithms)
-* Broad spectrum of sources (to avoid biased data)
-* Modular design that offers the ability to extend the platform to other applications such as smart contracts.
-* Security: Data Sources on EOS Blockchain (VLabs)
-* High accuracy using sophisticated Evaluation methods, AI, and Deep Learning
-* Intuitive algorithms, possibility for weighs given by user, Post-processing for humans.
-* #### **PRINCIPLES**
+* Ipele ipo ti awọn owo kiripito, ton fi irọrun yọri si ẹrọ asọtẹlẹ.
+* Akanpọ gbogbo orisirisi awọn ipewọn ti o bẹrẹ lati Iyanana Awọn ọja / Awọn ohun elo si awọn aaye iyanana idiju / ọrọ aje titi kan iwọn iwoyesi.
+* Ainikọnunkọhọ ninu ọna ti a lo (awọn orisun data, ilana eto ifasara, ilana ifọwọyi data, awọn alugọridimu)
+* Orisirisi awọn orisun ti o fẹ (lati yago fun data to ṣegbe)
+* Idalara modular ti o n pese agbara lati fa pilatifọọmu naa gun lọ si ọdọ awọn ohun elo miiran gẹgẹbi awọn iwe adehun to jafafa.
+* Aabo: Awọn orisun data lori Blockchain EOS (VLabs)
+* Iṣedeede to ga julọ nipa lilo awọn ọna igbelewọn igbalode, AI, ati ẹkọ-kikọ to jinlẹ
+* Awọn alugọridimu onifura, iṣeeṣe fun awọn iwọn ti awọn olumulo pese, Igbẹhin-isaayan fun awọn eniyan.
+* #### **AWỌN ILANA**
 
-Vespucci is designed under the following principles.
+Vespucci jẹ siseto labẹ awọn ilana wọnyi.
 
-* Objective in order not to risk compromising the Volentix DAO goodwill before it is established beyond any doubt
-* Automated
-* In demand
-* Decentralized implementation
-* Open-source
-* Intuitive
-* #### **HOW VESPUCCI WORKS**
+* Afojusun lati le maṣe jẹ ki orukọ rere ti Volentix DAO bajẹ ṣaaju ko to fẹsẹmulẹ kọja eyikeyi isiyemeji
+* Alaifọwọyi
+* Ni ibeere
+* Imusisẹ Alaisilojukan
+* Orisun-gbangba
+* Niifura
+* #### **BI VESPUCCI ṢE N ṢIṢẸ**
 
-The three pillars are described in the following subsections. In these subsections a large number of criteria is mentioned. The results of the SA component is made available along with the Technical and FTA results to the users so they can access a complete 360 view of each coin’s state, rank and ultimately understand the coin’s true value and potential. ‪An evaluation of both established cryptocurrencies and known “scam-coins” is performed, and the resulting parameters deemed most relevant in determining cryptocurrency validity is integrated into the system.
+Awọn opo mẹtẹta ni a ṣe apejuwe wọn ninu awọn ẹya abala wọnyii. Ni awọn ẹya abala yii nọmba nla ti awọn ipewọn ni o jẹ didarukọ. Awọn abajade ti ẹya ohun elo SA jẹ eyiti o wa pẹlu awọn abajade Idiji ati FTA si awọn olumulo ki wọn le ri aaye lati ri gbogbo ipo owo kọọkan, ipele ipo ati ni ipari ni oye otitọ nipa iwulo owo naa ati iwulo ọjọ iwaju. Igbelewon ti awọn owo kiripito to ti fẹsẹmulẹ tẹlẹ ati ti awọn eyi ti a mọ si "awọn owo-gbajuẹ" jẹ ṣiṣe, awọn abajade ilana iṣẹ ti o jẹ yiyan gẹgẹbi eyi to jẹmọ ṣiṣe ipinnu ifẹsẹmulẹ owo kiripito julọ ti jẹ gbigbe sinu eto.
 
-In order to test Vespucci in a semi-public release using prospective volunteers, the system is being introduced to various outside users for bug testing of the assessment system functions, and the UI. ‬‪It is carried out in a public setting through the organization of a closed beta release. Users are selected to allow for more constructive and relevant feedback information.‬ ‪An ongoing iterative process of tweaks, fixes, and adjustments will take place during the beta release from the insight derived from user feedback.‬
+Lati le ṣe ayẹwo Vespucci ninu igbejade kan to fẹẹrẹ jẹ gbogbogbo nipa lilo awọn olujọwọ ara ẹni ti a fojusun, eto naa n jẹ fifihan lọwọlọwọ yii si orisirisi awọn olumulo ti ita fun ayẹwo fun asise ninu agbeyẹwo awọn iṣẹ eto, ati UI naa. O jẹ ṣiṣe ninu eto ti oju gbangba nipasẹ ajọ ti igbejade beta pipade. Awọn olumulo jẹ yiyan lati faye gba alaye esi idahun alatunṣe ati to wulo. Ilana atẹnumọ awọn ayipada, awọn atunṣe, ati awọn atunto to nlọ lọwọ yoo waye ni akoko igbejade ti beta lati inu oye ti o wa lati inu esi idahun olumulo
 
 * ### **PILARS**
 
-* #### **SENTIMENT ANALYSIS**
+* #### **IYANANA IWOYESI**
 
-Market sentiment is being explored by the relatively new field of [behavioral finance](https://www.investopedia.com/terms/b/behavioralfinance.asp). It starts with the assumption that markets are apparently inefficient much of the time, and this inefficiency can be explained by psychology and other [social sciences](https://www.investopedia.com/terms/s/social-science.asp). The idea of applying social science to finance was fully legitimized when [D. Kahneman](https://www.investopedia.com/terms/d/daniel-kahneman.asp), a psychologist, won the 2002 Nobel Memorial Prize in Economics – he was the first psychologist to do so. Many of the ideas in behavioral finance confirm observable suspicions: that investors tend to overemphasize data that come easily to mind; that many investors react with greater pain to losses than with pleasure to equivalent gains; and that investors tend to persist in a mistake.
+Iwoyesi ọja n jẹ mimulo nipasẹ aaye tuntun ti [ihuwasi iṣuna](https://www.investopedia.com/terms/b/behavioralfinance.asp). O bẹrẹ pẹlu ero pe awọn ọja ko kin ṣiṣẹ to boṣe yẹ ni ọpọ igba, ati pe alaye aiṣiṣẹto yii le jẹ ṣiṣe nipa imọ ọkan-ẹni ati awọn [sayẹnsi ibagbepọ awujọ](https://www.investopedia.com/terms/s/social-science.asp) miiran. Ero lati lo sayẹnsi ibagbepọ awujọ fun iṣuna di biba ofin mu nigbati [D. Kahneman](https://www.investopedia.com/terms/d/daniel-kahneman.asp), onisegun imọ ọkan-ẹni kan, gba Ẹbun Iranti ti Nobel ninu Ọrọ-okowo ti ọdun 2002 - o jẹ akọkọ onisegun imọ ọkan-ẹni lati ṣe bẹ. Ọpọlọpọ awọn ero ninu ihuwasi iṣuna ṣe ijẹri awọn ifura ti a ṣe akiyesi: wipe awọn oludokoowo maa n saba ṣe aṣeju itẹnumọ awọn data to ma n wa si ọkan pẹlu irọrun; wipe ọpọlọpọ awọn oludokoowo ma n fesi si awọn adanu pẹlu irora ti o pọ ju ti idunnu si deede iru awọn ere bẹ; ati pe awọn oludokoowo maa n tẹra mọ aṣiṣe kan.
 
-One of the most significant factors that affect the rank and value of crypto-coins is the public confidence and sentiment. Sentiment bears major weight of cryptocurrencies monetary valuation. Public opinions are widely available to collect and analyze. A m ajor pillar of the Vespucci ranking platform is hence based on Sentiment Analysis (SA) of crypto related content, generated by the public on Social media (Twitter, Facebook, Telegram), Reddit, Blogs, forums and news sites. The key differentiating fact of Vespucci SA component is the broad and complete spectrum of data sources that are collected and analyzed. We believe that only by covering every potential source of public opinion related to each crypto-coin, the true state of market sentiment is revealed.
+Ọkan ninu awọn okunfa ti o ṣe pataki julọ ti o ni ipa lori ipo ati iye ti awọn owo kiripito jẹ igbẹkẹle ati itara ti gbogbo awọn eniyan. Igbelẹhin jẹ irẹwọn pataki ninu idiyele awọn owo kiripito. Awọn imọran awọn eniyan ni o wa fun gbigba jọ ati ṣiṣe iyanana. Opo pataki kan ti pilatifọọmu ipele ipo Vespucci wa jẹ eyi ti o da lori Iyanana Iwoyesi (SA) ti akoonu to jẹmọ kiripito, ti ipilẹṣẹ waye nipasẹ awọn eniyan lori Ikanni ajọlo (Twitter, Facebook, Telegram), Reddit, Awọn blog, awọn apero and awọn ikanni iroyin aayelujara. Koko ododo ọrọ to ya ẹya ohun elo Vespucci SA sọtọ ni orisirisi awọn orisun ti o fẹ ati ti o pe to jẹ gbigba ati to jẹ yiyanana. A gbagbọ pe nipa ṣiṣe abojuto gbogbo orisun ti imọran awọn eniyan ti o nii ṣe pẹlu owo-kiripito kọọkan nikan, ipo otitọ ti iwoyesi ọja jẹ fifihan.
 
-Vespucci SA component is built in a phased approach. The first phase includes the implementation of a centralized cloud based, highly scalable, Big Data ingestion mechanism. This mechanism is able to listen continuously to the above mentioned data sources and ingest all content/messages that are relevant to each cryptocurrency. It uses no persistent storage. The same mechanism scores the Sentiment of the ingested content using an AI driven score function and text analytics libraries for analyzing social media content. The module also relies on further tools such as NTLK and TextBlob that assign numerical scores of sentiment to pieces of text. This process need not be transparent to the user.
+Ẹya ohun elo Vespucci SA jẹ kikọ nipa lilo ọna onipele. Ipele akọkọ ni imusisẹ Ilana ifa Data titobi sara, to da lori ibi ipamọ ayelujara olojukan, ti o ni ipele agbara iṣiṣẹ to daju. Ilana yii ni anfani lati tẹtisi ni lemọlemọ awọn orisun data ti a darukọ loke ati lati fa gbogbo akoonu/awọn ifitonileti ti o ni iwulo si ọkọọkan awọn owo kiripito sara. Ko lo ibi ipamọ alatẹnumọ kankan. Ilana yẹn kanna n ṣe iṣiro Iwoyesi ti akoonu to jẹ fifasara nipa lilo iṣẹ iṣiro ti AI kan n ṣakoso ati awọn ile ikowesi iyanana ọrọ fun yiyanana awọn ohun to wa lori ikanni ajọlo. Ẹrọ naa tun gbarale awọn irinṣẹ siwaju sii gẹgẹbi NTLK ati TextBlob ti o n yan awọn nọmba isiro ti iwoyesi fun awọn ege ọrọ. Ilana yii ko nilo lati han kedere si olumulo.
 
-This ensures that Vespucci SA component is able to cover the vast majority of public opinion. Results are compared over periods of one hour, one day and one week. The outputs are available through APIs for internal use by other Vespucci components such as the front-end web UI as well as to external users that want to consume the data or build third-party applications based on Vespucci.
+Eyi n ṣe idaniloju pe ẹya ohun elo Vespucci SA ni anfani lati ṣe abojuto ọpọlọpọ imọran awọn eniyan. Afiwe awọn abajade naa laarin awọn akoko ti wakati kan, ọjọ kan ati ọsẹ kan ma jẹ sise. Awọn abajade naa wa nipasẹ awọn API fun lilo abẹle ti awọn ẹya ohun elo Vespucci miiran gẹgẹbi UI ojuewe-iwaju ayelujara ati si awọn olumulo ara ita ti o fẹ lati lo data tabi kọ awọn ohun elo alagata to da lori Vespucci.
 
-Vespucci’s public opinion listeners run on cloud-based VMs that are able to instantly scale-out to address all potential workloads. This way Vespucci handles and ingests the massive, yet valuable, data volumes related to cryptocurrencies that are being generated at every given moment. Parallelization is key when handling Big Data and Vespucci’s architecture leverages parallelization, multi-threading and concurrency wherever possible. Micro-services and serverless code run in parallel to orchestrate the ingestion procedures and data flows.
+Awọn olufetisi imọran gbangba ti Vespucci n ṣiṣe lori awọn VM ti ibi ipamọ ayelujara to ni anfani lati ṣe atapin lẹsẹkẹsẹ lati le koju gbogbo awọn iṣẹ to wa fun ṣiṣe. Ni ọna yii Vespucci n se ikapa ati ifasara awọn iwọn data, to lagbara, to tun sibẹsibẹ niyelori, ti o nii ṣe pẹlu awọn owo kiripito ti o n jẹ gbigbejade ni gbogbo igbakugba. Imudọgba se pataki nigbati abojuto awọn Data Nla ba n waye ati imudọgba awọn anfani iyaworan ti Vespucci, ṣiṣe ọpọ iṣẹ pẹlu eto kan ni ọkọọkan ati ni sisẹntẹle ni gbogbo ibikibi ti o ba ti ṣee ṣe. Awọn iṣẹ-kereje ati koodu aliniṣakoso n ṣiṣẹ ibaramu lati ṣeto awọn ilana ifasara ati awọn iṣipopada data.
 
-In the second phase, scoring tools are adapted and enhanced so as to focus their functionality to cryptocurrencies and, eventually, our own software shall be developed for this task. Moreover, some storage is used (see the relevant [section](https://docs.google.com/document/d/1NLr-rgF66NCBmLmPIdElltKYVPJrLVO7DZDpcNEm6OU/edit?ts=5bec2f33#heading=h.921dav9nirz6)) for aggregate data needed in order (a) to make historical comparisons and (b) to train the Convolutional Neural Network that produces the final score. For (a), we could make use of the entire history of each token since its creation. For (b), deep learning needs data covering a period of up to two years.
+Ni ipele keji, awọn irinṣẹ iṣiro jẹ ṣiṣatunṣe si ati mimu didara si lati le dari afojusun iṣẹ wọn si awọn owo kiripito ati, nikẹhin, software ti wa ma jẹ gbigbedide fun iṣẹ yii. Moreover, some storage is used (see the relevant [section](https://docs.google.com/document/d/1NLr-rgF66NCBmLmPIdElltKYVPJrLVO7DZDpcNEm6OU/edit?ts=5bec2f33#heading=h.921dav9nirz6)) for aggregate data needed in order (a) to make historical comparisons and (b) to train the Convolutional Neural Network that produces the final score. For (a), we could make use of the entire history of each token since its creation. For (b), deep learning needs data covering a period of up to two years.
 
 Eventually, Vespucci will reach out to the open-source community in an attempt to make the platform decentralized to a great degree . The intention is to decentralize the data ingestion and sentiment scoring functionality in order to provide secure, community led, unbiased and credible results.
 
