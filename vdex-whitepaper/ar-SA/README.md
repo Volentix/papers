@@ -6,15 +6,15 @@
 
 ## 1. المقدمة
 
-Volentix تقدم VDex، مصممة لتبادل الممتلكات الرقمية اللامركزية مع التركيز على تجربة المستخدم وتنمية المجتمع والإدارة. من خلال النفاذ إلى التقنيات المعمول بها والتخطيط لبروتوكولات جديدة مختارة مع إعطاء الأولوية للأمان، السرعة، المصادقة، سهولة الاستخدام، قابلية التوسع ودعم الممتلكات المتعددة، تعتزم VDex تسهيل معاملات نظير إلى نظير من خلال تجميع مجموعة من التطبيقات اللامركزية المبنية على العقود الذكية الخاصة بـ EOS.IO.
+Volentix تقدم VDex، مصممة لتبادل الأصول الرقمية اللامركزية مع التركيز على تجربة المستخدم وتنمية المجتمع والإدارة. من خلال النفاذ إلى التقنيات المعمول بها والتخطيط لبروتوكولات جديدة مختارة مع إعطاء الأولوية للأمان، السرعة، المصادقة، سهولة الاستخدام، قابلية التوسع ودعم الممتلكات المتعددة، تعتزم VDex تسهيل معاملات نظير إلى نظير من خلال تجميع مجموعة من التطبيقات اللامركزية المبنية على العقود الذكية الخاصة بـ EOS.IO.
 
 تستبق نقطة تشغيل VDex مطابقة متطلبات تصميم Volentix إلى التكنولوجيات المتاحة التي تم تركيبها على نظام التشغيل اللامركزي الخاص بـ EOS.IO. نعتزم إختبار إفتراضاتنا عن طريق النماذج الأولية عبر برنامج EZEOS المخصص، الذي قمنا ببنائه وتخصيصه بإستخدام أدوات الأوامر النصية الخاصة بـ EOS.IO. البرنامج موجود في: https://github.com/Volentix/ezeos
 
 ## 2. VOLENTIX
 
-The Volentix ecosystem will exist atop four pillars, an initializing array of applications specifically known as Venue, Verto, Vespucci, and VDex.
+بيئة Volentix سوف تقوم على أربعة أعمدة، مجموعة مهيئة من التطبيقات المعروفة على وجه التحديد بـ Vespucci ،Verto ،Venue وVDex.
 
-### 2.1 VENUE
+### 1.2 VENUE
 
 Venue is planned as a dynamic community platform that recruits and aligns members of the Volentix community to facilitate distribution of VTX, the native digital asset of the Volentix ecosystem, and to promote awareness of Volentix initiatives.
 
