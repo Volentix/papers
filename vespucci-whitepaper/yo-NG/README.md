@@ -86,15 +86,15 @@ Nikẹhin, Vespucci ma kan si awujọ orisun imọ ni igbiyanju lati mu ki pilat
 
 By leveraging Python’s Machine learning framework, and given the language’s advantages, it is only natural for this module to be implemented in Python. O n aṣepọ pẹlu awọn pato ile ikowesi ẹkọ ẹrọ gẹgẹbi Scikit-learn, TensorFlow, CNTK, Torch, Theano, ati Keras.
 
-Ìrírí olumulo kan tí o sopọ mọ apero àwùjọ gbangba ti owo kiripito jẹ gbigbedide lati pese awọn ikede ati awọn alaye isiro atigbadegba ti iṣiṣẹ awujọ. Iṣiro ikẹhin le ṣee ri gba gẹgẹbi iṣẹ iseṣiro. Eventually, machine learning techniques are applied to deliver real-time sentiment analysis.‬
+Ìrírí olumulo kan tí o sopọ mọ apero àwùjọ gbangba ti owo kiripito jẹ gbigbedide lati pese awọn ikede ati awọn alaye isiro atigbadegba ti iṣiṣẹ awujọ. Iṣiro ikẹhin le ṣee ri gba gẹgẹbi iṣẹ iseṣiro. Nikẹhin, awọn ilana ẹkọ ẹrọ n jẹ lilo lati fi iyanana iwoyesi jisẹ ni bosenlọ
 
 <table>
   <tr>
     
 
-<td>**Source**</td>
+<td>**Orisun**</td>
 
-<td>**Analysis**</td>
+<td>**Iyanana**</td>
 
   </tr>
   
@@ -103,7 +103,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Twitter </td>
 
-<td>Sentiment</td>
+<td>Iwoyesi</td>
 
   </tr>
   
@@ -112,7 +112,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Reddit</td>
 
-<td>Sentiment</td>
+<td>Iwoyesi</td>
 
   </tr>
   
@@ -121,7 +121,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Facebook</td>
 
-<td>Sentiment</td>
+<td>Iwoyesi</td>
 
   </tr>
   
@@ -130,7 +130,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Telegram</td>
 
-<td>Sentiment</td>
+<td>Iwoyesi</td>
 
   </tr>
   
@@ -139,16 +139,16 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>LinkedIn</td>
 
-<td>Sentiment & Technological</td>
+<td>Iwoyesi & Awọn ohun elo</td>
 
   </tr>
   
   <tr>
     
 
-<td>Coin Sites</td>
+<td>Aaye ayelujara ti owo</td>
 
-<td>Technological & Fundamental</td>
+<td>Awọn ohun elo & Awọn ọja</td>
 
   </tr>
   
@@ -157,7 +157,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>CoinMarketCap</td>
 
-<td>Technical, Technological & Fundamental</td>
+<td>Idiju, Awọn ohun elo & Awọn ọja</td>
 
   </tr>
   
@@ -166,7 +166,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Github</td>
 
-<td>Technological</td>
+<td>Awọn ohun elo</td>
 
   </tr>
   
@@ -175,7 +175,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Coinbio</td>
 
-<td>General Information about every crypto </td>
+<td>Alaye Gbogbogbo nipa gbogbo kiripito </td>
 
   </tr>
   
@@ -184,7 +184,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>BitInfoCharts</td>
 
-<td>Technical </td>
+<td>Idiju </td>
 
   </tr>
   
@@ -193,7 +193,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Cointelegraph</td>
 
-<td>Technical </td>
+<td>Idiju </td>
 
   </tr>
   
@@ -202,7 +202,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>CCN</td>
 
-<td>Sentiment (Forums & News)</td>
+<td>Iwoyesi (Awọn apero & Iroyin)</td>
 
   </tr>
   
@@ -211,7 +211,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>CoinDesk</td>
 
-<td>Sentiment (Forums & News)</td>
+<td>Iwoyesi (Awọn apero & Iroyin)</td>
 
   </tr>
   
@@ -220,21 +220,21 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Bitcointalk</td>
 
-<td>Sentiment (Forums & News) </td>
+<td>Iwoyesi (Awọn apero & Iroyin) </td>
 
   </tr>
   
   <tr>
     
 
-<td>Crypto Coin Rankings</td>
+<td>Awọn ipele ipo Owo Kiripito</td>
 
-<td>Technological & Technical </td>
+<td>Awọn ohun elo & Idiju </td>
 
   </tr>
 </table>
 
-* #### **TECHNICAL ANALYSIS**
+* #### **IYANANA IDIJU**
 
 Technical analysis is a trading tool employed to evaluate [securities](https://www.investopedia.com/terms/s/security.asp) and identify trading opportunities by analyzing statistics gathered from trading activity, such as price movement and volume. Unlike fundamental analysts who attempt to evaluate a security’s intrinsic value, [technical analysts](https://www.investopedia.com/terms/t/technical-analyst.asp) focus on charts of price movement and va rious analytical tools to evaluate a security’s strength or weakness. A typical source may be **coinmarketcap**. We focus on indicators and methods suitable for assets with high volatility of prices, and hence suitable for cryptocurrencies.
 
