@@ -80,11 +80,11 @@ Awọn olufetisi imọran gbangba ti Vespucci n ṣiṣe lori awọn VM ti ibi i
 
 Ni ipele keji, awọn irinṣẹ iṣiro jẹ ṣiṣatunṣe si ati mimu didara si lati le dari afojusun iṣẹ wọn si awọn owo kiripito ati, nikẹhin, software ti wa ma jẹ gbigbedide fun iṣẹ yii. Jubẹlọ, diẹ ninu awọn ibi ipamọ ni o jẹ lilo (wo abala [ti o yẹ](https://docs.google.com/document/d/1NLr-rgF66NCBmLmPIdElltKYVPJrLVO7DZDpcNEm6OU/edit?ts=5bec2f33#heading=h.921dav9nirz6)) fun akopọ data ti a nilo (a) lati ṣe awọn afiwera onitan ati (b) lati ṣe akoso Nẹtiwọki Neural Alayipọ ti o n pese isiro ikẹhin. Fun (a), a le lo gbogbo itan ti aami kọọkan lati igba isẹda rẹ. Fun (b), imọ ijinlẹ nilo data ti o bo akoko ti o to ọdun meji.
 
-Eventually, Vespucci will reach out to the open-source community in an attempt to make the platform decentralized to a great degree . The intention is to decentralize the data ingestion and sentiment scoring functionality in order to provide secure, community led, unbiased and credible results.
+Nikẹhin, Vespucci ma kan si awujọ orisun imọ ni igbiyanju lati mu ki pilatifọọmu naa jẹ alaisilojukan si ipo giga. Erongba naa ni lati sọ awọn ifasara data ati iṣẹ iṣiro iwoyesi di alisilojukan lati le pese aabo, idari ti awujọ, awọn abajade alaiṣegbe ati ti o se finutan.
 
 ![](https://volentix.io/file/2019/01/a.jpg)
 
-By leveraging Python’s Machine learning framework, and given the language’s advantages, it is only natural for this module to be implemented in Python. It interfaces with particular machine learning libraries such as Scikit-learn, TensorFlow, CNTK, Torch, Theano, and Keras.
+By leveraging Python’s Machine learning framework, and given the language’s advantages, it is only natural for this module to be implemented in Python. O n aṣepọ pẹlu awọn pato ile ikowesi ẹkọ ẹrọ gẹgẹbi Scikit-learn, TensorFlow, CNTK, Torch, Theano, ati Keras.
 
 ‪A user experience linking to the cryptocurrency’s public community forum is developed to provide up to date announcements and statistics of community activity. The final score can be derived as a scoring function. Eventually, machine learning techniques are applied to deliver real-time sentiment analysis.‬
 
