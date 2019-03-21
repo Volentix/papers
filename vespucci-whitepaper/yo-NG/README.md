@@ -86,7 +86,7 @@ Nikẹhin, Vespucci ma kan si awujọ orisun imọ ni igbiyanju lati mu ki pilat
 
 By leveraging Python’s Machine learning framework, and given the language’s advantages, it is only natural for this module to be implemented in Python. O n aṣepọ pẹlu awọn pato ile ikowesi ẹkọ ẹrọ gẹgẹbi Scikit-learn, TensorFlow, CNTK, Torch, Theano, ati Keras.
 
-Ìrírí olumulo kan tí o sopọ mọ apero àwùjọ gbangba ti owo kiripito jẹ gbigbedide lati pese awọn ikede ati awọn alaye isiro atigbadegba ti iṣiṣẹ awujọ. The final score can be derived as a scoring function. Eventually, machine learning techniques are applied to deliver real-time sentiment analysis.‬
+Ìrírí olumulo kan tí o sopọ mọ apero àwùjọ gbangba ti owo kiripito jẹ gbigbedide lati pese awọn ikede ati awọn alaye isiro atigbadegba ti iṣiṣẹ awujọ. Iṣiro ikẹhin le ṣee ri gba gẹgẹbi iṣẹ iseṣiro. Eventually, machine learning techniques are applied to deliver real-time sentiment analysis.‬
 
 <table>
   <tr>
