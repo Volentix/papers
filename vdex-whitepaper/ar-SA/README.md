@@ -6,7 +6,7 @@
 
 ## 1. المقدمة
 
-Volentix تقدم VDex، مصمم كموزع ومبادل لا مركزي لتبادل الأصول الرقمية مع التركيز على تجربة المستخدم وتنمية المجتمع والإدارة. من خلال النفاذ إلى التقنيات المعمول بها والتخطيط لبروتوكولات جديدة مختارة مع إعطاء الأولوية للأمان، السرعة، المصادقة، سهولة الاستخدام، قابلية التوسع ودعم الممتلكات المتعددة، تعتزم VDex تسهيل معاملات نظير إلى نظير من خلال تجميع مجموعة من التطبيقات اللامركزية المبنية على العقود الذكية الخاصة بـ EOS.IO.
+Volentix تقدم VDex، مصمم كموزع ومبادل لا مركزي لتبادل الأصول الرقمية مع التركيز على تجربة المستخدم وتنمية المجتمع والإدارة. من خلال النفاذ إلى التقنيات المعمول بها والتخطيط لبروتوكولات جديدة مختارة مع إعطاء الأولوية للأمان، السرعة، المصادقة، سهولة الاستخدام، قابلية التوسع ودعم الممتلكات المتعددة، تعتزم VDex تسهيل معاملات النظير إلى النظير من خلال تجميع مجموعة من التطبيقات اللامركزية المبنية على العقود الذكية الخاصة بـ EOS.IO.
 
 تستبق نقطة تشغيل VDex مطابقة متطلبات تصميم Volentix إلى التكنولوجيات المتاحة التي تم تركيبها على نظام التشغيل اللامركزي الخاص بـ EOS.IO. نعتزم إختبار إفتراضاتنا عن طريق النماذج الأولية عبر برنامج EZEOS المخصص، الذي قمنا ببنائه وتخصيصه بإستخدام أدوات الأوامر النصية الخاصة بـ EOS.IO. البرنامج موجود في: https://github.com/Volentix/ezeos
 
@@ -24,7 +24,7 @@ Venue التي تم إطلاقها مؤخرًا في الاختبار التجر
 
 ### 2.2 VERTO
 
-Verto is being built as a multi-currency wallet for use with the VDex decentralized exchange, and intends to facilitate personal custody and local management of private and public keys in peer-to-peer transactions, with the goal of eliminating the risks of devastating losses of stake associated with traumatic failures of central operators. Verto plans to employ a system of smart contracts to maintain the state between two trading clients, the simplest operations being accomplished with atomic swaps.[1]
+يتم بناء Verto كمحفظة متعددة العملات للإستخدام مع المبادل اللامركزي الخاص bـ VDex، وتعتزم تسهيل الوصاية الشخصية والإدارة المحلية للمفاتيح الخاصة والعامة في معاملات النظير إلى النظير، بهدف القضاء على مخاطر الخسائر المدمرة المرتبطة بفشل alمشغلين المركزيين. Verto plans to employ a system of smart contracts to maintain the state between two trading clients, the simplest operations being accomplished with atomic swaps.[1]
 
 ### 2.3 VESPUCCI
 
