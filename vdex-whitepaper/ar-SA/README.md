@@ -24,13 +24,13 @@ Venue التي تم إطلاقها مؤخرًا في الاختبار التجر
 
 ### 2.2 VERTO
 
-يتم بناء Verto كمحفظة متعددة العملات للإستخدام مع المبادل اللامركزي الخاص بـ VDex، وتعتزم تسهيل الوصاية الشخصية والإدارة المحلية للمفاتيح الخاصة والعامة في معاملات النظير إلى النظير، بهدف القضاء على مخاطر الخسائر المدمرة المرتبطة بفشل alمشغلين المركزيين. تخطط Verto لتوظيف نظام من العقود الذكية للحفاظ على الحالة بين عميلين تجاريين، أبسط العمليات يتم إنجازها من خلال مقايضات ذرية.[1]
+يتم بناء Verto كمحفظة متعددة العملات للإستخدام مع المبادل اللامركزي الخاص بـ VDex، وتعتزم تسهيل الوصاية الشخصية والإدارة المحلية للمفاتيح الخاصة والعامة في معاملات النظير إلى النظير، بهدف القضاء على مخاطر الخسائر المدمرة المرتبطة بفشل المشغلين المركزيين. تخطط Verto لتوظيف نظام من العقود الذكية للحفاظ على الحالة بين عميلين تجاريين، أبسط العمليات يتم إنجازها من خلال مقايضات ذرية.[1]
 
-### 2.3 VESPUCCI
+### 3.2 VESPUCCI
 
-Vespucci is envisioned as an analytics engine accessible via a user-friendly interface with treasure troves of real-time and historical market data, such as digital assets ratings and sentiment analysis. We wish to empower users with tools to graph and compare tradeable digital assets, to access and parse historical trading records, to plot trends and patterns, and to monitor and assess open-source software developments. Vespucci seeks to bring to your fingertips confident and comprehensive market-relevant data by aggregating the information currently scattered throughout many different blockchains, websites, chat rooms, and exchanges.
+من المتوقع أن يكون Vespucci بمثابة محرك تحليلي يمكن الوصول إليه عبر واجهة سهلة الاستخدام مع مجموعة قيمة من بيانات السوق الحقيقية والتاريخية، مثل تقييمات الأصول الرقمية وتحليل نزعة السوق. نرغب في تزويد المستخدمين بأدوات لرسم ومقارنة الأصول الرقمية القابلة للتداول، الوصول إلى سجلات التداول التاريخية وتحليلها، رسم الاتجاهات والأنماط، مراقبة وتقييم تطوير البرمجيات مفتوحة المصدر. Vespucci seeks to bring to your fingertips confident and comprehensive market-relevant data by aggregating the information currently scattered throughout many different blockchains, websites, chat rooms, and exchanges.
 
-### 2.4 VDEX
+### 4.2 VDEX
 
 The fourth pillar of Volentix, the VDex exchange, is the tradable digital assets platform introduced in detail in this white paper. For smooth and secure usability, we plan VDex to integrate with your own personal Verto wallet and Vespucci interface. We expect VDex to be able to manage transactions involving both VTX and the vast array of digital assets and blockchains extant from time to time throughout the world. We are developing Venue as a complementary adjunct primarily in order to incentivize and drive native VTX-based initiatives.
 
