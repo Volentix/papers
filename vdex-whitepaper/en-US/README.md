@@ -10,12 +10,12 @@ Volentix introduces VDex, designed as a distributed, decentralized digital asset
 
 The VDex launch point anticipates matching Volentix's design requirements to available technologies superimposed on the EOS.IO decentralized operating system. We intend to test our assumptions by prototyping via custom EZEOS software, which we built and customized with EOS.IO's cleos command line tools. This software resides at: https://github.com/Volentix/ezeos
 
-![](../10.jpg)
+![](../10.png)
 ## 2. VOLENTIX
 
 The Volentix ecosystem will exist atop four pillars, an initializing array of applications specifically known as Venue, Verto, Vespucci, and VDex.
 
-![](../2.jpg)
+
 ### 2.1 VENUE
 
 Venue is planned as a dynamic community platform that recruits and aligns members of the Volentix community to facilitate distribution of VTX, the native digital asset of the Volentix ecosystem, and to promote awareness of Volentix initiatives. 
@@ -23,17 +23,17 @@ Venue is planned as a dynamic community platform that recruits and aligns member
 Recently launched in beta testing, Venue enables users to receive VTX in exchange, for example, for participating in developing dedicated communities, submitting bug fixes, and claiming bounties. Leaderboards and live metrics reflect user participation. The first signature campaign was launched on the https://bitcointalk.org/ forum on July 13, 2018. Please visit https://venue.volentix.io for more information.
 
 
-![](../3.jpg)
+
 ### 2.2 VERTO
 
 Verto is being built as a multi-currency wallet for use with the VDex decentralized exchange, and intends to facilitate personal custody and local management of private and public keys in peer-to-peer transactions, with the goal of eliminating the risks of devastating losses of stake associated with traumatic failures of central operators. Verto plans to employ a system of smart contracts to maintain the state between two trading clients, the simplest operations being accomplished with atomic swaps.[1]
 
-![](../4.jpg)
+
 ### 2.3 VESPUCCI
 
 Vespucci is envisioned as an analytics engine accessible via a user-friendly interface with treasure troves of real-time and historical market data, such as digital assets ratings and sentiment analysis. We wish to empower users with tools to graph and compare tradeable digital assets, to access and parse historical trading records, to plot trends and patterns, and to monitor and assess open-source software developments. Vespucci seeks to bring to your fingertips confident and comprehensive market-relevant data by aggregating the information currently scattered throughout many different blockchains, websites, chat rooms, and exchanges. 
 
-![](../1.jpg)
+
 ### 2.4 VDEX
 
 The fourth pillar of Volentix, the VDex exchange, is the tradable digital assets platform introduced in detail in this white paper. For smooth and secure usability, we plan VDex to integrate with your own personal Verto wallet and Vespucci interface. We expect VDex to be able to manage transactions involving both VTX and the vast array of digital assets and blockchains extant from time to time throughout the world. We are developing Venue as a complementary adjunct primarily in order to incentivize and drive native VTX-based initiatives. 
