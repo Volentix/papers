@@ -32,7 +32,7 @@ Venue التي تم إطلاقها مؤخرًا في الاختبار التجر
 
 ### 4.2 VDEX
 
-The fourth pillar of Volentix, the VDex exchange, is the tradable digital assets platform introduced in detail in this white paper. For smooth and secure usability, we plan VDex to integrate with your own personal Verto wallet and Vespucci interface. We expect VDex to be able to manage transactions involving both VTX and the vast array of digital assets and blockchains extant from time to time throughout the world. We are developing Venue as a complementary adjunct primarily in order to incentivize and drive native VTX-based initiatives.
+العمود الرابع من Volentix، مبادل VDex، هو عبارة عن منصة الأصول الرقمية القابلة للتداول والتي تم تقديمها بالتفصيل في هذه الورقة البيضاء. لسهولة الاستخدام السلس والآمن، نخطط لدمج VDex مع محفظة Verto الشخصية الخاصة بك وواجهة Vespucci. We expect VDex to be able to manage transactions involving both VTX and the vast array of digital assets and blockchains extant from time to time throughout the world. We are developing Venue as a complementary adjunct primarily in order to incentivize and drive native VTX-based initiatives.
 
 ## 3. ARCHITECTURE
 
