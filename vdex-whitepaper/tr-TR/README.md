@@ -250,7 +250,7 @@ A race attack occurs when two conflicting transactions are sent in rapid success
 
 A Finney attack pre-mines one transaction into a block and spends the same tokens before releasing the block to invalidate that transaction.
 
-A 51% attack can be mounted by anyone owning >50% of the total computing power of a network. A majority ownership position permits reversal of any transaction and allows total control of selection of transactions appearing in blocks. EOS.IO, Loopring, and RAFT appear to prevent this problem. If a block producer takes an unreasonable amount of runtime or is not sufficiently profitable, then the process is blacklisted.[5]
+A 51% attack can be mounted by anyone owning >50% of the total computing power of a network. A majority ownership position permits reversal of any transaction and allows total control of selection of transactions appearing in blocks. EOS.IO, Loopring ve RAFT bu problemi önlüyor gibi görünüyor. If a block producer takes an unreasonable amount of runtime or is not sufficiently profitable, then the process is blacklisted.[5]
 
 #### 3.9.2 Ön koşu
 
