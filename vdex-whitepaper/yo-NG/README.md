@@ -1,7 +1,7 @@
 # IWE FUNFUN TI VOLENTIX VDEX
 
 - Ẹyà: 0.1.4
-- Updated: 11-03-2019
+- Ìmúdójúìwọ̀n waye ni: 11-03-2019
 - Aaye ayelujara: www.volentix.io
 
 ## 1. IFIHAN
