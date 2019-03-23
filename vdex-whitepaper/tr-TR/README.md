@@ -1,7 +1,7 @@
 # VOLENTIX VDEX TANITIM BELGESİ
 
 - Sürüm: 0.1.4
-- Updated: 11-03-2019
+- Güncellendi: 11-03-2019
 - Web sitesi: www.volentix.io
 
 ## 1. GİRİŞ
