@@ -128,17 +128,17 @@ Residing on the aggregator, offline order books serve for simulator and security
 
 #### 3.2.4 Emir defteri anlaşmasının merkezi olmayan süreci
 
-For decentralization purposes, nodes will take turns to settle the order book. The settling node must be designated by the protocol and all order book entries from all nodes must be available to the settling nodes. We believe the RAFT[9] and PARSEC[10] consensus mechanisms offer effective solutions. RAFT is a well-established algorithm and is easy to implement.[7] PARSEC is more recent and more efficient, using Directed Acyclic Graph (DAG) technology and eliminating the need for copying logs.
+For decentralization purposes, nodes will take turns to settle the order book. The settling node must be designated by the protocol and all order book entries from all nodes must be available to the settling nodes. We believe the RAFT[9] and PARSEC[10] consensus mechanisms offer effective solutions. RAFT iyi kurulmuş bir algoritmadır ve uygulaması kolaydır.[7] PARSEC, Yönlendirilmiş Asiklik Grafik (DAG) teknolojisini kullanarak ve günlükleri kopyalama ihtiyacını ortadan kaldırarak daha yeni ve daha verimlidir.
 
 ### 3.3 EMİR VERME
 
-Order settlement contains familiar elements of conventional financial market transactions. Utilizing FIFO technology to design the order book, VDex intends to check order, inventory, and fill rate, as well as limit orders and cancellations.
+Order settlement contains familiar elements of conventional financial market transactions. Emir defterini tasarlamak için FIFO teknolojisini kullanan VDex, emirleri, stokları ve doldurma oranlarını kontrol etmenin yanı sıra, limitli emirler ve iptalleri de sınırlamayı amaçlamaktadır.
 
 ### 3.4 VTX
 
 #### 3.4.1 VTX Çıkarma ve Kullanımı
 
-VTX is the native digital asset to be issued and used on the VDex decentralized exchange. We currently plan to use an eosio.token contract from the EOS.IO framework to issue 2.1 billion EOS.IO-compliant VTX tokens with a supply of 1.3 billion. VTX will have a diverse array of uses, for example:
+VTX is the native digital asset to be issued and used on the VDex decentralized exchange. Şu anda EOS.IO çerçevesinden 2.1 milyar EOS.IO uyumlu VTX tokenleri çıkması için 1.3 milyar tedarikle birlikte bir eosio.token sözleşmesini kullanmayı planlıyoruz. VTX will have a diverse array of uses, for example:
 
 To reward participants in the consensus process and in Venue campaigns.
 
@@ -160,21 +160,21 @@ A digital assets ecosystem requires an array of certain fundamental human consti
 
 2. Destekçiler.
 
-Phase 1. 5%. Early passive seed funders.
+1. Aşama %5. Early passive seed funders.
 
-Phase 2. 28%. Funders via qualified private pre-sales and possible public sale.
+2. Aşama %28. Funders via qualified private pre-sales and possible public sale.
 
 3. Yardımcılar. (Danışmanlar, Geliştiriciler, Destekleyiciler, Saklayıcılar). Bu kategorideki alt kategorilerden yardım taleplerinin, projenin önemli miktarda finansman desteği almadan önce ve sonra önemli ölçüde farklılık gösterebileceğini unutmayın ancak bazı kişiler her iki aşamada da hizmet verebilir.
 
-Phase 1. 10%.
+1. Aşama %10.
 
-Phase 2. 10%.
+2. Aşama %10.
 
 4. Merkezi olmayan hazine. %35. Topluluk üyeleri merkezi olmayan özerk bir organizasyonun (DAO) ilerici gelişimine katılım için teşvik edildi ve ödüllendirildi. Merkezi olmayan bir hazinenin akıllı sözleşmeler ve topluluk fikir birliği ile yönetilmesi bekleniyor.
 
 #### 3.4.3 VTX Dağıtımı
 
-In light of market conditions at the time of this writing, Volentix is considering timing, means, and terms and conditions of VTX distribution as a function of private pre-sales and possible public sale. Please monitor our website for updates.
+Bu yazı sırasındaki piyasa koşulları ışığında Volentix, VTX dağıtımının zamanlamasını, araçlarını ve şartlarını ve koşullarını özel satış öncesi ve olası kamu satışının bir fonksiyonu olarak görüyor. Please monitor our website for updates.
 
 ### 3.5 EOS.IO PLATFORM DAĞITIMI
 
@@ -254,7 +254,7 @@ A 51% attack can be mounted by anyone owning >50% of the total computing power o
 
 #### 3.9.2 Ön koşu
 
-A front runner steals one or more orders from a pending order book settlement transaction. Both EOS.IO and Loopring offer remedies in which keys are protected because they are not part of the on-chain transaction, and therefore remain unknown to parties other than the owner. Only the order book settling node is possessed of the sensitive information, and each node uses a different solution for resolving the order books, introducing yet another level of complexity to promote security.
+A front runner steals one or more orders from a pending order book settlement transaction. Hem EOS.IO hem de Loopring, açık zincir işleminin bir parçası olmadığından, anahtarların korunduğu için çözümler sunar ve bu nedenle de mal sahibi dışındaki şahıslar tarafından bilinmeyen olarak kalırlar. Yalnızca emir defteri anlaşma düğümü hassas bilgilere sahiptir ve her düğüm, emir defterlerini çözmek için farklı bir çözüm kullanır, güvenliği arttırmak için başka bir karmaşıklık seviyesi sunar.
 
 #### 3.9.3 Sahte kimlikler
 
@@ -266,11 +266,11 @@ Malicious users sign and spread orders the value of which is non-zero but the ad
 
 #### 3.9.5 Zamanlama saldırısı
 
-Timing attacks are a class of cryptographic attacks through which a third-party observer can deduce the content of encrypted data by recording and analyzing the time taken to execute cryptographic algorithms. The RAFT algorithm prevents timing attacks by using randomness of timeouts.
+Zamanlama saldırıları, üçüncü taraf bir gözlemcinin şifreleme algoritmalarını yürütmek için harcanan zamanı kaydederek ve analiz ederek şifreli veri içeriğini toplayacağı bir şifreleme saldırısı sınıfıdır. The RAFT algorithm prevents timing attacks by using randomness of timeouts.
 
 ### 3.10 KULLANICI DENEYİMİ
 
-Our focus on user experience is primary. We wish to make VTX and the four pillars of Volentix -- Venue, Verto, Vespucci, and VDex -- easily accessible to and useable by all those who wish to join our community. We expect the experience continually to be educational as well, with templates and simulators to support a superior UX/UI relationship.
+Kullanıcı deneyimine odaklanmamız önceliklidir. VTX ve Volentix'in dört ayağını -- Venue, Verto, Vespucci ve VDex -- topluluğumuza katılmak isteyen herkes tarafından kolayca erişilebilir ve kullanılabilir hale getirmek istiyoruz. We expect the experience continually to be educational as well, with templates and simulators to support a superior UX/UI relationship.
 
 ### 3.11 DOĞRU MERKEZSİZLEŞME
 
