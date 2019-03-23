@@ -45,7 +45,7 @@ Vespucci'nin özellikleri aşağıdaki gibidir.
 * Transparency in methodology (data sources, ingestion mechanism, data manipulation process, algorithms)
 * Geniş kaynak spektrumu (taraflı verileri önlemek için)
 * Modular design that offers the ability to extend the platform to other applications such as smart contracts.
-* Security: Data Sources on EOS Blockchain (VLabs)
+* Güvenlik: EOS Blok Zinciri Üzerindeki Veri Kaynakları (VLabs)
 * High accuracy using sophisticated Evaluation methods, AI, and Deep Learning
 * Intuitive algorithms, possibility for weighs given by user, Post-processing for humans.
 * #### **PRENSİPLER**
