@@ -276,7 +276,7 @@ Kullanıcı deneyimine odaklanmamız önceliklidir. VTX ve Volentix'in dört aya
 
 EOS.IO is an open-source, scalable infrastructure for decentralized applications. Its goal is a fair and transparent block producer (BP) election process utilizing a democratic delegated proof of stake (DPoS) consensus. Particularly as such a system just begins to proliferate, there will be glitches. Therefore, some degree of retained centralization is inevitable and necessary. But our guiding philosophy is one of decentralization, and our ongoing efforts are targeted to promoting a reduction in dependence on central authority.
 
-For example, initially we plan to erect a system for electing nodes (when solving order books) that will not use a shared central clock or DPoS but instead will be based either on random timeouts for the determination of leaders in an election (RAFT) or on Directed Acyclic Graph (DAG) in the PARSEC protocol.
+Örneğin, başlangıçta paylaşılan bir merkezi saat ya da DPoS kullanmayacak ancak bunun yerine, bir seçimdeki liderlerin (RAFT) belirlenmesi için rastgele zaman aşımlarına ya da düğümlerin seçilmesi için (emir kitaplarını çözerken) PARSEC protokolünde Yönlendirilmiş Asiklik Grafiği'ne (DAG) dayanacak olan bir sistem kurmayı planlıyoruz.
 
 ### 3.12 SİSTEM KURTARMA
 
@@ -284,7 +284,7 @@ The RAFT and PARSEC protocols provide a robust system for recovery in the case o
 
 ### 3.13 GELİŞEN MİMARİ
 
-Daily announcements of fresh code developments impacting on use of digital assets reveal the tremendous benefit of the open-source code philosophy. We at Volentix recognize we are the beneficiaries of the enormous financial resources dedicated by many early movers to developing digital assets applications over the past decade. We now have an opportunity to take the next step by creating VDex, a decentralized exchange for the next generation of digital assets transactions.
+Daily announcements of fresh code developments impacting on use of digital assets reveal the tremendous benefit of the open-source code philosophy. Volentix olarak son on yılda dijital varlık uygulamaları geliştirmeye yönelik birçok erken göçmen tarafından tahsis edilen muazzam finansal kaynakların lehtarları olduğumuzu biliyoruz. We now have an opportunity to take the next step by creating VDex, a decentralized exchange for the next generation of digital assets transactions.
 
 ## 4. SON DÜŞÜNCELER
 
@@ -292,11 +292,11 @@ All of us at Volentix are dedicating our work and insights to developing a progr
 
 ## 5. ZAMAN ÇİZELGESİ
 
-Please monitor our website and social media for updates and other important announcements. Thank you very much for your attention and interest.
+Please monitor our website and social media for updates and other important announcements. İlginiz ve dikkatiniz için çok teşekkür ederiz.
 
 ## FERAGATNAME
 
-This white paper was prepared, and is presented, for information purposes only. The information presented does not purport to be comprehensive. The information is subject to change in whole or in part at any time without notice. Volentix Labs reserves the right to amend, replace, remove, or delete any and all information at the sole and exclusive discretion of Volentix. Volentix Labs makes no representation or warranty, expressed or implied, concerning the accuracy or completeness of the information and expressly disclaims any and all liability of any and all kinds whatsoever for the information contained or not contained. Volentix Labs requests each and every reader to read the information fully and carefully, and to undertake independent investigation and analysis of the information, and to seek and obtain professional advice for purposes of evaluating the information. To the knowledge of Volentix Labs, no regulatory agency, government, or other third-party enforcement entity has reviewed, evaluated, or approved any part or all of the information. This information is not an offer or solicitation of any kind whatsoever and does not form the basis for any contract or commitment of any kind whatsoever. Any statement considered to be forward-looking is purely a matter of opinion, and no viewer should rely on any such statement or on any part or all of the information in any way whatsoever.
+Bu tanıtım belgesi, sadece bilgi amaçlı hazırlanmış ve sunulmuştur. The information presented does not purport to be comprehensive. The information is subject to change in whole or in part at any time without notice. Volentix Labs reserves the right to amend, replace, remove, or delete any and all information at the sole and exclusive discretion of Volentix. Volentix Labs makes no representation or warranty, expressed or implied, concerning the accuracy or completeness of the information and expressly disclaims any and all liability of any and all kinds whatsoever for the information contained or not contained. Volentix Labs requests each and every reader to read the information fully and carefully, and to undertake independent investigation and analysis of the information, and to seek and obtain professional advice for purposes of evaluating the information. To the knowledge of Volentix Labs, no regulatory agency, government, or other third-party enforcement entity has reviewed, evaluated, or approved any part or all of the information. This information is not an offer or solicitation of any kind whatsoever and does not form the basis for any contract or commitment of any kind whatsoever. Any statement considered to be forward-looking is purely a matter of opinion, and no viewer should rely on any such statement or on any part or all of the information in any way whatsoever.
 
 ## DİPNOTLARI
 
@@ -326,11 +326,11 @@ This white paper was prepared, and is presented, for information purposes only. 
 
 ## EK REFERANSLAR
 
-Aelf, A multi-chain parallel computing blockchain framework, (2018).
+Aelf, Bir çoklu zincir paralel hesaplama blok zinciri çatısı, (2018).
 
 ARK, A platform for consumer adoption, (2018).
 
-V. Buterin, Ethereum: a next generation smart contract and decentralized application platform, (2013).
+V. Buterin, Ethereum: yeni nesil akıllı sözleşme ve merkezi olmayan bir uygulama platformu, (2013).
 
 S. Cormier, A machine based societal model for curbing citizen cynicism, (2017).
 
@@ -344,7 +344,7 @@ Komodo, An advanced blockchain technology, focused on freedom, (2018).
 
 Q. Liquid, Providing liquidity to the non-liquid crypto economy, (2018).
 
-S. R. M.P.M-S, Aniket Kate Matteo Maffei, Concurrency and privacy with payment-channel networks, (2017).
+S. R. M.P.M-S, Aniket Kate Matteo Maffei, Ödeme kanalı ağlarıyla eş zamanlılık ve gizlilik, (2017).
 
 SingularityNET, A decentralized, open market and inter-network for ais, (2018).
 
