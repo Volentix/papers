@@ -46,7 +46,7 @@ La maggior parte delle tecniche di scalabilità proposte da Ethereum (Sharding, 
 
 ### Conversione Binaria/JSON
 
-I contratti EOS combinano la leggibilità umana della JSON con l'efficienza della binaria.
+I contratti EOS combinano la leggibilità umana di JSON con l'efficienza della binaria.
 
 ### Parallelizzazione e ottimizzazione
 
