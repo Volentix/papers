@@ -42,7 +42,7 @@ We have evaluated various operating systems as candidates for the substructure o
 
 ### Ücretsiz İçerik İşlemleri
 
-Ethereum (Sharding, Raiden, Plazma, Devlet Kanalları) tarafından önerilen ölçeklenebilirlik tekniklerinin çoğu daha verimli, paralelleştirilebilir ve aynı zamanda hızlı bir şekilde bloklar arası iletişim ve zarar görmemiş ölçeklenebilirlik sağlarken pratik hale gelir. A Context Free Action involves computations that depend only on transaction data, and not upon the blockchain state.
+Ethereum (Sharding, Raiden, Plazma, Devlet Kanalları) tarafından önerilen ölçeklenebilirlik tekniklerinin çoğu daha verimli, paralelleştirilebilir ve aynı zamanda hızlı bir şekilde bloklar arası iletişim ve zarar görmemiş ölçeklenebilirlik sağlarken pratik hale gelir. Ücretsiz Bir Bağlam Hareketi blok zinciri durumuna değil, yalnızca işlem verilerine dayanan hesaplamaları içerir.
 
 ### Binary/JSON dönüştürme
 
