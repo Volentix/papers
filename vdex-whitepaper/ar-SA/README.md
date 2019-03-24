@@ -38,9 +38,9 @@ Venue التي تم إطلاقها مؤخرًا في الاختبار التجر
 
 #### 1.0.3 نظام التشغيل
 
-قمنا بتقييم العديد من أنظمة التشغيل كمرشحين للبنية التحتية لمبادل VDex. على الرغم من أننا نقدر العمل الذي قام به عدد من القادة الرائدين في مجال الأصول الرقمية وتكنولوجيا سلاسل الكتل، من بين هؤلاء الرواد، فإن عمل EOS.IO كهيكل شبيه بنظام التشغيل والذي يمكن أن تبنى عليه التطبيقات اللامركزية، نعتقد أنه مثالي. يوفر البرنامج الحسابات، الإستيثاق، قواعد البيانات، الإتصال غير المتزامن والجدولة عبر العناقيد. Components and protocols are already built into the platform, and a subset can be used to satisfy our VDex requirements. VDex will initially benefit from the standard features offered by EOS.IO such as account and wallet creation and the recovery of stolen keys, but we plan subsequently to implement protocols for creation of a decentralized exchange through EOS contracts and other tools.[2] Here is a summary of encouraging methodologies:
+قمنا بتقييم العديد من أنظمة التشغيل كمرشحين للبنية التحتية لمبادل VDex. على الرغم من أننا نقدر العمل الذي قام به عدد من القادة الرائدين في مجال الأصول الرقمية وتكنولوجيا سلاسل الكتل، من بين هؤلاء الرواد، فإن عمل EOS.IO كهيكل شبيه بنظام التشغيل والذي يمكن أن تبنى عليه التطبيقات اللامركزية، نعتقد أنه مثالي. يوفر البرنامج الحسابات، الإستيثاق، قواعد البيانات، الإتصال غير المتزامن والجدولة عبر العناقيد. المكونات والبروتوكولات تم بناؤها بالفعل في المنصة، ويمكن إستخدام مجموعة فرعية لتلبية متطلبات VDex. سيستفيد VDex مبدئيًا من الميزات القياسية التي يوفرها EOS.IO مثل إنشاء الحساب والمحفظة وإستعادة المفاتيح المسروقة، لكننا نخطط لاحقًا لتطبيق بروتوكولات لإنشاء مبادل غير مركزي من خلال عقود EOS وغيرها من الأدوات.[2] فيما يلي ملخص للمنهجيات المشجعة:
 
-### Context Free Actions
+### إجراءات خالية من السياق
 
 Most of the scalability techniques proposed by Ethereum (Sharding, Raiden, Plasma, State Channels) become more efficient, parallelizable, and practical while also ensuring speedy inter-blockchain communication and unimpaired scalability. A Context Free Action involves computations that depend only on transaction data, and not upon the blockchain state.
 
