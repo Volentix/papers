@@ -32,17 +32,17 @@ Vespucci jẹ fifojusun gẹgẹbi ohun elo iyanana ti o se wọle si nipasẹ i
 
 ### 2.4 VDEX
 
-Opo kẹrin ti Volentix, ibi ipaṣipaarọ VDex, jẹ pilatifọọmu ṣiṣe owo awọn ohun-ini oni-nọmba ti a ṣe alaye ninu iwe funfun yii. For smooth and secure usability, we plan VDex to integrate with your own personal Verto wallet and Vespucci interface. We expect VDex to be able to manage transactions involving both VTX and the vast array of digital assets and blockchains extant from time to time throughout the world. We are developing Venue as a complementary adjunct primarily in order to incentivize and drive native VTX-based initiatives.
+Opo kẹrin ti Volentix, ibi ipaṣipaarọ VDex, jẹ pilatifọọmu ṣiṣe owo awọn ohun-ini oni-nọmba ti a ṣe alaye ninu iwe funfun yii. Fun lilo ti o dan mọran ati ti o ni aabo, a gbero lati jẹki VDex ṣiṣẹpọ pẹlu apo owo Verto ti ara rẹ ati intafeesi Vespucci. A reti pe ki VDex ni anfani lati ṣakoso awọn iṣowo ti o jẹmọ VTX ati eto ọpọlọpọ awọn ohun-ini oni-nọmba ati awọn blockchain ti o si wa laye lati igba de igba jakejado agbalaye. A n se agbedide Venue gẹgẹbi alabaṣiṣẹpọ ni pato lati ma peṣe iwuri ati atilẹyin fun awọn eto-atinuda ibilẹ ti o da lori VTX.
 
 ## 3. IYAWORAN
 
 #### 3.0.1 Eto Isẹ sise ori ẹrọ
 
-We have evaluated various operating systems as candidates for the substructure of our VDex exchange. Though we honor the work done by a number of the established leaders in digital assets and blockchain technology, among those trailblazers the work of EOS.IO as an operating system-like framework upon which decentralized applications can be built stands out, in our opinion, as exemplary. The software provides accounts, authentication, databases, asynchronous communication, and scheduling across clusters. Components and protocols are already built into the platform, and a subset can be used to satisfy our VDex requirements. VDex will initially benefit from the standard features offered by EOS.IO such as account and wallet creation and the recovery of stolen keys, but we plan subsequently to implement protocols for creation of a decentralized exchange through EOS contracts and other tools.[2] Here is a summary of encouraging methodologies:
+A ti ṣe agbeyẹwo awọn orisirisi eto isẹ sise ori ẹrọ bi awọn oludije fun ipilẹ ti ibi ipaṣipaarọ VDex wa. Bi o tilẹ ṣepe a bọwọ fun iṣẹ ti awọn asaaju ti o ti fẹsẹrinlẹ ni idi awọn ohun-ini oni-nọmba ati imọ-ẹrọ blockchain ti se, ninu awọn assaju naa iṣẹ ti EOS.IO gẹgẹbi ilana eto isẹ ṣiṣe ti ori ẹrọ lori eyi ti a ti le se agbedide awọn ohun elo alaisilojukan da yatọ, ninu ero wa, bi awokọṣe. Software naa pese awọn akọọlẹ, ìfàṣẹsí, awọn ibi ipamọ data, ibaraẹnisọrọ alailo aago, ati ṣiṣe eto kari awọn iṣupọ. Awọn ẹya ohun elo ati awọn Ilana ti wa ni kikọ tẹlẹ sinu pilatifọọmu naa, ati pe ẹya kan le jẹ lilo lati le ni ibaamu pẹlu awọn ibeere VDex wa. VDex yoo kọkọ jẹ anfani lati ara awọn ẹya to pewọn ti EOS.IO n funni gẹgẹbi akọọlẹ ati sisẹda apo owo ati gbigba awọn kọkọrọ ti o jẹ jiji pada, ṣugbọn a gbero totẹlera lati ṣe amulo awọn ilana fun ṣiṣẹda ibi ipasiparọ alaisilojukan nipasẹ awọn iwe adehun EOS ati awọn irinṣẹ miran.[2] Eyi ni alaye isọniṣoki awọn ilana amoriya:
 
 ### Awọn Igbesẹ Alaini Aami itọka
 
-Most of the scalability techniques proposed by Ethereum (Sharding, Raiden, Plasma, State Channels) become more efficient, parallelizable, and practical while also ensuring speedy inter-blockchain communication and unimpaired scalability. A Context Free Action involves computations that depend only on transaction data, and not upon the blockchain state.
+Ọpọlọpọ awọn ilana ipele agbara odiwọn ti Ethereum gbero (Sharding, Raiden, Plasma, State Channels) tubọ sisẹ si, o ṣe mu dọgba, ati pe o bojumu nigba ti o n ṣe aridaju iyara ibaraẹnisọrọ laarin-blockchain ati aidibajẹ ipele agbara odiwọn. Igbesẹ Alaini Aami itọka jẹmọ awọn isiro ti o dalori data idunadura nikan, ko kin ṣe lori ipo blockchain.
 
 ### Iyipada Binary/JSON
 
