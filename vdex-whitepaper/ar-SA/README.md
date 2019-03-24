@@ -42,15 +42,15 @@ Venue التي تم إطلاقها مؤخرًا في الاختبار التجر
 
 ### إجراءات خالية من السياق
 
-معظم تقنيات قابلية التوسع التي تقدمها Ethereum مثل (Plasma ، Raiden ،Sharding وState Channels) تصبح أكثر فاعلية، متوازية وعملية مع ضمان أيضا إتصال سريع بين سلاسل الكتل وقابلية للتوسعة دون عيوب. A Context Free Action involves computations that depend only on transaction data, and not upon the blockchain state.
+معظم تقنيات قابلية التوسع التي تقدمها Ethereum مثل (Plasma ، Raiden ،Sharding وState Channels) تصبح أكثر فاعلية، متوازية وعملية مع ضمان أيضا إتصال سريع بين سلاسل الكتل وقابلية للتوسعة دون عيوب. يشمل الإجراء الخالي من السياق عمليات حسابية تعتمد فقط على بيانات المعاملة، وليس على حالة سلسلة الكتل.
 
-### Binary/JSON conversion
+### التحويل Binary/JSON
 
-EOS contracts combine the human readability of JSON with the efficiency of binary.
+تجمع عقود EOS بين قابلية قراءة JSON وكفاءة الـ binary.
 
-### Parallelization and optimization
+### الموازاة والتحسين
 
-Separating authentication from application allows faster transaction times and increases bandwidth. EOS.IO blocks are reportedly produced every 500ms.
+فصل الإستيثاق من التطبيق يتيح مدة معاملات أسرع ويزيد من النطاق الترددي. يتم إنتاج كتل EOS.IO كل 500 مللي ثانية.
 
 ### Web Assembly(WASM)
 
