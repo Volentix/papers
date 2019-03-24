@@ -66,9 +66,9 @@ Venue التي تم إطلاقها مؤخرًا في الاختبار التجر
 
 #### 3.0.3 التواصل بين العقود
 
-تتم مشاركة البيانات بين العقود عبر oracle، والتي، "في سياق سلاسل الكتل والعقود الذكية، هي عبارة عن وكيل يقوم بالبحث عن الأحداث في العالم الحقيقي والتحقق منها ويرسل هذه المعلومات إلى سلسلة الكتل ليتم إستخدامها من قبل العقود الذكية." [4] سيكون لكل عقدة نسخة مماثلة من هذه البيانات، لإستخدامها في حساب العقود الذكية. Rather than the smart contract functioning to pull the data, instead the oracle pushes the data onto the blockchain. In the instance of a blockchain, most reading of the data is done via polling "models" in order to monitor blockchain state and to perform certain responsive actions.
+تتم مشاركة البيانات بين العقود عبر oracle، والتي، "في سياق سلاسل الكتل والعقود الذكية، هي عبارة عن وكيل يقوم بالبحث عن الأحداث في العالم الحقيقي والتحقق منها ويرسل هذه المعلومات إلى سلسلة الكتل ليتم إستخدامها من قبل العقود الذكية." [4] سيكون لكل عقدة نسخة مماثلة من هذه البيانات، لإستخدامها في حساب العقود الذكية. بدلاً من أن يعمل العقد الذكي لسحب البيانات، يدفع oracle بالبيانات إلى سلسلة الكتل. في حالة سلسلة الكتل، تتم قراءة معظم البيانات عبر "نماذج" الاقتراع من أجل مراقبة حالة السلسلة وأداء بعض الإجراءات المتجاوبة.
 
-#### 3.0.4 Sidechains
+#### 4.0.3 السلاسل الجانبية
 
 In EOS.IO, issuance of a digital asset creates a sidechain, which is an emerging mechanism permitting digital assets from one blockchain to be securely used in a separate blockchain and then moved back to the original blockchain. Efficiency of processing is promoted by creating multiple sidechains. A TCP-like communication channel between different blockchains evaluates proofs. For each shard (a unit of parallelizable execution in a cycle), a balanced merkle tree is constructed of these action commitments to generate a temporary shared merkle root; this is done for speed of parallel computation. The block header contains the root of a balanced merkle tree the leaves of which are the roots of these individual shard merkle trees. [2]
 
