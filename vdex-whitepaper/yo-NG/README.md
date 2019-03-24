@@ -70,7 +70,7 @@ Data ma jẹ pinpin laarin awọn adehun nipasẹ oracle kan, eyi ti, "ninu ọr
 
 #### 3.0.4 Awọn ẹka-ẹgbẹgbẹ
 
-Ni EOS.IO, ipinfunni ti ohun-ini oni-nọmba ma n ṣẹda ẹka-ẹgbẹgbẹ kan, eyi ti o jẹ ilana ti o n jade bọ ti o gba awọn ohun-elo oni-nọmba laaye lati jẹ lilo pẹlu aabo lati blockchain kan ninu blockchain miran ti o yatọ ati lẹhinna jẹ didapada si ojulowo blockchain. Iṣiṣẹṣi ti iṣaayan ma n jẹ gbigbelarugẹ nipasẹ ṣiṣẹda awọn ọpọlọpọ awọn ẹka-ẹgbẹgbẹ. A TCP-like communication channel between different blockchains evaluates proofs. For each shard (a unit of parallelizable execution in a cycle), a balanced merkle tree is constructed of these action commitments to generate a temporary shared merkle root; this is done for speed of parallel computation. The block header contains the root of a balanced merkle tree the leaves of which are the roots of these individual shard merkle trees. [2]
+Ni EOS.IO, ipinfunni ti ohun-ini oni-nọmba ma n ṣẹda ẹka-ẹgbẹgbẹ kan, eyi ti o jẹ ilana ti o n jade bọ ti o gba awọn ohun-elo oni-nọmba laaye lati jẹ lilo pẹlu aabo lati blockchain kan ninu blockchain miran ti o yatọ ati lẹhinna jẹ didapada si ojulowo blockchain. Iṣiṣẹṣi ti iṣaayan ma n jẹ gbigbelarugẹ nipasẹ ṣiṣẹda awọn ọpọlọpọ awọn ẹka-ẹgbẹgbẹ. Ikanni ibaraẹnisọrọ kan to dabi ti TCP laarin awọn oniruuru blockchain n ṣe igbelewọn awọn ẹri. For each shard (a unit of parallelizable execution in a cycle), a balanced merkle tree is constructed of these action commitments to generate a temporary shared merkle root; this is done for speed of parallel computation. The block header contains the root of a balanced merkle tree the leaves of which are the roots of these individual shard merkle trees. [2]
 
 #### 3.0.5 Liquidity
 
