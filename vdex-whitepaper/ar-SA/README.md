@@ -6,7 +6,7 @@
 
 ## 1. المقدمة
 
-Volentix تقدم VDex، مصمم كموزع ومبادل لا مركزي لتبادل الأصول الرقمية مع التركيز على تجربة المستخدم وتنمية المجتمع والإدارة. من خلال النفاذ إلى التقنيات المعمول بها والتخطيط لبروتوكولات جديدة مختارة مع إعطاء الأولوية للأمان، السرعة، المصادقة، سهولة الاستخدام، قابلية التوسع ودعم الممتلكات المتعددة، تعتزم VDex تسهيل معاملات النظير إلى النظير من خلال تجميع مجموعة من التطبيقات اللامركزية المبنية على العقود الذكية الخاصة بـ EOS.IO.
+Volentix تقدم VDex، مصمم كموزع ومبادل لا مركزي لتبادل الأصول الرقمية مع التركيز على تجربة المستخدم وتنمية المجتمع والإدارة. من خلال النفاذ إلى التقنيات المعمول بها والتخطيط لبروتوكولات جديدة مختارة مع إعطاء الأولوية للأمان، السرعة، الإستيثاق، سهولة الاستخدام، قابلية التوسع ودعم الممتلكات المتعددة، تعتزم VDex تسهيل معاملات النظير إلى النظير من خلال تجميع مجموعة من التطبيقات اللامركزية المبنية على العقود الذكية الخاصة بـ EOS.IO.
 
 تستبق نقطة تشغيل VDex مطابقة متطلبات تصميم Volentix إلى التكنولوجيات المتاحة التي تم تركيبها على نظام التشغيل اللامركزي الخاص بـ EOS.IO. نعتزم إختبار إفتراضاتنا عن طريق النماذج الأولية عبر برنامج EZEOS المخصص، الذي قمنا ببنائه وتخصيصه بإستخدام أدوات الأوامر النصية الخاصة بـ EOS.IO. البرنامج موجود في: https://github.com/Volentix/ezeos
 
@@ -38,7 +38,7 @@ Venue التي تم إطلاقها مؤخرًا في الاختبار التجر
 
 #### 1.0.3 نظام التشغيل
 
-قمنا بتقييم العديد من أنظمة التشغيل كمرشحين للبنية التحتية لمبادل VDex. Though we honor the work done by a number of the established leaders in digital assets and blockchain technology, among those trailblazers the work of EOS.IO as an operating system-like framework upon which decentralized applications can be built stands out, in our opinion, as exemplary. The software provides accounts, authentication, databases, asynchronous communication, and scheduling across clusters. Components and protocols are already built into the platform, and a subset can be used to satisfy our VDex requirements. VDex will initially benefit from the standard features offered by EOS.IO such as account and wallet creation and the recovery of stolen keys, but we plan subsequently to implement protocols for creation of a decentralized exchange through EOS contracts and other tools.[2] Here is a summary of encouraging methodologies:
+قمنا بتقييم العديد من أنظمة التشغيل كمرشحين للبنية التحتية لمبادل VDex. على الرغم من أننا نقدر العمل الذي قام به عدد من القادة الرائدين في مجال الأصول الرقمية وتكنولوجيا سلاسل الكتل، من بين هؤلاء الرواد، فإن عمل EOS.IO كهيكل شبيه بنظام التشغيل والذي يمكن أن تبنى عليه التطبيقات اللامركزية، نعتقد أنه مثالي. يوفر البرنامج الحسابات، الإستيثاق، قواعد البيانات، الإتصال غير المتزامن والجدولة عبر العناقيد. Components and protocols are already built into the platform, and a subset can be used to satisfy our VDex requirements. VDex will initially benefit from the standard features offered by EOS.IO such as account and wallet creation and the recovery of stolen keys, but we plan subsequently to implement protocols for creation of a decentralized exchange through EOS contracts and other tools.[2] Here is a summary of encouraging methodologies:
 
 ### Context Free Actions
 
