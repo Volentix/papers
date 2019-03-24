@@ -16,19 +16,19 @@ Awujọ Volentix yoo duro le ori awọn opo mẹrin, ibi ibẹẹrẹ iseto aw�
 
 ### 2.1 VENUE
 
-Venue is planned as a dynamic community platform that recruits and aligns members of the Volentix community to facilitate distribution of VTX, the native digital asset of the Volentix ecosystem, and to promote awareness of Volentix initiatives.
+Venue jẹ gbigbekalẹ gẹgẹbi pilatifọọmu awujọ alayipada ti o n gba ati ṣiṣe aato awọn ọmọ ẹgbẹ ti awujọ Volentix lati jẹ ki pinpin VTX rọrun, ohun-ini oni-nọmba ibilẹ ti awujọ Volentix, ati lati ṣe ipolongo imọ nipa awọn eto Volentix.
 
-Recently launched in beta testing, Venue enables users to receive VTX in exchange, for example, for participating in developing dedicated communities, submitting bug fixes, and claiming bounties. Leaderboards and live metrics reflect user participation. The first signature campaign was launched on the https://bitcointalk.org/ forum on July 13, 2018. Please visit https://venue.volentix.io for more information.
+Ifilọlẹ igbeyẹwo beta waye laipẹ, Venue n fun awọn olumulo laaye lati gba VTX ni paṣipaarọ, fun apẹẹrẹ, fun kikopa ninu sisẹ idagbasoke awọn awujọ ti o ni ifarajin, fifi awọn atunṣe asise ranṣẹ, ati gbigba awọn ẹbun. Awọn Patako-ipo ati awọn iwọn bosenlọ lọwọ jẹ afihan ikopa awọn olumulo. Ifihan ipolongo akọkọ jẹ fifilọlẹ lori https://bitcointalk.org/ forum ni Osu keje ọjọ kẹtala, ọdun 2018. Jọwọ ṣabẹwo https://venue.volentix.io fun alaye siwaju sii.
 
 ![](../main3-3000px.jpg)
 
 ### 2.2 VERTO
 
-Verto is being built as a multi-currency wallet for use with the VDex decentralized exchange, and intends to facilitate personal custody and local management of private and public keys in peer-to-peer transactions, with the goal of eliminating the risks of devastating losses of stake associated with traumatic failures of central operators. Verto plans to employ a system of smart contracts to maintain the state between two trading clients, the simplest operations being accomplished with atomic swaps.[1]
+Verto jẹ gbigbe dide gẹgẹbi apo owo olorisirisi-owo fun lilo pẹlu paṣipaarọ alaisilojukan ti VDex, o si ni ero lati mu irọrun ba ifipamọ ti ara ẹni ati iṣakoso ibilẹ ti awọn kọkọrọ ikọkọ ati kọkọrọ gbangba ninu awọn iṣowo ẹgbẹ-si-ẹgbẹ, pẹlu afojusun lati se imukuro awọn ewu ti awọn ipadanu oniparun ti isamisi ti o ni nkan ṣe pẹlu awọn ikuna ti awọn oṣiṣẹ iṣakoso aaringbungbu. Verto ngbero lati lo eto awọn iwe adehun to jafafa lati ṣetọju ipo ti o wa laarin awọn onibara iṣowo mejeji, awọn iṣẹ ti o rọrun julọ n jẹ ṣiṣe pẹlu awọn ipasiparọ alaini alagata. [1]
 
 ### 2.3 VESPUCCI
 
-Vespucci is envisioned as an analytics engine accessible via a user-friendly interface with treasure troves of real-time and historical market data, such as digital assets ratings and sentiment analysis. We wish to empower users with tools to graph and compare tradeable digital assets, to access and parse historical trading records, to plot trends and patterns, and to monitor and assess open-source software developments. Vespucci seeks to bring to your fingertips confident and comprehensive market-relevant data by aggregating the information currently scattered throughout many different blockchains, websites, chat rooms, and exchanges.
+Vespucci jẹ fifojusun gẹgẹbi ohun elo iyanana ti o se wọle si nipasẹ intafeesi onirọrun-olumulo pẹlu awọn ile ipamọ iṣura ti bosenlọ lọwọ ati awọn itan data ọja, gẹgẹbi awọn iwontunwonsi awọn ohun-ini oni-nọmba ati awọn iyanana igbeyewo ero. A fẹ lati ro awọn olumulo lagbara pẹlu awọn irinṣẹ lati ṣe iwọn ati ṣe afiwe awọn ohun-ini oni-nọmba ti o ṣe fisowo, lati wọle ati pin awọn akọsilẹ itan iṣowo, lati ṣeto awọn aṣa ati awọn ilana, ati lati mojuto ati ṣayẹwo awọn idagbasoke software orisun-gbangba. Vespucci seeks to bring to your fingertips confident and comprehensive market-relevant data by aggregating the information currently scattered throughout many different blockchains, websites, chat rooms, and exchanges.
 
 ### 2.4 VDEX
 
