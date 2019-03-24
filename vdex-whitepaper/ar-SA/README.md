@@ -32,7 +32,7 @@ Venue التي تم إطلاقها مؤخرًا في الاختبار التجر
 
 ### 4.2 VDEX
 
-العمود الرابع من Volentix، مبادل VDex، هو عبارة عن منصة الأصول الرقمية القابلة للتداول والتي تم تقديمها بالتفصيل في هذه الورقة البيضاء. لسهولة الاستخدام السلس والآمن، نخطط لدمج VDex مع محفظة Verto الشخصية الخاصة بك وواجهة Vespucci. نتوقع أن تكون VDex قادرة على إدارة المعاملات التجارية التي تحتوي على كل من VTX ومجموعة واسعة من الأصول الرقمية وسلاسل الكتل الموجودة من وقت لآخر في جميع أنحاء العالم. نحن نعمل على تطوير Venue كعنصر تكميلي في المقام الأول من أجل تحفيز ودفع المبادرات المحلية المستندة إلى VTX.
+العمود الرابع من Volentix، مبادل VDex، هو عبارة عن منصة الأصول الرقمية القابلة للتداول والتي تم تقديمها بالتفصيل في هذه الورقة البيضاء. لسهولة الاستخدام السلس والآمن، نخطط لدمج VDex مع محفظة Verto الشخصية الخاصة بك وواجهة Vespucci. نتوقع أن تكون VDex قادرة على إدارة المعاملات التي تحتوي على كل من VTX ومجموعة واسعة من الأصول الرقمية وسلاسل الكتل الموجودة من وقت لآخر في جميع أنحاء العالم. نحن نعمل على تطوير Venue كعنصر تكميلي في المقام الأول من أجل تحفيز ودفع المبادرات المحلية المستندة إلى VTX.
 
 ## 3. التصميم
 
@@ -58,7 +58,7 @@ Venue التي تم إطلاقها مؤخرًا في الاختبار التجر
 
 ### عقود ++Rust/C
 
-لغة البرمجة المعروفة والشعبية ++C تبدو مناسبة للغاية لـ WASM. تحتوي ++C على دعم تصحيح أخطاء فعال للغاية بالإضافة إلى المكتبات. The EOS codebase uses templates liberally, and C++ allows the use of templates and operator overloading to define a runtime cost-free validation of units. The program reinitializes to clean state at the start of every message, a distinct advantage that streamlines formulation of smart contracts. The WebAssembly framework automatically rejects any transaction addressing memory inaccurately. In case dynamic memory allocation is necessary, users can depart to smart pointers because EOS.IO contracts use C++14. It is noteworthy that the first implementation of PARSEC Directed Acyclic Graph (DAG) technology is expected to be in Rust.
+لغة البرمجة المعروفة والشعبية ++C تبدو مناسبة للغاية لـ WASM. تحتوي ++C على دعم تصحيح أخطاء فعال للغاية بالإضافة إلى المكتبات. تستعمل قاعدة التشفير الخاصة بـ EOS القوالب حرفياً، و تسمح ++C بإستعمال القوالب والتحميل الزائد لعامل التشغيل لتحديد زمن تشغيل خالي من التحقق من صحة الوحدات. يعيد البرنامج تنظيف الحالة في بداية كل رسالة، وهي ميزة مميزة تسهل صياغة العقود الذكية. يرفض هيكل WebAssembly تلقائياً أي معاملة تخاطب الذاكرة بشكل غير دقيق. In case dynamic memory allocation is necessary, users can depart to smart pointers because EOS.IO contracts use C++14. It is noteworthy that the first implementation of PARSEC Directed Acyclic Graph (DAG) technology is expected to be in Rust.
 
 #### 3.0.2 Schema defined messages and database
 
