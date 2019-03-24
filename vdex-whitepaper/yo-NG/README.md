@@ -82,7 +82,7 @@ A Hashed Timelock Contract (HTLC)[1] is a smart contract enabling the implementa
 
 ### 3.1 NETWORK TOPOLOGY
 
-#### 3.1.1 Nodes
+#### 3.1.1 Awọn oju ipade
 
 Nodes are the endpoints of the VDex exchange. Their functions are:
 
