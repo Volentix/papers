@@ -62,9 +62,9 @@ Ede siseto C++ ti o lokiki ati ti o gbajumọ farahan bi eyi ti o dara julọ fu
 
 #### 3.0.2 Schema defined messages and database
 
-Awọn adehun iṣẹ jẹ mimudojuwọn lati pese ipilẹṣẹ odiwọn ti isisẹpọ laarin ati ninu awọn eto ti o yatọ nipasẹ sise asopọ awọn awoṣe data. Nitootọ, ilana Eto Adehun Adojuiwọn beere fun pe ki awọn adehun eto da lori awọn awoṣe data ti o dojuiwọn. Iyanana ma n jẹ ṣiṣe lori apẹrẹ iwe-akọọlẹ ti iṣẹ lati wa awọn iwe-iṣowo owo ti o n waye daadaa ti o n jẹ pipaarọ laarin awọn iṣẹ. These business documents are then modeled in a standardized manner. The Canonical Schema pattern reduces the need for application of the data model transformation design pattern. [3]
+Awọn adehun iṣẹ jẹ mimudojuwọn lati pese ipilẹṣẹ odiwọn ti isisẹpọ laarin ati ninu awọn eto ti o yatọ nipasẹ sise asopọ awọn awoṣe data. Nitootọ, ilana Eto Adehun Adojuiwọn beere fun pe ki awọn adehun eto da lori awọn awoṣe data ti o dojuiwọn. Iyanana ma n jẹ ṣiṣe lori apẹrẹ iwe-akọọlẹ ti iṣẹ lati wa awọn iwe-iṣowo owo ti o n waye daadaa ti o n jẹ pipaarọ laarin awọn iṣẹ. Awọn iwe iṣowo yii ma wa jẹ ṣiṣe ni ọna ti o kun ojuiwọn. The Canonical Schema pattern reduces the need for application of the data model transformation design pattern. [3]
 
-#### 3.0.3 Inter-Contract Communication
+#### 3.0.3 Ibaraẹnisọrọ Laarin-Adehun
 
 Data is shared between contracts via an oracle, which, "in the context of blockchains and smart contracts, is an agent that finds and verifies real-world occurrences and submits this information to a blockchain to be used by smart contracts.” [4] Every node will have an identical copy of these data, for use in smart contract computation. Rather than the smart contract functioning to pull the data, instead the oracle pushes the data onto the blockchain. In the instance of a blockchain, most reading of the data is done via polling "models" in order to monitor blockchain state and to perform certain responsive actions.
 
