@@ -74,9 +74,9 @@ Venue التي تم إطلاقها مؤخرًا في الاختبار التجر
 
 #### 5.0.3 السيولة
 
-A digital asset is liquid if it is easily sold or purchased in ordinary trading volumes without a significant short-term impact on its prevailing market price. In order to achieve such a status, traditionally any tradable asset must surmount a trading volume threshold sufficient to support stability. Specifically, we anticipate adopting the following methodologies: Loopring protocol with the use of EOS.IO contracts acting as nodes.[5] Bancor algorithm used to bring stability to the digital asset.[6] Toggles between these protocols and HTLC (atomic swaps) according to Vespucci analyses on the VDex network.
+يكون الأصل الرقمي سائلاً إذا تم بيعه أو شراؤه بسهولة في أحجام تداول عادية دون تأثير كبير قصير المدى على سعر السوق السائد. من أجل تحقيق مثل هذه الحالة، تقليدياً يجب على أي أصل قابل للتداول تجاوز حد حجم التداول الكافي لدعم الاستقرار. تحديداً، نتوقع إعتماد المنهجيات التالية: بروتوكول Loopring بإستخدام عقود EOS.IO التي تعمل بمثابة عقد.[5] تستخدم خوارزمية Bancor لتحقيق الاستقرار في الأصول الرقمية.[6] للتبديل بين هذه البروتوكولات و HTLC (مقايضات ذرية) وفقًا لتحليلات Vespucci على شبكة VDex.
 
-#### 3.0.6 Hashed Timelock Contracts (Atomic Swaps)
+#### 6.0.3 عقود Timelock المجزأة (المقايضات الذرية)
 
 A Hashed Timelock Contract (HTLC)[1] is a smart contract enabling the implementation of time-bound transactions. Users will be offered a variable lock-in period for their transactions, with a discount on transaction fees in exchange for choosing a longer lock-in period.
 
