@@ -58,11 +58,11 @@ Venue التي تم إطلاقها مؤخرًا في الاختبار التجر
 
 ### عقود ++Rust/C
 
-لغة البرمجة المعروفة والشعبية ++C تبدو مناسبة للغاية لـ WASM. تحتوي ++C على دعم تصحيح أخطاء فعال للغاية بالإضافة إلى المكتبات. تستعمل قاعدة التشفير الخاصة بـ EOS القوالب حرفياً، و تسمح ++C بإستعمال القوالب والتحميل الزائد لعامل التشغيل لتحديد زمن تشغيل خالي من التحقق من صحة الوحدات. يعيد البرنامج تنظيف الحالة في بداية كل رسالة، وهي ميزة مميزة تسهل صياغة العقود الذكية. يرفض هيكل WebAssembly تلقائياً أي معاملة تخاطب الذاكرة بشكل غير دقيق. في حالة ضرورة تخصيص الذاكرة الديناميكية ، يمكن للمستخدمين الانتقال إلى المؤشرات الذكية لأن عقود EOS.IO تستخدم C++14. It is noteworthy that the first implementation of PARSEC Directed Acyclic Graph (DAG) technology is expected to be in Rust.
+لغة البرمجة المعروفة والشعبية ++C تبدو مناسبة للغاية لـ WASM. تحتوي ++C على دعم تصحيح أخطاء فعال للغاية بالإضافة إلى المكتبات. تستعمل قاعدة التشفير الخاصة بـ EOS القوالب حرفياً، و تسمح ++C بإستعمال القوالب والتحميل الزائد لعامل التشغيل لتحديد زمن تشغيل خالي من التحقق من صحة الوحدات. يعيد البرنامج تنظيف الحالة في بداية كل رسالة، وهي ميزة مميزة تسهل صياغة العقود الذكية. يرفض هيكل WebAssembly تلقائياً أي معاملة تخاطب الذاكرة بشكل غير دقيق. في حالة ضرورة تخصيص الذاكرة الديناميكية ، يمكن للمستخدمين الانتقال إلى المؤشرات الذكية لأن عقود EOS.IO تستخدم C++14. من الجدير بالذكر أنه من المتوقع أن يكون أول تطبيق لتقنية PARSEC Directed Acyclic Graph (DAG) في Rust.
 
-#### 3.0.2 Schema defined messages and database
+#### 2.0.3 مخطط تعريف الرسائل وقاعدة البيانات
 
-Service contracts are standardized to provide a baseline measure of interoperability between and among disparate systems by harmonization of data models. Indeed, the Standardized Service Contract design principle advocates that service contracts be based on standardized data models. Analysis is done on the service inventory blueprint to find out the commonly occurring business documents that are exchanged between services. These business documents are then modeled in a standardized manner. The Canonical Schema pattern reduces the need for application of the data model transformation design pattern. [3]
+يتم توحيد عقود الخدمة لتوفير مقياس أساسي لإمكانية التشغيل التفاعلي بين النظم المختلفة من خلال توافق نماذج البيانات. Indeed, the Standardized Service Contract design principle advocates that service contracts be based on standardized data models. Analysis is done on the service inventory blueprint to find out the commonly occurring business documents that are exchanged between services. These business documents are then modeled in a standardized manner. The Canonical Schema pattern reduces the need for application of the data model transformation design pattern. [3]
 
 #### 3.0.3 Inter-Contract Communication
 
