@@ -46,19 +46,19 @@ A ti ṣe agbeyẹwo awọn orisirisi eto isẹ sise ori ẹrọ bi awọn oludi
 
 ### Iyipada Binary/JSON
 
-EOS contracts combine the human readability of JSON with the efficiency of binary.
+Awọn iwe adehun EOS da anfani awọn eniyan lati leka JSON pọ mọ iṣiṣẹsi ti binari.
 
 ### Imudọgba ati imupeye
 
-Separating authentication from application allows faster transaction times and increases bandwidth. EOS.IO blocks are reportedly produced every 500ms.
+Yiya ifasẹsi sọtọ si ohun elo n faye gba ki akoko idunadura yara sii ati muki itankanlẹ pọ si. Awọn bulọọki EOS.IO n jẹ gbigbe jade ni gbogbo 500ms.
 
 ### Apejọ Ayelujara(WASM)
 
-Web Assembly enables high-performance Web applications and also secures each application in its own sandbox, through which functionalities VDex can obtain network access, filesystem namespace restrictions, and enforced rule-based execution.
+Apejọ Ayelujara jẹ ki iṣẹ ṣiṣe awọn ohun elo Ayelujara gaju si ati o tun da aabo bo ohun elo kọọkan ninu apoti ara rẹ, nipasẹ eyiti awọn iṣẹsi VDex le ri iwọle nẹtiwọki gba, awọn ihamọ aaye-orukọ faili-eto, ati aseyege ti o da lori ofin afipamu.
 
 ### Rust/C++ awọn iwe adehun
 
-The well-known and popular programming language C++ appears highly suitable for WASM. C++ has highly mature debugging support and libraries. The EOS codebase uses templates liberally, and C++ allows the use of templates and operator overloading to define a runtime cost-free validation of units. The program reinitializes to clean state at the start of every message, a distinct advantage that streamlines formulation of smart contracts. The WebAssembly framework automatically rejects any transaction addressing memory inaccurately. In case dynamic memory allocation is necessary, users can depart to smart pointers because EOS.IO contracts use C++14. It is noteworthy that the first implementation of PARSEC Directed Acyclic Graph (DAG) technology is expected to be in Rust.
+Ede siseto C++ ti o lokiki ati ti o gbajumọ farahan bi eyi ti o dara julọ fun WASM. C++ ni atilẹyin ati awọn ile ikowesi iṣatunṣe aṣiṣe alailẹgbẹ. Codebase EOS n lo awọn awoṣe lọfẹ, atipe C++ faye gba lilo awọn awoṣe ati apọju isẹ oṣiṣẹ lati seto akoko isẹ ọfẹ sise fun idaniloju ti awọn ẹya. The program reinitializes to clean state at the start of every message, a distinct advantage that streamlines formulation of smart contracts. Ilana WebAssembly n ti atinuwa kọ eyikeyi idunadura ti o n se iranti ti ko ni ibaamu. In case dynamic memory allocation is necessary, users can depart to smart pointers because EOS.IO contracts use C++14. It is noteworthy that the first implementation of PARSEC Directed Acyclic Graph (DAG) technology is expected to be in Rust.
 
 #### 3.0.2 Schema defined messages and database
 
