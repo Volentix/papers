@@ -62,9 +62,9 @@ Venue التي تم إطلاقها مؤخرًا في الاختبار التجر
 
 #### 2.0.3 مخطط تعريف الرسائل وقاعدة البيانات
 
-يتم توحيد عقود الخدمة لتوفير مقياس أساسي لإمكانية التشغيل التفاعلي بين النظم المختلفة من خلال توافق نماذج البيانات. Indeed, the Standardized Service Contract design principle advocates that service contracts be based on standardized data models. Analysis is done on the service inventory blueprint to find out the commonly occurring business documents that are exchanged between services. These business documents are then modeled in a standardized manner. The Canonical Schema pattern reduces the need for application of the data model transformation design pattern. [3]
+يتم توحيد عقود الخدمة لتوفير مقياس أساسي لإمكانية التشغيل التفاعلي بين النظم المختلفة من خلال توافق نماذج البيانات. في الواقع، يدعو مبدأ تصميم عقد الخدمة الموحد إلى أن تستند عقود الخدمة على نماذج بيانات موحدة. يتم إجراء التحليل على مخطط مخزون الخدمة لمعرفة مستندات العمل الشائعة التي يتم تبادلها بين الخدمات. يتم تصميم هذه المستندات بطريقة موحدة. يقلل نمط المخطط القانوني من الحاجة إلى تطبيق نمط تصميم تحويل نموذج البيانات. [3]
 
-#### 3.0.3 Inter-Contract Communication
+#### 3.0.3 التواصل بين العقود
 
 Data is shared between contracts via an oracle, which, "in the context of blockchains and smart contracts, is an agent that finds and verifies real-world occurrences and submits this information to a blockchain to be used by smart contracts.” [4] Every node will have an identical copy of these data, for use in smart contract computation. Rather than the smart contract functioning to pull the data, instead the oracle pushes the data onto the blockchain. In the instance of a blockchain, most reading of the data is done via polling "models" in order to monitor blockchain state and to perform certain responsive actions.
 
