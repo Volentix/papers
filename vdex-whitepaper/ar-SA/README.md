@@ -78,7 +78,7 @@ Venue التي تم إطلاقها مؤخرًا في الاختبار التجر
 
 #### 6.0.3 عقود Timelock المجزأة (المقايضات الذرية)
 
-A Hashed Timelock Contract (HTLC)[1] is a smart contract enabling the implementation of time-bound transactions. Users will be offered a variable lock-in period for their transactions, with a discount on transaction fees in exchange for choosing a longer lock-in period.
+عقد Timelock المجزء (HTLC)[1] هو عبارة عن عقد ذكي يتيح تطبيق المعاملات المحددة زمنيا. سيتم منح المستخدمين فترة تأمين متغيرة لمعاملاتهم، مع خصم على رسوم المعاملة في مقابل إختيار فترة تأمين أطول.
 
 ### 3.1 NETWORK TOPOLOGY
 
