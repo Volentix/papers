@@ -15,24 +15,19 @@ The VDex launch point anticipates matching Volentix's design requirements to ava
 
 The Volentix ecosystem will exist atop four pillars, an initializing array of applications specifically known as Venue, Verto, Vespucci, and VDex.
 
-
 ### 2.1 VENUE
 
 Venue is planned as a dynamic community platform that recruits and aligns members of the Volentix community to facilitate distribution of VTX, the native digital asset of the Volentix ecosystem, and to promote awareness of Volentix initiatives. 
 
 Recently launched in beta testing, Venue enables users to receive VTX in exchange, for example, for participating in developing dedicated communities, submitting bug fixes, and claiming bounties. Leaderboards and live metrics reflect user participation. The first signature campaign was launched on the https://bitcointalk.org/ forum on July 13, 2018. Please visit https://venue.volentix.io for more information.
 
-
-
 ### 2.2 VERTO
 
 Verto is being built as a multi-currency wallet for use with the VDex decentralized exchange, and intends to facilitate personal custody and local management of private and public keys in peer-to-peer transactions, with the goal of eliminating the risks of devastating losses of stake associated with traumatic failures of central operators. Verto plans to employ a system of smart contracts to maintain the state between two trading clients, the simplest operations being accomplished with atomic swaps.[1]
 
-
 ### 2.3 VESPUCCI
 
 Vespucci is envisioned as an analytics engine accessible via a user-friendly interface with treasure troves of real-time and historical market data, such as digital assets ratings and sentiment analysis. We wish to empower users with tools to graph and compare tradeable digital assets, to access and parse historical trading records, to plot trends and patterns, and to monitor and assess open-source software developments. Vespucci seeks to bring to your fingertips confident and comprehensive market-relevant data by aggregating the information currently scattered throughout many different blockchains, websites, chat rooms, and exchanges. 
-
 
 ### 2.4 VDEX
 
@@ -87,7 +82,6 @@ A Hashed Timelock Contract (HTLC)[1] is a smart contract enabling the implementa
 
 ### 3.1 NETWORK TOPOLOGY
 
-
 #### 3.1.1 Nodes
 ![](../9.jpg)
 
@@ -141,7 +135,6 @@ For decentralization purposes, nodes will take turns to settle the order book. T
 
 Order settlement contains familiar elements of conventional financial market transactions. Utilizing FIFO technology to design the order book, VDex intends to check order, inventory, and fill rate, as well as limit orders and cancellations.
 ![](../7.jpg)
-
 
 ### 3.4 VTX
 
