@@ -1,14 +1,14 @@
 # THE VOLENTIX VDEX WHITE PAPER
 
 - Versione: 0.1.4
-- Aggiornato il: 11-03-2019
+- Aggiornata il: 11-03-2019
 - Sito web: www.volentix.io
 
 ## 1. INTRODUZIONE
 
-Volentix presenta VDex, progettato come una piattaforma decentralizzata per lo scambio di beni digitali con enfasi sull'user experience e la governanza e lo sviluppo da parte della comunità. Attraverso l'utilizzo di tecnologie già esistenti e programmando nuovi protocolli selettivi dando priorità a sicurezza, velocità, autenticazione, facilità di utilizzo, scalabilità, e supporto multi-asset, VDex vuole facilitare le transazioni di tipo peer-to-peer mettendo insieme un portfolio di applicazioni decentralizzate costruite sulla base degli smart contract di EOS.IO.
+Volentix presenta VDex, progettato come una piattaforma decentralizzata per lo scambio di beni digitali con enfasi sull'user experience con amministrazione e sviluppo gestiti dalla comunità. Attraverso l'utilizzo di tecnologie già esistenti e programmando nuovi protocolli selettivi dando priorità a sicurezza, velocità, autenticazione, facilità di utilizzo, scalabilità, e supporto multi-asset, VDex vuole facilitare le transazioni di tipo peer-to-peer mettendo insieme un portfolio di applicazioni decentralizzate costruite sulla base degli smart contract di EOS.IO.
 
-The VDex launch point anticipates matching Volentix's design requirements to available technologies superimposed on the EOS.IO decentralized operating system. Intendiamo testare le nostre ipotesi creando dei prototipi tramite software EZEOS personalizzato, che abbiamo costruito e personalizzati attraverso gli strumenti di della riga di comando cleos di EOS.IO. Questo software risiede in: https://github.com/Volentix/ezeos
+The VDex launch point anticipates matching Volentix's design requirements to available technologies superimposed on the EOS.IO decentralized operating system. Abbiamo intenzione di testare le nostre ipotesi creando dei prototipi tramite software EZEOS personalizzato, che abbiamo costruito e personalizzato attraverso gli strumenti a riga di comando cleos di EOS.IO. Questo software risiede in: https://github.com/Volentix/ezeos
 
 ## 2. VOLENTIX
 
@@ -32,13 +32,13 @@ Vespucci is envisioned as an analytics engine accessible via a user-friendly int
 
 ### 2.4 VDEX
 
-Il quarto pilastro di Volentix, l'exchange di VDex, è la piattaforma di commercio dei beni digitali presentata in dettaglio in questo white paper. Per un utilizzo fluido e sicuro, abbiamo intenzione di integrare VDex con il tuo wallet Verto personale e con l'interfaccia di Vespucci. Ci aspettiamo che VDex sia in grado di gestire le transazioni che coinvolgono sia VTX che la vasta gamma di asset digitali e blockchain esistenti di volta in volta in tutto il mondo. Stiamo sviluppando Venue come un'aggiunta complementare principalmente per incentivare e guidare le iniziative native basate su VTX.
+Il quarto pilastro di Volentix, l'exchange VDex, è la piattaforma di commercio dei beni digitali presentata in dettaglio in questo white paper. Per un utilizzo fluido e sicuro, abbiamo intenzione di integrare VDex con il tuo wallet Verto personale e con l'interfaccia di Vespucci. Ci aspettiamo che VDex sia in grado di gestire le transazioni che coinvolgono sia VTX che la vasta gamma di asset digitali e blockchain esistenti di volta in volta in tutto il mondo. Stiamo sviluppando Venue come un'aggiunta complementare principalmente per incentivare e guidare le iniziative autoctone basate su VTX.
 
 ## 3. ARCHITETTURA
 
 #### 3.0.1 Sistema operativo
 
-Abbiamo valutato diversi sistemi operativi come candidati per la sottostruttura del nostro exchange VDex. Pur onorando il lavoro svolto da alcuni dei leader affermati nel campo degli asset digitali e della tecnologia Blockchain, tra questi pionieri spicca, a nostro avviso, il lavoro di EOS.IO come struttura simile a un sistema operativo su cui si possono costruire applicazioni decentralizzate. Il software fornisce account, autenticazione, database, comunicazione asincrona, e pianificazione tra cluster. Componenti e protocolli sono già incorporati nella piattaforma, e un sottoinsieme può essere utilizzato per soddisfare i nostri requisiti di VDex. Inizialmente VDex beneficerà delle caratteristiche standard offerte da EOS.IO come la creazione di account e wallet e il recupero di chiavi rubate, ma in seguito prevediamo di implementare protocolli per la creazione di un exchange decentralizzato attraverso l'utilizzo dei contratti EOS e altri strumenti.[2] Ecco un riepilogo di metodi incoraggianti:
+Abbiamo valutato diversi sistemi operativi come candidati per la sottostruttura del nostro exchange VDex. Pur onorando il lavoro svolto da alcuni dei leader affermati nel campo degli asset digitali e della tecnologia blockchain, tra questi pionieri spicca, a nostro avviso, il lavoro di EOS.IO come struttura simile a un sistema operativo su cui si possono costruire applicazioni decentralizzate. Il software fornisce account, autenticazione, database, comunicazione asincrona, e pianificazione tra cluster. Componenti e protocolli sono già incorporati nella piattaforma, e un sottoinsieme può essere utilizzato per soddisfare i requisiti del nostro VDex. Inizialmente VDex beneficerà delle caratteristiche standard offerte da EOS.IO come la creazione di account e wallet e il recupero di chiavi rubate, ma in seguito prevediamo di implementare protocolli per la creazione di un exchange decentralizzato attraverso l'utilizzo dei contratti EOS e altri strumenti.[2] Ecco un riepilogo di metodi incoraggianti:
 
 ### Azioni Acontestuali
 
@@ -46,11 +46,11 @@ La maggior parte delle tecniche di scalabilità proposte da Ethereum (Sharding, 
 
 ### Conversione Binaria/JSON
 
-I contratti EOS combinano la leggibilità umana della JSON con l'efficienza della binaria.
+I contratti EOS combinano la leggibilità umana di JSON con l'efficienza del binario.
 
 ### Parallelizzazione e ottimizzazione
 
-La separazione dell'autenticazione dall'applicazione permette transazioni più rapide e aumenta la larghezza di banda. Secondo quanto riferito, I blocchi EOS.IO vengono prodotti ogni 500ms.
+La separazione dell'autenticazione dall'applicazione permette transazioni più rapide e aumenta la larghezza di banda. Secondo quanto riferito, i blocchi di EOS.IO vengono prodotti ogni 500ms.
 
 ### Web Assembly(WASM)
 
@@ -58,7 +58,7 @@ Web Assembly abilita applicazioni Web ad alte prestazioni e inoltre mette al sic
 
 ### Contratti Rust/C++
 
-Il noto e popolare linguaggio di programmazione C++ appare altamente adatto a WASM. C++ ha un supporto di debug e delle librerie altamente maturi. Il codebase di EOS utilizza liberamente i template, e C++ permette l'uso di template e sovraccarico dell'operatore per definire una convalida delle unità senza costi di runtime. Il programma si reinizializza a stato pulito all'inizio di ogni messaggio, un distinto vantaggio che semplifica la formulazione degli smart contract. Il framework Web Assembly rifiuta automaticamente qualsiasi transazione che fa riferimento alla memoria in modo impreciso. Nel caso in cui sia necessaria l'allocazione di memoria dinamica, gli utenti possono passare a puntatori inteligenti perchè i contratti di EOS. Io utilizzano C++14. È degno di nota il fatto che la prima implementazione della tecnologia Directed Acyclic Graph (DAG) di PARSEC dovrebbe avvenire in Rust.
+Il noto e popolare linguaggio di programmazione C++ appare altamente adatto a WASM. C++ ha un supporto di debug e delle librerie altamente maturi. Il codebase di EOS utilizza liberamente i template, e C++ permette l'uso di template e sovraccarico dell'operatore per definire una convalida delle unità senza costi di runtime. Il programma si reinizializza a stato pulito all'inizio di ogni messaggio, un distinto vantaggio che semplifica la formulazione degli smart contract. Il framework Web Assembly rifiuta automaticamente qualsiasi transazione che fa riferimento alla memoria in modo impreciso. Nel caso in cui sia necessaria l'allocazione di memoria dinamica, gli utenti possono passare a puntatori inteligenti perchè i contratti di EOS.IO utilizzano C++14. È degno di nota il fatto che la prima implementazione della tecnologia Directed Acyclic Graph (DAG) di PARSEC dovrebbe avvenire in Rust.
 
 #### 3.0.2 Schema defined messages and database
 
@@ -70,7 +70,7 @@ I dati sono condivisi tra i contratti attraverso un oracolo, che, "nel contesto 
 
 #### 3.0.4 Sidechains
 
-In EOS.IO, l'emissione di un bene digitale rea una sidechain, cioè un meccanismo emergente che permette ad un bene digitale proveniente da una blockchain di essere utilizzato in modo sicuro in un altra blockchain e poi essere rispostato sulla blockchain originale. L'efficienza dell'elaborazione è promossa dalla creazione di molteplici sidechain. Un canale di comunicazione tra blockchain diverse tipo TCP valuta le prove. Per ogni frammento (un'unità di esecuzione parallelizzabile in un ciclo), con questi impegni di azione viene costruito un albero di merkle equilibrato per generare una radice di merkle condivisa temporaneamente; ciò viene fatto per la velocità di calcolo parallelo. The block header contains the root of a balanced merkle tree the leaves of which are the roots of these individual shard merkle trees. [2]
+In EOS.IO, l'emissione di un bene digitale crea una sidechain, cioè un meccanismo emergente che permette ad un bene digitale proveniente da una blockchain di essere utilizzato in modo sicuro in un altra blockchain e poi essere nuovamente spostato sulla blockchain originale. L'efficienza dell'elaborazione è promossa dalla creazione di molteplici sidechain. Un canale di comunicazione tra blockchain diverse tipo TCP valuta le prove. Per ogni frammento (un'unità di esecuzione parallelizzabile in un ciclo), con questi impegni di azione viene costruito un albero di merkle equilibrato per generare una radice di merkle condivisa temporaneamente; ciò viene fatto per la velocità di calcolo parallelo. The block header contains the root of a balanced merkle tree the leaves of which are the roots of these individual shard merkle trees. [2]
 
 #### 3.0.5 Liquidità
 

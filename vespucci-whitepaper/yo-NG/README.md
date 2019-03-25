@@ -78,23 +78,23 @@ Eyi n ṣe idaniloju pe ẹya ohun elo Vespucci SA ni anfani lati ṣe abojuto �
 
 Awọn olufetisi imọran gbangba ti Vespucci n ṣiṣe lori awọn VM ti ibi ipamọ ayelujara to ni anfani lati ṣe atapin lẹsẹkẹsẹ lati le koju gbogbo awọn iṣẹ to wa fun ṣiṣe. Ni ọna yii Vespucci n se ikapa ati ifasara awọn iwọn data, to lagbara, to tun sibẹsibẹ niyelori, ti o nii ṣe pẹlu awọn owo kiripito ti o n jẹ gbigbejade ni gbogbo igbakugba. Imudọgba se pataki nigbati abojuto awọn Data Nla ba n waye ati imudọgba awọn anfani iyaworan ti Vespucci, ṣiṣe ọpọ iṣẹ pẹlu eto kan ni ọkọọkan ati ni sisẹntẹle ni gbogbo ibikibi ti o ba ti ṣee ṣe. Awọn iṣẹ-kereje ati koodu aliniṣakoso n ṣiṣẹ ibaramu lati ṣeto awọn ilana ifasara ati awọn iṣipopada data.
 
-Ni ipele keji, awọn irinṣẹ iṣiro jẹ ṣiṣatunṣe si ati mimu didara si lati le dari afojusun iṣẹ wọn si awọn owo kiripito ati, nikẹhin, software ti wa ma jẹ gbigbedide fun iṣẹ yii. Moreover, some storage is used (see the relevant [section](https://docs.google.com/document/d/1NLr-rgF66NCBmLmPIdElltKYVPJrLVO7DZDpcNEm6OU/edit?ts=5bec2f33#heading=h.921dav9nirz6)) for aggregate data needed in order (a) to make historical comparisons and (b) to train the Convolutional Neural Network that produces the final score. For (a), we could make use of the entire history of each token since its creation. For (b), deep learning needs data covering a period of up to two years.
+Ni ipele keji, awọn irinṣẹ iṣiro jẹ ṣiṣatunṣe si ati mimu didara si lati le dari afojusun iṣẹ wọn si awọn owo kiripito ati, nikẹhin, software ti wa ma jẹ gbigbedide fun iṣẹ yii. Jubẹlọ, diẹ ninu awọn ibi ipamọ ni o jẹ lilo (wo abala [ti o yẹ](https://docs.google.com/document/d/1NLr-rgF66NCBmLmPIdElltKYVPJrLVO7DZDpcNEm6OU/edit?ts=5bec2f33#heading=h.921dav9nirz6)) fun akopọ data ti a nilo (a) lati ṣe awọn afiwera onitan ati (b) lati ṣe akoso Nẹtiwọki Neural Alayipọ ti o n pese isiro ikẹhin. Fun (a), a le lo gbogbo itan ti aami kọọkan lati igba isẹda rẹ. Fun (b), imọ ijinlẹ nilo data ti o bo akoko ti o to ọdun meji.
 
-Eventually, Vespucci will reach out to the open-source community in an attempt to make the platform decentralized to a great degree . The intention is to decentralize the data ingestion and sentiment scoring functionality in order to provide secure, community led, unbiased and credible results.
+Nikẹhin, Vespucci ma kan si awujọ orisun imọ ni igbiyanju lati mu ki pilatifọọmu naa jẹ alaisilojukan si ipo giga. Erongba naa ni lati sọ awọn ifasara data ati iṣẹ iṣiro iwoyesi di alisilojukan lati le pese aabo, idari ti awujọ, awọn abajade alaiṣegbe ati ti o se finutan.
 
 ![](https://volentix.io/file/2019/01/a.jpg)
 
-By leveraging Python’s Machine learning framework, and given the language’s advantages, it is only natural for this module to be implemented in Python. It interfaces with particular machine learning libraries such as Scikit-learn, TensorFlow, CNTK, Torch, Theano, and Keras.
+By leveraging Python’s Machine learning framework, and given the language’s advantages, it is only natural for this module to be implemented in Python. O n aṣepọ pẹlu awọn pato ile ikowesi ẹkọ ẹrọ gẹgẹbi Scikit-learn, TensorFlow, CNTK, Torch, Theano, ati Keras.
 
-‪A user experience linking to the cryptocurrency’s public community forum is developed to provide up to date announcements and statistics of community activity. The final score can be derived as a scoring function. Eventually, machine learning techniques are applied to deliver real-time sentiment analysis.‬
+Ìrírí olumulo kan tí o sopọ mọ apero àwùjọ gbangba ti owo kiripito jẹ gbigbedide lati pese awọn ikede ati awọn alaye isiro atigbadegba ti iṣiṣẹ awujọ. Iṣiro ikẹhin le ṣee ri gba gẹgẹbi iṣẹ iseṣiro. Nikẹhin, awọn ilana ẹkọ ẹrọ n jẹ lilo lati fi iyanana iwoyesi jisẹ ni bosenlọ
 
 <table>
   <tr>
     
 
-<td>**Source**</td>
+<td>**Orisun**</td>
 
-<td>**Analysis**</td>
+<td>**Iyanana**</td>
 
   </tr>
   
@@ -103,7 +103,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Twitter </td>
 
-<td>Sentiment</td>
+<td>Iwoyesi</td>
 
   </tr>
   
@@ -112,7 +112,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Reddit</td>
 
-<td>Sentiment</td>
+<td>Iwoyesi</td>
 
   </tr>
   
@@ -121,7 +121,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Facebook</td>
 
-<td>Sentiment</td>
+<td>Iwoyesi</td>
 
   </tr>
   
@@ -130,7 +130,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Telegram</td>
 
-<td>Sentiment</td>
+<td>Iwoyesi</td>
 
   </tr>
   
@@ -139,16 +139,16 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>LinkedIn</td>
 
-<td>Sentiment & Technological</td>
+<td>Iwoyesi & Awọn ohun elo</td>
 
   </tr>
   
   <tr>
     
 
-<td>Coin Sites</td>
+<td>Aaye ayelujara ti owo</td>
 
-<td>Technological & Fundamental</td>
+<td>Awọn ohun elo & Awọn ọja</td>
 
   </tr>
   
@@ -157,7 +157,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>CoinMarketCap</td>
 
-<td>Technical, Technological & Fundamental</td>
+<td>Idiju, Awọn ohun elo & Awọn ọja</td>
 
   </tr>
   
@@ -166,7 +166,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Github</td>
 
-<td>Technological</td>
+<td>Awọn ohun elo</td>
 
   </tr>
   
@@ -175,7 +175,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Coinbio</td>
 
-<td>General Information about every crypto </td>
+<td>Alaye Gbogbogbo nipa gbogbo kiripito </td>
 
   </tr>
   
@@ -184,7 +184,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>BitInfoCharts</td>
 
-<td>Technical </td>
+<td>Idiju </td>
 
   </tr>
   
@@ -193,7 +193,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Cointelegraph</td>
 
-<td>Technical </td>
+<td>Idiju </td>
 
   </tr>
   
@@ -202,7 +202,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>CCN</td>
 
-<td>Sentiment (Forums & News)</td>
+<td>Iwoyesi (Awọn apero & Iroyin)</td>
 
   </tr>
   
@@ -211,7 +211,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>CoinDesk</td>
 
-<td>Sentiment (Forums & News)</td>
+<td>Iwoyesi (Awọn apero & Iroyin)</td>
 
   </tr>
   
@@ -220,33 +220,33 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Bitcointalk</td>
 
-<td>Sentiment (Forums & News) </td>
+<td>Iwoyesi (Awọn apero & Iroyin) </td>
 
   </tr>
   
   <tr>
     
 
-<td>Crypto Coin Rankings</td>
+<td>Awọn ipele ipo Owo Kiripito</td>
 
-<td>Technological & Technical </td>
+<td>Awọn ohun elo & Idiju </td>
 
   </tr>
 </table>
 
-* #### **TECHNICAL ANALYSIS**
+* #### **IYANANA IDIJU**
 
-Technical analysis is a trading tool employed to evaluate [securities](https://www.investopedia.com/terms/s/security.asp) and identify trading opportunities by analyzing statistics gathered from trading activity, such as price movement and volume. Unlike fundamental analysts who attempt to evaluate a security’s intrinsic value, [technical analysts](https://www.investopedia.com/terms/t/technical-analyst.asp) focus on charts of price movement and va rious analytical tools to evaluate a security’s strength or weakness. A typical source may be **coinmarketcap**. We focus on indicators and methods suitable for assets with high volatility of prices, and hence suitable for cryptocurrencies.
+Iyanana idiju jẹ irinṣẹ iṣowo ti o jẹ lilo lati ṣe agbelewọn [awọn iduro](https://www.investopedia.com/terms/s/security.asp) ati sise idamọ awọn anfani iṣowo nipasẹ ṣiṣe iyanana awọn alaye iṣiro ti o jẹ kikojọ lati iṣẹ iṣowo, gẹgẹbi isipopada idiyele ati odiwọn. Lodi si awọn oluyanana pataki ti o gbiyanju lati ṣe igbelewọn ojulowo iwulo ti aabo kan, [oluyanana idiju](https://www.investopedia.com/terms/t/technical-analyst.asp) fojusi awọn aworan ti isipopada idiyele ati orisirisi awọn irinṣẹ iyanana lati ṣe igbelewọn agbara tabi alebu ti aabo kan. Apẹẹrẹ orisun kan le jẹ **coinmarketcap**. A fojusi awọn atọka ati awọn ọna ti o dara fun awọn dukia ti o ni iyipada pajawiri ti o ga julọ, ati fun idi eyi dara fun awọn owo kiripito.
 
-Technical analysts believe the analysis of price movement or the supply and demand of currencies is the best way to identify trends in the currency. Price movements tend to trade within a trend or range. In connection with this belief, technical analysts assume that history tends to repeat itself, based on the idea that market participants have often reacted in a similar fashion to reoccurring market events. There is a very large number of techniques and indices for data analysis. In this section, we focus on certain simple techniques, such as Keltner Channels , moving average crossovers, RSI, Bollinger Bands, and the popular MACD, and to some advanced methods, such as Fibonnaci, and Ichimoku Kinko Hyo.
+Awọn oluyanana idiju gbagbọ pe iyanana isipopada idiyele tabi ipese ati ibeere ti awọn owo jẹ ọna ti o dara julọ lati da awọn asa inu owo naa mọ. Awọn isipopada idiyele saba ma n ṣe iṣowo laarin aṣa tabi ayika kan. Ni asopọ pẹlu igbagbọ yii, awọn oluyanana idiju gbero pe o sunmọ ki itan tun waye lẹẹkan si, dida lori ero wipe awọn olukopa ọja ti ni ọpọ igba fesi ni iru ọna kanna si awọn iṣẹlẹ ọja ti o n fi gbogbo igba sẹlẹ. Nọmba nla ni o wa fun awọn ilana ati awọn itọkasi fun iyanana data. Ni abala yii, a fojusi awọn pato ilana kan, bii Awọn ikanni Keltner, sisun agbede awọn idakọja, RSI, Bollinger Bands, ati MACD ti o gbajumọ, ati si awọn ọna kan to ni idagbasoke, gẹgẹbi Fibonnaci, ati Ichimoku Kinko Hyo.
 
-* Keltner Channels put an upper, middle and lower band around the price action on a stock chart. The indicator is most useful in strongly [trending markets](https://www.investopedia.com/terms/t/trending-market.asp) when the price is making higher highs and higher lows for an [uptrend](https://www.investopedia.com/terms/u/uptrend.asp), or lower highs and lower lows for a [downtrend](https://www.investopedia.com/terms/d/downtrend.asp).
+* Awọn ikanni Keltner fi ipin oke, aarin ati isalẹ yika iṣe owo lori iwe aworan ọja. Atọka naa wulo julọ wulo ninu [awọn ọja ti o gbode lọwọ](https://www.investopedia.com/terms/t/trending-market.asp) nigbati iye owo ọja naa n de awọn iwọn giga to ga julọ ati awọn iwọn kukuru to ga julọ fun [idagbasoke](https://www.investopedia.com/terms/u/uptrend.asp), tabi awọn iwọn giga to kere ati awọn iwọn kukuru to kere fun [ijawasilẹ](https://www.investopedia.com/terms/d/downtrend.asp).
 
-**Moving average crossovers:** The reason moving average is so important for traders and analysts is its smoothing role. It is responsible for noise removal, for outlier detection and emphasizes in long term trends. Several different kinds of moving average calculations exist, but all of them are used to plot a line against either a price chart or another indicator. The direction and slope of moving average lines inform investors about the relationship between historical data values and present data values. The flexibility of moving averages allows them to be used to analyze other moving averages. A common strategy involves plotting two moving average lines of different time intervals and interpreting their relationship to spot trends, forecast price movements and place trades. Moving average crossovers have subsequently become the focus of an entire subset of technical indicators. When utilizing moving averages, crossovers can determine a change in the price trend. A common trend reversal technique is utilizing a five-period simple moving average with a 15-period simple moving average. When the five-period moving average forms a crossover, it signals a reversal in the trend and potentially the start of a new opposite trend, which is called a breakout or a breakdown.
+**Sisun agbede awọn idakọja:** Idi ti sisun agbede ṣe jẹ pataki pupọ fun awọn oniṣowo ati awọn oluyanana ni ipa idanmọran rẹ. Ojuṣe rẹ ni yiyọ ariwo, fun iṣawari iyatọ ati itẹnumọ ni awọn asa igba pipẹ. Ọpọlọpọ awọn oriṣiriṣi awọn iṣiro sisun agbede ni o wa, ṣugbọn gbogbo wọn ni a lo lati ṣe atọ ila kan ni boya atako si atẹ owo tabi itọkasi miiran. Oju ọna ati idagẹẹrẹ ti awọn ila sisun agbede n sọ fun awọn oludokoowo nipa ibasepọ laarin awọn itan iwulo data ati awọn iwulo data lọwọlọwọ yii. Awọn irọrun ti awọn sisun agbede n fayegba ki wọn jẹ lilo lati ṣe iyanana awọn sisun agbede miiran. Ọgbọn kan ti o wọpọ jẹmọ ṣiṣe atọ awọn ila sisun agbede meji ni ti akoko wọn yatọ si ara wọn ati titumọ awọn ibasepọ wọn lati ri awọn asa, asọtẹlẹ awọn isipopada idiyele ati ṣe awọn iṣowo. Sisun agbede awọn idakọja ti wa pada di afojusun ti gbogbo ẹya awọn itọka idiju kan. Nigba ti lilo awọn sisun agbede ba n waye, awọn idakọja le se ipinnu iyipada ninu aṣa idiyele. Aṣa ilana adapada kan ti o wọpọ n lo sisun agbede onirọrun alakoko-marun pẹlu sisun agbede onirọrun alakoko-mẹẹdogun. Nigbati sisun agbede alakoko-marun ba ti di idakọja kan, o n ṣafihan adapada ninu aṣa ati boya ibẹrẹ aṣa iadakeji titun miiran kan, eyi ti a n pe ni aseyọri tabi ijakulẹ.
 
-**Relative Strength Index (RSI)** is a momentum indicator that measures the magnitude of recent price changes to analyze overbought or oversold conditions. It is primarily used to attempt to identify overbought or oversold conditions in the trading of an asset. The RSI provides a relative evaluation of the strength of a security’s recent price performance, thus making it a momentum indicator. RSI values above or equal to 70 indicate that a security is becoming overbought or overvalued. RSI reading below or equal to 30 is commonly interpreted as indicating an oversold or undervalued condition that may signal a trend change or corrective price reversal to the upside. Some traders, in an attempt to avoid false signals from the RSI, use more extreme RSI values as buy or sell signals, such as RSI readings above 80 to indicate overbought conditions and RSI readings below 20 to indicate oversold conditions. Sudden large price movements can create false buy or sell signals in the RSI. It is, therefore, best used with refinements to its application or in conjunction with other, confirming technical indicators.
+**Ibatan Agbara Atọka (RSI)** jẹ atọka agbara kan ti o n ṣe odiwọn ipa awọn iyipada idiyele ti o ṣẹṣẹ waye lati ṣe iyanana awọn ipo ti araju tabi ataju. O jẹ lilo ni pato fun gbigbiyanju lati ṣe idamọ awọn ipo araju tabi ataju ninu iṣowo ohun-ini kan. RSI n pese igbelewọn onibatan ti agbara iṣiṣẹ-owo aabo kan laipẹ, nitorina o n sọ di atọka agbara. Awọn onka RSI ti o ba ju tabi dọgba pẹlu 70 fihan pe aabo kan ti n di araju tabi apọnju. Onka RSI to ba kere si tabi to ba dọgba pẹlu 30 ma n saba jẹ titumọ si eyi ti o ti bọsi ataju tabi ipo ifojutẹnbẹlu ti o le ṣafihan iyipada ti aṣa tabi atunṣe adapada idiyele si odi. Diẹ ninu awọn onisowo, ninu igbiyanju lati yago fun ifihan eke lati RSI, ma n lo awọn iye RSI ti o ga julọ gẹgẹbi awọn ifihan fun rira tabi tita, bi awọn onka RSI to ba ju 80 lọ lati ṣafihan awọn ipo ti araju ati awọn onka RSI to kere si 20 lati ṣafihan ipo ti ataju. Awọn iṣipopada ojiji ti idiyele nla le ṣẹda awọn ifihan ti rira tabi tita ti o jẹ eke ninu RSI. Nitorina, o dara julọ lati lo pẹlu awọn isọdọtun si ohun elo rẹ tabi ni asepọ pẹlu awọn miiran, jijẹri awọn itọka idiju.
 
-**Bollinger Bands** are a technical chart indicator popular among traders across several financial markets. On a chart there are two “bands” that sandwich the market price. Many use them primarily to determine overbought and oversold levels. A common strategy is to sell when the price touches the upper Bollinger Band and buy when it hits the lower band. This technique also called range-bound markets. In this type of market, the price bounces off the Bollinger Bands like a ball bouncing between two walls.
+**Awọn ila Bollinger** jẹ awọn atẹ atọka idiju ti o gbajumọ laarin awọn onisowo ni jakejado ọpọlọpọ awọn ọja iṣowo. Lori atẹ kan "awọn ila" meji ti o jẹ afibọ idiyele ọja. Ọpọlọpọ lo wọn ni pato lati mọ awọn ipele araju ati ataju. Ilana kan ti o wọpọ ni lati ta nigbati idiyele naa ba kan oke Ila Bollinger ati ki o ra nigbati o ba kan ila isalẹ. This technique also called range-bound markets. In this type of market, the price bounces off the Bollinger Bands like a ball bouncing between two walls.
 
 **MACD** calculates the difference between a currency’s 26-day and 12-day exponential moving averages (EMA). The 12-day EMA is the faster one, while the 26-day is a slower moving average. The calculation of both EMAs uses the closing prices of whatever period is measured. On the MACD chart, a nine-day EMA of MACD itself is plotted as well, and it acts as a signal for buy and sell decisions.The MACD histogram provides a visual depiction of the difference between MACD and its nine-day EMA. MACD histogram is one of the main tools traders use to gauge momentum, because it gives an intuitive visual representation of the speed of price movement. For this reason, the MACD is commonly used to measure the strength of a price move rather than the direction or trend of a currency.
 
