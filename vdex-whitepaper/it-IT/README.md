@@ -28,7 +28,7 @@ Verto is being built as a multi-currency wallet for use with the VDex decentrali
 
 ### 2.3 VESPUCCI
 
-Vespucci is envisioned as an analytics engine accessible via a user-friendly interface with treasure troves of real-time and historical market data, such as digital assets ratings and sentiment analysis. We wish to empower users with tools to graph and compare tradeable digital assets, to access and parse historical trading records, to plot trends and patterns, and to monitor and assess open-source software developments. Vespucci seeks to bring to your fingertips confident and comprehensive market-relevant data by aggregating the information currently scattered throughout many different blockchains, websites, chat rooms, and exchanges.
+Vespucci è concepito come un motore di analisi accessibile tramite un'interfaccia facile da usare, con forzieri contenenti dati di mercato in tempo reale e storici, come i rating dei beni digitali e l'analisi del sentimento. We wish to empower users with tools to graph and compare tradeable digital assets, to access and parse historical trading records, to plot trends and patterns, and to monitor and assess open-source software developments. Vespucci seeks to bring to your fingertips confident and comprehensive market-relevant data by aggregating the information currently scattered throughout many different blockchains, websites, chat rooms, and exchanges.
 
 ### 2.4 VDEX
 
@@ -76,11 +76,11 @@ In EOS.IO, l'emissione di un asset digitale crea una sidechain, cioè un meccani
 
 #### 3.0.5 Liquidità
 
-Un asset digitale è liquido se può essere facilmente venduto o comprato in volumi di scambio ordinari senza che nel breve termine ci sia alcun impatto significativo sul suo prezzo di mercato prevalente. Per ottenere tale status, di solito qualsiasi asset negoziabile deve superare una soglia di volume di negoziazione sufficiente per sostenere la stabilità. Specifically, we anticipate adopting the following methodologies: Loopring protocol with the use of EOS.IO contracts acting as nodes.[5] Bancor algorithm used to bring stability to the digital asset.[6] Toggles between these protocols and HTLC (atomic swaps) according to Vespucci analyses on the VDex network.
+Un asset digitale è liquido se può essere facilmente venduto o comprato in volumi di scambio ordinari senza che nel breve termine ci sia alcun impatto significativo sul suo prezzo di mercato prevalente. Per ottenere tale status, di solito qualsiasi asset negoziabile deve superare una soglia di volume di negoziazione sufficiente per sostenere la stabilità. In particolare, prevediamo di adottare le seguenti metodologie: Protocollo Loopring con l'utilizzo di contratti EOS.IO che agiscono come nodi.[5] Algoritmo di Bancor utilizzato per portare stabilità all'asset digitale.[6] Commutazioni tra questi protocolli e gli HTLC (atomic swap) secondo le analisi di Vespucci sulla rete VDex.
 
 #### 3.0.6 Hashed Timelock Contracts (Atomic Swaps)
 
-A Hashed Timelock Contract (HTLC)[1] is a smart contract enabling the implementation of time-bound transactions. Users will be offered a variable lock-in period for their transactions, with a discount on transaction fees in exchange for choosing a longer lock-in period.
+Un Hashed Timelock Contract (HTLC)[1] è uno smart contract che consente l'implementazione di transazioni con scadenza. Agli utenti sarà offerto un periodo di lock-in variabile per le loro transazioni, con uno sconto sulle commissioni della transazione in cambio della scelta di un periodo di lock-in più lungo.
 
 ### 3.1 TOPOLOGIA DI RETE
 
@@ -88,7 +88,7 @@ A Hashed Timelock Contract (HTLC)[1] is a smart contract enabling the implementa
 
 ![](../9.jpg)
 
-Nodes are the endpoints of the VDex exchange. Their functions are:
+I nodi sono gli endpoint dell'exchange VDex. Le loro funzioni sono:
 
 1. Agire come portali per VDex attraverso il wallet di Verto.
 
@@ -102,15 +102,15 @@ Nodes are the endpoints of the VDex exchange. Their functions are:
 
 6. Inizializzare i contratti per gli ordini che sono stati completati.
 
-Nodes earn a portion of the fee for each transaction. If a user has sufficient funds and possesses a good track record, his or her Verto wallet can act as a node.
+I nodi guadagnano una parte delle commissioni per ogni transazione. Se un utente ha fondi sufficienti e possiede una buona reputazione, il suo portafoglio Verto può fungere da nodo.
 
 #### 3.1.2 Aggregatori
 
-The VDex aggregators are dedicated Volentix servers for simulator and security purposes. One of their functions is to pull logs and order book data from nodes into sparse distributed representations for hierarchical temporal memory as intrusion [7] analysis for detecting anomalies in the system. The aggregators will also be host to other components such as metachain ledgers and blockchain scrapers.
+Gli aggregatori di VDex sono server dedicati di Volentix che hanno come scopo la sicurezza e le simulazioni. One of their functions is to pull logs and order book data from nodes into sparse distributed representations for hierarchical temporal memory as intrusion [7] analysis for detecting anomalies in the system. The aggregators will also be host to other components such as metachain ledgers and blockchain scrapers.
 
 #### 3.1.3 Latenza
 
-EOS.IO has low latency block confirmation (0.5 seconds).[5] This degree of latency can be maintained in transactions with other blockchains if those chains admit of similar latency. But fundamentally the transaction is only as rapid as the lesser-rapid chain in the equation. It is well known, for example, that a Bitcoin block requires approximately ten minutes for processing. Receiving a transaction hash does not mean the transaction is confirmed; it means only that a node accepted the transaction without error, although there is generally a high probability other block producers will accept it.
+EOS.IO ha una latenza bassa per la conferma dei blocchi (0.5 secondi). [5] Questo grado di latenza può essere mantenuto nelle transazioni con altre blockchain se queste chain hanno una latenza simile. Ma fondamentalmente la transazione può essere rapida solo quanto la chain meno rapida dell'equazione. Per esempio, è risaputo, che un blocco Bitcoin necessita circa 10 minuti per l'elaborazione. Receiving a transaction hash does not mean the transaction is confirmed; it means only that a node accepted the transaction without error, although there is generally a high probability other block producers will accept it.
 
 ### 3.2 ORDER BOOK
 
