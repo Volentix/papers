@@ -250,7 +250,7 @@ Awọn oluyanana idiju gbagbọ pe iyanana isipopada idiyele tabi ipese ati ibee
 
 **MACD** n ṣe iṣiro iyatọ sisun awọn agbede onilopo (EMA) ti o wa laarin owo ti ọjọ-kẹrindinlọgbọn ati ti ọjọ-kejila. EMA ti ọjọ-kejila ni eyi to yara julọ, nigbati ti ọjọ kẹrindinlọgbọn jẹ agbede sisun ti o lọra. Iṣiro ti awọn EMA mejeeji n lo awọn idiyele ipari ti eyikeyi akoko ti o ba jẹ wiwọn. Lori atẹ MACD, atọ ila EMA ọlọjọ mẹsan ti MACD funrarẹ jẹ ṣiṣe, o si n ṣiṣẹ gẹgẹbi aami fun awọn ipinnu rira ati tita. Awọn atẹ ila aworan MACD n pese apẹẹrẹ afojuri ti iyatọ to wa laarin MACD ati ti EMA ọlọjọ mẹsan rẹ. Atẹ ila aworan MACD jẹ ọkan pataki ninu awọn irinṣẹ ti awọn onisowo n lo lati wọn agbara, nitori pe o n funni ni apejuwe ifura alafojuri ti bi isipopada idiyele ṣe yara si. Fun idi eyi, MACD saba ma n jẹ lilo lati wọn agbara isipopada idiyele dipo oju ọna tabi aṣa ti owo kan.
 
-More advanced techniques for data analysis are the Fibonacci methods as well as Ichimoku Kinko Hyo techniques, as discussed in the sequel.
+Awọn ilana to tubọ ga soke sii fun awọn iyanana data jẹ awọn ọna Fibonacci ati awọn ọna Ichimoku Kinko Hyo bakanaa, gẹgẹ bi a ti ṣe sọ siwaju ninu atẹle naa.
 
 **Fibonacci Extension:** They are popular forecasting tools, often used in combination with other technical chart patterns. Many traders use this technique in conjunction with wave-based studies (Elliott Wave, Wolfe Wave) to estimate the height of each wave and define the different waves. They commonly used with other chart patterns such as the ascending triangle. Once the pattern is identified, a forecast can be created by adding 61.8% of the distance between the upper resistance and the base of the triangle to the entry price.
 
