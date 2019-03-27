@@ -18,9 +18,9 @@ L'ecosistema Volentix esisterà sulla base di 4 pilastri, un array di applicazio
 
 ### 2.1 VENUE
 
-Venue is planned as a dynamic community platform that recruits and aligns members of the Volentix community to facilitate distribution of VTX, the native digital asset of the Volentix ecosystem, and to promote awareness of Volentix initiatives.
+Venue è progettato come una piattaforma comunitaria dinamica che recruta e assegna i membri della comunità Volentix per facilitare la distribuzione di VTX, l'aset digitale nativo dell'ecosistema Volentix, e promuove la consapevolezza delle iniziative Volentix.
 
-Recently launched in beta testing, Venue enables users to receive VTX in exchange, for example, for participating in developing dedicated communities, submitting bug fixes, and claiming bounties. Leaderboards and live metrics reflect user participation. The first signature campaign was launched on the https://bitcointalk.org/ forum on July 13, 2018. Please visit https://venue.volentix.io for more information.
+Lanciata recentemente nella versione di beta test, Venue permette agli utenti di ricevere VTX in cambio, ad esempio, per la partecipazione alle comunità dedicate allo sviluppo, presentando soluzioni ai bug, e rivendicando le bountie (taglie). Le classifiche e le metriche live riflettono la partecipazione dell'utente. La prima campagna di raccolta firme è stata lanciata sul forum di https://bitcointalk.org/ il 13 luglio 2018. Per ulteriori informazioni visita https://venue.volentix.io.
 
 ### 2.2 VERTO
 
@@ -40,39 +40,39 @@ Il quarto pilastro di Volentix, l'exchange VDex, è la piattaforma di commercio 
 
 #### 3.0.1 Sistema operativo
 
-We have evaluated various operating systems as candidates for the substructure of our VDex exchange. Though we honor the work done by a number of the established leaders in digital assets and blockchain technology, among those trailblazers the work of EOS.IO as an operating system-like framework upon which decentralized applications can be built stands out, in our opinion, as exemplary. The software provides accounts, authentication, databases, asynchronous communication, and scheduling across clusters. Components and protocols are already built into the platform, and a subset can be used to satisfy our VDex requirements. VDex will initially benefit from the standard features offered by EOS.IO such as account and wallet creation and the recovery of stolen keys, but we plan subsequently to implement protocols for creation of a decentralized exchange through EOS contracts and other tools.[2] Here is a summary of encouraging methodologies:
+Abbiamo valutato diversi sistemi operativi come candidati per la sottostruttura del nostro exchange VDex. Pur onorando il lavoro svolto da alcuni dei leader affermati nel campo degli asset digitali e della tecnologia blockchain, tra questi pionieri spicca, a nostro avviso, il lavoro di EOS.IO come struttura simile a un sistema operativo su cui si possono costruire applicazioni decentralizzate. Il software fornisce account, autenticazione, database, comunicazione asincrona, e pianificazione tra cluster. Componenti e protocolli sono già incorporati nella piattaforma, e un sottoinsieme può essere utilizzato per soddisfare i requisiti del nostro VDex. Inizialmente VDex beneficerà delle caratteristiche standard offerte da EOS.IO come la creazione di account e wallet e il recupero di chiavi rubate, ma in seguito prevediamo di implementare protocolli per la creazione di un exchange decentralizzato attraverso l'utilizzo dei contratti EOS e altri strumenti.[2] Ecco un riepilogo di metodi incoraggianti:
 
 ### Azioni Acontestuali
 
-Most of the scalability techniques proposed by Ethereum (Sharding, Raiden, Plasma, State Channels) become more efficient, parallelizable, and practical while also ensuring speedy inter-blockchain communication and unimpaired scalability. A Context Free Action involves computations that depend only on transaction data, and not upon the blockchain state.
+La maggior parte delle tecniche di scalabilità proposte da Ethereum (Sharding, Raiden, Plasma, State Channels) diventano più efficienti, parallelizzabili e pratiche, garantendo allo stesso tempo una rapida comunicazione inter-blockchain e una scalabilità inalterata. Un'Azione Acontestuale comporta computazioni che dipendono solo dai dati delle transazioni, e non dallo stato della blockchain.
 
 ### Conversione Binaria/JSON
 
-EOS contracts combine the human readability of JSON with the efficiency of binary.
+I contratti EOS combinano la leggibilità umana di JSON con l'efficienza del binario.
 
 ### Parallelizzazione e ottimizzazione
 
-Separating authentication from application allows faster transaction times and increases bandwidth. EOS.IO blocks are reportedly produced every 500ms.
+La separazione dell'autenticazione dall'applicazione permette transazioni più rapide e aumenta la larghezza di banda. Secondo quanto riferito, i blocchi di EOS.IO vengono prodotti ogni 500ms.
 
 ### Web Assembly(WASM)
 
-Web Assembly enables high-performance Web applications and also secures each application in its own sandbox, through which functionalities VDex can obtain network access, filesystem namespace restrictions, and enforced rule-based execution.
+Web Assembly abilita applicazioni Web ad alte prestazioni e inoltre mette al sicuro ogni applicazione nella propria sandbox, attraverso le cui funzionalità VDex può ottenere l'accesso alla rete, le restrizioni del namespace dei filesystem e l'esecuzione forzata basata su determinate regole.
 
 ### Contratti Rust/C++
 
-The well-known and popular programming language C++ appears highly suitable for WASM. C++ has highly mature debugging support and libraries. The EOS codebase uses templates liberally, and C++ allows the use of templates and operator overloading to define a runtime cost-free validation of units. The program reinitializes to clean state at the start of every message, a distinct advantage that streamlines formulation of smart contracts. The WebAssembly framework automatically rejects any transaction addressing memory inaccurately. In case dynamic memory allocation is necessary, users can depart to smart pointers because EOS.IO contracts use C++14. It is noteworthy that the first implementation of PARSEC Directed Acyclic Graph (DAG) technology is expected to be in Rust.
+Il noto e popolare linguaggio di programmazione C++ appare altamente adatto a WASM. C++ ha un supporto di debug e delle librerie altamente maturi. Il codebase di EOS utilizza liberamente i template, e C++ permette l'uso di template e sovraccarico dell'operatore per definire una convalida delle unità senza costi di runtime. Il programma si reinizializza a stato pulito all'inizio di ogni messaggio, un distinto vantaggio che semplifica la formulazione degli smart contract. Il framework Web Assembly rifiuta automaticamente qualsiasi transazione che fa riferimento alla memoria in modo impreciso. Nel caso in cui sia necessaria l'allocazione di memoria dinamica, gli utenti possono passare a puntatori inteligenti perchè i contratti di EOS.IO utilizzano C++14. È degno di nota il fatto che la prima implementazione della tecnologia Directed Acyclic Graph (DAG) di PARSEC dovrebbe avvenire in Rust.
 
 #### 3.0.2 Schema defined messages and database
 
-Service contracts are standardized to provide a baseline measure of interoperability between and among disparate systems by harmonization of data models. Indeed, the Standardized Service Contract design principle advocates that service contracts be based on standardized data models. Analysis is done on the service inventory blueprint to find out the commonly occurring business documents that are exchanged between services. These business documents are then modeled in a standardized manner. The Canonical Schema pattern reduces the need for application of the data model transformation design pattern. [3]
+Service contracts are standardized to provide a baseline measure of interoperability between and among disparate systems by harmonization of data models. Infatti, il principio del modello del Contratto di Servizio Standardizzato prevede che i contratti di servizio siano basati su modelli di dati standardizzati. L'analisi viene effettuata sul progetto dell'inventario dei servizi per scoprire i documenti aziendali più comuni che vengono scambiati tra i servizi. Questi documenti aziendali vengono poi modellati in un modo standardizzato. The Canonical Schema pattern reduces the need for application of the data model transformation design pattern. [3]
 
 #### 3.0.3 Comunicazione Inter-Contract
 
-Data is shared between contracts via an oracle, which, "in the context of blockchains and smart contracts, is an agent that finds and verifies real-world occurrences and submits this information to a blockchain to be used by smart contracts.” [4] Every node will have an identical copy of these data, for use in smart contract computation. Rather than the smart contract functioning to pull the data, instead the oracle pushes the data onto the blockchain. In the instance of a blockchain, most reading of the data is done via polling "models" in order to monitor blockchain state and to perform certain responsive actions.
+I dati sono condivisi tra i contratti attraverso un oracolo, che, "nel contesto delle blockchain e degli smart contract, è un agente che trova e verifica eventi del mondo reale e invia queste informazioni ad una blockchain che verrà utilizzata dagli smart contract". [4] Ogni nodo avrà una copia identica di questi dati, da utilizzare nella computazione degli smart contract. Piuttosto che sia lo smart contract a funzionare per estrarre i dati, è invece l'oracolo a inviare i dati alla blockchain. In the instance of a blockchain, most reading of the data is done via polling "models" in order to monitor blockchain state and to perform certain responsive actions.
 
 #### 3.0.4 Sidechains
 
-In EOS.IO, issuance of a digital asset creates a sidechain, which is an emerging mechanism permitting digital assets from one blockchain to be securely used in a separate blockchain and then moved back to the original blockchain. Efficiency of processing is promoted by creating multiple sidechains. A TCP-like communication channel between different blockchains evaluates proofs. For each shard (a unit of parallelizable execution in a cycle), a balanced merkle tree is constructed of these action commitments to generate a temporary shared merkle root; this is done for speed of parallel computation. The block header contains the root of a balanced merkle tree the leaves of which are the roots of these individual shard merkle trees. [2]
+In EOS.IO, l'emissione di un asset digitale crea una sidechain, cioè un meccanismo emergente che permette ad un bene digitale proveniente da una blockchain di essere utilizzato in modo sicuro in un altra blockchain e poi essere nuovamente spostato sulla blockchain originale. L'efficienza dell'elaborazione è promossa dalla creazione di molteplici sidechain. A TCP-like communication channel between different blockchains evaluates proofs. For each shard (a unit of parallelizable execution in a cycle), a balanced merkle tree is constructed of these action commitments to generate a temporary shared merkle root; this is done for speed of parallel computation. The block header contains the root of a balanced merkle tree the leaves of which are the roots of these individual shard merkle trees. [2]
 
 #### 3.0.5 Liquidità
 
