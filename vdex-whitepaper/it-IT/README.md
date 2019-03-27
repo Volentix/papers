@@ -14,7 +14,7 @@ The VDex launch point anticipates matching Volentix's design requirements to ava
 
 ## 2. VOLENTIX
 
-The Volentix ecosystem will exist atop four pillars, an initializing array of applications specifically known as Venue, Verto, Vespucci, and VDex.
+L'ecosistema Volentix esisterà sulla base di 4 pilastri, un array di applicazioni di inizializzazione specificamente note come Venue, Verto, Vespucci, e VDex.
 
 ### 2.1 VENUE
 
