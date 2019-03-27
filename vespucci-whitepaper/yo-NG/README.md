@@ -262,9 +262,9 @@ Awọn ilana to tubọ ga soke sii fun awọn iyanana data jẹ awọn ọna Fib
 
 1. Tenkan-sen: N ṣoju atilẹyin ati ipele atako, ati pe o jẹ ila aami fun adapada.
 2. Kijun-sen: N ṣoju atilẹyin ati ipele atako. O jẹ idaniloju ti iyipada aṣa, o le ṣee lo gẹgẹbi ipa-ọna dida ipadanu duro.
-3. Senkou Span A: Ni agbedemeji ti tenkan-sen ati kijun-sen ṣiwaju iṣẹju aaya 26. The resulting line is used to identify future areas of support and resistance.
-4. Senkou Span B: Is calculated by the highest high and the lowest low over the past 52 periods, for 26 periods ahead. The resulting line is used to identify future areas of support and resistance.
-5. Chickou Span: Is the current period’s closing price plotted 26 days back on the chart. This line is used to show possible areas of support and resistance.
+3. Senkou Span A: Ni agbedemeji ti tenkan-sen ati kijun-sen ṣiwaju iṣẹju aaya 26. Abajade ila naa jẹ lilo lati ṣe idamọ awọn agbegbe atilẹyin ati atako ọjọ iwaju.
+4. Senkou Span B: N jẹ ṣiṣiro nipasẹ awọn iwọn giga to ga julọ ati awọn iwọn kukuru to kuru julọ ni awọn igba 52, fun awọn igba 26 to si wa niwaju. Abajade ila naa jẹ lilo lati ṣe idamọ awọn agbegbe atilẹyin ati atako ọjọ iwaju.
+5. Chickou Span: Ni idiyele ipari ti igba ti a wa lọwọlọwọ yii ti atọ ila rẹ jẹ ṣiṣe ni ọjọ 26 ṣẹyin lori atẹ naa. This line is used to show possible areas of support and resistance.
 
 * #### **FUNDAMENTAL AND TECHNOLOGICAL ANALYSIS**
 
