@@ -258,11 +258,11 @@ Awọn ilana to tubọ ga soke sii fun awọn iyanana data jẹ awọn ọna Fib
 
 **Awọn ikanni Fibonacci:** Apẹẹrẹ Fibonacci le jẹ lilo fun awọn ikanni ti kii ṣe oro nikan, ṣugbọn ati ti ibu naa. Ọna kan ti o wọpọ jẹ ṣiṣe apapọ awọn ẹkọ ibu ati oro ti Fibonacci lati wa awọn ibi ti awọn mejeeji ti ṣe afihan atako to lagbara.
 
-**Ichimoku Kinko Hyo** is a technical indicator that is used to gauge momentum along with future areas of support and resistance.It was originally developed by a Japanese newspaper writer to combine various technical strategies into a single indicator that could be easily implemented and interpreted. Ichimoku indicator is a combination of five key components:
+**Ichimoku Kinko Hyo** jẹ atọka idiju ti o jẹ lilo lati ṣe iwọn agbara pẹlu awọn agbegbe atilẹyin ti ọjọ iwaju ati atako. O kọkọ jẹ gbigbedide nipasẹ akọwe iroyin ọmọ ilẹ Japan kan lati da awọn orisirisi awọn ete idiju pọ sinu atọka kan ti amulo ati itumọ rẹ le jẹ ṣiṣe pẹlu irọrun. Atọka Ichimoku jẹ apapọ awọn ẹya ara marun:
 
-1. Tenkan-sen: Represents support and resistance level, and it’s a signal line for reversals.
-2. Kijun-sen: Represents support and resistance level. It’s a confirmation of a trend change, and can be used as a trailing stop-loss point.
-3. Senkou Span A: Is the average of tenkan-sen and kijun-sen for 26 periods ahead. The resulting line is used to identify future areas of support and resistance.
+1. Tenkan-sen: N ṣoju atilẹyin ati ipele atako, ati pe o jẹ ila aami fun adapada.
+2. Kijun-sen: N ṣoju atilẹyin ati ipele atako. O jẹ idaniloju ti iyipada aṣa, o le ṣee lo gẹgẹbi ipa-ọna dida ipadanu duro.
+3. Senkou Span A: Ni agbedemeji ti tenkan-sen ati kijun-sen ṣiwaju iṣẹju aaya 26. The resulting line is used to identify future areas of support and resistance.
 4. Senkou Span B: Is calculated by the highest high and the lowest low over the past 52 periods, for 26 periods ahead. The resulting line is used to identify future areas of support and resistance.
 5. Chickou Span: Is the current period’s closing price plotted 26 days back on the chart. This line is used to show possible areas of support and resistance.
 
