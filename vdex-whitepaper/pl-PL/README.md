@@ -1,14 +1,14 @@
 # THE VOLENTIX VDEX WHITE PAPER
 
-- Version: 0.1.4
-- Updated: 11-03-2019
-- Website: www.volentix.io
+- Wersja: 0.1.4
+- Ostatnia aktualizacja: 11-03-2019
+- Strona internetowa: www.volentix.io
 
-## 1. INTRODUCTION
+## 1. WPROWADZENIE
 
-Volentix introduces VDex, designed as a distributed, decentralized digital assets exchange with emphasis on user experience and community development and governance. By accessing established technologies and planning selective new protocols with priority on security, speed, authentication, ease of use, scalability, and multi-asset support, VDex intends to facilitate peer-to-peer transactions by assembling a portfolio of decentralized applications built on EOS.IO smart contracts.
+Volentix wprowadza VDex, zaprojektowany jako rozproszona, zdecentralizowana wymiana zasobów cyfrowych z naciskiem na doświadczenie użytkownika i rozwój społeczności oraz zarządzanie. Dzięki dostępowi do ustalonych technologii i planowaniu selektywnych nowych protokołów z priorytetem w zakresie bezpieczeństwa, szybkości, uwierzytelniania, łatwości użycia, skalowalności i obsługi wielu zasobów, VDex zamierza ułatwić transakcje peer-to-peer, tworząc portfolio zdecentralizowanych aplikacji zbudowanych na inteligentnych umowach EOS.IO.
 
-The VDex launch point anticipates matching Volentix's design requirements to available technologies superimposed on the EOS.IO decentralized operating system. We intend to test our assumptions by prototyping via custom EZEOS software, which we built and customized with EOS.IO's cleos command line tools. This software resides at: https://github.com/Volentix/ezeos
+Punkt startowy VDex przewiduje dopasowanie wymagań projektowych Volentix do dostępnych technologii nałożonych na zdecentralizowany system operacyjny EOS.IO. We intend to test our assumptions by prototyping via custom EZEOS software, which we built and customized with EOS.IO's cleos command line tools. This software resides at: https://github.com/Volentix/ezeos
 
 ![](../main3-3000px.jpg)
 
