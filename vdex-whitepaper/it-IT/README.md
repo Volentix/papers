@@ -18,7 +18,7 @@ L'ecosistema Volentix esisterà sulla base di 4 pilastri, un array di applicazio
 
 ### 2.1 VENUE
 
-Venue è progettato come una piattaforma comunitaria dinamica che recruta e assegna i membri della comunità Volentix per facilitare la distribuzione di VTX, l'aset digitale nativo dell'ecosistema Volentix, e promuove la consapevolezza delle iniziative Volentix.
+Venue è progettato come una piattaforma dinamica comunitaria che recruta e assegna i membri della comunità Volentix per facilitare la distribuzione di VTX, l'asset digitale nativo dell'ecosistema Volentix, e promuove la consapevolezza delle iniziative Volentix.
 
 Lanciata recentemente nella versione di beta test, Venue permette agli utenti di ricevere VTX in cambio, ad esempio, per la partecipazione alle comunità dedicate allo sviluppo, presentando soluzioni ai bug, e rivendicando le bountie (taglie). Le classifiche e le metriche live riflettono la partecipazione dell'utente. La prima campagna di raccolta firme è stata lanciata sul forum di https://bitcointalk.org/ il 13 luglio 2018. Per ulteriori informazioni visita https://venue.volentix.io.
 
