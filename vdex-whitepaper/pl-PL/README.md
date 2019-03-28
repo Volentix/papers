@@ -8,23 +8,23 @@
 
 Volentix wprowadza VDex, zaprojektowany jako rozproszona, zdecentralizowana wymiana zasobów cyfrowych z naciskiem na doświadczenie użytkownika i rozwój społeczności oraz zarządzanie. Dzięki dostępowi do ustalonych technologii i planowaniu selektywnych nowych protokołów z priorytetem w zakresie bezpieczeństwa, szybkości, uwierzytelniania, łatwości użycia, skalowalności i obsługi wielu zasobów, VDex zamierza ułatwić transakcje peer-to-peer, tworząc portfolio zdecentralizowanych aplikacji zbudowanych na inteligentnych umowach EOS.IO.
 
-Punkt startowy VDex przewiduje dopasowanie wymagań projektowych Volentix do dostępnych technologii nałożonych na zdecentralizowany system operacyjny EOS.IO. We intend to test our assumptions by prototyping via custom EZEOS software, which we built and customized with EOS.IO's cleos command line tools. This software resides at: https://github.com/Volentix/ezeos
+Punkt startowy VDex przewiduje dopasowanie wymagań projektowych Volentix do dostępnych technologii nałożonych na zdecentralizowany system operacyjny EOS.IO. Zamierzamy przetestować nasze założenia poprzez prototypowanie za pomocą spersonalizowanego oprogramowania EZEOS, które zbudowaliśmy i dostosowaliśmy za pomocą narzędzi wiersza poleceń EOS.IO. Oprogramowanie to znajduje się na: https://github.com/Volentix/ezeos
 
 ![](../main3-3000px.jpg)
 
 ## 2. VOLENTIX
 
-The Volentix ecosystem will exist atop four pillars, an initializing array of applications specifically known as Venue, Verto, Vespucci, and VDex.
+Ekosystem Volentix będzie istniał na czterech filarach, szeregu inicjujących aplikacji znanych jako Venue, Verto, Vespucci i VDex.
 
 ### 2.1 VENUE
 
-Venue is planned as a dynamic community platform that recruits and aligns members of the Volentix community to facilitate distribution of VTX, the native digital asset of the Volentix ecosystem, and to promote awareness of Volentix initiatives.
+Venue zaplanowano jako dynamiczną platformę społecznościową, która rekrutuje i dostosowuje członków społeczności Volentix do ułatwiania dystrybucji VTX, rodzimego zasobu cyfrowego ekosystemu Volentix oraz promowania świadomości inicjatyw Volentix.
 
-Recently launched in beta testing, Venue enables users to receive VTX in exchange, for example, for participating in developing dedicated communities, submitting bug fixes, and claiming bounties. Leaderboards and live metrics reflect user participation. The first signature campaign was launched on the https://bitcointalk.org/ forum on July 13, 2018. Please visit https://venue.volentix.io for more information.
+Niedawno uruchomiona w testach beta, Venue umożliwia użytkownikom odbieranie VTX w zamian, na przykład, za uczestnictwo w tworzeniu oddanej społeczności, zgłaszanie poprawek błędów i ubiegania się o nagrody. Tabele wyników i wskaźniki na żywo odzwierciedlają udział użytkowników. Pierwszą kampanię podpisów uruchomiono na forum https://bitcointalk.org/ 13 lipca 2018 r. Odwiedź stronę https://venue.volentix.io, aby uzyskać więcej informacji.
 
 ### 2.2 VERTO
 
-Verto is being built as a multi-currency wallet for use with the VDex decentralized exchange, and intends to facilitate personal custody and local management of private and public keys in peer-to-peer transactions, with the goal of eliminating the risks of devastating losses of stake associated with traumatic failures of central operators. Verto plans to employ a system of smart contracts to maintain the state between two trading clients, the simplest operations being accomplished with atomic swaps.[1]
+Verto jest budowany jako portfel wielowalutowy do użytku ze zdecentralizowaną wymianą VDex i ma na celu ułatwienie osobistej pieczy i lokalnego zarządzania kluczami prywatnymi i publicznymi w transakcjach peer-to-peer, w celu wyeliminowania ryzyka wyniszczających strat udziału związanego z traumatycznymi niepowodzeniami operatorów centralnych. Verto planuje zastosować system inteligentnych umów, aby utrzymać oświadczenie między dwoma klientami handlowymi, a najprostsze operacje są realizowane przy użyciu niepodzielnych wymian.[1]
 
 ### 2.3 VESPUCCI
 
