@@ -28,11 +28,11 @@ Verto jest budowany jako portfel wielowalutowy do użytku ze zdecentralizowaną 
 
 ### 2.3 VESPUCCI
 
-Vespucci is envisioned as an analytics engine accessible via a user-friendly interface with treasure troves of real-time and historical market data, such as digital assets ratings and sentiment analysis. We wish to empower users with tools to graph and compare tradeable digital assets, to access and parse historical trading records, to plot trends and patterns, and to monitor and assess open-source software developments. Vespucci seeks to bring to your fingertips confident and comprehensive market-relevant data by aggregating the information currently scattered throughout many different blockchains, websites, chat rooms, and exchanges.
+Vespucci jest przewidziany jako silnik analityczny dostępny za pośrednictwem przyjaznego dla użytkownika interfejsu ze skarbnicą danych rynkowych w czasie rzeczywistym i historycznym, takich jak oceny zasobów cyfrowych i analiza nastrojów. Chcemy umożliwić użytkownikom tworzenie wykresów i porównywanie cyfrowych zasobów handlowych, uzyskiwanie dostępu do historycznych danych handlowych i ich analizę, śledzenie trendów i wzorców oraz monitorowanie i szacowanie rozwoju oprogramowania typu open source. Vespucci dąży do tego, aby uzyskać w zasięgu ręki pewne i wszechstronne dane dotyczące rynku, agregując informacje obecnie rozproszone na wielu różnych łańcuchów blokowych, stronach internetowych, czatach i giełdach.
 
 ### 2.4 VDEX
 
-The fourth pillar of Volentix, the VDex exchange, is the tradable digital assets platform introduced in detail in this white paper. For smooth and secure usability, we plan VDex to integrate with your own personal Verto wallet and Vespucci interface. We expect VDex to be able to manage transactions involving both VTX and the vast array of digital assets and blockchains extant from time to time throughout the world. We are developing Venue as a complementary adjunct primarily in order to incentivize and drive native VTX-based initiatives.
+Czwartym filarem Volentix, giełda VDex, jest platformą do obrotu cyfrowymi aktywami wprowadzona szczegółowo w tej białej księdze. For smooth and secure usability, we plan VDex to integrate with your own personal Verto wallet and Vespucci interface. We expect VDex to be able to manage transactions involving both VTX and the vast array of digital assets and blockchains extant from time to time throughout the world. We are developing Venue as a complementary adjunct primarily in order to incentivize and drive native VTX-based initiatives.
 
 ## 3. ARCHITECTURE
 
