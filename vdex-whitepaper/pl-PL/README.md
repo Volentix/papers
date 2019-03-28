@@ -32,13 +32,13 @@ Vespucci jest przewidziany jako silnik analityczny dostępny za pośrednictwem p
 
 ### 2.4 VDEX
 
-Czwartym filarem Volentix, giełda VDex, jest platformą do obrotu cyfrowymi aktywami wprowadzona szczegółowo w tej białej księdze. For smooth and secure usability, we plan VDex to integrate with your own personal Verto wallet and Vespucci interface. We expect VDex to be able to manage transactions involving both VTX and the vast array of digital assets and blockchains extant from time to time throughout the world. We are developing Venue as a complementary adjunct primarily in order to incentivize and drive native VTX-based initiatives.
+Czwartym filarem Volentix, giełda VDex, jest platformą do obrotu cyfrowymi aktywami wprowadzona szczegółowo w tej białej księdze. Aby zapewnić płynną i bezpieczną obsługę, planujemy zintegrować VDex z Twoim osobistym portfelem Verto i interfejsem Vespucci. Oczekujemy, że VDex będzie w stanie zarządzać transakcjami obejmującymi zarówno VTX, jak i szeroki wachlarz zasobów cyfrowych i łańcuchów bloków, które istnieją od czasu do czasu na całym świecie. Rozwijamy Venue jako uzupełniający dodatek przede wszystkim w celu zachęcania i napędzania macierzystych inicjatyw opartych na VTX.
 
-## 3. ARCHITECTURE
+## 3. ARCHITEKTURA
 
 ![](../8.jpg)
 
-#### 3.0.1 Operating system
+#### 3.0.1 System operacyjny
 
 We have evaluated various operating systems as candidates for the substructure of our VDex exchange. Though we honor the work done by a number of the established leaders in digital assets and blockchain technology, among those trailblazers the work of EOS.IO as an operating system-like framework upon which decentralized applications can be built stands out, in our opinion, as exemplary. The software provides accounts, authentication, databases, asynchronous communication, and scheduling across clusters. Components and protocols are already built into the platform, and a subset can be used to satisfy our VDex requirements. VDex will initially benefit from the standard features offered by EOS.IO such as account and wallet creation and the recovery of stolen keys, but we plan subsequently to implement protocols for creation of a decentralized exchange through EOS contracts and other tools.[2] Here is a summary of encouraging methodologies:
 
