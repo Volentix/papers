@@ -114,7 +114,7 @@ EOS.IO ha una latenza bassa per la conferma dei blocchi (0.5 secondi). [5] Quest
 
 ### 3.2 ORDER BOOK
 
-The order book is the list of buy-and-sell orders VDex records from interested users. A matching engine uses an order book to determine which orders can be fulfilled. The Loopring protocol allows for customizing the order book data structure.[5] Containers provided by EOS.IO can be used for optimal performance.[8]
+Il registro ordini è la lista degli ordini di acquisto e vendita che vengono registrati da VDex dagli utenti interessati. A matching engine uses an order book to determine which orders can be fulfilled. The Loopring protocol allows for customizing the order book data structure.[5] Containers provided by EOS.IO can be used for optimal performance.[8]
 
 #### 3.2.1 Data structures
 
