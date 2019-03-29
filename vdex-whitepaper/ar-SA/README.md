@@ -14,7 +14,7 @@ Volentix تقدم VDex المصمم كموزع ومبادل لا مركزي لت
 
 ## 2. VOLENTIX
 
-The Volentix ecosystem will exist atop four pillars, an initializing array of applications specifically known as Venue, Verto, Vespucci, and VDex.
+بيئة Volentix سوف تقوم على أربعة أعمدة، مجموعة مهيئة من التطبيقات المعروفة على وجه التحديد بـ Vespucci ،Verto ،Venue وVDex.
 
 ### 1.2 VENUE
 
