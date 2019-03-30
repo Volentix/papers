@@ -94,11 +94,11 @@ Venue التي تم إطلاقها مؤخرًا في الاختبار التجر
 
 2. دمج معلومات دفتر الطلبات.
 
-3. Settle order book.
+3. تسوية دفتر الطلبات.
 
-4. Manage order cancellation.
+4. إدارة إلغاء الطلب.
 
-5. Assign timeouts for the RAFT protocol.
+5. تعيين مهلات زمنية لبروتوكول RAFT.
 
 6. Initiate contracts for orders that have been filled.
 
