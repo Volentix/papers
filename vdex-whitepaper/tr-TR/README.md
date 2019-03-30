@@ -228,15 +228,15 @@ Upgrade broken contracts.
 
 Include ability to pause the functionality of a contract.
 
-Include ability to delay an action of a contract.
+Bir sözleşme eyleminin yapılmasını geciktirme özelliğini dahil edin.
 
 #### 3.8.2 Hileli işlemleri denetleme
 
-The advanced anomaly detection algorithms provided by Numenta’s Nupic library will require less voluminous training data sets than conventional AI systems.
+Numenta'nın Nupic kütüphanesi tarafından sağlanan gelişmiş anomali tespit algoritmaları, geleneksel AI sistemlerine göre daha az hacimli eğitim veri setleri gerektirecektir.
 
 #### 3.8.3 Rasgeleleştirme
 
-True randomisation of address space layout, route or utilizing varying lengths of timeouts as in the RAFT protocol can complexify systems enough to enhance resilience and further secure systems against a side-channel attack or front running.
+Adres alanı düzeninin gerçek rastgele randomizasyonu, RAFT protokolünde olduğu gibi değişen uzunluktaki zaman aşımlarını yönlendirmek veya kullanmak, bir yan kanal saldırılarına veya önden çalışanlara karşı esnekliği artırmak için sistemleri yeterince karmaşık ve daha güvenli hale getirebilir.
 
 #### 3.8.4 Günlük denetim
 
@@ -254,17 +254,17 @@ A double spend is an attack in which a particular cryptocurrency stake is spent 
 
 A race attack occurs when two conflicting transactions are sent in rapid succession into the network.
 
-A Finney attack pre-mines one transaction into a block and spends the same tokens before releasing the block to invalidate that transaction.
+Bir Finney ön mayınlar saldırısı bir işlemi bir bloğa dönüştürür ve bloğu bu işlemi geçersiz kılmak için serbest bırakmadan önce aynı tokenleri harcar.
 
-A 51% attack can be mounted by anyone owning >50% of the total computing power of a network. A majority ownership position permits reversal of any transaction and allows total control of selection of transactions appearing in blocks. EOS.IO, Loopring, and RAFT appear to prevent this problem. If a block producer takes an unreasonable amount of runtime or is not sufficiently profitable, then the process is blacklisted.[5]
+A 51% attack can be mounted by anyone owning >50% of the total computing power of a network. Çoğunluk sahiplik pozisyonu herhangi bir işlemin tersine çevrilmesine izin verir ve bloklarda görünen işlemlerin seçiminin tamamen kontrol edilmesini sağlar. EOS.IO, Loopring, and RAFT appear to prevent this problem. Eğer bir blok üreticisi makul olmayan miktarda bir çalışma süresi alırsa veya yeterince karlı değilse, işlem kara listeye alınır.[5]
 
 #### 3.9.2 Ön koşu
 
-A front runner steals one or more orders from a pending order book settlement transaction. Both EOS.IO and Loopring offer remedies in which keys are protected because they are not part of the on-chain transaction, and therefore remain unknown to parties other than the owner. Only the order book settling node is possessed of the sensitive information, and each node uses a different solution for resolving the order books, introducing yet another level of complexity to promote security.
+Bir ön koşucu, bekleyen bir emir defteri ödeme işleminden bir veya daha fazla emir çalar. Hem EOS.IO, hem de Loopring, açık zincir işleminin bir parçası olmadığından anahtarların korunduğu için çözümler sunar ve bu nedenle de mal sahibi dışındaki şahıslar tarafından bilinmeyen olarak kalır. Yalnızca emir defteri anlaşma düğümü hassas bilgilere sahiptir ve her düğüm, emir defterlerini çözmek için farklı bir çözüm kullanır, güvenliği arttırmak için başka bir karmaşıklık seviyesi sunar.
 
 #### 3.9.3 Sahte kimlikler
 
-Malicious users create forged identities to send a large number of small orders to attack Loopring nodes. However, most of these orders will be rejected for not yielding satisfying profit when matched.
+Kötü niyetli kullanıcılar Loopring düğümlerine saldırmak için çok sayıda küçük sipariş göndermek için sahte kimlikler oluştururlar. However, most of these orders will be rejected for not yielding satisfying profit when matched.
 
 #### 3.9.4 Yetersiz Bakiye
 
