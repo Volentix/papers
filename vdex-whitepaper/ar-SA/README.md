@@ -44,11 +44,11 @@ Venue التي تم إطلاقها مؤخرًا في الاختبار التجر
 
 ### إجراءات خالية من السياق
 
-Most of the scalability techniques proposed by Ethereum (Sharding, Raiden, Plasma, State Channels) become more efficient, parallelizable, and practical while also ensuring speedy inter-blockchain communication and unimpaired scalability. A Context Free Action involves computations that depend only on transaction data, and not upon the blockchain state.
+معظم تقنيات قابلية التوسع التي تقدمها Ethereum مثل (Plasma ،Raiden ،Sharding وState Channels) تصبح أكثر فاعلية، متوازية وعملية مع ضمان أيضا إتصال سريع بين سلاسل الكتل وقابلية للتوسعة دون عيوب. يشمل الإجراء الخالي من السياق عمليات حسابية تعتمد فقط على بيانات المعاملة، وليس على حالة سلسلة الكتل.
 
 ### التحويل Binary/JSON
 
-EOS contracts combine the human readability of JSON with the efficiency of binary.
+تجمع عقود EOS بين قابلية قراءة JSON وكفاءة الـ binary.
 
 ### الموازاة والتحسين
 
