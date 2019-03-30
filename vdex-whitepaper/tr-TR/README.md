@@ -154,13 +154,13 @@ To stake support for reviewing proposals and implementing projects.
 
 To incentivize users to participate in order book settlement by becoming nodes via their Verto wallets.
 
-To incentivize users to lock funds in for >24 hours by HTLC time-bound transactions.
+HTLC'nin zamana bağlı işlemleriyle kullanıcıları, >24 saat boyunca fonları kilitlemeye teşvik etmek için.
 
 #### 3.4.2 VTX Tahsisi
 
 ![](../6.jpg)
 
-A digital assets ecosystem requires an array of certain fundamental human constituents who shepherd the project forward.[11] It is essential to compensate those individuals for their participation. Ayarlamaya tabi olarak, Volentix şu anda aşağıdaki tahsisleri öngörmektedir:
+Dijital varlıklar ekosistemi, projeyi öne süren belli başlı temel insan bileşenlerini gerektirir.[11] Bu bireylere, katılımlarını telafi etmek esastır. Ayarlamaya tabi olarak, Volentix şu anda aşağıdaki tahsisleri öngörmektedir:
 
 1. Katkıda Bulunanlar. %12. Kuruculara benzer, içgörülere, zamana ve yeteneğe katkıda bulunan bir dizi insan, genellikle erken tazminat olmadan çalışır.
 
@@ -180,29 +180,29 @@ A digital assets ecosystem requires an array of certain fundamental human consti
 
 #### 3.4.3 VTX Dağıtımı
 
-In light of market conditions at the time of this writing, Volentix is considering timing, means, and terms and conditions of VTX distribution as a function of private pre-sales and possible public sale. Please monitor our website for updates.
+Bu yazım sırasındaki piyasa koşulları ışığında Volentix, VTX dağıtımının zamanlamasını, araçlarını ve şartlarını ve koşullarını özel satış öncesi ve olası kamu satışının bir fonksiyonu olarak görüyor. Lütfen güncellemeler için web sitemizi izleyin.
 
 ### 3.5 EOS.IO PLATFORM DAĞITIMI
 
-The following considerations are relevant to our deploying the VDex exchange on the EOS.IO platform:
+Aşağıdaki hususlar EOS.IO platformunda VDex değiş tokuşunu uygulamamızla ilgilidir:
 
-Deploying a contract has a cost but is free to use.
+Bir sözleşmeyi dağıtmanın bir bedeli vardır ancak kullanımı ücretsizdir.
 
-Developers stake EOS.IO-compliant tokens to deploy a smart contract. After the contract is deployed, the locked tokens are returned.
+Geliştiriciler, akıllı bir sözleşme yapmak için EOS.IO uyumlu tokenler kullanır. Sözleşme dağıtıldıktan sonra, kilitli tokenler iade edilir.
 
-Decentralized applications allocate memory, CPU, bandwidth, and other resources to their contracts.
+Merkezi olmayan uygulamalar sözleşmelerine, bellek, CPU, bant genişliği ve diğer kaynakları tahsis eder.
 
-Multiple messages and multiple accounts can be assigned to the same thread.
+Aynı konuya birden fazla mesaj ve birden fazla hesap atanabilir.
 
 ### 3.6 BLOK ZİNCİRİ ETKİLEŞİMİ
 
 #### 3.6.1 Blok Zinciri-Arası İletişim
 
-EOS.IO is designed to make Inter-Blockchain Communication (IBC) proofs lightweight. For chains with insufficient capacity for processing the IBC proofs and establishing validity, there is an option to default to trusted oracles/escrows. With an EOS.IO-based smart contract, a trusted multi-signature wallet holding the asset in escrow can be used to persuade the signing/publishing of the transaction based on IBC proofs from the originating chain.
+EOS.IO Blok Zincir Arası İletişim (IBC) hafif kanıtlar yapmak için tasarlanmıştır. IBC kanıtlarının işleme koyma ve geçerliliği sağlama konusunda yetersiz kapasiteye sahip zincirler için varsayılan güvenilir uzmanlar/emanetler için bir seçenek vardır. EOS.IO tabanlı bir akıllı sözleşmeyle, varlığı emanet içinde tutan güvenilir bir çoklu imza cüzdanı, kaynak zincirindeki IBC kanıtlarına dayanan işlemin imzalanma/yayınlanmasına ikna etmek için kullanılabilir.
 
 #### 3.6.2 Çoklu-Blok Zinciri Bilgisi
 
-Comprehensible multi-blockchain information can be obtained by aggregating blockchain timelines in parallel order (with variance in the frequency of change of state). This system can trigger multi-chain load balancers, transfer states, draw data outputs from smart contracts, and foreign blockchain transaction execution. Relative block distance, relative global state, and timestamped events are recorded on a global ledger to optimize and confirm transactions before they actually happen on the native chain. This approach could also be used to determine block production coincidence between chains to access greater liquidity.[12]
+Anlaşılabilir çoklu blok zinciri bilgileri, blok zinciri zaman çizelgelerini paralel sırada (durum değişim sıklığındaki değişiklikle) toplayarak elde edilebilir. Bu sistem, çok zincirli yük dengeleyicileri, aktarma durumlarını, akıllı sözleşmelerden veri çıktılarını ve yabancı blok zinciri işlemlerinin icra edilmesini tetikleyebilir. Göreceli blok mesafesi, göreceli küresel durum ve zaman damgalı olaylar gerçekte yerel zincirde gerçekleşmeden önce işlemleri optimize etmek ve onaylamak için küresel bir defteri kebire kaydedilir. Bu yaklaşım, daha büyük likiditeye erişmek için zincirler arasındaki blok üretim çakışmasının belirlenmesinde de kullanılabilir.[12]
 
 ### 3.7 GÜVENLİK ENDİŞELERİ
 
@@ -216,7 +216,7 @@ Retain vast majority of funds in a time-delayed, multi-signature-controlled acco
 
 Güvenilir bir hesap listesi oluşturmanın faydasıyla birlikte, tüm para çekme işlemlerini iki kez kontrol eden, birkaç bağımsız işlemler/sunucular içeren sıcak bir cüzdanda çoklu imzalar kullanın.
 
-Deploy a custom contract that allows withdrawals only to accounts verified by KYC/AML.
+Yalnızca KYC/AML tarafından doğrulanmış hesaplara para çekme olanağı sağlayan özel bir sözleşme kullanın.
 
 Deploy a custom contract that accepts only deposits of known assets from accounts verified by KYC/AML.
 
@@ -286,7 +286,7 @@ For example, initially we plan to erect a system for electing nodes (when solvin
 
 ### 3.12 SİSTEM KURTARMA
 
-The RAFT and PARSEC protocols provide a robust system for recovery in the case of node failure. Security measures are also provided for trading between and among native blockchains. If a chain defies identification, the system defaults to the next block or a short time lock.
+RAFT ve PARSEC protokolleri düğüm arızası durumunda kurtarma için güçlü bir sistem sağlar. Security measures are also provided for trading between and among native blockchains. If a chain defies identification, the system defaults to the next block or a short time lock.
 
 ### 3.13 GELİŞEN MİMARİ
 
