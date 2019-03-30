@@ -72,7 +72,7 @@ Venue التي تم إطلاقها مؤخرًا في الاختبار التجر
 
 #### 4.0.3 السلاسل الجانبية
 
-In EOS.IO, issuance of a digital asset creates a sidechain, which is an emerging mechanism permitting digital assets from one blockchain to be securely used in a separate blockchain and then moved back to the original blockchain. Efficiency of processing is promoted by creating multiple sidechains. A TCP-like communication channel between different blockchains evaluates proofs. For each shard (a unit of parallelizable execution in a cycle), a balanced merkle tree is constructed of these action commitments to generate a temporary shared merkle root; this is done for speed of parallel computation. The block header contains the root of a balanced merkle tree the leaves of which are the roots of these individual shard merkle trees. [2]
+في EOS.IO، يؤدي إصدار الأصل الرقمي إلى إنشاء سلسلة جانبية، وهو عبارة عن آلية جديدة تسمح باستخدام الأصول الرقمية الخاصة بسلسلة كتل بشكل آمن في سلسلة كتل مختلفة ومن ثم نقلها مرة أخرى إلى سلسلة الكتل الأصلية. يتم تعزيز كفاءة المعالجة من خلال إنشاء العديد من السلاسل الجانبية. A TCP-like communication channel between different blockchains evaluates proofs. For each shard (a unit of parallelizable execution in a cycle), a balanced merkle tree is constructed of these action commitments to generate a temporary shared merkle root; this is done for speed of parallel computation. The block header contains the root of a balanced merkle tree the leaves of which are the roots of these individual shard merkle trees. [2]
 
 #### 5.0.3 السيولة
 
