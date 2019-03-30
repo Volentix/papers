@@ -48,7 +48,7 @@ Ethereum (Sharding, Raiden, Plazma, Devlet Kanalları) tarafından önerilen öl
 
 ### Binary/JSON dönüştürme
 
-EOS contracts combine the human readability of JSON with the efficiency of binary.
+EOS sözleşmeleri, JSON'un insan tarafından okunabilirliğini ikili verimlilik ile birleştiriyor.
 
 ### Paralelleştirme ve optimizasyon
 
@@ -64,7 +64,7 @@ The well-known and popular programming language C++ appears highly suitable for 
 
 #### 3.0.2 Şema tanımlı mesajlar ve veritabanı
 
-Hizmet sözleşmeleri, veri modellerinin uyumlaştırılması ile farklı sistemler içinde ve birlikte çalışabilirlik arasında temel bir ölçümü sağlamak için standartlaştırılmıştır. Gerçekten de, Standart Servis Sözleşmesi tasarım ilkesi servis sözleşmelerinin standartlaştırılmış veri modellerine dayanmasını savunuyor. Servisler arasında değiş tokuş edilen yaygın iş belgelerini bulmak için servis envanter planı üzerinde analiz yapılır. These business documents are then modeled in a standardized manner. The Canonical Schema pattern reduces the need for application of the data model transformation design pattern. [3]
+Hizmet sözleşmeleri, veri modellerinin uyumlaştırılması ile farklı sistemler içinde ve birlikte çalışabilirlik arasında temel bir ölçümü sağlamak için standartlaştırılmıştır. Gerçekten de, Standart Servis Sözleşmesi tasarım ilkesi servis sözleşmelerinin standartlaştırılmış veri modellerine dayanmasını savunuyor. Servisler arasında değiş tokuş edilen yaygın iş belgelerini bulmak için servis envanter planı üzerinde analiz yapılır. Bu iş belgeleri daha sonra standartlaştırılmış bir şekilde modellenmiştir. The Canonical Schema pattern reduces the need for application of the data model transformation design pattern. [3]
 
 #### 3.0.3 Sözleşmeler-Arası İletişim
 
@@ -80,7 +80,7 @@ Dijital bir varlık, geçerli piyasa fiyatlarına kısa vadeli bir etkisi olmada
 
 #### 3.0.6 Şifreli Zaman Aşımı Sözleşmeleri (Atomik Takaslar)
 
-A Hashed Timelock Contract (HTLC)[1] is a smart contract enabling the implementation of time-bound transactions. Kullanıcılara işlemlerinde değişken bir kilitlenme süresi sunulur, daha uzun bir kilitlenme süresi seçmek için işlem ücretlerinde indirim yapılır.
+Şifrelenmiş Bir Zaman Kilidi Sözleşmesi (HTLC)[1] zamana bağlı işlemlerin uygulanmasını sağlayan akıllı bir sözleşmedir. Kullanıcılara işlemlerinde değişken bir kilitlenme süresi sunulur, daha uzun bir kilitlenme süresi seçmek için işlem ücretlerinde indirim yapılır.
 
 ### 3.1 AĞ TOPOLOJİSİ
 
@@ -88,7 +88,7 @@ A Hashed Timelock Contract (HTLC)[1] is a smart contract enabling the implementa
 
 ![](../9.jpg)
 
-Nodes are the endpoints of the VDex exchange. İşlevleri:
+Düğümler VDex borsasının son noktalarıdır. İşlevleri:
 
 1. Verto cüzdanı vasıtasıyla VDex'e portallar olarak rol yapın.
 
@@ -114,11 +114,11 @@ EOS.IO düşük gecikmeli blok onayına sahip (0.5 saniye).[5] Bu gecikme derece
 
 ### 3.2 EMİR KİTABI
 
-The order book is the list of buy-and-sell orders VDex records from interested users. A matching engine uses an order book to determine which orders can be fulfilled. The Loopring protocol allows for customizing the order book data structure.[5] Containers provided by EOS.IO can be used for optimal performance.[8]
+Emir defteri, ilgili kullanıcılardan VDex kayıtları al ve sat emirlerinin listesidir. A matching engine uses an order book to determine which orders can be fulfilled. Döngü protokolü, emir defteri veri yapısını özelleştirmeye izin verir.[5] EOS.IO tarafından sağlanan kaplar optimum performans için kullanılabilir.[8]
 
 #### 3.2.1 Veri yapıları
 
-Using the Loopring Protocol FIFO (first-in first-out) circular buffer, nodes can design their order books to display and match a user’s order. This method follows an OTC model, where limit orders are positioned based on price only.[5]
+Döngü Protokolü FIFO (ilk giren ilk çıkan) dairesel arabelleği kullanan düğümler, emir defterlerini bir kullanıcının emrini görüntülemek ve eşleştirmek için tasarlayabilir. This method follows an OTC model, where limit orders are positioned based on price only.[5]
 
 Referencing the EOS.IO persistence API, the order book is able to take advantage of the powerful multi-index container shared among nodes through the same EOS.IO account.
 
