@@ -60,7 +60,7 @@ Venue التي تم إطلاقها مؤخرًا في الاختبار التجر
 
 ### عقود ++Rust/C
 
-The well-known and popular programming language C++ appears highly suitable for WASM. C++ has highly mature debugging support and libraries. The EOS codebase uses templates liberally, and C++ allows the use of templates and operator overloading to define a runtime cost-free validation of units. The program reinitializes to clean state at the start of every message, a distinct advantage that streamlines formulation of smart contracts. The WebAssembly framework automatically rejects any transaction addressing memory inaccurately. In case dynamic memory allocation is necessary, users can depart to smart pointers because EOS.IO contracts use C++14. It is noteworthy that the first implementation of PARSEC Directed Acyclic Graph (DAG) technology is expected to be in Rust.
+لغة البرمجة المعروفة والشعبية ++C تبدو مناسبة للغاية لـ WASM. تحتوي ++C على دعم تصحيح أخطاء فعال للغاية بالإضافة إلى المكتبات. تستعمل قاعدة التشفير الخاصة بـ EOS القوالب حرفياً، و تسمح ++C بإستعمال القوالب والتحميل الزائد لعامل التشغيل لتحديد زمن تشغيل خالي من التحقق من صحة الوحدات. يعيد البرنامج تنظيف الحالة في بداية كل رسالة، وهي ميزة مميزة تسهل صياغة العقود الذكية. يرفض هيكل WebAssembly تلقائياً أي معاملة تخاطب الذاكرة بشكل غير دقيق. في حالة ضرورة تخصيص الذاكرة الديناميكية ، يمكن للمستخدمين الانتقال إلى المؤشرات الذكية لأن عقود EOS.IO تستخدم C++14. من الجدير بالذكر أنه من المتوقع أن يكون أول تطبيق لتقنية(PARSEC Directed Acyclic Graph (DAG في Rust.
 
 #### 2.0.3 مخطط الرسائل المعرفة وقاعدة البيانات
 
@@ -80,7 +80,7 @@ A digital asset is liquid if it is easily sold or purchased in ordinary trading 
 
 #### 6.0.3 العقود المجزأة المقفلة مؤقتاً (المقايضات الذرية)
 
-A Hashed Timelock Contract (HTLC)[1] is a smart contract enabling the implementation of time-bound transactions. Users will be offered a variable lock-in period for their transactions, with a discount on transaction fees in exchange for choosing a longer lock-in period.
+العقد المجزء المقفل مؤقتاً [HTLC)[1) هو عبارة عن عقد ذكي يتيح تطبيق المعاملات المحددة زمنيا. سيتم منح المستخدمين فترة تأمين متغيرة لمعاملاتهم، مع خصم على رسوم المعاملة في مقابل إختيار فترة تأمين أطول.
 
 ### 3.1 NETWORK TOPOLOGY
 
