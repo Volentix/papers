@@ -56,7 +56,7 @@ Venue التي تم إطلاقها مؤخرًا في الاختبار التجر
 
 ### (Web Assembly(WASM
 
-Web Assembly enables high-performance Web applications and also secures each application in its own sandbox, through which functionalities VDex can obtain network access, filesystem namespace restrictions, and enforced rule-based execution.
+يتيح Web Assembly تطبيقات الويب عالية الأداء ويؤمن أيضًا كل تطبيق في وضع الحماية الخاص به، والذي من خلاله يمكن لوظائف VDex النفاذ إلى الشبكة، الحصول على قيود filesystem وnamespace، و فرض التفعيل القائم على قاعدة.
 
 ### عقود ++Rust/C
 
