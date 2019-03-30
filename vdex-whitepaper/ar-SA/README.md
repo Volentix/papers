@@ -20,7 +20,7 @@ Volentix تقدم VDex المصمم كموزع ومبادل لا مركزي لت
 
 تم التخطيط لـ Venue كمنصة إجتماعية حيوية تقوم بإستقطاب وتنظيم أعضاء مجتمع Volentix لتسهيل توزيع VTX، الأصل الرقمي الأصلي لبيئة Volentix، ولتعزيز الوعي بمبادرات Volentix.
 
-Recently launched in beta testing, Venue enables users to receive VTX in exchange, for example, for participating in developing dedicated communities, submitting bug fixes, and claiming bounties. Leaderboards and live metrics reflect user participation. The first signature campaign was launched on the https://bitcointalk.org/ forum on July 13, 2018. Please visit https://venue.volentix.io for more information.
+Venue التي تم إطلاقها مؤخرًا في الاختبار التجريبي، ستمكن المستخدمين من تلقي VTX تبادلا، على سبيل المثال، للمشاركة في تطوير مجتمعات مخصصة، تقديم تقارير إصلاحات الأخطاء والمطالبة بالمكافآت. تعكس لوحة المتصدرين والمقاييس المباشرة مشاركة المستخدم. تم إطلاق أول حملة توقيع على منتدى /https://bitcointalk.org في 13 جويلية، 2018. الرجاء زيارة https://venue.volentix.io للمزيد من المعلومات.
 
 ### 2.2 VERTO
 
@@ -40,7 +40,7 @@ Recently launched in beta testing, Venue enables users to receive VTX in exchang
 
 #### 1.0.3 نظام التشغيل
 
-قمنا بتقييم العديد من أنظمة التشغيل كمرشحين للبنية التحتية لمبادل VDex. على الرغم من أننا نقدر العمل الذي قام به عدد من القادة الرائدين في مجال الأصول الرقمية وتكنولوجيا سلاسل الكتل، من بين هؤلاء الرواد، فإن عمل EOS.IO كهيكل شبيه بنظام التشغيل والذي يمكن أن تبنى عليه التطبيقات اللامركزية، نعتقد أنه مثالي. يوفر البرنامج الحسابات، الإستيثاق، قواعد البيانات، الإتصال غير المتزامن والجدولة عبر العناقيد. المكونات والبروتوكولات تم بناؤها بالفعل في المنصة، ويمكن إستخدام مجموعة فرعية لتلبية متطلبات VDex. VDex will initially benefit from the standard features offered by EOS.IO such as account and wallet creation and the recovery of stolen keys, but we plan subsequently to implement protocols for creation of a decentralized exchange through EOS contracts and other tools.[2] Here is a summary of encouraging methodologies:
+قمنا بتقييم العديد من أنظمة التشغيل كمرشحين للبنية التحتية لمبادل VDex. على الرغم من أننا نقدر العمل الذي قام به عدد من القادة الرائدين في مجال الأصول الرقمية وتكنولوجيا سلاسل الكتل، من بين هؤلاء الرواد، فإن عمل EOS.IO كهيكل شبيه بنظام التشغيل والذي يمكن أن تبنى عليه التطبيقات اللامركزية، نعتقد أنه مثالي. يوفر البرنامج الحسابات، الإستيثاق، قواعد البيانات، الإتصال غير المتزامن والجدولة عبر العناقيد. المكونات والبروتوكولات تم بناؤها بالفعل في المنصة، ويمكن إستخدام مجموعة فرعية لتلبية متطلبات VDex. سيستفيد VDex مبدئيًا من الميزات القياسية التي يوفرها EOS.IO مثل إنشاء الحساب والمحفظة وإستعادة المفاتيح المسروقة، لكننا نخطط لاحقًا لتطبيق بروتوكولات لإنشاء مبادل غير مركزي من خلال عقود EOS وغيرها من الأدوات.[2] فيما يلي ملخص للمنهجيات المشجعة:
 
 ### إجراءات خالية من السياق
 
