@@ -100,9 +100,9 @@ Venue التي تم إطلاقها مؤخرًا في الاختبار التجر
 
 5. تعيين مهلات زمنية لبروتوكول RAFT.
 
-6. Initiate contracts for orders that have been filled.
+6. بدء العقود للطلبات التي تم تعبئتها.
 
-Nodes earn a portion of the fee for each transaction. If a user has sufficient funds and possesses a good track record, his or her Verto wallet can act as a node.
+العقد تكسب جزء من الرسوم على كل معاملة. إذا كان لدى المستخدم أموال كافية وله سجل جيد ، يمكن أن تستعمل محفظة Verto الخاصة به أو بها كعقدة.
 
 #### 3.1.2 Aggregators
 
@@ -114,7 +114,7 @@ EOS.IO has low latency block confirmation (0.5 seconds).[5] This degree of laten
 
 ### 3.2 ORDER BOOK
 
-The order book is the list of buy-and-sell orders VDex records from interested users. A matching engine uses an order book to determine which orders can be fulfilled. The Loopring protocol allows for customizing the order book data structure.[5] Containers provided by EOS.IO can be used for optimal performance.[8]
+دفتر الطلبات هو قائمة أوامر الشراء والبيع التي تسجلها VDex من المستخدمين المهتمين. يستخدم محرك المطابقة دفتر الأوامر لتحديد الطلبات التي يمكن تحقيقها. يسمح بروتوكول Loopring بتخصيص بنية بيانات دفتر الطلبات.[5] يمكن استخدام الحاويات التي يوفرها EOS.IO لتحقيق الأداء الأمثل.[8]
 
 #### 3.2.1 Data structures
 
