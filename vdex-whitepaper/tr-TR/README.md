@@ -124,7 +124,7 @@ Referencing the EOS.IO persistence API, the order book is able to take advantage
 
 #### 3.2.2 Açık-Zincir emir kitabı
 
-An on-chain order book is a record of offers residing on the wallet (node) chosen to settle the order book. It resides in a persistent database on each node subscribing to the same account as all the other nodes.
+Açık zincirde bir emir defteri, emir defterini düzenlemek için seçilen cüzdan (düğüm) üzerinde bulunan tekliflerin bir kaydıdır. It resides in a persistent database on each node subscribing to the same account as all the other nodes.
 
 #### 3.2.3 Kapalı-Zincir emir kitabı
 
