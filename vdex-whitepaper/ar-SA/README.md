@@ -64,7 +64,7 @@ Venue التي تم إطلاقها مؤخرًا في الاختبار التجر
 
 #### 2.0.3 مخطط الرسائل المعرفة وقاعدة البيانات
 
-Service contracts are standardized to provide a baseline measure of interoperability between and among disparate systems by harmonization of data models. Indeed, the Standardized Service Contract design principle advocates that service contracts be based on standardized data models. Analysis is done on the service inventory blueprint to find out the commonly occurring business documents that are exchanged between services. These business documents are then modeled in a standardized manner. The Canonical Schema pattern reduces the need for application of the data model transformation design pattern. [3]
+يتم توحيد عقود الخدمة لتوفير مقياس أساسي لإمكانية التشغيل التفاعلي بين النظم المختلفة من خلال توافق نماذج البيانات. في الواقع، يدعو مبدأ تصميم عقد الخدمة الموحد إلى أن تستند عقود الخدمة على نماذج بيانات موحدة. يتم إجراء التحليل على مخطط مخزون الخدمة لمعرفة مستندات العمل الشائعة التي يتم تبادلها بين الخدمات. These business documents are then modeled in a standardized manner. The Canonical Schema pattern reduces the need for application of the data model transformation design pattern. [3]
 
 #### 3.0.3 التواصل بين العقود
 
