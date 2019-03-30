@@ -206,27 +206,27 @@ Anlaşılabilir çoklu blok zinciri bilgileri, blok zinciri zaman çizelgelerini
 
 ### 3.7 GÜVENLİK ENDİŞELERİ
 
-To shake out certain assumptions, we intend to commence security testing following the prototyping phase. Security concerns are of paramount importance to users and must be addressed. Tehditler, örneğin, bir işlem içinde kötü amaçlı kod yürüten veya işlemlerin emir sırasını veya blokların zaman damgalarını değiştiren bir saldırganı içerir. Takip eden bölümlerde, bazı güvenlik önlemlerini ve belirli güvenlik tehditlerini ve çözüm yollarını ele alıyoruz.
+Bazı varsayımları ortadan kaldırmak için prototip aşamasını takiben, güvenlik testine başlamak istiyoruz. Security concerns are of paramount importance to users and must be addressed. Tehditler, örneğin, bir işlem içinde kötü amaçlı kod yürüten veya işlemlerin emir sırasını veya blokların zaman damgalarını değiştiren bir saldırganı içerir. Takip eden bölümlerde, bazı güvenlik önlemlerini ve belirli güvenlik tehditlerini ve çözüm yollarını ele alıyoruz.
 
 ### 3.8 GÜVENLİK ÖNLEMLERİ
 
 #### 3.8.1 Güvenlik sözleşmesi
 
-Retain vast majority of funds in a time-delayed, multi-signature-controlled account.
+Zaman gecikmeli çoklu imza kontrollü bir hesapta bulunan fonların büyük çoğunluğunu saklayın.
 
 Güvenilir bir hesap listesi oluşturmanın faydasıyla birlikte, tüm para çekme işlemlerini iki kez kontrol eden, birkaç bağımsız işlemler/sunucular içeren sıcak bir cüzdanda çoklu imzalar kullanın.
 
 Yalnızca KYC/AML tarafından doğrulanmış hesaplara para çekme olanağı sağlayan özel bir sözleşme kullanın.
 
-Deploy a custom contract that accepts only deposits of known assets from accounts verified by KYC/AML.
+KYC/AML tarafından doğrulanan hesaplardan yalnızca bilinen varlıkların mevduatını kabul eden, özel bir sözleşme kullanın.
 
 Deploy a custom contract that requires a mandatory 24-hour waiting period for all withdrawals.
 
 Utilize contracts with hardware wallets for all signing, including for automated withdrawals.
 
-Upgrade broken contracts.
+Bozuk sözleşmeleri yükseltin.
 
-Include ability to pause the functionality of a contract.
+Bir sözleşmenin işlevselliğini duraklatma özelliğini dahil edin.
 
 Bir sözleşme eyleminin yapılmasını geciktirme özelliğini dahil edin.
 
@@ -240,23 +240,23 @@ Adres alanı düzeninin gerçek rastgele randomizasyonu, RAFT protokolünde oldu
 
 #### 3.8.4 Günlük denetim
 
-Parsec does not rely on logs for the determination of consensus. On the other hand, RAFT will require this. In any case, Validator nodes will be designed to require minimal information To determine consensus as to minimize the transaction process time.
+Parsec, fikir birliğinin tespiti için kayıtlara dayanmaz. Diğer yandan, RAFT buna ihtiyaç duyacaktır. Her durumda, Doğrulayıcı düğümleri, işlem süreci süresini en aza indirmek İçin fikir birliği belirlemek için minimum bilgi gerektirecek şekilde tasarlanacaktır.
 
 #### 3.8.5 Alım Kanıtı olarak İşlem (TaPoS)
 
-This mechanism prevents the replay of a transaction on forks that do not include the referenced block. Signals the network that a particular user and stake are on a specific fork.
+Bu mekanizma, başvurulan bloğu içermeyen çatallarda bir işlemin tekrarlanmasını engeller. Signals the network that a particular user and stake are on a specific fork.
 
 ### 3.9 Güvenlik tehditleri ve çözüm yolları
 
 #### 3.9.1 Çifte harcama
 
-A double spend is an attack in which a particular cryptocurrency stake is spent in more than one transaction.
+Çifte harcama belirli bir kripto para birimi hissesinin birden fazla işlemde harcandığı bir saldırıdır.
 
-A race attack occurs when two conflicting transactions are sent in rapid succession into the network.
+Çakışan iki işlem, hızlı bir şekilde ağa art arda gönderildiğinde bir yarış saldırısı gerçekleşir.
 
 Bir Finney ön mayınlar saldırısı bir işlemi bir bloğa dönüştürür ve bloğu bu işlemi geçersiz kılmak için serbest bırakmadan önce aynı tokenleri harcar.
 
-A 51% attack can be mounted by anyone owning >50% of the total computing power of a network. Çoğunluk sahiplik pozisyonu herhangi bir işlemin tersine çevrilmesine izin verir ve bloklarda görünen işlemlerin seçiminin tamamen kontrol edilmesini sağlar. EOS.IO, Loopring, and RAFT appear to prevent this problem. Eğer bir blok üreticisi makul olmayan miktarda bir çalışma süresi alırsa veya yeterince karlı değilse, işlem kara listeye alınır.[5]
+A 51% attack can be mounted by anyone owning >50% of the total computing power of a network. Çoğunluk sahiplik pozisyonu herhangi bir işlemin tersine çevrilmesine izin verir ve bloklarda görünen işlemlerin seçiminin tamamen kontrol edilmesini sağlar. EOS.IO, Loopring ve RAFT bu problemi önlüyor gibi görünüyor. Eğer bir blok üreticisi makul olmayan miktarda bir çalışma süresi alırsa veya yeterince karlı değilse, işlem kara listeye alınır.[5]
 
 #### 3.9.2 Ön koşu
 
@@ -352,11 +352,11 @@ Q. Liquid, Providing liquidity to the non-liquid crypto economy, (2018).
 
 S. R. M.P.M-S, Aniket Kate Matteo Maffei, Concurrency and privacy with payment-channel networks, (2017).
 
-SingularityNET, A decentralized, open market and inter-network for ais, (2018).
+SingularityNET, Bir merkezi olmayan, açık pazar ve ais için ağlar arası, (2018).
 
 M. M. Timo Hanke and D. Williams, Dfinity technology overview series consensus system, (2018).
 
-A. B. Will Warren, 0x: An open protocol for decentralized exchange on the ethereum blockchain, (2017).
+A. B. Will Warren, 0x: Ethereum blok zinciri üzerindeki merkezi olmayan borsa için açık bir protokol, (2017).
 
 G. Wood, Ethereum: A secure decentralised generalised transaction ledger.ethereum project yellow paper, (2014).
 
