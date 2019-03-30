@@ -44,7 +44,7 @@ VDex borsasının altyapısı için çeşitli işletim sistemlerini aday olarak 
 
 ### Ücretsiz İçerik İşlemleri
 
-Most of the scalability techniques proposed by Ethereum (Sharding, Raiden, Plasma, State Channels) become more efficient, parallelizable, and practical while also ensuring speedy inter-blockchain communication and unimpaired scalability. A Context Free Action involves computations that depend only on transaction data, and not upon the blockchain state.
+Ethereum (Sharding, Raiden, Plazma, Devlet Kanalları) tarafından önerilen ölçeklenebilirlik tekniklerinin çoğu daha verimli, paralelleştirilebilir ve pratik olarak aynı zamanda blok zincirleri arası hızlı iletişim ve bozulmamış ölçeklenebilirlik sağlarken pratik hale gelir. A Context Free Action involves computations that depend only on transaction data, and not upon the blockchain state.
 
 ### Binary/JSON dönüştürme
 
