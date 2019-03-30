@@ -52,7 +52,7 @@ Venue التي تم إطلاقها مؤخرًا في الاختبار التجر
 
 ### الموازاة والتحسين
 
-Separating authentication from application allows faster transaction times and increases bandwidth. EOS.IO blocks are reportedly produced every 500ms.
+فصل الإستيثاق من التطبيق يتيح مدة معاملات أسرع ويزيد من النطاق الترددي. EOS.IO blocks are reportedly produced every 500ms.
 
 ### (Web Assembly(WASM
 
