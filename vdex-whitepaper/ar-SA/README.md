@@ -72,11 +72,11 @@ Venue التي تم إطلاقها مؤخرًا في الاختبار التجر
 
 #### 4.0.3 السلاسل الجانبية
 
-في EOS.IO، يؤدي إصدار الأصل الرقمي إلى إنشاء سلسلة جانبية، وهو عبارة عن آلية جديدة تسمح باستخدام الأصول الرقمية الخاصة بسلسلة كتل بشكل آمن في سلسلة كتل مختلفة ومن ثم نقلها مرة أخرى إلى سلسلة الكتل الأصلية. يتم تعزيز كفاءة المعالجة من خلال إنشاء العديد من السلاسل الجانبية. A TCP-like communication channel between different blockchains evaluates proofs. For each shard (a unit of parallelizable execution in a cycle), a balanced merkle tree is constructed of these action commitments to generate a temporary shared merkle root; this is done for speed of parallel computation. The block header contains the root of a balanced merkle tree the leaves of which are the roots of these individual shard merkle trees. [2]
+في EOS.IO، يؤدي إصدار الأصل الرقمي إلى إنشاء سلسلة جانبية، وهو عبارة عن آلية جديدة تسمح باستخدام الأصول الرقمية الخاصة بسلسلة كتل بشكل آمن في سلسلة كتل مختلفة ومن ثم نقلها مرة أخرى إلى سلسلة الكتل الأصلية. يتم تعزيز كفاءة المعالجة من خلال إنشاء العديد من السلاسل الجانبية. تقوم قناة إتصال تشبه TCP بين السلاسل المختلفة بتقييم البراهين. لكل قسم (وحدة التنفيذ المتوازي في دورة)، يتم إنشاء شجرة من نوع merkle مركونة ومتوازنة من بين إلتزامات العمل لإنشاء جذر merkle مشترك مؤقت؛ يتم القيام بذلك لسرعة الحساب الموازي. يحتوي رأس الكتلة على جذر شجرة merkle متوازنة التي تشكل أوراقها جذور أقسام أشجار merkle الفردية. [2]
 
 #### 5.0.3 السيولة
 
-A digital asset is liquid if it is easily sold or purchased in ordinary trading volumes without a significant short-term impact on its prevailing market price. In order to achieve such a status, traditionally any tradable asset must surmount a trading volume threshold sufficient to support stability. Specifically, we anticipate adopting the following methodologies: Loopring protocol with the use of EOS.IO contracts acting as nodes.[5] Bancor algorithm used to bring stability to the digital asset.[6] Toggles between these protocols and HTLC (atomic swaps) according to Vespucci analyses on the VDex network.
+يكون الأصل الرقمي سائلاً إذا تم بيعه أو شراؤه بسهولة في أحجام تداول عادية دون تأثير كبير قصير المدى على سعر السوق السائد. من أجل تحقيق مثل هذه الحالة، تقليدياً يجب على أي أصل قابل للتداول تجاوز حد حجم التداول الكافي لدعم الاستقرار. Specifically, we anticipate adopting the following methodologies: Loopring protocol with the use of EOS.IO contracts acting as nodes.[5] Bancor algorithm used to bring stability to the digital asset.[6] Toggles between these protocols and HTLC (atomic swaps) according to Vespucci analyses on the VDex network.
 
 #### 6.0.3 العقود المجزأة المقفلة مؤقتاً (المقايضات الذرية)
 
