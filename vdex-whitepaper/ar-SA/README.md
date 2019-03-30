@@ -88,11 +88,11 @@ Venue التي تم إطلاقها مؤخرًا في الاختبار التجر
 
 ![](../9.jpg)
 
-Nodes are the endpoints of the VDex exchange. Their functions are:
+العقد هي نقاط النهاية لمبادل VDex. وظائفهم هي:
 
-1. Act as portals to VDex through the Verto wallet.
+1. يعمل بمثابة بوابات لـVDex من خلال محفظة Verto.
 
-2. Merge order book information.
+2. دمج معلومات دفتر الطلبات.
 
 3. Settle order book.
 
