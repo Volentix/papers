@@ -20,7 +20,7 @@ Volentix ekosistemi, özellikle Venue, Verto, Vespucci ve VDex olarak bilinen bi
 
 Venue, Volentix ekosisteminin yerel dijital varlığı olan VTX'in dağıtımını kolaylaştırmak ve Volentix girişimlerinin farkındalığını arttırmak için Volentix topluluğunun üyelerini işe alan ve hizalayan dinamik bir topluluk platformu olarak planlanmıştır.
 
-Beta testlerinde yeni piyasaya sürülen Venue, kullanıcıların, örneğin adanmış topluluklar geliştirmek, hata düzeltmeleri göndermek ve ikramiye talep etmek karşılığında VTX almalarına olanak tanıyor. Liderler sıralaması ve canlı ölçümler kullanıcının katılımını yansıtır. İlk imza kampanyası, 13 Temmuz 2018'de https://bitcointalk.org/ forumunda başlatıldı. Please visit https://venue.volentix.io for more information.
+Beta testlerinde yeni piyasaya sürülen Venue, kullanıcıların, örneğin adanmış topluluklar geliştirmek, hata düzeltmeleri göndermek ve ikramiye talep etmek karşılığında VTX almalarına olanak tanıyor. Liderler sıralaması ve canlı ölçümler kullanıcının katılımını yansıtır. İlk imza kampanyası, 13 Temmuz 2018'de https://bitcointalk.org/ forumunda başlatıldı. Lütfen daha fazla bilgi için https://venue.volentix.io ziyaret edin.
 
 ### 2.2 VERTO
 
@@ -40,7 +40,7 @@ Volentix'in dördüncü sütunu, VDex borsası tanıtım belgesinde ayrıntılı
 
 #### 3.0.1 İşletim sistemi
 
-We have evaluated various operating systems as candidates for the substructure of our VDex exchange. Though we honor the work done by a number of the established leaders in digital assets and blockchain technology, among those trailblazers the work of EOS.IO as an operating system-like framework upon which decentralized applications can be built stands out, in our opinion, as exemplary. The software provides accounts, authentication, databases, asynchronous communication, and scheduling across clusters. Components and protocols are already built into the platform, and a subset can be used to satisfy our VDex requirements. VDex will initially benefit from the standard features offered by EOS.IO such as account and wallet creation and the recovery of stolen keys, but we plan subsequently to implement protocols for creation of a decentralized exchange through EOS contracts and other tools.[2] Here is a summary of encouraging methodologies:
+VDex borsasının altyapısı için çeşitli işletim sistemlerini aday olarak değerlendirdik. Dijital varlıklar ve blok zinciri teknolojisinde, yerleşik liderlerin bir kısmının yaptığı çalışmaları onurlandırmamıza rağmen, bu öncüler arasında EOS.IO'nun merkezi olmayan uygulamaların işletim sistemi benzeri bir çerçeve olarak çalışması bizim görüşümüze göre örnek olarak öne çıkmaktadır. The software provides accounts, authentication, databases, asynchronous communication, and scheduling across clusters. Components and protocols are already built into the platform, and a subset can be used to satisfy our VDex requirements. VDex will initially benefit from the standard features offered by EOS.IO such as account and wallet creation and the recovery of stolen keys, but we plan subsequently to implement protocols for creation of a decentralized exchange through EOS contracts and other tools.[2] Here is a summary of encouraging methodologies:
 
 ### Ücretsiz İçerik İşlemleri
 
