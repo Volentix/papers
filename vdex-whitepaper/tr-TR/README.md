@@ -110,11 +110,11 @@ VDex toplayıcıları simülatör ve güvenlik amacıyla Volentix sunucularına 
 
 #### 3.1.3 Gecikme
 
-EOS.IO düşük gecikmeli blok onayına sahip (0.5 saniye).[5] Bu gecikme derecesi, bu zincirler benzer gecikmeyi kabul ettiğinde, diğer blok zincirleriyle yapılan işlemlerde korunabilir. But fundamentally the transaction is only as rapid as the lesser-rapid chain in the equation. It is well known, for example, that a Bitcoin block requires approximately ten minutes for processing. Bir işlem karması almak, işlemin onaylandığı anlamına gelmez; bu, yalnızca bir düğümün işlemi hatasız olarak kabul ettiği anlamına gelir ancak diğer blok üreticilerinin bunu kabul etmesi genellikle yüksek bir ihtimaldir.
+EOS.IO düşük gecikmeli blok onayına sahip (0.5 saniye).[5] Bu gecikme derecesi, bu zincirler benzer gecikmeyi kabul ettiğinde, diğer blok zincirleriyle yapılan işlemlerde korunabilir. Fakat temelde işlem, denklemdeki daha az hızlı zincir kadar hızlıdır. Örneğin bir Bitcoin bloğunun işlem için yaklaşık on dakika gerektirdiği iyi bilinmektedir. Bir işlem karması almak, işlemin onaylandığı anlamına gelmez; bu, yalnızca bir düğümün işlemi hatasız olarak kabul ettiği anlamına gelir ancak diğer blok üreticilerinin bunu kabul etmesi genellikle yüksek bir ihtimaldir.
 
 ### 3.2 EMİR KİTABI
 
-Emir defteri, ilgili kullanıcılardan VDex kayıtları al ve sat emirlerinin listesidir. A matching engine uses an order book to determine which orders can be fulfilled. Döngü protokolü, emir defteri veri yapısını özelleştirmeye izin verir.[5] EOS.IO tarafından sağlanan kaplar optimum performans için kullanılabilir.[8]
+Emir defteri, ilgili kullanıcılardan VDex kayıtları al ve sat emirlerinin listesidir. Eşleşen bir motor, hangi emirlerin yerine getirilebileceğini belirlemek için bir emir defteri kullanır. Döngü protokolü, emir defteri veri yapısını özelleştirmeye izin verir.[5] EOS.IO tarafından sağlanan kaplar optimum performans için kullanılabilir.[8]
 
 #### 3.2.1 Veri yapıları
 
