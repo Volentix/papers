@@ -42,13 +42,13 @@ Czwartym filarem Volentix, giełda VDex, jest platformą do obrotu cyfrowymi akt
 
 Określiliśmy różne systemy operacyjne jako kandydatów na podstrukturę naszej giełdy VDex. Chociaż szanujemy pracę wielu uznanych liderów w dziedzinie zasobów cyfrowych i technologii blockchain, wśród tych pionierów wyróżnia się, według nas, na przykład praca EOS.IO jako systemu operacyjnego, na którym można budować zdecentralizowane aplikacje. Oprogramowanie zaopatruje w konta, uwierzytelnianie, bazy danych, komunikację asynchroniczną i planowanie w klastrach. Komponenty i protokoły są już wbudowane w platformę, a podzbiór może zostać użyty do spełnienia naszych wymagań VDex. VDex początkowo będzie korzystał ze standardowych funkcji oferowanych przez EOS.IO, takich jak tworzenie kont i portfeli oraz odzyskiwanie skradzionych kluczy, ale planujemy później wdrożyć protokoły do ​​tworzenia zdecentralizowanej wymiany za pośrednictwem umów EOS i innych narzędzi. [2] Oto podsumowanie przekonywujących metodologii:
 
-### Context Free Actions
+### Działanie Bez Kontekstu
 
-Most of the scalability techniques proposed by Ethereum (Sharding, Raiden, Plasma, State Channels) become more efficient, parallelizable, and practical while also ensuring speedy inter-blockchain communication and unimpaired scalability. A Context Free Action involves computations that depend only on transaction data, and not upon the blockchain state.
+Większość technik skalowalności zaproponowanych przez Ethereum (Sharding, Raiden, Plasma, State Channels) staje się bardziej wydajna, równoległa i praktyczna, zapewniając jednocześnie szybką komunikację między blokchainami i nienaruszoną skalowalność. Działanie bez kontekstu obejmuje obliczenia, które zależą tylko od danych transakcji, a nie od stanu blockchaina.
 
-### Binary/JSON conversion
+### Konwersja binarna/JSON
 
-EOS contracts combine the human readability of JSON with the efficiency of binary.
+Kontrakty EOS łączą czytelność JSON z wydajnością binarną.
 
 ### Parallelization and optimization
 
