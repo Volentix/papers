@@ -50,17 +50,17 @@ Większość technik skalowalności zaproponowanych przez Ethereum (Sharding, Ra
 
 Kontrakty EOS łączą czytelność JSON z wydajnością binarną.
 
-### Parallelization and optimization
+### Równoległość i optymalizacja
 
-Separating authentication from application allows faster transaction times and increases bandwidth. EOS.IO blocks are reportedly produced every 500ms.
+Oddzielenie uwierzytelniania od aplikacji pozwala na szybszy czas transakcji i zwiększa przepustowość. Bloki EOS.IO są według doniesień produkowane co 500 ms.
 
 ### Web Assembly(WASM)
 
-Web Assembly enables high-performance Web applications and also secures each application in its own sandbox, through which functionalities VDex can obtain network access, filesystem namespace restrictions, and enforced rule-based execution.
+Web Assembly umożliwia wydajne aplikacje Internetowe, a także zabezpiecza każdą aplikację we własnym środowisku testowym, dzięki którym VDex może uzyskać dostęp do sieci, ograniczenia przestrzeni nazw systemu plików i wymuszona oparte na zasadach realizacji.
 
-### Rust/C++ contracts
+### Kontrakty Rust/C++
 
-The well-known and popular programming language C++ appears highly suitable for WASM. C++ has highly mature debugging support and libraries. The EOS codebase uses templates liberally, and C++ allows the use of templates and operator overloading to define a runtime cost-free validation of units. The program reinitializes to clean state at the start of every message, a distinct advantage that streamlines formulation of smart contracts. The WebAssembly framework automatically rejects any transaction addressing memory inaccurately. In case dynamic memory allocation is necessary, users can depart to smart pointers because EOS.IO contracts use C++14. It is noteworthy that the first implementation of PARSEC Directed Acyclic Graph (DAG) technology is expected to be in Rust.
+Dobrze znany i popularny język programowania C++ wydaje się bardzo odpowiedni dla WASM. C++ ma bardzo dojrzałe wsparcie debugowania i bibliotek. Baza kodowa EOS wykorzystuje szablony swobodnie, a C ++ pozwala na użycie szablonów i przeciążenie operatorów w celu zdefiniowania bezpłatnego sprawdzania jednostek w czasie wykonywania. Program ponownie inicjuje proces czyszczenia na początku każdej wiadomości, co stanowi wyraźną zaletę, która usprawnia formułowanie inteligentnych umów. The WebAssembly framework automatically rejects any transaction addressing memory inaccurately. In case dynamic memory allocation is necessary, users can depart to smart pointers because EOS.IO contracts use C++14. It is noteworthy that the first implementation of PARSEC Directed Acyclic Graph (DAG) technology is expected to be in Rust.
 
 #### 3.0.2 Schema defined messages and database
 
