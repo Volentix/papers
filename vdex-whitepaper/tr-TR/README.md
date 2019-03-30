@@ -118,9 +118,9 @@ Emir defteri, ilgili kullanıcılardan VDex kayıtları al ve sat emirlerinin li
 
 #### 3.2.1 Veri yapıları
 
-Döngü Protokolü FIFO (ilk giren ilk çıkan) dairesel arabelleği kullanan düğümler, emir defterlerini bir kullanıcının emrini görüntülemek ve eşleştirmek için tasarlayabilir. This method follows an OTC model, where limit orders are positioned based on price only.[5]
+Döngü Protokolü FIFO (ilk giren ilk çıkan) dairesel arabelleği kullanan düğümler, emir defterlerini bir kullanıcının emrini görüntülemek ve eşleştirmek için tasarlayabilir. Bu yöntem, limit fiyatlarının yalnızca emirilerine göre konumlandırıldığı OTC modelini izler.[5]
 
-Referencing the EOS.IO persistence API, the order book is able to take advantage of the powerful multi-index container shared among nodes through the same EOS.IO account.
+EOS.IO sürekli API'ına atıfta bulunarak, sipariş kitabı, aynı EOS.IO hesabı üzerinden düğümler arasında paylaşılan güçlü çok dizinli kapsayıcıdan yararlanabilir.
 
 #### 3.2.2 Açık-Zincir emir kitabı
 
@@ -142,11 +142,11 @@ Emir verme, geleneksel finansal piyasa işlemlerinin bilinen öğelerini içerir
 
 #### 3.4.1 VTX Çıkarma ve Kullanımı
 
-VTX, VDex merkezi olmayan borsasında çıkarılacak ve kullanılacak yerel dijital varlıktır. We currently plan to use an eosio.token contract from the EOS.IO framework to issue 2.1 billion EOS.IO-compliant VTX tokens with a supply of 1.3 billion. VTX will have a diverse array of uses, for example:
+VTX, VDex merkezi olmayan borsasında çıkarılacak ve kullanılacak yerel dijital varlıktır. Şu anda EOS.IO çerçevesinden 2.1 milyar EOS.IO uyumlu VTX tokenleri çıkması için 1.3 milyar tedarikle birlikte bir eosio.token sözleşmesini kullanmayı planlıyoruz. VTX, çeşitli kullanım alanlarına sahip olacaktır, örneğin:
 
-To reward participants in the consensus process and in Venue campaigns.
+Fikir birliği sürecinde ve Venue kampanyalarında katılımcıları ödüllendirmek için.
 
-To pay and redistribute transaction fees on the VDex exchange.
+VDex borsasında işlem ücretlerini ödemek ve yeniden dağıtmak için.
 
 To submit and vote on proposals to the Volentix ecosystem, using the voting rights allocated to VTX holders.
 
@@ -160,21 +160,21 @@ To incentivize users to lock funds in for >24 hours by HTLC time-bound transacti
 
 ![](../6.jpg)
 
-A digital assets ecosystem requires an array of certain fundamental human constituents who shepherd the project forward.[11] It is essential to compensate those individuals for their participation. Subject to adjustment, Volentix currently anticipates the following allocations:
+A digital assets ecosystem requires an array of certain fundamental human constituents who shepherd the project forward.[11] It is essential to compensate those individuals for their participation. Ayarlamaya tabi olarak, Volentix şu anda aşağıdaki tahsisleri öngörmektedir:
 
 1. Katkıda Bulunanlar. %12. Kuruculara benzer, içgörülere, zamana ve yeteneğe katkıda bulunan bir dizi insan, genellikle erken tazminat olmadan çalışır.
 
 2. Destekçiler.
 
-Phase 1. 5%. Early passive seed funders.
+1. Aşama %5. Erken pasif tohum fon sağlayıcıları.
 
-Phase 2. 28%. Funders via qualified private pre-sales and possible public sale.
+2. Aşama %28. Nitelikli özel ön satışlar ve olası kamu satışları aracılığıyla fon verenler.
 
 3. Yardımcılar. (Danışmanlar, Geliştiriciler, Destekleyiciler, Saklayıcılar). Bu kategorideki alt kategorilerden yardım taleplerinin, projenin önemli miktarda finansman desteği almadan önce ve sonra önemli ölçüde farklılık gösterebileceğini unutmayın ancak bazı kişiler her iki aşamada da hizmet verebilir.
 
-Phase 1. 10%.
+1. Aşama %10.
 
-Phase 2. 10%.
+2. Aşama %10.
 
 4. Merkezi olmayan hazine. %35. Topluluk üyeleri merkezi olmayan özerk bir organizasyonun (DAO) ilerici gelişimine katılım için teşvik edildi ve ödüllendirildi. Merkezi olmayan bir hazinenin akıllı sözleşmeler ve topluluk fikir birliği ile yönetilmesi bekleniyor. ![](../5.jpg)
 
@@ -214,7 +214,7 @@ To shake out certain assumptions, we intend to commence security testing followi
 
 Retain vast majority of funds in a time-delayed, multi-signature-controlled account.
 
-Use multi-signatures on a hot wallet with several independent processes/servers double-checking all withdrawals, with the concomitant benefit of creating a trusted list of accounts.
+Güvenilir bir hesap listesi oluşturmanın faydasıyla birlikte, tüm para çekme işlemlerini iki kez kontrol eden, birkaç bağımsız işlemler/sunucular içeren sıcak bir cüzdanda çoklu imzalar kullanın.
 
 Deploy a custom contract that allows withdrawals only to accounts verified by KYC/AML.
 
