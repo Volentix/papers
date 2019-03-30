@@ -68,7 +68,7 @@ Venue التي تم إطلاقها مؤخرًا في الاختبار التجر
 
 #### 3.0.3 التواصل بين العقود
 
-Data is shared between contracts via an oracle, which, "in the context of blockchains and smart contracts, is an agent that finds and verifies real-world occurrences and submits this information to a blockchain to be used by smart contracts.” [4] Every node will have an identical copy of these data, for use in smart contract computation. Rather than the smart contract functioning to pull the data, instead the oracle pushes the data onto the blockchain. In the instance of a blockchain, most reading of the data is done via polling "models" in order to monitor blockchain state and to perform certain responsive actions.
+تتم مشاركة البيانات بين العقود عبر oracle، والتي، "في سياق سلاسل الكتل والعقود الذكية، هي عبارة عن وكيل يقوم بالبحث عن الأحداث في العالم الحقيقي والتحقق منها ويرسل هذه المعلومات إلى سلسلة الكتل ليتم إستخدامها من قبل العقود الذكية." [4] سيكون لكل عقدة نسخة مماثلة من هذه البيانات، لإستخدامها في حساب العقود الذكية. بدلاً من أن يعمل العقد الذكي لسحب البيانات، يدفع oracle بالبيانات إلى سلسلة الكتل. في حالة سلسلة الكتل، تتم قراءة معظم البيانات عبر "نماذج" الاقتراع من أجل مراقبة حالة السلسلة وأداء بعض الإجراءات المتجاوبة.
 
 #### 4.0.3 السلاسل الجانبية
 
