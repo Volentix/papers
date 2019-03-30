@@ -148,11 +148,11 @@ Fikir birliği sürecinde ve Venue kampanyalarında katılımcıları ödüllend
 
 VDex borsasında işlem ücretlerini ödemek ve yeniden dağıtmak için.
 
-To submit and vote on proposals to the Volentix ecosystem, using the voting rights allocated to VTX holders.
+VTX sahiplerine tahsis edilen oylama haklarını kullanarak, Volentix ekosistemine teklifleri sunmak ve oy kullanmak için.
 
-To stake support for reviewing proposals and implementing projects.
+Teklifleri gözden geçirme konusunda destek almak ve projeleri uygulamak için.
 
-To incentivize users to participate in order book settlement by becoming nodes via their Verto wallets.
+Kullanıcıları Verto cüzdanları aracılığıyla düğüm haline getirerek emir defteri anlaşmasına katılmaya teşvik etmek için.
 
 HTLC'nin zamana bağlı işlemleriyle kullanıcıları, >24 saat boyunca fonları kilitlemeye teşvik etmek için.
 
@@ -206,7 +206,7 @@ Anlaşılabilir çoklu blok zinciri bilgileri, blok zinciri zaman çizelgelerini
 
 ### 3.7 GÜVENLİK ENDİŞELERİ
 
-To shake out certain assumptions, we intend to commence security testing following the prototyping phase. Security concerns are of paramount importance to users and must be addressed. Threats include, for example, an attacker executing malicious code within a transaction or manipulating the order of transactions or the timestamps of blocks. In the following sections, we address certain security measures and specific security threats and remedies.
+To shake out certain assumptions, we intend to commence security testing following the prototyping phase. Security concerns are of paramount importance to users and must be addressed. Tehditler, örneğin, bir işlem içinde kötü amaçlı kod yürüten veya işlemlerin emir sırasını veya blokların zaman damgalarını değiştiren bir saldırganı içerir. Takip eden bölümlerde, bazı güvenlik önlemlerini ve belirli güvenlik tehditlerini ve çözüm yollarını ele alıyoruz.
 
 ### 3.8 GÜVENLİK ÖNLEMLERİ
 
