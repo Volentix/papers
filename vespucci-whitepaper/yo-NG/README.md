@@ -277,7 +277,7 @@ Awọn oriṣiriṣi imọ-ẹrọ blockchain ti ni idagbasoke lati koju oriṣi
 * Ipin awakusa, ti o n tọkasi nọmba awọn awakusa ti o wa lori ayelujara ati bi wọn ṣe jẹ pinpin (nipasẹ adagun), owo wọn, orire abbl. Bakanaa,ẹya software awọn awakusa naa tun ṣe pataki, niwọn to jẹpe ohun to yẹ ni ki wọn o wa lori eyi to tuntun julọ lati le jẹ ki atilẹyin wa fun gbogbo awọn iṣesi ti Owo ti wọn n wa naa.
 * Awọn ipele iṣowo, ibi ti asaro lori orisirisi awọn igbesẹ ti le waye, gẹgẹbi nọmba awọn iṣowo ti o jẹ gbigbe silẹ tabi idaniloju ti o n waye ni iṣẹju aaya kọọkan nipasẹ oju ipade kọọkan ati gbogbo nẹtiwọki naa, agbede akoko idaniloju fun iṣowo ati iyipada pajawiri.
 * Awọn owo iṣowo, ti awọn olumulo le san si nẹtiwọki naa, lati le pari awọn iṣowo tabi awọn adehun ajafafa.
-* Security includes several aspects such as the vulnerability of the system to attacks (e.g. double spending, Sybil attacks), the confidentiality of transactions, as well as user anonymity.
+* Aabo ni awọn abala pupọ gẹgẹbi ikapa ipalara ti eto naa si awọn ikọlu (fun apẹẹrẹ awọn inawo meji, awọn ikọlu Sybil), asiri bibo ti awọn iṣowo, ati àìdánimọ olumulo.
 * Scalability concerns how the system’s performance is affected by the number of nodes, transactions and users, and the scattering of the geographic positions of the nodes.
 * Hardware requirements for storage, memory and processors needed to store the blockchain network and validate the transactions and blocks, as well as how these requirements change while the networks grows.
 
