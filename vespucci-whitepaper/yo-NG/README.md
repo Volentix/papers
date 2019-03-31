@@ -288,9 +288,9 @@ Lara awọn nkan miiran, diẹ ninu awọn ẹya ara ti o wa nilẹ nipasẹ aw�
 * onka iye iṣowo - nọmba awọn iṣowo ti n ṣẹlẹ lori blockchain ti gbogbogbo ni ọjọ kan
 * iwọn iye iṣowo (usd) - apapọ iye awọn abajade lori blockchain naa, ni ọjọ kan ti a yan
 * iwọn iye idunadura ti o ti ni atunto (usd) - ni afojuwọn ([https://coinmetrics.io/introducing-adjustusted-estimates ](https://coinmetrics.io/introducing-adjusted-estimates/))
-* payment count
-* active addresses
-* fees
+* onka iye isanwo
+* awọn adirẹsi ti n ṣiṣe lọwọ
+* awọn owo
 * median fee
 * generated coins
 * average difficulty
