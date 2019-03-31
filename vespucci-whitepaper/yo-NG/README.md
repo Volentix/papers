@@ -297,7 +297,7 @@ Lara awọn nkan miiran, diẹ ninu awọn ẹya ara ti o wa nilẹ nipasẹ aw�
 * median transaction value (usd)
 * block size
 * block count
-* price (usd)
+* iye owo (usd)
 * market capitalization (usd)
 * exchange volume(usd)
 * total coins mined
