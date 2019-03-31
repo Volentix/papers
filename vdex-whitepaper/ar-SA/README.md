@@ -124,11 +124,11 @@ Using the Loopring Protocol FIFO (first-in first-out) circular buffer, nodes can
 
 #### 3.2.2 دفتر الطلبات على السلسلة
 
-An on-chain order book is a record of offers residing on the wallet (node) chosen to settle the order book. It resides in a persistent database on each node subscribing to the same account as all the other nodes.
+دفتر الطلبات على السلسلة هو سجل العروض المتواجدة في المحفظة (العقدة) المختارة لتسوية دفتر الطلبات. يتواجد في قاعدة بيانات دائمة على كل عقدة تشترك في نفس الحساب كجميع العقد الأخرى.
 
-#### 3.2.3 Off-Chain order book
+#### 3.2.3 دفتر الطلبات خارج السلسلة
 
-Residing on the aggregator, offline order books serve for simulator and security purposes.
+يتواجد في المجمع، تعمل دفاتر الطلبات الغير متصلة لأغراض المحاكاة والأمان.
 
 #### 3.2.4 Decentralization process of order book settlement
 
