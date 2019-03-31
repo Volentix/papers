@@ -82,7 +82,7 @@ Venue التي تم إطلاقها مؤخرًا في الاختبار التجر
 
 العقد المجزء المقفل مؤقتاً [HTLC)[1) هو عبارة عن عقد ذكي يتيح تطبيق المعاملات المحددة زمنيا. سيتم منح المستخدمين فترة تأمين متغيرة لمعاملاتهم، مع خصم على رسوم المعاملة في مقابل إختيار فترة تأمين أطول.
 
-### 3.1 NETWORK TOPOLOGY
+### 3.1 طوبولوجيا الشبكة
 
 #### 3.1.1 العقد
 
@@ -104,7 +104,7 @@ Venue التي تم إطلاقها مؤخرًا في الاختبار التجر
 
 العقد تكسب جزء من الرسوم على كل معاملة. إذا كان لدى المستخدم أموال كافية وله سجل جيد ، يمكن أن تستعمل محفظة Verto الخاصة به أو بها كعقدة.
 
-#### 3.1.2 Aggregators
+#### 3.1.2 مجمعات
 
 The VDex aggregators are dedicated Volentix servers for simulator and security purposes. One of their functions is to pull logs and order book data from nodes into sparse distributed representations for hierarchical temporal memory as intrusion [7] analysis for detecting anomalies in the system. The aggregators will also be host to other components such as metachain ledgers and blockchain scrapers.
 
