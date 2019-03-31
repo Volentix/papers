@@ -285,9 +285,9 @@ Lati ṣe amulo iyanana ti o wa loke yii, alaye siwaju sii wa ni abala ti o kan.
 
 Lara awọn nkan miiran, diẹ ninu awọn ẹya ara ti o wa nilẹ nipasẹ awọn API mejeeji ni:
 
-* onka iṣowo - nọmba awọn iṣowo ti n ṣẹlẹ lori blockchain ti gbogbogbo ni ọjọ kan
-* transaction volume (usd) – total value of outputs on the blockchain, on a given day
-* adjusted transaction volume (usd) – estimated ([https://coinmetrics.io/introducing-adjusted-estimates](https://coinmetrics.io/introducing-adjusted-estimates/))
+* onka iye iṣowo - nọmba awọn iṣowo ti n ṣẹlẹ lori blockchain ti gbogbogbo ni ọjọ kan
+* iwọn iye iṣowo (usd) - apapọ iye awọn abajade lori blockchain naa, ni ọjọ kan ti a yan
+* iwọn iye idunadura ti o ti ni atunto (usd) - ni afojuwọn ([https://coinmetrics.io/introducing-adjustusted-estimates ](https://coinmetrics.io/introducing-adjusted-estimates/))
 * payment count
 * active addresses
 * fees
