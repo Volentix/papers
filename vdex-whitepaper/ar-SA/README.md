@@ -120,9 +120,9 @@ Venue التي تم إطلاقها مؤخرًا في الاختبار التجر
 
 Using the Loopring Protocol FIFO (first-in first-out) circular buffer, nodes can design their order books to display and match a user’s order. This method follows an OTC model, where limit orders are positioned based on price only.[5]
 
-Referencing the EOS.IO persistence API, the order book is able to take advantage of the powerful multi-index container shared among nodes through the same EOS.IO account.
+بالرجوع إلى واجهة برمجة تطبيقات EOS.IO، فإن دفتر الطلبات قادر على الاستفادة من الحاوية القوية متعددة الفهرس المشتركة بين العقد من خلال حساب EOS.IO نفسه.
 
-#### 3.2.2 On-Chain order book
+#### 3.2.2 دفتر الطلبات على السلسلة
 
 An on-chain order book is a record of offers residing on the wallet (node) chosen to settle the order book. It resides in a persistent database on each node subscribing to the same account as all the other nodes.
 
