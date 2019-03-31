@@ -110,13 +110,13 @@ Venue التي تم إطلاقها مؤخرًا في الاختبار التجر
 
 #### 3.1.3 زمن الوصول
 
-لدى EOS.IO زمن وصول منخفض خاص بتأكيد الكتلة (0.5 ثواني).[5] يمكن الحفاظ على هذه الدرجة من زمن وصول في المعاملات مع سلاسل الكتل الأخرى إذا اعترفت تلك السلاسل بزمن وصول مماثل. But fundamentally the transaction is only as rapid as the lesser-rapid chain in the equation. It is well known, for example, that a Bitcoin block requires approximately ten minutes for processing. Receiving a transaction hash does not mean the transaction is confirmed; it means only that a node accepted the transaction without error, although there is generally a high probability other block producers will accept it.
+لدى EOS.IO زمن وصول منخفض خاص بتأكيد الكتلة (0.5 ثواني).[5] يمكن الحفاظ على هذه الدرجة من زمن وصول في المعاملات مع سلاسل الكتل الأخرى إذا اعترفت تلك السلاسل بزمن وصول مماثل. لكن في الأساس، تكون المعاملة بسرعة السلسلة الأبطأ في المعادلة. من المعروف، على سبيل المثال، أن كتلة Bitcoin تتطلب عشر دقائق تقريبًا للمعالجة. تلقي تجزئة المعاملة لا يعني تأكيد المعاملة؛ هذا يعني فقط أن العقدة قبلت المعاملة دون خطأ ، على الرغم من وجود احتمال كبير أن يقبلها منتجين الكتل الآخرين.
 
 ### 3.2 دفتر الطلبات
 
 دفتر الطلبات هو قائمة أوامر الشراء والبيع التي تسجلها VDex من المستخدمين المهتمين. يستخدم محرك المطابقة دفتر الأوامر لتحديد الطلبات التي يمكن تحقيقها. يسمح بروتوكول Loopring بتخصيص بنية بيانات دفتر الطلبات.[5] يمكن استخدام الحاويات التي يوفرها EOS.IO لتحقيق الأداء الأمثل.[8]
 
-#### 3.2.1 Data structures
+#### 3.2.1 هياكل البيانات
 
 Using the Loopring Protocol FIFO (first-in first-out) circular buffer, nodes can design their order books to display and match a user’s order. This method follows an OTC model, where limit orders are positioned based on price only.[5]
 
