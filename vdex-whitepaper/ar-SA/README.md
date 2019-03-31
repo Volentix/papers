@@ -106,13 +106,13 @@ Venue التي تم إطلاقها مؤخرًا في الاختبار التجر
 
 #### 3.1.2 مجمعات
 
-The VDex aggregators are dedicated Volentix servers for simulator and security purposes. One of their functions is to pull logs and order book data from nodes into sparse distributed representations for hierarchical temporal memory as intrusion [7] analysis for detecting anomalies in the system. The aggregators will also be host to other components such as metachain ledgers and blockchain scrapers.
+تم تخصيص مجمعات VDex كسرفرات Volentix لأغراض المحاكاة والأمن. تتمثل إحدى وظائفها في سحب السجلات وبيانات دفتر الطلبات من العقد إلى تمثيلات متفرقة موزعة للذاكرة الزمنية الهرمية كتحليل اقتحام [7] لاكتشاف حالات الشاذة في النظام. سوف تستضيف المجمعات أيضًا مكونات أخرى مثل دفاتر metachain وكاشطات سلسلة الكتل.
 
-#### 3.1.3 Latency
+#### 3.1.3 زمن الوصول
 
-EOS.IO has low latency block confirmation (0.5 seconds).[5] This degree of latency can be maintained in transactions with other blockchains if those chains admit of similar latency. But fundamentally the transaction is only as rapid as the lesser-rapid chain in the equation. It is well known, for example, that a Bitcoin block requires approximately ten minutes for processing. Receiving a transaction hash does not mean the transaction is confirmed; it means only that a node accepted the transaction without error, although there is generally a high probability other block producers will accept it.
+لدى EOS.IO زمن وصول منخفض خاص بتأكيد الكتلة (0.5 ثواني).[5] يمكن الحفاظ على هذه الدرجة من زمن وصول في المعاملات مع سلاسل الكتل الأخرى إذا اعترفت تلك السلاسل بزمن وصول مماثل. But fundamentally the transaction is only as rapid as the lesser-rapid chain in the equation. It is well known, for example, that a Bitcoin block requires approximately ten minutes for processing. Receiving a transaction hash does not mean the transaction is confirmed; it means only that a node accepted the transaction without error, although there is generally a high probability other block producers will accept it.
 
-### 3.2 ORDER BOOK
+### 3.2 دفتر الطلبات
 
 دفتر الطلبات هو قائمة أوامر الشراء والبيع التي تسجلها VDex من المستخدمين المهتمين. يستخدم محرك المطابقة دفتر الأوامر لتحديد الطلبات التي يمكن تحقيقها. يسمح بروتوكول Loopring بتخصيص بنية بيانات دفتر الطلبات.[5] يمكن استخدام الحاويات التي يوفرها EOS.IO لتحقيق الأداء الأمثل.[8]
 
