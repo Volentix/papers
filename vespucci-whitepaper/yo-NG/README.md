@@ -279,7 +279,7 @@ Awọn oriṣiriṣi imọ-ẹrọ blockchain ti ni idagbasoke lati koju oriṣi
 * Awọn owo iṣowo, ti awọn olumulo le san si nẹtiwọki naa, lati le pari awọn iṣowo tabi awọn adehun ajafafa.
 * Aabo ni awọn abala pupọ gẹgẹbi ikapa ipalara ti eto naa si awọn ikọlu (fun apẹẹrẹ awọn inawo meji, awọn ikọlu Sybil), asiri bibo ti awọn iṣowo, ati àìdánimọ olumulo.
 * Ipele agbara iṣiṣẹ ni ṣe pẹlu bi iṣiṣẹ eto naa ṣe ni ipa nipasẹ nọmba awọn oju ipade, awọn iṣowo ati awọn olumulo, ati ituka awọn ipo agbegbe ti awọn oju ipade.
-* Hardware requirements for storage, memory and processors needed to store the blockchain network and validate the transactions and blocks, as well as how these requirements change while the networks grows.
+* Awọn ohun elo afojuri ti a nilo fun ibi ipamọ, iranti ati awọn ohun iṣiṣẹ nilo lati tọju nẹtiwọki blockchain ati ṣe idaniloju awọn iṣowo ati awọn bulọọki, ati ni bakanaa bi awọn ohun inilo yii ṣe n yipada nigbati awọn nẹtiwọki n dagba.
 
 To implement the above analysis, further detail is given in the next section. Today, blockchain explorers are widely available to support this task. In particular, blockchain explorers such as [coinmetrics](https://coinmetrics.io/) and [cryptocompare](https://www.cryptocompare.com/) were combined, in order to meet the needs of FTA. The former is an open source crypto-asset analytics service, providing daily data for the most major cryptocurrencies (about 64 currently). Cryptocompare is a platform with live cryptocurrency data; its API makes available historical and live streaming cryptocurrency data, such as pricing, volume and block explorer data from multiple exchanges and blockchains.
 
