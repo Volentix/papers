@@ -281,11 +281,11 @@ Awọn oriṣiriṣi imọ-ẹrọ blockchain ti ni idagbasoke lati koju oriṣi
 * Ipele agbara iṣiṣẹ ni ṣe pẹlu bi iṣiṣẹ eto naa ṣe ni ipa nipasẹ nọmba awọn oju ipade, awọn iṣowo ati awọn olumulo, ati ituka awọn ipo agbegbe ti awọn oju ipade.
 * Awọn ohun elo afojuri ti a nilo fun ibi ipamọ, iranti ati awọn ohun iṣiṣẹ nilo lati tọju nẹtiwọki blockchain ati ṣe idaniloju awọn iṣowo ati awọn bulọọki, ati ni bakanaa bi awọn ohun inilo yii ṣe n yipada nigbati awọn nẹtiwọki n dagba.
 
-Lati ṣe amulo iyanana ti o wa loke yii, alaye siwaju sii wa ni abala ti o kan. Loni, awọn aṣawakiri blockchain wa nilẹ kaakiri lati ṣe atilẹyin iṣẹ yii. Ni pato, awọn aṣwakiri blockchain bi ti[coinmetrics](https://coinmetrics.io/) ati [cryptocompare](https://www.cryptocompare.com/) jẹ didapọ, lati le wa ni ibamu pẹlu awọn ibeere ti FTA. Eyi ti a mẹnuba lakọkọ jẹ eto iyanana ohun ini-onikiripito ti orisun gbangba, ti o n pese awọn data ojoojumọ fun ọpọ awọn owo kiripito to se pataki julọ (ti o jẹ bi 64 lọwọlọwọ). Cryptocompare is a platform with live cryptocurrency data; its API makes available historical and live streaming cryptocurrency data, such as pricing, volume and block explorer data from multiple exchanges and blockchains.
+Lati ṣe amulo iyanana ti o wa loke yii, alaye siwaju sii wa ni abala ti o kan. Loni, awọn aṣawakiri blockchain wa nilẹ kaakiri lati ṣe atilẹyin iṣẹ yii. Ni pato, awọn aṣwakiri blockchain bi ti[coinmetrics](https://coinmetrics.io/) ati [cryptocompare](https://www.cryptocompare.com/) jẹ didapọ, lati le wa ni ibamu pẹlu awọn ibeere ti FTA. Eyi ti a mẹnuba lakọkọ jẹ eto iyanana ohun ini-onikiripito ti orisun gbangba, ti o n pese awọn data ojoojumọ fun ọpọ awọn owo kiripito to se pataki julọ (ti o jẹ bi 64 lọwọlọwọ). Cryptocompare jẹ pilatifọọmu ti o ni alaye bosenlọ ti data owo kiripito; Awọn apI rẹ n pese itan ati afihan alaye bosenlọ ti data owo kiripito, gẹgẹbi awọn idiyele, iwọn ati data aṣawari bulọọku lati awọn ọpọlọpọ ibi paṣipaarọ ati awọn blockchain.
 
-Among others, some of the features available by both APIs are:
+Lara awọn nkan miiran, diẹ ninu awọn ẹya ara ti o wa nilẹ nipasẹ awọn API mejeeji ni:
 
-* transaction count – number of transactions happening on the public blockchain a day
+* onka iṣowo - nọmba awọn iṣowo ti n ṣẹlẹ lori blockchain ti gbogbogbo ni ọjọ kan
 * transaction volume (usd) – total value of outputs on the blockchain, on a given day
 * adjusted transaction volume (usd) – estimated ([https://coinmetrics.io/introducing-adjusted-estimates](https://coinmetrics.io/introducing-adjusted-estimates/))
 * payment count
