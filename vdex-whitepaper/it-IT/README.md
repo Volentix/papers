@@ -118,7 +118,7 @@ Il registro ordini è la lista degli ordini di acquisto e vendita che vengono re
 
 #### 3.2.1 Strutture dati
 
-Utilizzando il buffer circolare Protocollo di Loopring FIFO (primo ad entrare primo ad uscire), i nodi possono progettare i loro registri degli ordini per mostrare e corrispondere all'ordine di un utente. This method follows an OTC model, where limit orders are positioned based on price only.[5]
+Utilizzando il buffer circolare Protocollo di Loopring FIFO (primo ad entrare primo ad uscire), i nodi possono progettare i loro registri degli ordini per mostrare e corrispondere all'ordine di un utente. Questo metodo segue un modello OTC, dove i limit order vengono posizionati basandosi soltanto sul prezzo.[5]
 
 Referencing the EOS.IO persistence API, the order book is able to take advantage of the powerful multi-index container shared among nodes through the same EOS.IO account.
 
