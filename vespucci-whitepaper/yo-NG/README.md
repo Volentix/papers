@@ -321,8 +321,8 @@ Modulu yii (ti o ni ibatan pẹlu Iyanana iwoyesi) n ṣe ayẹwo alaye lati Git
 * Imoye ati akọsilẹ aseyọri ti ẹgbẹ naa ati ifarajin wọn nigbogbo igba si iṣẹ akanṣe wọn (bi atunse ṣe n waye si, bi awujọ ṣe n dahun si awọn asise si, awọn ilọwọsi fun akoko pipẹ, ati iye igba ti o ti jẹ lilo ni lemọlemọ lati ṣe agbedide iṣẹ akanṣe naa),
 * Iṣẹ lori GitHub, eyi ti o ni ibatan gidi gan pẹlu ohun ti tẹlẹ, ati nọmba awọn ọmọlẹhin ti iṣẹ akanṣe naa,
 * Bi koodu se dara si (awọn ede siseto, agbegbe idanwo, ipin awọn asise lori awọn ila ti koodu, awọn ege inu agbedide ati bẹẹ bẹẹ lọ), bi o se gbopọn si, ati itọju software naa,
-* The corresponding white paper.
-* The mathematical and cryptographical principles of the system.
+* Iwe funfun ti o ni ibamu pẹlu rẹ.
+* Awọn ofin ilana oniṣiro ati onikoodu ti eto naa.
 
 More specifically, some features of the git repositories that determine the repository’s popularity and robustness are its forks and stars, the activity of the maintenance team, measured by the rate of issues closed and of pull requests, as well as the quality of the project’s source code, measured by its test coverage and other code quality metrics. These can be obtained from the [CoinGecko](https://www.coingecko.com/en) API, a cryptocurrency ranking chart app that ranks digital currencies by developer activity, community, and liquidity.
 
