@@ -318,8 +318,8 @@ Abala kan wa ti o jẹ ti iyanana iwọn oniye lati apa iwoyesi ibasepọ ti o n
 
 Modulu yii (ti o ni ibatan pẹlu Iyanana iwoyesi) n ṣe ayẹwo alaye lati Github ati awọn orisun miiran gẹgẹbi atunyẹwo litiresọ. O n ṣe odiwọn bi koodu se dara si nipa wiwo awọn ami ibasepọ ti o wọpọ daadaa laarin awọn olugbedide ti software, ati ni pato:
 
-* The expertise and track record of the team and their continued commitment to their project (frequency of commits, frequency the community responds to bugs, contributions over time, and the amount of time that has been consistently spent building up the project),
-* The activity on GitHub, which is tightly related to the previous item, and the number of followers of the project,
+* Imoye ati akọsilẹ aseyọri ti ẹgbẹ naa ati ifarajin wọn nigbogbo igba si iṣẹ akanṣe wọn (bi atunse ṣe n waye si, bi awujọ ṣe n dahun si awọn asise si, awọn ilọwọsi fun akoko pipẹ, ati iye igba ti o ti jẹ lilo ni lemọlemọ lati ṣe agbedide iṣẹ akanṣe naa),
+* Iṣẹ lori GitHub, eyi ti o ni ibatan gidi gan pẹlu ohun ti tẹlẹ, ati nọmba awọn ọmọlẹhin ti iṣẹ akanṣe naa,
 * The quality of code (programming languages, test coverage, ratio of bugs over lines of code,build breaks etc), robustness, and maintenance of the software,
 * The corresponding white paper.
 * The mathematical and cryptographical principles of the system.
