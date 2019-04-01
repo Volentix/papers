@@ -326,9 +326,9 @@ Modulu yii (ti o ni ibatan pẹlu Iyanana iwoyesi) n ṣe ayẹwo alaye lati Git
 
 Ni paapa julọ, awọn ẹya ara ti awọn ibi ipamọ git ti o n sọ bi ibi ipamọ naa se gbajumọ to ati bi o se gbopọn si naa ni awọn ẹka ati awọn irawọ rẹ, iṣẹ ti ẹgbẹ olutọju, ti wiwọn rẹ n jẹ ṣiṣe nipasẹ iye awọn iṣoro ti o ti pari ati ti awọn ibeere afamọra, bakannaa ati bi orisun koodu iṣẹ akanṣe naa ṣe dara si, ti wiwọn rẹ n waye nipasẹ agbegbe idanwo rẹ ati awọn osuwọn bi koodu se dara si miiran. Awọn wọnyi le jẹ gbigba lati [ CoinGecko ](https://www.coingecko.com/en) API, ohun elo atẹ ipele ipo kan ti o n ṣe eto ipo awọn owo digita ni ibamu pẹlu awọn iṣẹ olugbedide, awujọ, ati irọrun tita dukia.
 
-The combination of these criteria relies essentially on an adapted and powerful scoring function which, eventually, may be replaced by a Convolutional Neural Network, also discussed in support of Sentiment Analysis (see relevant section).
+Apapọ awọn ipewọn yii ni pataki gbẹkẹle ori eto iṣẹ kan ti o jẹ titunṣe ati ti o lagbara, eyiti, o se ṣe ki o jẹ pipaarọ pẹlu nẹtiwọki Nẹtiwọki Neural Alayipọ, o tun jẹ sisọrọ nipa ni atilẹyin si Iyanana Iwoyesi (wo abala ti o yẹ).
 
-* #### **BLOCKCHAIN STATISTICS, BLOCKCHAIN FULL NODE, AND EVM ANALYSIS**
+* #### **ALAYE ISIRO TI BLOCKCHAIN, OJU IPADE TO KUN TI BLOCKCHAIN, ATI IYANANA TI EVM**
 
 Ojuṣe ẹrọ yii ni ṣiṣe ibaraẹnisọrọ pẹlu ọkọọkan awọn oju ipade ti a lo fun ọkọọkan awọn blockchain ti a yẹwo. Iṣe rẹ ni lati pese intafeesi onibamu to kun ojuiwọn si ipele isinmi opin lati jẹ ki iwa eyikeyi blockchain le ṣee yọkuro, nigbati mimọ atile ṣe ìbéèrè eyikeyi oju ipade kikun ti blockchain naa ti o n jẹ lilo nipasẹ eto naa, lati le gba alaye nipa asopọ naa ati awọn ihuwasi nẹtiwọki ti asopọ naa. Ni ọpọlọpọ awọn igba, aami to ṣe ṣowo ko kin lotitọ ṣiṣẹ lori asopọ to jẹ yiyasọtọ fun ara rẹ sugbọn amulo rẹ waye laipẹ nipa lilo ilana awọn adehun ti o nṣiṣẹ lori blockchain onimuṣiṣẹ-adehun-ajafafa bi Ethereum. Ni iru igba bayii, ẹrọ yii n se itakurọsọ pẹlu awọn oju ipade kikun ti o wa fun asopọ yii, ati awọn ẹrọ miiran, fun apẹẹrẹ, ẹrọ iyanana alaimi ti Ethereum ti o jẹ didarukọ lẹkunrẹrẹ si ninu iwe yii.
 
