@@ -308,11 +308,11 @@ Lara awọn nkan miiran, diẹ ninu awọn ẹya ara ti o wa nilẹ nipasẹ aw�
 
 **Source Code – Developer activity**
 
-Abala kan wa ti o jẹ ti iyanana iwọn oniye lati apa iwoyesi ibasepọ ti o n wo ikopa ti awujọ olugbedide ti o yi iṣẹ akanse naa ka, eyiti o ni ibatan pẹlu Iyanana Iwoyesi. Research into metrics that accurately reflect rates of community participation as well as creator participation will be assessed. These factors may include but are not limited to:‬
+Abala kan wa ti o jẹ ti iyanana iwọn oniye lati apa iwoyesi ibasepọ ti o n wo ikopa ti awujọ olugbedide ti o yi iṣẹ akanse naa ka, eyiti o ni ibatan pẹlu Iyanana Iwoyesi. Iwadi sinu awọn osuwọn ti o n ṣe afihan to peye ti awọn iwọn ikopa ti awujọ ati ti ikopa awọn oluṣẹda pẹlu ma jẹ gbigbe yẹwo. Awọn okunfa naa le jẹ awọn ohun wọnyi amọ ko pin si awọn ohun wọnyi:
 
-‪• online community participation
+‪• ikopa ti awujọ lori ayelujara
 
-‪• code base activity‬
+‪• iṣẹ to da lori koodu
 
 ‪• creator approachability and responsiveness ‬.
 
