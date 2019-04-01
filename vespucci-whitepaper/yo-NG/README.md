@@ -308,7 +308,7 @@ Lara awọn nkan miiran, diẹ ninu awọn ẹya ara ti o wa nilẹ nipasẹ aw�
 
 **Source Code – Developer activity**
 
-There is an aspect of quantitative analysis from a social perspective which looks at the involvement of the developer community surrounding the project, quite related to Sentiment Analysis. Research into metrics that accurately reflect rates of community participation as well as creator participation will be assessed. These factors may include but are not limited to:‬
+Abala kan wa ti o jẹ ti iyanana iwọn oniye lati apa iwoyesi ibasepọ ti o n wo ikopa ti awujọ olugbedide ti o yi iṣẹ akanse naa ka, eyiti o ni ibatan pẹlu Iyanana Iwoyesi. Research into metrics that accurately reflect rates of community participation as well as creator participation will be assessed. These factors may include but are not limited to:‬
 
 ‪• online community participation
 
