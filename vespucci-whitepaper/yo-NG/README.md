@@ -314,9 +314,9 @@ Abala kan wa ti o jẹ ti iyanana iwọn oniye lati apa iwoyesi ibasepọ ti o n
 
 ‪• iṣẹ to da lori koodu
 
-‪• creator approachability and responsiveness ‬.
+‪• irọrun sisunmọ ati iwọn ikọbiarasi ifesiransẹ ti oluṣẹda .
 
-This module (related to Sentiment analysis) examines information from Github and other sources such as literature review. It grades the quality of a codebase by looking at social cues well-known among software developers, and in particular:
+Modulu yii (ti o ni ibatan pẹlu Iyanana iwoyesi) n ṣe ayẹwo alaye lati Github ati awọn orisun miiran gẹgẹbi atunyẹwo litiresọ. O n ṣe odiwọn bi koodu se dara si nipa wiwo awọn ami ibasepọ ti o wọpọ daadaa laarin awọn olugbedide ti software, ati ni pato:
 
 * The expertise and track record of the team and their continued commitment to their project (frequency of commits, frequency the community responds to bugs, contributions over time, and the amount of time that has been consistently spent building up the project),
 * The activity on GitHub, which is tightly related to the previous item, and the number of followers of the project,
