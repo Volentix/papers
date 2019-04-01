@@ -324,7 +324,7 @@ Modulu yii (ti o ni ibatan pẹlu Iyanana iwoyesi) n ṣe ayẹwo alaye lati Git
 * Iwe funfun ti o ni ibamu pẹlu rẹ.
 * Awọn ofin ilana oniṣiro ati onikoodu ti eto naa.
 
-More specifically, some features of the git repositories that determine the repository’s popularity and robustness are its forks and stars, the activity of the maintenance team, measured by the rate of issues closed and of pull requests, as well as the quality of the project’s source code, measured by its test coverage and other code quality metrics. These can be obtained from the [CoinGecko](https://www.coingecko.com/en) API, a cryptocurrency ranking chart app that ranks digital currencies by developer activity, community, and liquidity.
+Ni paapa julọ, awọn ẹya ara ti awọn ibi ipamọ git ti o n sọ bi ibi ipamọ naa se gbajumọ to ati bi o se gbopọn si naa ni awọn ẹka ati awọn irawọ rẹ, iṣẹ ti ẹgbẹ olutọju, ti wiwọn rẹ n jẹ ṣiṣe nipasẹ iye awọn iṣoro ti o ti pari ati ti awọn ibeere afamọra, bakannaa ati bi orisun koodu iṣẹ akanṣe naa ṣe dara si, ti wiwọn rẹ n waye nipasẹ agbegbe idanwo rẹ ati awọn osuwọn bi koodu se dara si miiran. Awọn wọnyi le jẹ gbigba lati [ CoinGecko ](https://www.coingecko.com/en) API, ohun elo atẹ ipele ipo kan ti o n ṣe eto ipo awọn owo digita ni ibamu pẹlu awọn iṣẹ olugbedide, awujọ, ati irọrun tita dukia.
 
 The combination of these criteria relies essentially on an adapted and powerful scoring function which, eventually, may be replaced by a Convolutional Neural Network, also discussed in support of Sentiment Analysis (see relevant section).
 
