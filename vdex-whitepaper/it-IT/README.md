@@ -110,9 +110,9 @@ Gli aggregatori di VDex sono server dedicati di Volentix che hanno come scopo la
 
 #### 3.1.3 Latenza
 
-EOS.IO ha una latenza bassa per la conferma dei blocchi (0.5 secondi). [5] Questo grado di latenza può essere mantenuto nelle transazioni con altre blockchain se queste chain hanno una latenza simile. Ma sostanzialmente la transazione è rapida solo come la catena meno rapida dell'equazione. Per esempio, è risaputo, che un blocco Bitcoin necessita circa 10 minuti per l'elaborazione. Receiving a transaction hash does not mean the transaction is confirmed; it means only that a node accepted the transaction without error, although there is generally a high probability other block producers will accept it.
+EOS.IO ha una latenza bassa per la conferma dei blocchi (0.5 secondi). [5] Questo grado di latenza può essere mantenuto nelle transazioni con altre blockchain se queste chain hanno una latenza simile. Ma sostanzialmente la transazione è rapida solo come la catena meno rapida dell'equazione. Per esempio, è risaputo, che un blocco Bitcoin necessita circa 10 minuti per l'elaborazione. Ricevere il hash di una transazione non significa che la transazione è stata confermata; significa soltanto che un nodo ha accettato la transazione senza alcun errore, anche se in genere c'è un alta probabilità che anche altri produttori di blocchi la accetteranno.
 
-### 3.2 ORDER BOOK
+### 3.2 REGISTRO ORDINI
 
 Il registro ordini è la lista degli ordini di acquisto e vendita che vengono registrati da VDex dagli utenti interessati. A matching engine uses an order book to determine which orders can be fulfilled. The Loopring protocol allows for customizing the order book data structure.[5] Containers provided by EOS.IO can be used for optimal performance.[8]
 
