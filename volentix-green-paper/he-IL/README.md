@@ -1,6 +1,6 @@
-# Volentix Green Paper
+# Volentix רשימה ירוקה
 
-## INTRODUCTION
+## מבוא
 
 Volentix introduces VDex, designed as a distributed, decentralized digital assets exchange with emphasis on user experience and community development and governance. By accessing established technologies and planning selective new protocols with priority on security, speed, authentication, ease of use, scalability, and multi-asset support, VDex intends to facilitate peer-to-peer transactions by assembling a portfolio of decentralized applications built on EOS.IO smart contracts.
 
@@ -52,7 +52,7 @@ In contemplating technological design, we have evaluated various existing (and e
 Our guiding philosophy is one of decentralization, and our ongoing efforts are targeted to promoting a reduction in dependence on central authority. The tremendous benefit of the open-source code philosophy  
 is that every day there are announcements of fresh code developments impacting on convenient and safe trading and use of digital assets. Our premise is security and ease of operation. Prudence mandates education. The most important asset is knowledge.
 
-All of us at VOLENTIX are dedicating sizable quantities of work and insights to developing a program premised on empowerment and independence. Please monitor our website and social media for updates and other important announcements. Thank you very much for your attention and interest.
+כולנו פה בVolentix מקדישים כמויות עבודה ותושיה ניכרות לפיתוח תוכנה המבוססת על העצמה ועצמאות. Please monitor our website and social media for updates and other important announcements. Thank you very much for your attention and interest.
 
 מעבדות Volentix
 
@@ -62,4 +62,4 @@ All of us at VOLENTIX are dedicating sizable quantities of work and insights to 
 
 ## RESTRICTION REGARDING U.S.A.
 
-In view of confusion in the current regulatory environment, Volentix does not anticipate soliciting or accepting purchases by United States persons. אנו מצפים לבדוק משתמשים על ידי דרישת אימות קפדני של פרטי הזיהוי למטרות של פרדיקטי KYC/AML.
+לאור הבלבול בסביבה הרגולטורית הנוכחית, Volentix אינו מצפה לשדל או לאשר רכישות מאנשים בארצות הברית. אנו מצפים לבדוק משתמשים על ידי דרישת אימות קפדני של פרטי הזיהוי למטרות של פרדיקטי KYC/AML.
