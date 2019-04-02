@@ -45,9 +45,9 @@ As currently conceived, an eosio.token contract from the EOS.IO framework would 
 
 In contemplating technological design, we have evaluated various existing (and emerging) operating systems. EOS.IO software stands out as exemplary. EOS.IO is an open-source, scalable infrastructure for decentralized applications. We can benefit from standard features offered by EOS.IO such as the creation of accounts and wallets, and we also plan to implement protocols for creation of the decentralized VDEX exchange through EOS contracts and other tools.
 
-אנחנו מכוונים ליצור ש VTX וארבעת העמודים של VDEX ,VESPUCCI ,VERTO ,VENUE -- VOLENTIX -- יהיו קלים ונגישים לשימוש לכל מי שברצונו/ה להצטרף לקהילה שלנו. We plan a user interface that makes available to you relevant market data as well as your account information. We expect the experience to be enhanced by continuing education, with templates and simulators to support a superior UX/UI relationship.
+אנחנו מכוונים ליצור ש VTX וארבעת העמודים של VDEX ,VESPUCCI ,VERTO ,VENUE -- VOLENTIX -- יהיו קלים ונגישים לשימוש לכל מי שברצונו/ה להצטרף לקהילה שלנו. אנו מתכננים ממשק למשתמשים, בו כל נתוני השוק הרלוונטיים זמינים עבורך, כמו כן גם המידע בחשבון שלך. We expect the experience to be enhanced by continuing education, with templates and simulators to support a superior UX/UI relationship.
 
-## PHILOSOPHY AND COMMITMENT
+## פילוסופיה והתחייבות
 
 Our guiding philosophy is one of decentralization, and our ongoing efforts are targeted to promoting a reduction in dependence on central authority. The tremendous benefit of the open-source code philosophy  
 is that every day there are announcements of fresh code developments impacting on convenient and safe trading and use of digital assets. Our premise is security and ease of operation. Prudence mandates education. The most important asset is knowledge.
