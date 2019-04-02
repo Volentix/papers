@@ -120,9 +120,9 @@ Il registro ordini è la lista degli ordini di acquisto e vendita che vengono re
 
 Utilizzando il buffer circolare Protocollo di Loopring FIFO (primo ad entrare primo ad uscire), i nodi possono progettare i loro registri degli ordini per mostrare e corrispondere all'ordine di un utente. Questo metodo segue un modello OTC, dove i limit order vengono posizionati basandosi soltanto sul prezzo.[5]
 
-Referencing the EOS.IO persistence API, the order book is able to take advantage of the powerful multi-index container shared among nodes through the same EOS.IO account.
+Facendo riferimento alla persistence API di EOS.IO, il registro ordini può trarre vantaggio dal potente container multi-index condiviso tra i nodi tramite lo stesso account EOS.IO.
 
-#### 3.2.2 On-Chain order book
+#### 3.2.2 Registro ordini On-Chain
 
 An on-chain order book is a record of offers residing on the wallet (node) chosen to settle the order book. It resides in a persistent database on each node subscribing to the same account as all the other nodes.
 
