@@ -4,9 +4,9 @@
 
 Volentix מציג בתוכו את ה VDex, המשרת כחליפין למטבעות ונכסים ממוחשבים, המבוזר ומופץ עם דגש על חווית המשתמש/ת, יחד עם פיתוח הקהילה והמנהל. על-ידי גישה לשיטות טכנולוגיות מבוססות ותכנון סלקטיבי של פרוטוקולים חדשים עם עדיפות על אבטחה, מהירות, אימות, קלות השימוש, מדרגיות ותמיכה רב-רכושית, VDex נועד להקל על עסקאות עמית- לעמית בעזרת הרכבת תיק עבודות של יישומים מבוזרים הבנויים על EOS.IO חוזים חכמים.
 
-נקודת ההשקה של VDex מצפה להתאים את תנאי העיצוב של Volentix לטכנולוגיות זמינות שעל גבי EOS.IO מערכת הפעלה מבוזרת. We intend to test our assumptions by prototyping via custom EZEOS software, which we built and customized with EOS.IO’s close command line tools. תוכנה זו שוכנת ב: https://github.com/Volentix/ezeos
+נקודת ההשקה של VDex מצפה להתאים את תנאי העיצוב של Volentix לטכנולוגיות זמינות שעל גבי EOS.IO מערכת הפעלה מבוזרת. בכוונתנו לבחון את ההנחות שלנו באמצעות אב-טיפוס דרך תוכנת EZEOS מותאמת אישית, שאנחנו בעצם בנינו ועיצבנו אישית עם כלי ממשק שורת הפקודה של EOS.IO. תוכנה זו שוכנת ב: https://github.com/Volentix/ezeos
 
-## MARKET MANDATE
+## שוק המנדט
 
 בעשור השני מאז היווצרותו של Bitcoin, שוק הנכסים הממוחשב מוגדר על ידי העליות והמורדות המסחררות הקורות על פי אחוז קטן מאוכלוסיית המסחר הגלובלית של אלפי מטבעות ממוחשבות (cryptocurrencies), הכוללות ברובן הונאות. Looking past the frauds, and observing the value of the credible digital application technologies emerging in the past ten years, if we are to progress and promulgate those technologies, then they must penetrate the mainstream. מטבעות ממוחשבים לגיטימיים חייבים לשמש במסחר רחב. המוקד העיקרי של ריבוי נכסים ממוחשבים חייב להיות פישוט והעשרת חווית המשתמש. The choices of which existing technologies to employ and which unavailable technologies to develop must be driven by comfort, certainty, and security of user  
 transactions and related experiences.
