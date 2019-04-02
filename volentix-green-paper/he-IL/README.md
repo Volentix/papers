@@ -2,7 +2,7 @@
 
 ## מבוא
 
-Volentix introduces VDex, designed as a distributed, decentralized digital assets exchange with emphasis on user experience and community development and governance. By accessing established technologies and planning selective new protocols with priority on security, speed, authentication, ease of use, scalability, and multi-asset support, VDex intends to facilitate peer-to-peer transactions by assembling a portfolio of decentralized applications built on EOS.IO smart contracts.
+Volentix מציג בתוכו את ה VDex, המשרת כחליפין למטבעות ונכסים ממוחשבים, המבוזר ומופץ עם דגש על חווית המשתמש/ת, יחד עם פיתוח הקהילה והמנהל. By accessing established technologies and planning selective new protocols with priority on security, speed, authentication, ease of use, scalability, and multi-asset support, VDex intends to facilitate peer-to-peer transactions by assembling a portfolio of decentralized applications built on EOS.IO smart contracts.
 
 The VDex launch point anticipates matching Volentix’s design requirements to available technologies superimposed on the EOS.IO decentralized operating system. We intend to test our assumptions by prototyping via custom EZEOS software, which we built and customized with EOS.IO’s close command line tools. This software resides at: https://github.com/Volentix/ezeos
 
@@ -58,8 +58,8 @@ is that every day there are announcements of fresh code developments impacting o
 
 ## כתב ויתור
 
-למטרות מידע בלבד. מידע זה אינו תומך באינטגרציה. מידע זה כפוף לשינויים מלאים או חלקיים העלולים לקרות בכל עת ללא התראה מוקדמת. מעבדות Volentix שומרות לעצמן את הזכות לשנות, להחליף, להסיר, או למחוק כל מידע על פי שיקול דעתה הבלעדי של מעבדות Volentix. מעבדות Volentix אינן לוקחות אחריות או חלק ייצוגי, מובע או מרומז, בדבר הדיוק או השלמות של המידע, ומתנערת במפורש מכל אחריות שהיא, בהקשר המידע הכלול או האינו כלול. מעבדות Volentix מבקשות מכל קורא לעיין במלוא המידע בקפידה, ולהתחייב לחקירה עצמאית וניתוח מידעי, וכמו כן לחפש ולהשיג עצות מקצועיות למטרות הערכת המידע. למיטב ידיעת מעבדות Volentix, אין סוכנות רגולטורים, ממשלה, או ישויות אכיפה אחרות מצד שלישי שבדקו, העריכו, או אישרו כל חלק מהמידע. מידע זה אינו הצעה או שידול בכלל, ואינו יוצר בסיס לחוזה או התחייבות מכל סוג שהוא. Any statement considered to be forward-looking is purely a matter of opinion, and no viewer should rely on any such statement or on any part or all of the information in any way whatsoever.
+למטרות מידע בלבד. מידע זה אינו תומך באינטגרציה. מידע זה כפוף לשינויים מלאים או חלקיים העלולים לקרות בכל עת ללא התראה מוקדמת. מעבדות Volentix שומרות לעצמן את הזכות לשנות, להחליף, להסיר, או למחוק כל מידע על פי שיקול דעתה הבלעדי של מעבדות Volentix. מעבדות Volentix אינן לוקחות אחריות או חלק ייצוגי, מובע או מרומז, בדבר הדיוק או השלמות של המידע, ומתנערת במפורש מכל אחריות שהיא, בהקשר המידע הכלול או האינו כלול. מעבדות Volentix מבקשות מכל קורא לעיין במלוא המידע בקפידה, ולהתחייב לחקירה עצמאית וניתוח מידעי, וכמו כן לחפש ולהשיג עצות מקצועיות למטרות הערכת המידע. למיטב ידיעת מעבדות Volentix, אין סוכנות רגולטורים, ממשלה, או ישויות אכיפה אחרות מצד שלישי שבדקו, העריכו, או אישרו כל חלק מהמידע. מידע זה אינו הצעה או שידול בכלל, ואינו יוצר בסיס לחוזה או התחייבות מכל סוג שהוא. כל הצהרה הנחשבת לצופה פני עתיד היא לגמרי עניין של דעה, ואף צופה אינו צריך להסתמך על הצהרה שכזו, או כל חלק מהאינפורמציה בצורה כלשהי.
 
-## RESTRICTION REGARDING U.S.A.
+## הגבלה ביחס לארצות הברית.
 
 לאור הבלבול בסביבה הרגולטורית הנוכחית, Volentix אינו מצפה לשדל או לאשר רכישות מאנשים בארצות הברית. אנו מצפים לבדוק משתמשים על ידי דרישת אימות קפדני של פרטי הזיהוי למטרות של פרדיקטי KYC/AML.
