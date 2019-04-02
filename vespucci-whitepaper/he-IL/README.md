@@ -461,4 +461,4 @@ This text is based on NH’s original vision docs and AA’s update on them.
 
 [17] <https://www.investopedia.com>
 
-Brackets at the end of certain references indicate the part of the paper that uses this reference.
+סוגריים הנמצאים בסוף הפניות מסוימות מצביעות על החלק בנייר המשתמש בהפניה זו.
