@@ -124,13 +124,13 @@ Facendo riferimento alla persistence API di EOS.IO, il registro ordini può trar
 
 #### 3.2.2 Registro ordini On-Chain
 
-An on-chain order book is a record of offers residing on the wallet (node) chosen to settle the order book. It resides in a persistent database on each node subscribing to the same account as all the other nodes.
+Un registro ordini on-chain è un registro di offerte che risiedono nel wallet (nodo) scelto per impostare il registro ordini. Questo si trova in un database persistente su ogni nodo che si iscrive allo stesso account di tutti gli altri nodi.
 
-#### 3.2.3 Off-Chain order book
+#### 3.2.3 Registro ordini Off-Chain
 
-Residing on the aggregator, offline order books serve for simulator and security purposes.
+Risiedenti sull'aggregatore, i registri ordini offline servono per la simulazione e per scopi di sicurezza.
 
-#### 3.2.4 Decentralization process of order book settlement
+#### 3.2.4 Processo di decentralizzazione per la composizione del registro ordini
 
 For decentralization purposes, nodes will take turns to settle the order book. The settling node must be designated by the protocol and all order book entries from all nodes must be available to the settling nodes. We believe the RAFT[9] and PARSEC[10] consensus mechanisms offer effective solutions. RAFT is a well-established algorithm and is easy to implement.[7] PARSEC is more recent and more efficient, using Directed Acyclic Graph (DAG) technology and eliminating the need for copying logs.
 
