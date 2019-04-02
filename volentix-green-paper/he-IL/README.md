@@ -2,22 +2,22 @@
 
 ## מבוא
 
-Volentix מציג בתוכו את ה VDex, המשרת כחליפין למטבעות ונכסים ממוחשבים, המבוזר ומופץ עם דגש על חווית המשתמש/ת, יחד עם פיתוח הקהילה והמנהל. By accessing established technologies and planning selective new protocols with priority on security, speed, authentication, ease of use, scalability, and multi-asset support, VDex intends to facilitate peer-to-peer transactions by assembling a portfolio of decentralized applications built on EOS.IO smart contracts.
+Volentix מציג בתוכו את ה VDex, המשרת כחליפין למטבעות ונכסים ממוחשבים, המבוזר ומופץ עם דגש על חווית המשתמש/ת, יחד עם פיתוח הקהילה והמנהל. על-ידי גישה לשיטות טכנולוגיות מבוססות ותכנון סלקטיבי של פרוטוקולים חדשים עם עדיפות על אבטחה, מהירות, אימות, קלות השימוש, מדרגיות ותמיכה רב-רכושית, VDex נועד להקל על עסקאות עמית- לעמית בעזרת הרכבת תיק עבודות של יישומים מבוזרים הבנויים על EOS.IO חוזים חכמים.
 
-The VDex launch point anticipates matching Volentix’s design requirements to available technologies superimposed on the EOS.IO decentralized operating system. We intend to test our assumptions by prototyping via custom EZEOS software, which we built and customized with EOS.IO’s close command line tools. This software resides at: https://github.com/Volentix/ezeos
+נקודת ההשקה של VDex מצפה להתאים את תנאי העיצוב של Volentix לטכנולוגיות זמינות שעל גבי EOS.IO מערכת הפעלה מבוזרת. We intend to test our assumptions by prototyping via custom EZEOS software, which we built and customized with EOS.IO’s close command line tools. תוכנה זו שוכנת ב: https://github.com/Volentix/ezeos
 
 ## MARKET MANDATE
 
-In the second decade since the emergence of Bitcoin, the digital asset marketplace is defined by the dizzying highs and lows experienced by a tiny percentage of the global population trading thousands of cryptocurrencies many of which are outright scams. Looking past the frauds, and observing the value of the credible digital application technologies emerging in the past ten years, if we are to progress and promulgate those technologies, then they must penetrate the mainstream. Legitimate digital currencies must be used in broad commerce. And the primary focus of digital assets proliferation must be to simplify and enrich user experience. The choices of which existing technologies to employ and which unavailable technologies to develop must be driven by comfort, certainty, and security of user  
+בעשור השני מאז היווצרותו של Bitcoin, שוק הנכסים הממוחשב מוגדר על ידי העליות והמורדות המסחררות הקורות על פי אחוז קטן מאוכלוסיית המסחר הגלובלית של אלפי מטבעות ממוחשבות (cryptocurrencies), הכוללות ברובן הונאות. Looking past the frauds, and observing the value of the credible digital application technologies emerging in the past ten years, if we are to progress and promulgate those technologies, then they must penetrate the mainstream. מטבעות ממוחשבים לגיטימיים חייבים לשמש במסחר רחב. המוקד העיקרי של ריבוי נכסים ממוחשבים חייב להיות פישוט והעשרת חווית המשתמש. The choices of which existing technologies to employ and which unavailable technologies to develop must be driven by comfort, certainty, and security of user  
 transactions and related experiences.
 
-## MARKET ENTRY
+## פתח השוק
 
 To address the prevailing market mandate, the VOLENTIX ecosystem introduces an initializing array of four digital applications, specifically known as VENUE, VERTO, VESPUCCI, and VDEX.
 
 ## Venue
 
-Venue is planned as a dynamic community platform that recruits and aligns members of the VOLENTIX community to facilitate distribution of the native VTX token, and to promote awareness of VOLENTIX community initiatives. An initial VENUE signature campaign is underway. Please visit <https://venue.volentix.io> for more information.
+Venue is planned as a dynamic community platform that recruits and aligns members of the VOLENTIX community to facilitate distribution of the native VTX token, and to promote awareness of VOLENTIX community initiatives. An initial VENUE signature campaign is underway. אנא בקר/י <https://venue.volentix.io> למידע נוסף.
 
 ## Verto
 
@@ -50,7 +50,7 @@ In contemplating technological design, we have evaluated various existing (and e
 ## פילוסופיה והתחייבות
 
 Our guiding philosophy is one of decentralization, and our ongoing efforts are targeted to promoting a reduction in dependence on central authority. The tremendous benefit of the open-source code philosophy  
-is that every day there are announcements of fresh code developments impacting on convenient and safe trading and use of digital assets. Our premise is security and ease of operation. Prudence mandates education. The most important asset is knowledge.
+is that every day there are announcements of fresh code developments impacting on convenient and safe trading and use of digital assets. Our premise is security and ease of operation. Prudence mandates education. הנכס החשוב ביותר הוא ידע.
 
 כולנו פה בVolentix מקדישים כמויות עבודה ותושיה ניכרות לפיתוח תוכנה המבוססת על העצמה ועצמאות. אנא שימ/י לב לעדכוני מדיה חברתית באתר שלנו ולהכרזות חשובות אחרות. תודה רבה על תשומת הלב וההתעניינות שלך.
 
