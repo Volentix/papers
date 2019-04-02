@@ -31,26 +31,26 @@ The fourth pillar of VOLENTIX is the decentralized VDEX exchange, a tradable dig
 
 ## VDex
 
-VDEX is being designed as a distributed, decentralized digital- currencies exchange with emphasis on privacy user experience and community development and governance. By accessing established technologies and planning selective new protocols with priority on security, speed, authentication, ease of use, scalability, and multi-asset support, VDEX intends to facilitate peer-to-peer transactions by assembling a portfolio of decentralized applications built on EOS.IO smart contracts.
+VDex מתוכנן כחליפין מטבעות ונכסים ממוחשבים, המבוזר ומופץ עם דגש על חווית המשתמש/ת, יחד עם פיתוח הקהילה והמנהל. By accessing established technologies and planning selective new protocols with priority on security, speed, authentication, ease of use, scalability, and multi-asset support, VDEX intends to facilitate peer-to-peer transactions by assembling a portfolio of decentralized applications built on EOS.IO smart contracts.
 
 For smooth and secure usability, we plan VDEX to integrate with your own personal VERTO wallet and VESPUCCI user interface. Although we expect VERTO and VDEX ultimately to be able to manage transactions involving the vast array of digital assets and blockchains extant from time to time, we are developing VENUE as a complementary adjunct primarily in order to incentivize and drive native VTX-based transactions.
 
-## MARKET SUPPLY AND DEMAND
+## שוק היצע וביקוש
 
-To facilitate access to and use of the four pillars of the VOLENTIX ecosystem, we plan to issue the native utility token VTX. An initial VENUE signature campaign is underway, and we are evaluating pre-sale opportunities as well as potential terms and conditions in the event a crowdsale is authorized.
+בכדי להקל גישה בעת שימוש בארבעת העמודים של Volentix, אנו מתכוונים להנפיק את מטבע התשמיש המקומי VTX. An initial VENUE signature campaign is underway, and we are evaluating pre-sale opportunities as well as potential terms and conditions in the event a crowdsale is authorized.
 
 As currently conceived, an eosio.token contract from the EOS.IO framework would facilitate the issuance of 2.1 billion EOS.IO-compliant VTX tokens with a circulating supply of 1.3 billion. As a utility token, VTX envisions a diverse array of uses. For additional information, please refer to our VDEX white paper at <https://volentix.io/documentation/vdex-whitepaper.>
 
 ## MARKET SUPPLY AND DEMAND
 
-In contemplating technological design, we have evaluated various existing (and emerging) operating systems. תוכנת EOS.IO בולט כמשמש לדוגמא. EOS.IO הוא קוד פתוח, תשתית ניתנת להרחבה למטרת יישומים מבוזרים. We can benefit from standard features offered by EOS.IO such as the creation of accounts and wallets, and we also plan to implement protocols for creation of the decentralized VDEX exchange through EOS contracts and other tools.
+In contemplating technological design, we have evaluated various existing (and emerging) operating systems. תוכנת EOS.IO בולט כמשמש לדוגמא. EOS.IO הוא קוד פתוח, תשתית ניתנת להרחבה למטרת יישומים מבוזרים. אנו יכולים להטיב מתכונות סטנדרטיות המוצעות מאת EOS.IO כגון הייצור של חשבונות וארנקים, כמו כן אנחנו מתכננים להוציא לפועל נוהלים תקניים בשביל ייצור חליפין VDEX מבוזר דרך חוזי EOS וכלים אחרים.
 
-אנחנו מכוונים ליצור ש VTX וארבעת העמודים של VDEX ,VESPUCCI ,VERTO ,VENUE -- VOLENTIX -- יהיו קלים ונגישים לשימוש לכל מי שברצונו/ה להצטרף לקהילה שלנו. אנו מתכננים ממשק למשתמשים, בו כל נתוני השוק הרלוונטיים זמינים עבורך, כמו כן גם המידע בחשבון שלך. We expect the experience to be enhanced by continuing education, with templates and simulators to support a superior UX/UI relationship.
+אנחנו מכוונים ליצור ש VTX וארבעת העמודים של VDEX ,VESPUCCI ,VERTO ,VENUE -- VOLENTIX -- יהיו קלים ונגישים לשימוש לכל מי שברצונו/ה להצטרף לקהילה שלנו. אנו מתכננים ממשק למשתמשים, בו כל נתוני השוק הרלוונטיים זמינים עבורך, כמו כן גם המידע בחשבון שלך. אנחנו מצפים כי החוויה תועצם על ידי המשכת החינוך, עם תבניות ומדמים בכדי לתמוך במערכת יחסים UX/UI נעלה.
 
 ## פילוסופיה והתחייבות
 
-Our guiding philosophy is one of decentralization, and our ongoing efforts are targeted to promoting a reduction in dependence on central authority. The tremendous benefit of the open-source code philosophy  
-is that every day there are announcements of fresh code developments impacting on convenient and safe trading and use of digital assets. Our premise is security and ease of operation. Prudence mandates education. הנכס החשוב ביותר הוא ידע.
+הפילוסופיה המנחה שלנו היא אחת מביזור, והמאמצים המתמשכים שלנו ממוקדים לצמצום התלות בסמכות המרכזית. The tremendous benefit of the open-source code philosophy  
+is that every day there are announcements of fresh code developments impacting on convenient and safe trading and use of digital assets. הנחת היסוד שלנו היא אבטחה וקלות הניתוח. Prudence mandates education. הנכס החשוב ביותר הוא ידע.
 
 כולנו פה בVolentix מקדישים כמויות עבודה ותושיה ניכרות לפיתוח תוכנה המבוססת על העצמה ועצמאות. אנא שימ/י לב לעדכוני מדיה חברתית באתר שלנו ולהכרזות חשובות אחרות. תודה רבה על תשומת הלב וההתעניינות שלך.
 
