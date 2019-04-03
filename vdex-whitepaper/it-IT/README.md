@@ -134,15 +134,15 @@ Risiedenti sull'aggregatore, i registri ordini offline servono per la simulazion
 
 Ai fini della decentralizzazione, I nodi faranno a turno per impostare il registro ordini. The settling node must be designated by the protocol and all order book entries from all nodes must be available to the settling nodes. Secondo noi i meccanismi di consenso RAFT[9] e PARSEC[10] offrono soluzioni efficaci. RAFT è un algoritmo ben consolidato ed è facile da implementare.[7] PARSEC è più recente ed efficace, utilizza la tecnologia Directed Acyclic Graph (DAG) ed elimina la necessità di copiare i log.
 
-### 3.3 ORDER SETTLEMENT
+### 3.3 REGOLAMENTO ORDINE
 
-Order settlement contains familiar elements of conventional financial market transactions. Utilizing FIFO technology to design the order book, VDex intends to check order, inventory, and fill rate, as well as limit orders and cancellations. ![](../7.jpg)
+Il regolamento degli ordini contiene elementi noti delle operazioni tradizionali del mercato finanziario. Utilizing FIFO technology to design the order book, VDex intends to check order, inventory, and fill rate, as well as limit orders and cancellations. ![](../7.jpg)
 
 ### 3.4 VTX
 
 #### 3.4.1 VTX Issuance and Use
 
-VTX is the native digital asset to be issued and used on the VDex decentralized exchange. We currently plan to use an eosio.token contract from the EOS.IO framework to issue 2.1 billion EOS.IO-compliant VTX tokens with a supply of 1.3 billion. VTX will have a diverse array of uses, for example:
+VTX è l'aset digitale nativo da emettere e utilizzare sull'exchange decentralizzato di VDex. We currently plan to use an eosio.token contract from the EOS.IO framework to issue 2.1 billion EOS.IO-compliant VTX tokens with a supply of 1.3 billion. VTX will have a diverse array of uses, for example:
 
 To reward participants in the consensus process and in Venue campaigns.
 
