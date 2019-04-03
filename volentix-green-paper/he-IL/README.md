@@ -37,9 +37,9 @@ For smooth and secure usability, we plan VDEX to integrate with your own persona
 
 ## שוק היצע וביקוש
 
-בכדי להקל גישה בעת שימוש בארבעת העמודים של Volentix, אנו מתכוונים להנפיק את מטבע התשמיש המקומי VTX. An initial VENUE signature campaign is underway, and we are evaluating pre-sale opportunities as well as potential terms and conditions in the event a crowdsale is authorized.
+בכדי להקל גישה בעת שימוש בארבעת העמודים של Volentix, אנו מתכוונים להנפיק את מטבע התשמיש המקומי VTX. קמפיין התחלתי של Venue בעיצומו, ואנו אומדים הזדמנויות מכירה מראש, כמו כן גם תנאים ומושגים פוטנציאלים במידה ותהליך הנפקת המטבע הדיגיטלי מורשה.
 
-As currently conceived, an eosio.token contract from the EOS.IO framework would facilitate the issuance of 2.1 billion EOS.IO-compliant VTX tokens with a circulating supply of 1.3 billion. As a utility token, VTX envisions a diverse array of uses. For additional information, please refer to our VDEX white paper at <https://volentix.io/documentation/vdex-whitepaper.>
+As currently conceived, an eosio.token contract from the EOS.IO framework would facilitate the issuance of 2.1 billion EOS.IO-compliant VTX tokens with a circulating supply of 1.3 billion. As a utility token, VTX envisions a diverse array of uses. למידע נוסף, אנא עיין ברשימת ה VDEX הלבנה שלנו ב <https://volentix.io/documentation/vdex-whitepaper.>
 
 ## MARKET SUPPLY AND DEMAND
 
