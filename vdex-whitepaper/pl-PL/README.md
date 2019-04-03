@@ -1,4 +1,4 @@
-# THE VOLENTIX VDEX WHITE PAPER
+# BIAŁA KSIĘGA VDEX VOLENTIX
 
 - Wersja: 0.1.4
 - Ostatnia aktualizacja: 11-03-2019
