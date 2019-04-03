@@ -64,7 +64,7 @@ Ede siseto C++ ti o lokiki ati ti o gbajumọ farahan bi eyi ti o dara julọ fu
 
 #### 3.0.2 Awọn ifiranṣẹ ati ibi ipamọ data ti o da lori Eto alakalẹ
 
-Awọn adehun iṣẹ jẹ mimudojuwọn lati pese ipilẹṣẹ odiwọn ti isisẹpọ laarin ati ninu awọn eto ti o yatọ nipasẹ sise asopọ awọn awoṣe data. Nitootọ, ilana Eto Adehun Adojuiwọn beere fun pe ki awọn adehun eto da lori awọn awoṣe data ti o dojuiwọn. Iyanana ma n jẹ ṣiṣe lori apẹrẹ iwe-akọọlẹ ti iṣẹ lati wa awọn iwe-iṣowo owo ti o n waye daadaa ti o n jẹ pipaarọ laarin awọn iṣẹ. Awọn iwe iṣowo yii ma wa jẹ ṣiṣe ni ọna ti o kun ojuiwọn. The Canonical Schema pattern reduces the need for application of the data model transformation design pattern. [3]
+Awọn adehun iṣẹ jẹ mimudojuwọn lati pese ipilẹṣẹ odiwọn ti isisẹpọ laarin ati ninu awọn eto ti o yatọ nipasẹ sise asopọ awọn awoṣe data. Nitootọ, ilana Eto Adehun Adojuiwọn beere fun pe ki awọn adehun eto da lori awọn awoṣe data ti o dojuiwọn. Iyanana ma n jẹ ṣiṣe lori apẹrẹ iwe-akọọlẹ ti iṣẹ lati wa awọn iwe-iṣowo owo ti o n waye daadaa ti o n jẹ pipaarọ laarin awọn iṣẹ. Awọn iwe iṣowo yii ma wa jẹ ṣiṣe ni ọna ti o kun ojuiwọn. Ilana Eto alakalẹ ti eleto n mu adinku ba inilo fun ohun elo ti iparada idalara ilana awoṣe data naa. [3]
 
 #### 3.0.3 Ibaraẹnisọrọ Laarin-Adehun
 
@@ -72,9 +72,9 @@ Data ma jẹ pinpin laarin awọn adehun nipasẹ oracle kan, eyi ti, "ninu ọr
 
 #### 3.0.4 Awọn ẹka-ẹgbẹgbẹ
 
-Ni EOS.IO, ipinfunni ti ohun-ini oni-nọmba ma n ṣẹda ẹka-ẹgbẹgbẹ kan, eyi ti o jẹ ilana ti o n jade bọ ti o gba awọn ohun-elo oni-nọmba laaye lati jẹ lilo pẹlu aabo lati blockchain kan ninu blockchain miran ti o yatọ ati lẹhinna jẹ didapada si ojulowo blockchain. Iṣiṣẹṣi ti iṣaayan ma n jẹ gbigbelarugẹ nipasẹ ṣiṣẹda awọn ọpọlọpọ awọn ẹka-ẹgbẹgbẹ. Ikanni ibaraẹnisọrọ kan to dabi ti TCP laarin awọn oniruuru blockchain n ṣe igbelewọn awọn ẹri. For each shard (a unit of parallelizable execution in a cycle), a balanced merkle tree is constructed of these action commitments to generate a temporary shared merkle root; this is done for speed of parallel computation. The block header contains the root of a balanced merkle tree the leaves of which are the roots of these individual shard merkle trees. [2]
+Ni EOS.IO, ipinfunni ti ohun-ini oni-nọmba ma n ṣẹda ẹka-ẹgbẹgbẹ kan, eyi ti o jẹ ilana ti o n jade bọ ti o gba awọn ohun-elo oni-nọmba laaye lati jẹ lilo pẹlu aabo lati blockchain kan ninu blockchain miran ti o yatọ ati lẹhinna jẹ didapada si ojulowo blockchain. Iṣiṣẹṣi ti iṣaayan ma n jẹ gbigbelarugẹ nipasẹ ṣiṣẹda awọn ọpọlọpọ awọn ẹka-ẹgbẹgbẹ. Ikanni ibaraẹnisọrọ kan to dabi ti TCP laarin awọn oniruuru blockchain n ṣe igbelewọn awọn ẹri. Fun ọkọọkan ege (ẹya kan ti o jẹ aseyege oniṣiṣẹntẹle ni iyipo kan), igi merkle pipeye kan ma jẹ gbigbe dide ti awọn ifarajin igbeṣẹ wọnyi lati ṣe ipilẹṣẹ gbongbo merkle alajọpin onigbadiẹ kan; eyi n jẹ ṣiṣe fun iyara ti iṣiro oniṣiṣẹntẹle. Akoori bulọọku naa ni gbongbo igi merkle pipeye kan eyi ti awọn ewe rẹ jẹ gbongbo ti awọn ọkọọkan ege awọn igi merkle yii. [2]
 
-#### 3.0.5 Liquidity
+#### 3.0.5 Irọrun isọjadowo
 
 Ohun-ini oni-nọmba jẹ owo lọwọ ti o ba jẹ tita tabi rira ni awọn iwọn iṣowo laisi ipa ọlọjọ kukuru ti o han lori iye owo ọja lọwọlọwọ. Lati le de iru ipo bayii, nigbagbogbo eyikeyi awọn dukia ti o se ṣowo gbọdọ bori ipele awọn iwọn iṣowo ti o to lati ṣe atilẹyin fun iduroṣinṣin. Specifically, we anticipate adopting the following methodologies: Loopring protocol with the use of EOS.IO contracts acting as nodes.[5] Bancor algorithm used to bring stability to the digital asset.[6] Toggles between these protocols and HTLC (atomic swaps) according to Vespucci analyses on the VDex network.
 
