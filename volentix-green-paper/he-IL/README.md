@@ -41,9 +41,9 @@ For smooth and secure usability, we plan VDEX to integrate with your own persona
 
 As currently conceived, an eosio.token contract from the EOS.IO framework would facilitate the issuance of 2.1 billion EOS.IO-compliant VTX tokens with a circulating supply of 1.3 billion. As a utility token, VTX envisions a diverse array of uses. למידע נוסף, אנא עיין ברשימת ה VDEX הלבנה שלנו ב <https://volentix.io/documentation/vdex-whitepaper.>
 
-## MARKET SUPPLY AND DEMAND
+## שוק היצע וביקוש
 
-In contemplating technological design, we have evaluated various existing (and emerging) operating systems. תוכנת EOS.IO בולט כמשמש לדוגמא. EOS.IO הוא קוד פתוח, תשתית ניתנת להרחבה למטרת יישומים מבוזרים. אנו יכולים להטיב מתכונות סטנדרטיות המוצעות מאת EOS.IO כגון הייצור של חשבונות וארנקים, כמו כן אנחנו מתכננים להוציא לפועל נוהלים תקניים בשביל ייצור חליפין VDEX מבוזר דרך חוזי EOS וכלים אחרים.
+בעת שיקולים בעיצוב הטכנולוגי, הערכנו מגוון מערכות הפעלה קיימות (ומתפתחות). תוכנת EOS.IO בולט כמשמש לדוגמא. EOS.IO הוא קוד פתוח, תשתית ניתנת להרחבה למטרת יישומים מבוזרים. אנו יכולים להטיב מתכונות סטנדרטיות המוצעות מאת EOS.IO כגון הייצור של חשבונות וארנקים, כמו כן אנחנו מתכננים להוציא לפועל נוהלים תקניים בשביל ייצור חליפין VDEX מבוזר דרך חוזי EOS וכלים אחרים.
 
 אנחנו מכוונים ליצור ש VTX וארבעת העמודים של VDEX ,VESPUCCI ,VERTO ,VENUE -- VOLENTIX -- יהיו קלים ונגישים לשימוש לכל מי שברצונו/ה להצטרף לקהילה שלנו. אנו מתכננים ממשק למשתמשים, בו כל נתוני השוק הרלוונטיים זמינים עבורך, כמו כן גם המידע בחשבון שלך. אנחנו מצפים כי החוויה תועצם על ידי המשכת החינוך, עם תבניות ומדמים בכדי לתמוך במערכת יחסים UX/UI נעלה.
 
