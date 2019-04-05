@@ -152,11 +152,11 @@ Per presentare e votare le proposte per l'ecosistema Volentix, utilizzando i dir
 
 Per offrire sostegno per la revisione delle proposte e per attuare progetti.
 
-To incentivize users to participate in order book settlement by becoming nodes via their Verto wallets.
+Per incentivare gli utenti a partecipare nel regolamento del libro d'ordine diventando nodi attraverso i loro wallet Verto.
 
-To incentivize users to lock funds in for >24 hours by HTLC time-bound transactions.
+Per incentivare gli utenti a bloccare i loro fondi per più di 24 ore per le transazioni HTLC con scadenza.
 
-#### 3.4.2 VTX Allocation
+#### 3.4.2 Assegnazione VTX
 
 ![](../6.jpg)
 
