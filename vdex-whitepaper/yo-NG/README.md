@@ -106,7 +106,7 @@ Awọn oju ipade gba ipin kan lara owo fun iṣowo kọọkan. Ti olumulo kan ba
 
 #### 3.1.2 Awọn alakopapọ
 
-Awọn alakopapọ VDex jẹ fifarajin si isakoso Volentix fun ẹrọ afidanrawo ati awọn eredi aabo. One of their functions is to pull logs and order book data from nodes into sparse distributed representations for hierarchical temporal memory as intrusion [7] analysis for detecting anomalies in the system. The aggregators will also be host to other components such as metachain ledgers and blockchain scrapers.
+Awọn alakopapọ VDex jẹ fifarajin si isakoso Volentix fun ẹrọ afidanrawo ati awọn eredi aabo. Ọkan ninu awọn iṣẹ wọn ni lati fa awọn akọṣilẹ ati ṣe ibeere data iwe lati ọdọ awọn oju ipade sinu awọn isoju pinpin to fọnka fun iranti alakoko onipele ipo bi iyanana [7] ifiran fun iwajade awọn ohun ajeji ninu eto naa. The aggregators will also be host to other components such as metachain ledgers and blockchain scrapers.
 
 #### 3.1.3 Latency
 
