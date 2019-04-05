@@ -114,7 +114,7 @@ Latẹnsi ijẹrisi bulọọku EOS.IO kere (isẹju aaya 0.5).[5] Ipo latẹnsi
 
 ### 3.2 IWE IBEERE
 
-The order book is the list of buy-and-sell orders VDex records from interested users. A matching engine uses an order book to determine which orders can be fulfilled. The Loopring protocol allows for customizing the order book data structure.[5] Containers provided by EOS.IO can be used for optimal performance.[8]
+Iwe ibeere ni akojọ awọn ibeere rira-ati-tita ti VDex n gbasilẹ lati ọdọ awọn olumuloto nifẹsi. A matching engine uses an order book to determine which orders can be fulfilled. The Loopring protocol allows for customizing the order book data structure.[5] Containers provided by EOS.IO can be used for optimal performance.[8]
 
 #### 3.2.1 Data structures
 
