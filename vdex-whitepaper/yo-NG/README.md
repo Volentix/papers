@@ -114,9 +114,9 @@ Latẹnsi ijẹrisi bulọọku EOS.IO kere (isẹju aaya 0.5).[5] Ipo latẹnsi
 
 ### 3.2 IWE IBEERE
 
-Iwe ibeere ni akojọ awọn ibeere rira-ati-tita ti VDex n gbasilẹ lati ọdọ awọn olumuloto nifẹsi. Ẹrọ kan ti o ni baamu n lo iwe ibeere lati mọ iru awọn ibeere ti o le jẹ mimuṣẹ. The Loopring protocol allows for customizing the order book data structure.[5] Containers provided by EOS.IO can be used for optimal performance.[8]
+Iwe ibeere ni akojọ awọn ibeere rira-ati-tita ti VDex n gbasilẹ lati ọdọ awọn olumuloto nifẹsi. Ẹrọ kan ti o ni baamu n lo iwe ibeere lati mọ iru awọn ibeere ti o le jẹ mimuṣẹ. Awọn ilana Loopring n fayegba lati ṣe akanṣe eto data iwe ibeere [5] Awọn apoti ti EOS.IO n pese le ṣee lo fun iṣiṣẹ ẹlẹkunrẹrẹ. [8]
 
-#### 3.2.1 Data structures
+#### 3.2.1 Awọn ẹya data
 
 Using the Loopring Protocol FIFO (first-in first-out) circular buffer, nodes can design their order books to display and match a user’s order. This method follows an OTC model, where limit orders are positioned based on price only.[5]
 
