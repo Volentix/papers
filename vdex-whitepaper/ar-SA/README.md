@@ -118,7 +118,7 @@ Volentix تقدم VDex المصمم كموزع ومنصة تبادل لا مرك
 
 #### 3.2.1 هياكل البيانات
 
-Using the Loopring Protocol FIFO (first-in first-out) circular buffer, nodes can design their order books to display and match a user’s order. This method follows an OTC model, where limit orders are positioned based on price only.[5]
+باستخدام المخزن المؤقت الدائري Loopring Protocol FIFO (first-in first-out)، يمكن للعقد تصميم دفاتر طلباتها لعرض ومطابقة طلب المستخدم. This method follows an OTC model, where limit orders are positioned based on price only.[5]
 
 بالرجوع إلى واجهة برمجة تطبيقات EOS.IO، فإن دفتر الطلبات قادر على الاستفادة من الحاوية القوية المتعددة الفهارس المشتركة بين العُقد من خلال حساب EOS.IO نفسه.
 
@@ -132,7 +132,7 @@ Using the Loopring Protocol FIFO (first-in first-out) circular buffer, nodes can
 
 #### 3.2.4 عملية اللامركزية لتسوية دفتر الطلبات
 
-ستتناوب العُقد لتسوية دفتر الطلبات من أجل ضمان اللامركزية. يجب أن يتم تعيين عُقدة التسوية بواسطة البروتوكول ويجب أن تكون جميع إدخالات دفتر الطلبات من جميع العُقد متاحة لعُقد التسوية. We believe the RAFT[9] and PARSEC[10] consensus mechanisms offer effective solutions. RAFT is a well-established algorithm and is easy to implement.[7] PARSEC is more recent and more efficient, using Directed Acyclic Graph (DAG) technology and eliminating the need for copying logs.
+ستتناوب العُقد لتسوية دفتر الطلبات من أجل ضمان اللامركزية. يجب أن يتم تعيين عُقدة التسوية بواسطة البروتوكول ويجب أن تكون جميع إدخالات دفتر الطلبات من جميع العُقد متاحة لعُقد التسوية. نعتقد أن آليات الإجماع RAFT[9] و PARSEC [10] توفر حلولًا فعالة. RAFT هي خوارزمية راسخة وسهلة التطبيق.[7] PARSEC أكثر حداثة وكفاءة، وذلك باستخدام تقنية (Direct Acyclic Graph (DAG وتقليل الحاجة إلى نسخ السجلات.
 
 ### 3.3 ORDER SETTLEMENT
 
