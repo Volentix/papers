@@ -106,9 +106,9 @@ Awọn oju ipade gba ipin kan lara owo fun iṣowo kọọkan. Ti olumulo kan ba
 
 #### 3.1.2 Awọn alakopapọ
 
-Awọn alakopapọ VDex jẹ fifarajin si isakoso Volentix fun ẹrọ afidanrawo ati awọn eredi aabo. Ọkan ninu awọn iṣẹ wọn ni lati fa awọn akọṣilẹ ati ṣe ibeere data iwe lati ọdọ awọn oju ipade sinu awọn isoju pinpin to fọnka fun iranti alakoko onipele ipo bi iyanana [7] ifiran fun iwajade awọn ohun ajeji ninu eto naa. The aggregators will also be host to other components such as metachain ledgers and blockchain scrapers.
+Awọn alakopapọ VDex jẹ fifarajin si isakoso Volentix fun ẹrọ afidanrawo ati awọn eredi aabo. Ọkan ninu awọn iṣẹ wọn ni lati fa awọn akọṣilẹ ati ṣe ibeere data iwe lati ọdọ awọn oju ipade sinu awọn isoju pinpin to fọnka fun iranti alakoko onipele ipo bi iyanana [7] ifiran fun iwajade awọn ohun ajeji ninu eto naa. Awọn alakopapọ yoo tun jẹ olugbalejo si awọn ẹya ara miiran gẹgẹbi awọn lẹja metachain ati awọn olufà alaye ti blockchain.
 
-#### 3.1.3 Latency
+#### 3.1.3 Latẹnsi
 
 EOS.IO has low latency block confirmation (0.5 seconds).[5] This degree of latency can be maintained in transactions with other blockchains if those chains admit of similar latency. But fundamentally the transaction is only as rapid as the lesser-rapid chain in the equation. It is well known, for example, that a Bitcoin block requires approximately ten minutes for processing. Receiving a transaction hash does not mean the transaction is confirmed; it means only that a node accepted the transaction without error, although there is generally a high probability other block producers will accept it.
 
