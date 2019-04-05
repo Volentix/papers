@@ -118,7 +118,7 @@ Volentix تقدم VDex المصمم كموزع ومنصة تبادل لا مرك
 
 #### 3.2.1 هياكل البيانات
 
-باستخدام المخزن المؤقت الدائري Loopring Protocol FIFO (first-in first-out)، يمكن للعقد تصميم دفاتر طلباتها لعرض ومطابقة طلب المستخدم. This method follows an OTC model, where limit orders are positioned based on price only.[5]
+باستخدام المخزن المؤقت الدائري الخاص ببروتوكول Loopring تقنية FIFO (first-in first-out)، يمكن للعُقد تصميم دفاتر طلباتها لعرض ومطابقة طلب المستخدم. تتبع هذه الطريقة نموذج OTC، حيث يتم وضع الطلب المحدود بناءً على السعر فقط.[5]
 
 بالرجوع إلى واجهة برمجة تطبيقات EOS.IO، فإن دفتر الطلبات قادر على الاستفادة من الحاوية القوية المتعددة الفهارس المشتركة بين العُقد من خلال حساب EOS.IO نفسه.
 
@@ -134,9 +134,9 @@ Volentix تقدم VDex المصمم كموزع ومنصة تبادل لا مرك
 
 ستتناوب العُقد لتسوية دفتر الطلبات من أجل ضمان اللامركزية. يجب أن يتم تعيين عُقدة التسوية بواسطة البروتوكول ويجب أن تكون جميع إدخالات دفتر الطلبات من جميع العُقد متاحة لعُقد التسوية. نعتقد أن آليات الإجماع RAFT[9] و PARSEC [10] توفر حلولًا فعالة. RAFT هي خوارزمية راسخة وسهلة التطبيق.[7] PARSEC أكثر حداثة وكفاءة، وذلك باستخدام تقنية (Direct Acyclic Graph (DAG وتقليل الحاجة إلى نسخ السجلات.
 
-### 3.3 ORDER SETTLEMENT
+### 3.3 تسوية الطلبات
 
-Order settlement contains familiar elements of conventional financial market transactions. Utilizing FIFO technology to design the order book, VDex intends to check order, inventory, and fill rate, as well as limit orders and cancellations. ![](../7.jpg)
+تحتوي تسوية الطلبات على عناصر مألوفة لمعاملات السوق المالية التقليدية. باستخدام تقنية FIFO لتصميم دفتر الطلبات، تعتزم VDex التحقق من الطلب، المخزون، معدل ملء الطلبات بالإضافة إلى الطلبات المحدودة والإلغاءات. ![](../7.jpg)
 
 ### 3.4 VTX
 
