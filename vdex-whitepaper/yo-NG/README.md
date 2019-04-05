@@ -78,9 +78,9 @@ Ni EOS.IO, ipinfunni ti ohun-ini oni-nọmba ma n ṣẹda ẹka-ẹgbẹgbẹ k
 
 Ohun-ini oni-nọmba jẹ owo lọwọ ti o ba jẹ tita tabi rira ni awọn iwọn iṣowo laisi ipa ọlọjọ kukuru ti o han lori iye owo ọja lọwọlọwọ. Lati le de iru ipo bayii, nigbagbogbo eyikeyi awọn dukia ti o se ṣowo gbọdọ bori ipele awọn iwọn iṣowo ti o to lati ṣe atilẹyin fun iduroṣinṣin. Ni pato, a ni ireti lati samulo awọn ọna wọnyi: Ilana Loopring pẹlu lilo awọn adehun EOS.IO ti n ṣiṣẹ bi awọn oju ipade. [5] Alugọridimu Bancor to jẹ lilo lati mu iduroṣinṣin ba dukia oni-nọmba [6] N sayipada asaayan laarin awọn Ilana naa ati HTLC (awọn ipaṣipaarọ alaini alagata) ni ibamu si awọn iyanana Vespucci lori nẹtiwọki VDex.
 
-#### 3.0.6 Hashed Timelock Contracts (Atomic Swaps)
+#### 3.0.6 Awọn adehun to ti jẹ Gbigba to wani Akoko atipa ( Awọn ipasipaarọ Alaini alagata)
 
-A Hashed Timelock Contract (HTLC)[1] is a smart contract enabling the implementation of time-bound transactions. Users will be offered a variable lock-in period for their transactions, with a discount on transaction fees in exchange for choosing a longer lock-in period.
+Adehun to ti jẹ Gbigba to wani Akoko atipa (HTLC)[1] jẹ adehun ajafafa ti o n jẹ ki imuṣiṣẹ awọn iṣowo ti akoko de waye. Awọn olumulo yoo ni orisirisi akoko atipa fun awọn iṣowo wọn, pẹlu ẹdinwo lori awọn owo iṣowo ni paṣipaarọ fun yiyan akoko atipa to gun gan.
 
 ### 3.1 NETWORK TOPOLOGY
 
