@@ -132,7 +132,7 @@ Using the Loopring Protocol FIFO (first-in first-out) circular buffer, nodes can
 
 #### 3.2.4 عملية اللامركزية لتسوية دفتر الطلبات
 
-For decentralization purposes, nodes will take turns to settle the order book. The settling node must be designated by the protocol and all order book entries from all nodes must be available to the settling nodes. We believe the RAFT[9] and PARSEC[10] consensus mechanisms offer effective solutions. RAFT is a well-established algorithm and is easy to implement.[7] PARSEC is more recent and more efficient, using Directed Acyclic Graph (DAG) technology and eliminating the need for copying logs.
+ستتناوب العُقد لتسوية دفتر الطلبات من أجل ضمان اللامركزية. يجب أن يتم تعيين عُقدة التسوية بواسطة البروتوكول ويجب أن تكون جميع إدخالات دفتر الطلبات من جميع العُقد متاحة لعُقد التسوية. We believe the RAFT[9] and PARSEC[10] consensus mechanisms offer effective solutions. RAFT is a well-established algorithm and is easy to implement.[7] PARSEC is more recent and more efficient, using Directed Acyclic Graph (DAG) technology and eliminating the need for copying logs.
 
 ### 3.3 ORDER SETTLEMENT
 
