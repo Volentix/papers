@@ -110,9 +110,9 @@ Awọn alakopapọ VDex jẹ fifarajin si isakoso Volentix fun ẹrọ afidanraw
 
 #### 3.1.3 Latẹnsi
 
-Latẹnsi ijẹrisi bulọọku EOS.IO kere (isẹju aaya 0.5).[5] Ipo latẹnsi yii tubọ le ṣe lo ninu awọn iṣowo pẹlu awọn blockchain miiran ti awọn asopọ naa ba n gba iru latẹnsi yii kanna. Ṣugbọn ni pataki iṣowo naa ma jẹ yiyara to bi iyara ti asopọ to lọra ju ninu eto ba se to. It is well known, for example, that a Bitcoin block requires approximately ten minutes for processing. Receiving a transaction hash does not mean the transaction is confirmed; it means only that a node accepted the transaction without error, although there is generally a high probability other block producers will accept it.
+Latẹnsi ijẹrisi bulọọku EOS.IO kere (isẹju aaya 0.5).[5] Ipo latẹnsi yii tubọ le ṣe lo ninu awọn iṣowo pẹlu awọn blockchain miiran ti awọn asopọ naa ba n gba iru latẹnsi yii kanna. Ṣugbọn ni pataki iṣowo naa ma jẹ yiyara to bi iyara ti asopọ to lọra ju ninu eto ba se to. O jẹ mimọ daradara, fun apẹẹrẹ, pe bulọọku Bitcoin nilo to deede iṣẹju mẹwa fun isaayan. Gbigba hash iṣowo kan ko tumọ si pe iṣowo naa jẹ jijẹrisi; o kan tumọ si pe oju ipade kan ti gba iṣowo naa laisi aṣiṣe, biotilejẹpe o ṣeeṣe gidi gan ki awọn olusẹda bulọọku miiran gba wọle.
 
-### 3.2 ORDER BOOK
+### 3.2 IWE IBEERE
 
 The order book is the list of buy-and-sell orders VDex records from interested users. A matching engine uses an order book to determine which orders can be fulfilled. The Loopring protocol allows for customizing the order book data structure.[5] Containers provided by EOS.IO can be used for optimal performance.[8]
 
