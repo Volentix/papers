@@ -144,13 +144,13 @@ Il regolamento degli ordini contiene elementi noti delle operazioni tradizionali
 
 VTX è l'aset digitale nativo da emettere e utilizzare sull'exchange decentralizzato di VDex. Attualmente abbiamo intenzione di utilizzare un contratto eosio.token del framework EOS.IO per emettere 2.1 miliardi di token VTX compatibili con EOS.IO con una fornitura di 1.3 miliardi. VTX avrà un'ampia gamma di utilizzi, ad esempio:
 
-To reward participants in the consensus process and in Venue campaigns.
+Per ricompensare i partecipanti nel processo del consenso e nelle campagne Venue.
 
-To pay and redistribute transaction fees on the VDex exchange.
+Per pagare e ridistribuire le commissioni delle transazioni sull'exchange VDex.
 
-To submit and vote on proposals to the Volentix ecosystem, using the voting rights allocated to VTX holders.
+Per presentare e votare le proposte per l'ecosistema Volentix, utilizzando i diritti di voto assegnati ai detentori di VTX.
 
-To stake support for reviewing proposals and implementing projects.
+Per offrire sostegno per la revisione delle proposte e per attuare progetti.
 
 To incentivize users to participate in order book settlement by becoming nodes via their Verto wallets.
 
