@@ -82,19 +82,19 @@ Ohun-ini oni-nọmba jẹ owo lọwọ ti o ba jẹ tita tabi rira ni awọn iw�
 
 Adehun to ti jẹ Gbigba to wani Akoko atipa (HTLC)[1] jẹ adehun ajafafa ti o n jẹ ki imuṣiṣẹ awọn iṣowo ti akoko de waye. Awọn olumulo yoo ni orisirisi akoko atipa fun awọn iṣowo wọn, pẹlu ẹdinwo lori awọn owo iṣowo ni paṣipaarọ fun yiyan akoko atipa to gun gan.
 
-### 3.1 NETWORK TOPOLOGY
+### 3.1 ILANA ATOPỌ NẸTIWỌKI
 
 #### 3.1.1 Awọn oju ipade
 
 ![](../9.jpg)
 
-Nodes are the endpoints of the VDex exchange. Their functions are:
+Awọn oju ipade ni awọn opin ti ibi ipaṣipaarọ VDex. Awọn iṣẹ wọn ni:
 
-1. Act as portals to VDex through the Verto wallet.
+1. Ṣiṣẹ bi awọn ọna abawọle si VDex nipasẹ apo owo Verto.
 
-2. Merge order book information.
+2. Ṣe idapọ alaye iwe aṣẹ.
 
-3. Settle order book.
+3. Yanju iwe aṣẹ.
 
 4. Manage order cancellation.
 
