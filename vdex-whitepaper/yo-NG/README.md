@@ -118,7 +118,7 @@ Iwe ibeere ni akojọ awọn ibeere rira-ati-tita ti VDex n gbasilẹ lati ọd�
 
 #### 3.2.1 Awọn ẹya data
 
-Using the Loopring Protocol FIFO (first-in first-out) circular buffer, nodes can design their order books to display and match a user’s order. This method follows an OTC model, where limit orders are positioned based on price only.[5]
+Lilo Ilana ila oniyipo ti FIFO Loopring (akọkọ-wọle akọkọ-jade), awọn oju ipade le ṣeto ki awọn iwe ibeere wọn ma ṣafihan ati ṣe ibaamu ibeere olumulo kan. Ọna yii n tẹle awoṣe OTC, nibiti opin awọn ibeere ti wa ni ipo ti o da lori owo nikan.[5]
 
 Referencing the EOS.IO persistence API, the order book is able to take advantage of the powerful multi-index container shared among nodes through the same EOS.IO account.
 
