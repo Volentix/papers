@@ -10,6 +10,8 @@ Volentix n ṣafihan VDex, ti o jẹ siseto gẹgẹ bi ibi ipasipaarọ ohun-in
 
 Aaye ifilọle VDex n ṣe ifojusọna fun sise ibamu awọn ibeere idalara ti Volentix si awọn imọ ẹrọ ti o wa nilẹ lori eto isẹ sise alaisilojukan EOS.IO. A gbero lati ṣe idanwo awọn erongba wa nipa ṣiṣe apẹrẹ awoṣe nipa akanṣe software EZEOS, eyiti a kọ ati ti a ṣe akanṣe rẹ pẹlu awọn irinṣẹ ila aṣẹ ti EOS.IO cleos. Software yi wa ni: https://github.com/Volentix/ezeos
 
+![](../main3-3000px.jpg)
+
 ## 2. VOLENTIX
 
 Awujọ Volentix yoo duro le ori awọn opo mẹrin, ibi ibẹẹrẹ iseto awọn ohun elo ti a mọ si Venue, Verto, Vespucci, ati VDex ni pato.
@@ -19,8 +21,6 @@ Awujọ Volentix yoo duro le ori awọn opo mẹrin, ibi ibẹẹrẹ iseto aw�
 Venue jẹ gbigbekalẹ gẹgẹbi pilatifọọmu awujọ alayipada ti o n gba ati ṣiṣe aato awọn ọmọ ẹgbẹ ti awujọ Volentix lati jẹ ki pinpin VTX rọrun, ohun-ini oni-nọmba ibilẹ ti awujọ Volentix, ati lati ṣe ipolongo imọ nipa awọn eto Volentix.
 
 Ifilọlẹ igbeyẹwo beta waye laipẹ, Venue n fun awọn olumulo laaye lati gba VTX ni paṣipaarọ, fun apẹẹrẹ, fun kikopa ninu sisẹ idagbasoke awọn awujọ ti o ni ifarajin, fifi awọn atunṣe asise ranṣẹ, ati gbigba awọn ẹbun. Awọn Patako-ipo ati awọn iwọn bosenlọ lọwọ jẹ afihan ikopa awọn olumulo. Ifihan ipolongo akọkọ jẹ fifilọlẹ lori https://bitcointalk.org/ forum ni Osu keje ọjọ kẹtala, ọdun 2018. Jọwọ ṣabẹwo https://venue.volentix.io fun alaye siwaju sii.
-
-![](../main3-3000px.jpg)
 
 ### 2.2 VERTO
 
@@ -36,13 +36,15 @@ Opo kẹrin ti Volentix, ibi ipaṣipaarọ VDex, jẹ pilatifọọmu ṣiṣe 
 
 ## 3. IYAWORAN
 
+![](../8.jpg)
+
 #### 3.0.1 Eto Isẹ sise ori ẹrọ
 
 A ti ṣe agbeyẹwo awọn orisirisi eto isẹ sise ori ẹrọ bi awọn oludije fun ipilẹ ti ibi ipaṣipaarọ VDex wa. Bi o tilẹ ṣepe a bọwọ fun iṣẹ ti awọn asaaju ti o ti fẹsẹrinlẹ ni idi awọn ohun-ini oni-nọmba ati imọ-ẹrọ blockchain ti se, ninu awọn assaju naa iṣẹ ti EOS.IO gẹgẹbi ilana eto isẹ ṣiṣe ti ori ẹrọ lori eyi ti a ti le se agbedide awọn ohun elo alaisilojukan da yatọ, ninu ero wa, bi awokọṣe. Software naa pese awọn akọọlẹ, ìfàṣẹsí, awọn ibi ipamọ data, ibaraẹnisọrọ alailo aago, ati ṣiṣe eto kari awọn iṣupọ. Awọn ẹya ohun elo ati awọn Ilana ti wa ni kikọ tẹlẹ sinu pilatifọọmu naa, ati pe ẹya kan le jẹ lilo lati le ni ibaamu pẹlu awọn ibeere VDex wa. VDex yoo kọkọ jẹ anfani lati ara awọn ẹya to pewọn ti EOS.IO n funni gẹgẹbi akọọlẹ ati sisẹda apo owo ati gbigba awọn kọkọrọ ti o jẹ jiji pada, ṣugbọn a gbero totẹlera lati ṣe amulo awọn ilana fun ṣiṣẹda ibi ipasiparọ alaisilojukan nipasẹ awọn iwe adehun EOS ati awọn irinṣẹ miran.[2] Eyi ni alaye isọniṣoki awọn ilana amoriya:
 
 ### Awọn Igbesẹ Alaini Aami itọka
 
-Ọpọlọpọ awọn ilana ipele agbara odiwọn ti Ethereum gbero (Sharding, Raiden, Plasma, State Channels) tubọ sisẹ si, o ṣe mu dọgba, ati pe o bojumu nigba ti o n ṣe aridaju iyara ibaraẹnisọrọ laarin-blockchain ati aidibajẹ ipele agbara odiwọn. Igbesẹ Alaini Aami itọka jẹmọ awọn isiro ti o dalori data idunadura nikan, ko kin ṣe lori ipo blockchain.
+Ọpọlọpọ awọn ilana ipele agbara odiwọn ti Ethereum gbero (Sharding, Raiden, Plasma, State Channels) tubọ sisẹ si, o ṣe mu dọgba, ati pe o bojumu nigba ti o n ṣe aridaju iyara ibaraẹnisọrọ laarin-blockchain ati aidibajẹ ipele agbara odiwọn. Igbesẹ Alaini Aami itọka jẹmọ awọn isiro ti o dalori idunadura data nikan, ko kin ṣe lori ipo blockchain.
 
 ### Iyipada Binary/JSON
 
@@ -58,51 +60,53 @@ Apejọ Ayelujara jẹ ki iṣẹ ṣiṣe awọn ohun elo Ayelujara gaju si ati
 
 ### Rust/C++ awọn iwe adehun
 
-Ede siseto C++ ti o lokiki ati ti o gbajumọ farahan bi eyi ti o dara julọ fun WASM. C++ ni atilẹyin ati awọn ile ikowesi iṣatunṣe aṣiṣe alailẹgbẹ. Codebase EOS n lo awọn awoṣe lọfẹ, atipe C++ faye gba lilo awọn awoṣe ati apọju isẹ oṣiṣẹ lati seto akoko isẹ ọfẹ sise fun idaniloju ti awọn ẹya. Eto naa n ṣatunto si ipo imọfefe ni ibẹrẹ gbogbo ifiranṣẹ, anfani kan to dayatọ ti o n ṣe idanmọran agbekalẹ ti awọn adehun ajafafa. Ilana WebAssembly n ti atinuwa kọ eyikeyi idunadura ti o n se iranti ti ko ni ibaamu. Bi o ba ṣẹlẹ pe iyasọtọ iranti alayipada jẹ pataki, awọn olumulo le kuro lọ si awọn atọka to jafafa nitori awọn iwe adehun EOS.IO n lo C++ 14. O to kiyesi pe imuse akọkọ ti imọ ẹrọ PARSEC Directed Acyclic Graph (DAG) ni a reti ki o wa ni Rust.
+Ede siseto C++ ti o lokiki ati ti o gbajumọ farahan bi eyi ti o dara julọ fun WASM. C++ ni atilẹyin ati awọn ile ikowesi iṣatunṣe aṣiṣe alailẹgbẹ. Codebase EOS n lo awọn awoṣe lọfẹ, atipe C++ faye gba lilo awọn awoṣe ati apọju isẹ oṣiṣẹ lati seto akoko isẹ ọfẹ sise fun idaniloju ti awọn ẹya. Eto naa n ṣatunto si ipo imọfefe ni ibẹrẹ gbogbo ifiranṣẹ, anfani kan to dayatọ ti o n ṣe idanmọran agbekalẹ ti awọn adehun ajafafa. Ilana WebAssembly n ti atinuwa kọ eyikeyi idunadura ti o n se iranti ti ko ni ibaamu. Bi o ba ṣẹlẹ iyasọtọ iranti alayipada jẹ pataki, awọn olumulo le kuro lọ si awọn atọka to jafafa nitori awọn iwe adehun EOS.IO n lo C++ 14. O to kiyesi pe imuse akọkọ ti imọ ẹrọ PARSEC Directed Acyclic Graph (DAG) ni a reti ki o wa ni Rust.
 
-#### 3.0.2 Schema defined messages and database
+#### 3.0.2 Awọn ifiranṣẹ ati ibi ipamọ data ti o da lori Eto alakalẹ
 
-Awọn adehun iṣẹ jẹ mimudojuwọn lati pese ipilẹṣẹ odiwọn ti isisẹpọ laarin ati ninu awọn eto ti o yatọ nipasẹ sise asopọ awọn awoṣe data. Nitootọ, ilana Eto Adehun Adojuiwọn beere fun pe ki awọn adehun eto da lori awọn awoṣe data ti o dojuiwọn. Iyanana ma n jẹ ṣiṣe lori apẹrẹ iwe-akọọlẹ ti iṣẹ lati wa awọn iwe-iṣowo owo ti o n waye daadaa ti o n jẹ pipaarọ laarin awọn iṣẹ. Awọn iwe iṣowo yii ma wa jẹ ṣiṣe ni ọna ti o kun ojuiwọn. The Canonical Schema pattern reduces the need for application of the data model transformation design pattern. [3]
+Awọn adehun iṣẹ jẹ mimudojuwọn lati pese ipilẹṣẹ odiwọn ti isisẹpọ laarin ati ninu awọn eto ti o yatọ nipasẹ sise asopọ awọn awoṣe data. Nitootọ, ilana Eto Adehun Adojuiwọn beere fun pe ki awọn adehun eto da lori awọn awoṣe data ti o dojuiwọn. Iyanana ma n jẹ ṣiṣe lori apẹrẹ iwe-akọọlẹ ti iṣẹ lati wa awọn iwe-iṣowo owo ti o n waye daadaa ti o n jẹ pipaarọ laarin awọn iṣẹ. Awọn iwe iṣowo yii ma wa jẹ ṣiṣe ni ọna ti o kun ojuiwọn. Ilana Eto alakalẹ ti eleto n mu adinku ba inilo fun ohun elo ti iparada idalara ilana awoṣe data naa. [3]
 
 #### 3.0.3 Ibaraẹnisọrọ Laarin-Adehun
 
-Data ma jẹ pinpin laarin awọn adehun nipasẹ oracle kan, eyi ti, "ninu ọrọ awọn blockchain ati awọn adehun ajafafa, jẹ aṣoju ti o n ṣawari ati se ijẹri awọn iṣẹlẹ bosenlọ gangan ni aye ati ki o fi alaye yii ranṣẹ si blockchain lati lo nipasẹ awọn adehun ajafafa." [4] Gbogbo oju ipade yoo ni ẹda ti o jọra ti awọn data wọnyi, fun lilo ninu iṣiro adehun ajafafa. Kakaki adehun ajafafa ṣiṣẹ lati fa data naa kuro, dipo oracle naa n tari data naa si ori blockchain naa. Ni apẹẹrẹ ti blockchain, ọpọ kika ti awọn data naa ma n jẹ ṣiṣe nipasẹ isewadi "awọn awoṣe" lati le se amojuto ipo blockchain ati lati ṣe diẹ ninu awọn igbesẹ idahun.
+Data ma jẹ pinpin laarin awọn adehun nipasẹ oracle kan, eyi ti, "ninu ọrọ awọn blockchain ati awọn adehun ajafafa, jẹ aṣoju ti o n ṣawari ati se ijẹri awọn iṣẹlẹ bosenlọ gangan ni aye ati ki o fi alaye yii ranṣẹ si blockchain lati lo nipasẹ awọn adehun ajafafa." [4] Gbogbo oku ipade yoo ni ẹda ti o jọra ti awọn data wọnyi, fun lilo ninu iṣiro adehun ajafafa. Kakaki adehun ajafafa ṣiṣẹ lati fa data naa kuro, dipo oracle naa n tari data naa si ori blockchain naa. Ni apẹẹrẹ ti blockchain, ọpọ kika ti awọn data naa ma n jẹ ṣiṣe nipasẹ isewadi "awọn awoṣe" lati le se amojuto ipo blockchain ati lati ṣe diẹ ninu awọn igbesẹ idahun.
 
 #### 3.0.4 Awọn ẹka-ẹgbẹgbẹ
 
-Ni EOS.IO, ipinfunni ti ohun-ini oni-nọmba ma n ṣẹda ẹka-ẹgbẹgbẹ kan, eyi ti o jẹ ilana ti o n jade bọ ti o gba awọn ohun-elo oni-nọmba laaye lati jẹ lilo pẹlu aabo lati blockchain kan ninu blockchain miran ti o yatọ ati lẹhinna jẹ didapada si ojulowo blockchain. Iṣiṣẹṣi ti iṣaayan ma n jẹ gbigbelarugẹ nipasẹ ṣiṣẹda awọn ọpọlọpọ awọn ẹka-ẹgbẹgbẹ. Ikanni ibaraẹnisọrọ kan to dabi ti TCP laarin awọn oniruuru blockchain n ṣe igbelewọn awọn ẹri. For each shard (a unit of parallelizable execution in a cycle), a balanced merkle tree is constructed of these action commitments to generate a temporary shared merkle root; this is done for speed of parallel computation. The block header contains the root of a balanced merkle tree the leaves of which are the roots of these individual shard merkle trees. [2]
+Ni EOS.IO, ipinfunni ti ohun-ini oni-nọmba ma n ṣẹda ẹka-ẹgbẹgbẹ kan, eyi ti o jẹ ilana ti o n jade bọ ti o gba awọn ohun-elo oni-nọmba laaye lati jẹ lilo pẹlu aabo lati blockchain kan ninu blockchain miran ti o yatọ ati lẹhinna jẹ didapada si ojulowo blockchain. Iṣiṣẹṣi ti iṣaayan ma n jẹ gbigbelarugẹ nipasẹ ṣiṣẹda awọn ọpọlọpọ awọn ẹka-ẹgbẹgbẹ. Ikanni ibaraẹnisọrọ kan to dabi ti TCP laarin awọn oniruuru blockchain n ṣe igbelewọn awọn ẹri. Fun ọkọọkan ege (ẹya kan ti o jẹ aseyege oniṣiṣẹntẹle ni iyipo kan), igi merkle pipeye kan ma jẹ gbigbe dide ti awọn ifarajin igbeṣẹ wọnyi lati ṣe ipilẹṣẹ gbongbo merkle alajọpin onigbadiẹ kan; eyi n jẹ ṣiṣe fun iyara ti iṣiro oniṣiṣẹntẹle. Akoori bulọọku naa ni gbongbo igi merkle pipeye kan eyi ti awọn ewe rẹ jẹ gbongbo ti awọn ọkọọkan ege awọn igi merkle yii. [2]
 
-#### 3.0.5 Liquidity
+#### 3.0.5 Irọrun isọjadowo
 
-A digital asset is liquid if it is easily sold or purchased in ordinary trading volumes without a significant short-term impact on its prevailing market price. In order to achieve such a status, traditionally any tradable asset must surmount a trading volume threshold sufficient to support stability. Specifically, we anticipate adopting the following methodologies: Loopring protocol with the use of EOS.IO contracts acting as nodes.[5] Bancor algorithm used to bring stability to the digital asset.[6] Toggles between these protocols and HTLC (atomic swaps) according to Vespucci analyses on the VDex network.
+Ohun-ini oni-nọmba jẹ owo lọwọ ti o ba jẹ tita tabi rira ni awọn iwọn iṣowo laisi ipa ọlọjọ kukuru ti o han lori iye owo ọja lọwọlọwọ. Lati le de iru ipo bayii, nigbagbogbo eyikeyi awọn dukia ti o se ṣowo gbọdọ bori ipele awọn iwọn iṣowo ti o to lati ṣe atilẹyin fun iduroṣinṣin. Ni pato, a ni ireti lati samulo awọn ọna wọnyi: Ilana Loopring pẹlu lilo awọn adehun EOS.IO ti n ṣiṣẹ bi awọn oju ipade. [5] Alugọridimu Bancor to jẹ lilo lati mu iduroṣinṣin ba dukia oni-nọmba [6] N sayipada asaayan laarin awọn Ilana naa ati HTLC (awọn ipaṣipaarọ alaini alagata) ni ibamu si awọn iyanana Vespucci lori nẹtiwọki VDex.
 
-#### 3.0.6 Hashed Timelock Contracts (Atomic Swaps)
+#### 3.0.6 Awọn adehun to ti jẹ Gbigba to wani Akoko atipa ( Awọn ipasipaarọ Alaini alagata)
 
-A Hashed Timelock Contract (HTLC)[1] is a smart contract enabling the implementation of time-bound transactions. Users will be offered a variable lock-in period for their transactions, with a discount on transaction fees in exchange for choosing a longer lock-in period.
+Adehun to ti jẹ Gbigba to wani Akoko atipa (HTLC)[1] jẹ adehun ajafafa ti o n jẹ ki imuṣiṣẹ awọn iṣowo ti akoko de waye. Awọn olumulo yoo ni orisirisi akoko atipa fun awọn iṣowo wọn, pẹlu ẹdinwo lori awọn owo iṣowo ni paṣipaarọ fun yiyan akoko atipa to gun gan.
 
-### 3.1 NETWORK TOPOLOGY
+### 3.1 ILANA ATOPỌ NẸTIWỌKI
 
 #### 3.1.1 Awọn oju ipade
 
-Nodes are the endpoints of the VDex exchange. Their functions are:
+![](../9.jpg)
 
-1. Act as portals to VDex through the Verto wallet.
+Awọn oju ipade ni awọn opin ti ibi ipaṣipaarọ VDex. Awọn iṣẹ wọn ni:
 
-2. Merge order book information.
+1. Ṣiṣẹ bi awọn ọna abawọle si VDex nipasẹ apo owo Verto.
 
-3. Settle order book.
+2. Ṣe adapọ alaye iwe ibeere.
 
-4. Manage order cancellation.
+3. Yanju iwe ibeere.
 
-5. Assign timeouts for the RAFT protocol.
+4. Ṣakoso ibeere to di fifagile.
 
-6. Initiate contracts for orders that have been filled.
+5. Yan akoko idawọduro fun awọn ilana RAFT.
 
-Nodes earn a portion of the fee for each transaction. If a user has sufficient funds and possesses a good track record, his or her Verto wallet can act as a node.
+6. Pilẹṣẹ awọn adehun fun awọn ibeere ti o ti jẹ fifọwọsi.
 
-#### 3.1.2 Aggregators
+Awọn oju ipade gba ipin kan lara owo fun iṣowo kọọkan. Ti olumulo kan ba ni owo to peye ati ti o si ni akọsilẹ aseyọri daradara, apo owo Verto rẹ le ṣiṣẹ bi oju ipade kan.
 
-The VDex aggregators are dedicated Volentix servers for simulator and security purposes. One of their functions is to pull logs and order book data from nodes into sparse distributed representations for hierarchical temporal memory as intrusion [7] analysis for detecting anomalies in the system. The aggregators will also be host to other components such as metachain ledgers and blockchain scrapers.
+#### 3.1.2 Awọn alakopapọ
+
+Awọn alakopapọ VDex jẹ fifarajin si isakoso Volentix fun ẹrọ afidanrawo ati awọn eredi aabo. Ọkan ninu awọn iṣẹ wọn ni lati fa awọn akọṣilẹ ati ṣe ibeere data iwe lati ọdọ awọn oju ipade sinu awọn isoju pinpin to fọnka fun iranti alakoko onipele ipo bi iyanana [7] ifiran fun iwajade awọn ohun ajeji ninu eto naa. The aggregators will also be host to other components such as metachain ledgers and blockchain scrapers.
 
 #### 3.1.3 Latency
 
@@ -132,7 +136,7 @@ For decentralization purposes, nodes will take turns to settle the order book. T
 
 ### 3.3 ORDER SETTLEMENT
 
-Order settlement contains familiar elements of conventional financial market transactions. Utilizing FIFO technology to design the order book, VDex intends to check order, inventory, and fill rate, as well as limit orders and cancellations.
+Order settlement contains familiar elements of conventional financial market transactions. Utilizing FIFO technology to design the order book, VDex intends to check order, inventory, and fill rate, as well as limit orders and cancellations. ![](../7.jpg)
 
 ### 3.4 VTX
 
@@ -154,6 +158,8 @@ To incentivize users to lock funds in for >24 hours by HTLC time-bound transacti
 
 #### 3.4.2 VTX Allocation
 
+![](../6.jpg)
+
 A digital assets ecosystem requires an array of certain fundamental human constituents who shepherd the project forward.[11] It is essential to compensate those individuals for their participation. Subject to adjustment, Volentix currently anticipates the following allocations:
 
 1. Contributors. 12%. An array of individuals, akin to founders, who contribute insights, time and talent, though often work without early compensation.
@@ -170,7 +176,7 @@ Phase 1. 10%.
 
 Phase 2. 10%.
 
-4. Decentralized treasury. 35%. Community members incentivized and rewarded for participation in progressive development of a decentralized autonomous organization (DAO). A decentralized treasury is anticipated to be administered by smart contracts and community consensus.
+4. Decentralized treasury. 35%. Community members incentivized and rewarded for participation in progressive development of a decentralized autonomous organization (DAO). A decentralized treasury is anticipated to be administered by smart contracts and community consensus. ![](../5.jpg)
 
 #### 3.4.3 VTX Distribution
 

@@ -272,8 +272,8 @@ Various blockchain technologies have been developed to tackle various challenges
 
 * Block propagation time is important, since newly-found blocks need to be propagated as soon as possible across the blockchain network. Except for the waiting time for the user, another major issue coming from propagation time is that even for tiny delays‬, another block found at the same time might win the “block race”.
 * Hash rate vs Difficulty over Time‬, Price and Power consumption. These indicators, could show various correlations with Hash Rate, i.e. the hashrate could follow a corresponding increase or decrease to the price. Networks’ Hash Rate is also a security indicator, since networks which have low hash rate is easier to be tampered.
-* Node activity‬ and distribution‬. Nodes are vital parts of a blockchain, since it is maintained by them. They are connected to the blockchain network, transmitting and receiving the transactions, having their own copy of the blockchain. Therefore, their activity, distribution and average size can provide useful information about the blockchain.
-* Coin distribution‬, including information on how the coin is distributed among the developers, the foundation/production team, and the public. Also, the rate of change of the total supply and how is then distributed seems to provide useful statistics on the actual value of the coin and indication of possible frauds.
+* פעילות ותפוצת צמתי רשת. צמתי רשת הינם חלק חיוני מהבלוקצ'יין, כיוון שהוא מנוהל על ידם. הם מחוברים לרשת הבלוקצ'יין, משדרים ומקבלים את ההעברות, וברשותם עותק משלהם של הבלוקצ'יין. לכן, פעילותם, תפוצתם וגודלם הממוצע יכולים לספק למידע שימושי על הבלוקצ'יין.
+* הפצת מטבע, לרבות מידע על איך המטבע מופץ בקרב המפתחים, הצוות המייסד/המייצר, והציבור. כמו כן, שעור השינויים בכלל האספקה וכיצד הוא מופץ לאחר מכן נדמה כי מספק נתונים סטטיסטיים מועילים על ערך המטבע הממשי, ונותן אינדיקציה להונאות אפשריות.
 * Miner distribution‬, indicating the number of miners online and how they are distributed (by pool), their fees, luck etc. Also,he software version of miners is also important, since ideally they should be on its latest version in order to support all the features of the Coin that they are mining.
 * Transaction levels, where various measures could be taken into account, such as the number of transactions submitted or validated per second by each node and the entire network, the average time of validation for a transaction and its volatility.
 * Tra nsactions fees, that users might pay to the network, in order to complete transactions or smart contracts.
@@ -451,14 +451,14 @@ This text is based on NH’s original vision docs and AA’s update on them.
 
 [12] <https://eos.io/>, Eos.io technical white paper v2 (2018).
 
-[13] <https://cryptocoinrankings.com/index.php> [technical indicators]
+[13] <https://cryptocoinrankings.com/index.php> [תקלות טכניות]
 
-[14] <https://gist.github.com/gavinandresen/e20c3b5a1d4b97f79ac2> [O(1) Block Propagation]
+[14] <https://gist.github.com/gavinandresen/e20c3b5a1d4b97f79ac2> [ריבוי בלוקים (1)O]
 
-[15] <http://blocktivity.info/> [activity on blockchains, projects being used by people]
+[15]<http://blocktivity.info/> [פעילות על שרשורי בלוקים, פרוייקטים המנוצלים על ידי אנשים]
 
-[16] <https://www.coingecko.com/> [Cryptocurrencies Chart]
+[16]<https://www.coingecko.com/> [ טבלת מטבע מבוזר]
 
 [17] <https://www.investopedia.com>
 
-Brackets at the end of certain references indicate the part of the paper that uses this reference.
+סוגריים הנמצאים בסוף הפניות מסוימות מצביעות על החלק בנייר המשתמש בהפניה זו.

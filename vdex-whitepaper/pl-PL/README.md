@@ -1,76 +1,78 @@
-# THE VOLENTIX VDEX WHITE PAPER
+# BIAŁA KSIĘGA VDEX VOLENTIX
 
-- Version: 0.1.4
-- Updated: 11-03-2019
-- Website: www.volentix.io
+- Wersja: 0.1.4
+- Ostatnia aktualizacja: 11-03-2019
+- Strona internetowa: www.volentix.io
 
-## 1. INTRODUCTION
+## 1. WPROWADZENIE
 
-Volentix introduces VDex, designed as a distributed, decentralized digital assets exchange with emphasis on user experience and community development and governance. By accessing established technologies and planning selective new protocols with priority on security, speed, authentication, ease of use, scalability, and multi-asset support, VDex intends to facilitate peer-to-peer transactions by assembling a portfolio of decentralized applications built on EOS.IO smart contracts.
+Volentix wprowadza VDex, zaprojektowany jako rozproszona, zdecentralizowana wymiana zasobów cyfrowych z naciskiem na doświadczenie użytkownika i rozwój społeczności oraz zarządzanie. Dzięki dostępowi do ustalonych technologii i planowaniu selektywnych nowych protokołów z priorytetem w zakresie bezpieczeństwa, szybkości, uwierzytelniania, łatwości użycia, skalowalności i obsługi wielu zasobów, VDex zamierza ułatwić transakcje peer-to-peer, tworząc portfolio zdecentralizowanych aplikacji zbudowanych na inteligentnych umowach EOS.IO.
 
-The VDex launch point anticipates matching Volentix's design requirements to available technologies superimposed on the EOS.IO decentralized operating system. We intend to test our assumptions by prototyping via custom EZEOS software, which we built and customized with EOS.IO's cleos command line tools. This software resides at: https://github.com/Volentix/ezeos
-
-## 2. VOLENTIX
-
-The Volentix ecosystem will exist atop four pillars, an initializing array of applications specifically known as Venue, Verto, Vespucci, and VDex.
-
-### 2.1 VENUE
-
-Venue is planned as a dynamic community platform that recruits and aligns members of the Volentix community to facilitate distribution of VTX, the native digital asset of the Volentix ecosystem, and to promote awareness of Volentix initiatives.
-
-Recently launched in beta testing, Venue enables users to receive VTX in exchange, for example, for participating in developing dedicated communities, submitting bug fixes, and claiming bounties. Leaderboards and live metrics reflect user participation. The first signature campaign was launched on the https://bitcointalk.org/ forum on July 13, 2018. Please visit https://venue.volentix.io for more information.
+Punkt startowy VDex przewiduje dopasowanie wymagań projektowych Volentix do dostępnych technologii nałożonych na zdecentralizowany system operacyjny EOS.IO. Zamierzamy przetestować nasze założenia poprzez prototypowanie za pomocą spersonalizowanego oprogramowania EZEOS, które zbudowaliśmy i dostosowaliśmy za pomocą narzędzi wiersza poleceń EOS.IO. Oprogramowanie to znajduje się na: https://github.com/Volentix/ezeos
 
 ![](../main3-3000px.jpg)
 
+## 2. VOLENTIX
+
+Ekosystem Volentix będzie istniał na czterech filarach, szeregu inicjujących aplikacji znanych jako Venue, Verto, Vespucci i VDex.
+
+### 2.1 VENUE
+
+Venue zaplanowano jako dynamiczną platformę społecznościową, która rekrutuje i dostosowuje członków społeczności Volentix do ułatwiania dystrybucji VTX, rodzimego zasobu cyfrowego ekosystemu Volentix oraz promowania świadomości inicjatyw Volentix.
+
+Niedawno uruchomiona w testach beta, Venue umożliwia użytkownikom odbieranie VTX w zamian, na przykład, za uczestnictwo w tworzeniu oddanej społeczności, zgłaszanie poprawek błędów i ubiegania się o nagrody. Tabele wyników i wskaźniki na żywo odzwierciedlają udział użytkowników. Pierwszą kampanię podpisów uruchomiono na forum https://bitcointalk.org/ 13 lipca 2018 r. Odwiedź stronę https://venue.volentix.io, aby uzyskać więcej informacji.
+
 ### 2.2 VERTO
 
-Verto is being built as a multi-currency wallet for use with the VDex decentralized exchange, and intends to facilitate personal custody and local management of private and public keys in peer-to-peer transactions, with the goal of eliminating the risks of devastating losses of stake associated with traumatic failures of central operators. Verto plans to employ a system of smart contracts to maintain the state between two trading clients, the simplest operations being accomplished with atomic swaps.[1]
+Verto jest budowany jako portfel wielowalutowy do użytku ze zdecentralizowaną wymianą VDex i ma na celu ułatwienie osobistej pieczy i lokalnego zarządzania kluczami prywatnymi i publicznymi w transakcjach peer-to-peer, w celu wyeliminowania ryzyka wyniszczających strat udziału związanego z traumatycznymi niepowodzeniami operatorów centralnych. Verto planuje zastosować system inteligentnych umów, aby utrzymać oświadczenie między dwoma klientami handlowymi, a najprostsze operacje są realizowane przy użyciu niepodzielnych wymian.[1]
 
 ### 2.3 VESPUCCI
 
-Vespucci is envisioned as an analytics engine accessible via a user-friendly interface with treasure troves of real-time and historical market data, such as digital assets ratings and sentiment analysis. We wish to empower users with tools to graph and compare tradeable digital assets, to access and parse historical trading records, to plot trends and patterns, and to monitor and assess open-source software developments. Vespucci seeks to bring to your fingertips confident and comprehensive market-relevant data by aggregating the information currently scattered throughout many different blockchains, websites, chat rooms, and exchanges.
+Vespucci jest przewidziany jako silnik analityczny dostępny za pośrednictwem przyjaznego dla użytkownika interfejsu ze skarbnicą danych rynkowych w czasie rzeczywistym i historycznym, takich jak oceny zasobów cyfrowych i analiza nastrojów. Chcemy umożliwić użytkownikom tworzenie wykresów i porównywanie cyfrowych zasobów handlowych, uzyskiwanie dostępu do historycznych danych handlowych i ich analizę, śledzenie trendów i wzorców oraz monitorowanie i szacowanie rozwoju oprogramowania typu open source. Vespucci dąży do tego, aby uzyskać w zasięgu ręki pewne i wszechstronne dane dotyczące rynku, agregując informacje obecnie rozproszone na wielu różnych blockchainach, stronach internetowych, czatach i giełdach.
 
 ### 2.4 VDEX
 
-The fourth pillar of Volentix, the VDex exchange, is the tradable digital assets platform introduced in detail in this white paper. For smooth and secure usability, we plan VDex to integrate with your own personal Verto wallet and Vespucci interface. We expect VDex to be able to manage transactions involving both VTX and the vast array of digital assets and blockchains extant from time to time throughout the world. We are developing Venue as a complementary adjunct primarily in order to incentivize and drive native VTX-based initiatives.
+Czwartym filarem Volentix, giełda VDex, jest platformą do obrotu cyfrowymi aktywami wprowadzona szczegółowo w tej białej księdze. Aby zapewnić płynną i bezpieczną obsługę, planujemy zintegrować VDex z Twoim osobistym portfelem Verto i interfejsem Vespucci. Oczekujemy, że VDex będzie w stanie zarządzać transakcjami obejmującymi zarówno VTX, jak i szeroki wachlarz zasobów cyfrowych i blockchainów, które istnieją od czasu do czasu na całym świecie. Rozwijamy Venue jako uzupełniający dodatek przede wszystkim w celu zachęcania i napędzania macierzystych inicjatyw opartych na VTX.
 
-## 3. ARCHITECTURE
+## 3. ARCHITEKTURA
 
-#### 3.0.1 Operating system
+![](../8.jpg)
 
-We have evaluated various operating systems as candidates for the substructure of our VDex exchange. Though we honor the work done by a number of the established leaders in digital assets and blockchain technology, among those trailblazers the work of EOS.IO as an operating system-like framework upon which decentralized applications can be built stands out, in our opinion, as exemplary. The software provides accounts, authentication, databases, asynchronous communication, and scheduling across clusters. Components and protocols are already built into the platform, and a subset can be used to satisfy our VDex requirements. VDex will initially benefit from the standard features offered by EOS.IO such as account and wallet creation and the recovery of stolen keys, but we plan subsequently to implement protocols for creation of a decentralized exchange through EOS contracts and other tools.[2] Here is a summary of encouraging methodologies:
+#### 3.0.1 System operacyjny
 
-### Context Free Actions
+Określiliśmy różne systemy operacyjne jako kandydatów na podstrukturę naszej giełdy VDex. Chociaż szanujemy pracę wielu uznanych liderów w dziedzinie zasobów cyfrowych i technologii blockchain, wśród tych pionierów wyróżnia się, według nas, na przykład praca EOS.IO jako systemu operacyjnego, na którym można budować zdecentralizowane aplikacje. Oprogramowanie zaopatruje w konta, uwierzytelnianie, bazy danych, komunikację asynchroniczną i planowanie w klastrach. Komponenty i protokoły są już wbudowane w platformę, a podzbiór może zostać użyty do spełnienia naszych wymagań VDex. VDex początkowo będzie korzystał ze standardowych funkcji oferowanych przez EOS.IO, takich jak tworzenie kont i portfeli oraz odzyskiwanie skradzionych kluczy, ale planujemy później wdrożyć protokoły do ​​tworzenia zdecentralizowanej wymiany za pośrednictwem umów EOS i innych narzędzi. [2] Oto podsumowanie przekonywujących metodologii:
 
-Most of the scalability techniques proposed by Ethereum (Sharding, Raiden, Plasma, State Channels) become more efficient, parallelizable, and practical while also ensuring speedy inter-blockchain communication and unimpaired scalability. A Context Free Action involves computations that depend only on transaction data, and not upon the blockchain state.
+### Działanie Bez Kontekstu
 
-### Binary/JSON conversion
+Większość technik skalowalności zaproponowanych przez Ethereum (Sharding, Raiden, Plasma, State Channels) staje się bardziej wydajna, równoległa i praktyczna, zapewniając jednocześnie szybką komunikację między blokchainami i nienaruszoną skalowalność. Działanie bez kontekstu obejmuje obliczenia, które zależą tylko od danych transakcji, a nie od stanu blockchaina.
 
-EOS contracts combine the human readability of JSON with the efficiency of binary.
+### Konwersja binarna/JSON
 
-### Parallelization and optimization
+Kontrakty EOS łączą czytelność JSON z wydajnością binarną.
 
-Separating authentication from application allows faster transaction times and increases bandwidth. EOS.IO blocks are reportedly produced every 500ms.
+### Równoległość i optymalizacja
+
+Oddzielenie uwierzytelniania od aplikacji pozwala na szybszy czas transakcji i zwiększa przepustowość. Bloki EOS.IO są według doniesień produkowane co 500 ms.
 
 ### Web Assembly(WASM)
 
-Web Assembly enables high-performance Web applications and also secures each application in its own sandbox, through which functionalities VDex can obtain network access, filesystem namespace restrictions, and enforced rule-based execution.
+Web Assembly umożliwia wydajne aplikacje Internetowe, a także zabezpiecza każdą aplikację we własnym środowisku testowym, dzięki którym VDex może uzyskać dostęp do sieci, ograniczenia przestrzeni nazw systemu plików i wymuszona oparte na zasadach realizacji.
 
-### Rust/C++ contracts
+### Kontrakty Rust/C++
 
-The well-known and popular programming language C++ appears highly suitable for WASM. C++ has highly mature debugging support and libraries. The EOS codebase uses templates liberally, and C++ allows the use of templates and operator overloading to define a runtime cost-free validation of units. The program reinitializes to clean state at the start of every message, a distinct advantage that streamlines formulation of smart contracts. The WebAssembly framework automatically rejects any transaction addressing memory inaccurately. In case dynamic memory allocation is necessary, users can depart to smart pointers because EOS.IO contracts use C++14. It is noteworthy that the first implementation of PARSEC Directed Acyclic Graph (DAG) technology is expected to be in Rust.
+Dobrze znany i popularny język programowania C++ wydaje się bardzo odpowiedni dla WASM. C++ ma bardzo dojrzałe wsparcie debugowania i bibliotek. Baza kodowa EOS wykorzystuje szablony swobodnie, a C ++ pozwala na użycie szablonów i przeciążenie operatorów w celu zdefiniowania bezpłatnego sprawdzania jednostek w czasie wykonywania. Program ponownie inicjuje proces czyszczenia na początku każdej wiadomości, co stanowi wyraźną zaletę, która usprawnia formułowanie inteligentnych umów. Struktura WebAssembly automatycznie odrzuca każdą niedokładną pamięć adresowania transakcji. Jeśli konieczna jest dynamiczna alokacja pamięci, użytkownicy mogą odstępować od inteligentnych wskaźników, ponieważ umowy EOS.IO używają C++14. Warto zauważyć, że pierwsza implementacja technologii PARSEC Directed Acyclic Graph (DAG) ma być w Rust.
 
-#### 3.0.2 Schema defined messages and database
+#### 3.0.2 Komunikaty zdefiniowane w schemacie i baza danych
 
-Service contracts are standardized to provide a baseline measure of interoperability between and among disparate systems by harmonization of data models. Indeed, the Standardized Service Contract design principle advocates that service contracts be based on standardized data models. Analysis is done on the service inventory blueprint to find out the commonly occurring business documents that are exchanged between services. These business documents are then modeled in a standardized manner. The Canonical Schema pattern reduces the need for application of the data model transformation design pattern. [3]
+Kontrakty serwisowe są standaryzowane, aby zapewnić bazową miarę interoperacyjności między różnymi systemami i poprzez ich harmonizację. W istocie zasada projektowania Standaryzowanej Umowy o Świadczeniu Usług popiera te umowy o świadczenie usług opierające się na standardowych modelach danych. Analiza odbywa się na planie spisu usług, aby znaleźć powszechnie występujące dokumenty biznesowe wymieniane między usługami. Te dokumenty biznesowe są następnie modelowane na standaryzowanych zasadach. Kanoniczny Wzór schematu zmniejsza potrzebę stosowania wzorca projektowego transformacji modelu danych. [3]
 
-#### 3.0.3 Inter-Contract Communication
+#### 3.0.3 Komunikacja między kontraktami
 
-Data is shared between contracts via an oracle, which, "in the context of blockchains and smart contracts, is an agent that finds and verifies real-world occurrences and submits this information to a blockchain to be used by smart contracts.” [4] Every node will have an identical copy of these data, for use in smart contract computation. Rather than the smart contract functioning to pull the data, instead the oracle pushes the data onto the blockchain. In the instance of a blockchain, most reading of the data is done via polling "models" in order to monitor blockchain state and to perform certain responsive actions.
+Dane są dzielone między umowami za pośrednictwem wyroczni, która „w kontekście blockchainów i inteligentnych umów jest agentem, który znajduje i weryfikuje rzeczywiste zdarzenia i przekazuje te informacje do blokchaina, który ma być używany przez inteligentne umowy”. [4] Każdy węzeł będzie miał identyczną kopię tych danych do wykorzystania w obliczeniach inteligentnych kontraktów. Zamiast inteligentnego funkcjonowania umowy, aby wyciągnąć dane, wyrocznia przesyła dane do blockchaina. W przypadku bblockchain większość odczytu danych odbywa się poprzez odpytywanie „modeli” w celu monitorowania stanu blockchaina i wykonywania pewnych działań reagujących.
 
-#### 3.0.4 Sidechains
+#### 3.0.4 Łańcuchy boczne
 
-In EOS.IO, issuance of a digital asset creates a sidechain, which is an emerging mechanism permitting digital assets from one blockchain to be securely used in a separate blockchain and then moved back to the original blockchain. Efficiency of processing is promoted by creating multiple sidechains. A TCP-like communication channel between different blockchains evaluates proofs. For each shard (a unit of parallelizable execution in a cycle), a balanced merkle tree is constructed of these action commitments to generate a temporary shared merkle root; this is done for speed of parallel computation. The block header contains the root of a balanced merkle tree the leaves of which are the roots of these individual shard merkle trees. [2]
+W EOS.IO wydanie zasobu cyfrowego tworzy łańcuch boczny, który jest nowym mechanizmem pozwalającym na bezpieczne korzystanie z zasobów cyfrowych z jednego blockchaina w oddzielnym blockchainie, a następnie powrót do oryginalnego blockchaina. Efficiency of processing is promoted by creating multiple sidechains. A TCP-like communication channel between different blockchains evaluates proofs. For each shard (a unit of parallelizable execution in a cycle), a balanced merkle tree is constructed of these action commitments to generate a temporary shared merkle root; this is done for speed of parallel computation. The block header contains the root of a balanced merkle tree the leaves of which are the roots of these individual shard merkle trees. [2]
 
 #### 3.0.5 Liquidity
 
@@ -83,6 +85,8 @@ A Hashed Timelock Contract (HTLC)[1] is a smart contract enabling the implementa
 ### 3.1 NETWORK TOPOLOGY
 
 #### 3.1.1 Nodes
+
+![](../9.jpg)
 
 Nodes are the endpoints of the VDex exchange. Their functions are:
 
@@ -132,7 +136,7 @@ For decentralization purposes, nodes will take turns to settle the order book. T
 
 ### 3.3 ORDER SETTLEMENT
 
-Order settlement contains familiar elements of conventional financial market transactions. Utilizing FIFO technology to design the order book, VDex intends to check order, inventory, and fill rate, as well as limit orders and cancellations.
+Order settlement contains familiar elements of conventional financial market transactions. Utilizing FIFO technology to design the order book, VDex intends to check order, inventory, and fill rate, as well as limit orders and cancellations. ![](../7.jpg)
 
 ### 3.4 VTX
 
@@ -154,6 +158,8 @@ To incentivize users to lock funds in for >24 hours by HTLC time-bound transacti
 
 #### 3.4.2 VTX Allocation
 
+![](../6.jpg)
+
 A digital assets ecosystem requires an array of certain fundamental human constituents who shepherd the project forward.[11] It is essential to compensate those individuals for their participation. Subject to adjustment, Volentix currently anticipates the following allocations:
 
 1. Contributors. 12%. An array of individuals, akin to founders, who contribute insights, time and talent, though often work without early compensation.
@@ -170,7 +176,7 @@ Phase 1. 10%.
 
 Phase 2. 10%.
 
-4. Decentralized treasury. 35%. Community members incentivized and rewarded for participation in progressive development of a decentralized autonomous organization (DAO). A decentralized treasury is anticipated to be administered by smart contracts and community consensus.
+4. Decentralized treasury. 35%. Community members incentivized and rewarded for participation in progressive development of a decentralized autonomous organization (DAO). A decentralized treasury is anticipated to be administered by smart contracts and community consensus. ![](../5.jpg)
 
 #### 3.4.3 VTX Distribution
 
