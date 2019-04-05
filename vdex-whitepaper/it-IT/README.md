@@ -162,7 +162,7 @@ Per incentivare gli utenti a bloccare i loro fondi per più di 24 ore per le tra
 
 Un'ecosistema di asset digitali richiede una matrice di componenti umani fondamentali che portino avanti il progetto. [11] È essenziale ricompensare questi individui per la loro partecipazione. Oggetto di aggiustamenti, attualmente Volentix prevede i seguenti stanziamenti:
 
-1. Contributors. 12%. Una serie di individui, simili ai fondatori, che contribuiscono con idee, tempo e talento, anche se spesso lavorano senza una compensazione anticipata.
+1. Collaboratori. 12%. Una serie di individui, simili ai fondatori, che contribuiscono con idee, tempo e talento, anche se spesso lavorano senza una compensazione anticipata.
 
 2. Sostenitori.
 
@@ -170,13 +170,13 @@ Fase 1. 5%. Early passive seed funders.
 
 Fase 2. 28%. Finanziatori tramite prevendita privata qualificata e possibile vendita pubblica.
 
-3. Facilitators. (Advisors, Developers, Promoters, Custodians). Note that requirements for assistance from the sub-categories in this category may differ significantly before and after the project receives substantial funding support, but certain individuals may serve during both phases.
+3. Facilitatori. (Consulenti, Sviluppatori, Promotori, Custodi). Note that requirements for assistance from the sub-categories in this category may differ significantly before and after the project receives substantial funding support, but certain individuals may serve during both phases.
 
-Phase 1. 10%.
+Fase 1. 10%.
 
-Phase 2. 10%.
+Fase 2. 10%.
 
-4. Decentralized treasury. 35%. Community members incentivized and rewarded for participation in progressive development of a decentralized autonomous organization (DAO). A decentralized treasury is anticipated to be administered by smart contracts and community consensus. ![](../5.jpg)
+4. Tesoreria decentralizzata. 35%. Community members incentivized and rewarded for participation in progressive development of a decentralized autonomous organization (DAO). A decentralized treasury is anticipated to be administered by smart contracts and community consensus. ![](../5.jpg)
 
 #### 3.4.3 VTX Distribution
 
