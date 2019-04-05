@@ -142,7 +142,7 @@ Il regolamento degli ordini contiene elementi noti delle operazioni tradizionali
 
 #### 3.4.1 VTX Issuance and Use
 
-VTX è l'aset digitale nativo da emettere e utilizzare sull'exchange decentralizzato di VDex. Attualmente abbiamo intenzione di utilizzare un contratto eosio.token del framework EOS.IO per emettere 2.1 miliardi di token VTX compatibili con EOS.IO con una fornitura di 1.3 miliardi. VTX will have a diverse array of uses, for example:
+VTX è l'aset digitale nativo da emettere e utilizzare sull'exchange decentralizzato di VDex. Attualmente abbiamo intenzione di utilizzare un contratto eosio.token del framework EOS.IO per emettere 2.1 miliardi di token VTX compatibili con EOS.IO con una fornitura di 1.3 miliardi. VTX avrà un'ampia gamma di utilizzi, ad esempio:
 
 To reward participants in the consensus process and in Venue campaigns.
 
