@@ -76,7 +76,7 @@ Ni EOS.IO, ipinfunni ti ohun-ini oni-nọmba ma n ṣẹda ẹka-ẹgbẹgbẹ k
 
 #### 3.0.5 Irọrun isọjadowo
 
-Ohun-ini oni-nọmba jẹ owo lọwọ ti o ba jẹ tita tabi rira ni awọn iwọn iṣowo laisi ipa ọlọjọ kukuru ti o han lori iye owo ọja lọwọlọwọ. Lati le de iru ipo bayii, nigbagbogbo eyikeyi awọn dukia ti o se ṣowo gbọdọ bori ipele awọn iwọn iṣowo ti o to lati ṣe atilẹyin fun iduroṣinṣin. Specifically, we anticipate adopting the following methodologies: Loopring protocol with the use of EOS.IO contracts acting as nodes.[5] Bancor algorithm used to bring stability to the digital asset.[6] Toggles between these protocols and HTLC (atomic swaps) according to Vespucci analyses on the VDex network.
+Ohun-ini oni-nọmba jẹ owo lọwọ ti o ba jẹ tita tabi rira ni awọn iwọn iṣowo laisi ipa ọlọjọ kukuru ti o han lori iye owo ọja lọwọlọwọ. Lati le de iru ipo bayii, nigbagbogbo eyikeyi awọn dukia ti o se ṣowo gbọdọ bori ipele awọn iwọn iṣowo ti o to lati ṣe atilẹyin fun iduroṣinṣin. Ni pato, a ni ireti lati samulo awọn ọna wọnyi: Ilana Loopring pẹlu lilo awọn adehun EOS.IO ti n ṣiṣẹ bi awọn oju ipade. [5] Alugọridimu Bancor to jẹ lilo lati mu iduroṣinṣin ba dukia oni-nọmba [6] N sayipada asaayan laarin awọn Ilana naa ati HTLC (awọn ipaṣipaarọ alaini alagata) ni ibamu si awọn iyanana Vespucci lori nẹtiwọki VDex.
 
 #### 3.0.6 Hashed Timelock Contracts (Atomic Swaps)
 
