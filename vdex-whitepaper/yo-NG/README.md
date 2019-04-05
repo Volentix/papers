@@ -92,19 +92,19 @@ Awọn oju ipade ni awọn opin ti ibi ipaṣipaarọ VDex. Awọn iṣẹ wọn
 
 1. Ṣiṣẹ bi awọn ọna abawọle si VDex nipasẹ apo owo Verto.
 
-2. Ṣe idapọ alaye iwe aṣẹ.
+2. Ṣe adapọ alaye iwe ibeere.
 
-3. Yanju iwe aṣẹ.
+3. Yanju iwe ibeere.
 
-4. Manage order cancellation.
+4. Ṣakoso ibeere to di fifagile.
 
-5. Assign timeouts for the RAFT protocol.
+5. Yan akoko idawọduro fun awọn ilana RAFT.
 
-6. Initiate contracts for orders that have been filled.
+6. Pilẹṣẹ awọn adehun fun awọn ibeere ti o ti jẹ fifọwọsi.
 
-Nodes earn a portion of the fee for each transaction. If a user has sufficient funds and possesses a good track record, his or her Verto wallet can act as a node.
+Awọn oju ipade gba ipin kan lara owo fun iṣowo kọọkan. Ti olumulo kan ba ni owo to peye ati ti o si ni akọsilẹ aseyọri daradara, apo owo Verto rẹ le ṣiṣẹ bi oju ipade kan.
 
-#### 3.1.2 Aggregators
+#### 3.1.2 Awọn alakopapọ
 
 The VDex aggregators are dedicated Volentix servers for simulator and security purposes. One of their functions is to pull logs and order book data from nodes into sparse distributed representations for hierarchical temporal memory as intrusion [7] analysis for detecting anomalies in the system. The aggregators will also be host to other components such as metachain ledgers and blockchain scrapers.
 
