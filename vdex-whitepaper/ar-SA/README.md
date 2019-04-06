@@ -166,15 +166,15 @@ VTX هو الأصل الرقمي الأصلي الذي سيتم إصداره و�
 
 2. الداعمون.
 
-المرحلة الاولى. 5%. Early passive seed funders.
+المرحلة الاولى. 5%. ممولي وحدات الإرسال الذين يقومون بذلك بتلقائية وفي وقت مبكر.
 
 المرحلة الثانية. 28%. الممولين عن طريق عمليات ما قبل البيع الخاصة والبيع العام المحتمل.
 
-3. Facilitators. (Advisors, Developers, Promoters, Custodians). Note that requirements for assistance from the sub-categories in this category may differ significantly before and after the project receives substantial funding support, but certain individuals may serve during both phases.
+3. الميسرون. (المستشارون، المطورون، المروجون وأمناء الحفظ). Note that requirements for assistance from the sub-categories in this category may differ significantly before and after the project receives substantial funding support, but certain individuals may serve during both phases.
 
-Phase 1. 10%.
+المرحلة الاولى. 10%.
 
-Phase 2. 10%.
+المرحلة الثانية. 10%.
 
 4. Decentralized treasury. 35%. Community members incentivized and rewarded for participation in progressive development of a decentralized autonomous organization (DAO). A decentralized treasury is anticipated to be administered by smart contracts and community consensus. ![](../5.jpg)
 
@@ -198,9 +198,9 @@ In light of market conditions at the time of this writing, Volentix is consideri
 
 #### 3.6.1 التواصل بين سلاسل الكتل
 
-تم تصميم EOS.IO لجعل براهين التواصل بين سلاسل الكتل (IBC) خفيفة الوزن. For chains with insufficient capacity for processing the IBC proofs and establishing validity, there is an option to default to trusted oracles/escrows. With an EOS.IO-based smart contract, a trusted multi-signature wallet holding the asset in escrow can be used to persuade the signing/publishing of the transaction based on IBC proofs from the originating chain.
+تم تصميم EOS.IO لجعل براهين التواصل بين سلاسل الكتل (IBC) خفيفة الوزن. بالنسبة للسلاسل ذات السعة غير الكافية لمعالجة براهين IBC وإثبات صلاحيتها، هناك خيار إفتراضي للأوراكل الموثوقة/أطراف مؤمّن. باستخدام عَقْد ذكي مرتكز على EOS.IO، يمكن استخدام محفظة موثوق بها، متعددة التوقيعات، الحافظة بالأصل في طرف مؤمّن لحث توقيع/نشر المعاملة بناءً على براهين IBC من السلسلة الأصلية.
 
-#### 3.6.2 Multi-Blockchain Information
+#### 3.6.2 معلومات سلاسل الكتل المتعددة
 
 Comprehensible multi-blockchain information can be obtained by aggregating blockchain timelines in parallel order (with variance in the frequency of change of state). This system can trigger multi-chain load balancers, transfer states, draw data outputs from smart contracts, and foreign blockchain transaction execution. Relative block distance, relative global state, and timestamped events are recorded on a global ledger to optimize and confirm transactions before they actually happen on the native chain. This approach could also be used to determine block production coincidence between chains to access greater liquidity.[12]
 
