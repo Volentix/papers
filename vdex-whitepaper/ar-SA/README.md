@@ -218,17 +218,17 @@ VTX هو الأصل الرقمي الأصلي الذي سيتم إصداره و�
 
 نشر عقد مخصص يسمح لعمليات السحب فقط للحسابات التي تم التحقق منها بواسطة KYC/AML.
 
-Deploy a custom contract that accepts only deposits of known assets from accounts verified by KYC/AML.
+نشر عقد مخصص يقبل فقط إيداعات الأصول المعروفة من الحسابات التي تم التحقق منها بواسطة KYC/AML.
 
-Deploy a custom contract that requires a mandatory 24-hour waiting period for all withdrawals.
+نشر عقد مخصص يتطلب فترة انتظار إلزامية لمدة 24 ساعة لجميع عمليات السحب.
 
-Utilize contracts with hardware wallets for all signing, including for automated withdrawals.
+استخدام العُقود مع محافظ الأجهزة لجميع التوقيعات بما في ذلك عمليات السحب الآلي.
 
-Upgrade broken contracts.
+ترقية العُقود المعطلة.
 
-Include ability to pause the functionality of a contract.
+إدراج القدرة على إيقاف وظيفة العَقد.
 
-Include ability to delay an action of a contract.
+إدراج القدرة على تأخير إجراء العَقد.
 
 #### 3.8.2 Auditing rogue processes
 
