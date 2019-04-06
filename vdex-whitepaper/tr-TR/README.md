@@ -298,7 +298,7 @@ All of us at Volentix are dedicating our work and insights to developing a progr
 
 ## 5. ZAMAN ÇİZELGESİ
 
-Please monitor our website and social media for updates and other important announcements. Thank you very much for your attention and interest.
+Güncellemeler ve diğer önemli duyurular için lütfen web sitemizi ve sosyal medyayı izleyin. Thank you very much for your attention and interest.
 
 ## FERAGATNAME
 
