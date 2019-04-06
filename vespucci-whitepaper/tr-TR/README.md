@@ -433,7 +433,7 @@ Bu metin NH’nin orijinal vizyon belgelerine ve AA’nın güncellemelerine day
 
 [3] A. Severyn ve ark. Twitter Sentiment Analysis with Deep Convolutional Neural Networks, International ACM SIGIR Conference on Research and Development in Information Retrieval:959-962 (2015)
 
-[4] C.J. & Gilbert et al. VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text. Uluslararası Weblogs ve Sosyal Medya Konferansı (ICWSM-14) 8 (2014)
+[4] C.J. & Gilbert ve diğerleri. VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text. Uluslararası Weblogs ve Sosyal Medya Konferansı (ICWSM-14) 8 (2014)
 
 [5] Kuş ve ark. Python ile Doğal Dil İşleme, O’Reilly Media Inc. (2009)
 
