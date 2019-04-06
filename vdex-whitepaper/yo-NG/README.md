@@ -196,9 +196,9 @@ Awọn ifiranṣẹ ọlọpọ ati awọn akọọlẹ ọlọpọ le jẹ pinp
 
 ### 3.6 IFỌRỌWERỌ BLOCKCHAIN
 
-#### 3.6.1 Inter-Blockchain Communication
+#### 3.6.1 Ibaraẹnisọrọ Laarin-Blockchain
 
-EOS.IO is designed to make Inter-Blockchain Communication (IBC) proofs lightweight. For chains with insufficient capacity for processing the IBC proofs and establishing validity, there is an option to default to trusted oracles/escrows. With an EOS.IO-based smart contract, a trusted multi-signature wallet holding the asset in escrow can be used to persuade the signing/publishing of the transaction based on IBC proofs from the originating chain.
+EOS.IO jẹ ṣiṣe lati jẹ ki awọn ẹri Ibaraẹnisọrọ Laarin-Blockchain (IBC) fuyẹgẹgẹ. For chains with insufficient capacity for processing the IBC proofs and establishing validity, there is an option to default to trusted oracles/escrows. With an EOS.IO-based smart contract, a trusted multi-signature wallet holding the asset in escrow can be used to persuade the signing/publishing of the transaction based on IBC proofs from the originating chain.
 
 #### 3.6.2 Multi-Blockchain Information
 
