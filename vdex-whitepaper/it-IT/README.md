@@ -190,7 +190,7 @@ La distribuzione di un contratto ha un costo ma l'utilizzo è gratuito.
 
 Developers stake EOS.IO-compliant tokens to deploy a smart contract. After the contract is deployed, the locked tokens are returned.
 
-Decentralized applications allocate memory, CPU, bandwidth, and other resources to their contracts.
+Le applicazioni decentralizzate stanziano memoria, CPU, larghezza di banda, e altre risorse per i loro contratti.
 
 Multiple messages and multiple accounts can be assigned to the same thread.
 
