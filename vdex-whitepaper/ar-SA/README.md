@@ -170,17 +170,17 @@ VTX هو الأصل الرقمي الأصلي الذي سيتم إصداره و�
 
 المرحلة الثانية. 28%. الممولين عن طريق عمليات ما قبل البيع الخاصة والبيع العام المحتمل.
 
-3. الميسرون. (المستشارون، المطورون، المروجون وأمناء الحفظ). Note that requirements for assistance from the sub-categories in this category may differ significantly before and after the project receives substantial funding support, but certain individuals may serve during both phases.
+3. الميسرون. (المستشارون، المطورون، المروجون وأمناء الحفظ). لاحظ أن متطلبات المساعدة من الفئات الفرعية في هذه الفئة قد تختلف اختلافًا كبيرًا قبل وبعد تلقي المشروع دعما تمويليا كبيرا، ولكن قد يشتغل بعض الأفراد خلال المرحلتين.
 
 المرحلة الاولى. 10%.
 
 المرحلة الثانية. 10%.
 
-4. Decentralized treasury. 35%. Community members incentivized and rewarded for participation in progressive development of a decentralized autonomous organization (DAO). A decentralized treasury is anticipated to be administered by smart contracts and community consensus. ![](../5.jpg)
+4. الخزينة اللامركزية. 35%. تحفيز أعضاء المجتمع ومكافأتهم على المشاركة في التطوير التدريجي لمنظمة مستقلة لا مركزية (DAO). من المتوقع أن تتم إدارة الخزينة اللامركزية من خلال عقود ذكية وإجماع المجتمع. ![](../5.jpg)
 
-#### 3.4.3 VTX Distribution
+#### 3.4.3 توزيع VTX
 
-In light of market conditions at the time of this writing, Volentix is considering timing, means, and terms and conditions of VTX distribution as a function of private pre-sales and possible public sale. Please monitor our website for updates.
+في ضوء ظروف السوق في وقت كتابة هذا التقرير، تفكر Volentix في توقيت، وسائل، أحكام وشروط توزيع VTX باعتبارها عملية ما قبل البيع الخاص والبيع العام المحتمل. يرجى مراقبة موقعنا على الانترنت للحصول على التحديثات.
 
 ### 3.5 نشر منصة EOS.IO
 
@@ -202,7 +202,7 @@ In light of market conditions at the time of this writing, Volentix is consideri
 
 #### 3.6.2 معلومات سلاسل الكتل المتعددة
 
-Comprehensible multi-blockchain information can be obtained by aggregating blockchain timelines in parallel order (with variance in the frequency of change of state). This system can trigger multi-chain load balancers, transfer states, draw data outputs from smart contracts, and foreign blockchain transaction execution. Relative block distance, relative global state, and timestamped events are recorded on a global ledger to optimize and confirm transactions before they actually happen on the native chain. This approach could also be used to determine block production coincidence between chains to access greater liquidity.[12]
+يمكن الحصول على معلومات مفهومة خاصة بسلاسل الكتل المتعددة عن طريق تجميع الجداول الزمنية التابعة لسلسلة الكتل في ترتيب مواز (مع التباين في تواتر تغيير الحالة). يمكن لهذا النظام تشغيل موازنات تحميل متعددة السلاسل، تغير الحالات، سحب مخرجات البيانات من العقود الذكية، وتنفيذ معاملات سلسلة الكتل الأجنبية. يتم تسجيل مسافة الكتلة النسبية والأحداث ذات الطابع الزمني والحالة العالمية النسبية في دفتر حسابات عام لتحسين وتأكيد المعاملات قبل حدوثها على السلسلة الأصلية. يمكن أيضًا استخدام هذا المنهج لتحديد تزامن إنتاج الكتل بين السلاسل للوصول إلى سيولة أكبر.[12]
 
 ### 3.7 SECURITY CONCERNS
 
