@@ -256,7 +256,7 @@ Bu mekanizma, başvurulan bloğu içermeyen çatallarda bir işlemin tekrarlanma
 
 Bir Finney ön mayınlar saldırısı bir işlemi bir bloğa dönüştürür ve bloğu bu işlemi geçersiz kılmak için serbest bırakmadan önce aynı tokenleri harcar.
 
-A 51% attack can be mounted by anyone owning >50% of the total computing power of a network. Çoğunluk sahiplik pozisyonu herhangi bir işlemin tersine çevrilmesine izin verir ve bloklarda görünen işlemlerin seçiminin tamamen kontrol edilmesini sağlar. EOS.IO, Loopring ve RAFT bu problemi önlüyor gibi görünüyor. Eğer bir blok üreticisi makul olmayan miktarda bir çalışma süresi alırsa veya yeterince karlı değilse, işlem kara listeye alınır.[5]
+Bir ağın toplam bilgi işlem gücünün >%50'sine sahip olan herhangi biri tarafından %51 saldırısı gerçekleştirilebilir. Çoğunluk sahiplik pozisyonu herhangi bir işlemin tersine çevrilmesine izin verir ve bloklarda görünen işlemlerin seçiminin tamamen kontrol edilmesini sağlar. EOS.IO, Loopring ve RAFT bu problemi önlüyor gibi görünüyor. Eğer bir blok üreticisi makul olmayan miktarda bir çalışma süresi alırsa veya yeterince karlı değilse, işlem kara listeye alınır.[5]
 
 #### 3.9.2 Ön koşu
 
@@ -264,11 +264,11 @@ Bir ön koşucu, bekleyen bir emir defteri ödeme işleminden bir veya daha fazl
 
 #### 3.9.3 Sahte kimlikler
 
-Kötü niyetli kullanıcılar Loopring düğümlerine saldırmak için çok sayıda küçük sipariş göndermek için sahte kimlikler oluştururlar. However, most of these orders will be rejected for not yielding satisfying profit when matched.
+Kötü niyetli kullanıcılar Loopring düğümlerine saldırmak için çok sayıda küçük sipariş göndermek için sahte kimlikler oluştururlar. Bununla birlikte, bu siparişlerin çoğu eşleştiğinde tatmin edici kar elde etmediği için reddedilecektir.
 
 #### 3.9.4 Yetersiz Bakiye
 
-Malicious users sign and spread orders the value of which is non-zero but the address of which has a zero balance. Nodes monitor actual balances, update these order states accordingly, and then discard them.
+Kötü niyetli kullanıcılar, değeri sıfır olmayan ancak adresi sıfır bakiyeli olan siparişleri imzalar ve yayarlar. Düğümler gerçek dengeleri izlerler, bu sıralama durumlarını buna göre güncellerler ve sonra onları atarlar.
 
 #### 3.9.5 Zamanlama saldırısı
 
