@@ -202,7 +202,7 @@ EOS.IO jẹ ṣiṣe lati jẹ ki awọn ẹri Ibaraẹnisọrọ Laarin-Blockch
 
 #### 3.6.2 Alaye Ọpọ-Blockchain
 
-Comprehensible multi-blockchain information can be obtained by aggregating blockchain timelines in parallel order (with variance in the frequency of change of state). This system can trigger multi-chain load balancers, transfer states, draw data outputs from smart contracts, and foreign blockchain transaction execution. Relative block distance, relative global state, and timestamped events are recorded on a global ledger to optimize and confirm transactions before they actually happen on the native chain. This approach could also be used to determine block production coincidence between chains to access greater liquidity.[12]
+Alaye ni yeke ti ọlọpọ-blockchain le ṣee gba nipasẹ ṣiṣe akopọ awọn isẹlẹ pataki ni sisẹntẹle (pẹlu iyatọ ninu bi iyipada ipo ṣe n waye si). This system can trigger multi-chain load balancers, transfer states, draw data outputs from smart contracts, and foreign blockchain transaction execution. Relative block distance, relative global state, and timestamped events are recorded on a global ledger to optimize and confirm transactions before they actually happen on the native chain. This approach could also be used to determine block production coincidence between chains to access greater liquidity.[12]
 
 ### 3.7 SECURITY CONCERNS
 
