@@ -204,9 +204,9 @@ VTX هو الأصل الرقمي الأصلي الذي سيتم إصداره و�
 
 يمكن الحصول على معلومات مفهومة خاصة بسلاسل الكتل المتعددة عن طريق تجميع الجداول الزمنية التابعة لسلسلة الكتل في ترتيب مواز (مع التباين في تواتر تغيير الحالة). يمكن لهذا النظام تشغيل موازنات تحميل متعددة السلاسل، تغير الحالات، سحب اخراجات البيانات من العقود الذكية، وتنفيذ معاملات سلسلة الكتل الأجنبية. يتم تسجيل مسافة الكتلة النسبية والأحداث ذات الطابع الزمني والحالة العالمية النسبية في دفتر حسابات عام لتحسين وتأكيد المعاملات قبل حدوثها على السلسلة الأصلية. يمكن أيضًا استخدام هذا المنهج لتحديد تزامن إنتاج الكتل بين السلاسل للوصول إلى سيولة أكبر.[12]
 
-### 3.7 SECURITY CONCERNS
+### 3.7 الشواغل الأمنية
 
-To shake out certain assumptions, we intend to commence security testing following the prototyping phase. Security concerns are of paramount importance to users and must be addressed. Threats include, for example, an attacker executing malicious code within a transaction or manipulating the order of transactions or the timestamps of blocks. In the following sections, we address certain security measures and specific security threats and remedies.
+للتخلص من بعض الافتراضات، نعتزم بدء اختبار الأمان بعد مرحلة النماذج الأولية. الشواغل الأمنية ذات أهمية قصوى للمستخدمين ويجب معالجتها. Threats include, for example, an attacker executing malicious code within a transaction or manipulating the order of transactions or the timestamps of blocks. In the following sections, we address certain security measures and specific security threats and remedies.
 
 ### 3.8 SECURITY MEASURES
 
