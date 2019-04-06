@@ -302,7 +302,7 @@ Güncellemeler ve diğer önemli duyurular için lütfen web sitemizi ve sosyal 
 
 ## FERAGATNAME
 
-Bu tanıtım belgesi sadece bilgi amaçlı hazırlanmış ve sunulmuştur. Sunulan bilgiler kapsamlı olma iddiasında değildir. The information is subject to change in whole or in part at any time without notice. Volentix Labs reserves the right to amend, replace, remove, or delete any and all information at the sole and exclusive discretion of Volentix. Volentix Labs makes no representation or warranty, expressed or implied, concerning the accuracy or completeness of the information and expressly disclaims any and all liability of any and all kinds whatsoever for the information contained or not contained. Volentix Labs requests each and every reader to read the information fully and carefully, and to undertake independent investigation and analysis of the information, and to seek and obtain professional advice for purposes of evaluating the information. To the knowledge of Volentix Labs, no regulatory agency, government, or other third-party enforcement entity has reviewed, evaluated, or approved any part or all of the information. This information is not an offer or solicitation of any kind whatsoever and does not form the basis for any contract or commitment of any kind whatsoever. Any statement considered to be forward-looking is purely a matter of opinion, and no viewer should rely on any such statement or on any part or all of the information in any way whatsoever.
+Bu tanıtım belgesi sadece bilgi amaçlı hazırlanmış ve sunulmuştur. Sunulan bilgiler kapsamlı olma iddiasında değildir. The information is subject to change in whole or in part at any time without notice. Volentix Labs reserves the right to amend, replace, remove, or delete any and all information at the sole and exclusive discretion of Volentix. Volentix Labs makes no representation or warranty, expressed or implied, concerning the accuracy or completeness of the information and expressly disclaims any and all liability of any and all kinds whatsoever for the information contained or not contained. Volentix Labs requests each and every reader to read the information fully and carefully, and to undertake independent investigation and analysis of the information, and to seek and obtain professional advice for purposes of evaluating the information. To the knowledge of Volentix Labs, no regulatory agency, government, or other third-party enforcement entity has reviewed, evaluated, or approved any part or all of the information. This information is not an offer or solicitation of any kind whatsoever and does not form the basis for any contract or commitment of any kind whatsoever. İleriye dönük olduğu düşünülen herhangi bir ifade tamamen bir fikir meselesidir ve hiçbir izleyici, herhangi bir şekilde bu tür bir ifadeye veya bilgilerin hiçbir bölümüne veya tümüne güvenmemelidir.
 
 ## DİPNOTLARI
 
@@ -310,7 +310,7 @@ Bu tanıtım belgesi sadece bilgi amaçlı hazırlanmış ve sunulmuştur. Sunul
 
 2. EOS.IO, Eos.io teknik tanıtım belgesi v2, (2018).
 
-3. T. Earl, Soa principles of service design, (2016).
+3. T. Earl, Soa hizmet tasarım ilkeleri, (2016).
 
 4. blockchainhub.net, blockchain-oracles, (2017).
 
@@ -332,23 +332,23 @@ Bu tanıtım belgesi sadece bilgi amaçlı hazırlanmış ve sunulmuştur. Sunul
 
 ## EK REFERANSLAR
 
-Aelf, A multi-chain parallel computing blockchain framework, (2018).
+Aelf, Bir çoklu zincir paralel hesaplama blok zinciri çatısı, (2018).
 
-ARK, A platform for consumer adoption, (2018).
+ARK, Tüketici kabulü için bir platform, (2018).
 
-V. Buterin, Ethereum: a next generation smart contract and decentralized application platform, (2013).
+V. Buterin, Ethereum: yeni nesil akıllı sözleşme ve merkezi olmayan bir uygulama platformu, (2013).
 
-S. Cormier, A machine based societal model for curbing citizen cynicism, (2017).
+S. Cormier, Vatandaş kinizmini engellemek için makine temelli bir toplumsal model, (2017).
 
-M. Duncan, Quale, Halo platform, (2018).
+M. Duncan, Quale, Halo platformu, (2018).
 
-S. D. K. M. T. S. H. Garcia-Molina, The eigentrust algorithm for reputation management in p2p networks, (2018).
+S. D. K. M. T. S. H. Garcia-Molina, P2p ağlarında itibar yönetimi için eigentrust algoritması, (2018).
 
-M. R. Garrick Hileman, Global cryptocurrency benchmarking study, (2017).
+M. R. Garrick Hileman, Küresel kripto para birimi kıyaslama çalışması, (2017).
 
-Komodo, An advanced blockchain technology, focused on freedom, (2018).
+Komodo, Özgürlük odaklı gelişmiş bir blok zinciri teknolojisi, (2018).
 
-Q. Liquid, Providing liquidity to the non-liquid crypto economy, (2018).
+Q. Likit, Likit olmayan kripto ekonomisine likidite sağlanması, (2018).
 
 S. R. M.P.M-S, Aniket Kate Matteo Maffei, Concurrency and privacy with payment-channel networks, (2017).
 
