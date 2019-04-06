@@ -176,9 +176,9 @@ Fase 1. 10%.
 
 Fase 2. 10%.
 
-4. Tesoreria decentralizzata. 35%. Community members incentivized and rewarded for participation in progressive development of a decentralized autonomous organization (DAO). A decentralized treasury is anticipated to be administered by smart contracts and community consensus. ![](../5.jpg)
+4. Tesoreria decentralizzata. 35%. Membri della comunità incentivati e ricompensati per la partecipazione nel progressivo sviluppo di un organizzazione autonoma decentralizzata (DAO). È previsto che una tesoreria decentralizzata sia amministrata da smart contract e consenso comunitario. ![](../5.jpg)
 
-#### 3.4.3 VTX Distribution
+#### 3.4.3 Distribuzione VTX
 
 In light of market conditions at the time of this writing, Volentix is considering timing, means, and terms and conditions of VTX distribution as a function of private pre-sales and possible public sale. Please monitor our website for updates.
 
