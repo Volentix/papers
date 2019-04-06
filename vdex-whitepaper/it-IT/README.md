@@ -170,7 +170,7 @@ Fase 1. 5%. Early passive seed funders.
 
 Fase 2. 28%. Finanziatori tramite prevendita privata qualificata e possibile vendita pubblica.
 
-3. Facilitatori. (Consulenti, Sviluppatori, Promotori, Custodi). Note that requirements for assistance from the sub-categories in this category may differ significantly before and after the project receives substantial funding support, but certain individuals may serve during both phases.
+3. Facilitatori. (Consulenti, Sviluppatori, Promotori, Custodi). Si noti che i requisiti per l'assistenza da parte delle sottocategorie di questa categoria possono differire significativamente prima e dopo che il progetto abbia ricevuto il sostegno finanziario sostanziale, ma alcuni individui possono prestare servizio durante entrambe le fasi.
 
 Fase 1. 10%.
 
