@@ -230,11 +230,11 @@ VTX هو الأصل الرقمي الأصلي الذي سيتم إصداره و�
 
 إدراج القدرة على تأخير إجراء العَقد.
 
-#### 3.8.2 Auditing rogue processes
+#### 3.8.2 تدقيق عمليات الأمن الاحتيالية (rogue)
 
-The advanced anomaly detection algorithms provided by Numenta’s Nupic library will require less voluminous training data sets than conventional AI systems.
+خوارزميات الكشف عن الشذوذ المتقدمة التي تقدمها مكتبة Numenta في Nupic ستتطلب مجموعات بيانات تدريب أقل كثافة من أنظمة الذكاء الاصطناعي التقليدية.
 
-#### 3.8.3 Randomization
+#### 3.8.3 الإختيار العشوائي
 
 True randomisation of address space layout, route or utilizing varying lengths of timeouts as in the RAFT protocol can complexify systems enough to enhance resilience and further secure systems against a side-channel attack or front running.
 
@@ -248,7 +248,7 @@ This mechanism prevents the replay of a transaction on forks that do not include
 
 ### 3.9 Security threats and remedies
 
-#### 3.9.1 Double spend
+#### 3.9.1 ضعف الإنفاق
 
 A double spend is an attack in which a particular cryptocurrency stake is spent in more than one transaction.
 
