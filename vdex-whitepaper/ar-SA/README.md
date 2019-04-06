@@ -206,17 +206,17 @@ VTX هو الأصل الرقمي الأصلي الذي سيتم إصداره و�
 
 ### 3.7 الشواغل الأمنية
 
-للتخلص من بعض الافتراضات، نعتزم بدء اختبار الأمان بعد مرحلة النماذج الأولية. الشواغل الأمنية ذات أهمية قصوى للمستخدمين ويجب معالجتها. Threats include, for example, an attacker executing malicious code within a transaction or manipulating the order of transactions or the timestamps of blocks. In the following sections, we address certain security measures and specific security threats and remedies.
+للتخلص من بعض الافتراضات، نعتزم بدء اختبار الأمان بعد مرحلة النماذج الأولية. الشواغل الأمنية ذات أهمية قصوى للمستخدمين ويجب معالجتها. على سبيل المثال تشمل التهديدات مهاجمًا ينفذ شفرة ضارة في معاملة ما أو يتلاعب بترتيب المعاملات أو الطوابع الزمنية للكتل. في الأقسام التالية، نعالج بعض التدابير الأمنية، التهديدات الأمنية المحددة والإصلاحات.
 
-### 3.8 SECURITY MEASURES
+### 3.8 التدابير الأمنية
 
-#### 3.8.1 Contract security
+#### 3.8.1 أمن العقد
 
-Retain vast majority of funds in a time-delayed, multi-signature-controlled account.
+الإحتفاظ بمعظم الأموال في حساب مؤخر زمنيا ومتعدد التوقيعات.
 
-Use multi-signatures on a hot wallet with several independent processes/servers double-checking all withdrawals, with the concomitant benefit of creating a trusted list of accounts.
+إستخدام التواقيع المتعددة على محفظة ساخنة مع العديد من العمليات/ السيرفرات التي تتحقق مرتين من جميع عمليات السحب مع ميزة إنشاء قائمة حسابات موثوقة.
 
-Deploy a custom contract that allows withdrawals only to accounts verified by KYC/AML.
+نشر عقد مخصص يسمح لعمليات السحب فقط للحسابات التي تم التحقق منها بواسطة KYC/AML.
 
 Deploy a custom contract that accepts only deposits of known assets from accounts verified by KYC/AML.
 
