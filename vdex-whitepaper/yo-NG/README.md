@@ -190,11 +190,11 @@ Lilo adehun ni idiyele sugbon ominira wa lati lo.
 
 Awọn olugbedide n lo aami ti o ni ibamu pẹlu EOS.IO lati ṣamulo adehun ajafafa kan. Lẹhin ti adehun naa ti jẹ lilo, awọn aami ti o wa ni atipa jẹ didapada.
 
-Decentralized applications allocate memory, CPU, bandwidth, and other resources to their contracts.
+Awọn ohun elo alaisilojukan n pin iranti, CPU, itankanlẹ, ati awọn ohun elo miiran si awọn adehun wọn.
 
-Multiple messages and multiple accounts can be assigned to the same thread.
+Awọn ifiranṣẹ ọlọpọ ati awọn akọọlẹ ọlọpọ le jẹ pinpin si okun kanna.
 
-### 3.6 BLOCKCHAIN INTERACTION
+### 3.6 IFỌRỌWERỌ BLOCKCHAIN
 
 #### 3.6.1 Inter-Blockchain Communication
 
