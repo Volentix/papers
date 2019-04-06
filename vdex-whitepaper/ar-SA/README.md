@@ -140,9 +140,9 @@ Volentix تقدم VDex المصمم كموزع ومنصة تبادل لا مرك
 
 ### 3.4 VTX
 
-#### 3.4.1 VTX Issuance and Use
+#### 3.4.1 إصدار VTX والاستخدام
 
-VTX is the native digital asset to be issued and used on the VDex decentralized exchange. We currently plan to use an eosio.token contract from the EOS.IO framework to issue 2.1 billion EOS.IO-compliant VTX tokens with a supply of 1.3 billion. VTX will have a diverse array of uses, for example:
+VTX هو الأصل الرقمي الأصلي الذي سيتم إصداره واستخدامه في منصة VDex اللامركزية للتبادل. We currently plan to use an eosio.token contract from the EOS.IO framework to issue 2.1 billion EOS.IO-compliant VTX tokens with a supply of 1.3 billion. VTX will have a diverse array of uses, for example:
 
 To reward participants in the consensus process and in Venue campaigns.
 
