@@ -276,7 +276,7 @@ Zamanlama saldırıları üçüncü taraf bir gözlemcinin, şifreleme algoritma
 
 ### 3.10 KULLANICI DENEYİMİ
 
-Kullanıcı deneyimine odaklanmamız önceliklidir. We wish to make VTX and the four pillars of Volentix -- Venue, Verto, Vespucci, and VDex -- easily accessible to and useable by all those who wish to join our community. We expect the experience continually to be educational as well, with templates and simulators to support a superior UX/UI relationship.
+Kullanıcı deneyimine odaklanmamız önceliklidir. VTX ve Volentix'in dört ayağını -- Venue, Verto, Vespucci ve VDex -- topluluğumuza katılmak isteyen herkes tarafından kolayca erişilebilir ve kullanılabilir hale getirmek istiyoruz. Üstün bir UX/UI ilişkisini destekleyecek şablon ve simülatörler ile deneyimin sürekli olarak eğitici olmasını da bekliyoruz.
 
 ### 3.11 DOĞRU MERKEZSİZLEŞME
 
