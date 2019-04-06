@@ -244,7 +244,7 @@ Parsec, fikir birliğinin tespiti için kayıtlara dayanmaz. Diğer yandan, RAFT
 
 #### 3.8.5 Alım Kanıtı olarak İşlem (TaPoS)
 
-Bu mekanizma, başvurulan bloğu içermeyen çatallarda bir işlemin tekrarlanmasını engeller. Signals the network that a particular user and stake are on a specific fork.
+Bu mekanizma, başvurulan bloğu içermeyen çatallarda bir işlemin tekrarlanmasını engeller. Belirli bir kullanıcının ve riskin spesifik bir çatal üzerinde olduğu ağı işaret eder.
 
 ### 3.9 Güvenlik tehditleri ve çözüm yolları
 
