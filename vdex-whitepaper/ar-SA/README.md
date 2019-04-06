@@ -144,7 +144,7 @@ Volentix تقدم VDex المصمم كموزع ومنصة تبادل لا مرك
 
 VTX هو الأصل الرقمي الأصلي الذي سيتم إصداره واستخدامه في منصة VDex اللامركزية للتبادل. نخطط حاليًا لاستخدام عَقد eosio.token من هيكل EOS.IO لإصدار 2.1 مليار من عملات VTX المتوافقة مع EOS.IO بتزويد 1.3 مليار. سيكون لدى VTX مجموعة متنوعة من الاستخدامات، على سبيل المثال:
 
-To reward participants in the consensus process and in Venue campaigns.
+لمكافأة المشاركين في عملية الإجماع وحملات Venue.
 
 To pay and redistribute transaction fees on the VDex exchange.
 
