@@ -198,9 +198,9 @@ Awọn ifiranṣẹ ọlọpọ ati awọn akọọlẹ ọlọpọ le jẹ pinp
 
 #### 3.6.1 Ibaraẹnisọrọ Laarin-Blockchain
 
-EOS.IO jẹ ṣiṣe lati jẹ ki awọn ẹri Ibaraẹnisọrọ Laarin-Blockchain (IBC) fuyẹgẹgẹ. Fun awọn asopọ ti ko ni ikapa ti o to fun isaayan awọn ẹri IBC ati ṣiṣe ifẹsẹmulẹ iwulo, aaye wa lati kuna si awọn oracle/alagata ti a gbẹkẹle. With an EOS.IO-based smart contract, a trusted multi-signature wallet holding the asset in escrow can be used to persuade the signing/publishing of the transaction based on IBC proofs from the originating chain.
+EOS.IO jẹ ṣiṣe lati jẹ ki awọn ẹri Ibaraẹnisọrọ Laarin-Blockchain (IBC) fuyẹgẹgẹ. Fun awọn asopọ ti ko ni ikapa ti o to fun isaayan awọn ẹri IBC ati ṣiṣe ifẹsẹmulẹ iwulo, aaye wa lati kuna si awọn oracle/alagata ti a jẹri. Pẹlu adehun ajafafa ti o da lori EOS.IO, apo owo ọlọpọ-ibuwọlu ti a jẹri ti o n ṣetọju ohun-ini ni ọdọ alagata le ṣee lo lati ṣe iyilọkanpada si bibuwọlu/titẹjade ti iṣowo naa dida lori awọn ẹri IBC lati orisun asopọ.
 
-#### 3.6.2 Multi-Blockchain Information
+#### 3.6.2 Alaye Ọpọ-Blockchain
 
 Comprehensible multi-blockchain information can be obtained by aggregating blockchain timelines in parallel order (with variance in the frequency of change of state). This system can trigger multi-chain load balancers, transfer states, draw data outputs from smart contracts, and foreign blockchain transaction execution. Relative block distance, relative global state, and timestamped events are recorded on a global ledger to optimize and confirm transactions before they actually happen on the native chain. This approach could also be used to determine block production coincidence between chains to access greater liquidity.[12]
 
