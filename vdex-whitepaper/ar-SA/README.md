@@ -146,23 +146,23 @@ VTX هو الأصل الرقمي الأصلي الذي سيتم إصداره و�
 
 لمكافأة المشاركين في عملية الإجماع وحملات Venue.
 
-To pay and redistribute transaction fees on the VDex exchange.
+لدفع وإعادة توزيع رسوم المعاملات على مُبادل VDex.
 
-To submit and vote on proposals to the Volentix ecosystem, using the voting rights allocated to VTX holders.
+لتقديم المقترحات والتصويت على بيئة Volentix، باستخدام حقوق التصويت المخصصة لحاملي VTX.
 
-To stake support for reviewing proposals and implementing projects.
+لتقديم الدعم لمراجعة المقترحات وتطبيق المشاريع.
 
-To incentivize users to participate in order book settlement by becoming nodes via their Verto wallets.
+لتحفيز المستخدمين على المشاركة في تسوية دفتر الطلبات عن طريق التحول إلى عُقد عبر محافظ Verto الخاصة بهم.
 
-To incentivize users to lock funds in for >24 hours by HTLC time-bound transactions.
+لتحفيز المستخدمين على تأمين الأموال لمدة تزيد عن 24 ساعة عن طريق معاملات HTLC المحددة زمنياً.
 
-#### 3.4.2 VTX Allocation
+#### 3.4.2 تخصيص VTX
 
 ![](../6.jpg)
 
-A digital assets ecosystem requires an array of certain fundamental human constituents who shepherd the project forward.[11] It is essential to compensate those individuals for their participation. Subject to adjustment, Volentix currently anticipates the following allocations:
+تتطلب بيئية الأصول الرقمية مجموعة من العناصر البشرية الأساسية التي ترشد المشروع إلى الأمام.[11] من الضروري تعويض مشاركات هؤلاء الأفراد. مع مراعاة التعديل، تتوقع Volentix حاليًا التخصيصات التالية:
 
-1. Contributors. 12%. An array of individuals, akin to founders, who contribute insights, time and talent, though often work without early compensation.
+1. المساهمون. 12%. An array of individuals, akin to founders, who contribute insights, time and talent, though often work without early compensation.
 
 2. Supporters.
 
@@ -188,13 +188,13 @@ In light of market conditions at the time of this writing, Volentix is consideri
 
 نشر عَقْد له تكلفة ولكنه مجاني للاستعمال.
 
-Developers stake EOS.IO-compliant tokens to deploy a smart contract. After the contract is deployed, the locked tokens are returned.
+يجمد المطورين العملات الرمزية المتوافقة مع EOS.IO لنشر عَقْد ذكي. بعد أن يتم نشر العَقْد، يتم إرجاع العملات الرمزية المجمدة.
 
-Decentralized applications allocate memory, CPU, bandwidth, and other resources to their contracts.
+تخصص التطبيقات اللامركزية الذاكرة ووحدة المعالجة المركزية وعرض النطاق الترددي والموارد الأخرى لعقودها.
 
-Multiple messages and multiple accounts can be assigned to the same thread.
+يمكن تعيين رسائل وحسابات متعددة لنفس العملية الجزئية.
 
-### 3.6 BLOCKCHAIN INTERACTION
+### 3.6 تفاعل سلسلة الكتل
 
 #### 3.6.1 Inter-Blockchain Communication
 
