@@ -272,11 +272,11 @@ Kötü niyetli kullanıcılar, değeri sıfır olmayan ancak adresi sıfır baki
 
 #### 3.9.5 Zamanlama saldırısı
 
-Timing attacks are a class of cryptographic attacks through which a third-party observer can deduce the content of encrypted data by recording and analyzing the time taken to execute cryptographic algorithms. The RAFT algorithm prevents timing attacks by using randomness of timeouts.
+Zamanlama saldırıları üçüncü taraf bir gözlemcinin, şifreleme algoritmalarını yürütmek için harcanan zamanı kaydederek ve analiz ederek şifreli veri içeriğini toplayacağı bir şifreleme saldırısı sınıfıdır. RAFT algoritması, zamanlama saldırılarını, zaman aşımlarının rastgeleliğini kullanarak önler.
 
 ### 3.10 KULLANICI DENEYİMİ
 
-Our focus on user experience is primary. We wish to make VTX and the four pillars of Volentix -- Venue, Verto, Vespucci, and VDex -- easily accessible to and useable by all those who wish to join our community. We expect the experience continually to be educational as well, with templates and simulators to support a superior UX/UI relationship.
+Kullanıcı deneyimine odaklanmamız önceliklidir. We wish to make VTX and the four pillars of Volentix -- Venue, Verto, Vespucci, and VDex -- easily accessible to and useable by all those who wish to join our community. We expect the experience continually to be educational as well, with templates and simulators to support a superior UX/UI relationship.
 
 ### 3.11 DOĞRU MERKEZSİZLEŞME
 
