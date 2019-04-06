@@ -206,11 +206,11 @@ Alaye ni yeke ti ọlọpọ-blockchain le ṣee gba nipasẹ ṣiṣe akopọ a
 
 ### 3.7 AWỌN IFIYESI NIPA AABO
 
-Lati gbọn awọn abamoda kan danu, a gbero lati bẹrẹ idanwo aabo ni atẹle si ipele apẹrẹ awoṣe. Security concerns are of paramount importance to users and must be addressed. Threats include, for example, an attacker executing malicious code within a transaction or manipulating the order of transactions or the timestamps of blocks. In the following sections, we address certain security measures and specific security threats and remedies.
+Lati gbọn awọn abamoda kan danu, a gbero lati bẹrẹ idanwo aabo ni atẹle si ipele apẹrẹ awoṣe. Awọn ifiyesi nipa aabo jẹ eyi ti iwulo rẹ se pataki julọ si awọn olumulo ti o si gbọdọ jẹ mimojuto. Awọn ihalẹ pẹlu, fun apẹẹrẹ, olutako kan ti o n saayan koodu oloro laarin iṣowo kan tabi ṣe atunṣe ibeere awọn iṣowo tabi awọn ontẹ akoko ti awọn bulọọku. Ni awọn abala wọnyi, a ṣamojuto awọn igbesẹ aabo kan ati awọn pato ihalẹ aabo ati awọn atunse wọn.
 
-### 3.8 SECURITY MEASURES
+### 3.8 AWỌN IGBESẸ AABO
 
-#### 3.8.1 Contract security
+#### 3.8.1 Aabo olubasọrọ
 
 Retain vast majority of funds in a time-delayed, multi-signature-controlled account.
 
@@ -256,7 +256,7 @@ A race attack occurs when two conflicting transactions are sent in rapid success
 
 A Finney attack pre-mines one transaction into a block and spends the same tokens before releasing the block to invalidate that transaction.
 
-A 51% attack can be mounted by anyone owning >50% of the total computing power of a network. A majority ownership position permits reversal of any transaction and allows total control of selection of transactions appearing in blocks. EOS.IO, Loopring, and RAFT appear to prevent this problem. If a block producer takes an unreasonable amount of runtime or is not sufficiently profitable, then the process is blacklisted.[5]
+A 51% attack can be mounted by anyone owning >50% of the total computing power of a network. Ipo olohun to pọ julọ fayegba idapada eyikeyi iṣowo ati fayegba gbogbo iṣakoso yiyan awọn iṣowo ti o n farahan ni awọn bulọọku. EOS.IO, Loopring, and RAFT appear to prevent this problem. If a block producer takes an unreasonable amount of runtime or is not sufficiently profitable, then the process is blacklisted.[5]
 
 #### 3.9.2 Front running
 
