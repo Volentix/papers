@@ -294,7 +294,7 @@ Daily announcements of fresh code developments impacting on use of digital asset
 
 ## 4. SON DÜŞÜNCELER
 
-All of us at Volentix are dedicating our work and insights to developing a program premised on empowerment and independence. Bize ne şekilde bir kapasitede olursa olsun eğer katılmaya karar verirseniz, lütfen bunu yapın ve lütfen bu tanıtım belgesinde yer alan konular ve topluluğumuzla paylaştığımız Volentix ek yayınları hakkında eğitimli olun.
+Volentix'teki hepimiz çalışmalarımızı ve içgörülerimizi güçlendirme ve bağımsızlık üzerine kurulu bir program geliştirmeye adadık. Bize ne şekilde bir kapasitede olursa olsun eğer katılmaya karar verirseniz, lütfen bunu yapın ve lütfen bu tanıtım belgesinde yer alan konular ve topluluğumuzla paylaştığımız Volentix ek yayınları hakkında eğitimli olun.
 
 ## 5. ZAMAN ÇİZELGESİ
 
