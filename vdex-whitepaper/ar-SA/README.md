@@ -142,7 +142,7 @@ Volentix تقدم VDex المصمم كموزع ومنصة تبادل لا مرك
 
 #### 3.4.1 إصدار VTX والاستخدام
 
-VTX هو الأصل الرقمي الأصلي الذي سيتم إصداره واستخدامه في منصة VDex اللامركزية للتبادل. We currently plan to use an eosio.token contract from the EOS.IO framework to issue 2.1 billion EOS.IO-compliant VTX tokens with a supply of 1.3 billion. VTX will have a diverse array of uses, for example:
+VTX هو الأصل الرقمي الأصلي الذي سيتم إصداره واستخدامه في منصة VDex اللامركزية للتبادل. نخطط حاليًا لاستخدام عَقد eosio.token من هيكل EOS.IO لإصدار 2.1 مليار من عملات VTX المتوافقة مع EOS.IO بتزويد 1.3 مليار. سيكون لدى VTX مجموعة متنوعة من الاستخدامات، على سبيل المثال:
 
 To reward participants in the consensus process and in Venue campaigns.
 
@@ -182,11 +182,11 @@ Phase 2. 10%.
 
 In light of market conditions at the time of this writing, Volentix is considering timing, means, and terms and conditions of VTX distribution as a function of private pre-sales and possible public sale. Please monitor our website for updates.
 
-### 3.5 EOS.IO PLATFORM DEPLOYMENT
+### 3.5 نشر منصة EOS.IO
 
-The following considerations are relevant to our deploying the VDex exchange on the EOS.IO platform:
+الاعتبارات التالية ذات صلة بنشر مُبادل VDex على منصة EOS.IO:
 
-Deploying a contract has a cost but is free to use.
+نشر عَقْد له تكلفة ولكنه مجاني للاستعمال.
 
 Developers stake EOS.IO-compliant tokens to deploy a smart contract. After the contract is deployed, the locked tokens are returned.
 
