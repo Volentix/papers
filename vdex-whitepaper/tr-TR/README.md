@@ -286,7 +286,7 @@ EOS.IO, merkezi olmayan uygulamalar için açık kaynaklı ölçeklenebilir bir 
 
 ### 3.12 SİSTEM KURTARMA
 
-RAFT ve PARSEC protokolleri düğüm arızası durumunda kurtarma için güçlü bir sistem sağlar. Güvenlik önlemleri ayrıca yerel blok zincirleri içinde ve arasında ticaret yapmayı sağlamaktadır. If a chain defies identification, the system defaults to the next block or a short time lock.
+RAFT ve PARSEC protokolleri düğüm arızası durumunda kurtarma için güçlü bir sistem sağlar. Güvenlik önlemleri ayrıca yerel blok zincirleri içinde ve arasında ticaret yapmayı sağlamaktadır. Eğer bir zincir tanımlamaya meydan okursa, sistem varsayılan olarak bir sonraki bloğa geçer veya kısa bir süreliğine kilitlenir.
 
 ### 3.13 GELİŞEN MİMARİ
 
@@ -294,7 +294,7 @@ Daily announcements of fresh code developments impacting on use of digital asset
 
 ## 4. SON DÜŞÜNCELER
 
-All of us at Volentix are dedicating our work and insights to developing a program premised on empowerment and independence. If you are of a mind to join us, in whatever capacity, then please do so and please become educated on the topics contained in this white paper and additional Volentix publications as we share them with our community.
+All of us at Volentix are dedicating our work and insights to developing a program premised on empowerment and independence. Bize ne şekilde bir kapasitede olursa olsun eğer katılmaya karar verirseniz, lütfen bunu yapın ve lütfen bu tanıtım belgesinde yer alan konular ve topluluğumuzla paylaştığımız Volentix ek yayınları hakkında eğitimli olun.
 
 ## 5. ZAMAN ÇİZELGESİ
 
