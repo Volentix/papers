@@ -186,7 +186,7 @@ In light of market conditions at the time of this writing, Volentix is consideri
 
 The following considerations are relevant to our deploying the VDex exchange on the EOS.IO platform:
 
-Deploying a contract has a cost but is free to use.
+Lilo adehun ni idiyele sugbon ominira wa lati lo.
 
 Developers stake EOS.IO-compliant tokens to deploy a smart contract. After the contract is deployed, the locked tokens are returned.
 
