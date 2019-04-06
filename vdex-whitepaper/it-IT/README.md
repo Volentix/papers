@@ -184,9 +184,9 @@ Alla luce delle condizioni di mercato al momento della presente scrittura, Volen
 
 ### 3.5 IMPIEGO DELLA PIATTAFORMA EOS.IO
 
-The following considerations are relevant to our deploying the VDex exchange on the EOS.IO platform:
+Le seguenti considerazioni sono rilevanti per il nostro utilizzo dell'exchange VDex sulla piattaforma EOS.IO:
 
-Deploying a contract has a cost but is free to use.
+La distribuzione di un contratto ha un costo ma l'utilizzo è gratuito.
 
 Developers stake EOS.IO-compliant tokens to deploy a smart contract. After the contract is deployed, the locked tokens are returned.
 
