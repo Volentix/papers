@@ -84,7 +84,7 @@ Sonunda Vespucci, platformu büyük ölçüde merkezi olmayan hale getirmek içi
 
 ![](https://volentix.io/file/2019/01/a.jpg)
 
-By leveraging Python’s Machine learning framework, and given the language’s advantages, it is only natural for this module to be implemented in Python. It interfaces with particular machine learning libraries such as Scikit-learn, TensorFlow, CNTK, Torch, Theano, and Keras.
+Python'un Makine öğrenme çerçevesinden yararlanarak ve dilin avantajları göz önüne alındığında, bu modülün Python'da uygulanması doğaldır. It interfaces with particular machine learning libraries such as Scikit-learn, TensorFlow, CNTK, Torch, Theano, and Keras.
 
 Topluluk etkinlikleri hakkında güncel duyurular ve istatistikler sağlamak için kripto para biriminin herkese açık topluluk forumuna bağlanan bir kullanıcı deneyimi geliştirilmiştir. Nihai puan, bir puanlama işlevi olarak elde edilebilir. Neticede, gerçek zamanlı duyarlılık analizini teslim etmek için makine öğrenme teknikleri uygulanır.‬
 
@@ -248,7 +248,7 @@ Teknik analistler, fiyat hareketinin veya para birimlerinin arz ve talebinin ana
 
 **Bollinger Bands** are a technical chart indicator popular among traders across several financial markets. On a chart there are two “bands” that sandwich the market price. Many use them primarily to determine overbought and oversold levels. A common strategy is to sell when the price touches the upper Bollinger Band and buy when it hits the lower band. This technique also called range-bound markets. In this type of market, the price bounces off the Bollinger Bands like a ball bouncing between two walls.
 
-**MACD**, bir para biriminin 26 günlük ve 12 günlük üssel hareketli ortalamalar (EMA) arasındaki farkı hesaplar. The 12-day EMA is the faster one, while the 26-day is a slower moving average. The calculation of both EMAs uses the closing prices of whatever period is measured. On the MACD chart, a nine-day EMA of MACD itself is plotted as well, and it acts as a signal for buy and sell decisions.The MACD histogram provides a visual depiction of the difference between MACD and its nine-day EMA. MACD histogram is one of the main tools traders use to gauge momentum, because it gives an intuitive visual representation of the speed of price movement. For this reason, the MACD is commonly used to measure the strength of a price move rather than the direction or trend of a currency.
+**MACD**, bir para biriminin 26 günlük ve 12 günlük üssel hareketli ortalamalar (EMA) arasındaki farkı hesaplar. 12 günlük EMA daha hızlı, 26 günlük ise daha yavaş hareket eden bir ortalama. The calculation of both EMAs uses the closing prices of whatever period is measured. On the MACD chart, a nine-day EMA of MACD itself is plotted as well, and it acts as a signal for buy and sell decisions.The MACD histogram provides a visual depiction of the difference between MACD and its nine-day EMA. MACD histogram is one of the main tools traders use to gauge momentum, because it gives an intuitive visual representation of the speed of price movement. For this reason, the MACD is commonly used to measure the strength of a price move rather than the direction or trend of a currency.
 
 More advanced techniques for data analysis are the Fibonacci methods as well as Ichimoku Kinko Hyo techniques, as discussed in the sequel.
 
