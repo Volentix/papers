@@ -206,7 +206,7 @@ Anlaşılabilir çoklu blok zinciri bilgileri, blok zinciri zaman çizelgelerini
 
 ### 3.7 GÜVENLİK ENDİŞELERİ
 
-Bazı varsayımları ortadan kaldırmak için prototip aşamasını takiben, güvenlik testine başlamak istiyoruz. Security concerns are of paramount importance to users and must be addressed. Tehditler, örneğin, bir işlem içinde kötü amaçlı kod yürüten veya işlemlerin emir sırasını veya blokların zaman damgalarını değiştiren bir saldırganı içerir. Takip eden bölümlerde, bazı güvenlik önlemlerini ve belirli güvenlik tehditlerini ve çözüm yollarını ele alıyoruz.
+Bazı varsayımları ortadan kaldırmak için prototip aşamasını takiben, güvenlik testine başlamak istiyoruz. Güvenlik kaygıları kullanıcılar için son derece önemlidir ve ele alınması gerekir. Tehditler, örneğin, bir işlem içinde kötü amaçlı kod yürüten veya işlemlerin emir sırasını veya blokların zaman damgalarını değiştiren bir saldırganı içerir. Takip eden bölümlerde, bazı güvenlik önlemlerini ve belirli güvenlik tehditlerini ve çözüm yollarını ele alıyoruz.
 
 ### 3.8 GÜVENLİK ÖNLEMLERİ
 
@@ -220,9 +220,9 @@ Yalnızca KYC/AML tarafından doğrulanmış hesaplara para çekme olanağı sa�
 
 KYC/AML tarafından doğrulanan hesaplardan yalnızca bilinen varlıkların mevduatını kabul eden, özel bir sözleşme kullanın.
 
-Deploy a custom contract that requires a mandatory 24-hour waiting period for all withdrawals.
+Bütün para çekme işlemleri için 24 saat zorunlu bir bekleme süresi gerektiren özel bir sözleşme kullanın.
 
-Utilize contracts with hardware wallets for all signing, including for automated withdrawals.
+Otomatik para çekme işlemleri de dahil olmak üzere, bütün imzalamalar için donanım cüzdanlarıyla yapılan sözleşmelerden yararlanın.
 
 Bozuk sözleşmeleri yükseltin.
 
