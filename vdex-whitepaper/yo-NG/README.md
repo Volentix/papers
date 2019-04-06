@@ -202,11 +202,11 @@ EOS.IO jẹ ṣiṣe lati jẹ ki awọn ẹri Ibaraẹnisọrọ Laarin-Blockch
 
 #### 3.6.2 Alaye Ọpọ-Blockchain
 
-Alaye ni yeke ti ọlọpọ-blockchain le ṣee gba nipasẹ ṣiṣe akopọ awọn isẹlẹ pataki ni sisẹntẹle (pẹlu iyatọ ninu bi iyipada ipo ṣe n waye si). Eto yii le fa ki awọn ẹrọ amusẹdọgba ọlọpọ-asopọ bẹrẹ isẹ, awọn ipo gbigbe kiri, fa awọn data abajade lati ọdọ awọn adehun ajafafa, ati aseyọri iṣowo blockchain ti okeere. Ibatan ijinna si bulọọku, ibatan ipo agbaye, ati awọn iṣẹlẹ olontẹ akoko n jẹ kikọsilẹ sori lẹja agbaye lati mudojuiwọn ati jẹrisi awọn iṣowo ṣaaju ki wọn to ṣẹlẹ gangan lori asopọ ibilẹ. This approach could also be used to determine block production coincidence between chains to access greater liquidity.[12]
+Alaye ni yeke ti ọlọpọ-blockchain le ṣee gba nipasẹ ṣiṣe akopọ awọn isẹlẹ pataki ni sisẹntẹle (pẹlu iyatọ ninu bi iyipada ipo ṣe n waye si). Eto yii le fa ki awọn ẹrọ amusẹdọgba ọlọpọ-asopọ bẹrẹ isẹ, awọn ipo gbigbe kiri, fa awọn data abajade lati ọdọ awọn adehun ajafafa, ati aseyọri iṣowo blockchain ti okeere. Ibatan ijinna si bulọọku, ibatan ipo agbaye, ati awọn iṣẹlẹ olontẹ akoko n jẹ kikọsilẹ sori lẹja agbaye lati mudojuiwọn ati jẹrisi awọn iṣowo ṣaaju ki wọn to ṣẹlẹ gangan lori asopọ ibilẹ. Ilana yii tun le jẹ lilo lati ṣe ipinnu iṣe kongẹ igbejade bulọọku laarin awọn asopọ lati wọle si irọrun isọjadowo ti o tubọ tobi.[12]
 
-### 3.7 SECURITY CONCERNS
+### 3.7 AWỌN IFIYESI NIPA AABO
 
-To shake out certain assumptions, we intend to commence security testing following the prototyping phase. Security concerns are of paramount importance to users and must be addressed. Threats include, for example, an attacker executing malicious code within a transaction or manipulating the order of transactions or the timestamps of blocks. In the following sections, we address certain security measures and specific security threats and remedies.
+Lati gbọn awọn abamoda kan danu, a gbero lati bẹrẹ idanwo aabo ni atẹle si ipele apẹrẹ awoṣe. Security concerns are of paramount importance to users and must be addressed. Threats include, for example, an attacker executing malicious code within a transaction or manipulating the order of transactions or the timestamps of blocks. In the following sections, we address certain security measures and specific security threats and remedies.
 
 ### 3.8 SECURITY MEASURES
 
