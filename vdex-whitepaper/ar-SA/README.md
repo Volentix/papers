@@ -162,13 +162,13 @@ VTX هو الأصل الرقمي الأصلي الذي سيتم إصداره و�
 
 تتطلب بيئية الأصول الرقمية مجموعة من العناصر البشرية الأساسية التي ترشد المشروع إلى الأمام.[11] من الضروري تعويض مشاركات هؤلاء الأفراد. مع مراعاة التعديل، تتوقع Volentix حاليًا التخصيصات التالية:
 
-1. المساهمون. 12%. An array of individuals, akin to founders, who contribute insights, time and talent, though often work without early compensation.
+1. المساهمون. 12%. مجموعة من الأفراد، على غرار المؤسسين، الذين يساهمون بالأفكار، الوقت والمواهب، رغم أنهم غالباً ما يعملون بدون تعويض مبكر.
 
-2. Supporters.
+2. الداعمون.
 
-Phase 1. 5%. Early passive seed funders.
+المرحلة الاولى. 5%. Early passive seed funders.
 
-Phase 2. 28%. Funders via qualified private pre-sales and possible public sale.
+المرحلة الثانية. 28%. الممولين عن طريق عمليات ما قبل البيع الخاصة والبيع العام المحتمل.
 
 3. Facilitators. (Advisors, Developers, Promoters, Custodians). Note that requirements for assistance from the sub-categories in this category may differ significantly before and after the project receives substantial funding support, but certain individuals may serve during both phases.
 
@@ -196,9 +196,9 @@ In light of market conditions at the time of this writing, Volentix is consideri
 
 ### 3.6 تفاعل سلسلة الكتل
 
-#### 3.6.1 Inter-Blockchain Communication
+#### 3.6.1 التواصل بين سلاسل الكتل
 
-EOS.IO is designed to make Inter-Blockchain Communication (IBC) proofs lightweight. For chains with insufficient capacity for processing the IBC proofs and establishing validity, there is an option to default to trusted oracles/escrows. With an EOS.IO-based smart contract, a trusted multi-signature wallet holding the asset in escrow can be used to persuade the signing/publishing of the transaction based on IBC proofs from the originating chain.
+تم تصميم EOS.IO لجعل براهين التواصل بين سلاسل الكتل (IBC) خفيفة الوزن. For chains with insufficient capacity for processing the IBC proofs and establishing validity, there is an option to default to trusted oracles/escrows. With an EOS.IO-based smart contract, a trusted multi-signature wallet holding the asset in escrow can be used to persuade the signing/publishing of the transaction based on IBC proofs from the originating chain.
 
 #### 3.6.2 Multi-Blockchain Information
 
