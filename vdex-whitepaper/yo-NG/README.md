@@ -188,7 +188,7 @@ The following considerations are relevant to our deploying the VDex exchange on 
 
 Lilo adehun ni idiyele sugbon ominira wa lati lo.
 
-Developers stake EOS.IO-compliant tokens to deploy a smart contract. After the contract is deployed, the locked tokens are returned.
+Awọn olugbedide n lo aami ti o ni ibamu pẹlu EOS.IO lati ṣamulo adehun ajafafa kan. Lẹhin ti adehun naa ti jẹ lilo, awọn aami ti o wa ni atipa jẹ didapada.
 
 Decentralized applications allocate memory, CPU, bandwidth, and other resources to their contracts.
 
