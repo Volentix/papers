@@ -350,16 +350,16 @@ Komodo, Özgürlük odaklı gelişmiş bir blok zinciri teknolojisi, (2018).
 
 Q. Likit, Likit olmayan kripto ekonomisine likidite sağlanması, (2018).
 
-S. R. M.P.M-S, Aniket Kate Matteo Maffei, Concurrency and privacy with payment-channel networks, (2017).
+S. R. M.P.M-S, Aniket Kate Matteo Maffei, Ödeme kanalı ağlarıyla eş zamanlılık ve gizlilik, (2017).
 
 SingularityNET, Bir merkezi olmayan, açık pazar ve ais için ağlar arası, (2018).
 
-M. M. Timo Hanke and D. Williams, Dfinity technology overview series consensus system, (2018).
+M. M. Timo Hanke ve D. Williams, Dfinity teknolojisine genel bakış serisi fikir birliği sistemi, (2018).
 
 A. B. Will Warren, 0x: Ethereum blok zinciri üzerindeki merkezi olmayan borsa için açık bir protokol, (2017).
 
-G. Wood, Ethereum: A secure decentralised generalised transaction ledger.ethereum project yellow paper, (2014).
+G. Ahşap, Ethereum: Güvenli bir merkezi olmayan genelleştirilmiş işlem ledger.ethereum proje sarı belgesi, (2014).
 
-Dane Keller Rutledge, Creating a Comprehensive Digital Assets Ecosystem (DAE), (2018).
+Dane Keller Rutledge, Kapsamlı bir Dijital Varlıklar Ekosistemi (DAE) Oluşturmak, (2018).
 
 ## BELGENİN SONU
