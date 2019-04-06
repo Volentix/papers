@@ -280,17 +280,17 @@ Kullanıcı deneyimine odaklanmamız önceliklidir. VTX ve Volentix'in dört aya
 
 ### 3.11 DOĞRU MERKEZSİZLEŞME
 
-EOS.IO, merkezi olmayan uygulamalar için açık kaynaklı ölçeklenebilir bir altyapıdır. Amacı, bir demokratik delegeli hisse kanıtı (DPoS) fikir birliğini kullanan adil ve şeffaf bir blok üreticisinin (BP) seçim sürecidir. Particularly as such a system just begins to proliferate, there will be glitches. Therefore, some degree of retained centralization is inevitable and necessary. But our guiding philosophy is one of decentralization, and our ongoing efforts are targeted to promoting a reduction in dependence on central authority.
+EOS.IO, merkezi olmayan uygulamalar için açık kaynaklı ölçeklenebilir bir altyapıdır. Amacı, bir demokratik delegeli hisse kanıtı (DPoS) fikir birliğini kullanan adil ve şeffaf bir blok üreticisinin (BP) seçim sürecidir. Özellikle böyle bir sistem daha yeni çoğalmaya başladığında, aksaklıklar olacaktır. Bu nedenle, bir miktar korunmuş merkezileşme kaçınılmaz ve gereklidir. Ancak yol gösterici felsefemiz ademi merkeziyetçilikten biridir ve devam eden çabalarımız merkezi otoriteye bağımlılığın azalmasını teşvik etmeyi hedeflemektedir.
 
-For example, initially we plan to erect a system for electing nodes (when solving order books) that will not use a shared central clock or DPoS but instead will be based either on random timeouts for the determination of leaders in an election (RAFT) or on Directed Acyclic Graph (DAG) in the PARSEC protocol.
+Örneğin, başlangıçta paylaşılan bir merkezi saat ya da DPoS kullanmayacak ancak bunun yerine bir seçimdeki liderlerin (RAFT) belirlenmesi için rastgele zaman aşımlarına ya da düğümlerin seçilmesi için (emir kitaplarını çözerken) PARSEC protokolünde Yönlendirilmiş Asiklik Grafiği'ne (DAG) dayanacak olan bir sistem kurmayı planlıyoruz.
 
 ### 3.12 SİSTEM KURTARMA
 
-RAFT ve PARSEC protokolleri düğüm arızası durumunda kurtarma için güçlü bir sistem sağlar. Security measures are also provided for trading between and among native blockchains. If a chain defies identification, the system defaults to the next block or a short time lock.
+RAFT ve PARSEC protokolleri düğüm arızası durumunda kurtarma için güçlü bir sistem sağlar. Güvenlik önlemleri ayrıca yerel blok zincirleri içinde ve arasında ticaret yapmayı sağlamaktadır. If a chain defies identification, the system defaults to the next block or a short time lock.
 
 ### 3.13 GELİŞEN MİMARİ
 
-Daily announcements of fresh code developments impacting on use of digital assets reveal the tremendous benefit of the open-source code philosophy. We at Volentix recognize we are the beneficiaries of the enormous financial resources dedicated by many early movers to developing digital assets applications over the past decade. We now have an opportunity to take the next step by creating VDex, a decentralized exchange for the next generation of digital assets transactions.
+Daily announcements of fresh code developments impacting on use of digital assets reveal the tremendous benefit of the open-source code philosophy. Volentix olarak son on yılda dijital varlık uygulamaları geliştirmeye yönelik birçok erken göçmen tarafından tahsis edilen muazzam finansal kaynakların lehtarları olduğumuzu biliyoruz. We now have an opportunity to take the next step by creating VDex, a decentralized exchange for the next generation of digital assets transactions.
 
 ## 4. SON DÜŞÜNCELER
 
