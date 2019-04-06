@@ -192,11 +192,11 @@ Developers stake EOS.IO-compliant tokens to deploy a smart contract. After the c
 
 Le applicazioni decentralizzate stanziano memoria, CPU, larghezza di banda, e altre risorse per i loro contratti.
 
-Multiple messages and multiple accounts can be assigned to the same thread.
+Molteplici messaggi e molteplici account possono essere assegnati allo stesso thread.
 
-### 3.6 BLOCKCHAIN INTERACTION
+### 3.6 INTERAZIONE BLOCKCHAIN
 
-#### 3.6.1 Inter-Blockchain Communication
+#### Comunicazione Inter-Blockchain
 
 EOS.IO is designed to make Inter-Blockchain Communication (IBC) proofs lightweight. For chains with insufficient capacity for processing the IBC proofs and establishing validity, there is an option to default to trusted oracles/escrows. With an EOS.IO-based smart contract, a trusted multi-signature wallet holding the asset in escrow can be used to persuade the signing/publishing of the transaction based on IBC proofs from the originating chain.
 
