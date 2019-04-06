@@ -180,9 +180,9 @@ Fase 2. 10%.
 
 #### 3.4.3 Distribuzione VTX
 
-In light of market conditions at the time of this writing, Volentix is considering timing, means, and terms and conditions of VTX distribution as a function of private pre-sales and possible public sale. Please monitor our website for updates.
+Alla luce delle condizioni di mercato al momento della presente scrittura, Volentix sta considerando i tempi, i mezzi, i termini e le condizioni per la distribuzione di VTX come una funzione di prevendite private e un eventuale vendita publica. Controlla il nostro sito per ulteriori aggiornamenti.
 
-### 3.5 EOS.IO PLATFORM DEPLOYMENT
+### 3.5 IMPIEGO DELLA PIATTAFORMA EOS.IO
 
 The following considerations are relevant to our deploying the VDex exchange on the EOS.IO platform:
 
