@@ -258,11 +258,11 @@ VTX هو الأصل الرقمي الأصلي الذي سيتم إصداره و�
 
 يمكن أن يشن أي شخص، هجوم بنسبة 51٪ إذا كان يمتلك أكثر من 50٪ من إجمالي القدرة الحاسوبية للشبكة. يسمح مركز ملكية الأغلبية بعكس أي معاملة ويسمح بالتحكم الكامل في اختيار المعاملات التي تظهر في الكتل. تقوم كل من EOS.IO وLoopring وRAFT بمنع هذه المشكلة. إذا أخذ منتج الكتلة كمية غير معقولة من وقت التشغيل أو لم يكن مربحًا بما فيه الكفاية، فإن العملية تدرجة في القائمة السوداء.[5]
 
-#### 3.9.2 Front running
+#### 3.9.2 التلاعب بالسوق (Front running)
 
 A front runner steals one or more orders from a pending order book settlement transaction. Both EOS.IO and Loopring offer remedies in which keys are protected because they are not part of the on-chain transaction, and therefore remain unknown to parties other than the owner. Only the order book settling node is possessed of the sensitive information, and each node uses a different solution for resolving the order books, introducing yet another level of complexity to promote security.
 
-#### 3.9.3 Forged identities
+#### 3.9.3 الهُويات مزورة
 
 Malicious users create forged identities to send a large number of small orders to attack Loopring nodes. However, most of these orders will be rejected for not yielding satisfying profit when matched.
 
