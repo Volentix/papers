@@ -236,27 +236,27 @@ VTX هو الأصل الرقمي الأصلي الذي سيتم إصداره و�
 
 #### 3.8.3 الإختيار العشوائي
 
-True randomisation of address space layout, route or utilizing varying lengths of timeouts as in the RAFT protocol can complexify systems enough to enhance resilience and further secure systems against a side-channel attack or front running.
+عشوائية تخطيط مساحة العنوان، توجيه أو استخدام مهلات مختلفة كما هو مستخدم في بروتوكول RAFT، يمكنها أن تعقد الأنظمة بما يكفي لتعزيز المرونة و تأمين الأنظمة ضد هجوم قناة جانبية أو التلاعب بالسوق (front running).
 
-#### 3.8.4 Log inspection
+#### 3.8.4 سجل التفتيش
 
-Parsec does not rely on logs for the determination of consensus. On the other hand, RAFT will require this. In any case, Validator nodes will be designed to require minimal information To determine consensus as to minimize the transaction process time.
+لا يعتمد Parsec على سجلات لتحديد الإجماع. من ناحية أخرى، يطلبها RAFT. في أي حال، سيتم تصميم عُقد Validator لتتطلب الحد الأدنى من المعلومات و ذلك لأجل تحديد الإجماع لتقليل وقت عملية المعاملة.
 
-#### 3.8.5 Transaction as Proof of Stake (TaPoS)
+#### 3.8.5 المعاملة كدليل على الحصص (TaPoS)
 
-This mechanism prevents the replay of a transaction on forks that do not include the referenced block. Signals the network that a particular user and stake are on a specific fork.
+هذه الآلية تمنع تكرار المعاملة على الشوكات التي لا تتضمن الكتلة المشار إليها. يشير إلى الشبكة ان مستخدم وحصة معينين على شوكة معينة.
 
-### 3.9 Security threats and remedies
+### 3.9 التهديدات الأمنية والإصلاحات
 
 #### 3.9.1 ضعف الإنفاق
 
-A double spend is an attack in which a particular cryptocurrency stake is spent in more than one transaction.
+ضعف الإنفاق هو هجوم يتم فيه إنفاق حصة عملة رقمية معينة في أكثر من معاملة.
 
-A race attack occurs when two conflicting transactions are sent in rapid succession into the network.
+يحدث هجوم السباق عندما يتم إرسال معاملتين متعارضتين في تتابع سريع في الشبكة.
 
-A Finney attack pre-mines one transaction into a block and spends the same tokens before releasing the block to invalidate that transaction.
+يقوم هجوم Finney بتعدين معاملة واحدة في الكتلة وينفق نفس العملات الرمزية قبل إطلاق الكتلة لإبطال تلك المعاملة.
 
-A 51% attack can be mounted by anyone owning >50% of the total computing power of a network. A majority ownership position permits reversal of any transaction and allows total control of selection of transactions appearing in blocks. EOS.IO, Loopring, and RAFT appear to prevent this problem. If a block producer takes an unreasonable amount of runtime or is not sufficiently profitable, then the process is blacklisted.[5]
+يمكن أن يشن أي شخص، هجوم بنسبة 51٪ إذا كان يمتلك أكثر من 50٪ من إجمالي القدرة الحاسوبية للشبكة. يسمح مركز ملكية الأغلبية بعكس أي معاملة ويسمح بالتحكم الكامل في اختيار المعاملات التي تظهر في الكتل. تقوم كل من EOS.IO وLoopring وRAFT بمنع هذه المشكلة. إذا أخذ منتج الكتلة كمية غير معقولة من وقت التشغيل أو لم يكن مربحًا بما فيه الكفاية، فإن العملية تدرجة في القائمة السوداء.[5]
 
 #### 3.9.2 Front running
 
