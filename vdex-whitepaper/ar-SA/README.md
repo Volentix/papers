@@ -260,15 +260,15 @@ VTX هو الأصل الرقمي الأصلي الذي سيتم إصداره و�
 
 #### 3.9.2 التلاعب بالسوق (Front running)
 
-A front runner steals one or more orders from a pending order book settlement transaction. Both EOS.IO and Loopring offer remedies in which keys are protected because they are not part of the on-chain transaction, and therefore remain unknown to parties other than the owner. Only the order book settling node is possessed of the sensitive information, and each node uses a different solution for resolving the order books, introducing yet another level of complexity to promote security.
+يسرق المتلاعب طلبًا واحدًا أو أكثر من معاملة معلقة لتسوية دفتر الطلبات. يقدم كل من EOS.IO وLoopring إصلاحات تكون فيها المفاتيح محمية لأنها ليست جزءًا من المعاملة على السلسلة، وبالتالي تظل غير معروفة لأطراف أخرى غير المالك. فقط عُقدة تسوية دفتر الطلبات هي التي تمتلك المعلومات الحساسة، وكل عقدة تستخدم حلاً مختلفًا لحل دفاتر الطلبات مع تقديم مستوى آخر من التعقيد لتعزيز الأمان.
 
-#### 3.9.3 الهُويات مزورة
+#### 3.9.3 الهُويات المزورة
 
-Malicious users create forged identities to send a large number of small orders to attack Loopring nodes. However, most of these orders will be rejected for not yielding satisfying profit when matched.
+المستخدمين الضارين يقومون بإنشاء هويات مزورة لإرسال عدد كبير من الطلبات الصغيرة لمهاجمة عقد Loopring. رغم ذلك، سيتم رفض معظم هذه الطلبات لعدم تحقيق أرباح مرضية عند مطابقتها.
 
-#### 3.9.4 Insufficient Balance
+#### 3.9.4 رصيد غير كاف
 
-Malicious users sign and spread orders the value of which is non-zero but the address of which has a zero balance. Nodes monitor actual balances, update these order states accordingly, and then discard them.
+المستخدمين الضارين يوقعون وينشرون عديد الطلبات التي قيمتها ليست صفر لكن يكون لعنوانها رصيد صفري. تقوم العُقد بمراقبة الأرصدة الفعلية وتحديث حالات الطلب وفقًا لذلك، ثم تتجاهلها.
 
 #### 3.9.5 Timing attack
 
