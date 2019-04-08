@@ -451,13 +451,13 @@ This text is based on NH’s original vision docs and AA’s update on them.
 
 [12] <https://eos.io/>, Eos.io technical white paper v2 (2018).
 
-[13] <https://cryptocoinrankings.com/index.php> [תקלות טכניות]
+[13] <https://cryptocoinrankings.com/index.php> [התרעות טכניות]
 
 [14] <https://gist.github.com/gavinandresen/e20c3b5a1d4b97f79ac2> [ריבוי בלוקים (1)O]
 
 [15]<http://blocktivity.info/> [פעילות על שרשורי בלוקים, פרוייקטים המנוצלים על ידי אנשים]
 
-[16]<https://www.coingecko.com/> [ טבלת מטבע מבוזר]
+[16]<https://www.coingecko.com/> [ טבלת מטבעות קריפטו]
 
 [17] <https://www.investopedia.com>
 
