@@ -120,19 +120,19 @@ Iwe ibeere ni akojọ awọn ibeere rira-ati-tita ti VDex n gbasilẹ lati ọd�
 
 Lilo Ilana ila oniyipo ti FIFO Loopring (akọkọ-wọle akọkọ-jade), awọn oju ipade le ṣeto ki awọn iwe ibeere wọn ma ṣafihan ati ṣe ibaamu ibeere olumulo kan. Ọna yii n tẹle awoṣe OTC, nibiti opin awọn ibeere ti wa ni ipo ti o da lori owo nikan.[5]
 
-Referencing the EOS.IO persistence API, the order book is able to take advantage of the powerful multi-index container shared among nodes through the same EOS.IO account.
+Titọkasi API alatẹnumọ ti EOS.IO, iwe ibeere ri aaye lati lo anfani apoti alagbara ọlọpọ-atọka to jẹ ajọpin laarin awọn oju ipade nipasẹ akọọlẹ EOS.IO kanna.
 
-#### 3.2.2 On-Chain order book
+#### 3.2.2 Iwe ibeere Ori-ila
 
-An on-chain order book is a record of offers residing on the wallet (node) chosen to settle the order book. It resides in a persistent database on each node subscribing to the same account as all the other nodes.
+Iwe ibeere ori-ila jẹ akọsilẹ awọn afilọ ti o n gbe lori apo owo naa (oju ipade) ti o jẹ yiyan lati yanju iwe ibeere naa. O n gbe ni ibi ipamọ data alatẹnumọ lori oju ipade kọọkan ti o ṣe alabapin si akọọlẹ kanna bi ti gbogbo awọn oju ipade miiran.
 
-#### 3.2.3 Off-Chain order book
+#### 3.2.3 Iwe ibeere Alaisilori-ila
 
-Residing on the aggregator, offline order books serve for simulator and security purposes.
+O n gbe lori alakopapọ, awọn iwe ibeere alaisilori ila n sisẹ fun ẹrọ afidanrawo ati awọn eredi aabo.
 
-#### 3.2.4 Decentralization process of order book settlement
+#### 3.2.4 Ilana alaisilojukan ti iyanju iwe ibeere
 
-For decentralization purposes, nodes will take turns to settle the order book. The settling node must be designated by the protocol and all order book entries from all nodes must be available to the settling nodes. We believe the RAFT[9] and PARSEC[10] consensus mechanisms offer effective solutions. RAFT is a well-established algorithm and is easy to implement.[7] PARSEC is more recent and more efficient, using Directed Acyclic Graph (DAG) technology and eliminating the need for copying logs.
+Fun awọn idi alaisilojukan, awọn oju ipade yoo ma to lati yanju iwe ibeere. The settling node must be designated by the protocol and all order book entries from all nodes must be available to the settling nodes. We believe the RAFT[9] and PARSEC[10] consensus mechanisms offer effective solutions. RAFT is a well-established algorithm and is easy to implement.[7] PARSEC is more recent and more efficient, using Directed Acyclic Graph (DAG) technology and eliminating the need for copying logs.
 
 ### 3.3 ORDER SETTLEMENT
 
