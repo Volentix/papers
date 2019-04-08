@@ -132,7 +132,7 @@ O n gbe lori alakopapọ, awọn iwe ibeere alaisilori ila n sisẹ fun ẹrọ 
 
 #### 3.2.4 Ilana alaisilojukan ti iyanju iwe ibeere
 
-Fun awọn idi alaisilojukan, awọn oju ipade yoo ma to lati yanju iwe ibeere. Oju ipade to n yanju gbọdọ jẹ yiyan sipo nipasẹ ilana ati gbogbo awọn atẹwọle iwe ibeere lati gbogbo awọn oju ipade gbọdọ wa nilẹ si awọn oju ipade to n yanju. We believe the RAFT[9] and PARSEC[10] consensus mechanisms offer effective solutions. RAFT is a well-established algorithm and is easy to implement.[7] PARSEC is more recent and more efficient, using Directed Acyclic Graph (DAG) technology and eliminating the need for copying logs.
+Fun awọn idi alaisilojukan, awọn oju ipade yoo ma to lati yanju iwe ibeere. Oju ipade to n yanju gbọdọ jẹ yiyan sipo nipasẹ ilana ati gbogbo awọn atẹwọle iwe ibeere lati gbogbo awọn oju ipade gbọdọ wa nilẹ si awọn oju ipade to n yanju. A gbagbọ pe awọn ilana iṣọkan RAFT[9] ati PARSEC[10] n pese awọn ọna abayọ to munadoko. RAFT is a well-established algorithm and is easy to implement.[7] PARSEC is more recent and more efficient, using Directed Acyclic Graph (DAG) technology and eliminating the need for copying logs.
 
 ### 3.3 ORDER SETTLEMENT
 
