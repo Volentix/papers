@@ -21,7 +21,7 @@ Venue is planned as a dynamic community platform that recruits and aligns member
 
 ## Verto
 
-Verto will be a multi-currency wallet for use with the VDEX exchange, and intends to facilitate custody of private keys for use in peer-to-peer transactions. Both private and public keys will be locally managed, with the goal of eliminating the risks of devastating losses of stake associated with traumatic failures of central operators. Please read the VERTO primer by visiting <http://verto.vdex.io/>
+Verto will be a multi-currency wallet for use with the VDEX exchange, and intends to facilitate custody of private keys for use in peer-to-peer transactions. Both private and public keys will be locally managed, with the goal of eliminating the risks of devastating losses of stake associated with traumatic failures of central operators. אנא קרא/י את ספר המתחילים של Verto על ידי ביקור ב<http://verto.vdex.io/>
 
 ## Vespucci
 
