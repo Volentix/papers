@@ -74,9 +74,9 @@ Dane są dzielone między umowami za pośrednictwem wyroczni, która „w kontek
 
 W EOS.IO wydanie zasobu cyfrowego tworzy łańcuch boczny, który jest nowym mechanizmem pozwalającym na bezpieczne korzystanie z zasobów cyfrowych z jednego blockchaina w oddzielnym blockchainie, a następnie powrót do oryginalnego blockchaina. Efektywność przetwarzania jest wspierana przez tworzenie wielu łańcuchów bocznych. Kanał komunikacji typu TCP pomiędzy różnymi blokchainami pozwala ocenić dowody. Dla każdego odłamu (jednostki równoległego wykonania w cyklu), zbudowane jest zrównoważone drzewo hash z tych zobowiązań działania, aby wygenerować tymczasowy odłamek korzenia hash; odbywa się to dla szybkości obliczeń równoległych. Nagłówek bloku zawiera korzeń zbalansowanego drzewa hash, którego liście są korzeniami tych pojedynczych odkłamów drzew hash. [2]
 
-#### 3.0.5 Liquidity
+#### 3.0.5 Płynność
 
-Zasób cyfrowy jest płynny, jeśli łatwo go sprzedać lub kupić w zwykłych wolumenach obrotu, bez znaczącego krótkoterminowego wpływu na jego dominującą cenę rynkową. In order to achieve such a status, traditionally any tradable asset must surmount a trading volume threshold sufficient to support stability. Specifically, we anticipate adopting the following methodologies: Loopring protocol with the use of EOS.IO contracts acting as nodes.[5] Bancor algorithm used to bring stability to the digital asset.[6] Toggles between these protocols and HTLC (atomic swaps) according to Vespucci analyses on the VDex network.
+Zasób cyfrowy jest płynny, jeśli łatwo go sprzedać lub kupić w zwykłych wolumenach obrotu, bez znaczącego krótkoterminowego wpływu na jego dominującą cenę rynkową. W celu zdobycia takiego satusu, zazwyczaj każdy wymienialny zasób musi pokrywać pułap wolumenu obrotu wystarczający do podtrzymania stabilności. W szczególności przewidujemy przyjęcie następujących metodologii: Zapętlanie protokołu z wykorzystaniem kontraktów EOS.IO działających jako węzły.[5] Algorytm Bancora używany do zapewnienia stabilności zasobu cyfrowego. [6] Przełączanie między tymi protokołami i HTLC (swapy atomowe) zgodnie z analizami Vespucci w sieci VDex.
 
 #### 3.0.6 Hashed Timelock Contracts (Atomic Swaps)
 
@@ -88,11 +88,11 @@ A Hashed Timelock Contract (HTLC)[1] is a smart contract enabling the implementa
 
 ![](../9.jpg)
 
-Nodes are the endpoints of the VDex exchange. Their functions are:
+Węzły są punktami końcowymi wymiany VDex. Ich funkcjami są:
 
-1. Act as portals to VDex through the Verto wallet.
+1. Działanie jako portale dla VDex za pośrednictwem portfela Verto.
 
-2. Merge order book information.
+2. Scalanie informacji o arkuszu zleceń.
 
 3. Settle order book.
 
