@@ -94,15 +94,15 @@ Węzły są punktami końcowymi wymiany VDex. Ich funkcjami są:
 
 2. Scalanie informacji o arkuszu zleceń.
 
-3. Settle order book.
+3. Regulowanie arkusza zleceń.
 
-4. Manage order cancellation.
+4. Zarządzanie anulowaniem zlecenia.
 
-5. Assign timeouts for the RAFT protocol.
+5. Przypisanei czasu oczekiwania dla protokołu RAFT.
 
-6. Initiate contracts for orders that have been filled.
+6. Inicjowanie kontraktów na zlecenia, które zostały wypełnione.
 
-Nodes earn a portion of the fee for each transaction. If a user has sufficient funds and possesses a good track record, his or her Verto wallet can act as a node.
+Węzły pobierają część opłaty za każdą transakcję. Jeśli użytkownik posiada wystarczające środki i posiada historię potwierdzającą dobre wyniki, to jej lub jego portfel Verto może zachowywać się jak węzeł.
 
 #### 3.1.2 Aggregators
 
