@@ -132,9 +132,9 @@ O n gbe lori alakopapọ, awọn iwe ibeere alaisilori ila n sisẹ fun ẹrọ 
 
 #### 3.2.4 Ilana alaisilojukan ti iyanju iwe ibeere
 
-Fun awọn idi alaisilojukan, awọn oju ipade yoo ma to lati yanju iwe ibeere. Oju ipade to n yanju gbọdọ jẹ yiyan sipo nipasẹ ilana ati gbogbo awọn atẹwọle iwe ibeere lati gbogbo awọn oju ipade gbọdọ wa nilẹ si awọn oju ipade to n yanju. A gbagbọ pe awọn ilana iṣọkan RAFT[9] ati PARSEC[10] n pese awọn ọna abayọ to munadoko. RAFT is a well-established algorithm and is easy to implement.[7] PARSEC is more recent and more efficient, using Directed Acyclic Graph (DAG) technology and eliminating the need for copying logs.
+Fun awọn idi alaisilojukan, awọn oju ipade yoo ma to lati yanju iwe ibeere. Oju ipade to n yanju gbọdọ jẹ yiyan sipo nipasẹ ilana ati gbogbo awọn atẹwọle iwe ibeere lati gbogbo awọn oju ipade gbọdọ wa nilẹ si awọn oju ipade to n yanju. A gbagbọ pe awọn ilana iṣọkan RAFT[9] ati PARSEC[10] n pese awọn ọna abayọ to munadoko. RAFT jẹ alugọridimu to fẹsẹrinlẹ daradara ati ti o rọrun lati muṣiṣẹ.[7] PARSEC jẹ tuntun ati o si munadoko, nipa lilo imọ ẹrọ Directed Acyclic Graph (DAG) ati ṣiṣe imukuro inilo fun didaakọ awọn akọṣilẹ.
 
-### 3.3 ORDER SETTLEMENT
+### 3.3 IYANJU IBEERE
 
 Order settlement contains familiar elements of conventional financial market transactions. Utilizing FIFO technology to design the order book, VDex intends to check order, inventory, and fill rate, as well as limit orders and cancellations. ![](../7.jpg)
 
