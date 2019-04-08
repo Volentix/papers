@@ -202,7 +202,7 @@ EOS.IO è progettato per rendere più leggere le verifiche della Comunicazione I
 
 #### 3.6.2 Informazione Multi-Blockchain
 
-Le informazioni comprensibili su più blockchain si possono ottenere aggregando le linee temporali della blockchain in ordine parallelo (con variazioni nella frequenza del cambiamento di stato). This system can trigger multi-chain load balancers, transfer states, draw data outputs from smart contracts, and foreign blockchain transaction execution. Relative block distance, relative global state, and timestamped events are recorded on a global ledger to optimize and confirm transactions before they actually happen on the native chain. This approach could also be used to determine block production coincidence between chains to access greater liquidity.[12]
+Le informazioni comprensibili su più blockchain si possono ottenere aggregando le linee temporali della blockchain in ordine parallelo (con variazioni nella frequenza del cambiamento di stato). This system can trigger multi-chain load balancers, transfer states, draw data outputs from smart contracts, and foreign blockchain transaction execution. La distanza relativa del blocco, lo stato globale relativo, e gli eventi con marcatura temporale vengono registrati su un ledger globale per ottimizzare e confermare le transazioni prima che queste si verifichino effettivamente sulla catena nativa. Questo approccio potrebbe essere utilizzato anche per determinare la coincidenza tra catene nella produzione del blocco per accedere a una maggiore liquidità. [12]
 
 ### 3.7 SECURITY CONCERNS
 
