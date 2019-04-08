@@ -206,7 +206,7 @@ Le informazioni comprensibili su più blockchain si possono ottenere aggregando 
 
 ### 3.7 SECURITY CONCERNS
 
-To shake out certain assumptions, we intend to commence security testing following the prototyping phase. Security concerns are of paramount importance to users and must be addressed. Threats include, for example, an attacker executing malicious code within a transaction or manipulating the order of transactions or the timestamps of blocks. In the following sections, we address certain security measures and specific security threats and remedies.
+To shake out certain assumptions, we intend to commence security testing following the prototyping phase. Le preoccupazioni in materia di sicurezza sono di vitale importanza per gli utenti e devono essere affrontate. Threats include, for example, an attacker executing malicious code within a transaction or manipulating the order of transactions or the timestamps of blocks. In the following sections, we address certain security measures and specific security threats and remedies.
 
 ### 3.8 SECURITY MEASURES
 
