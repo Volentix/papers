@@ -136,7 +136,7 @@ Fun awọn idi alaisilojukan, awọn oju ipade yoo ma to lati yanju iwe ibeere. 
 
 ### 3.3 IYANJU IBEERE
 
-Order settlement contains familiar elements of conventional financial market transactions. Utilizing FIFO technology to design the order book, VDex intends to check order, inventory, and fill rate, as well as limit orders and cancellations. ![](../7.jpg)
+Iyanju ibeere ni awọn eroja to jọra ti awọn iṣowo ọja owo ti alaiyatọ. Lilo imọ ẹrọ FIFO lati ṣe idalara iwe ibeere, VDex n pinnu lati ṣayẹwo ibeere, iwe-akọọlẹ ohun-ini, ati iwọn ifọwọsi, ati ni bakanna mu adinku ba awọn ibeere ati awọn ifagile. ![](../7.jpg)
 
 ### 3.4 VTX
 
@@ -164,19 +164,19 @@ A digital assets ecosystem requires an array of certain fundamental human consti
 
 1. Contributors. 12%. An array of individuals, akin to founders, who contribute insights, time and talent, though often work without early compensation.
 
-2. Supporters.
+2. Awọn alatilẹyin.
 
-Phase 1. 5%. Early passive seed funders.
+Ipele 1. 5%. Early passive seed funders.
 
 Phase 2. 28%. Funders via qualified private pre-sales and possible public sale.
 
 3. Facilitators. (Advisors, Developers, Promoters, Custodians). Note that requirements for assistance from the sub-categories in this category may differ significantly before and after the project receives substantial funding support, but certain individuals may serve during both phases.
 
-Phase 1. 10%.
+Ipele 1. 10%.
 
-Phase 2. 10%.
+Ipele 2. 10%.
 
-4. Decentralized treasury. 35%. Community members incentivized and rewarded for participation in progressive development of a decentralized autonomous organization (DAO). A decentralized treasury is anticipated to be administered by smart contracts and community consensus. ![](../5.jpg)
+4. Isura alaisilojukan. 35%. Community members incentivized and rewarded for participation in progressive development of a decentralized autonomous organization (DAO). A decentralized treasury is anticipated to be administered by smart contracts and community consensus. ![](../5.jpg)
 
 #### 3.4.3 VTX Distribution
 
