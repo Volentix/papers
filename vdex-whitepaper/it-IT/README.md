@@ -206,15 +206,15 @@ Le informazioni comprensibili su più blockchain si possono ottenere aggregando 
 
 ### 3.7 SECURITY CONCERNS
 
-To shake out certain assumptions, we intend to commence security testing following the prototyping phase. Le preoccupazioni in materia di sicurezza sono di vitale importanza per gli utenti e devono essere affrontate. Threats include, for example, an attacker executing malicious code within a transaction or manipulating the order of transactions or the timestamps of blocks. In the following sections, we address certain security measures and specific security threats and remedies.
+To shake out certain assumptions, we intend to commence security testing following the prototyping phase. Le preoccupazioni in materia di sicurezza sono di vitale importanza per gli utenti e devono essere affrontate. Le minacce includono, ad esempio, un aggressore che esegue codice maligno all'interno di una transazione o manipola l'ordine delle transazioni o i timestamp dei blocchi. Nelle sezioni che seguono affrontiamo alcune misure di sicurezza e specifiche minacce alla sicurezza e rimedi.
 
-### 3.8 SECURITY MEASURES
+### 3.8 MISURE DI SICUREZZA
 
 #### 3.8.1 Contract security
 
-Retain vast majority of funds in a time-delayed, multi-signature-controlled account.
+Conservare la maggior parte dei fondi in un conto a tempo ritardato, controllato da più firme.
 
-Use multi-signatures on a hot wallet with several independent processes/servers double-checking all withdrawals, with the concomitant benefit of creating a trusted list of accounts.
+Utilizzare la firma multipla su un hot wallet con diversi processi/server indipendenti che controllano due volte tutti i prelievi, con il vantaggio concomitante di creare una lista di conti affidabili.
 
 Deploy a custom contract that allows withdrawals only to accounts verified by KYC/AML.
 
