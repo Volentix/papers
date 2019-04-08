@@ -198,11 +198,11 @@ Molteplici messaggi e molteplici account possono essere assegnati allo stesso th
 
 #### Comunicazione Inter-Blockchain
 
-EOS.IO è progettato per rendere più leggere le verifiche della Comunicazione Inter-Blockchain (IBC). For chains with insufficient capacity for processing the IBC proofs and establishing validity, there is an option to default to trusted oracles/escrows. With an EOS.IO-based smart contract, a trusted multi-signature wallet holding the asset in escrow can be used to persuade the signing/publishing of the transaction based on IBC proofs from the originating chain.
+EOS.IO è progettato per rendere più leggere le verifiche della Comunicazione Inter-Blockchain (IBC). Per catene con capacità insufficiente per elaborare le verifiche IBC e stabilirne la validità, c'è un'opzione di default per oracoli/escrow di fiducia. With an EOS.IO-based smart contract, a trusted multi-signature wallet holding the asset in escrow can be used to persuade the signing/publishing of the transaction based on IBC proofs from the originating chain.
 
-#### 3.6.2 Multi-Blockchain Information
+#### 3.6.2 Informazione Multi-Blockchain
 
-Comprehensible multi-blockchain information can be obtained by aggregating blockchain timelines in parallel order (with variance in the frequency of change of state). This system can trigger multi-chain load balancers, transfer states, draw data outputs from smart contracts, and foreign blockchain transaction execution. Relative block distance, relative global state, and timestamped events are recorded on a global ledger to optimize and confirm transactions before they actually happen on the native chain. This approach could also be used to determine block production coincidence between chains to access greater liquidity.[12]
+Le informazioni comprensibili su più blockchain si possono ottenere aggregando le linee temporali della blockchain in ordine parallelo (con variazioni nella frequenza del cambiamento di stato). This system can trigger multi-chain load balancers, transfer states, draw data outputs from smart contracts, and foreign blockchain transaction execution. Relative block distance, relative global state, and timestamped events are recorded on a global ledger to optimize and confirm transactions before they actually happen on the native chain. This approach could also be used to determine block production coincidence between chains to access greater liquidity.[12]
 
 ### 3.7 SECURITY CONCERNS
 
