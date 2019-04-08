@@ -2,7 +2,7 @@
 
 ## מבוא
 
-Volentix מציג בתוכו את VDex, המשמש כ"חלפן כספים" למטבעות ונכסים ממוחשבים, המבוזר ומופץ עם דגש על חווית המשתמש/ת, יחד עם פיתוח הקהילה והמינהל. על-ידי גישה לשיטות טכנולוגיות מבוססות ותכנון סלקטיבי של פרוטוקולים חדשים עם עדיפות על אבטחה, מהירות, אימות, קלות השימוש, מדרגיות ותמיכה רב-רכושית, VDex נועד להקל על עסקאות עמית- לעמית בעזרת הרכבת תיק עבודות של יישומים מבוזרים הבנויים על EOS.IO חוזים חכמים.
+Volentix מציג בתוכו את VDex, המשמש כ"חלפן כספים" למטבעות ונכסים ממוחשבים, המבוזר ומופץ עם דגש על חווית המשתמש/ת, יחד עם פיתוח הקהילה ובשיתוף הממשל. על-ידי גישה לשיטות טכנולוגיות מבוססות ותכנון סלקטיבי של פרוטוקולים חדשים עם עדיפות על אבטחה, מהירות, אימות, קלות השימוש, מדרגיות ותמיכה רב-רכושית, VDex נועד להקל על עסקאות עמית- לעמית בעזרת הרכבת תיק עבודות של יישומים מבוזרים הבנויים על חוזים חכמים של EOS.IO.
 
 נקודת ההשקה של VDex מצפה להתאים את תנאי העיצוב של Volentix לטכנולוגיות זמינות שעל גבי EOS.IO מערכת הפעלה מבוזרת. בכוונתנו לבחון את ההנחות שלנו באמצעות אב-טיפוס דרך תוכנת EZEOS מותאמת אישית, שאנחנו בעצם בנינו ועיצבנו אישית עם כלי ממשק שורת הפקודה של EOS.IO. תוכנה זו שוכנת ב: https://github.com/Volentix/ezeos
 
@@ -31,9 +31,9 @@ Vespucci משמש כמנוע לניתוח נתונים, נגיש מאוד בעז
 
 ## VDex
 
-VDex מתוכנן כחליפין מטבעות ונכסים ממוחשבים, המבוזר ומופץ עם דגש על חווית המשתמש/ת, יחד עם פיתוח הקהילה והמנהל. By accessing established technologies and planning selective new protocols with priority on security, speed, authentication, ease of use, scalability, and multi-asset support, VDEX intends to facilitate peer-to-peer transactions by assembling a portfolio of decentralized applications built on EOS.IO smart contracts.
+VDex מתוכנן כחליפין מטבעות ונכסים ממוחשבים, המבוזר ומופץ עם דגש על חווית המשתמש/ת, יחד עם פיתוח הקהילה והמנהל. על-ידי גישה לשיטות טכנולוגיות מבוססות ותכנון סלקטיבי של פרוטוקולים חדשים עם עדיפות על אבטחה, מהירות, אימות, קלות השימוש, מדרגיות ותמיכה רב-רכושית, VDex נועד להקל על עסקאות עמית- לעמית בעזרת הרכבת תיק עבודות של יישומים מבוזרים הבנויים על חוזים חכמים של EOS.IO.
 
-For smooth and secure usability, we plan VDEX to integrate with your own personal VERTO wallet and VESPUCCI user interface. Although we expect VERTO and VDEX ultimately to be able to manage transactions involving the vast array of digital assets and blockchains extant from time to time, we are developing VENUE as a complementary adjunct primarily in order to incentivize and drive native VTX-based transactions.
+עבור שימוש חלק ומאובטח, אנו מתכננים לשלב את הVDEX לתוך ארנק הVERTO האישי שלך, ויחד עם ממשק הVESPUCCI למשתמש. Although we expect VERTO and VDEX ultimately to be able to manage transactions involving the vast array of digital assets and blockchains extant from time to time, we are developing VENUE as a complementary adjunct primarily in order to incentivize and drive native VTX-based transactions.
 
 ## שוק היצע וביקוש
 
