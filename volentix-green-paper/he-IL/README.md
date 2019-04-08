@@ -25,7 +25,7 @@ Verto will be a multi-currency wallet for use with the VDEX exchange, and intend
 
 ## Vespucci
 
-Vespucci is envisioned as an analytics engine accessible via a user-friendly interface with real-time treasure troves of market data, such as ratings and sentiment analysis. We wish to empower users with tools to graph and compare tradeable digital assets, to access and parse historical trading records, to plot trends and patterns, and to monitor and assess open-source software developments. VESPUCCI seeks to bring to your fingertips confident and comprehensive market-relevant data by aggregating the information currently scattered throughout many different blockchains, websites, chat rooms, and exchanges. This application is currently in development by our affiliate Pythagoras Systems.
+Vespucci משמש כמנוע לניתוח נתונים, נגיש מאוד בעזרת הממשק הידידותי למשתמש, עם אוצרות שוק הנתונים בזמן אמת, כגון דירוגים וניתוח סנטימנט. אנו מייחלים להעצמת משתמשים, עם כלים בכדי לגרף ולהשוות נכסים דיגיטליים סחירים, כדי לגשת ולנתח רשומות מסחר היסטוריות, בכדי ליזום טרנדים ודפוסים, וגם לפקח ולהעריך את ההתפתחויות בתוכנת הקוד הפתוח. VESPUCCI מבקש להביא לקצות אצבעותיך נתונים ודאיים ומקיפים הרלוונטיים לשוק על ידי כינוס המידע שכעת מפוזר לעברם של בלוקצ'יינים שונים, אתרים, חדרי צ'אטים, ו''חלפני כספים''. This application is currently in development by our affiliate Pythagoras Systems.
 
 The fourth pillar of VOLENTIX is the decentralized VDEX exchange, a tradable digital assets platform introduced in detail in our white paper available to view at [https://volentix.io/documentation/vdex-whitepaper](https://volentix.io/documentation/vdex-whitepaper/).
 
