@@ -140,9 +140,9 @@ Iyanju ibeere ni awọn eroja to jọra ti awọn iṣowo ọja owo ti alaiyat�
 
 ### 3.4 VTX
 
-#### 3.4.1 VTX Issuance and Use
+#### 3.4.1 Ipinfunni ati Iwulo VTX
 
-VTX is the native digital asset to be issued and used on the VDex decentralized exchange. We currently plan to use an eosio.token contract from the EOS.IO framework to issue 2.1 billion EOS.IO-compliant VTX tokens with a supply of 1.3 billion. VTX will have a diverse array of uses, for example:
+VTX jẹ ohun-ini abinibi oni-nọmba ti o ma jẹ pinpin jade ati jẹ lilo lori ibi ipaṣipaarọ alaisilojukan ti VDex. We currently plan to use an eosio.token contract from the EOS.IO framework to issue 2.1 billion EOS.IO-compliant VTX tokens with a supply of 1.3 billion. VTX will have a diverse array of uses, for example:
 
 To reward participants in the consensus process and in Venue campaigns.
 
@@ -168,7 +168,7 @@ A digital assets ecosystem requires an array of certain fundamental human consti
 
 Ipele 1. 5%. Early passive seed funders.
 
-Phase 2. 28%. Funders via qualified private pre-sales and possible public sale.
+Ipele 2. 28%. Funders via qualified private pre-sales and possible public sale.
 
 3. Facilitators. (Advisors, Developers, Promoters, Custodians). Note that requirements for assistance from the sub-categories in this category may differ significantly before and after the project receives substantial funding support, but certain individuals may serve during both phases.
 
