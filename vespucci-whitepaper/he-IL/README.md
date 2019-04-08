@@ -461,4 +461,4 @@ This text is based on NH’s original vision docs and AA’s update on them.
 
 [17] <https://www.investopedia.com>
 
-סוגריים הנמצאים בסוף הפניות מסוימות מצביעות על החלק בנייר המשתמש בהפניה זו.
+סוגריים הנמצאים בסופן של הפניות מסוימות מצביעות על החלק במסמך המשתמש בהפניה זו.
