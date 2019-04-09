@@ -226,9 +226,9 @@ Utilizzare contratti con wallet di tipo hardware per firmare qualsiasi cosa, inc
 
 Aggiornare i contratti danneggiati.
 
-Includere l'abilità di mettere in pausa la funzionalità di un contratto.
+Includere la possibilità di mettere in pausa la funzionalità di un contratto.
 
-Include ability to delay an action of a contract.
+Includere la possibilità di ritardare un azione di un contratto.
 
 #### 3.8.2 Auditing rogue processes
 
