@@ -6,9 +6,9 @@ Volentix מציג בתוכו את VDex, המשמש כ"חלפן כספים" למ�
 
 נקודת ההשקה של VDex מצפה להתאים את תנאי העיצוב של Volentix לטכנולוגיות זמינות שעל גבי מערכת ההפעלה המבוזרת EOS.IO. בכוונתנו לבחון את ההנחות שלנו באמצעות אב-טיפוס דרך תוכנת EZEOS מותאמת אישית, שאנחנו בעצם בנינו ועיצבנו אישית עם כלי ממשק שורת הפקודה של EOS.IO. תוכנה זו נמצאת ב: https://github.com/Volentix/ezeos
 
-## שוק המנדט
+## הקצאת השוק
 
-בעשור השני מאז היווצרותו של Bitcoin, שוק הנכסים הממוחשב מוגדר על ידי העליות והמורדות המסחררות הקורות על פי אחוז קטן מאוכלוסיית המסחר הגלובלית של אלפי מטבעות ממוחשבות (cryptocurrencies), הכוללות ברובן הונאות. הסתכלות מעבר להונאות, והתבוננות בערך האמין של היישומים הטכנולוגיים הנגלה בעשר השנים האחרונות, אם כי היינו מקדמים ומפרסמים טכנולוגיות אלו, הן בוודאי יחדרו לזרם המרכזי. מטבעות ממוחשבים לגיטימיים חייבים לשמש במסחר רחב. המוקד העיקרי של ריבוי נכסים ממוחשבים חייב להיות פישוט והעשרת חווית המשתמש. The choices of which existing technologies to employ and which unavailable technologies to develop must be driven by comfort, certainty, and security of user  
+בעשור השני מאז היווצרותו של Bitcoin, שוק הנכסים הממוחשב מוגדר על ידי העליות והמורדות המסחררות הקורות על פי אחוז קטן מאוכלוסיית המסחר הגלובלית של אלפי מטבעות ממוחשבות (cryptocurrencies), הכוללות ברובן הונאות. כאשר מסתכלים מעבר להונאות, ומתבוננים בערך של היישומים הטכנולוגיים האמינים שנחשפו בעשור האחרון, אם יש ברצוננו לקדם ולפרסם טכנולוגיות אלו, אז הן ודאי יחדרו לזרם המרכזי. מטבעות ממוחשבים לגיטימיים חייבים לשמש במסחר רחב. המוקד העיקרי של ריבוי נכסים ממוחשבים חייב להיות פישוט והעשרת חווית המשתמש. The choices of which existing technologies to employ and which unavailable technologies to develop must be driven by comfort, certainty, and security of user  
 transactions and related experiences.
 
 ## פתח השוק
@@ -39,7 +39,7 @@ VDex מתוכנן כחליפין מטבעות ונכסים ממוחשבים, ה�
 
 בכדי להקל גישה בעת שימוש בארבעת העמודים של Volentix, אנו מתכוונים להנפיק את מטבע התשמיש המקומי VTX. קמפיין התחלתי של Venue בעיצומו, ואנו אומדים הזדמנויות מכירה מראש, כמו כן גם תנאים ומושגים פוטנציאלים במידה ותהליך הנפקת המטבע הדיגיטלי מורשה.
 
-As currently conceived, an eosio.token contract from the EOS.IO framework would facilitate the issuance of 2.1 billion EOS.IO-compliant VTX tokens with a circulating supply of 1.3 billion. As a utility token, VTX envisions a diverse array of uses. למידע נוסף, אנא עיין ברשימת ה VDEX הלבנה שלנו ב <https://volentix.io/documentation/vdex-whitepaper.>
+As currently conceived, an eosio.token contract from the EOS.IO framework would facilitate the issuance of 2.1 billion EOS.IO-compliant VTX tokens with a circulating supply of 1.3 billion. בתור אסימון שירות, VTX מציג מערך מגוון של שימושים. למידע נוסף, אנא עיין ברשימת ה VDEX הלבנה שלנו ב <https://volentix.io/documentation/vdex-whitepaper.>
 
 ## שוק היצע וביקוש
 
