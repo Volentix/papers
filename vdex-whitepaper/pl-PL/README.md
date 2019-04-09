@@ -104,9 +104,9 @@ Węzły są punktami końcowymi wymiany VDex. Ich funkcjami są:
 
 Węzły pobierają część opłaty za każdą transakcję. Jeśli użytkownik posiada wystarczające środki i posiada historię potwierdzającą dobre wyniki, to jej lub jego portfel Verto może zachowywać się jak węzeł.
 
-#### 3.1.2 Aggregators
+#### 3.1.2 Agregatory
 
-The VDex aggregators are dedicated Volentix servers for simulator and security purposes. One of their functions is to pull logs and order book data from nodes into sparse distributed representations for hierarchical temporal memory as intrusion [7] analysis for detecting anomalies in the system. The aggregators will also be host to other components such as metachain ledgers and blockchain scrapers.
+Agregatory VDex są dedykowanymi serwerami Volentix do celów symulatora i bezpieczeństwa. One of their functions is to pull logs and order book data from nodes into sparse distributed representations for hierarchical temporal memory as intrusion [7] analysis for detecting anomalies in the system. The aggregators will also be host to other components such as metachain ledgers and blockchain scrapers.
 
 #### 3.1.3 Latency
 
