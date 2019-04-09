@@ -216,7 +216,7 @@ Conservare la maggior parte dei fondi in un conto a tempo ritardato, controllato
 
 Utilizzare la firma multipla su un hot wallet con diversi processi/server indipendenti che controllano due volte tutti i prelievi, con il vantaggio concomitante di creare una lista di conti affidabili.
 
-Deploy a custom contract that allows withdrawals only to accounts verified by KYC/AML.
+Distribuire uno smart contract che permette i prelievi solo per gli account verificati da KYC/AML.
 
 Deploy a custom contract that accepts only deposits of known assets from accounts verified by KYC/AML.
 
