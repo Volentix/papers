@@ -33,7 +33,7 @@ Vespucci משמש כמנוע לניתוח נתונים, נגיש מאוד בעז
 
 VDex מתוכנן כחליפין מטבעות ונכסים ממוחשבים, המבוזר ומופץ עם דגש על חווית המשתמש/ת, יחד עם פיתוח הקהילה והמנהל. על-ידי גישה לשיטות טכנולוגיות מבוססות ותכנון סלקטיבי של פרוטוקולים חדשים עם עדיפות על אבטחה, מהירות, אימות, קלות השימוש, מדרגיות ותמיכה רב-רכושית, VDex נועד להקל על עסקאות עמית- לעמית בעזרת הרכבת תיק עבודות של יישומים מבוזרים הבנויים על חוזים חכמים של EOS.IO.
 
-עבור שימוש חלק ומאובטח, אנו מתכננים לשלב את הVDEX לתוך ארנק הVERTO האישי שלך, ויחד עם ממשק הVESPUCCI למשתמש. Although we expect VERTO and VDEX ultimately to be able to manage transactions involving the vast array of digital assets and blockchains extant from time to time, we are developing VENUE as a complementary adjunct primarily in order to incentivize and drive native VTX-based transactions.
+עבור שימוש חלק ומאובטח, אנו מתכננים לשלב את הVDEX לתוך ארנק הVERTO האישי שלך, ויחד עם ממשק הVESPUCCI למשתמש. אף על פי שבסופו של דבר VERTO וVDEX אכן יצליחו לנהל העברות הקשורות למערך הרחב של נכסים דיגיטליים ובלוקצ'יינים קיימים מעת לעת, אנו מפתחים את הVENUE כתוספת משלימה שנועדה בעיקר לתמרץ ולהניע העברות המבוססות על VTX מקומי.
 
 ## שוק היצע וביקוש
 
