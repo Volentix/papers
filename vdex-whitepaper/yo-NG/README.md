@@ -286,9 +286,9 @@ Fun apẹrẹ, ni iṣaaju a ṣe ipinnu lati se agbekalẹ eto kan fun yiyan aw
 
 ### 3.12 IMUBỌSIPOPADA TI ETO
 
-Awọn ilana RAFT ati PARSEC pese eto ti o lagbara fun imubọsipopada ti ikuna oju ipade ba waye. Awọn igbesẹ aabo naa tun jẹ pipese fun iṣowo laarin ati ninu awọn blockchain abinibi. If a chain defies identification, the system defaults to the next block or a short time lock.
+Awọn ilana RAFT ati PARSEC pese eto ti o lagbara fun imubọsipopada ti ikuna oju ipade ba waye. Awọn igbesẹ aabo naa tun jẹ pipese fun iṣowo laarin ati ninu awọn blockchain abinibi. Ti asopọ kan ba kọ idanimọ, eto naa ma bọ si bulọọku to kan tabi atipa onigbadiẹ.
 
-### 3.13 EVOLVING ARCHITECTURE
+### 3.13 IYAWORAN TO N YI
 
 Daily announcements of fresh code developments impacting on use of digital assets reveal the tremendous benefit of the open-source code philosophy. We at Volentix recognize we are the beneficiaries of the enormous financial resources dedicated by many early movers to developing digital assets applications over the past decade. We now have an opportunity to take the next step by creating VDex, a decentralized exchange for the next generation of digital assets transactions.
 
