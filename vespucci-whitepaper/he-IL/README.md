@@ -407,25 +407,25 @@ The **implementation** of the Vespucci analysis tools is in Python using various
 
 Initially, most of those processes run on Linux Virtual Machines and results are kept in SQL databases. In case of insufficiency, a serverless frameworks shall be considered. In the immediate future powerful servers with GPUs are designed to perform efficiently all of our analysis (Kubernetes may be relevant here, assuming Docker containers).
 
-For Sentiment Analysis, and possibly other modules as well, a **node.js** system is used, though alternative implementations are easily swappable. The aggregate information being recorded, and continuously being derived, storing it in a static place is a requirement for the final version of Vespucci. MongoDB can be used by the other modules in the system to read and write such information. MongoDB is a mature document-oriented database useful in storing structured information, as is the case for the data that exists in the Vespucci system. An alternative may be CockroachDB.
+For Sentiment Analysis, and possibly other modules as well, a **node.js** system is used, though alternative implementations are easily swappable. לגרסה הסופית של Vespucci נדרש לאחסן את המידע המצטבר שנרשם, ומופק באופן רציף, במקום ניח ובטוח. MongoDB יכול לשמש לסיוע בקריאה ובכתיבה של מידע לתוכנות הקטנות הנמצאות במערכת. MongoDB is a mature document-oriented database useful in storing structured information, as is the case for the data that exists in the Vespucci system. אלטרנטיבה קיימת היא CockroachDB.
 
 Vespucci **data** sources may include, but not be limited to: historic trading records, trading trends, developer activity and plan analysis, digital asset distribution and governance information, terms and conditions and current and historic address balances as well as forum sentiment analysis. This information can be found scattered among blockchain explorer sites and chat rooms. In particular, Sentiment analysis (see relevant [section](https://docs.google.com/document/d/1NLr-rgF66NCBmLmPIdElltKYVPJrLVO7DZDpcNEm6OU/edit?ts=5bec2f33#heading=h.tuaauijo691s)) would require data on all coins for a limited period of time. This is a vast amount of data and in order to minimise the impact that data will have on the system, we employ big data techniques of compression, aggregation, and filtering.
 
 Storage techniques may rely on off-chain Order books developed by VLabs, which is a sophisticated data structure with high security standards. It relies on EOS.IO, and its persistence API. One advantage of such a system is that it is not expensive; on the other hand, it is sufficiently efficient for our purposes. While transactions are handled by the VDex, non-transactional data will remain off-chain.
 
-* ### **TIMELINE**
+* ### ** ציר זמן**
 
 ![](https://volentix.io/file/2019/01/Web-1920-–-2@3x.png)
 
 The project’s timeline is shown in the above figure. The main milestones are:  
 — Vespucci MVP. November 2018 .  
-— Vespucci, version 1.0\. April 2019.
+— Vespucci, version 1.0\. אפריל 2019.
 
-### **ACKNOWLEDGMENTS**
+### **הודאות**
 
 This text is based on NH’s original vision docs and AA’s update on them.
 
-### **REFERENCES**
+### **מקורות**
 
 [1] J. Yao et al. Forecasting and Analysis of Marketing Data using Neural Networks”, Journal of Science and Engineering 14:843-862 (1998)
 
@@ -437,7 +437,7 @@ This text is based on NH’s original vision docs and AA’s update on them.
 
 [5] Bird et al. Natural Language Processing with Python, O’Reilly Media Inc. (2009)
 
-[6] E. Stenqvist et al. Predicting Bitcoin price fluctuation with Twitter sentiment analysis. MSc Thesis. School of Computer Science and Communication, KTH Royal Institute of Technology, Stockholm, Sweden (2017)
+[6] E. Stenqvist et al. Predicting Bitcoin price fluctuation with Twitter sentiment analysis. תזת MSc. School of Computer Science and Communication, KTH Royal Institute of Technology, Stockholm, Sweden (2017)
 
 [7] H. Kakavand, N. Kost De Sevres, and B. Chilton, The Blockchain Revolution: An Analysis of Regulation and Technology Related to Distributed Ledger Technologies. SSRN Electronic Journal. 10.2139/ ssrn.2849251 (2017)
 
