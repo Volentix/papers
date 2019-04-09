@@ -182,9 +182,9 @@ Ipele 2. 10%.
 
 Ni ibamu si awọn ipo ọja ni akoko ti ikọwe yii, Volentix n gbero lori akoko, awọn ọna, ati awọn alaye ati awọn adehun ti pinpin VTX gẹgẹbi iṣẹ ti awọn tita-iṣaaju ti ikọkọ ati tita ti gbangba ti o ṣeeṣe. Jọwọ mojuto aaye ayelujara wa fun awọn ifitonileti.
 
-### 3.5 EOS.IO PLATFORM DEPLOYMENT
+### 3.5 ISAMULO PILATIFỌỌMU EOS.IO
 
-The following considerations are relevant to our deploying the VDex exchange on the EOS.IO platform:
+Awọn imọran wọnyi ni o ṣe pataki si bi a se fi imulo ibi ipaṣipaarọ VDex si ori pilatifọọmu EOS.IO:
 
 Lilo adehun ni idiyele sugbon ominira wa lati lo.
 
@@ -280,7 +280,7 @@ Our focus on user experience is primary. We wish to make VTX and the four pillar
 
 ### 3.11 TRUE DECENTRALIZATION
 
-EOS.IO is an open-source, scalable infrastructure for decentralized applications. Its goal is a fair and transparent block producer (BP) election process utilizing a democratic delegated proof of stake (DPoS) consensus. Particularly as such a system just begins to proliferate, there will be glitches. Therefore, some degree of retained centralization is inevitable and necessary. But our guiding philosophy is one of decentralization, and our ongoing efforts are targeted to promoting a reduction in dependence on central authority.
+EOS.IO is an open-source, scalable infrastructure for decentralized applications. Its goal is a fair and transparent block producer (BP) election process utilizing a democratic delegated proof of stake (DPoS) consensus. Particularly as such a system just begins to proliferate, there will be glitches. Therefore, some degree of retained centralization is inevitable and necessary. Ṣugbọn akọmọna itọnisọna wa jẹ ti alaisilojukan, ati awọn igbiyanju wa ti n lọ lọwọ jẹ fifojusun lati ṣe ipolongo mimu adinku ba gigbarale iṣakoso olojukan.
 
 For example, initially we plan to erect a system for electing nodes (when solving order books) that will not use a shared central clock or DPoS but instead will be based either on random timeouts for the determination of leaders in an election (RAFT) or on Directed Acyclic Graph (DAG) in the PARSEC protocol.
 
