@@ -166,11 +166,11 @@ Awujọ ohun-ini oni-nọmba kan nilo orisirisi awọn eroja pataki kan ti o j�
 
 2. Awon alatilẹyin.
 
-Ipele 1. 5%. Early passive seed funders.
+Ipele 1. 5%. Awọn olupese owo ni ibẹrẹ pẹpẹ.
 
-Ipele 2. 28%. Funders via qualified private pre-sales and possible public sale.
+Ipele 2. 28%. Awọn olupese owo nipasẹ awọn tita-iṣaaju ti ikọkọ ati tita ti gbangba ti o ṣeeṣe.
 
-3. Facilitators. (Advisors, Developers, Promoters, Custodians). Note that requirements for assistance from the sub-categories in this category may differ significantly before and after the project receives substantial funding support, but certain individuals may serve during both phases.
+3. Awọn oluṣeto. (Awọn oludamọran, Awọn olugbedide, Awọn olupolowo, Awọn oluṣọ). Note that requirements for assistance from the sub-categories in this category may differ significantly before and after the project receives substantial funding support, but certain individuals may serve during both phases.
 
 Ipele 1. 10%.
 
