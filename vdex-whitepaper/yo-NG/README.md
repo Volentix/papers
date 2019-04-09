@@ -162,9 +162,9 @@ Lati peṣe iwuri fun awọn olumulo lati ti owo pa fun> wakati 24 nipasẹ aw�
 
 Awujọ ohun-ini oni-nọmba kan nilo orisirisi awọn eroja pataki kan ti o jẹ ti eniyan ti o n ṣe itukọ iṣẹ akanṣe naa siwaju.[11] O ṣe pataki lati san owo iwuri fun awọn ẹni naa fun ikopa wọn. Dida lori atunṣe, Volentix lọwọlọwọ n ṣe ifojusọna fun awọn ipin wọnyi:
 
-1. Awọn olulọwọsi. 12%. An array of individuals, akin to founders, who contribute insights, time and talent, though often work without early compensation.
+1. Awọn olulọwọsi. 12%. Oriṣiriṣi awọn eniyan kan, to sunmọ awọn oludasilẹ, ti o n ṣe ilọwọsi pẹlu awọn oye, akoko ati talẹnti, botilẹjẹpe wọn ma n ṣiṣẹ ni ọpọ igba laisi ipese owo iwuri ni kiakia.
 
-2. Awọn alatilẹyin.
+2. Awon alatilẹyin.
 
 Ipele 1. 5%. Early passive seed funders.
 
