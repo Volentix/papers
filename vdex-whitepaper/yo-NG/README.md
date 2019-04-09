@@ -286,7 +286,7 @@ Fun apẹrẹ, ni iṣaaju a ṣe ipinnu lati se agbekalẹ eto kan fun yiyan aw
 
 ### 3.12 IMUBỌSIPOPADA TI ETO
 
-The RAFT and PARSEC protocols provide a robust system for recovery in the case of node failure. Security measures are also provided for trading between and among native blockchains. If a chain defies identification, the system defaults to the next block or a short time lock.
+Awọn ilana RAFT ati PARSEC pese eto ti o lagbara fun imubọsipopada ti ikuna oju ipade ba waye. Awọn igbesẹ aabo naa tun jẹ pipese fun iṣowo laarin ati ninu awọn blockchain abinibi. If a chain defies identification, the system defaults to the next block or a short time lock.
 
 ### 3.13 EVOLVING ARCHITECTURE
 
