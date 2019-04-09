@@ -142,11 +142,11 @@ Iyanju ibeere ni awọn eroja to jọra ti awọn iṣowo ọja owo ti alaiyat�
 
 #### 3.4.1 Ipinfunni ati Iwulo VTX
 
-VTX jẹ ohun-ini abinibi oni-nọmba ti o ma jẹ pinpin jade ati jẹ lilo lori ibi ipaṣipaarọ alaisilojukan ti VDex. A lọwọlọwọ gbero lati lo adehun aami eos.io lati ilana ti EOS.IO lati pin aami VTX ti o jẹ biliọnu 2.1 ti o ni ibaamu pẹlu EOS.IO pẹlu ipese ti o jẹ biliọnu 1.3. VTX will have a diverse array of uses, for example:
+VTX jẹ ohun-ini abinibi oni-nọmba ti o ma jẹ pinpin jade ati jẹ lilo lori ibi ipaṣipaarọ alaisilojukan ti VDex. A lọwọlọwọ gbero lati lo adehun aami eos.io lati ilana ti EOS.IO lati pin aami VTX ti o jẹ biliọnu 2.1 ti o ni ibaamu pẹlu EOS.IO pẹlu ipese ti o jẹ biliọnu 1.3. VTX yoo ni orisirisi ọpọlọpọ iwulo, fun apẹẹrẹ:
 
-To reward participants in the consensus process and in Venue campaigns.
+Lati san èrè fun awọn olukopa ninu ilana iṣọkan ati ninu awọn ipolongo Venue.
 
-To pay and redistribute transaction fees on the VDex exchange.
+Lati san ati ṣe atunpin awọn owo iṣowo lori ibi ipaṣipaarọ VDex.
 
 To submit and vote on proposals to the Volentix ecosystem, using the voting rights allocated to VTX holders.
 
