@@ -290,19 +290,19 @@ Awọn ilana RAFT ati PARSEC pese eto ti o lagbara fun imubọsipopada ti ikuna 
 
 ### 3.13 IYAWORAN TO N YI
 
-Daily announcements of fresh code developments impacting on use of digital assets reveal the tremendous benefit of the open-source code philosophy. We at Volentix recognize we are the beneficiaries of the enormous financial resources dedicated by many early movers to developing digital assets applications over the past decade. We now have an opportunity to take the next step by creating VDex, a decentralized exchange for the next generation of digital assets transactions.
+Awọn ikede ojoojumọ ti awọn agbedide koodu tuntun to n ni ipa lori ilo awọn ohun-ini oni-nọmba safihan anfaani nla ti akọmọna koodu orisun-gbangba. Awa ni Volentix da mọ pe awa ni olujẹ awọn anfani ti awọn ohun elo owo nla ti o jẹ yiyasọtọ nipa ọpọlọpọ awọn ti o tete kopa lati ṣe idagbasoke awọn ohun elo ohun-ini oni-nọmba ni ati bi ọdun mẹwa sẹyin. Ni bayii a ti ni anfani lati gbe igbesẹ to kan nipa ṣiṣẹda VDex, ibi ipaṣipaarọ alaisilojukan fun iran awọn iṣowo ohun-ini oni-nọmba ti o n bọ.
 
-## 4. CONCLUDING THOUGHTS
+## 4. AWỌN ERO IGBẸHIN
 
-All of us at Volentix are dedicating our work and insights to developing a program premised on empowerment and independence. If you are of a mind to join us, in whatever capacity, then please do so and please become educated on the topics contained in this white paper and additional Volentix publications as we share them with our community.
+Gbogbo wa ni Volentix n fi iṣẹ wa ati awọn oye wa jin si ṣiṣe igbedide eto kan ti o da lori ironilagbara ati ominira. Ti o ba ni ero lati darapọ mọ wa, ni eyikeyi aaye, nigbana jọwọ ṣe bẹ ati jọwọ ni ẹkọ lori awọn akori ti o wa ninu iwe funfun yii ati awọn afikun iwe atẹjade ti Volentix afikun bi a ṣe pin wọn pẹlu awujọ wa.
 
-## 5. TIMELINE
+## 5. ATẸ ISẸLẸ
 
-Please monitor our website and social media for updates and other important announcements. Thank you very much for your attention and interest.
+Jọwọ mojuto aaye ayelujara wa ati awọn ikanni ajọlo fun awọn ifitonileti ati awọn ikede pataki miiran. O ṣeun pupọ fun itẹtisilẹ ati inifẹsi rẹ.
 
-## DISCLAIMER
+## IKỌJALẸ
 
-This white paper was prepared, and is presented, for information purposes only. The information presented does not purport to be comprehensive. The information is subject to change in whole or in part at any time without notice. Volentix Labs reserves the right to amend, replace, remove, or delete any and all information at the sole and exclusive discretion of Volentix. Volentix Labs makes no representation or warranty, expressed or implied, concerning the accuracy or completeness of the information and expressly disclaims any and all liability of any and all kinds whatsoever for the information contained or not contained. Volentix Labs requests each and every reader to read the information fully and carefully, and to undertake independent investigation and analysis of the information, and to seek and obtain professional advice for purposes of evaluating the information. To the knowledge of Volentix Labs, no regulatory agency, government, or other third-party enforcement entity has reviewed, evaluated, or approved any part or all of the information. This information is not an offer or solicitation of any kind whatsoever and does not form the basis for any contract or commitment of any kind whatsoever. Any statement considered to be forward-looking is purely a matter of opinion, and no viewer should rely on any such statement or on any part or all of the information in any way whatsoever.
+Iwe funfun jẹ pipese, o si jẹ gbigbekalẹ, fun awọn idi alaye nikan. Ifitonileti to jẹ gbigbekalẹ naa ko jẹmọ pe o kun fọfọ. Ifitonileti naa jẹmọ ki o ni ayipada ni odidi tabi ni apakan ni eyikeyi akoko laisi ikede. Awọn Laabu Volentix ni ẹtọ lati ṣe atunṣe, rọpo, yọ kuro, tabi pa eyikeyi ati gbogbo alaye rẹ pẹlu ifẹ inu ati ipinnu ti o jẹ ti Volentix nikan soso. Awọn Laabu Volentix ko ṣe aṣoju tabi majẹmu atilẹyin kankan, ṣafihan tabi ṣe itumọsi, nipa ti iṣedeede tabi aṣepari ti ifitonileti naa ati ṣe ikọjalẹ kedere ti eyikeyi ati gbogbo gbese ti eyikeyi ati gbogbo eyiowu ti ki ba jẹ fun ifitonileti ti o wa ninu ẹ tabi ti ko si ninu ẹ. Awọn Laabu Volentix nilo ki ọkọọkan ati gbogbo oluka ka alaye naa ni kikun ati ni ifarabalẹ, ati lati ṣe iwadi ti ara ẹni ati iyanana ti alaye naa, ati lati wa ati gba imọran ọjọgbọn fun awọn idi ti ṣiṣe igbelewọn alaye naa. To the knowledge of Volentix Labs, no regulatory agency, government, or other third-party enforcement entity has reviewed, evaluated, or approved any part or all of the information. This information is not an offer or solicitation of any kind whatsoever and does not form the basis for any contract or commitment of any kind whatsoever. Any statement considered to be forward-looking is purely a matter of opinion, and no viewer should rely on any such statement or on any part or all of the information in any way whatsoever.
 
 ## FOOTNOTES
 
