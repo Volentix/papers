@@ -170,15 +170,15 @@ Ipele 1. 5%. Awọn olupese owo ni ibẹrẹ pẹpẹ.
 
 Ipele 2. 28%. Awọn olupese owo nipasẹ awọn tita-iṣaaju ti ikọkọ ati tita ti gbangba ti o ṣeeṣe.
 
-3. Awọn oluṣeto. (Awọn oludamọran, Awọn olugbedide, Awọn olupolowo, Awọn oluṣọ). Note that requirements for assistance from the sub-categories in this category may differ significantly before and after the project receives substantial funding support, but certain individuals may serve during both phases.
+3. Awọn oluṣeto. (Awọn oludamọran, Awọn olugbedide, Awọn olupolowo, Awọn oluṣọ). Kiyesi pe awọn ibeere fun iranlọwọ lati awọn ipin-ẹka ninu ẹka yii le yatọ gidi gan ṣaaju ki ati lẹhin ti iṣẹ akanṣe naa gba owo atilẹyin ti o lapẹrẹ, ṣugbọn awọn eniyan kan le ṣiṣẹ ni awọn ipele mejeeji.
 
 Ipele 1. 10%.
 
 Ipele 2. 10%.
 
-4. Isura alaisilojukan. 35%. Community members incentivized and rewarded for participation in progressive development of a decentralized autonomous organization (DAO). A decentralized treasury is anticipated to be administered by smart contracts and community consensus. ![](../5.jpg)
+4. Isura alaisilojukan. 35%. Awọn eniyan awujọ peṣe iwuri ati san èrè fun ikopa ninu idagbasoke onitẹsiwaju ti ajọ aladase alaisilojukan (DAO). Isura alaisilojukan n jẹ fifojusọna fun lati jẹ lilo nipasẹ awọn adehun ajafafa ati iṣọkan awujọ. ![](../5.jpg)
 
-#### 3.4.3 VTX Distribution
+#### 3.4.3 Pinpin VTX
 
 In light of market conditions at the time of this writing, Volentix is considering timing, means, and terms and conditions of VTX distribution as a function of private pre-sales and possible public sale. Please monitor our website for updates.
 
