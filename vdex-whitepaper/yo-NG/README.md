@@ -152,7 +152,7 @@ Lati fi silẹ ati di ibo lori awọn igbero si awujọ ti Volentix, lilo awọn
 
 Lati pese atilẹyin fun atunyẹwo awọn igbero ati amuṣiṣẹ awọn iṣẹ akanṣe.
 
-To incentivize users to participate in order book settlement by becoming nodes via their Verto wallets.
+Lati peṣe iwuri fun awọn olumulo lati kopa ninu iyanju iwe ibeere nipa dida awọn oju ipade nipasẹ awọn apo owo Verto wọn.
 
 To incentivize users to lock funds in for >24 hours by HTLC time-bound transactions.
 
