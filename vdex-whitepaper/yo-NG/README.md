@@ -154,9 +154,9 @@ Lati pese atilẹyin fun atunyẹwo awọn igbero ati amuṣiṣẹ awọn iṣ�
 
 Lati peṣe iwuri fun awọn olumulo lati kopa ninu iyanju iwe ibeere nipa dida awọn oju ipade nipasẹ awọn apo owo Verto wọn.
 
-To incentivize users to lock funds in for >24 hours by HTLC time-bound transactions.
+Lati peṣe iwuri fun awọn olumulo lati ti owo pa fun> wakati 24 nipasẹ awọn iṣowo HTLC ti akoko de.
 
-#### 3.4.2 VTX Allocation
+#### 3.4.2 Pinpin VTX
 
 ![](../6.jpg)
 
