@@ -168,7 +168,7 @@ Awujọ ohun-ini oni-nọmba kan nilo orisirisi awọn eroja pataki kan ti o j�
 
 Ipele 1. 5%. Awọn olupese owo ni ibẹrẹ pẹpẹ.
 
-Ipele 2. 28%. Awọn olupese owo nipasẹ awọn tita-iṣaaju ti ikọkọ ati tita ti gbangba ti o ṣeeṣe.
+Ipele 2. 28%. Awọn olupese owo nipasẹ awọn tita-iṣaaju ti ikọkọ ati tita ti gbangba ti o ṣeeṣe to kun ojuiwọn.
 
 3. Awọn oluṣeto. (Awọn oludamọran, Awọn olugbedide, Awọn olupolowo, Awọn oluṣọ). Kiyesi pe awọn ibeere fun iranlọwọ lati awọn ipin-ẹka ninu ẹka yii le yatọ gidi gan ṣaaju ki ati lẹhin ti iṣẹ akanṣe naa gba owo atilẹyin ti o lapẹrẹ, ṣugbọn awọn eniyan kan le ṣiṣẹ ni awọn ipele mejeeji.
 
@@ -180,7 +180,7 @@ Ipele 2. 10%.
 
 #### 3.4.3 Pinpin VTX
 
-In light of market conditions at the time of this writing, Volentix is considering timing, means, and terms and conditions of VTX distribution as a function of private pre-sales and possible public sale. Please monitor our website for updates.
+Ni ibamu si awọn ipo ọja ni akoko ti ikọwe yii, Volentix n gbero lori akoko, awọn ọna, ati awọn alaye ati awọn adehun ti pinpin VTX gẹgẹbi iṣẹ ti awọn tita-iṣaaju ti ikọkọ ati tita ti gbangba ti o ṣeeṣe. Jọwọ mojuto aaye ayelujara wa fun awọn ifitonileti.
 
 ### 3.5 EOS.IO PLATFORM DEPLOYMENT
 
