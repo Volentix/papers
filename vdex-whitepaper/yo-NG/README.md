@@ -160,9 +160,9 @@ Lati peṣe iwuri fun awọn olumulo lati ti owo pa fun> wakati 24 nipasẹ aw�
 
 ![](../6.jpg)
 
-A digital assets ecosystem requires an array of certain fundamental human constituents who shepherd the project forward.[11] It is essential to compensate those individuals for their participation. Subject to adjustment, Volentix currently anticipates the following allocations:
+Awujọ ohun-ini oni-nọmba kan nilo orisirisi awọn eroja pataki kan ti o jẹ ti eniyan ti o n ṣe itukọ iṣẹ akanṣe naa siwaju.[11] O ṣe pataki lati san owo iwuri fun awọn ẹni naa fun ikopa wọn. Dida lori atunṣe, Volentix lọwọlọwọ n ṣe ifojusọna fun awọn ipin wọnyi:
 
-1. Contributors. 12%. An array of individuals, akin to founders, who contribute insights, time and talent, though often work without early compensation.
+1. Awọn olulọwọsi. 12%. An array of individuals, akin to founders, who contribute insights, time and talent, though often work without early compensation.
 
 2. Awọn alatilẹyin.
 
