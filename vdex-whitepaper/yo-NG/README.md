@@ -148,7 +148,7 @@ Lati san èrè fun awọn olukopa ninu ilana iṣọkan ati ninu awọn ipolongo
 
 Lati san ati ṣe atunpin awọn owo iṣowo lori ibi ipaṣipaarọ VDex.
 
-To submit and vote on proposals to the Volentix ecosystem, using the voting rights allocated to VTX holders.
+Lati fi silẹ ati di ibo lori awọn igbero si awujọ ti Volentix, lilo awọn ẹtọ idibo ti o jẹ pinpin fun awọn olumudani VTX.
 
 To stake support for reviewing proposals and implementing projects.
 
