@@ -150,7 +150,7 @@ Lati san ati ṣe atunpin awọn owo iṣowo lori ibi ipaṣipaarọ VDex.
 
 Lati fi silẹ ati di ibo lori awọn igbero si awujọ ti Volentix, lilo awọn ẹtọ idibo ti o jẹ pinpin fun awọn olumudani VTX.
 
-To stake support for reviewing proposals and implementing projects.
+Lati pese atilẹyin fun atunyẹwo awọn igbero ati amuṣiṣẹ awọn iṣẹ akanṣe.
 
 To incentivize users to participate in order book settlement by becoming nodes via their Verto wallets.
 
