@@ -216,17 +216,17 @@ Conservare la maggior parte dei fondi in un conto a tempo ritardato, controllato
 
 Utilizzare la firma multipla su un hot wallet con diversi processi/server indipendenti che controllano due volte tutti i prelievi, con il vantaggio concomitante di creare una lista di conti affidabili.
 
-Distribuire uno smart contract che permette i prelievi solo per gli account verificati da KYC/AML.
+Distribuire un contract personalizzato che permette i prelievi solo per gli account verificati da KYC/AML.
 
-Deploy a custom contract that accepts only deposits of known assets from accounts verified by KYC/AML.
+Distribuire un contratto personalizzato che accetta solo i depositi di asset conosciuti provenienti da account verificati da KYC/AML.
 
-Deploy a custom contract that requires a mandatory 24-hour waiting period for all withdrawals.
+Distribuire un contratto personalizzato che necessita un periodo di attesa obbligatorio di 24 ore per tutti i prelievi.
 
-Utilize contracts with hardware wallets for all signing, including for automated withdrawals.
+Utilizzare contratti con wallet di tipo hardware per firmare qualsiasi cosa, inclusi i prelievi automatici.
 
-Upgrade broken contracts.
+Aggiornare i contratti danneggiati.
 
-Include ability to pause the functionality of a contract.
+Includere l'abilità di mettere in pausa la funzionalità di un contratto.
 
 Include ability to delay an action of a contract.
 
