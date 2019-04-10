@@ -17,7 +17,7 @@ To address the prevailing market mandate, the VOLENTIX ecosystem introduces an i
 
 ## Venue
 
-Venue is planned as a dynamic community platform that recruits and aligns members of the VOLENTIX community to facilitate distribution of the native VTX token, and to promote awareness of VOLENTIX community initiatives. קמפיין VENUE התחלתי יוצא לדרך. אנא בקר/י <https://venue.volentix.io> למידע נוסף.
+Venue היא פלטפורמה דינאמית לקהילה, שמגייסת ומיישרת את חברי קהילתה בכדי להקל על ביזור VTX, הנכס הדיגיטלי המקומי של Volentix, ועל מנת לעלות מודעות בנוגע ליוזמות Volentix. קמפיין VENUE התחלתי יוצא לדרך. אנא בקר/י <https://venue.volentix.io> למידע נוסף.
 
 ## Verto
 
