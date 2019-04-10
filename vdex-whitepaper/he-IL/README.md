@@ -24,7 +24,7 @@ Venue היא פלטפורמה דינאמית לקהילה, שמגייסת ומי
 
 ### 2.2 VERTO
 
-Verto is being built as a multi-currency wallet for use with the VDex decentralized exchange, and intends to facilitate personal custody and local management of private and public keys in peer-to-peer transactions, with the goal of eliminating the risks of devastating losses of stake associated with traumatic failures of central operators. Verto plans to employ a system of smart contracts to maintain the state between two trading clients, the simplest operations being accomplished with atomic swaps.[1]
+Verto מעוצב כארנק רב-מטבעות לשימוש עם ''חלפן הכספים'' VDex המבוזר, המתוכנן בכדי להקל על ניהול אישי ומקומי של מפתחות פרטיים וציבוריים בעסקאות בין עמית- לעמית, עם המטרה לחיסול כל סיכון של ספיגת אבידות כבדות המשויכות עם כשלים טראומטיים של מפעילים מרכזיים. Verto plans to employ a system of smart contracts to maintain the state between two trading clients, the simplest operations being accomplished with atomic swaps.[1]
 
 ### 2.3 VESPUCCI
 
