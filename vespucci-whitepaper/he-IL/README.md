@@ -417,13 +417,13 @@ Storage techniques may rely on off-chain Order books developed by VLabs, which i
 
 ![](https://volentix.io/file/2019/01/Web-1920-–-2@3x.png)
 
-The project’s timeline is shown in the above figure. The main milestones are:  
-— Vespucci MVP. November 2018 .  
-— Vespucci, version 1.0\. אפריל 2019.
+The project’s timeline is shown in the above figure. אבני הדרך העיקריות הן:  
+-- Vespucci MVP. נובמבר 2018 .  
+-- Vespucci, גירסה 1.0/. אפריל 2019.
 
 ### **הודאות**
 
-This text is based on NH’s original vision docs and AA’s update on them.
+טקסט זה מבוסס על מסמכי חזון מקוריים של NH ועדכון של AA עליהם.
 
 ### **מקורות**
 
@@ -445,11 +445,11 @@ This text is based on NH’s original vision docs and AA’s update on them.
 
 [9] Volentix Labs,The Volentix VDEX Whitepaper (2018) <https://s3.ca-central-1.amazonaws.com/volentix/VDexWhitePaper.pdf>
 
-[10] <http://crix.hu-berlin.de/> [Technical Analysis]
+[10] <http://crix.hu-berlin.de/> [ ניתוח טכני]
 
 [11] <https://hackernoon.com/a-framework-for-evaluating-cryptocurrencies-e1b504179848>
 
-[12] <https://eos.io/>, Eos.io technical white paper v2 (2018).
+[12] <https://eos.io/>, רשימה לבנה טכנית Eos.io (v2 (2018.
 
 [13] <https://cryptocoinrankings.com/index.php> [התרעות טכניות]
 
