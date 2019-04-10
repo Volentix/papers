@@ -375,7 +375,7 @@ USER OPTIONS
 
 * ### **OVERALL ARCHITECTURE AND IMPLEMENTATION**
 
-We have discussed the three main subsystems of Fundamental / Technological Analysis, Technical Analysis, and Sentiment Analysis. All three pillars are imperfect. Furthermore, only the most experienced analysts can combine all three systems in one rating strategy. The final score for each cryptocurrency depends on each of the three components, weighted either by default values or by weighs provided by the user. Since we are firm believers in the value of the technology and the value of the team behind each cryptocurrency, FTA and, especially, the technological aspects are assigned a total weight of 50% by default. Based on research and trial of assessment parameters, appropriate weights are derived to quantifiably gauge the validity of a coin. אנו מנצלים את פריצות הדרך האחרונות ברשתות עצביות עמוקות על מנת להפוך את שילוב התוצאות לאוטומטי, ללא התערבות אנושית, וכך גם להימנע מחד- צדדיות ישירה או עקיפה.
+We have discussed the three main subsystems of Fundamental / Technological Analysis, Technical Analysis, and Sentiment Analysis. All three pillars are imperfect. Furthermore, only the most experienced analysts can combine all three systems in one rating strategy. The final score for each cryptocurrency depends on each of the three components, weighted either by default values or by weighs provided by the user. Since we are firm believers in the value of the technology and the value of the team behind each cryptocurrency, FTA and, especially, the technological aspects are assigned a total weight of 50% by default. Based on research and trial of assessment parameters, appropriate weights are derived to quantifiably gauge the validity of a coin. אנו מנצלים את פריצות הדרך האחרונות ב''רשתות עצביות עמוקות'' על מנת להפוך את שילוב התוצאות לאוטומטי, ללא התערבות אנושית, וכך גם להימנע מחד- צדדיות ישירה או עקיפה.
 
 The outputs of all three constituents together with the corresponding price (the price being inverse to risk) movements for different frames yield a ranking of the cryptocurrencies and the tokens in the most holistic approach ever achieved. This is coupled with Post-processing for humans.
 
@@ -407,17 +407,17 @@ The **implementation** of the Vespucci analysis tools is in Python using various
 
 Initially, most of those processes run on Linux Virtual Machines and results are kept in SQL databases. In case of insufficiency, a serverless frameworks shall be considered. In the immediate future powerful servers with GPUs are designed to perform efficiently all of our analysis (Kubernetes may be relevant here, assuming Docker containers).
 
-For Sentiment Analysis, and possibly other modules as well, a **node.js** system is used, though alternative implementations are easily swappable. לגרסה הסופית של Vespucci נדרש לאחסן את המידע המצטבר שנרשם, ומופק באופן רציף, במקום ניח ובטוח. MongoDB יכול לשמש לסיוע בקריאה ובכתיבה של מידע לתוכנות הקטנות הנמצאות במערכת. MongoDB is a mature document-oriented database useful in storing structured information, as is the case for the data that exists in the Vespucci system. אלטרנטיבה קיימת היא CockroachDB.
+For Sentiment Analysis, and possibly other modules as well, a **node.js** system is used, though alternative implementations are easily swappable. נדרש לאחסן את המידע המצטבר שמופק ונשמר באופן רציף, במקום נייח ובטוח. דבר זה הינו הכרחי עבור הגירסה הסופית של Vespucci. האפליקציות במערכת יכולות להשתמש בMongoDB לסיוע בקריאה וכתיבה של מידע. MongoDB is a mature document-oriented database useful in storing structured information, as is the case for the data that exists in the Vespucci system. אלטרנטיבה קיימת היא CockroachDB.
 
 Vespucci **data** sources may include, but not be limited to: historic trading records, trading trends, developer activity and plan analysis, digital asset distribution and governance information, terms and conditions and current and historic address balances as well as forum sentiment analysis. This information can be found scattered among blockchain explorer sites and chat rooms. In particular, Sentiment analysis (see relevant [section](https://docs.google.com/document/d/1NLr-rgF66NCBmLmPIdElltKYVPJrLVO7DZDpcNEm6OU/edit?ts=5bec2f33#heading=h.tuaauijo691s)) would require data on all coins for a limited period of time. This is a vast amount of data and in order to minimise the impact that data will have on the system, we employ big data techniques of compression, aggregation, and filtering.
 
-Storage techniques may rely on off-chain Order books developed by VLabs, which is a sophisticated data structure with high security standards. It relies on EOS.IO, and its persistence API. One advantage of such a system is that it is not expensive; on the other hand, it is sufficiently efficient for our purposes. למרות שהעברות מנוהלות על ידי VDex, נתוני מידע שאינם קשורים לעסקאות יישארו מחוץ לרשת.
+Storage techniques may rely on off-chain Order books developed by VLabs, which is a sophisticated data structure with high security standards. It relies on EOS.IO, and its persistence API. One advantage of such a system is that it is not expensive; on the other hand, it is sufficiently efficient for our purposes. על אף שהעברות מנוהלות על ידי VDex, נתוני מידע שאינם קשורים לעסקאות יישארו מחוץ לרשת.
 
 * ### ** ציר זמן**
 
 ![](https://volentix.io/file/2019/01/Web-1920-–-2@3x.png)
 
-ציר הזמן של הפרויקט מוצג בספרה הנ''ל. אבני הדרך העיקריות הן:  
+ציר הזמן של הפרויקט מוצג במספר הנ''ל. אבני הדרך העיקריות הן:  
 -- Vespucci MVP. נובמבר 2018 .  
 -- Vespucci, גירסה 1.0/. אפריל 2019.
 
