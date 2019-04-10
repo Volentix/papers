@@ -437,13 +437,13 @@ The project’s timeline is shown in the above figure. אבני הדרך העי�
 
 [5] Bird et al. Natural Language Processing with Python, O’Reilly Media Inc. (2009)
 
-[6] E. Stenqvist et al. Predicting Bitcoin price fluctuation with Twitter sentiment analysis. תזת MSc. School of Computer Science and Communication, KTH Royal Institute of Technology, Stockholm, Sweden (2017)
+[6] E. Stenqvist et al. חיזוי תנודות במחיר הביטקוין עם כריית דעות טוויטר. תזת MSc. בית הספר למדעי המחשב ותקשורת, KTH המכון המלכותי של טכנולוגיה, שטוקהולם, שוודיה (2017)
 
-[7] H. Kakavand, N. Kost De Sevres, and B. Chilton, The Blockchain Revolution: An Analysis of Regulation and Technology Related to Distributed Ledger Technologies. SSRN Electronic Journal. 10.2139/ ssrn.2849251 (2017)
+[7] H. Kakavand, N. Kost De Sevres, and B. Chilton, The Blockchain Revolution: An Analysis of Regulation and Technology Related to Distributed Ledger Technologies. SSRN יומן אלקטרוני. (2017) 10.2139/ ssrn.2849251
 
-[8] Arup Foresight: Blockchain Technology
+[8] Arup צפייה מראש: טכנולוגיית הבלוקצ'יין
 
-[9] Volentix Labs,The Volentix VDEX Whitepaper (2018) <https://s3.ca-central-1.amazonaws.com/volentix/VDexWhitePaper.pdf>
+[9] מעבדות Volentix, רשימת הVolentix VDEX הלבנה (2018) <https://s3.ca-central-1.amazonaws.com/volentix/VDexWhitePaper.pdf>
 
 [10] <http://crix.hu-berlin.de/> [ ניתוח טכני]
 
