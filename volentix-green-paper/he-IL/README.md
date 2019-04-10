@@ -17,11 +17,11 @@ To address the prevailing market mandate, the VOLENTIX ecosystem introduces an i
 
 ## Venue
 
-Venue is planned as a dynamic community platform that recruits and aligns members of the VOLENTIX community to facilitate distribution of the native VTX token, and to promote awareness of VOLENTIX community initiatives. An initial VENUE signature campaign is underway. אנא בקר/י <https://venue.volentix.io> למידע נוסף.
+Venue is planned as a dynamic community platform that recruits and aligns members of the VOLENTIX community to facilitate distribution of the native VTX token, and to promote awareness of VOLENTIX community initiatives. קמפיין VENUE התחלתי יוצא לדרך. אנא בקר/י <https://venue.volentix.io> למידע נוסף.
 
 ## Verto
 
-Verto will be a multi-currency wallet for use with the VDEX exchange, and intends to facilitate custody of private keys for use in peer-to-peer transactions. Both private and public keys will be locally managed, with the goal of eliminating the risks of devastating losses of stake associated with traumatic failures of central operators. אנא קרא/י את ספר המבוא של Verto על ידי ביקור ב<http://verto.vdex.io/>
+Verto מעוצב כארנק רב-מטבעות לשימוש עם ''חלפן הכספים'' VDex המבוזר, המתוכנן בכדי להקל על ניהול אישי ומקומי של מפתחות פרטיים וציבוריים בעסקאות בין עמית- לעמית. מפתחות פרטיים וציבוריים ינוהלו באופן מקומי, עם המטרה לחיסול כל סיכון של ספיגת אבידות כבדות המשויכות עם כשלים טראומטיים של מפעילים מרכזיים. אנא קרא/י את ספר המבוא של Verto על ידי ביקור ב<http://verto.vdex.io/>
 
 ## Vespucci
 
