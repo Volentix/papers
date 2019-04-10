@@ -18,13 +18,13 @@ Volentix מציג בתוכו את VDex, המשמש כ"חלפן כספים" למ�
 
 ### 2.1 VENUE
 
-Venue היא פלטפורמה דינאמית לקהילה, שמגייסת ומיישרת את חברי קהילתה בכדי להקל על ביזור VTX, הנכס הדיגיטלי המקומי של Volentix, ועל מנת לעלות מודעות בנוגע ליוזמות Volentix.
+Venue היא פלטפורמה דינאמית לקהילה, שמגייסת ומארגנת את חברי קהילתה בכדי להקל על ביזור הVTX- הנכס הדיגיטלי המקומי של Volentix, ועל מנת לעלות מודעות בנוגע ליוזמות Volentix.
 
-לאחרונה הושק בגירסת הבדיקה הניסיונית, Venue מאפשרת למשתמשים לקבל VTX בתמורה, לדוגמא, להשתתפות בפיתוח קהילות נאמנות, הגשת תיקונים לבאגים, ודרישת פרסים. לוח תוצאות ומדדים חיים משקפים את השתתפות המשתמש. The first signature campaign was launched on the https://bitcointalk.org/ forum on July 13, 2018. אנא בקר/י ב https://venue.volentix.io למידע נוסף.
+לאחרונה הושקה בגירסת הבטא, Venue מאפשרת למשתמשים לקבל VTX בתמורה להשתתפות בפיתוח קהילתי, הגשת תיקונים לבאגים, וקבלת תגמולים. לוח תוצאות ומדדים חיים משקפים את השתתפות המשתמש. The first signature campaign was launched on the https://bitcointalk.org/ forum on July 13, 2018. אנא בקר/י ב https://venue.volentix.io למידע נוסף.
 
 ### 2.2 VERTO
 
-Verto מעוצב כארנק רב-מטבעות לשימוש עם ''חלפן הכספים'' VDex המבוזר, המתוכנן בכדי להקל על ניהול אישי ומקומי של מפתחות פרטיים וציבוריים בעסקאות בין עמית- לעמית, עם המטרה לחיסול כל סיכון של ספיגת אבידות כבדות המשויכות עם כשלים טראומטיים של מפעילים מרכזיים. Verto plans to employ a system of smart contracts to maintain the state between two trading clients, the simplest operations being accomplished with atomic swaps.[1]
+Verto מעוצב כארנק רב-מטבעות לשימוש עם ''חלפן הכספים'' המבוזר VDex, המכוון להקל על ניהול אישי ומקומי של מפתחות פרטיים וציבוריים בעסקאות בין עמית- לעמית, עם המטרה לחיסול סיכון של ספיגת אבידות כבדות המשויכות לכשלים טראומטיים של מפעילים מרכזיים. Verto plans to employ a system of smart contracts to maintain the state between two trading clients, the simplest operations being accomplished with atomic swaps.[1]
 
 ### 2.3 VESPUCCI
 
