@@ -118,7 +118,7 @@ Volentix تقدم VDex المصمم كموزع ومنصة تبادل لا مرك
 
 #### 3.2.1 هياكل البيانات
 
-Using the Loopring Protocol FIFO (first-in first-out) circular buffer, nodes can design their order books to display and match a user’s order. This method follows an OTC model, where limit orders are positioned based on price only.[5]
+باستخدام المخزن المؤقت (buffer) الدائري الخاص ببروتوكول Loopring تقنية (FIFO (first-in first-out، يمكن للعُقد تصميم دفاتر طلباتها لعرض ومطابقة طلب المستخدم. تتبع هذه الطريقة نموذج OTC، حيث يتم وضع طلبات الحدود بناءً على السعر فقط.[5]
 
 بالرجوع إلى واجهة برمجة تطبيقات EOS.IO، فإن دفتر الطلبات قادر على الاستفادة من الحاوية القوية المتعددة الفهارس المشتركة بين العُقد من خلال حساب EOS.IO نفسه.
 
@@ -130,145 +130,145 @@ Using the Loopring Protocol FIFO (first-in first-out) circular buffer, nodes can
 
 يتواجد في المجمع، تعمل دفاتر الطلبات الغير متصلة بالشبكة لأغراض المحاكاة والأمان.
 
-#### 3.2.4 Decentralization process of order book settlement
+#### 3.2.4 العملية اللامركزية لتسوية دفتر الطلبات
 
-For decentralization purposes, nodes will take turns to settle the order book. The settling node must be designated by the protocol and all order book entries from all nodes must be available to the settling nodes. We believe the RAFT[9] and PARSEC[10] consensus mechanisms offer effective solutions. RAFT is a well-established algorithm and is easy to implement.[7] PARSEC is more recent and more efficient, using Directed Acyclic Graph (DAG) technology and eliminating the need for copying logs.
+ستتناوب العُقد لتسوية دفتر الطلبات من أجل ضمان اللامركزية. يجب أن يتم تعيين عُقدة التسوية بواسطة البروتوكول ويجب أن تكون جميع إدخالات دفتر الطلبات من جميع العُقد متاحة لعُقد التسوية. نعتقد أن آليات الإجماع [RAFT[9 و [PARSEC [10 توفر حلولًا فعالة. RAFT هي خوارزمية راسخة وسهلة التطبيق.[7] PARSEC أكثر حداثة وكفاءة، وذلك باستخدام تقنية (Direct Acyclic Graph (DAG وتقليل الحاجة إلى نسخ السجلات.
 
-### 3.3 ORDER SETTLEMENT
+### 3.3 تسوية الطلبات
 
-Order settlement contains familiar elements of conventional financial market transactions. Utilizing FIFO technology to design the order book, VDex intends to check order, inventory, and fill rate, as well as limit orders and cancellations. ![](../7.jpg)
+تحتوي تسوية الطلبات على عناصر مألوفة لمعاملات السوق المالية التقليدية. و ذلك باستخدام تقنية FIFO لتصميم دفتر الطلبات، تعتزم VDex التحقق من الطلب، المخزون، معدل ملء الطلبات بالإضافة إلى الطلبات المحدودة والإلغاءات. ![](../7.jpg)
 
 ### 3.4 VTX
 
-#### 3.4.1 VTX Issuance and Use
+#### 3.4.1 إصدار VTX والاستخدام
 
-VTX is the native digital asset to be issued and used on the VDex decentralized exchange. We currently plan to use an eosio.token contract from the EOS.IO framework to issue 2.1 billion EOS.IO-compliant VTX tokens with a supply of 1.3 billion. VTX will have a diverse array of uses, for example:
+VTX هو الأصل الرقمي الأصلي الذي سيتم إصداره واستخدامه في منصة VDex اللامركزية للتبادل. نخطط حاليًا لاستخدام عَقد eosio.token من هيكل EOS.IO لإصدار 2.1 مليار من عملة VTX المتوافقة مع EOS.IO بتزويد 1.3 مليار (supply). سيكون لدى VTX مجموعة متنوعة من الاستخدامات، على سبيل المثال:
 
-To reward participants in the consensus process and in Venue campaigns.
+لمكافأة المشاركين في عملية الإجماع وحملات Venue.
 
-To pay and redistribute transaction fees on the VDex exchange.
+لدفع وإعادة توزيع رسوم المعاملات على منصة التبادل VDex.
 
-To submit and vote on proposals to the Volentix ecosystem, using the voting rights allocated to VTX holders.
+لتقديم المقترحات والتصويت على بيئة Volentix، باستخدام حقوق التصويت المخصصة لحاملي VTX.
 
-To stake support for reviewing proposals and implementing projects.
+لتقديم الدعم لمراجعة المقترحات وتطبيق المشاريع.
 
-To incentivize users to participate in order book settlement by becoming nodes via their Verto wallets.
+لتحفيز المستخدمين على المشاركة في تسوية دفتر الطلبات عبر تحويل محافظ Verto الخاصة بهم إلى عُقد.
 
-To incentivize users to lock funds in for >24 hours by HTLC time-bound transactions.
+لتحفيز المستخدمين على تأمين الأموال لمدة تزيد عن 24 ساعة عن طريق معاملات HTLC المحددة زمنياً.
 
-#### 3.4.2 VTX Allocation
+#### 3.4.2 تخصيص VTX
 
 ![](../6.jpg)
 
-A digital assets ecosystem requires an array of certain fundamental human constituents who shepherd the project forward.[11] It is essential to compensate those individuals for their participation. Subject to adjustment, Volentix currently anticipates the following allocations:
+تتطلب بيئية الأصول الرقمية مجموعة من العناصر البشرية الأساسية التي ترشد المشروع إلى الأمام.[11] من الضروري تعويض مشاركات هؤلاء الأفراد. مع مراعاة التعديل، تتوقع Volentix حاليًا التخصيصات التالية:
 
-1. Contributors. 12%. An array of individuals, akin to founders, who contribute insights, time and talent, though often work without early compensation.
+1. المساهمون. 12%. مجموعة من الأفراد، على غرار المؤسسين، الذين يساهمون بالأفكار، الوقت والموهبة، رغم أنهم غالباً ما يعملون بدون تعويض مبكر.
 
-2. Supporters.
+2. الداعمون.
 
-Phase 1. 5%. Early passive seed funders.
+المرحلة الاولى. 5%. ممولي وحدات الإرسال (seed) الذين يقومون بذلك بتلقائية وفي وقت مبكر.
 
-Phase 2. 28%. Funders via qualified private pre-sales and possible public sale.
+المرحلة الثانية. 28%. الممولون عن طريق عمليات ما قبل البيع الخاصة والبيع العام المحتملة.
 
-3. Facilitators. (Advisors, Developers, Promoters, Custodians). Note that requirements for assistance from the sub-categories in this category may differ significantly before and after the project receives substantial funding support, but certain individuals may serve during both phases.
+3. الميسرون. (المستشارون، المطورون، المروجون وأمناء الحفظ). لاحظ أن متطلبات المساعدة من الفئات الفرعية في هذه الفئة قد تختلف اختلافًا كبيرًا قبل وبعد تلقي المشروع دعما تمويليا كبيرا، ولكن قد يشتغل بعض الأفراد خلال المرحلتين.
 
-Phase 1. 10%.
+المرحلة الاولى. 10%.
 
-Phase 2. 10%.
+المرحلة الثانية. 10%.
 
-4. Decentralized treasury. 35%. Community members incentivized and rewarded for participation in progressive development of a decentralized autonomous organization (DAO). A decentralized treasury is anticipated to be administered by smart contracts and community consensus. ![](../5.jpg)
+4. الخزينة اللامركزية. 35%. تحفيز أعضاء المجتمع ومكافأتهم على المشاركة في التطوير التدريجي لمنظمة مستقلة لا مركزية (DAO). من المتوقع أن تتم إدارة الخزينة اللامركزية من خلال عقود ذكية وإجماع المجتمع. ![](../5.jpg)
 
-#### 3.4.3 VTX Distribution
+#### 3.4.3 توزيع VTX
 
-In light of market conditions at the time of this writing, Volentix is considering timing, means, and terms and conditions of VTX distribution as a function of private pre-sales and possible public sale. Please monitor our website for updates.
+في ضوء ظروف السوق وقت كتابة هذا التقرير، تأخذ Volentix في الإعتبار التوقيت، ووسائل، وأحكام وشروط توزيع VTX باعتبارها عملية ما قبل البيع الخاص والبيع العام المحتمل. يرجى مراقبة موقعنا على الانترنت للحصول على التحديثات.
 
-### 3.5 EOS.IO PLATFORM DEPLOYMENT
+### 3.5 نشر منصة EOS.IO
 
-The following considerations are relevant to our deploying the VDex exchange on the EOS.IO platform:
+الاعتبارات التالية ذات صلة بنشر مُبادل VDex على منصة EOS.IO:
 
-Deploying a contract has a cost but is free to use.
+نشر عَقْد له تكلفة ولكنه مجاني الاستعمال.
 
-Developers stake EOS.IO-compliant tokens to deploy a smart contract. After the contract is deployed, the locked tokens are returned.
+يجمد المطورين العملات الرمزية المتوافقة مع EOS.IO لنشر عَقْد ذكي. بعد أن يتم نشر العَقْد، يتم إرجاع العملات الرمزية المجمدة.
 
-Decentralized applications allocate memory, CPU, bandwidth, and other resources to their contracts.
+تخصص التطبيقات اللامركزية الذاكرة، وحدة المعالجة المركزية، عرض النطاق الترددي وموارد الأخرى لعقودها.
 
-Multiple messages and multiple accounts can be assigned to the same thread.
+يمكن تعيين رسائل وحسابات متعددة لنفس العملية.
 
-### 3.6 BLOCKCHAIN INTERACTION
+### 3.6 تفاعل سلسلة الكتل
 
-#### 3.6.1 Inter-Blockchain Communication
+#### 3.6.1 التواصل بين سلاسل الكتل
 
-EOS.IO is designed to make Inter-Blockchain Communication (IBC) proofs lightweight. For chains with insufficient capacity for processing the IBC proofs and establishing validity, there is an option to default to trusted oracles/escrows. With an EOS.IO-based smart contract, a trusted multi-signature wallet holding the asset in escrow can be used to persuade the signing/publishing of the transaction based on IBC proofs from the originating chain.
+تم تصميم EOS.IO لجعل براهين التواصل بين سلاسل الكتل (IBC) خفيفة الوزن. بالنسبة للسلاسل ذات السعة الغير كافية لمعالجة براهين IBC وإثبات صلاحيتها، هناك خيار مبدئي موثوق لـ oracles/الأطراف الموثوقة. باستخدام عَقْد ذكي مبني على EOS.IO، يمكن استخدام محفظة متعددة التوقيعات موثوق بها، وتحمل الأصل من قبل طرف مؤمّن (escrow) لحث توقيع/نشر المعاملة بناءً على براهين IBC من السلسلة الأصلية.
 
-#### 3.6.2 Multi-Blockchain Information
+#### 3.6.2 معلومات سلاسل الكتل المتعددة
 
-Comprehensible multi-blockchain information can be obtained by aggregating blockchain timelines in parallel order (with variance in the frequency of change of state). This system can trigger multi-chain load balancers, transfer states, draw data outputs from smart contracts, and foreign blockchain transaction execution. Relative block distance, relative global state, and timestamped events are recorded on a global ledger to optimize and confirm transactions before they actually happen on the native chain. This approach could also be used to determine block production coincidence between chains to access greater liquidity.[12]
+يمكن الحصول على معلومات مفهومة خاصة بسلاسل الكتل المتعددة عن طريق تجميع الجداول الزمنية التابعة للسلسلة في ترتيب مواز (مع التباين في تواتر تغيير الحالة). يمكن لهذا النظام تشغيل موازنات تحميل متعددة (load balancers) السلاسل، تغير الحالات، سحب إخراجات البيانات من العقود الذكية، وتنفيذ معاملات سلسلة الكتل الأجنبية. يتم تسجيل مسافة الكتلة النسبية، الأحداث ذات الطابع الزمني والحالة العامة في دفتر حسابات عام لتحسين وتأكيد المعاملات قبل حدوثها على السلسلة الأصلية. يمكن أيضًا استخدام هذا المنهج لتحديد تزامن إنتاج الكتل بين السلاسل للوصول إلى سيولة أكبر.[12]
 
-### 3.7 SECURITY CONCERNS
+### 3.7 الإنشغالات الأمنية
 
-To shake out certain assumptions, we intend to commence security testing following the prototyping phase. Security concerns are of paramount importance to users and must be addressed. Threats include, for example, an attacker executing malicious code within a transaction or manipulating the order of transactions or the timestamps of blocks. In the following sections, we address certain security measures and specific security threats and remedies.
+للتخلص من بعض الافتراضات، نعتزم بدء اختبار الأمان بعد مرحلة النماذج الأولية. تعتبر الإنشغالات الأمنية ذات أهمية قصوى لدى المستخدمين ويجب معالجتها. على سبيل المثال تشمل التهديدات مهاجمًا ينفذ شفرة ضارة في معاملة ما أو يتلاعب بترتيب المعاملات أو الطوابع الزمنية (timestamps) للكتل. في الأقسام التالية، نعالج بعض التدابير الأمنية، التهديدات الأمنية المحددة والإصلاحات الوقائية.
 
-### 3.8 SECURITY MEASURES
+### 3.8 التدابير الأمنية
 
-#### 3.8.1 Contract security
+#### 3.8.1 أمن العَقد
 
-Retain vast majority of funds in a time-delayed, multi-signature-controlled account.
+الإحتفاظ بمعظم الأموال في حساب مؤخر زمنيا ومتعدد التوقيعات.
 
-Use multi-signatures on a hot wallet with several independent processes/servers double-checking all withdrawals, with the concomitant benefit of creating a trusted list of accounts.
+إستخدام التواقيع المتعددة على محفظة ساخنة مع العديد من العمليات/ السيرفرات التي تتحقق مرتين من جميع عمليات السحب مع ميزة إنشاء قائمة حسابات موثوقة.
 
-Deploy a custom contract that allows withdrawals only to accounts verified by KYC/AML.
+نشر عَقد مخصص يسمح لعمليات السحب فقط للحسابات التي تم التحقق منها بواسطة KYC/AML.
 
-Deploy a custom contract that accepts only deposits of known assets from accounts verified by KYC/AML.
+نشر عَقد مخصص يقبل فقط إيداعات الأصول المعروفة من الحسابات التي تم التحقق منها بواسطة KYC/AML.
 
-Deploy a custom contract that requires a mandatory 24-hour waiting period for all withdrawals.
+نشر عَقد مخصص يتطلب فترة انتظار إلزامية لمدة 24 ساعة لجميع عمليات السحب.
 
-Utilize contracts with hardware wallets for all signing, including for automated withdrawals.
+استخدام العُقود مع محافظ الأجهزة لجميع التوقيعات بما في ذلك عمليات السحب الآلي.
 
-Upgrade broken contracts.
+ترقية العُقود المعطلة.
 
-Include ability to pause the functionality of a contract.
+إدراج القدرة على إيقاف وظيفة العَقد.
 
-Include ability to delay an action of a contract.
+إدراج القدرة على تأخير إجراء العَقد.
 
-#### 3.8.2 Auditing rogue processes
+#### 3.8.2 التدقيق في عمليات الأمن الاحتيالية (rogue)
 
-The advanced anomaly detection algorithms provided by Numenta’s Nupic library will require less voluminous training data sets than conventional AI systems.
+خوارزميات الكشف عن الشذوذ المتقدمة التي تقدمها مكتبة Numenta في Nupic ستتطلب مجموعات بيانات تدريب أقل كثافة من أنظمة الذكاء الاصطناعي التقليدية.
 
-#### 3.8.3 Randomization
+#### 3.8.3 الإختيار العشوائي
 
-True randomisation of address space layout, route or utilizing varying lengths of timeouts as in the RAFT protocol can complexify systems enough to enhance resilience and further secure systems against a side-channel attack or front running.
+عشوائية تخطيط مساحة العنوان، توجيه أو استخدام مهلات مختلفة كما هو مستخدم في بروتوكول RAFT، يمكنها أن تُعَقد الأنظمة بما يكفي لتعزيز المرونة وتأمين الأنظمة ضد هجوم قناة جانبية أو التلاعب بالسوق (front running).
 
-#### 3.8.4 Log inspection
+#### 3.8.4 سجل التفتيش
 
-Parsec does not rely on logs for the determination of consensus. On the other hand, RAFT will require this. In any case, Validator nodes will be designed to require minimal information To determine consensus as to minimize the transaction process time.
+لا يعتمد Parsec على السجلات (logs) لتحديد الإجماع. من ناحية أخرى، يطلبها RAFT. على أية حال، سيتم تصميم عُقد Validator لتتطلب الحد الأدنى من المعلومات وذلك من أجل تحديد الإجماع لتقليل وقت عملية المعاملة.
 
-#### 3.8.5 Transaction as Proof of Stake (TaPoS)
+#### 3.8.5 المعاملة كدليل على إثبات صحة الحصة (TaPoS)
 
-This mechanism prevents the replay of a transaction on forks that do not include the referenced block. Signals the network that a particular user and stake are on a specific fork.
+هذه الآلية تمنع تكرار المعاملة على التفرعات (forks) التي لا تتضمن الكتلة المشار إليها. كما أنها شير أيضا إلى الشبكة على أن مستخدم وحصة معينين موجودان على تفرع (fork) معين.
 
-### 3.9 Security threats and remedies
+### 3.9 التهديدات الأمنية والإصلاحات الوقائية
 
-#### 3.9.1 Double spend
+#### 3.9.1 ضِعف الإنفاق ( Double spend)
 
-A double spend is an attack in which a particular cryptocurrency stake is spent in more than one transaction.
+ضِعف الإنفاق هو هجوم يتم فيه إنفاق حصة عملة رقمية معينة في أكثر من معاملة.
 
-A race attack occurs when two conflicting transactions are sent in rapid succession into the network.
+يحدث هجوم السباق (race attack) عندما يتم إرسال معاملتين متعارضتين في تتابع سريع في الشبكة.
 
-A Finney attack pre-mines one transaction into a block and spends the same tokens before releasing the block to invalidate that transaction.
+يقوم هجوم Finney بتعدين معاملة واحدة في الكتلة وينفق نفس العملات الرمزية قبل إطلاق الكتلة لإبطال تلك المعاملة.
 
-A 51% attack can be mounted by anyone owning >50% of the total computing power of a network. A majority ownership position permits reversal of any transaction and allows total control of selection of transactions appearing in blocks. EOS.IO, Loopring, and RAFT appear to prevent this problem. If a block producer takes an unreasonable amount of runtime or is not sufficiently profitable, then the process is blacklisted.[5]
+يمكن أن يشن أي شخص هجوم 51٪ إذا كان يمتلك أكثر من 50٪ من إجمالي القدرة الحاسوبية للشبكة. يسمح مركز ملكية الأغلبية بعكس أي معاملة والتحكم الكامل في اختيار المعاملات التي تظهر في الكتل. تقوم كل من EOS.IO وLoopring وRAFT بمنع هذه المشكلة. إذا أخذ منتج الكتلة وقتاً غير معقول من التشغيل أو لم يكن مربحًا بما فيه الكفاية، فإن العملية يتم إدراجها في القائمة السوداء.[5]
 
-#### 3.9.2 Front running
+#### 3.9.2 التلاعب بالسوق (Front running)
 
-A front runner steals one or more orders from a pending order book settlement transaction. Both EOS.IO and Loopring offer remedies in which keys are protected because they are not part of the on-chain transaction, and therefore remain unknown to parties other than the owner. Only the order book settling node is possessed of the sensitive information, and each node uses a different solution for resolving the order books, introducing yet another level of complexity to promote security.
+يسرق المتلاعب (front runner) طلبًا واحدًا أو أكثر من معاملة معلقة لتسوية دفتر الطلبات. يقدم كل من EOS.IO وLoopring إصلاحات وقائية تكون فيها المفاتيح محمية لأنها ليست جزءًا من المعاملة على السلسلة، وبالتالي تظل غير معروفة لأطراف أخرى غير المالك. عُقدة تسوية دفتر الطلبات فقط هي التي تمتلك المعلومات الحساسة، وكل عقدة تستخدم حلاً مختلفًا لحل دفاتر الطلبات مع تقديم مستوى آخر من التعقيد لتعزيز الأمان.
 
-#### 3.9.3 Forged identities
+#### 3.9.3 الهُويات المزورة
 
-Malicious users create forged identities to send a large number of small orders to attack Loopring nodes. However, most of these orders will be rejected for not yielding satisfying profit when matched.
+يقوم المستخدمون الضارون بإنشاء هويات مزورة لإرسال عدد كبير من الطلبات الصغيرة لمهاجمة عُقد Loopring. رغم ذلك، سيتم رفض معظم هذه الطلبات لعدم تحقيق أرباح مرضية عند مطابقتها.
 
-#### 3.9.4 Insufficient Balance
+#### 3.9.4 رصيد غير كاف
 
-Malicious users sign and spread orders the value of which is non-zero but the address of which has a zero balance. Nodes monitor actual balances, update these order states accordingly, and then discard them.
+يوقع وينشر المستخدمون الضارون العديد من الطلبات ذو قيمة أكبر من الصفر ولكن بعنوان ذو رصيد صفري. تقوم العُقد بمراقبة الأرصدة الفعلية وتحديث حالات الطلب وفقًا لذلك، ثم تتجاهلها.
 
 #### 3.9.5 Timing attack
 

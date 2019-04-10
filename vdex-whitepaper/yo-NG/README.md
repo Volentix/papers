@@ -106,111 +106,111 @@ Awọn oju ipade gba ipin kan lara owo fun iṣowo kọọkan. Ti olumulo kan ba
 
 #### 3.1.2 Awọn alakopapọ
 
-Awọn alakopapọ VDex jẹ fifarajin si isakoso Volentix fun ẹrọ afidanrawo ati awọn eredi aabo. Ọkan ninu awọn iṣẹ wọn ni lati fa awọn akọṣilẹ ati ṣe ibeere data iwe lati ọdọ awọn oju ipade sinu awọn isoju pinpin to fọnka fun iranti alakoko onipele ipo bi iyanana [7] ifiran fun iwajade awọn ohun ajeji ninu eto naa. The aggregators will also be host to other components such as metachain ledgers and blockchain scrapers.
+Awọn alakopapọ VDex jẹ fifarajin si isakoso Volentix fun ẹrọ afidanrawo ati awọn eredi aabo. Ọkan ninu awọn iṣẹ wọn ni lati fa awọn akọṣilẹ ati ṣe ibeere data iwe lati ọdọ awọn oju ipade sinu awọn isoju pinpin to fọnka fun iranti alakoko onipele ipo bi iyanana [7] ifiran fun iwajade awọn ohun ajeji ninu eto naa. Awọn alakopapọ yoo tun jẹ olugbalejo si awọn ẹya ara miiran gẹgẹbi awọn lẹja metachain ati awọn olufà alaye ti blockchain.
 
-#### 3.1.3 Latency
+#### 3.1.3 Latẹnsi
 
-EOS.IO has low latency block confirmation (0.5 seconds).[5] This degree of latency can be maintained in transactions with other blockchains if those chains admit of similar latency. But fundamentally the transaction is only as rapid as the lesser-rapid chain in the equation. It is well known, for example, that a Bitcoin block requires approximately ten minutes for processing. Receiving a transaction hash does not mean the transaction is confirmed; it means only that a node accepted the transaction without error, although there is generally a high probability other block producers will accept it.
+Latẹnsi ijẹrisi bulọọku EOS.IO kere (isẹju aaya 0.5).[5] Ipo latẹnsi yii tubọ le ṣe lo ninu awọn iṣowo pẹlu awọn blockchain miiran ti awọn asopọ naa ba n gba iru latẹnsi yii kanna. Ṣugbọn ni pataki iṣowo naa ma jẹ yiyara to bi iyara ti asopọ to lọra ju ninu eto ba se to. O jẹ mimọ daradara, fun apẹẹrẹ, pe bulọọku Bitcoin nilo to deede iṣẹju mẹwa fun isaayan. Gbigba hash iṣowo kan ko tumọ si pe iṣowo naa jẹ jijẹrisi; o kan tumọ si pe oju ipade kan ti gba iṣowo naa laisi aṣiṣe, biotilejẹpe o ṣeeṣe gidi gan ki awọn olusẹda bulọọku miiran gba wọle.
 
-### 3.2 ORDER BOOK
+### 3.2 IWE IBEERE
 
-The order book is the list of buy-and-sell orders VDex records from interested users. A matching engine uses an order book to determine which orders can be fulfilled. The Loopring protocol allows for customizing the order book data structure.[5] Containers provided by EOS.IO can be used for optimal performance.[8]
+Iwe ibeere ni akojọ awọn ibeere rira-ati-tita ti VDex n gbasilẹ lati ọdọ awọn olumuloto nifẹsi. Ẹrọ kan ti o ni baamu n lo iwe ibeere lati mọ iru awọn ibeere ti o le jẹ mimuṣẹ. Awọn ilana Loopring n fayegba lati ṣe akanṣe eto data iwe ibeere [5] Awọn apoti ti EOS.IO n pese le ṣee lo fun iṣiṣẹ ẹlẹkunrẹrẹ. [8]
 
-#### 3.2.1 Data structures
+#### 3.2.1 Awọn ẹya data
 
-Using the Loopring Protocol FIFO (first-in first-out) circular buffer, nodes can design their order books to display and match a user’s order. This method follows an OTC model, where limit orders are positioned based on price only.[5]
+Lilo Ilana ila oniyipo ti FIFO Loopring (akọkọ-wọle akọkọ-jade), awọn oju ipade le ṣeto ki awọn iwe ibeere wọn ma ṣafihan ati ṣe ibaamu ibeere olumulo kan. Ọna yii n tẹle awoṣe OTC, nibiti opin awọn ibeere ti wa ni ipo ti o da lori owo nikan.[5]
 
-Referencing the EOS.IO persistence API, the order book is able to take advantage of the powerful multi-index container shared among nodes through the same EOS.IO account.
+Titọkasi API alatẹnumọ ti EOS.IO, iwe ibeere ri aaye lati lo anfani apoti alagbara ọlọpọ-atọka to jẹ ajọpin laarin awọn oju ipade nipasẹ akọọlẹ EOS.IO kanna.
 
-#### 3.2.2 On-Chain order book
+#### 3.2.2 Iwe ibeere Ori-ila
 
-An on-chain order book is a record of offers residing on the wallet (node) chosen to settle the order book. It resides in a persistent database on each node subscribing to the same account as all the other nodes.
+Iwe ibeere ori-ila jẹ akọsilẹ awọn afilọ ti o n gbe lori apo owo naa (oju ipade) ti o jẹ yiyan lati yanju iwe ibeere naa. O n gbe ni ibi ipamọ data alatẹnumọ lori oju ipade kọọkan ti o ṣe alabapin si akọọlẹ kanna bi ti gbogbo awọn oju ipade miiran.
 
-#### 3.2.3 Off-Chain order book
+#### 3.2.3 Iwe ibeere Alaisilori-ila
 
-Residing on the aggregator, offline order books serve for simulator and security purposes.
+O n gbe lori alakopapọ, awọn iwe ibeere alaisilori ila n sisẹ fun ẹrọ afidanrawo ati awọn eredi aabo.
 
-#### 3.2.4 Decentralization process of order book settlement
+#### 3.2.4 Ilana alaisilojukan ti iyanju iwe ibeere
 
-For decentralization purposes, nodes will take turns to settle the order book. The settling node must be designated by the protocol and all order book entries from all nodes must be available to the settling nodes. We believe the RAFT[9] and PARSEC[10] consensus mechanisms offer effective solutions. RAFT is a well-established algorithm and is easy to implement.[7] PARSEC is more recent and more efficient, using Directed Acyclic Graph (DAG) technology and eliminating the need for copying logs.
+Fun awọn idi alaisilojukan, awọn oju ipade yoo ma to lati yanju iwe ibeere. Oju ipade to n yanju gbọdọ jẹ yiyan sipo nipasẹ ilana ati gbogbo awọn atẹwọle iwe ibeere lati gbogbo awọn oju ipade gbọdọ wa nilẹ si awọn oju ipade to n yanju. A gbagbọ pe awọn ilana iṣọkan RAFT[9] ati PARSEC[10] n pese awọn ọna abayọ to munadoko. RAFT jẹ alugọridimu to fẹsẹrinlẹ daradara ati ti o rọrun lati muṣiṣẹ.[7] PARSEC jẹ tuntun ati o si munadoko, nipa lilo imọ ẹrọ Directed Acyclic Graph (DAG) ati ṣiṣe imukuro inilo fun didaakọ awọn akọṣilẹ.
 
-### 3.3 ORDER SETTLEMENT
+### 3.3 IYANJU IBEERE
 
-Order settlement contains familiar elements of conventional financial market transactions. Utilizing FIFO technology to design the order book, VDex intends to check order, inventory, and fill rate, as well as limit orders and cancellations. ![](../7.jpg)
+Iyanju ibeere ni awọn eroja to jọra ti awọn iṣowo ọja owo ti alaiyatọ. Lilo imọ ẹrọ FIFO lati ṣe idalara iwe ibeere, VDex n pinnu lati ṣayẹwo ibeere, iwe-akọọlẹ ohun-ini, ati iwọn ifọwọsi, ati ni bakanna mu adinku ba awọn ibeere ati awọn ifagile. ![](../7.jpg)
 
 ### 3.4 VTX
 
-#### 3.4.1 VTX Issuance and Use
+#### 3.4.1 Ipinfunni ati Iwulo VTX
 
-VTX is the native digital asset to be issued and used on the VDex decentralized exchange. We currently plan to use an eosio.token contract from the EOS.IO framework to issue 2.1 billion EOS.IO-compliant VTX tokens with a supply of 1.3 billion. VTX will have a diverse array of uses, for example:
+VTX jẹ ohun-ini abinibi oni-nọmba ti o ma jẹ pinpin jade ati jẹ lilo lori ibi ipaṣipaarọ alaisilojukan ti VDex. A lọwọlọwọ gbero lati lo adehun aami eos.io lati ilana ti EOS.IO lati pin aami VTX ti o jẹ biliọnu 2.1 ti o ni ibaamu pẹlu EOS.IO pẹlu ipese ti o jẹ biliọnu 1.3. VTX yoo ni orisirisi ọpọlọpọ iwulo, fun apẹẹrẹ:
 
-To reward participants in the consensus process and in Venue campaigns.
+Lati san èrè fun awọn olukopa ninu ilana iṣọkan ati ninu awọn ipolongo Venue.
 
-To pay and redistribute transaction fees on the VDex exchange.
+Lati san ati ṣe atunpin awọn owo iṣowo lori ibi ipaṣipaarọ VDex.
 
-To submit and vote on proposals to the Volentix ecosystem, using the voting rights allocated to VTX holders.
+Lati fi silẹ ati di ibo lori awọn igbero si awujọ ti Volentix, lilo awọn ẹtọ idibo ti o jẹ pinpin fun awọn olumudani VTX.
 
-To stake support for reviewing proposals and implementing projects.
+Lati pese atilẹyin fun atunyẹwo awọn igbero ati amuṣiṣẹ awọn iṣẹ akanṣe.
 
-To incentivize users to participate in order book settlement by becoming nodes via their Verto wallets.
+Lati peṣe iwuri fun awọn olumulo lati kopa ninu iyanju iwe ibeere nipa dida awọn oju ipade nipasẹ awọn apo owo Verto wọn.
 
-To incentivize users to lock funds in for >24 hours by HTLC time-bound transactions.
+Lati peṣe iwuri fun awọn olumulo lati ti owo pa fun> wakati 24 nipasẹ awọn iṣowo HTLC ti akoko de.
 
-#### 3.4.2 VTX Allocation
+#### 3.4.2 Pinpin VTX
 
 ![](../6.jpg)
 
-A digital assets ecosystem requires an array of certain fundamental human constituents who shepherd the project forward.[11] It is essential to compensate those individuals for their participation. Subject to adjustment, Volentix currently anticipates the following allocations:
+Awujọ ohun-ini oni-nọmba kan nilo orisirisi awọn eroja pataki kan ti o jẹ ti eniyan ti o n ṣe itukọ iṣẹ akanṣe naa siwaju.[11] O ṣe pataki lati san owo iwuri fun awọn ẹni naa fun ikopa wọn. Dida lori atunṣe, Volentix lọwọlọwọ n ṣe ifojusọna fun awọn ipin wọnyi:
 
-1. Contributors. 12%. An array of individuals, akin to founders, who contribute insights, time and talent, though often work without early compensation.
+1. Awọn olulọwọsi. 12%. Oriṣiriṣi awọn eniyan kan, to sunmọ awọn oludasilẹ, ti o n ṣe ilọwọsi pẹlu awọn oye, akoko ati talẹnti, botilẹjẹpe wọn ma n ṣiṣẹ ni ọpọ igba laisi ipese owo iwuri ni kiakia.
 
-2. Supporters.
+2. Awon alatilẹyin.
 
-Phase 1. 5%. Early passive seed funders.
+Ipele 1. 5%. Awọn olupese owo ni ibẹrẹ pẹpẹ.
 
-Phase 2. 28%. Funders via qualified private pre-sales and possible public sale.
+Ipele 2. 28%. Awọn olupese owo nipasẹ awọn tita-iṣaaju ti ikọkọ ati tita ti gbangba ti o ṣeeṣe to kun ojuiwọn.
 
-3. Facilitators. (Advisors, Developers, Promoters, Custodians). Note that requirements for assistance from the sub-categories in this category may differ significantly before and after the project receives substantial funding support, but certain individuals may serve during both phases.
+3. Awọn oluṣeto. (Awọn oludamọran, Awọn olugbedide, Awọn olupolowo, Awọn oluṣọ). Kiyesi pe awọn ibeere fun iranlọwọ lati awọn ipin-ẹka ninu ẹka yii le yatọ gidi gan ṣaaju ki ati lẹhin ti iṣẹ akanṣe naa gba owo atilẹyin ti o lapẹrẹ, ṣugbọn awọn eniyan kan le ṣiṣẹ ni awọn ipele mejeeji.
 
-Phase 1. 10%.
+Ipele 1. 10%.
 
-Phase 2. 10%.
+Ipele 2. 10%.
 
-4. Decentralized treasury. 35%. Community members incentivized and rewarded for participation in progressive development of a decentralized autonomous organization (DAO). A decentralized treasury is anticipated to be administered by smart contracts and community consensus. ![](../5.jpg)
+4. Isura alaisilojukan. 35%. Awọn eniyan awujọ peṣe iwuri ati san èrè fun ikopa ninu idagbasoke onitẹsiwaju ti ajọ aladase alaisilojukan (DAO). Isura alaisilojukan n jẹ fifojusọna fun lati jẹ lilo nipasẹ awọn adehun ajafafa ati iṣọkan awujọ. ![](../5.jpg)
 
-#### 3.4.3 VTX Distribution
+#### 3.4.3 Pinpin VTX
 
-In light of market conditions at the time of this writing, Volentix is considering timing, means, and terms and conditions of VTX distribution as a function of private pre-sales and possible public sale. Please monitor our website for updates.
+Ni ibamu si awọn ipo ọja ni akoko ti ikọwe yii, Volentix n gbero lori akoko, awọn ọna, ati awọn alaye ati awọn adehun ti pinpin VTX gẹgẹbi iṣẹ ti awọn tita-iṣaaju ti ikọkọ ati tita ti gbangba ti o ṣeeṣe. Jọwọ mojuto aaye ayelujara wa fun awọn ifitonileti.
 
-### 3.5 EOS.IO PLATFORM DEPLOYMENT
+### 3.5 ISAMULO PILATIFỌỌMU EOS.IO
 
-The following considerations are relevant to our deploying the VDex exchange on the EOS.IO platform:
+Awọn imọran wọnyi ni o ṣe pataki si bi a se fi imulo ibi ipaṣipaarọ VDex si ori pilatifọọmu EOS.IO:
 
-Deploying a contract has a cost but is free to use.
+Lilo adehun ni idiyele sugbon ominira wa lati lo.
 
-Developers stake EOS.IO-compliant tokens to deploy a smart contract. After the contract is deployed, the locked tokens are returned.
+Awọn olugbedide n lo aami ti o ni ibamu pẹlu EOS.IO lati ṣamulo adehun ajafafa kan. Lẹhin ti adehun naa ti jẹ lilo, awọn aami ti o wa ni atipa jẹ didapada.
 
-Decentralized applications allocate memory, CPU, bandwidth, and other resources to their contracts.
+Awọn ohun elo alaisilojukan n pin iranti, CPU, itankanlẹ, ati awọn ohun elo miiran si awọn adehun wọn.
 
-Multiple messages and multiple accounts can be assigned to the same thread.
+Awọn ifiranṣẹ ọlọpọ ati awọn akọọlẹ ọlọpọ le jẹ pinpin si okun kanna.
 
-### 3.6 BLOCKCHAIN INTERACTION
+### 3.6 IFỌRỌWERỌ BLOCKCHAIN
 
-#### 3.6.1 Inter-Blockchain Communication
+#### 3.6.1 Ibaraẹnisọrọ Laarin-Blockchain
 
-EOS.IO is designed to make Inter-Blockchain Communication (IBC) proofs lightweight. For chains with insufficient capacity for processing the IBC proofs and establishing validity, there is an option to default to trusted oracles/escrows. With an EOS.IO-based smart contract, a trusted multi-signature wallet holding the asset in escrow can be used to persuade the signing/publishing of the transaction based on IBC proofs from the originating chain.
+EOS.IO jẹ ṣiṣe lati jẹ ki awọn ẹri Ibaraẹnisọrọ Laarin-Blockchain (IBC) fuyẹgẹgẹ. Fun awọn asopọ ti ko ni ikapa ti o to fun isaayan awọn ẹri IBC ati ṣiṣe ifẹsẹmulẹ iwulo, aaye wa lati kuna si awọn oracle/alagata ti a jẹri. Pẹlu adehun ajafafa ti o da lori EOS.IO, apo owo ọlọpọ-ibuwọlu ti a jẹri ti o n ṣetọju ohun-ini ni ọdọ alagata le ṣee lo lati ṣe iyilọkanpada si bibuwọlu/titẹjade ti iṣowo naa dida lori awọn ẹri IBC lati orisun asopọ.
 
-#### 3.6.2 Multi-Blockchain Information
+#### 3.6.2 Alaye Ọpọ-Blockchain
 
-Comprehensible multi-blockchain information can be obtained by aggregating blockchain timelines in parallel order (with variance in the frequency of change of state). This system can trigger multi-chain load balancers, transfer states, draw data outputs from smart contracts, and foreign blockchain transaction execution. Relative block distance, relative global state, and timestamped events are recorded on a global ledger to optimize and confirm transactions before they actually happen on the native chain. This approach could also be used to determine block production coincidence between chains to access greater liquidity.[12]
+Alaye ni yeke ti ọlọpọ-blockchain le ṣee gba nipasẹ ṣiṣe akopọ awọn isẹlẹ pataki ni sisẹntẹle (pẹlu iyatọ ninu bi iyipada ipo ṣe n waye si). Eto yii le fa ki awọn ẹrọ amusẹdọgba ọlọpọ-asopọ bẹrẹ isẹ, awọn ipo gbigbe kiri, fa awọn data abajade lati ọdọ awọn adehun ajafafa, ati aseyọri iṣowo blockchain ti okeere. Ibatan ijinna si bulọọku, ibatan ipo agbaye, ati awọn iṣẹlẹ olontẹ akoko n jẹ kikọsilẹ sori lẹja agbaye lati mudojuiwọn ati jẹrisi awọn iṣowo ṣaaju ki wọn to ṣẹlẹ gangan lori asopọ ibilẹ. Ilana yii tun le jẹ lilo lati ṣe ipinnu iṣe kongẹ igbejade bulọọku laarin awọn asopọ lati wọle si irọrun isọjadowo ti o tubọ tobi.[12]
 
-### 3.7 SECURITY CONCERNS
+### 3.7 AWỌN IFIYESI NIPA AABO
 
-To shake out certain assumptions, we intend to commence security testing following the prototyping phase. Security concerns are of paramount importance to users and must be addressed. Threats include, for example, an attacker executing malicious code within a transaction or manipulating the order of transactions or the timestamps of blocks. In the following sections, we address certain security measures and specific security threats and remedies.
+Lati gbọn awọn abamoda kan danu, a gbero lati bẹrẹ idanwo aabo ni atẹle si ipele apẹrẹ awoṣe. Awọn ifiyesi nipa aabo jẹ eyi ti iwulo rẹ se pataki julọ si awọn olumulo ti o si gbọdọ jẹ mimojuto. Awọn ihalẹ pẹlu, fun apẹẹrẹ, olutako kan ti o n saayan koodu oloro laarin iṣowo kan tabi ṣe atunṣe ibeere awọn iṣowo tabi awọn ontẹ akoko ti awọn bulọọku. Ni awọn abala wọnyi, a ṣamojuto awọn igbesẹ aabo kan ati awọn pato ihalẹ aabo ati awọn atunse wọn.
 
-### 3.8 SECURITY MEASURES
+### 3.8 AWỌN IGBESẸ AABO
 
-#### 3.8.1 Contract security
+#### 3.8.1 Aabo olubasọrọ
 
 Retain vast majority of funds in a time-delayed, multi-signature-controlled account.
 
@@ -256,7 +256,7 @@ A race attack occurs when two conflicting transactions are sent in rapid success
 
 A Finney attack pre-mines one transaction into a block and spends the same tokens before releasing the block to invalidate that transaction.
 
-A 51% attack can be mounted by anyone owning >50% of the total computing power of a network. A majority ownership position permits reversal of any transaction and allows total control of selection of transactions appearing in blocks. EOS.IO, Loopring, and RAFT appear to prevent this problem. If a block producer takes an unreasonable amount of runtime or is not sufficiently profitable, then the process is blacklisted.[5]
+A 51% attack can be mounted by anyone owning >50% of the total computing power of a network. Ipo olohun to pọ julọ fayegba idapada eyikeyi iṣowo ati fayegba gbogbo iṣakoso yiyan awọn iṣowo ti o n farahan ni awọn bulọọku. EOS.IO, Loopring, and RAFT appear to prevent this problem. If a block producer takes an unreasonable amount of runtime or is not sufficiently profitable, then the process is blacklisted.[5]
 
 #### 3.9.2 Front running
 
@@ -280,31 +280,31 @@ Our focus on user experience is primary. We wish to make VTX and the four pillar
 
 ### 3.11 TRUE DECENTRALIZATION
 
-EOS.IO is an open-source, scalable infrastructure for decentralized applications. Its goal is a fair and transparent block producer (BP) election process utilizing a democratic delegated proof of stake (DPoS) consensus. Particularly as such a system just begins to proliferate, there will be glitches. Therefore, some degree of retained centralization is inevitable and necessary. But our guiding philosophy is one of decentralization, and our ongoing efforts are targeted to promoting a reduction in dependence on central authority.
+EOS.IO is an open-source, scalable infrastructure for decentralized applications. Its goal is a fair and transparent block producer (BP) election process utilizing a democratic delegated proof of stake (DPoS) consensus. Particularly as such a system just begins to proliferate, there will be glitches. Therefore, some degree of retained centralization is inevitable and necessary. Ṣugbọn akọmọna itọnisọna wa jẹ ti alaisilojukan, ati awọn igbiyanju wa ti n lọ lọwọ jẹ fifojusun lati ṣe ipolongo mimu adinku ba gigbarale iṣakoso olojukan.
 
-For example, initially we plan to erect a system for electing nodes (when solving order books) that will not use a shared central clock or DPoS but instead will be based either on random timeouts for the determination of leaders in an election (RAFT) or on Directed Acyclic Graph (DAG) in the PARSEC protocol.
+Fun apẹrẹ, ni iṣaaju a ṣe ipinnu lati se agbekalẹ eto kan fun yiyan awọn oju ipade (nigbati o ba n yanju awọn iwe ibeere) ti ko ni lo aago alajọpin olojukan tabi DPoS ṣugbọn dipo o ma da lori awọn akoko idawọduro alaileto fun siṣe ipinnu awọn olori ninu idibo kan (RAFT) tabi lori Directed Acyclic Graph (DAG) ninu ilana PARSEC.
 
-### 3.12 SYSTEM RECOVERY
+### 3.12 IMUBỌSIPOPADA TI ETO
 
-The RAFT and PARSEC protocols provide a robust system for recovery in the case of node failure. Security measures are also provided for trading between and among native blockchains. If a chain defies identification, the system defaults to the next block or a short time lock.
+Awọn ilana RAFT ati PARSEC pese eto ti o lagbara fun imubọsipopada ti ikuna oju ipade ba waye. Awọn igbesẹ aabo naa tun jẹ pipese fun iṣowo laarin ati ninu awọn blockchain abinibi. Ti asopọ kan ba kọ idanimọ, eto naa ma bọ si bulọọku to kan tabi atipa onigbadiẹ.
 
-### 3.13 EVOLVING ARCHITECTURE
+### 3.13 IYAWORAN TO N YI
 
-Daily announcements of fresh code developments impacting on use of digital assets reveal the tremendous benefit of the open-source code philosophy. We at Volentix recognize we are the beneficiaries of the enormous financial resources dedicated by many early movers to developing digital assets applications over the past decade. We now have an opportunity to take the next step by creating VDex, a decentralized exchange for the next generation of digital assets transactions.
+Awọn ikede ojoojumọ ti awọn agbedide koodu tuntun to n ni ipa lori ilo awọn ohun-ini oni-nọmba safihan anfaani nla ti akọmọna koodu orisun-gbangba. Awa ni Volentix da mọ pe awa ni olujẹ awọn anfani ti awọn ohun elo owo nla ti o jẹ yiyasọtọ nipa ọpọlọpọ awọn ti o tete kopa lati ṣe idagbasoke awọn ohun elo ohun-ini oni-nọmba ni ati bi ọdun mẹwa sẹyin. Ni bayii a ti ni anfani lati gbe igbesẹ to kan nipa ṣiṣẹda VDex, ibi ipaṣipaarọ alaisilojukan fun iran awọn iṣowo ohun-ini oni-nọmba ti o n bọ.
 
-## 4. CONCLUDING THOUGHTS
+## 4. AWỌN ERO IGBẸHIN
 
-All of us at Volentix are dedicating our work and insights to developing a program premised on empowerment and independence. If you are of a mind to join us, in whatever capacity, then please do so and please become educated on the topics contained in this white paper and additional Volentix publications as we share them with our community.
+Gbogbo wa ni Volentix n fi iṣẹ wa ati awọn oye wa jin si ṣiṣe igbedide eto kan ti o da lori ironilagbara ati ominira. Ti o ba ni ero lati darapọ mọ wa, ni eyikeyi aaye, nigbana jọwọ ṣe bẹ ati jọwọ ni ẹkọ lori awọn akori ti o wa ninu iwe funfun yii ati awọn afikun iwe atẹjade ti Volentix afikun bi a ṣe pin wọn pẹlu awujọ wa.
 
-## 5. TIMELINE
+## 5. ATẸ ISẸLẸ
 
-Please monitor our website and social media for updates and other important announcements. Thank you very much for your attention and interest.
+Jọwọ mojuto aaye ayelujara wa ati awọn ikanni ajọlo fun awọn ifitonileti ati awọn ikede pataki miiran. O ṣeun pupọ fun itẹtisilẹ ati inifẹsi rẹ.
 
-## DISCLAIMER
+## IKỌJALẸ
 
-This white paper was prepared, and is presented, for information purposes only. The information presented does not purport to be comprehensive. The information is subject to change in whole or in part at any time without notice. Volentix Labs reserves the right to amend, replace, remove, or delete any and all information at the sole and exclusive discretion of Volentix. Volentix Labs makes no representation or warranty, expressed or implied, concerning the accuracy or completeness of the information and expressly disclaims any and all liability of any and all kinds whatsoever for the information contained or not contained. Volentix Labs requests each and every reader to read the information fully and carefully, and to undertake independent investigation and analysis of the information, and to seek and obtain professional advice for purposes of evaluating the information. To the knowledge of Volentix Labs, no regulatory agency, government, or other third-party enforcement entity has reviewed, evaluated, or approved any part or all of the information. This information is not an offer or solicitation of any kind whatsoever and does not form the basis for any contract or commitment of any kind whatsoever. Any statement considered to be forward-looking is purely a matter of opinion, and no viewer should rely on any such statement or on any part or all of the information in any way whatsoever.
+Iwe funfun jẹ pipese, o si jẹ gbigbekalẹ, fun awọn idi alaye nikan. Ifitonileti to jẹ gbigbekalẹ naa ko jẹmọ pe o kun fọfọ. Ifitonileti naa jẹmọ ki o ni ayipada ni odidi tabi ni apakan ni eyikeyi akoko laisi ikede. Awọn Laabu Volentix ni ẹtọ lati ṣe atunṣe, rọpo, yọ kuro, tabi pa eyikeyi ati gbogbo alaye rẹ pẹlu ifẹ inu ati ipinnu ti o jẹ ti Volentix nikan soso. Awọn Laabu Volentix ko ṣe aṣoju tabi majẹmu atilẹyin kankan, ṣafihan tabi ṣe itumọsi, nipa ti iṣedeede tabi aṣepari ti ifitonileti naa ati ṣe ikọjalẹ kedere ti eyikeyi ati gbogbo gbese ti eyikeyi ati gbogbo eyiowu ti ki ba jẹ fun ifitonileti ti o wa ninu ẹ tabi ti ko si ninu ẹ. Awọn Laabu Volentix nilo ki ọkọọkan ati gbogbo oluka ka alaye naa ni kikun ati ni ifarabalẹ, ati lati ṣe iwadi ti ara ẹni ati iyanana ti alaye naa, ati lati wa ati gba imọran ọjọgbọn fun awọn idi ti ṣiṣe igbelewọn alaye naa. Si imọ ti awọn Laabu Volentix, kosi igbimọ idari, ijọba, tabi ifipamu ti alagata miiran bi atunyẹwo ṣe waye, jẹ gbigbelewọn, tabi jẹ fifọwọsi eyikeyi apakan tabi gbogbo alaye naa. Alaye yii ko kin ṣe ipese tabi ibeere iru eyikeyi botiwukori ati pe ko kin ṣe ipilẹ fun eyikeyi adehun tabi ifarajin iru eyikeyi botiwukori. Gbolohun kankan ti o ba jẹ kika si onitẹsiwaju jẹ ọrọ ti imọran nikan, ati pe oluwoye kankan ko gbọdọ gbarale iru gbolohun bẹ tabi apakan tabi gbogbo alaye naa ni eyikeyi ọna.
 
-## FOOTNOTES
+## ỌRỌ IWOYE
 
 1. K. Kurokawa, Atomic cross chain transfer, an overview, (2015).
 

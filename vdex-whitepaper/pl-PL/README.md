@@ -72,11 +72,11 @@ Dane są dzielone między umowami za pośrednictwem wyroczni, która „w kontek
 
 #### 3.0.4 Łańcuchy boczne
 
-W EOS.IO wydanie zasobu cyfrowego tworzy łańcuch boczny, który jest nowym mechanizmem pozwalającym na bezpieczne korzystanie z zasobów cyfrowych z jednego blockchaina w oddzielnym blockchainie, a następnie powrót do oryginalnego blockchaina. Efficiency of processing is promoted by creating multiple sidechains. A TCP-like communication channel between different blockchains evaluates proofs. For each shard (a unit of parallelizable execution in a cycle), a balanced merkle tree is constructed of these action commitments to generate a temporary shared merkle root; this is done for speed of parallel computation. The block header contains the root of a balanced merkle tree the leaves of which are the roots of these individual shard merkle trees. [2]
+W EOS.IO wydanie zasobu cyfrowego tworzy łańcuch boczny, który jest nowym mechanizmem pozwalającym na bezpieczne korzystanie z zasobów cyfrowych z jednego blockchaina w oddzielnym blockchainie, a następnie powrót do oryginalnego blockchaina. Efektywność przetwarzania jest wspierana przez tworzenie wielu łańcuchów bocznych. Kanał komunikacji typu TCP pomiędzy różnymi blokchainami pozwala ocenić dowody. Dla każdego odłamu (jednostki równoległego wykonania w cyklu), zbudowane jest zrównoważone drzewo hash z tych zobowiązań działania, aby wygenerować tymczasowy odłamek korzenia hash; odbywa się to dla szybkości obliczeń równoległych. Nagłówek bloku zawiera korzeń zbalansowanego drzewa hash, którego liście są korzeniami tych pojedynczych odkłamów drzew hash. [2]
 
-#### 3.0.5 Liquidity
+#### 3.0.5 Płynność
 
-A digital asset is liquid if it is easily sold or purchased in ordinary trading volumes without a significant short-term impact on its prevailing market price. In order to achieve such a status, traditionally any tradable asset must surmount a trading volume threshold sufficient to support stability. Specifically, we anticipate adopting the following methodologies: Loopring protocol with the use of EOS.IO contracts acting as nodes.[5] Bancor algorithm used to bring stability to the digital asset.[6] Toggles between these protocols and HTLC (atomic swaps) according to Vespucci analyses on the VDex network.
+Zasób cyfrowy jest płynny, jeśli łatwo go sprzedać lub kupić w zwykłych wolumenach obrotu, bez znaczącego krótkoterminowego wpływu na jego dominującą cenę rynkową. W celu zdobycia takiego satusu, zazwyczaj każdy wymienialny zasób musi pokrywać pułap wolumenu obrotu wystarczający do podtrzymania stabilności. W szczególności przewidujemy przyjęcie następujących metodologii: Zapętlanie protokołu z wykorzystaniem kontraktów EOS.IO działających jako węzły.[5] Algorytm Bancora używany do zapewnienia stabilności zasobu cyfrowego. [6] Przełączanie między tymi protokołami i HTLC (swapy atomowe) zgodnie z analizami Vespucci w sieci VDex.
 
 #### 3.0.6 Hashed Timelock Contracts (Atomic Swaps)
 
@@ -88,25 +88,25 @@ A Hashed Timelock Contract (HTLC)[1] is a smart contract enabling the implementa
 
 ![](../9.jpg)
 
-Nodes are the endpoints of the VDex exchange. Their functions are:
+Węzły są punktami końcowymi wymiany VDex. Ich funkcjami są:
 
-1. Act as portals to VDex through the Verto wallet.
+1. Działanie jako portale dla VDex za pośrednictwem portfela Verto.
 
-2. Merge order book information.
+2. Scalanie informacji o arkuszu zleceń.
 
-3. Settle order book.
+3. Regulowanie arkusza zleceń.
 
-4. Manage order cancellation.
+4. Zarządzanie anulowaniem zlecenia.
 
-5. Assign timeouts for the RAFT protocol.
+5. Przypisanei czasu oczekiwania dla protokołu RAFT.
 
-6. Initiate contracts for orders that have been filled.
+6. Inicjowanie kontraktów na zlecenia, które zostały wypełnione.
 
-Nodes earn a portion of the fee for each transaction. If a user has sufficient funds and possesses a good track record, his or her Verto wallet can act as a node.
+Węzły pobierają część opłaty za każdą transakcję. Jeśli użytkownik posiada wystarczające środki i posiada historię potwierdzającą dobre wyniki, to jej lub jego portfel Verto może zachowywać się jak węzeł.
 
-#### 3.1.2 Aggregators
+#### 3.1.2 Agregatory
 
-The VDex aggregators are dedicated Volentix servers for simulator and security purposes. One of their functions is to pull logs and order book data from nodes into sparse distributed representations for hierarchical temporal memory as intrusion [7] analysis for detecting anomalies in the system. The aggregators will also be host to other components such as metachain ledgers and blockchain scrapers.
+Agregatory VDex są dedykowanymi serwerami Volentix do celów symulatora i bezpieczeństwa. One of their functions is to pull logs and order book data from nodes into sparse distributed representations for hierarchical temporal memory as intrusion [7] analysis for detecting anomalies in the system. The aggregators will also be host to other components such as metachain ledgers and blockchain scrapers.
 
 #### 3.1.3 Latency
 

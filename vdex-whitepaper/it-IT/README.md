@@ -170,93 +170,93 @@ Fase 1. 5%. Early passive seed funders.
 
 Fase 2. 28%. Finanziatori tramite prevendita privata qualificata e possibile vendita pubblica.
 
-3. Facilitatori. (Consulenti, Sviluppatori, Promotori, Custodi). Note that requirements for assistance from the sub-categories in this category may differ significantly before and after the project receives substantial funding support, but certain individuals may serve during both phases.
+3. Facilitatori. (Consulenti, Sviluppatori, Promotori, Custodi). Si noti che i requisiti per l'assistenza da parte delle sottocategorie di questa categoria possono differire significativamente prima e dopo che il progetto abbia ricevuto il sostegno finanziario sostanziale, ma alcuni individui possono prestare servizio durante entrambe le fasi.
 
 Fase 1. 10%.
 
 Fase 2. 10%.
 
-4. Tesoreria decentralizzata. 35%. Community members incentivized and rewarded for participation in progressive development of a decentralized autonomous organization (DAO). A decentralized treasury is anticipated to be administered by smart contracts and community consensus. ![](../5.jpg)
+4. Tesoreria decentralizzata. 35%. Membri della comunità incentivati e ricompensati per la partecipazione nel progressivo sviluppo di un organizzazione autonoma decentralizzata (DAO). È previsto che una tesoreria decentralizzata sia amministrata da smart contract e consenso comunitario. ![](../5.jpg)
 
-#### 3.4.3 VTX Distribution
+#### 3.4.3 Distribuzione VTX
 
-In light of market conditions at the time of this writing, Volentix is considering timing, means, and terms and conditions of VTX distribution as a function of private pre-sales and possible public sale. Please monitor our website for updates.
+Alla luce delle condizioni di mercato al momento della presente scrittura, Volentix sta considerando i tempi, i mezzi, i termini e le condizioni per la distribuzione di VTX come una funzione di prevendite private e un eventuale vendita publica. Controlla il nostro sito per ulteriori aggiornamenti.
 
-### 3.5 EOS.IO PLATFORM DEPLOYMENT
+### 3.5 IMPIEGO DELLA PIATTAFORMA EOS.IO
 
-The following considerations are relevant to our deploying the VDex exchange on the EOS.IO platform:
+Le seguenti considerazioni sono rilevanti per il nostro utilizzo dell'exchange VDex sulla piattaforma EOS.IO:
 
-Deploying a contract has a cost but is free to use.
+La distribuzione di un contratto ha un costo ma l'utilizzo è gratuito.
 
 Developers stake EOS.IO-compliant tokens to deploy a smart contract. After the contract is deployed, the locked tokens are returned.
 
-Decentralized applications allocate memory, CPU, bandwidth, and other resources to their contracts.
+Le applicazioni decentralizzate stanziano memoria, CPU, larghezza di banda, e altre risorse per i loro contratti.
 
-Multiple messages and multiple accounts can be assigned to the same thread.
+Molteplici messaggi e molteplici account possono essere assegnati allo stesso thread.
 
-### 3.6 BLOCKCHAIN INTERACTION
+### 3.6 INTERAZIONE BLOCKCHAIN
 
-#### 3.6.1 Inter-Blockchain Communication
+#### Comunicazione Inter-Blockchain
 
-EOS.IO is designed to make Inter-Blockchain Communication (IBC) proofs lightweight. For chains with insufficient capacity for processing the IBC proofs and establishing validity, there is an option to default to trusted oracles/escrows. With an EOS.IO-based smart contract, a trusted multi-signature wallet holding the asset in escrow can be used to persuade the signing/publishing of the transaction based on IBC proofs from the originating chain.
+EOS.IO è progettato per rendere più leggere le verifiche della Comunicazione Inter-Blockchain (IBC). Per catene con capacità insufficiente per elaborare le verifiche IBC e stabilirne la validità, c'è un'opzione di default per oracoli/escrow di fiducia. With an EOS.IO-based smart contract, a trusted multi-signature wallet holding the asset in escrow can be used to persuade the signing/publishing of the transaction based on IBC proofs from the originating chain.
 
-#### 3.6.2 Multi-Blockchain Information
+#### 3.6.2 Informazione Multi-Blockchain
 
-Comprehensible multi-blockchain information can be obtained by aggregating blockchain timelines in parallel order (with variance in the frequency of change of state). This system can trigger multi-chain load balancers, transfer states, draw data outputs from smart contracts, and foreign blockchain transaction execution. Relative block distance, relative global state, and timestamped events are recorded on a global ledger to optimize and confirm transactions before they actually happen on the native chain. This approach could also be used to determine block production coincidence between chains to access greater liquidity.[12]
+Le informazioni comprensibili su più blockchain si possono ottenere aggregando le linee temporali della blockchain in ordine parallelo (con variazioni nella frequenza del cambiamento di stato). This system can trigger multi-chain load balancers, transfer states, draw data outputs from smart contracts, and foreign blockchain transaction execution. La distanza relativa del blocco, lo stato globale relativo, e gli eventi con marcatura temporale vengono registrati su un ledger globale per ottimizzare e confermare le transazioni prima che queste si verifichino effettivamente sulla catena nativa. Questo approccio potrebbe essere utilizzato anche per determinare la coincidenza tra catene nella produzione del blocco per accedere a una maggiore liquidità. [12]
 
 ### 3.7 SECURITY CONCERNS
 
-To shake out certain assumptions, we intend to commence security testing following the prototyping phase. Security concerns are of paramount importance to users and must be addressed. Threats include, for example, an attacker executing malicious code within a transaction or manipulating the order of transactions or the timestamps of blocks. In the following sections, we address certain security measures and specific security threats and remedies.
+To shake out certain assumptions, we intend to commence security testing following the prototyping phase. Le preoccupazioni in materia di sicurezza sono di vitale importanza per gli utenti e devono essere affrontate. Le minacce includono, ad esempio, un aggressore che esegue codice maligno all'interno di una transazione o manipola l'ordine delle transazioni o i timestamp dei blocchi. Nelle sezioni che seguono affrontiamo alcune misure di sicurezza e specifiche minacce alla sicurezza e rimedi.
 
-### 3.8 SECURITY MEASURES
+### 3.8 MISURE DI SICUREZZA
 
 #### 3.8.1 Contract security
 
-Retain vast majority of funds in a time-delayed, multi-signature-controlled account.
+Conservare la maggior parte dei fondi in un conto a tempo ritardato, controllato da più firme.
 
-Use multi-signatures on a hot wallet with several independent processes/servers double-checking all withdrawals, with the concomitant benefit of creating a trusted list of accounts.
+Utilizzare la firma multipla su un hot wallet con diversi processi/server indipendenti che controllano due volte tutti i prelievi, con il vantaggio concomitante di creare una lista di conti affidabili.
 
-Deploy a custom contract that allows withdrawals only to accounts verified by KYC/AML.
+Distribuire un contract personalizzato che permette i prelievi solo per gli account verificati da KYC/AML.
 
-Deploy a custom contract that accepts only deposits of known assets from accounts verified by KYC/AML.
+Distribuire un contratto personalizzato che accetta solo i depositi di asset conosciuti provenienti da account verificati da KYC/AML.
 
-Deploy a custom contract that requires a mandatory 24-hour waiting period for all withdrawals.
+Distribuire un contratto personalizzato che necessita un periodo di attesa obbligatorio di 24 ore per tutti i prelievi.
 
-Utilize contracts with hardware wallets for all signing, including for automated withdrawals.
+Utilizzare contratti con wallet di tipo hardware per firmare qualsiasi cosa, inclusi i prelievi automatici.
 
-Upgrade broken contracts.
+Aggiornare i contratti danneggiati.
 
-Include ability to pause the functionality of a contract.
+Includere la possibilità di mettere in pausa la funzionalità di un contratto.
 
-Include ability to delay an action of a contract.
+Includere la possibilità di ritardare un azione di un contratto.
 
 #### 3.8.2 Auditing rogue processes
 
-The advanced anomaly detection algorithms provided by Numenta’s Nupic library will require less voluminous training data sets than conventional AI systems.
+Gli algoritmi avanzati della rilevazione delle anomalie forniti dalla libreria Nupic di Numenta necessiteranno degli insiemi di dati di addestramento meno voluminosi di quelli dei sistemi Ai convenzionali.
 
-#### 3.8.3 Randomization
+#### 3.8.3 Randomizzazione
 
 True randomisation of address space layout, route or utilizing varying lengths of timeouts as in the RAFT protocol can complexify systems enough to enhance resilience and further secure systems against a side-channel attack or front running.
 
-#### 3.8.4 Log inspection
+#### 3.8.4 Ispezione del registro
 
-Parsec does not rely on logs for the determination of consensus. On the other hand, RAFT will require this. In any case, Validator nodes will be designed to require minimal information To determine consensus as to minimize the transaction process time.
+Parsec non utilizza i registri per la determinazione del consenso. D'altro canto, RAFT ne avrà bisogno. In any case, Validator nodes will be designed to require minimal information To determine consensus as to minimize the transaction process time.
 
-#### 3.8.5 Transaction as Proof of Stake (TaPoS)
+#### 3.8.5 Transazione come Proof of Stake (TaPoS)
 
-This mechanism prevents the replay of a transaction on forks that do not include the referenced block. Signals the network that a particular user and stake are on a specific fork.
+Questo meccanismo impedisce la riproduzione di una transazione sui fork che non includono il blocco di riferimento. Segnala alla rete che un particolare utente e stake si trovano su un determinato fork.
 
-### 3.9 Security threats and remedies
+### 3.9 Minacce alla sicurezza e rimedi
 
-#### 3.9.1 Double spend
+#### 3.9.1 Doppia spesa
 
-A double spend is an attack in which a particular cryptocurrency stake is spent in more than one transaction.
+Una doppia spesa e un tipo di attacco in cui un determinato stake di cryptocurrency viene speso in più di una transazione.
 
-A race attack occurs when two conflicting transactions are sent in rapid succession into the network.
+Un attacco di tipo race si verifica quando due transazioni in conflitto vengono inviate sulla rete in rapida successione.
 
 A Finney attack pre-mines one transaction into a block and spends the same tokens before releasing the block to invalidate that transaction.
 
-A 51% attack can be mounted by anyone owning >50% of the total computing power of a network. A majority ownership position permits reversal of any transaction and allows total control of selection of transactions appearing in blocks. EOS.IO, Loopring, and RAFT appear to prevent this problem. If a block producer takes an unreasonable amount of runtime or is not sufficiently profitable, then the process is blacklisted.[5]
+Un attacco 51% può essere effettuato da chiunque possiede più del 50% della potenza di calcolo di una rete. A majority ownership position permits reversal of any transaction and allows total control of selection of transactions appearing in blocks. Sembra che EOS.IO, Loopring, e RAFT pervengono questo problema. Se un produttore di blocchi impiega una quantità irragionevole di runtime oppure non è sufficientemente profitabile, allore il processo viene inserito nella lista nera.[5]
 
 #### 3.9.2 Front running
 

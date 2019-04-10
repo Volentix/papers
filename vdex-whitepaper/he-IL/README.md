@@ -1,4 +1,4 @@
-# THE VOLENTIX VDEX WHITE PAPER
+# הרשימה הלבנה של VOELNTIX VDEX
 
 - גרסה: 0.1.4
 - עודכן: 11-03-2019
@@ -6,25 +6,25 @@
 
 ## 1. מבוא
 
-Volentix מציג בתוכו את VDex, המשמש כ"חלפן כספים" למטבעות ונכסים ממוחשבים, המבוזר ומופץ עם דגש על חווית המשתמש/ת, יחד עם פיתוח הקהילה והמינהל. By accessing established technologies and planning selective new protocols with priority on security, speed, authentication, ease of use, scalability, and multi-asset support, VDex intends to facilitate peer-to-peer transactions by assembling a portfolio of decentralized applications built on EOS.IO smart contracts.
+Volentix מציג בתוכו את VDex, המשמש כ"חלפן כספים" למטבעות ונכסים ממוחשבים, המבוזר ומופץ עם דגש על חווית המשתמש/ת, יחד עם פיתוח הקהילה והמינהל. על-ידי גישה לשיטות טכנולוגיות מבוססות ותכנון סלקטיבי של פרוטוקולים חדשים עם עדיפות על אבטחה, מהירות, אימות, קלות השימוש, מידרגיות ותמיכה רב-רכושית, VDex נועד להקל על עסקאות בין עמית- לעמית בעזרת הרכבת תיק עבודות של יישומים מבוזרים הבנויים על חוזים חכמים של EOS.IO.
 
-The VDex launch point anticipates matching Volentix's design requirements to available technologies superimposed on the EOS.IO decentralized operating system. We intend to test our assumptions by prototyping via custom EZEOS software, which we built and customized with EOS.IO's cleos command line tools. This software resides at: https://github.com/Volentix/ezeos
+נקודת ההשקה של VDex מצפה להתאים לתנאי העיצוב של Volentix, ולאפשר זמינות לטכנולוגיות שעל גבי מערכת ההפעלה המבוזרת EOS.IO. בכוונתנו לבדוק את ההנחות שלנו באמצעות אב-טיפוס תוכנת EZEOS מותאמת אישית, שבנינו ועיצבנו עם כלי ממשק שורת הפקודה של EOS.IO. תוכנה זו נמצאת ב: https://github.com/Volentix/ezeos
 
 ![](../main3-3000px.jpg)
 
 ## 2. VOLENTIX
 
-The Volentix ecosystem will exist atop four pillars, an initializing array of applications specifically known as Venue, Verto, Vespucci, and VDex.
+מערכת Volentix תתקיים על גבי ארבעה עמודי תווך, מערך מאותחל של יישומים, הידועים בתור Venue, Verto, Vespucci ו VDex.
 
 ### 2.1 VENUE
 
-Venue is planned as a dynamic community platform that recruits and aligns members of the Volentix community to facilitate distribution of VTX, the native digital asset of the Volentix ecosystem, and to promote awareness of Volentix initiatives.
+Venue היא פלטפורמה דינאמית לקהילה, שמגייסת ומיישרת את חברי קהילתה בכדי להקל על ביזור VTX, הנכס הדיגיטלי המקומי של Volentix, ועל מנת לעלות מודעות בנוגע ליוזמות Volentix.
 
-Recently launched in beta testing, Venue enables users to receive VTX in exchange, for example, for participating in developing dedicated communities, submitting bug fixes, and claiming bounties. Leaderboards and live metrics reflect user participation. The first signature campaign was launched on the https://bitcointalk.org/ forum on July 13, 2018. אנא בקר/י ב https://venue.volentix.io למידע נוסף.
+לאחרונה הושק בגירסת הבדיקה הניסיונית, Venue מאפשרת למשתמשים לקבל VTX בתמורה, לדוגמא, להשתתפות בפיתוח קהילות נאמנות, הגשת תיקונים לבאגים, ודרישת פרסים. לוח תוצאות ומדדים חיים משקפים את השתתפות המשתמש. The first signature campaign was launched on the https://bitcointalk.org/ forum on July 13, 2018. אנא בקר/י ב https://venue.volentix.io למידע נוסף.
 
 ### 2.2 VERTO
 
-Verto is being built as a multi-currency wallet for use with the VDex decentralized exchange, and intends to facilitate personal custody and local management of private and public keys in peer-to-peer transactions, with the goal of eliminating the risks of devastating losses of stake associated with traumatic failures of central operators. Verto plans to employ a system of smart contracts to maintain the state between two trading clients, the simplest operations being accomplished with atomic swaps.[1]
+Verto מעוצב כארנק רב-מטבעות לשימוש עם ''חלפן הכספים'' VDex המבוזר, המתוכנן בכדי להקל על ניהול אישי ומקומי של מפתחות פרטיים וציבוריים בעסקאות בין עמית- לעמית, עם המטרה לחיסול כל סיכון של ספיגת אבידות כבדות המשויכות עם כשלים טראומטיים של מפעילים מרכזיים. Verto plans to employ a system of smart contracts to maintain the state between two trading clients, the simplest operations being accomplished with atomic swaps.[1]
 
 ### 2.3 VESPUCCI
 
@@ -70,7 +70,7 @@ Service contracts are standardized to provide a baseline measure of interoperabi
 
 Data is shared between contracts via an oracle, which, "in the context of blockchains and smart contracts, is an agent that finds and verifies real-world occurrences and submits this information to a blockchain to be used by smart contracts.” [4] Every node will have an identical copy of these data, for use in smart contract computation. Rather than the smart contract functioning to pull the data, instead the oracle pushes the data onto the blockchain. In the instance of a blockchain, most reading of the data is done via polling "models" in order to monitor blockchain state and to perform certain responsive actions.
 
-#### 3.0.4 Sidechains
+#### 3.0.4 שרשורי צד
 
 In EOS.IO, issuance of a digital asset creates a sidechain, which is an emerging mechanism permitting digital assets from one blockchain to be securely used in a separate blockchain and then moved back to the original blockchain. Efficiency of processing is promoted by creating multiple sidechains. A TCP-like communication channel between different blockchains evaluates proofs. For each shard (a unit of parallelizable execution in a cycle), a balanced merkle tree is constructed of these action commitments to generate a temporary shared merkle root; this is done for speed of parallel computation. The block header contains the root of a balanced merkle tree the leaves of which are the roots of these individual shard merkle trees. [2]
 

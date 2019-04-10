@@ -375,11 +375,11 @@ USER OPTIONS
 
 * ### **OVERALL ARCHITECTURE AND IMPLEMENTATION**
 
-We have discussed the three main subsystems of Fundamental / Technological Analysis, Technical Analysis, and Sentiment Analysis. All three pillars are imperfect. Furthermore, only the most experienced analysts can combine all three systems in one rating strategy. The final score for each cryptocurrency depends on each of the three components, weighted either by default values or by weighs provided by the user. Since we are firm believers in the value of the technology and the value of the team behind each cryptocurrency, FTA and, especially, the technological aspects are assigned a total weight of 50% by default. Based on research and trial of assessment parameters, appropriate weights are derived to quantifiably gauge the validity of a coin. We exploit recent breakthroughs in deep neural networks in order to automate the combination of scores without human intervention so as to avoid introducing direct or indirect bias.
+We have discussed the three main subsystems of Fundamental / Technological Analysis, Technical Analysis, and Sentiment Analysis. All three pillars are imperfect. Furthermore, only the most experienced analysts can combine all three systems in one rating strategy. The final score for each cryptocurrency depends on each of the three components, weighted either by default values or by weighs provided by the user. Since we are firm believers in the value of the technology and the value of the team behind each cryptocurrency, FTA and, especially, the technological aspects are assigned a total weight of 50% by default. Based on research and trial of assessment parameters, appropriate weights are derived to quantifiably gauge the validity of a coin. אנו מנצלים את פריצות הדרך האחרונות ברשתות עצביות עמוקות על מנת להפוך את שילוב התוצאות לאוטומטי, ללא התערבות אנושית, וכך גם להימנע מחד- צדדיות ישירה או עקיפה.
 
 The outputs of all three constituents together with the corresponding price (the price being inverse to risk) movements for different frames yield a ranking of the cryptocurrencies and the tokens in the most holistic approach ever achieved. This is coupled with Post-processing for humans.
 
-Regarding extensibility, Vespucci is particularly useful for Ethereum-based tokens. This represents many of the most exciting tradeable tokens today, but many new smart contract systems are being developed with their own very particular virtual machines and execution runtimes. This module can be seen as a specific instantiation of a number of other such modules which could be built for future smart contract systems. In particular, systems are likely to appear that expose a semantics especially amenable to formal verification, at which point Vespucci will be extended with new modules resembling this one for each new smart contract system that supports a range of valuable tokens. Overtime, and with the main pillars firmy rooted, the system is envisioned to also provide price prediction.
+לגבי יכולת ההרחבה, Vespucci שימושי במיוחד עבור אסימונים המבוססים על אתריום. This represents many of the most exciting tradeable tokens today, but many new smart contract systems are being developed with their own very particular virtual machines and execution runtimes. This module can be seen as a specific instantiation of a number of other such modules which could be built for future smart contract systems. In particular, systems are likely to appear that expose a semantics especially amenable to formal verification, at which point Vespucci will be extended with new modules resembling this one for each new smart contract system that supports a range of valuable tokens. Overtime, and with the main pillars firmy rooted, the system is envisioned to also provide price prediction.
 
 **Deep learning and AI** are powerful technologies under rapid development today and may be employed in other parts of the Vespucci system besides the final phase of outputting the overall score. Below is a sketch of a basic neural network with a single hidden layer. Today’s deep networks have a multitude of such layers, whose power we shall exploit. Neural networks “learn” the appropriate weights by back-propagation. An important question is therefore the learning phase where historical data on cryptocurrencies, properly labeled, shall be employed. One issue is that the available data is limited and its labels may need curation: the created dataset shall become openly accessible as a contribution to the community.
 
@@ -407,58 +407,58 @@ The **implementation** of the Vespucci analysis tools is in Python using various
 
 Initially, most of those processes run on Linux Virtual Machines and results are kept in SQL databases. In case of insufficiency, a serverless frameworks shall be considered. In the immediate future powerful servers with GPUs are designed to perform efficiently all of our analysis (Kubernetes may be relevant here, assuming Docker containers).
 
-For Sentiment Analysis, and possibly other modules as well, a **node.js** system is used, though alternative implementations are easily swappable. The aggregate information being recorded, and continuously being derived, storing it in a static place is a requirement for the final version of Vespucci. MongoDB can be used by the other modules in the system to read and write such information. MongoDB is a mature document-oriented database useful in storing structured information, as is the case for the data that exists in the Vespucci system. An alternative may be CockroachDB.
+For Sentiment Analysis, and possibly other modules as well, a **node.js** system is used, though alternative implementations are easily swappable. לגרסה הסופית של Vespucci נדרש לאחסן את המידע המצטבר שנרשם, ומופק באופן רציף, במקום ניח ובטוח. MongoDB יכול לשמש לסיוע בקריאה ובכתיבה של מידע לתוכנות הקטנות הנמצאות במערכת. MongoDB is a mature document-oriented database useful in storing structured information, as is the case for the data that exists in the Vespucci system. אלטרנטיבה קיימת היא CockroachDB.
 
 Vespucci **data** sources may include, but not be limited to: historic trading records, trading trends, developer activity and plan analysis, digital asset distribution and governance information, terms and conditions and current and historic address balances as well as forum sentiment analysis. This information can be found scattered among blockchain explorer sites and chat rooms. In particular, Sentiment analysis (see relevant [section](https://docs.google.com/document/d/1NLr-rgF66NCBmLmPIdElltKYVPJrLVO7DZDpcNEm6OU/edit?ts=5bec2f33#heading=h.tuaauijo691s)) would require data on all coins for a limited period of time. This is a vast amount of data and in order to minimise the impact that data will have on the system, we employ big data techniques of compression, aggregation, and filtering.
 
-Storage techniques may rely on off-chain Order books developed by VLabs, which is a sophisticated data structure with high security standards. It relies on EOS.IO, and its persistence API. One advantage of such a system is that it is not expensive; on the other hand, it is sufficiently efficient for our purposes. While transactions are handled by the VDex, non-transactional data will remain off-chain.
+Storage techniques may rely on off-chain Order books developed by VLabs, which is a sophisticated data structure with high security standards. It relies on EOS.IO, and its persistence API. One advantage of such a system is that it is not expensive; on the other hand, it is sufficiently efficient for our purposes. למרות שהעברות מנוהלות על ידי VDex, נתוני מידע שאינם קשורים לעסקאות יישארו מחוץ לרשת.
 
-* ### **TIMELINE**
+* ### ** ציר זמן**
 
 ![](https://volentix.io/file/2019/01/Web-1920-–-2@3x.png)
 
-The project’s timeline is shown in the above figure. The main milestones are:  
-— Vespucci MVP. November 2018 .  
-— Vespucci, version 1.0\. April 2019.
+ציר הזמן של הפרויקט מוצג בספרה הנ''ל. אבני הדרך העיקריות הן:  
+-- Vespucci MVP. נובמבר 2018 .  
+-- Vespucci, גירסה 1.0/. אפריל 2019.
 
-### **ACKNOWLEDGMENTS**
+### **הרשאות**
 
-This text is based on NH’s original vision docs and AA’s update on them.
+טקסט זה מבוסס על מסמכי חזון מקוריים של NH ועדכון של AA עליהם.
 
-### **REFERENCES**
+### **הפניות**
 
-[1] J. Yao et al. Forecasting and Analysis of Marketing Data using Neural Networks”, Journal of Science and Engineering 14:843-862 (1998)
+[1] J. Yao et al. צפייה מראש וניתוח נתוני שיווק באמצעות רשתות עצביות'', כתב העת למדע והנדסה 14:843-862 (1998)
 
 [2] E. Kouloumpis et al. Twitter Sentiment Analysis: The Good the Bad and the OMG!”, International AAAI Conference on Weblogs and Social Media (ICWSM-11) (2011)
 
 [3] A. Severyn et al. Twitter Sentiment Analysis with Deep Convolutional Neural Networks, International ACM SIGIR Conference on Research and Development in Information Retrieval:959-962 (2015)
 
-[4] C.J. & Gilbert et al. VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text. International Conference on Weblogs and Social Media (ICWSM-14) 8 (2014)
+[4] C.J. & Gilbert et al. VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text. כנס בינלאומי בבלוגים ובמדיה חברתית (2014) 8 (ICWSM-14)
 
-[5] Bird et al. Natural Language Processing with Python, O’Reilly Media Inc. (2009)
+[5] Bird et al. עיבוד שפה טבעי עם Python, O’Reilly Media Inc. (2009)
 
-[6] E. Stenqvist et al. Predicting Bitcoin price fluctuation with Twitter sentiment analysis. MSc Thesis. School of Computer Science and Communication, KTH Royal Institute of Technology, Stockholm, Sweden (2017)
+[6] E. Stenqvist et al. חיזוי תנודות במחיר הביטקוין עם כריית דעות טוויטר. תזת MSc. בית הספר למדעי המחשב ותקשורת, KTH המכון המלכותי לטכנולוגיה, שטוקהולם, שוודיה (2017)
 
-[7] H. Kakavand, N. Kost De Sevres, and B. Chilton, The Blockchain Revolution: An Analysis of Regulation and Technology Related to Distributed Ledger Technologies. SSRN Electronic Journal. 10.2139/ ssrn.2849251 (2017)
+[7] H. Kakavand, N. Kost De Sevres, and B. Chilton, The Blockchain Revolution: An Analysis of Regulation and Technology Related to Distributed Ledger Technologies. יומן אלקטרוני SSRN. (2017) 10.2139/ ssrn.2849251
 
-[8] Arup Foresight: Blockchain Technology
+[8] Arup צפייה מראש: טכנולוגיית הבלוקצ'יין
 
-[9] Volentix Labs,The Volentix VDEX Whitepaper (2018) <https://s3.ca-central-1.amazonaws.com/volentix/VDexWhitePaper.pdf>
+[9] מעבדות Volentix, רשימת הVolentix VDEX הלבנה (2018) <https://s3.ca-central-1.amazonaws.com/volentix/VDexWhitePaper.pdf>
 
-[10] <http://crix.hu-berlin.de/> [Technical Analysis]
+[10] <http://crix.hu-berlin.de/> [ ניתוח טכני]
 
 [11] <https://hackernoon.com/a-framework-for-evaluating-cryptocurrencies-e1b504179848>
 
-[12] <https://eos.io/>, Eos.io technical white paper v2 (2018).
+[12] <https://eos.io/>, רשימה לבנה טכנית Eos.io (v2 (2018.
 
-[13] <https://cryptocoinrankings.com/index.php> [תקלות טכניות]
+[13] <https://cryptocoinrankings.com/index.php> [התרעות טכניות]
 
 [14] <https://gist.github.com/gavinandresen/e20c3b5a1d4b97f79ac2> [ריבוי בלוקים (1)O]
 
 [15]<http://blocktivity.info/> [פעילות על שרשורי בלוקים, פרוייקטים המנוצלים על ידי אנשים]
 
-[16]<https://www.coingecko.com/> [ טבלת מטבע מבוזר]
+[16]<https://www.coingecko.com/> [ טבלת מטבעות קריפטו]
 
 [17] <https://www.investopedia.com>
 
-סוגריים הנמצאים בסוף הפניות מסוימות מצביעות על החלק בנייר המשתמש בהפניה זו.
+סוגריים הנמצאים בסופן של הפניות מסוימות מצביעות על החלק במסמך המשתמש בהפניה זו.
