@@ -244,13 +244,13 @@ Parsec non utilizza i registri per la determinazione del consenso. D'altro canto
 
 #### 3.8.5 Transazione come Proof of Stake (TaPoS)
 
-Questo meccanismo impedisce la riproduzione di una transazione sui fork che non includono il blocco di riferimento. Signals the network that a particular user and stake are on a specific fork.
+Questo meccanismo impedisce la riproduzione di una transazione sui fork che non includono il blocco di riferimento. Segnala alla rete che un particolare utente e stake si trovano su un determinato fork.
 
-### 3.9 Security threats and remedies
+### 3.9 Minacce alla sicurezza e rimedi
 
-#### 3.9.1 Double spend
+#### 3.9.1 Doppia spesa
 
-A double spend is an attack in which a particular cryptocurrency stake is spent in more than one transaction.
+Una doppia spesa e un tipo di attacco in cui un determinato stake di cryptocurrency viene speso in più di una transazione.
 
 A race attack occurs when two conflicting transactions are sent in rapid succession into the network.
 
