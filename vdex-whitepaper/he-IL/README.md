@@ -1,4 +1,4 @@
-# THE VOLENTIX VDEX WHITE PAPER
+# רשימת VOELNTIX VDEX הלבנה
 
 - גרסה: 0.1.4
 - עודכן: 11-03-2019
@@ -6,21 +6,21 @@
 
 ## 1. מבוא
 
-Volentix מציג בתוכו את VDex, המשמש כ"חלפן כספים" למטבעות ונכסים ממוחשבים, המבוזר ומופץ עם דגש על חווית המשתמש/ת, יחד עם פיתוח הקהילה והמינהל. By accessing established technologies and planning selective new protocols with priority on security, speed, authentication, ease of use, scalability, and multi-asset support, VDex intends to facilitate peer-to-peer transactions by assembling a portfolio of decentralized applications built on EOS.IO smart contracts.
+Volentix מציג בתוכו את VDex, המשמש כ"חלפן כספים" למטבעות ונכסים ממוחשבים, המבוזר ומופץ עם דגש על חווית המשתמש/ת, יחד עם פיתוח הקהילה והמינהל. על-ידי גישה לשיטות טכנולוגיות מבוססות ותכנון סלקטיבי של פרוטוקולים חדשים עם עדיפות על אבטחה, מהירות, אימות, קלות השימוש, מדרגיות ותמיכה רב-רכושית, VDex נועד להקל על עסקאות בין עמית- לעמית בעזרת הרכבת תיק עבודות של יישומים מבוזרים הבנויים על חוזים חכמים של EOS.IO.
 
-The VDex launch point anticipates matching Volentix's design requirements to available technologies superimposed on the EOS.IO decentralized operating system. We intend to test our assumptions by prototyping via custom EZEOS software, which we built and customized with EOS.IO's cleos command line tools. This software resides at: https://github.com/Volentix/ezeos
+נקודת ההשקה של VDex מצפה להתאים את תנאי העיצוב של Volentix לטכנולוגיות זמינות שעל גבי מערכת ההפעלה המבוזרת EOS.IO. בכוונתנו לבדוק את ההנחות שלנו באמצעות אב-טיפוס דרך תוכנת EZEOS מותאמת אישית, שאנחנו בעצם בנינו ועיצבנו עם כלי ממשק שורת הפקודה של EOS.IO. תוכנה זו נמצאת ב: https://github.com/Volentix/ezeos
 
 ![](../main3-3000px.jpg)
 
 ## 2. VOLENTIX
 
-The Volentix ecosystem will exist atop four pillars, an initializing array of applications specifically known as Venue, Verto, Vespucci, and VDex.
+המערכת Volentix תתקיים על גבי ארבעה עמודי תווך, מערך מאותחל של יישומים, מתוכם ספציפית Verto, וספוצ'י ו- VDex.
 
 ### 2.1 VENUE
 
-Venue is planned as a dynamic community platform that recruits and aligns members of the Volentix community to facilitate distribution of VTX, the native digital asset of the Volentix ecosystem, and to promote awareness of Volentix initiatives.
+Venue היא פלטפורמה דינאמית לקהילה, שמגייסת ומיישרת את חברי קהילתה בכדי להקל על ביזור VTX, הנכס הדיגיטלי המקומי של Volentix, ועל מנת לעלות מודעות בנוגע ליוזמות Volentix.
 
-Recently launched in beta testing, Venue enables users to receive VTX in exchange, for example, for participating in developing dedicated communities, submitting bug fixes, and claiming bounties. Leaderboards and live metrics reflect user participation. The first signature campaign was launched on the https://bitcointalk.org/ forum on July 13, 2018. אנא בקר/י ב https://venue.volentix.io למידע נוסף.
+לאחרונה הושק בגירסת הבדיקה הניסיונית, Venue מאפשרת למשתמשים לקבל VTX בתמורה, לדוגמא, להשתתפות בפיתוח קהילות נאמנות, הגשת תיקונים לבאגים, ודרישת פרסים. לוח תוצאות ומדדים חיים משקפים את השתתפות המשתמש. The first signature campaign was launched on the https://bitcointalk.org/ forum on July 13, 2018. אנא בקר/י ב https://venue.volentix.io למידע נוסף.
 
 ### 2.2 VERTO
 
