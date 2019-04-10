@@ -252,11 +252,11 @@ Questo meccanismo impedisce la riproduzione di una transazione sui fork che non 
 
 Una doppia spesa e un tipo di attacco in cui un determinato stake di cryptocurrency viene speso in più di una transazione.
 
-A race attack occurs when two conflicting transactions are sent in rapid succession into the network.
+Un attacco di tipo race si verifica quando due transazioni in conflitto vengono inviate sulla rete in rapida successione.
 
 A Finney attack pre-mines one transaction into a block and spends the same tokens before releasing the block to invalidate that transaction.
 
-A 51% attack can be mounted by anyone owning >50% of the total computing power of a network. A majority ownership position permits reversal of any transaction and allows total control of selection of transactions appearing in blocks. EOS.IO, Loopring, and RAFT appear to prevent this problem. If a block producer takes an unreasonable amount of runtime or is not sufficiently profitable, then the process is blacklisted.[5]
+Un attacco 51% può essere effettuato da chiunque possiede più del 50% della potenza di calcolo di una rete. A majority ownership position permits reversal of any transaction and allows total control of selection of transactions appearing in blocks. Sembra che EOS.IO, Loopring, e RAFT pervengono questo problema. Se un produttore di blocchi impiega una quantità irragionevole di runtime oppure non è sufficientemente profitabile, allore il processo viene inserito nella lista nera.[5]
 
 #### 3.9.2 Front running
 
