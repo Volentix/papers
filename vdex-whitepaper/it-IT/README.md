@@ -232,19 +232,19 @@ Includere la possibilità di ritardare un azione di un contratto.
 
 #### 3.8.2 Auditing rogue processes
 
-The advanced anomaly detection algorithms provided by Numenta’s Nupic library will require less voluminous training data sets than conventional AI systems.
+Gli algoritmi avanzati della rilevazione delle anomalie forniti dalla libreria Nupic di Numenta necessiteranno degli insiemi di dati di addestramento meno voluminosi di quelli dei sistemi Ai convenzionali.
 
-#### 3.8.3 Randomization
+#### 3.8.3 Randomizzazione
 
 True randomisation of address space layout, route or utilizing varying lengths of timeouts as in the RAFT protocol can complexify systems enough to enhance resilience and further secure systems against a side-channel attack or front running.
 
-#### 3.8.4 Log inspection
+#### 3.8.4 Ispezione del registro
 
-Parsec does not rely on logs for the determination of consensus. On the other hand, RAFT will require this. In any case, Validator nodes will be designed to require minimal information To determine consensus as to minimize the transaction process time.
+Parsec non utilizza i registri per la determinazione del consenso. D'altro canto, RAFT ne avrà bisogno. In any case, Validator nodes will be designed to require minimal information To determine consensus as to minimize the transaction process time.
 
-#### 3.8.5 Transaction as Proof of Stake (TaPoS)
+#### 3.8.5 Transazione come Proof of Stake (TaPoS)
 
-This mechanism prevents the replay of a transaction on forks that do not include the referenced block. Signals the network that a particular user and stake are on a specific fork.
+Questo meccanismo impedisce la riproduzione di una transazione sui fork che non includono il blocco di riferimento. Signals the network that a particular user and stake are on a specific fork.
 
 ### 3.9 Security threats and remedies
 
