@@ -212,7 +212,7 @@ Lati gbọn awọn abamoda kan danu, a gbero lati bẹrẹ idanwo aabo ni atẹl
 
 #### 3.8.1 Aabo olubasọrọ
 
-Retain vast majority of funds in a time-delayed, multi-signature-controlled account.
+De ọpọlọpọ awọn owo mọlẹ ninu akọọlẹ oniṣakoso-ọlọpọ-ibuwọlu, ti akoko daduro.
 
 Use multi-signatures on a hot wallet with several independent processes/servers double-checking all withdrawals, with the concomitant benefit of creating a trusted list of accounts.
 
