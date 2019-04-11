@@ -214,7 +214,7 @@ Lati gbọn awọn abamoda kan danu, a gbero lati bẹrẹ idanwo aabo ni atẹl
 
 De ọpọlọpọ awọn owo mọlẹ ninu akọọlẹ oniṣakoso-ọlọpọ-ibuwọlu, ti akoko daduro.
 
-Use multi-signatures on a hot wallet with several independent processes/servers double-checking all withdrawals, with the concomitant benefit of creating a trusted list of accounts.
+Lo awọn ọpọ-ibuwọlu lori hot wallet pẹlu ọpọlọpọ awọn ilana ti olominira/awọn server ti o n ṣe atunyẹwo gbogbo awọn iyọkuro, pẹlu awọn anfaani ti o wa pẹlu ṣiṣẹda akojọpọ awọn akọọlẹ ti fọkantan.
 
 Deploy a custom contract that allows withdrawals only to accounts verified by KYC/AML.
 
