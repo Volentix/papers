@@ -114,7 +114,7 @@ EOS.IO ha una latenza bassa per la conferma dei blocchi (0.5 secondi). [5] Quest
 
 ### 3.2 REGISTRO ORDINI
 
-Il registro ordini è la lista degli ordini di acquisto e vendita che vengono registrati da VDex dagli utenti interessati. Un motore corrispondente utilizza un registro ordini per determinare quali ordini possono essere coperti. Da il protocollo Loopring permette la personalizzazione della struttura del registro ordini. [5] Per prestazioni ottimali, si possono utilizzare i contenitori forniti da EOS.IO. [8]
+Il registro ordini è la lista degli ordini di acquisto e vendita che VDex registra dagli utenti interessati. Un motore corrispondente utilizza un registro ordini per determinare quali ordini possono essere coperti. Da il protocollo Loopring permette la personalizzazione della struttura del registro ordini. [5] Per prestazioni ottimali, si possono utilizzare i contenitori forniti da EOS.IO. [8]
 
 #### 3.2.1 Strutture dati
 
