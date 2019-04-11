@@ -220,9 +220,9 @@ Lo akanṣe adehun kan ti o fayegba awọn iyọkuro nikan si awọn akọọl�
 
 Lo akanṣe adehun kan ti o fayegba awọn ifidogo ti awọn ohun-ini ti o jẹ mimọ nikan lati awọn akọọlẹ ti o jẹ jijẹrisi nipasẹ nipasẹ KYC/AML.
 
-Deploy a custom contract that requires a mandatory 24-hour waiting period for all withdrawals.
+Lo akanṣe adehun kan ti o nilo akoko idaduro wakati 24 to pọn dandan fun gbogbo awọn iyọkuro.
 
-Utilize contracts with hardware wallets for all signing, including for automated withdrawals.
+Lo awọn adehun pẹlu awọn apo owo ti afojuri fun gbogbo bibuwọlu, pẹlu fun awọn iyọkuro aladaaṣiṣẹ.
 
 Upgrade broken contracts.
 
