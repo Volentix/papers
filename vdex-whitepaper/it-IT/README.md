@@ -260,7 +260,7 @@ Un attacco 51% può essere effettuato da chiunque possiede più del 50% della po
 
 #### 3.9.2 Front running
 
-A front runner steals one or more orders from a pending order book settlement transaction. Both EOS.IO and Loopring offer remedies in which keys are protected because they are not part of the on-chain transaction, and therefore remain unknown to parties other than the owner. Only the order book settling node is possessed of the sensitive information, and each node uses a different solution for resolving the order books, introducing yet another level of complexity to promote security.
+Un front runner rubba uno o più ordini dall'impostazione del libro ordini di una transazione in attesa. Both EOS.IO and Loopring offer remedies in which keys are protected because they are not part of the on-chain transaction, and therefore remain unknown to parties other than the owner. Only the order book settling node is possessed of the sensitive information, and each node uses a different solution for resolving the order books, introducing yet another level of complexity to promote security.
 
 #### 3.9.3 Forged identities
 
