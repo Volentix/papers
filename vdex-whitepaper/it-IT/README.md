@@ -268,7 +268,7 @@ Gli utenti malintenzionati creano identità forgiate per inviare un gran numero 
 
 #### 3.9.4 Saldo Insufficiente
 
-Gli utenti malintenzionati creano e inviano ordini il cui valore è diverso da 0 ma il cui indirizzo ha un saldo pari a 0. Nodes monitor actual balances, update these order states accordingly, and then discard them.
+Gli utenti malintenzionati creano e inviano ordini il cui valore è diverso da 0 ma il cui indirizzo ha un saldo pari a 0. I nodi controlla il saldo reale, aggiorna di conseguenza lo stato di questi ordini, e poi li scarta.
 
 #### 3.9.5 Timing attack
 
