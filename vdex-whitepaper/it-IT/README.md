@@ -260,15 +260,15 @@ Un attacco 51% può essere effettuato da chiunque possiede più del 50% della po
 
 #### 3.9.2 Front running
 
-Un front runner rubba uno o più ordini dall'impostazione del libro ordini di una transazione in attesa. Sia EOS.IO che Loopring offrono dei rimedi nei quali le chiavi sono protette perché non fanno parte della transazione on-chain, e quindi rimangono sconosciute ai soggetti diversi dal proprietario. Only the order book settling node is possessed of the sensitive information, and each node uses a different solution for resolving the order books, introducing yet another level of complexity to promote security.
+Un front runner rubba uno o più ordini dall'impostazione del libro ordini di una transazione in attesa. Sia EOS.IO che Loopring offrono dei rimedi nei quali le chiavi sono protette perché non fanno parte della transazione on-chain, e quindi rimangono sconosciute ai soggetti diversi dal proprietario. Solo il nodo che regola il registro d'ordine è in possesso delle informazioni sensibili, e ogni nodo utilizza una soluzione diversa per la risoluzione dei registri degli ordini, aggiungendo un altro livello di difficoltà per promuovere la sicurezza.
 
-#### 3.9.3 Forged identities
+#### 3.9.4 Identità forgiate
 
-Malicious users create forged identities to send a large number of small orders to attack Loopring nodes. However, most of these orders will be rejected for not yielding satisfying profit when matched.
+Gli utenti malintenzionati creano identità forgiate per inviare un gran numero di piccoli ordini per attaccare i nodi di Loopring. However, most of these orders will be rejected for not yielding satisfying profit when matched.
 
-#### 3.9.4 Insufficient Balance
+#### 3.9.4 Saldo Insufficiente
 
-Malicious users sign and spread orders the value of which is non-zero but the address of which has a zero balance. Nodes monitor actual balances, update these order states accordingly, and then discard them.
+Gli utenti malintenzionati creano e inviano ordini il cui valore è diverso da 0 ma il cui indirizzo ha un saldo pari a 0. Nodes monitor actual balances, update these order states accordingly, and then discard them.
 
 #### 3.9.5 Timing attack
 
