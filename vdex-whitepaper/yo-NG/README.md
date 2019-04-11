@@ -224,7 +224,7 @@ Lo akanṣe adehun kan ti o nilo akoko idaduro wakati 24 to pọn dandan fun gbo
 
 Lo awọn adehun pẹlu awọn apo owo ti afojuri fun gbogbo bibuwọlu, pẹlu fun awọn iyọkuro aladaaṣiṣẹ.
 
-Upgrade broken contracts.
+Satunse awọn adehun to bajẹ.
 
 Include ability to pause the functionality of a contract.
 
