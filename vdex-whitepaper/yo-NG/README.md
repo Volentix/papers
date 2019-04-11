@@ -216,9 +216,9 @@ De ọpọlọpọ awọn owo mọlẹ ninu akọọlẹ oniṣakoso-ọlọpọ
 
 Lo awọn ọpọ-ibuwọlu lori hot wallet pẹlu ọpọlọpọ awọn ilana ti olominira/awọn server ti o n ṣe atunyẹwo gbogbo awọn iyọkuro, pẹlu awọn anfaani ti o wa pẹlu ṣiṣẹda akojọpọ awọn akọọlẹ ti fọkantan.
 
-Deploy a custom contract that allows withdrawals only to accounts verified by KYC/AML.
+Lo akanṣe adehun kan ti o fayegba awọn iyọkuro nikan si awọn akọọlẹ ti o jẹ jijẹrisi nipasẹ KYC/AML.
 
-Deploy a custom contract that accepts only deposits of known assets from accounts verified by KYC/AML.
+Lo akanṣe adehun kan ti o fayegba awọn ifidogo ti awọn ohun-ini ti o jẹ mimọ nikan lati awọn akọọlẹ ti o jẹ jijẹrisi nipasẹ nipasẹ KYC/AML.
 
 Deploy a custom contract that requires a mandatory 24-hour waiting period for all withdrawals.
 
