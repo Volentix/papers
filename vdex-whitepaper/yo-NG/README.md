@@ -362,4 +362,4 @@ G. Wood, Ethereum: A secure decentralised generalised transaction ledger.ethereu
 
 Dane Keller Rutledge, Creating a Comprehensive Digital Assets Ecosystem (DAE), (2018).
 
-## END OF PAPER
+## OPIN IWE
