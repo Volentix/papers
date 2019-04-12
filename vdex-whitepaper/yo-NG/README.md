@@ -234,7 +234,7 @@ Se afikun anfani lati da igbeṣẹ ti adehun kan duro.
 
 Awọn alugọridimu iṣawari aiṣedede to tubọ ga to jẹ pipese nipasẹ ile ikowesi ti Numenta Nupic yoo nilo awọn eto data ikẹkọ to kere ju awọn ilana AI ti o wọpọ julọ.
 
-#### 3.8.3 Randomization
+#### 3.8.3 Isọdialaileto
 
 True randomisation of address space layout, route or utilizing varying lengths of timeouts as in the RAFT protocol can complexify systems enough to enhance resilience and further secure systems against a side-channel attack or front running.
 
