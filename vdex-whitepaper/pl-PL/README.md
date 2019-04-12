@@ -110,7 +110,7 @@ Agregatory VDex są dedykowanymi serwerami Volentix do celów symulatora i bezpi
 
 #### 3.1.3 Opóźnienie
 
-EOS.IO ma potwierdzenie bloku o niskim opóźnieniu (0,5 sekundy).[5] Ten stopień opóźnienia można utrzymać w transakcjach z innymi blockchainami, jeśli łańcuchy te dopuszczają podobne opóźnienie. Ale zasadniczo transakcja jest tak szybka, jak mniej gwałtowny łańcuch w równaniu. It is well known, for example, that a Bitcoin block requires approximately ten minutes for processing. Receiving a transaction hash does not mean the transaction is confirmed; it means only that a node accepted the transaction without error, although there is generally a high probability other block producers will accept it.
+EOS.IO ma potwierdzenie bloku o niskim opóźnieniu (0,5 sekundy).[5] Ten stopień opóźnienia można utrzymać w transakcjach z innymi blockchainami, jeśli łańcuchy te dopuszczają podobne opóźnienie. Ale zasadniczo transakcja jest tak szybka, jak mniej gwałtowny łańcuch w równaniu. Wiadomo na przykład, że blok Bitcoin wymaga około dziesięciu minut na przetworzenie. Receiving a transaction hash does not mean the transaction is confirmed; it means only that a node accepted the transaction without error, although there is generally a high probability other block producers will accept it.
 
 ### 3.2 ORDER BOOK
 
