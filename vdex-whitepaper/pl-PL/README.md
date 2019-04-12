@@ -122,7 +122,7 @@ Używając Pętli Protokołu FIFO (pierwszy wchodzi pierwszy opuszcza) buforu ko
 
 Odwołując się do interfejsu API trwałości EOS.IO, arkusz zleceń jest w stanie wykorzystać potężny pojemnik o wielu indeksach współdzielony przez węzły za pośrednictwem tego samego konta EOS.IO.
 
-#### 3.2.2 On-Chain order book
+#### 3.2.2 Arkusz zleceń w łańcuchu
 
 An on-chain order book is a record of offers residing on the wallet (node) chosen to settle the order book. It resides in a persistent database on each node subscribing to the same account as all the other nodes.
 
