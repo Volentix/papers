@@ -110,17 +110,17 @@ Agregatory VDex są dedykowanymi serwerami Volentix do celów symulatora i bezpi
 
 #### 3.1.3 Opóźnienie
 
-EOS.IO ma potwierdzenie bloku o niskim opóźnieniu (0,5 sekundy).[5] Ten stopień opóźnienia można utrzymać w transakcjach z innymi blockchainami, jeśli łańcuchy te dopuszczają podobne opóźnienie. Ale zasadniczo transakcja jest tak szybka, jak mniej gwałtowny łańcuch w równaniu. Wiadomo na przykład, że blok Bitcoin wymaga około dziesięciu minut na przetworzenie. Otrzymanie skrótu transakcji nie oznacza potwierdzenia transakcji; oznacza to tylko, że węzeł zaakceptował transakcję bez błędu, chociaż generalnie istnieje duże prawdopodobieństwo, że inni producenci bloków ją zaakceptują.
+EOS.IO ma potwierdzenie bloku o niskim opóźnieniu (0,5 sekundy).[5] Ten stopień opóźnienia można utrzymać w transakcjach z innymi blockchainami, jeśli łańcuchy te dopuszczają podobne opóźnienie. Ale zasadniczo transakcja jest tak szybka, jak mniej gwałtowny łańcuch w równaniu. Wiadomo na przykład, że blok Bitcoin wymaga około dziesięciu minut na przetworzenie. Otrzymanie sumy kontrolnej transakcji nie oznacza potwierdzenia transakcji; oznacza to tylko, że węzeł zaakceptował transakcję bez błędu, chociaż generalnie istnieje duże prawdopodobieństwo, że inni producenci bloków ją zaakceptują.
 
-### 3.2 ORDER BOOK
+### 3.2 ARKUSZ ZLECEŃ
 
-The order book is the list of buy-and-sell orders VDex records from interested users. A matching engine uses an order book to determine which orders can be fulfilled. The Loopring protocol allows for customizing the order book data structure.[5] Containers provided by EOS.IO can be used for optimal performance.[8]
+Arkusz zleceń to lista zamówień kupna i sprzedaży rekordów VDex od zainteresowanych użytkowników. Dopasowany silnik używa arkusza zleceń, aby określić, które zamówienia mogą zostać zrealizowane. Protokół Loopring umożliwia dostosowanie struktury danych arkusza zleceń.[5] Pojemniki dostarczane przez EOS.IO mogą być używane do optymalnej wydajności.[8]
 
-#### 3.2.1 Data structures
+#### 3.2.1 Struktury danych
 
-Using the Loopring Protocol FIFO (first-in first-out) circular buffer, nodes can design their order books to display and match a user’s order. This method follows an OTC model, where limit orders are positioned based on price only.[5]
+Używając Pętli Protokołu FIFO (pierwszy wchodzi pierwszy opuszcza) buforu kołowego, węzły mogą projektować swoje arkusze zleceń, aby wyświetlały i pasowały do ​​zamówienia użytkownika. Metoda ta opiera się na modelu OTC, w którym zlecenia limitowe są pozycjonowane wyłącznie w oparciu o cenę.[5]
 
-Referencing the EOS.IO persistence API, the order book is able to take advantage of the powerful multi-index container shared among nodes through the same EOS.IO account.
+Odwołując się do interfejsu API trwałości EOS.IO, arkusz zleceń jest w stanie wykorzystać potężny pojemnik o wielu indeksach współdzielony przez węzły za pośrednictwem tego samego konta EOS.IO.
 
 #### 3.2.2 On-Chain order book
 
