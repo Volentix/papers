@@ -76,15 +76,15 @@ W EOS.IO wydanie zasobu cyfrowego tworzy łańcuch boczny, który jest nowym mec
 
 #### 3.0.5 Płynność
 
-Zasób cyfrowy jest płynny, jeśli łatwo go sprzedać lub kupić w zwykłych wolumenach obrotu, bez znaczącego krótkoterminowego wpływu na jego dominującą cenę rynkową. W celu zdobycia takiego satusu, zazwyczaj każdy wymienialny zasób musi pokrywać pułap wolumenu obrotu wystarczający do podtrzymania stabilności. W szczególności przewidujemy przyjęcie następujących metodologii: Zapętlanie protokołu z wykorzystaniem kontraktów EOS.IO działających jako węzły.[5] Algorytm Bancora używany do zapewnienia stabilności zasobu cyfrowego. [6] Przełączanie między tymi protokołami i HTLC (swapy atomowe) zgodnie z analizami Vespucci w sieci VDex.
+Zasób cyfrowy jest płynny, jeśli łatwo go sprzedać lub kupić w zwykłych wolumenach obrotu, bez znaczącego krótkoterminowego wpływu na jego dominującą cenę rynkową. W celu zdobycia takiego satusu, zazwyczaj każdy wymienialny zasób musi pokrywać pułap wolumenu obrotu wystarczający do podtrzymania stabilności. W szczególności przewidujemy przyjęcie następujących metodologii: Zapętlanie protokołu z wykorzystaniem kontraktów EOS.IO działających jako węzły.[5] Algorytm Bancora używany do zapewnienia stabilności zasobu cyfrowego. [6] Przełączanie między tymi protokołami i HTLC (atomic swap) zgodnie z analizami Vespucci w sieci VDex.
 
-#### 3.0.6 Hashed Timelock Contracts (Atomic Swaps)
+#### 3.0.6 Mieszany Timelock Umów (Atomic Swap)
 
-A Hashed Timelock Contract (HTLC)[1] is a smart contract enabling the implementation of time-bound transactions. Users will be offered a variable lock-in period for their transactions, with a discount on transaction fees in exchange for choosing a longer lock-in period.
+Umowa Hashed Timelock (HTLC)[1] to inteligentna umowa umożliwiająca realizację transakcji ograniczonych w czasie. Użytkownicy otrzymają zmienny okres blokady dla swoich transakcji, ze zniżką na opłaty transakcyjne w zamian za wybór dłuższego okresu blokady.
 
-### 3.1 NETWORK TOPOLOGY
+### 3.1 TOPOLOGIA SIECI
 
-#### 3.1.1 Nodes
+#### 3.1.1 Węzły
 
 ![](../9.jpg)
 
