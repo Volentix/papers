@@ -236,9 +236,9 @@ Awọn alugọridimu iṣawari aiṣedede to tubọ ga to jẹ pipese nipasẹ i
 
 #### 3.8.3 Isọdialaileto
 
-True randomisation of address space layout, route or utilizing varying lengths of timeouts as in the RAFT protocol can complexify systems enough to enhance resilience and further secure systems against a side-channel attack or front running.
+Isọdialaileto olotitọ ti aaye eto adirẹẹsi, ipa ọna tabi lilo awọn akoko idawọduro ti olorisirisi gigun bi ti complexninu ilana RAFT le mu awọn eto le si ti o to lati mu ifarada gboro si ati tubọ da aabo bo awọn eto kuro nibi awọn ikọlu ikanni-ẹlẹgbẹ kan tabi ti aṣaaju.
 
-#### 3.8.4 Log inspection
+#### 3.8.4 Iṣabẹwo akọṣilẹ
 
 Parsec does not rely on logs for the determination of consensus. On the other hand, RAFT will require this. In any case, Validator nodes will be designed to require minimal information To determine consensus as to minimize the transaction process time.
 
