@@ -160,35 +160,35 @@ Aby zachęcić użytkowników do zablokowania środków na >24 godziny przez tra
 
 ![](../6.jpg)
 
-A digital assets ecosystem requires an array of certain fundamental human constituents who shepherd the project forward.[11] It is essential to compensate those individuals for their participation. Subject to adjustment, Volentix currently anticipates the following allocations:
+Ekosystem zasobów cyfrowych wymaga szeregu podstawowych składników ludzkich, które prowadzą projekt do przodu.[11] Istotne jest, aby zrekompensować tym osobom ich udział. Poddany dostosowaniu, Volentix przewiduje obecnie następujące przydziały:
 
-1. Contributors. 12%. An array of individuals, akin to founders, who contribute insights, time and talent, though often work without early compensation.
+1. Współautorzy. 12%. Szereg osób podobnych do założycieli, którzy wnoszą spostrzeżenia, czas i talent, choć często pracują bez wcześniejszej rekompensaty.
 
-2. Supporters.
+2. Wspierający.
 
-Phase 1. 5%. Early passive seed funders.
+Faza 1. 5%. Wcześni pasywni fundatorzy seed.
 
-Phase 2. 28%. Funders via qualified private pre-sales and possible public sale.
+Faza 2. 28%. Fundatorzy za pośrednictwem kwalifikowanej prywatnej wyprzedaży i możliwej publicznej sprzedaży.
 
-3. Facilitators. (Advisors, Developers, Promoters, Custodians). Note that requirements for assistance from the sub-categories in this category may differ significantly before and after the project receives substantial funding support, but certain individuals may serve during both phases.
+3. Mediatorzy. (Doradcy, Deweloperzy, Promotorzy, Opiekunowie). Należy zauważyć, że wymagania dotyczące pomocy z podkategorii w tej kategorii mogą się znacznie różnić przed i po otrzymaniu przez projekt znacznego wsparcia finansowego, ale niektóre osoby mogą służyć w obu fazach.
 
-Phase 1. 10%.
+Faza 1. 10%.
 
-Phase 2. 10%.
+Faza 2. 10%.
 
-4. Decentralized treasury. 35%. Community members incentivized and rewarded for participation in progressive development of a decentralized autonomous organization (DAO). A decentralized treasury is anticipated to be administered by smart contracts and community consensus. ![](../5.jpg)
+4. Zdecentralizowany skarbiec. 35%. Członkowie społeczności zachęcali i nagradzali za udział w stopniowym rozwoju zdecentralizowanej autonomicznej organizacji (DAO). Oczekuje się, że zdecentralizowany skarbiec będzie zarządzany przez inteligentne umowy i konsensus społeczny. ![](../5.jpg)
 
-#### 3.4.3 VTX Distribution
+#### 3.4.3 dystrybucja VTX
 
-In light of market conditions at the time of this writing, Volentix is considering timing, means, and terms and conditions of VTX distribution as a function of private pre-sales and possible public sale. Please monitor our website for updates.
+W świetle warunków rynkowych w momencie pisania niniejszego tekstu Volentix rozważa harmonogram, środki i warunki dystrybucji VTX w zależności od prywatnej przedprzedaży i możliwej publicznej sprzedaży. Prosimy o śledzenie naszej witryny w poszukiwaniu aktualizacji.
 
-### 3.5 EOS.IO PLATFORM DEPLOYMENT
+### 3.5 ZASTOSOWANIE PLATFORMY EOS.IO
 
-The following considerations are relevant to our deploying the VDex exchange on the EOS.IO platform:
+Poniższe uwagi są istotne dla naszego wdrożenia wymiany VDex na platformie EOS.IO:
 
-Deploying a contract has a cost but is free to use.
+Wdrożenie umowy wiąże się z kosztami, ale można go używać bezpłatnie.
 
-Developers stake EOS.IO-compliant tokens to deploy a smart contract. After the contract is deployed, the locked tokens are returned.
+Deweloperzy stosują żetony kompatybilne z EOS.IO, aby wdrożyć inteligentną umowę. Po wdrożeniu umowy zablokowane tokeny są zwracane.
 
 Decentralized applications allocate memory, CPU, bandwidth, and other resources to their contracts.
 
