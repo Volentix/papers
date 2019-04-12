@@ -248,11 +248,11 @@ Ilana eto yii n ṣe idena atunṣe ti iṣowo kan lori awọn ẹka ti ko ni bu
 
 ### 3.9 Awọn ihalẹ aabo ati awọn atunse
 
-#### 3.9.1 Double spend
+#### 3.9. Inawo ẹlẹmeji
 
-A double spend is an attack in which a particular cryptocurrency stake is spent in more than one transaction.
+Inawo ẹlẹmeji jẹ ikọlu eyi ti pato ipin idokowo owo kiripito kan ti jẹ nina ninu iṣowo to ju ẹyọkan lọ.
 
-A race attack occurs when two conflicting transactions are sent in rapid succession into the network.
+Ikọlu idije ma n waye nigbati awọn iṣowo onitako meji ba jẹ fifiranṣẹ ni sisẹntẹle si inu nẹtiwọki naa.
 
 A Finney attack pre-mines one transaction into a block and spends the same tokens before releasing the block to invalidate that transaction.
 
