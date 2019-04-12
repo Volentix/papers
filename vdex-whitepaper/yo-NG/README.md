@@ -240,9 +240,9 @@ Isọdialaileto olotitọ ti aaye eto adirẹẹsi, ipa ọna tabi lilo awọn a
 
 #### 3.8.4 Iṣabẹwo akọṣilẹ
 
-Parsec does not rely on logs for the determination of consensus. On the other hand, RAFT will require this. In any case, Validator nodes will be designed to require minimal information To determine consensus as to minimize the transaction process time.
+Parsec ko gbọkanle awọn akọsilẹ fun ipinnu ti ipohunpọ. Ni ọna miiran, RAFT yoo nilo eyi. Bose wu kori, Awọn oju ipade asedaniloju ma jẹ siseto lati nilo alaye bintin Lati mọ ipohunpọ lati mu adinku ba akoko isaayan iṣowo naa.
 
-#### 3.8.5 Transaction as Proof of Stake (TaPoS)
+#### 3.8.5 Iṣowo gẹgẹbi Ẹri ti Idokowo(TaPoS)
 
 This mechanism prevents the replay of a transaction on forks that do not include the referenced block. Signals the network that a particular user and stake are on a specific fork.
 
