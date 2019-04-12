@@ -254,7 +254,7 @@ Inawo ẹlẹmeji jẹ ikọlu eyi ti pato ipin idokowo owo kiripito kan ti jẹ
 
 Ikọlu idije ma n waye nigbati awọn iṣowo onitako meji ba jẹ fifiranṣẹ ni sisẹntẹle si inu nẹtiwọki naa.
 
-A Finney attack pre-mines one transaction into a block and spends the same tokens before releasing the block to invalidate that transaction.
+Ikọlu Finney ma n ṣe iwakusa-iṣaaju ti iṣowo kan sinu bulọọku kan atipe o ma naa awọn aami kanna ṣaaju itusilẹ bulọọku naa lati fagile idaniloju iṣowo naa.
 
 A 51% attack can be mounted by anyone owning >50% of the total computing power of a network. Ipo olohun to pọ julọ fayegba idapada eyikeyi iṣowo ati fayegba gbogbo iṣakoso yiyan awọn iṣowo ti o n farahan ni awọn bulọọku. EOS.IO, Loopring, and RAFT appear to prevent this problem. If a block producer takes an unreasonable amount of runtime or is not sufficiently profitable, then the process is blacklisted.[5]
 
