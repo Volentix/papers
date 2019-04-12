@@ -232,7 +232,7 @@ Se afikun anfani lati da igbeṣẹ ti adehun kan duro.
 
 #### 3.8.2 Ṣiṣayẹwo awọn ilana ẹlẹtan
 
-The advanced anomaly detection algorithms provided by Numenta’s Nupic library will require less voluminous training data sets than conventional AI systems.
+Awọn alugọridimu iṣawari aiṣedede to tubọ ga to jẹ pipese nipasẹ ile ikowesi ti Numenta Nupic yoo nilo awọn eto data ikẹkọ to kere ju awọn ilana AI ti o wọpọ julọ.
 
 #### 3.8.3 Randomization
 
