@@ -246,7 +246,7 @@ Parsec ko gbọkanle awọn akọsilẹ fun ipinnu ti ipohunpọ. Ni ọna miira
 
 Ilana eto yii n ṣe idena atunṣe ti iṣowo kan lori awọn ẹka ti ko ni bulọọku ti a tọkasi naa. N fun nẹtiwọki naa lọwọ pe pato olumulo kan ati ipin idokowo kan wa lori pato ẹka kan.
 
-### 3.9 Security threats and remedies
+### 3.9 Awọn ihalẹ aabo ati awọn atunse
 
 #### 3.9.1 Double spend
 
