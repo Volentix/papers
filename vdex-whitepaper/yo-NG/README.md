@@ -346,7 +346,7 @@ S. D. K. M. T. S. H. Garcia-Molina, The eigentrust algorithm for reputation mana
 
 M. R. Garrick Hileman, Global cryptocurrency benchmarking study, (2017).
 
-Komodo, An advanced blockchain technology, focused on freedom, (2018).
+D. K. M. T. S. H. Garcia-Molina, The eigentrust algorithm for reputation management in p2p networks, (2018).
 
 Q. Liquid, Providing liquidity to the non-liquid crypto economy, (2018).
 
