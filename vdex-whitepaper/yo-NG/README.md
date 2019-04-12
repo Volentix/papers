@@ -226,7 +226,7 @@ Lo awọn adehun pẹlu awọn apo owo ti afojuri fun gbogbo bibuwọlu, pẹlu 
 
 Satunse awọn adehun to bajẹ.
 
-Include ability to pause the functionality of a contract.
+Se afikun anfani lati da iṣẹ ṣiṣe ti adehun kan duro.
 
 Include ability to delay an action of a contract.
 
