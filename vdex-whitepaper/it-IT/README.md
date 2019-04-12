@@ -114,11 +114,11 @@ EOS.IO ha una latenza bassa per la conferma dei blocchi (0.5 secondi). [5] Quest
 
 ### 3.2 REGISTRO ORDINI
 
-Il registro ordini è la lista degli ordini di acquisto e vendita che VDex registra dagli utenti interessati. Un motore corrispondente utilizza un registro ordini per determinare quali ordini possono essere coperti. Da il protocollo Loopring permette la personalizzazione della struttura del registro ordini. [5] Per prestazioni ottimali, si possono utilizzare i contenitori forniti da EOS.IO. [8]
+Il registro ordini è la lista degli ordini di acquisto e vendita che VDex registra dagli utenti interessati. Un motore corrispondente utilizza un registro ordini per determinare quali ordini possono essere coperti. Il protocollo Loopring permette la personalizzazione della struttura del registro ordini. [5] Per prestazioni ottimali, si possono utilizzare i contenitori forniti da EOS.IO. [8]
 
 #### 3.2.1 Strutture dati
 
-Utilizzando il buffer circolare Protocollo di Loopring FIFO (primo ad entrare primo ad uscire), i nodi possono progettare i loro registri degli ordini per mostrare e corrispondere all'ordine di un utente. Questo metodo segue un modello OTC, dove i limit order vengono posizionati basandosi soltanto sul prezzo.[5]
+Utilizzando il buffer circolare FIFO (primo ad entrare primo ad uscire) del Protocollo di Loopring, i nodi possono progettare i loro registri degli ordini per mostrare e soddisfare l'ordine di un utente. Questo metodo segue un modello OTC, dove i limit order vengono posizionati solo in base al prezzo.[5]
 
 Facendo riferimento alla persistence API di EOS.IO, il registro ordini può trarre vantaggio dal potente container multi-index condiviso tra i nodi tramite lo stesso account EOS.IO.
 
@@ -128,7 +128,7 @@ Un registro ordini on-chain è un registro di offerte che risiedono nel wallet (
 
 #### 3.2.3 Registro ordini Off-Chain
 
-Risiedenti sull'aggregatore, i registri ordini offline servono per la simulazione e per scopi di sicurezza.
+Risiedenti sull'aggregatore, i registri ordini offline hanno come scopo la sicurezza e le simulazioni.
 
 #### 3.2.4 Processo di decentralizzazione per l'impostazione del registro ordini
 
@@ -142,7 +142,7 @@ Il regolamento degli ordini contiene elementi noti delle operazioni tradizionali
 
 #### 3.4.1 VTX Issuance and Use
 
-VTX è l'aset digitale nativo da emettere e utilizzare sull'exchange decentralizzato di VDex. Attualmente abbiamo intenzione di utilizzare un contratto eosio.token del framework EOS.IO per emettere 2.1 miliardi di token VTX compatibili con EOS.IO con una fornitura di 1.3 miliardi. VTX avrà un'ampia gamma di utilizzi, ad esempio:
+VTX è l'asset digitale nativo da emettere e utilizzare sull'exchange decentralizzato di VDex. Attualmente abbiamo intenzione di utilizzare un contratto eosio.token del framework EOS.IO per emettere 2.1 miliardi di token VTX compatibili con EOS.IO con una fornitura di 1.3 miliardi. VTX avrà un'ampia gamma di utilizzi, ad esempio:
 
 Per ricompensare i partecipanti nel processo del consenso e nelle campagne Venue.
 
@@ -160,7 +160,7 @@ Per incentivare gli utenti a bloccare i loro fondi per più di 24 ore per le tra
 
 ![](../6.jpg)
 
-Un'ecosistema di asset digitali richiede una matrice di componenti umani fondamentali che portino avanti il progetto. [11] È essenziale ricompensare questi individui per la loro partecipazione. Oggetto di aggiustamenti, attualmente Volentix prevede i seguenti stanziamenti:
+Un ecosistema di asset digitali richiede una matrice di componenti umani fondamentali che portino avanti il progetto. [11] È essenziale ricompensare questi individui per la loro partecipazione. Oggetto di aggiustamenti, al momento Volentix prevede i seguenti stanziamenti:
 
 1. Collaboratori. 12%. Una serie di individui, simili ai fondatori, che contribuiscono con idee, tempo e talento, anche se spesso lavorano senza una compensazione anticipata.
 
