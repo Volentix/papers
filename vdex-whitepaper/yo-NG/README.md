@@ -228,9 +228,9 @@ Satunse awọn adehun to bajẹ.
 
 Se afikun anfani lati da iṣẹ ṣiṣe ti adehun kan duro.
 
-Include ability to delay an action of a contract.
+Se afikun anfani lati da igbeṣẹ ti adehun kan duro.
 
-#### 3.8.2 Auditing rogue processes
+#### 3.8.2 Ṣiṣayẹwo awọn ilana ẹlẹtan
 
 The advanced anomaly detection algorithms provided by Numenta’s Nupic library will require less voluminous training data sets than conventional AI systems.
 
