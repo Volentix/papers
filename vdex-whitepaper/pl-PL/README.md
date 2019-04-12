@@ -124,39 +124,39 @@ Odwołując się do interfejsu API trwałości EOS.IO, arkusz zleceń jest w sta
 
 #### 3.2.2 Arkusz zleceń w łańcuchu
 
-An on-chain order book is a record of offers residing on the wallet (node) chosen to settle the order book. It resides in a persistent database on each node subscribing to the same account as all the other nodes.
+Arkusz zleceń w łańcuchu to rejestr ofert znajdujących się w portfelu (węźle) wybranym do rozliczenia arkusza zleceń. Znajduje się w trwałej bazie danych na każdym węźle subskrybującym to samo konto, co wszystkie pozostałe węzły.
 
-#### 3.2.3 Off-Chain order book
+#### 3.2.3 Arkusz zleceń poza łańcuchem
 
-Residing on the aggregator, offline order books serve for simulator and security purposes.
+Znajdując się w agregatorze, książki zamówień offline służą do celów symulatora i bezpieczeństwa.
 
-#### 3.2.4 Decentralization process of order book settlement
+#### 3.2.4 Decentralizacja procesu rozliczenia księgi zamówień
 
-For decentralization purposes, nodes will take turns to settle the order book. The settling node must be designated by the protocol and all order book entries from all nodes must be available to the settling nodes. We believe the RAFT[9] and PARSEC[10] consensus mechanisms offer effective solutions. RAFT is a well-established algorithm and is easy to implement.[7] PARSEC is more recent and more efficient, using Directed Acyclic Graph (DAG) technology and eliminating the need for copying logs.
+W celu decentralizacji, węzły będą zmieniać kolejność zamówień. The settling node must be designated by the protocol and all order book entries from all nodes must be available to the settling nodes. Wierzymy, że mechanizmy konsensusowe RAFT[9] i PARSEC[10] oferują skuteczne rozwiązania. RAFT jest sprawdzonym algorytmem i jest łatwy do wdrożenia.[7] PARSEC jest nowszy i bardziej wydajny, dzięki technologii Directed Acyclic Graph (DAG) i eliminuje potrzebę kopiowania rejestrów.
 
-### 3.3 ORDER SETTLEMENT
+### 3.3 ROZLICZENIE ZAMÓWIENIA
 
-Order settlement contains familiar elements of conventional financial market transactions. Utilizing FIFO technology to design the order book, VDex intends to check order, inventory, and fill rate, as well as limit orders and cancellations. ![](../7.jpg)
+Rozliczenie zamówienia zawiera znane elementy konwencjonalnych transakcji na rynku finansowym. Wykorzystując technologię FIFO do projektowania arkusza zleceń, VDex zamierza sprawdzić zamówienie, ewidencję i wskaźnik wypełnienia, a także ograniczyć zamówienia i anulowania. ![](../7.jpg)
 
 ### 3.4 VTX
 
-#### 3.4.1 VTX Issuance and Use
+#### 3.4.1 Emisja i Użycie VTX
 
-VTX is the native digital asset to be issued and used on the VDex decentralized exchange. We currently plan to use an eosio.token contract from the EOS.IO framework to issue 2.1 billion EOS.IO-compliant VTX tokens with a supply of 1.3 billion. VTX will have a diverse array of uses, for example:
+VTX to natywny zasób cyfrowy, który ma być wydawany i używany poprzez zdecentralizowaną wymianę VDex. Obecnie planujemy wykorzystać umowę eosio.token ze struktury EOS.IO do emisji 2,1 miliarda tokenów VTX zgodnych ze standardem EOS.IO przy dopływie 1,3 miliarda. VTX będzie miał różne zastosowania, na przykład:
 
-To reward participants in the consensus process and in Venue campaigns.
+Nagradzać uczestników w procesie konsensusu i w kampaniach Venue.
 
-To pay and redistribute transaction fees on the VDex exchange.
+Płacić i redystrybuować opłaty transakcyjne na giełdzie VDex.
 
-To submit and vote on proposals to the Volentix ecosystem, using the voting rights allocated to VTX holders.
+Przesyłać i głosować na propozycje do ekosystemu Volentix, wykorzystując prawa głosu przydzielone posiadaczom VTX.
 
-To stake support for reviewing proposals and implementing projects.
+Udzielać wsparcia za przeglądanie propozycji i wdrażanie projektów.
 
-To incentivize users to participate in order book settlement by becoming nodes via their Verto wallets.
+Aby zachęcić użytkowników do uczestnictwa w rozliczaniu arkusza zleceń, stając się węzłami za pośrednictwem portfeli Verto.
 
-To incentivize users to lock funds in for >24 hours by HTLC time-bound transactions.
+Aby zachęcić użytkowników do zablokowania środków na >24 godziny przez transakcje HTLC ograniczonych w czasie.
 
-#### 3.4.2 VTX Allocation
+#### 3.4.2 Alokacja VTX
 
 ![](../6.jpg)
 
