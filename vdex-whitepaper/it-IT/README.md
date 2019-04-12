@@ -170,7 +170,7 @@ Fase 1. 5%. Early passive seed funders.
 
 Fase 2. 28%. Finanziatori tramite prevendita privata qualificata e possibile vendita pubblica.
 
-3. Facilitatori. (Consulenti, Sviluppatori, Promotori, Custodi). Si noti che i requisiti per l'assistenza da parte delle sottocategorie di questa categoria possono differire significativamente prima e dopo che il progetto abbia ricevuto il sostegno finanziario sostanziale, ma alcuni individui possono prestare servizio durante entrambe le fasi.
+3. Facilitatori. (Consulenti, Sviluppatori, Promotori, Custodi). Nota che i requisiti per l'assistenza da parte delle sotto categorie di questa categoria possono differire significativamente prima e dopo che il progetto abbia ricevuto il sostegno finanziario sostanziale, ma alcuni individui possono prestare servizio durante entrambe le fasi.
 
 Fase 1. 10%.
 
@@ -180,7 +180,7 @@ Fase 2. 10%.
 
 #### 3.4.3 Distribuzione VTX
 
-Alla luce delle condizioni di mercato al momento della presente scrittura, Volentix sta considerando i tempi, i mezzi, i termini e le condizioni per la distribuzione di VTX come una funzione di prevendite private e un eventuale vendita publica. Controlla il nostro sito per ulteriori aggiornamenti.
+Alla luce delle condizioni del mercato al momento della presente scrittura, Volentix sta considerando i tempi, i mezzi, i termini e le condizioni per la distribuzione di VTX come una funzione di prevendite private e un eventuale vendita pubblica. Tieni sotto controllo il nostro sito per ulteriori aggiornamenti.
 
 ### 3.5 IMPIEGO DELLA PIATTAFORMA EOS.IO
 
