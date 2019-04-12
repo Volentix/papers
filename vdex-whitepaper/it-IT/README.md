@@ -232,7 +232,7 @@ Includere la possibilità di ritardare un azione di un contratto.
 
 #### 3.8.2 Auditing rogue processes
 
-Gli algoritmi avanzati della rilevazione delle anomalie forniti dalla libreria Nupic di Numenta necessiteranno degli insiemi di dati di addestramento meno voluminosi di quelli dei sistemi Ai convenzionali.
+Gli algoritmi avanzati per la rilevazione delle anomalie forniti dalla libreria Nupic di Numenta necessiteranno degli insiemi di dati di addestramento meno voluminosi di quelli dei sistemi AI convenzionali.
 
 #### 3.8.3 Randomizzazione
 
@@ -256,11 +256,11 @@ Un attacco di tipo race si verifica quando due transazioni in conflitto vengono 
 
 A Finney attack pre-mines one transaction into a block and spends the same tokens before releasing the block to invalidate that transaction.
 
-Un attacco 51% può essere effettuato da chiunque possiede più del 50% della potenza di calcolo di una rete. A majority ownership position permits reversal of any transaction and allows total control of selection of transactions appearing in blocks. Sembra che EOS.IO, Loopring, e RAFT pervengono questo problema. Se un produttore di blocchi impiega una quantità irragionevole di runtime oppure non è sufficientemente profitabile, allore il processo viene inserito nella lista nera.[5]
+Un attacco 51% può essere effettuato da chiunque possiede più del 50% della potenza di calcolo di una rete. A majority ownership position permits reversal of any transaction and allows total control of selection of transactions appearing in blocks. Sembra che EOS.IO, Loopring, e RAFT pervengono questo problema. Se un produttore di blocchi impiega una quantità irragionevole di runtime oppure non è sufficientemente redditizia, allora il processo viene inserito nella lista nera.[5]
 
 #### 3.9.2 Front running
 
-Un front runner rubba uno o più ordini dall'impostazione del libro ordini di una transazione in attesa. Sia EOS.IO che Loopring offrono dei rimedi nei quali le chiavi sono protette perché non fanno parte della transazione on-chain, e quindi rimangono sconosciute ai soggetti diversi dal proprietario. Solo il nodo che regola il registro d'ordine è in possesso delle informazioni sensibili, e ogni nodo utilizza una soluzione diversa per la risoluzione dei registri degli ordini, aggiungendo un altro livello di difficoltà per promuovere la sicurezza.
+Un front runner ruba uno o più ordini dall'impostazione del libro ordini di una transazione in attesa. Sia EOS.IO che Loopring offrono dei rimedi nei quali le chiavi sono protette perché non fanno parte della transazione on-chain, e quindi rimangono sconosciute ai soggetti diversi dal proprietario. Solo il nodo che regola il registro d'ordine è in possesso delle informazioni sensibili, e ogni nodo utilizza una soluzione diversa per la risoluzione dei registri degli ordini, aggiungendo un altro livello di difficoltà per promuovere la sicurezza.
 
 #### 3.9.4 Identità forgiate
 
