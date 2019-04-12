@@ -244,7 +244,7 @@ Parsec ko gbọkanle awọn akọsilẹ fun ipinnu ti ipohunpọ. Ni ọna miira
 
 #### 3.8.5 Iṣowo gẹgẹbi Ẹri ti Idokowo(TaPoS)
 
-This mechanism prevents the replay of a transaction on forks that do not include the referenced block. Signals the network that a particular user and stake are on a specific fork.
+Ilana eto yii n ṣe idena atunṣe ti iṣowo kan lori awọn ẹka ti ko ni bulọọku ti a tọkasi naa. N fun nẹtiwọki naa lọwọ pe pato olumulo kan ati ipin idokowo kan wa lori pato ẹka kan.
 
 ### 3.9 Security threats and remedies
 
