@@ -272,9 +272,9 @@ Awọn olumulo onisuta n buwọlu ati ṣe itanka awọn ibeere eyi ti iye wọn
 
 #### 3.9.5 Ikọlu alakoko
 
-Awọn ikọlu alakoko jẹ kilasi awọn ikọlu ti aroko nipasẹ eyiti oluwoye ti o jẹ alagata le ṣawari awọn akoonu ti awọn data ti o jẹ pipamọ nipasẹ gbigbasilẹ ati ṣiṣe iyanana akoko ti o gba lati yanju awọn alugọridimu aroko. The RAFT algorithm prevents timing attacks by using randomness of timeouts.
+Awọn ikọlu alakoko jẹ kilasi awọn ikọlu ti aroko nipasẹ eyiti oluwoye ti o jẹ alagata le ṣawari awọn akoonu ti awọn data ti o jẹ pipamọ nipasẹ gbigbasilẹ ati ṣiṣe iyanana akoko ti o gba lati yanju awọn alugọridimu aroko. Alugọridimu RAFT naa n ṣe idena awọn ikọlu alakoko nipa lilo iwa aileto awọn akoko idawọduro.
 
-### 3.10 USER EXPERIENCE
+### 3.10 IRIRI OLUMULO
 
 Our focus on user experience is primary. We wish to make VTX and the four pillars of Volentix -- Venue, Verto, Vespucci, and VDex -- easily accessible to and useable by all those who wish to join our community. We expect the experience continually to be educational as well, with templates and simulators to support a superior UX/UI relationship.
 
