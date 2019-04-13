@@ -285,9 +285,9 @@ Yukarıdaki analizi yapmak için, bir sonraki bölümde daha fazla ayrıntı ver
 
 Diğerlerinin arasında, her iki API tarafından da kullanılabilen özelliklerden bazıları şunlardır:
 
-* transaction count – number of transactions happening on the public blockchain a day
-* transaction volume (usd) – total value of outputs on the blockchain, on a given day
-* adjusted transaction volume (usd) – estimated ([https://coinmetrics.io/introducing-adjusted-estimates](https://coinmetrics.io/introducing-adjusted-estimates/))
+* işlem sayısı – blok zincirinde, bir günde gerçekleşen işlemlerin sayısı
+* işlem hacmi (usd) – belirli bir günde blok zincirindeki çıktıların toplam değeri
+* ayarlanmış işlem hacmi (usd) – tahmini ([https://coinmetrics.io/introducing-adjusted-estimates](https://coinmetrics.io/introducing-adjusted-estimates/))
 * ödeme sayısı
 * aktif adresler
 * ücretler
@@ -308,7 +308,7 @@ Diğerlerinin arasında, her iki API tarafından da kullanılabilen özelliklerd
 
 **Kaynak Kodu – Geliştirici etkinliği**
 
-There is an aspect of quantitative analysis from a social perspective which looks at the involvement of the developer community surrounding the project, quite related to Sentiment Analysis. Research into metrics that accurately reflect rates of community participation as well as creator participation will be assessed. These factors may include but are not limited to:‬
+Projeyi çevreleyen geliştirici topluluğunun katılımına bakan sosyal bir perspektiften niceliksel analizin bir yönü vardır, bu da Duygu Analizi ile oldukça ilgilidir. Research into metrics that accurately reflect rates of community participation as well as creator participation will be assessed. Bu faktörler şunları içerebilir ancak bunlarla sınırlı değildir:‬
 
 • çevrimiçi topluluk katılımı
 
