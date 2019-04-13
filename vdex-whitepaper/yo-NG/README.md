@@ -264,7 +264,7 @@ Asiwaju ma n ji ibeere kan tabi ju bẹlọ kuro ninu iyanju iwe ibeere iṣowo 
 
 #### 3.9.3 Awọn idanimọ ayederu
 
-Malicious users create forged identities to send a large number of small orders to attack Loopring nodes. However, most of these orders will be rejected for not yielding satisfying profit when matched.
+Awọn olumulo onisuta n ṣẹda awọn idanimọ ayederu lati fi nọmba nla ti awọn ibeere keekeke ransẹ lati kọlu awọn oju ipade Loopring. Amọ sa, ọpọ ninu awọn ibeere yii yoo jẹ kikọ fun ailere ti o to funni ni itẹlọrun nigbati asopọ waye.
 
 #### 3.9.4 Insufficient Balance
 
