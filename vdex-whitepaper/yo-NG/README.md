@@ -260,7 +260,7 @@ Ikọlu 51% le jẹ gbigbekalẹ nipasẹ ẹnikẹni ti o ni kọja ipin 50% ti
 
 #### 3.9.2 Ti o siwaju
 
-A front runner steals one or more orders from a pending order book settlement transaction. Both EOS.IO and Loopring offer remedies in which keys are protected because they are not part of the on-chain transaction, and therefore remain unknown to parties other than the owner. Only the order book settling node is possessed of the sensitive information, and each node uses a different solution for resolving the order books, introducing yet another level of complexity to promote security.
+Asiwaju ma n ji ibeere kan tabi ju bẹlọ kuro ninu iyanju iwe ibeere iṣowo ti o wa ni asorọ. Both EOS.IO and Loopring offer remedies in which keys are protected because they are not part of the on-chain transaction, and therefore remain unknown to parties other than the owner. Only the order book settling node is possessed of the sensitive information, and each node uses a different solution for resolving the order books, introducing yet another level of complexity to promote security.
 
 #### 3.9.3 Forged identities
 
