@@ -280,7 +280,7 @@ Afojusun wa lori iriri olumulo jẹ pataki. A fẹ lati jẹ ki VTX ati awọn o
 
 ### 3.11 ISỌDALAISILOJUKAN OLOTITỌ
 
-EOS.IO jẹ orisun-gbangba, ohun amayederun onipele agbara iṣiṣẹ fun awọn ohun elo alaisilojukan. Its goal is a fair and transparent block producer (BP) election process utilizing a democratic delegated proof of stake (DPoS) consensus. Particularly as such a system just begins to proliferate, there will be glitches. Therefore, some degree of retained centralization is inevitable and necessary. Ṣugbọn akọmọna itọnisọna wa jẹ ti alaisilojukan, ati awọn igbiyanju wa ti n lọ lọwọ jẹ fifojusun lati ṣe ipolongo mimu adinku ba gigbarale iṣakoso olojukan.
+EOS.IO jẹ orisun-gbangba, ohun amayederun onipele agbara iṣiṣẹ fun awọn ohun elo alaisilojukan. Afojusun rẹ jẹ ilana idibo olugbe bulọọku jade (BP) ti o jẹ otitọ ati ti o han kedere ti o n lo ipohunpọ ẹri ti idokowo onipinpin funni (DPoS) ti tiwantiwa. Particularly as such a system just begins to proliferate, there will be glitches. Therefore, some degree of retained centralization is inevitable and necessary. Ṣugbọn akọmọna itọnisọna wa jẹ ti alaisilojukan, ati awọn igbiyanju wa ti n lọ lọwọ jẹ fifojusun lati ṣe ipolongo mimu adinku ba gigbarale iṣakoso olojukan.
 
 Fun apẹrẹ, ni iṣaaju a ṣe ipinnu lati se agbekalẹ eto kan fun yiyan awọn oju ipade (nigbati o ba n yanju awọn iwe ibeere) ti ko ni lo aago alajọpin olojukan tabi DPoS ṣugbọn dipo o ma da lori awọn akoko idawọduro alaileto fun siṣe ipinnu awọn olori ninu idibo kan (RAFT) tabi lori Directed Acyclic Graph (DAG) ninu ilana PARSEC.
 
