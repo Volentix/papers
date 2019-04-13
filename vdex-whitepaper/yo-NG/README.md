@@ -256,7 +256,7 @@ Ikọlu idije ma n waye nigbati awọn iṣowo onitako meji ba jẹ fifiranṣ�
 
 Ikọlu Finney ma n ṣe iwakusa-iṣaaju ti iṣowo kan sinu bulọọku kan atipe o ma naa awọn aami kanna ṣaaju itusilẹ bulọọku naa lati fagile idaniloju iṣowo naa.
 
-Ikọlu 51% le jẹ gbigbekalẹ nipasẹ ẹnikẹni ti o ni kọja ipin 50% ti agbara isiro apapọ ti nẹtiwọki kan. Ipo olohun to pọ julọ fayegba idapada eyikeyi iṣowo ati fayegba gbogbo iṣakoso yiyan awọn iṣowo ti o n farahan ni awọn bulọọku. EOS.IO, Loopring, ati RAFT han gẹgẹbi eyi ti o ti dena iṣoro yii. If a block producer takes an unreasonable amount of runtime or is not sufficiently profitable, then the process is blacklisted.[5]
+Ikọlu 51% le jẹ gbigbekalẹ nipasẹ ẹnikẹni ti o ni kọja ipin 50% ti agbara isiro apapọ ti nẹtiwọki kan. Ipo olohun to pọ julọ fayegba idapada eyikeyi iṣowo ati fayegba gbogbo iṣakoso yiyan awọn iṣowo ti o n farahan ni awọn bulọọku. EOS.IO, Loopring, ati RAFT han gẹgẹbi eyi ti o ti dena iṣoro yii. Ti olugbe bulọọku jade ba gba akoko isẹ sise to pọju boṣeyẹlo tabi ko ni ere ti o to, ajẹwipe ilana naa jẹ fifi si akojọpọ iyago fun.[5]
 
 #### 3.9.2 Front running
 
