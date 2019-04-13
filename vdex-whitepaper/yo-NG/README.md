@@ -266,9 +266,9 @@ Asiwaju ma n ji ibeere kan tabi ju bẹlọ kuro ninu iyanju iwe ibeere iṣowo 
 
 Awọn olumulo onisuta n ṣẹda awọn idanimọ ayederu lati fi nọmba nla ti awọn ibeere keekeke ransẹ lati kọlu awọn oju ipade Loopring. Amọ sa, ọpọ ninu awọn ibeere yii yoo jẹ kikọ fun ailere ti o to funni ni itẹlọrun nigbati asopọ waye.
 
-#### 3.9.4 Insufficient Balance
+#### 3.9.4 Aito Iye ti o ku
 
-Malicious users sign and spread orders the value of which is non-zero but the address of which has a zero balance. Nodes monitor actual balances, update these order states accordingly, and then discard them.
+Awọn olumulo onisuta n buwọlu ati ṣe itanka awọn ibeere eyi ti iye wọn kii ṣe odo sugbọn eyiti iye to ku ninu adirẹẹsi naa jẹ odo. Awọn oju ipade n mojuto awọn iye to ku gangan, ṣe imudojuiwọn awọn ipo ibeere wọnyi gẹgẹbi o ṣe yẹ, ati lẹhinna da wọn nu.
 
 #### 3.9.5 Timing attack
 
