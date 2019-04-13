@@ -6,9 +6,9 @@
 
 * ### **نظرة عامة**
 
-Vespucci هو جزء من بيئة Volentix. يطبق على وجه الخصوص إحدى الدعائم الرئيسية لبيئة Volentix والذي يعتبر VDex نقطة ارتكازها. VDex هو منصة لا مركزية للتبادل وتأخذ بعين الاعتبار المستخدم والمجتمع. إضافة إلى كونه أداة لتدقيق وتقييم الأصول الرقمية في متناول غير الخبراء، يعتبر Vespucci أداة لرسم وتخطيط الأصول الرقمية القابلة للتداول. Moreover, it provides a dashboard for cryptocurrencies’ activity in the digital world.
+Vespucci هو جزء من بيئة Volentix. يطبق على وجه الخصوص إحدى الدعائم الرئيسية لبيئة Volentix والذي يعتبر VDex نقطة ارتكازها. VDex هو منصة لا مركزية للتبادل وتأخذ بعين الاعتبار المستخدم والمجتمع. إضافة إلى كونه أداة لتدقيق وتقييم الأصول الرقمية في متناول غير الخبراء، يعتبر Vespucci أداة لرسم وتخطيط الأصول الرقمية القابلة للتداول. علاوة على ذلك، فإنه يوفر لوحة معلومات لنشاط العملات الرقمية.
 
-Our primary goal is to offer all users of digital assets an intuitive analytical agent and rating system for digital assets, merging the following aspects (see figure below):
+هدفنا الأساسي هو تزويد جميع المستخدمين بوكلاء لتحليل وتصنيف الأصول الرقمية مع دمج الجوانب التالية (انظر الرسم التوضيحي أدناه):
 
 * a sentiment gauge for sentiment analysis (SA),
 * technical analysis (TA), and
