@@ -320,7 +320,7 @@ Bu modül (Duygu analizi ile ilgili), Github'dan ve literatür incelemesi gibi d
 
 * Ekibin uzmanlığı ve takip kayıtları ve onların projelerine olan bağlılıklarının devam etmesi (taahhütlerin sıklığı, topluluğun yazılım hatalarına cevap verme sıklığı, zaman içindeki katkılar ve projeyi tutarlı bir şekilde geliştirmek için harcanan zamanın miktarı),
 * GitHub'ta önceki öğe ile sıkı bir şekilde ilgili olan faaliyet ve projenin takipçisi sayısı,
-* The quality of code (programming languages, test coverage, ratio of bugs over lines of code,build breaks etc), robustness, and maintenance of the software,
+* Kod kalitesi (programlama dilleri, test kapsamı, kod satırları üzerinde yazılım hataları oranı, mola oluşturmaları vb.), yazılımın sağlamlığı ve bakımı,
 * Tanıtım belgesine karşılık gelen.
 * Sistemin matematiksel ve kriptografiksel prensipleri.
 
@@ -330,7 +330,7 @@ Bu kriterlerin kombinasyonu esasen uyarlanmış ve güçlü bir puanlama işlevi
 
 * #### **BLOK ZİNCİRİ İSTATİSTİKLERİ, BLOK ZİNCİRİ TAM DÜĞÜM VE EVM ANALİZİ**
 
-Bu modül, değerlendirilmekte olan her bir blok zinciri için konuşlandırılan düğümlerin her biriyle iletişim kurmaktan sorumludur. Its role is to provide a coherent standardized interface to the RESTful endpoint layer so that the nature of any blockchain can be abstracted, while knowing how to query any blockchain full node being run by the system, in order to collect information about the chain and network properties of that chain. In many instances, a tradable token is not actually running on its own dedicated chain but is sooner implemented using a system of contracts running on a smart-contract-enabling blockchain such as Ethereum. In such a case, this module communicates both with the full node for this chain, and the other modules, for example, the Ethereum static analysis module mentioned deeper in this document.
+Bu modül, değerlendirilmekte olan her bir blok zinciri için konuşlandırılan düğümlerin her biriyle iletişim kurmaktan sorumludur. Rolü, RESTful uç nokta katmanına tutarlı bir standartlaştırılmış arayüz sağlamaktır, böylece bu zincir ve ağ hakkında bilgi toplamak amacıyla, sistem tarafından işletilen herhangi bir blok zinciri tam düğümünün nasıl sorgulanacağını bilerek, herhangi bir blok zincirinin yapısı soyutlanabilir. Pek çok durumda, alınıp satılabilir bir token aslında kendi özel zincirinde çalışmamaktadır ancak daha önce Ethereum gibi akıllı sözleşmeyi mümkün kılan bir blok zinciri üzerinde çalışan bir sözleşme sistemi kullanılarak gerçekleştirilmektedir. Böyle bir durumda, bu modül hem bu zincirin tam düğümü ile hem de diğer modüller, örneğin, bu belgede daha ayrıntılı olarak belirtilen Ethereum statik analiz modülü ile iletişim kurar.
 
 A wide range of technology would be applicable for this layer, though in keeping with restricting several different technologies necessary to understand the full system, and using widely-deployed technologies, choosing a similar technology as the RESTful endpoint layer with which this module interacts would be prudent. A **node.js-based** module would thus be a wise choice, though other implementation technologies are certainly possible. Also, Ruby on Rails offers an extremely agile way to create REST APIs as well.
 
