@@ -258,7 +258,7 @@ Ikọlu Finney ma n ṣe iwakusa-iṣaaju ti iṣowo kan sinu bulọọku kan at
 
 Ikọlu 51% le jẹ gbigbekalẹ nipasẹ ẹnikẹni ti o ni kọja ipin 50% ti agbara isiro apapọ ti nẹtiwọki kan. Ipo olohun to pọ julọ fayegba idapada eyikeyi iṣowo ati fayegba gbogbo iṣakoso yiyan awọn iṣowo ti o n farahan ni awọn bulọọku. EOS.IO, Loopring, ati RAFT han gẹgẹbi eyi ti o ti dena iṣoro yii. Ti olugbe bulọọku jade ba gba akoko isẹ sise to pọju boṣeyẹlo tabi ko ni ere ti o to, ajẹwipe ilana naa jẹ fifi si akojọpọ iyago fun.[5]
 
-#### 3.9.2 Front running
+#### 3.9.2 Ti o siwaju
 
 A front runner steals one or more orders from a pending order book settlement transaction. Both EOS.IO and Loopring offer remedies in which keys are protected because they are not part of the on-chain transaction, and therefore remain unknown to parties other than the owner. Only the order book settling node is possessed of the sensitive information, and each node uses a different solution for resolving the order books, introducing yet another level of complexity to promote security.
 
