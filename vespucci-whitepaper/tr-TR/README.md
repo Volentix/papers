@@ -263,7 +263,7 @@ Veri analizi için daha gelişmiş teknikler, devamında tartışıldığı gibi
 1. Tenkan-sen: Destek ve direnç seviyesini temsil eder ve bu geri dönüşler için bir sinyal hattıdır.
 2. Kijun-sen: Destek ve direnç seviyesini temsil eder. Bu bir eğilim değişikliğinin onayıdır ve takip eden bir stop-loss noktası olarak kullanılabilir.
 3. Senkou Span A: Önümüzdeki 26 dönem için tenkan-sen ve kijun-sen'in ortalaması. Ortaya çıkan çizgi, gelecekteki destek ve direnç alanlarını belirlemek için kullanılır.
-4. Senkou Span B: Son 52 periyottaki en yüksek yüksek ve en düşük düşük seviye ile önümüzdeki 26 dönem için hesaplanır. The resulting line is used to identify future areas of support and resistance.
+4. Senkou Span B: Son 52 periyottaki en yüksek yüksek ve en düşük düşük seviye ile önümüzdeki 26 dönem için hesaplanır. Ortaya çıkan çizgi, gelecekteki destek ve direnç alanlarını belirlemek için kullanılır.
 5. Chickou Span: Is the current period’s closing price plotted 26 days back on the chart. This line is used to show possible areas of support and resistance.
 
 * #### **TEMEL VE TEKNOLOJİK ANALİZ**
