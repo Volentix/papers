@@ -270,9 +270,9 @@ Awọn olumulo onisuta n ṣẹda awọn idanimọ ayederu lati fi nọmba nla t
 
 Awọn olumulo onisuta n buwọlu ati ṣe itanka awọn ibeere eyi ti iye wọn kii ṣe odo sugbọn eyiti iye to ku ninu adirẹẹsi naa jẹ odo. Awọn oju ipade n mojuto awọn iye to ku gangan, ṣe imudojuiwọn awọn ipo ibeere wọnyi gẹgẹbi o ṣe yẹ, ati lẹhinna da wọn nu.
 
-#### 3.9.5 Timing attack
+#### 3.9.5 Ikọlu alakoko
 
-Timing attacks are a class of cryptographic attacks through which a third-party observer can deduce the content of encrypted data by recording and analyzing the time taken to execute cryptographic algorithms. The RAFT algorithm prevents timing attacks by using randomness of timeouts.
+Awọn ikọlu alakoko jẹ kilasi awọn ikọlu ti aroko nipasẹ eyiti oluwoye ti o jẹ alagata le ṣawari awọn akoonu ti awọn data ti o jẹ pipamọ nipasẹ gbigbasilẹ ati ṣiṣe iyanana akoko ti o gba lati yanju awọn alugọridimu aroko. The RAFT algorithm prevents timing attacks by using randomness of timeouts.
 
 ### 3.10 USER EXPERIENCE
 
