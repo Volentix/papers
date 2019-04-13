@@ -260,9 +260,9 @@ Ikọlu 51% le jẹ gbigbekalẹ nipasẹ ẹnikẹni ti o ni kọja ipin 50% ti
 
 #### 3.9.2 Ti o siwaju
 
-Asiwaju ma n ji ibeere kan tabi ju bẹlọ kuro ninu iyanju iwe ibeere iṣowo ti o wa ni asorọ. Awọn EOS.IO ati Loopring n pese awọn atunṣe ni eyiti awọn kọkọrọ ti ni idaabobo nitori pe wọn ko si ni ara iṣowo ori-ila, ati nitorina jẹ aimọ si awọn ẹlomiran ayafi ẹniti o ni. Only the order book settling node is possessed of the sensitive information, and each node uses a different solution for resolving the order books, introducing yet another level of complexity to promote security.
+Asiwaju ma n ji ibeere kan tabi ju bẹlọ kuro ninu iyanju iwe ibeere iṣowo ti o wa ni asorọ. Awọn EOS.IO ati Loopring n pese awọn atunṣe ni eyiti awọn kọkọrọ ti ni idaabobo nitori pe wọn ko si ni ara iṣowo ori-ila, ati nitorina jẹ aimọ si awọn ẹlomiran ayafi ẹniti o ni. Oju ipade iyanju iwe ibeere nikan ni o ni alaye ti o se kókó, atipe oju ipade kọọkan n lo ọna abayọ miiran fun yiyanju awọn iwe ibeere, ṣiṣe afihan ipele ti itakoko miiran sibẹsibẹ lati ṣe igbelarugẹ aabo.
 
-#### 3.9.3 Forged identities
+#### 3.9.3 Awọn idanimọ ayederu
 
 Malicious users create forged identities to send a large number of small orders to attack Loopring nodes. However, most of these orders will be rejected for not yielding satisfying profit when matched.
 
