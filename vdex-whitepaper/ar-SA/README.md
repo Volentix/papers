@@ -276,19 +276,19 @@ VTX هو الأصل الرقمي الأصلي الذي سيتم إصداره و�
 
 ### 3.10 تجربة المستخدم
 
-تركيزنا على تجربة المستخدم أساسي. نود أن نجعل VTX ودعائم Volentix الأربعة -- Vespucci ،Verto ،Venue وVdex -- سهلة المنال ويمكن استخدامها من قبل جميع أولئك الذين يرغبون في الانضمام إلى مجتمعنا. We expect the experience continually to be educational as well, with templates and simulators to support a superior UX/UI relationship.
+تركيزنا على تجربة المستخدم أساسي. نود أن نجعل VTX ودعائم Volentix الأربعة -- Vespucci ،Verto ،Venue وVdex -- سهلة المنال ويمكن استخدامها من قبل جميع أولئك الذين يرغبون في الانضمام إلى مجتمعنا. نتوقع أيضاً أن تكون التجربة تعليمية باستمرار مع قوالب ومحاكايين لدعم علاقة متفوقة لـ UX/UI.
 
 ### 3.11 اللامركزية المطلقة
 
 EOS.IO هي بنية أساسية قابلة للتطوير مفتوحة المصدر للتطبيقات اللامركزية. هدفها عملية إختيار (Election Process) عادلة وشفافة لمنتجين الكتل (BP) باستخدام نظام proof of stake ديمقراطي (DPoS) قائم على الإجماع. خاصة أنه عندما يبدأ هذا النظام في التكاثر، ستكون هناك بعض الثغرات. لذلك، تبقى درجة ما من المركزية المقيدة أمرًا لا مفر منه وضروريًا. لكن فلسفتنا التوجيهية هي اللامركزية، وتهدف جهودنا المستمرة إلى تشجيع تخفيض الاعتماد على السلطة المركزية.
 
-For example, initially we plan to erect a system for electing nodes (when solving order books) that will not use a shared central clock or DPoS but instead will be based either on random timeouts for the determination of leaders in an election (RAFT) or on Directed Acyclic Graph (DAG) in the PARSEC protocol.
+على سبيل المثال، نخطط مبدئيًا لإقامة نظام لإختيار العُقد (عند حل دفتر الطلبات) اللتي لا تستعمل ساعة مركزية (central clock) أو DPoS لكن بدلا عن ذلك ترتكز على مهلات عشوائية لتحديد القادة في عملية الاختيار (RAFT) أو على Directed Acyclic Graph (DAG) في بروتوكول PARSEC.
 
-### 3.12 SYSTEM RECOVERY
+### 3.12 استرداد النظام
 
-The RAFT and PARSEC protocols provide a robust system for recovery in the case of node failure. Security measures are also provided for trading between and among native blockchains. If a chain defies identification, the system defaults to the next block or a short time lock.
+توفر بروتوكولات RAFT و PARSEC نظامًا قويًا للقيام بالإسترداد في حالة فشل العُقدة. Security measures are also provided for trading between and among native blockchains. If a chain defies identification, the system defaults to the next block or a short time lock.
 
-### 3.13 EVOLVING ARCHITECTURE
+### 3.13 تطوير البنية
 
 Daily announcements of fresh code developments impacting on use of digital assets reveal the tremendous benefit of the open-source code philosophy. We at Volentix recognize we are the beneficiaries of the enormous financial resources dedicated by many early movers to developing digital assets applications over the past decade. We now have an opportunity to take the next step by creating VDex, a decentralized exchange for the next generation of digital assets transactions.
 
