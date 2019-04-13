@@ -270,7 +270,7 @@ VTX هو الأصل الرقمي الأصلي الذي سيتم إصداره و�
 
 يوقع وينشر المستخدمون الضارون العديد من الطلبات ذو قيمة أكبر من الصفر ولكن بعنوان ذو رصيد صفري. تقوم العُقد بمراقبة الأرصدة الفعلية وتحديث حالات الطلب وفقًا لذلك، ثم تتجاهلها.
 
-#### 3.9.5 Timing attack
+#### 3.9.5 هجوم التوقيت
 
 Timing attacks are a class of cryptographic attacks through which a third-party observer can deduce the content of encrypted data by recording and analyzing the time taken to execute cryptographic algorithms. The RAFT algorithm prevents timing attacks by using randomness of timeouts.
 
@@ -278,9 +278,9 @@ Timing attacks are a class of cryptographic attacks through which a third-party 
 
 Our focus on user experience is primary. We wish to make VTX and the four pillars of Volentix -- Venue, Verto, Vespucci, and VDex -- easily accessible to and useable by all those who wish to join our community. We expect the experience continually to be educational as well, with templates and simulators to support a superior UX/UI relationship.
 
-### 3.11 TRUE DECENTRALIZATION
+### 3.11 اللامركزية المطلقة
 
-EOS.IO is an open-source, scalable infrastructure for decentralized applications. Its goal is a fair and transparent block producer (BP) election process utilizing a democratic delegated proof of stake (DPoS) consensus. Particularly as such a system just begins to proliferate, there will be glitches. Therefore, some degree of retained centralization is inevitable and necessary. But our guiding philosophy is one of decentralization, and our ongoing efforts are targeted to promoting a reduction in dependence on central authority.
+EOS.IO هي بنية أساسية قابلة للتطوير مفتوحة المصدر للتطبيقات اللامركزية. Its goal is a fair and transparent block producer (BP) election process utilizing a democratic delegated proof of stake (DPoS) consensus. Particularly as such a system just begins to proliferate, there will be glitches. Therefore, some degree of retained centralization is inevitable and necessary. But our guiding philosophy is one of decentralization, and our ongoing efforts are targeted to promoting a reduction in dependence on central authority.
 
 For example, initially we plan to erect a system for electing nodes (when solving order books) that will not use a shared central clock or DPoS but instead will be based either on random timeouts for the determination of leaders in an election (RAFT) or on Directed Acyclic Graph (DAG) in the PARSEC protocol.
 
