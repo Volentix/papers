@@ -45,7 +45,7 @@ As currently conceived, an eosio.token contract from the EOS.IO framework would 
 
 In contemplating technological design, we have evaluated various existing (and emerging) operating systems. EOS.IO yazılımı örnek olarak öne çıkıyor. EOS.IO, merkezi olmayan uygulamalar için açık kaynaklı ölçeklenebilir bir altyapıdır. We can benefit from standard features offered by EOS.IO such as the creation of accounts and wallets, and we also plan to implement protocols for creation of the decentralized VDEX exchange through EOS contracts and other tools.
 
-We aim to make VTX and the four pillars of VOLENTIX — VENUE, VERTO, VESPUCCI, and VDEX — easily accessible to and usable by all those who wish to join our community. We plan a user interface that makes available to you relevant market data as well as your account information. We expect the experience to be enhanced by continuing education, with templates and simulators to support a superior UX/UI relationship.
+VTX'i ve VOLENTIX — VENUE, VERTO, VESPUCCI ve VDEX'in — dört ayağını topluluğumuza katılmak isteyen herkes tarafından kolayca erişilebilir ve kullanılabilir hale getirmeyi amaçlıyoruz. Hesap bilgilerinizin yanı sıra, size ilgili piyasa verilerini de sağlayan bir kullanıcı arayüzü planlıyoruz. Üstün bir UX/UI ilişkisini desteklemek için şablonlarla ve simülatörlerle, sürekli eğitim ile deneyimin geliştirilmesini bekliyoruz.
 
 ## FELSEFE VE BAĞLILIK
 
