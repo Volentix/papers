@@ -276,7 +276,7 @@ Awọn ikọlu alakoko jẹ kilasi awọn ikọlu ti aroko nipasẹ eyiti oluwoy
 
 ### 3.10 IRIRI OLUMULO
 
-Our focus on user experience is primary. We wish to make VTX and the four pillars of Volentix -- Venue, Verto, Vespucci, and VDex -- easily accessible to and useable by all those who wish to join our community. We expect the experience continually to be educational as well, with templates and simulators to support a superior UX/UI relationship.
+Afojusun wa lori iriri olumulo jẹ pataki. We wish to make VTX and the four pillars of Volentix -- Venue, Verto, Vespucci, and VDex -- easily accessible to and useable by all those who wish to join our community. We expect the experience continually to be educational as well, with templates and simulators to support a superior UX/UI relationship.
 
 ### 3.11 TRUE DECENTRALIZATION
 
