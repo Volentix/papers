@@ -279,11 +279,11 @@ Veri analizi için daha gelişmiş teknikler, devamında tartışıldığı gibi
 * İşlemleri veya akıllı sözleşmeleri tamamlamak için kullanıcıların ağa ödeyebilecekleri işlem ücretleri.
 * Güvenlik, sistemin saldırılara karşı savunmasızlığı gibi (örneğin çift harcama, Sybil saldırıları), işlemlerin gizliliğinin yanı sıra kullanıcı gizliliğini de içeren birkaç yönü içerir.
 * Ölçeklenebilirlik, sistemin performansının düğüm, işlem ve kullanıcı sayısından ve düğümlerin coğrafi pozisyonlarının saçılmasından nasıl etkilendiği ile ilgilidir.
-* Hardware requirements for storage, memory and processors needed to store the blockchain network and validate the transactions and blocks, as well as how these requirements change while the networks grows.
+* Blok zinciri ağını depolamak ve işlemleri ve blokları doğrulamak için gereken depolama, bellek ve işlemciler için donanım gereksinimleri yanı sıra ağlar büyürken bu gereksinimlerin nasıl değiştiğini doğrular.
 
-Yukarıdaki analizi yapmak için, bir sonraki bölümde daha fazla ayrıntı verilmiştir. Bugün, blok zinciri kaşifleri bu görevi desteklemek için yaygın olarak mevcuttur. In particular, blockchain explorers such as [coinmetrics](https://coinmetrics.io/) and [cryptocompare](https://www.cryptocompare.com/) were combined, in order to meet the needs of FTA. The former is an open source crypto-asset analytics service, providing daily data for the most major cryptocurrencies (about 64 currently). Cryptocompare is a platform with live cryptocurrency data; its API makes available historical and live streaming cryptocurrency data, such as pricing, volume and block explorer data from multiple exchanges and blockchains.
+Yukarıdaki analizi yapmak için, bir sonraki bölümde daha fazla ayrıntı verilmiştir. Bugün, blok zinciri kaşifleri bu görevi desteklemek için yaygın olarak mevcuttur. Özellikle, FTA gereksinimlerini karşılamak için [coinmetrics](https://coinmetrics.io/) ve [cryptocompare](https://www.cryptocompare.com/) gibi blok zinciri araştırıcıları birleştirildi. İlki, en büyük kripto para birimleri için günlük verileri sağlayan açık kaynaklı bir kripto varlık analitik servisidir (şu anda yaklaşık 64). Cryptocompare, canlı kripto para birimi verilerinin bulunduğu bir platformdur; API, fiyatlandırma, hacim ve birden fazla borsa ve blok zincirinden gelen blok kaşifi verileri gibi tarihi ve canlı yayın kripto para birimi verilerini kullanılabilir hale getirir.
 
-Among others, some of the features available by both APIs are:
+Diğerlerinin arasında, her iki API tarafından da kullanılabilen özelliklerden bazıları şunlardır:
 
 * transaction count – number of transactions happening on the public blockchain a day
 * transaction volume (usd) – total value of outputs on the blockchain, on a given day
