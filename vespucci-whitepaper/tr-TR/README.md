@@ -316,10 +316,10 @@ Projeyi çevreleyen geliştirici topluluğunun katılımına bakan sosyal bir pe
 
 • oluşturucu yaklaşılabilirliği ve duyarlılığı.
 
-This module (related to Sentiment analysis) examines information from Github and other sources such as literature review. It grades the quality of a codebase by looking at social cues well-known among software developers, and in particular:
+Bu modül (Duygu analizi ile ilgili), Github'dan ve literatür incelemesi gibi diğer kaynaklardan gelen bilgileri inceler. Yazılım geliştiricileri arasında iyi bilinen sosyal ipuçlarına bakarak ve özellikle bir kod tabanının kalitesini not eder:
 
-* The expertise and track record of the team and their continued commitment to their project (frequency of commits, frequency the community responds to bugs, contributions over time, and the amount of time that has been consistently spent building up the project),
-* The activity on GitHub, which is tightly related to the previous item, and the number of followers of the project,
+* Ekibin uzmanlığı ve takip kayıtları ve onların projelerine olan bağlılıklarının devam etmesi (taahhütlerin sıklığı, topluluğun yazılım hatalarına cevap verme sıklığı, zaman içindeki katkılar ve projeyi tutarlı bir şekilde geliştirmek için harcanan zamanın miktarı),
+* GitHub'ta önceki öğe ile sıkı bir şekilde ilgili olan faaliyet ve projenin takipçisi sayısı,
 * The quality of code (programming languages, test coverage, ratio of bugs over lines of code,build breaks etc), robustness, and maintenance of the software,
 * Tanıtım belgesine karşılık gelen.
 * Sistemin matematiksel ve kriptografiksel prensipleri.
