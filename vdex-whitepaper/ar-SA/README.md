@@ -276,11 +276,11 @@ VTX هو الأصل الرقمي الأصلي الذي سيتم إصداره و�
 
 ### 3.10 تجربة المستخدم
 
-تركيزنا على تجربة المستخدم أساسي. We wish to make VTX and the four pillars of Volentix -- Venue, Verto, Vespucci, and VDex -- easily accessible to and useable by all those who wish to join our community. We expect the experience continually to be educational as well, with templates and simulators to support a superior UX/UI relationship.
+تركيزنا على تجربة المستخدم أساسي. نود أن نجعل VTX ودعائم Volentix الأربعة -- Vespucci ،Verto ،Venue وVdex -- سهلة المنال ويمكن استخدامها من قبل جميع أولئك الذين يرغبون في الانضمام إلى مجتمعنا. We expect the experience continually to be educational as well, with templates and simulators to support a superior UX/UI relationship.
 
 ### 3.11 اللامركزية المطلقة
 
-EOS.IO هي بنية أساسية قابلة للتطوير مفتوحة المصدر للتطبيقات اللامركزية. هدفها عملية إنتخابية عادلة وشفافة لمنتجين الكتل (BP) باستخدام نظام proof of stake ديمقراطي (DPoS) قائم على الإجماع. خاصة أنه عندما يبدأ هذا النظام في التكاثر، ستكون هناك بعض الثغرات. Therefore, some degree of retained centralization is inevitable and necessary. But our guiding philosophy is one of decentralization, and our ongoing efforts are targeted to promoting a reduction in dependence on central authority.
+EOS.IO هي بنية أساسية قابلة للتطوير مفتوحة المصدر للتطبيقات اللامركزية. هدفها عملية إختيار (Election Process) عادلة وشفافة لمنتجين الكتل (BP) باستخدام نظام proof of stake ديمقراطي (DPoS) قائم على الإجماع. خاصة أنه عندما يبدأ هذا النظام في التكاثر، ستكون هناك بعض الثغرات. لذلك، تبقى درجة ما من المركزية المقيدة أمرًا لا مفر منه وضروريًا. لكن فلسفتنا التوجيهية هي اللامركزية، وتهدف جهودنا المستمرة إلى تشجيع تخفيض الاعتماد على السلطة المركزية.
 
 For example, initially we plan to erect a system for electing nodes (when solving order books) that will not use a shared central clock or DPoS but instead will be based either on random timeouts for the determination of leaders in an election (RAFT) or on Directed Acyclic Graph (DAG) in the PARSEC protocol.
 
