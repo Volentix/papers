@@ -74,7 +74,7 @@ Kripto sikkelerin sırasını ve değerini etkileyen en önemli faktörlerden bi
 
 Vespucci SA bileşeni aşamalı bir yaklaşımla inşa edilmiştir. İlk aşama, merkezi bir bulut tabanlı, yüksek ölçeklendirilebilir, Büyük Veri toplama mekanizmasının uygulanmasını içerir. Bu mekanizma, yukarıda belirtilen veri kaynaklarını sürekli olarak dinleyebilmekte ve her bir kripto para birimiyle ilgili olan tüm içeriği/mesajları alabilmektedir. Kalıcı olmayan depolama kullanır. Aynı mekanizma, sosyal medya içeriğini analiz etmek için AI odaklı bir puan işlevi ve metin analitiği kütüphaneleri kullanarak alınan içeriğin Duyarlılığını puanlar. Modül ayrıca, metin parçalarına sayısal duyarlılık puanları atayan NTLK ve TextBlob gibi başka araçlara da dayanır. Bu işlemin, kullanıcı için şeffaf olmasına gerek yoktur.
 
-This ensures that Vespucci SA component is able to cover the vast majority of public opinion. Results are compared over periods of one hour, one day and one week. Çıktılar, ön uç web UI gibi diğer Vespucci bileşenlerinin yanı sıra, verileri tüketen veya Vespucci'ye dayalı üçüncü taraf uygulamaları oluşturmak isteyen harici kullanıcılar tarafından dahili kullanım için API'lar aracılığıyla kullanılabilir.
+Bu, Vespucci SA bileşeninin, kamuoyunun büyük çoğunluğunu kapsayabilmesini sağlar. Sonuçlar bir saat, bir gün ve bir hafta boyunca karşılaştırılır. Çıktılar, ön uç web UI gibi diğer Vespucci bileşenlerinin yanı sıra, verileri tüketen veya Vespucci'ye dayalı üçüncü taraf uygulamaları oluşturmak isteyen harici kullanıcılar tarafından dahili kullanım için API'lar aracılığıyla kullanılabilir.
 
 Vespucci’nin kamuoyu dinleyicileri, bütün potansiyel iş yüklerini karşılamak için anında ölçeklendirilebilen bulut tabanlı sanal makinelerde çalışıyor. Bu şekilde Vespucci, her an üretilmekte olan kripto para birimleri ile ilgili büyük ancak değerli veri hacimlerini işler ve alır. Paralelleştirme, Büyük Veri ve Vespucci'nin mimarisi, paralelleştirme kaldıraçlarını işlerken anahtardır, mümkün olan her yerde çoklu iş parçacığı ve eş zamanlılık sağlar. Mikro hizmetler ve sunucusuz kod, alım prosedürlerini ve veri akışlarını düzenlemek için paralel olarak çalışır.
 
@@ -256,14 +256,14 @@ Veri analizi için daha gelişmiş teknikler, devamında tartışıldığı gibi
 
 **Fibonacci Clusters:** The Fibonacci cluster is a culmination of Fibonacci retracements from various significant highs and lows during a given time period. Bu Fibonacci seviyelerinin her biri daha sonra "Y" ekseninde (fiyat) çizilir. Each overlapping retracement level makes a darker shade on the cluster – the darker the cluster is, the more significant the support or resistance level tends to be. This technique can be used in conjunction with other Fibonacci techniques or chart patterns to confirm support and resistance levels.
 
-**Fibonacci Channels:** The Fibonacci pattern can be applied to channels not only vertically, but also diagonally. One common technique is the combination of diagonal and vertical Fibonacci studies to find areas where both indicate significant resistance.
+**Fibonacci Channels:** The Fibonacci pattern can be applied to channels not only vertically, but also diagonally. Ortak tekniklerden biri, her ikisinin de önemli direnç gösterdiği alanları bulmak için çapraz ve dikey Fibonacci çalışmalarının birleşimidir.
 
-**Ichimoku Kinko Hyo** is a technical indicator that is used to gauge momentum along with future areas of support and resistance.It was originally developed by a Japanese newspaper writer to combine various technical strategies into a single indicator that could be easily implemented and interpreted. Ichimoku indikatörü, beş anahtar bileşenin kombinasyonudur:
+**Ichimoku Kinko Hyo**, gelecekteki destek ve direnç alanlarıyla birlikte momentumu ölçmek için kullanılan teknik bir göstergedir. Orijinal olarak, Japon bir gazete yazarı tarafından, çeşitli teknik stratejileri kolayca uygulanabilecek ve yorumlanabilecek tek bir göstergede birleştirmek için geliştirilmiştir. Ichimoku indikatörü, beş anahtar bileşenin kombinasyonudur:
 
-1. Tenkan-sen: Represents support and resistance level, and it’s a signal line for reversals.
-2. Kijun-sen: Destek ve direnç seviyesini temsil eder. It’s a confirmation of a trend change, and can be used as a trailing stop-loss point.
-3. Senkou Span A: Is the average of tenkan-sen and kijun-sen for 26 periods ahead. The resulting line is used to identify future areas of support and resistance.
-4. Senkou Span B: Is calculated by the highest high and the lowest low over the past 52 periods, for 26 periods ahead. The resulting line is used to identify future areas of support and resistance.
+1. Tenkan-sen: Destek ve direnç seviyesini temsil eder ve bu geri dönüşler için bir sinyal hattıdır.
+2. Kijun-sen: Destek ve direnç seviyesini temsil eder. Bu bir eğilim değişikliğinin onayıdır ve takip eden bir stop-loss noktası olarak kullanılabilir.
+3. Senkou Span A: Önümüzdeki 26 dönem için tenkan-sen ve kijun-sen'in ortalaması. Ortaya çıkan çizgi, gelecekteki destek ve direnç alanlarını belirlemek için kullanılır.
+4. Senkou Span B: Son 52 periyottaki en yüksek yüksek ve en düşük düşük seviye ile önümüzdeki 26 dönem için hesaplanır. The resulting line is used to identify future areas of support and resistance.
 5. Chickou Span: Is the current period’s closing price plotted 26 days back on the chart. This line is used to show possible areas of support and resistance.
 
 * #### **TEMEL VE TEKNOLOJİK ANALİZ**
