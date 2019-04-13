@@ -49,8 +49,8 @@ VTX'i ve VOLENTIX — VENUE, VERTO, VESPUCCI ve VDEX'in — dört ayağını top
 
 ## FELSEFE VE BAĞLILIK
 
-Our guiding philosophy is one of decentralization, and our ongoing efforts are targeted to promoting a reduction in dependence on central authority. The tremendous benefit of the open-source code philosophy  
-is that every day there are announcements of fresh code developments impacting on convenient and safe trading and use of digital assets. Our premise is security and ease of operation. İhtiyat, eğitimi zorunlu kılar. En önemli varlık bilgidir.
+Yol gösterici felsefemiz, ademi merkeziyetçilikten biridir ve devam eden çabalarımız merkezi otoriteye bağımlılığın azalmasını teşvik etmeyi hedeflemektedir. Açık kaynak kod felsefesinin  
+çok büyük yararı, her gün dijital varlıkların uygun ve güvenli bir şekilde ticaretini ve kullanımını etkileyen taze kod gelişmelerinin duyurularının yapılmasıdır. Our premise is security and ease of operation. İhtiyat, eğitimi zorunlu kılar. En önemli varlık bilgidir.
 
 All of us at VOLENTIX are dedicating sizable quantities of work and insights to developing a program premised on empowerment and independence. Please monitor our website and social media for updates and other important announcements. Dikkatiniz ve ilginiz için çok teşekkür ederiz.
 
