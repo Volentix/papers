@@ -276,11 +276,11 @@ Awọn ikọlu alakoko jẹ kilasi awọn ikọlu ti aroko nipasẹ eyiti oluwoy
 
 ### 3.10 IRIRI OLUMULO
 
-Afojusun wa lori iriri olumulo jẹ pataki. We wish to make VTX and the four pillars of Volentix -- Venue, Verto, Vespucci, and VDex -- easily accessible to and useable by all those who wish to join our community. We expect the experience continually to be educational as well, with templates and simulators to support a superior UX/UI relationship.
+Afojusun wa lori iriri olumulo jẹ pataki. A fẹ lati jẹ ki VTX ati awọn opo mẹrin ti Volentix - Venue, Verto, Vespucci, ati VDex - wa ni arọwọto pẹlu irọrun ati ki o ṣee lo fun gbogbo awọn ti o fẹ lati darapọ mọ awujọ wa. A nireti pe ki iriri naa nigbagbogbo tubọ ma kọni ni ẹkọ si, pẹlu awọn awoṣe ati awọn ẹrọ afidanrawo lati ṣe atilẹyin fun iṣẹ ti UX/UI ti o tubọ lagbara julọ.
 
-### 3.11 TRUE DECENTRALIZATION
+### 3.11 ISỌDALAISILOJUKAN OLOTITỌ
 
-EOS.IO is an open-source, scalable infrastructure for decentralized applications. Its goal is a fair and transparent block producer (BP) election process utilizing a democratic delegated proof of stake (DPoS) consensus. Particularly as such a system just begins to proliferate, there will be glitches. Therefore, some degree of retained centralization is inevitable and necessary. Ṣugbọn akọmọna itọnisọna wa jẹ ti alaisilojukan, ati awọn igbiyanju wa ti n lọ lọwọ jẹ fifojusun lati ṣe ipolongo mimu adinku ba gigbarale iṣakoso olojukan.
+EOS.IO jẹ orisun-gbangba, ohun amayederun onipele agbara iṣiṣẹ fun awọn ohun elo alaisilojukan. Its goal is a fair and transparent block producer (BP) election process utilizing a democratic delegated proof of stake (DPoS) consensus. Particularly as such a system just begins to proliferate, there will be glitches. Therefore, some degree of retained centralization is inevitable and necessary. Ṣugbọn akọmọna itọnisọna wa jẹ ti alaisilojukan, ati awọn igbiyanju wa ti n lọ lọwọ jẹ fifojusun lati ṣe ipolongo mimu adinku ba gigbarale iṣakoso olojukan.
 
 Fun apẹrẹ, ni iṣaaju a ṣe ipinnu lati se agbekalẹ eto kan fun yiyan awọn oju ipade (nigbati o ba n yanju awọn iwe ibeere) ti ko ni lo aago alajọpin olojukan tabi DPoS ṣugbọn dipo o ma da lori awọn akoko idawọduro alaileto fun siṣe ipinnu awọn olori ninu idibo kan (RAFT) tabi lori Directed Acyclic Graph (DAG) ninu ilana PARSEC.
 
