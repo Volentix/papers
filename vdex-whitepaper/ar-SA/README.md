@@ -272,15 +272,15 @@ VTX هو الأصل الرقمي الأصلي الذي سيتم إصداره و�
 
 #### 3.9.5 هجوم التوقيت
 
-Timing attacks are a class of cryptographic attacks through which a third-party observer can deduce the content of encrypted data by recording and analyzing the time taken to execute cryptographic algorithms. The RAFT algorithm prevents timing attacks by using randomness of timeouts.
+هجمات التوقيت هي فئة من هجمات التشفير التي يستطيع من خلالها مراقب من طرف ثالث إستنتاج محتوى البيانات المشفرة من خلال تسجيل وتحليل الوقت المستغرق لتنفيذ خوارزميات التشفير. تمنع خوارزمية RAFT هجمات التوقيت عن طريق استخدام العشوائية في تحديد المهلات.
 
-### 3.10 USER EXPERIENCE
+### 3.10 تجربة المستخدم
 
-Our focus on user experience is primary. We wish to make VTX and the four pillars of Volentix -- Venue, Verto, Vespucci, and VDex -- easily accessible to and useable by all those who wish to join our community. We expect the experience continually to be educational as well, with templates and simulators to support a superior UX/UI relationship.
+تركيزنا على تجربة المستخدم أساسي. We wish to make VTX and the four pillars of Volentix -- Venue, Verto, Vespucci, and VDex -- easily accessible to and useable by all those who wish to join our community. We expect the experience continually to be educational as well, with templates and simulators to support a superior UX/UI relationship.
 
 ### 3.11 اللامركزية المطلقة
 
-EOS.IO هي بنية أساسية قابلة للتطوير مفتوحة المصدر للتطبيقات اللامركزية. Its goal is a fair and transparent block producer (BP) election process utilizing a democratic delegated proof of stake (DPoS) consensus. Particularly as such a system just begins to proliferate, there will be glitches. Therefore, some degree of retained centralization is inevitable and necessary. But our guiding philosophy is one of decentralization, and our ongoing efforts are targeted to promoting a reduction in dependence on central authority.
+EOS.IO هي بنية أساسية قابلة للتطوير مفتوحة المصدر للتطبيقات اللامركزية. هدفها عملية إنتخابية عادلة وشفافة لمنتجين الكتل (BP) باستخدام نظام proof of stake ديمقراطي (DPoS) قائم على الإجماع. خاصة أنه عندما يبدأ هذا النظام في التكاثر، ستكون هناك بعض الثغرات. Therefore, some degree of retained centralization is inevitable and necessary. But our guiding philosophy is one of decentralization, and our ongoing efforts are targeted to promoting a reduction in dependence on central authority.
 
 For example, initially we plan to erect a system for electing nodes (when solving order books) that will not use a shared central clock or DPoS but instead will be based either on random timeouts for the determination of leaders in an election (RAFT) or on Directed Acyclic Graph (DAG) in the PARSEC protocol.
 
