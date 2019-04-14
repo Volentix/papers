@@ -385,9 +385,9 @@ The outputs of all three constituents together with the corresponding price (the
 
 ![](https://volentix.io/file/2019/01/1-2.jpg)
 
-לבסוף, אנו מביאים שני רעיונות חדשניים אשר יהיו מועסקים בשלב זה: (א) שימוש ביישומים מבוזרים של כלי למידה בשילוב עם פילוסופיית הביזור של Vespucci. (b) Aggregation of the neural networks that may be employed in one or more of the three pillars into a final score to be computed by an overall machine learning tool.
+לבסוף, אנו מביאים שני רעיונות חדשניים אשר יהיו מועסקים בשלב זה: (א) שימוש ביישומים מבוזרים של כלי למידה בשילוב עם פילוסופיית הביזור של Vespucci. (ב) הצטברות של רשתות עצביות אשר עלולות להיות מועסקות על- ידי אחד או יותר משלושת עמודי התווך, ואשר תביא לתוצאה הסופית המחושבת באמצעות מכונת למידה כוללנית.
 
-The **pipeline of Vespucci**, as shown in the figure below, consists of a computer cluster, having nodes for listening (Vespucci Listeners, or Aggregators) the aforementioned sources, such as social media (Twitter, Facebook, reddit), coin sites (coinmarketcap.com), Github etc, and nodes that could perform the analysis step of the collected data (Vespucci Analyzers). The results are kept in a database (e.g. SQL) to which the user has access through the interface and programmatically by an API.
+ה ** צנרת של Vespucci**, כמתואר במספר למטה, מורכבת מאשכול המחשב, צמתי רשת עבור האזנה ( מאזיני Vespucci, או צוברים) של המקורות הנ''ל, כגון אתרי מדיה חברתית ( טוויטר, פייסבוק, רדיט), אתרי מטבעות (coinmarketcap.com), Github, וצמתים אשר מבצעים את צעד הניתוח הראשוני של הנתונים שנצטברו. The results are kept in a database (e.g. SQL) to which the user has access through the interface and programmatically by an API.
 
 * The listeners are VM nodes which periodically listen/search the sources of each coin. New information extracted for each coin is also kept in the database for transparency.
 * The analyzer VM nodes are then triggered and the new collected data will be analyzed (Sentiment, Technical and Technological & Fundamental analysis) by the Vespucci Analyzer nodes. The results are stored in the database.
