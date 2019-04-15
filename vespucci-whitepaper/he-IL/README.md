@@ -391,13 +391,13 @@ The outputs of all three constituents together with the corresponding price (the
 
 * The listeners are VM nodes which periodically listen/search the sources of each coin. New information extracted for each coin is also kept in the database for transparency.
 * The analyzer VM nodes are then triggered and the new collected data will be analyzed (Sentiment, Technical and Technological & Fundamental analysis) by the Vespucci Analyzer nodes. The results are stored in the database.
-* Finally, the UI is periodically refreshed, updating the current view of the user to include new analysis results.
+* לבסוף, ממשק המשתמש מתרענן מעת לעת, ומעדכן את התצוגה הנוכחית של המשתמש על מנת לכלול תוצאות ניתוחי מידע חדשים.
 
 To effectiv ely manage our computer cluster consisting of listening and analyzing nodes, we offer a platform that facilitates any type of component architecture (a useful tool here is Kubernetes once we use Docker containers). We shall provide the API, but implementation details are decided by the developers. To provide concrete examples, f rameworks for distributed storage and processing of big data are considered, such as Apache Hadoop (or Cassandra). Hadoop is a collection of open-source software utilities that facilitate using a network of computers to solve problems involving massive amounts of data and computation, handling automatically the hardware failures. Other frameworks may be considered such as Apache Spark, which is a cluster-computing batch processing framework, with the ability to write applications in multiple languages (Java, Scala, Python, R). Alternatives include Apache Samza, which offers a near-realtime asynchronous framework for distributed stream processing, or Apache Flink, a hybrid framework for stream processes and batch tasks.
 
 ![](https://volentix.io/file/2019/01/Web-1920-–-3@2x.png)
 
-The **implementation** of the Vespucci analysis tools is in Python using various data analytics libraries, wrappers for the different APIs, and libraries for machine learning. The libraries to be used are some of the following:
+The **implementation** of the Vespucci analysis tools is in Python using various data analytics libraries, wrappers for the different APIs, and libraries for machine learning. הספריות הנתונות לשימוש הן חלק מהבאים:
 
 * NumPy, Pandas, Seaborn, matplotlib for the analysis part.
 * Scikit-learn, TensorFlow for machine learning.
@@ -411,7 +411,7 @@ For Sentiment Analysis, and possibly other modules as well, a **node.js** system
 
 Vespucci **data** sources may include, but not be limited to: historic trading records, trading trends, developer activity and plan analysis, digital asset distribution and governance information, terms and conditions and current and historic address balances as well as forum sentiment analysis. This information can be found scattered among blockchain explorer sites and chat rooms. In particular, Sentiment analysis (see relevant [section](https://docs.google.com/document/d/1NLr-rgF66NCBmLmPIdElltKYVPJrLVO7DZDpcNEm6OU/edit?ts=5bec2f33#heading=h.tuaauijo691s)) would require data on all coins for a limited period of time. This is a vast amount of data and in order to minimise the impact that data will have on the system, we employ big data techniques of compression, aggregation, and filtering.
 
-Storage techniques may rely on off-chain Order books developed by VLabs, which is a sophisticated data structure with high security standards. It relies on EOS.IO, and its persistence API. One advantage of such a system is that it is not expensive; on the other hand, it is sufficiently efficient for our purposes. על אף שהעברות מנוהלות על ידי VDex, נתוני מידע שאינם קשורים לעסקאות יישארו מחוץ לרשת.
+Storage techniques may rely on off-chain Order books developed by VLabs, which is a sophisticated data structure with high security standards. It relies on EOS.IO, and its persistence API. יתרון אחד של מערכת כזו הוא שהיא אינה יקרה; ומצד שני, היא יעילה מספיק למטרותינו. על אף שהעברות מנוהלות על ידי VDex, נתוני מידע שאינם קשורים לעסקאות יישארו מחוץ לרשת.
 
 * ### ** ציר זמן**
 
