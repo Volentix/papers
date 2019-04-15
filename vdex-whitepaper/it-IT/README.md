@@ -152,7 +152,7 @@ Per presentare e votare le proposte per l'ecosistema Volentix, utilizzando i dir
 
 Per offrire sostegno per la revisione delle proposte e per attuare progetti.
 
-Per incentivare gli utenti a partecipare nel regolamento del libro d'ordine diventando nodi attraverso i loro wallet Verto.
+Per incentivare gli utenti a partecipare nell'impostazione del libro d'ordine diventando nodi attraverso i loro wallet Verto.
 
 Per incentivare gli utenti a bloccare i loro fondi per più di 24 ore per le transazioni HTLC con scadenza.
 
@@ -160,9 +160,9 @@ Per incentivare gli utenti a bloccare i loro fondi per più di 24 ore per le tra
 
 ![](../6.jpg)
 
-Un ecosistema di asset digitali richiede una matrice di componenti umani fondamentali che portino avanti il progetto. [11] È essenziale ricompensare questi individui per la loro partecipazione. Oggetto di aggiustamenti, al momento Volentix prevede i seguenti stanziamenti:
+Un ecosistema di asset digitali richiede una insieme di componenti umani fondamentali che portino avanti il progetto. [11] È essenziale ricompensare questi individui per la loro partecipazione. Oggetto di aggiustamenti, al momento Volentix prevede i seguenti stanziamenti:
 
-1. Collaboratori. 12%. Una serie di individui, simili ai fondatori, che contribuiscono con idee, tempo e talento, anche se spesso lavorano senza una compensazione anticipata.
+1. Collaboratori. 12%. Un insieme di individui, simili ai fondatori, che contribuiscono con idee, tempo e talento, anche se spesso lavorano senza una compensazione anticipata.
 
 2. Sostenitori.
 
