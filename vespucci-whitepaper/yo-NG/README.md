@@ -344,13 +344,13 @@ Vespucci ni intafeesi olumulo (UI) kan eyiti o n fayegba lati tẹ iwọn aala w
 
 Intafeesi abajade n pese aworan oniṣubu, to n pese atọka fun awọn abala to se faagun ti o n safihan awọn oṣuwọn ti a yan ni kikun. Aworan oniṣubu n ṣafihan alaye isọniṣoki ipele ipo ti alaroko-awọ ti owo kiripito. Iṣiro ipele ipo ti alaroko-awọ n jẹ ṣiṣe nipa lilo agbede iwọn ti apapọ gbogbo agbeyẹwo awọn osuwọn. Ọkọọkan abala ti o ṣe faagun n ṣafihan osuwọn tabi ẹgbẹ ti awọn osuwọn ni ọna aworan onila. Agbeyẹwo awọn osuwọn ti jẹ yiyasọtọ si oriṣiriṣi awọn abala dida lori alaye ti wọn duro fun gẹgẹbi data ti o nii ṣe pẹlu irisi ibasepọ tabi irisi idiju. Ṣiṣe atọka ẹlẹyẹ julọ ti agbeyẹwo awọn osuwọn waye lati fayegba ifọrọwerọ alatinumọ ti UI ni wiwọle si ati iwo data ti a nifẹsi fun olumulo naa.
 
-Titẹle aṣeyọri ti apa owo Ethereum ati aṣàwákiri ayelujara ti Ethereum, intafeesi pataki julọ ti o jẹ fifihan si olumulo kan jẹ gbigbalejo ninu ohun elo Electron. Electron jẹ imọ-ẹrọ giga ti o jẹ ṣiṣafihan nipasẹ Github lati ṣẹda awọn ohun elo ti ode oni. Niwọnti Vespucci ko jẹ sisopọ mọ awọn API ti o da lori kọ̀mpútà àgbétẹ́lẹ̀ amọ sa, o tun ṣee ṣe lati gbe ohun elo yii jade lati ṣiṣe ninu ẹrọ aṣàwákiri ayelujara. Intafeesi fun ohun elo naa le ṣee dalara nipasẹ lilo awọn ile ikowesi UI ti giga fun awọn ohun elo igbalode. With each component existing on its own, it is also straightforward to pull components out and add new ones as the product is trialed with users without adversely affecting the product as a whole.
+Titẹle aṣeyọri ti apa owo Ethereum ati aṣàwákiri ayelujara ti Ethereum, intafeesi pataki julọ ti o jẹ fifihan si olumulo kan jẹ gbigbalejo ninu ohun elo Electron. Electron jẹ imọ-ẹrọ giga ti o jẹ ṣiṣafihan nipasẹ Github lati ṣẹda awọn ohun elo ti ode oni. Niwọnti Vespucci ko jẹ sisopọ mọ awọn API ti o da lori kọ̀mpútà àgbétẹ́lẹ̀ amọ sa, o tun ṣee ṣe lati gbe ohun elo yii jade lati ṣiṣe ninu ẹrọ aṣàwákiri ayelujara. Intafeesi fun ohun elo naa le ṣee dalara nipasẹ lilo awọn ile ikowesi UI ti giga fun awọn ohun elo igbalode. Pẹlu ọkọọkan ẹya ara ti o n da wa funra rẹ, o tun jẹ ọna taara lati fa awọn ẹya ara jade ati se afikun awọn tuntun bi ọja naa see jẹ didanwo pẹlu awọn olumulo lai ni ipa buruku lori ọja naa ni odidi.
 
-PLATFORM FEATURES
+AWỌN ẸYA ARA PILATIFỌỌMU
 
-* Show all parameters that were used to calculate Vespucci score.
-* Ability for the user to modify basic parameters for score configuration.
-* Display filters for cryptocoins.
+* Fi gbogbo awọn ilana ti o jẹ lilo lati ṣe iṣiro Vespucci han.
+* Agbara fun olumulo lati ṣe atunṣe awọn ilana ipilẹ fun iṣeto iṣiro.
+* Ṣafihan awọn asẹ fun awọn owo kiripito.
 * Cryptocurrency index
 * Rating system of Vespucci using 5 stars rating system
 * Show general information and characteristics of the cryptocurrency of user’s choice
