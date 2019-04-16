@@ -359,8 +359,8 @@ AWỌN ẸYA ARA PILATIFỌỌMU
 * Itan Isowo
 * Awọn iṣesi Idiju
 * Awọn atẹ ti iṣẹ lori Github
-* Activity on social networks using points on world map
-* Ability to add other utility charts through a list of parameters
+* Iṣẹ lori awọn nẹtiwọki ikanni ajọlo nipa lilo awọn ojuami lori maapu agbaye
+* Agbara lati se afikun awọn atẹ iwulo miiran nipasẹ akojọ ti awọn ilana kan
 
 USER OPTIONS
 
