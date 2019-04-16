@@ -60,9 +60,9 @@ Web Assembly מאפשר ביצועים גבוהים של יישומים רשתי
 
 ### חוזי ++Rust/C
 
-נמצא כי שפת התכנות הידועה והפופולארית ''++C'' נורא מותאמת עבור WASM. ל''++C '' תמיכת איתור באגים מאוד בשלה, וספריות. קוד הבסיס של EOS משתמש בתבניות באופן ליבראלי, ו++C מאפשר את השימוש בתבניות ועומס יתר מנהלי על מנת להגדיר זמן ריצה ללא עלות, על האימות של יחידות. The program reinitializes to clean state at the start of every message, a distinct advantage that streamlines formulation of smart contracts. The WebAssembly framework automatically rejects any transaction addressing memory inaccurately. In case dynamic memory allocation is necessary, users can depart to smart pointers because EOS.IO contracts use C++14. It is noteworthy that the first implementation of PARSEC Directed Acyclic Graph (DAG) technology is expected to be in Rust.
+נמצא כי שפת התכנות הידועה והפופולארית ''++C'' נורא מותאמת עבור WASM. ל''++C '' תמיכת איתור באגים מאוד בשלה, וספריות. קוד הבסיס של EOS משתמש בתבניות באופן ליבראלי, ו++C מאפשר את השימוש בתבניות ועומס יתר מנהלי על מנת להגדיר זמן ריצה ללא עלות, על האימות של יחידות. התוכנית מאתחלת מחדש למצב נקי בתחילתה של כל הודעה, יתרון משמעותי שמייעל את הניסוח של חוזים חכמים. מסגרת הWebAssembly דוחה באופן אוטומטי כל עסקה המביעה זיכרון בדרך לא מדויקת. במקרה והכרחי להקצות זיכרון דינאמי, משתמשים יכולים לעזוב אל מצביעים חכמים כיוון שחוזי EOS.IO משתמשים ב C++14. זה ראוי לציין כי היישום הראשון בטכנולוגיית הגרף המיוכל (DAG) של PARSEC צפוי להיות בRust.
 
-#### 3.0.2 Schema defined messages and database
+#### 3.0.2 הודעות מוגדרות בסכימה ומאגר נתונים
 
 Service contracts are standardized to provide a baseline measure of interoperability between and among disparate systems by harmonization of data models. Indeed, the Standardized Service Contract design principle advocates that service contracts be based on standardized data models. Analysis is done on the service inventory blueprint to find out the commonly occurring business documents that are exchanged between services. These business documents are then modeled in a standardized manner. The Canonical Schema pattern reduces the need for application of the data model transformation design pattern. [3]
 
