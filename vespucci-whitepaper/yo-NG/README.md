@@ -358,7 +358,7 @@ AWỌN ẸYA ARA PILATIFỌỌMU
 * Eto pinpin owo kiripito
 * Itan Isowo
 * Awọn iṣesi Idiju
-* Charts of activity on Github
+* Awọn atẹ ti iṣẹ lori Github
 * Activity on social networks using points on world map
 * Ability to add other utility charts through a list of parameters
 
@@ -411,7 +411,7 @@ Fun Iyanana Iwoyesi, ati o ṣee ṣe awọn modulu miiran pẹlu, eto **node.js
 
 Awọn orisun Vespucci **data</​​0> le ni, ṣugbọn ko pin si: awọn akọsilẹ itan iṣowo, awọn aṣa iṣowo, iṣẹ olugbedide ati iyanana erongba, pinpin awọn dukia oni-nọmba ati alaye iṣejọba, awọn alaye ati awọn adehun ati adirẹẹsi awọn iye to ku ti isinyi ati ti igba kan ati apero iyanana iwoyesi. Alaye yii le jẹ riri ni fifọnka kaakiri awọn aaye ayelujara ti aṣawakiri ti blockchain ati awọn yara itakurọsọ. Ni pato, Iyanana iwoyesi (wo [abala](https://docs.google.com/document/d/1NLr-rgF66NCBmLmPIdElltKYVPJrLVO7DZDpcNEm6OU/edit?ts=5bec2f33#heading=h.tuaauijo691s) ti o yẹ) yoo nilo data lori gbogbo owó fun akoko ti o ni opin. Eyi jẹ iye data ti o tobi pupọ atipe lati mu adinku ba ipa ti data naa yoo ni lori eto naa, a se amulo awọn ilana data nla ti afunpapọ, ikojọpọ, ati sisẹ.</p> 
 
-Storage techniques may rely on off-chain Order books developed by VLabs, which is a sophisticated data structure with high security standards. It relies on EOS.IO, and its persistence API. One advantage of such a system is that it is not expensive; on the other hand, it is sufficiently efficient for our purposes. While transactions are handled by the VDex, non-transactional data will remain off-chain.
+Awọn ilana ifipamọ le gbarale awọn iwe Ibeere alaisilori-ila ti o jẹ gbigbedide nipasẹ VLabs, eyi ti o jẹ eto data ti igbalode pẹlu awọn odiwọn aabo to ga. O gbarale ori EOS.IO, ati API alatẹnumọ rẹ. Anfani kan ti iru ti eto yii ni wipe ko gbowolori; ni ọna miiran, o se deede fun awọn eredi tiwa. While transactions are handled by the VDex, non-transactional data will remain off-chain.
 
 * ### **ATẸ ISẸLẸ**
 
@@ -461,4 +461,4 @@ This text is based on NH’s original vision docs and AA’s update on them.
 
 [17] <https://www.investopedia.com>
 
-Brackets at the end of certain references indicate the part of the paper that uses this reference.
+Awọn aami akopọ ni opin awọn itọkasi kan n safihan abala ti iwe naa ti o n lo itọkasi yii.
