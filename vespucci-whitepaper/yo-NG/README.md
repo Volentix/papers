@@ -355,9 +355,9 @@ AWỌN ẸYA ARA PILATIFỌỌMU
 * Eto ipele ipo ti Vespucci nipa lilo eto ipele ipo irawọ 5
 * Ṣafihan ifitonileti gbogbogbo ati awọn iṣesi ti owo kiripito naa ti o jẹ ti ipinnu olumulo
 * Awọn atẹ iyanana iwoyesi
-* Cryptocurrency distribution scheme
-* Transaction history
-* Technical Characteristics
+* Eto pinpin owo kiripito
+* Itan Isowo
+* Awọn iṣesi Idiju
 * Charts of activity on Github
 * Activity on social networks using points on world map
 * Ability to add other utility charts through a list of parameters
@@ -407,7 +407,7 @@ The **implementation** of the Vespucci analysis tools is in Python using various
 
 Initially, most of those processes run on Linux Virtual Machines and results are kept in SQL databases. In case of insufficiency, a serverless frameworks shall be considered. In the immediate future powerful servers with GPUs are designed to perform efficiently all of our analysis (Kubernetes may be relevant here, assuming Docker containers).
 
-For Sentiment Analysis, and possibly other modules as well, a **node.js** system is used, though alternative implementations are easily swappable. The aggregate information being recorded, and continuously being derived, storing it in a static place is a requirement for the final version of Vespucci. MongoDB can be used by the other modules in the system to read and write such information. MongoDB is a mature document-oriented database useful in storing structured information, as is the case for the data that exists in the Vespucci system. An alternative may be CockroachDB.
+Fun Iyanana Iwoyesi, ati o ṣee ṣe awọn modulu miiran pẹlu, eto **node.js** kan jẹ lilo, botilẹ jẹpe awọn imusisẹ miiran le jẹ fifirọpo ni irọrun. The aggregate information being recorded, and continuously being derived, storing it in a static place is a requirement for the final version of Vespucci. MongoDB can be used by the other modules in the system to read and write such information. MongoDB is a mature document-oriented database useful in storing structured information, as is the case for the data that exists in the Vespucci system. An alternative may be CockroachDB.
 
 Vespucci **data** sources may include, but not be limited to: historic trading records, trading trends, developer activity and plan analysis, digital asset distribution and governance information, terms and conditions and current and historic address balances as well as forum sentiment analysis. This information can be found scattered among blockchain explorer sites and chat rooms. In particular, Sentiment analysis (see relevant [section](https://docs.google.com/document/d/1NLr-rgF66NCBmLmPIdElltKYVPJrLVO7DZDpcNEm6OU/edit?ts=5bec2f33#heading=h.tuaauijo691s)) would require data on all coins for a limited period of time. This is a vast amount of data and in order to minimise the impact that data will have on the system, we employ big data techniques of compression, aggregation, and filtering.
 
