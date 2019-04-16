@@ -364,8 +364,8 @@ AWỌN ẸYA ARA PILATIFỌỌMU
 
 AWỌN ASAAYAN OLUMULO
 
-* Show all the encryption, next to the name and symbol of Vespucci’s rating.
-* Adjust rating system by selecting active Vespucci parameters.
+* Safihan gbogbo awọn aroko, tó kàngun si orukọ ati aami ti ipele ipo ti Vespucci.
+* Ṣatunto eto ipele ipo nipa yiyan awọn ilana Vespucci ti nṣiṣe lọwọ.
 * Configure rating system by selecting the priority of the basic parameters and adjusting weights.
 * Be informed separately about the effect of the basic parameters via diagrams and gain a deeper picture of those that shape the fluctuation of the value of each currency.
 * Filter the list of cryptocurrencies according to the hash rate and the chronological period they were active on the market.
