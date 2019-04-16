@@ -44,15 +44,15 @@ Vespucci משמש כמנוע לניתוח נתונים, נגיש באמצעות 
 
 ### פעולות תוכן חינמיות
 
-רב הטכניקות המדרגיות המוצעות על ידי אתריום - Ethereum (Sharding, Raiden, Plasma, ערוצי מדינה) נהיים יותר ויותר יעילים, מקבילים, ומעשיים תוך כדי וידוי של מהירות התקשורת בין בלוקצ'יינים ומניעת פגיעה במדרגיות. A Context Free Action involves computations that depend only on transaction data, and not upon the blockchain state.
+רב הטכניקות המדרגיות המוצעות על ידי אתריום - Ethereum (Sharding, Raiden, Plasma, ערוצי מדינה) נהיים יותר ויותר יעילים, מקבילים, ומעשיים תוך כדי וידוי של מהירות התקשורת בין בלוקצ'יינים ומניעת פגיעה במדרגיות. פעולת תוכן חינמית כורכת חישובים המסתמכים אך ורק על נתוני ההעברות, ולא על מעמד הבלוקצ'יין.
 
-### Binary/JSON conversion
+### המרה בינארית/JSON
 
-EOS contracts combine the human readability of JSON with the efficiency of binary.
+חוזי EOS משלבים את הקריאות האנושית של JSON עם היעילות של מאפיינים בינאריים.
 
-### Parallelization and optimization
+### מקבילות ואופטימיזציה
 
-Separating authentication from application allows faster transaction times and increases bandwidth. EOS.IO blocks are reportedly produced every 500ms.
+הפרדת האימות מהיישום מאפשרת העברה יותר מהירה ומגבירה את רוחב הפס. בלוקים של EOS.IO מיוצרים כל 500ms, על פי דיווחים.
 
 ### Web Assembly(WASM)
 
