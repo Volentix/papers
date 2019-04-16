@@ -413,7 +413,7 @@ Awọn orisun Vespucci **data</​​0> le ni, ṣugbọn ko pin si: awọn ak�
 
 Storage techniques may rely on off-chain Order books developed by VLabs, which is a sophisticated data structure with high security standards. It relies on EOS.IO, and its persistence API. One advantage of such a system is that it is not expensive; on the other hand, it is sufficiently efficient for our purposes. While transactions are handled by the VDex, non-transactional data will remain off-chain.
 
-* ### **TIMELINE**
+* ### **ATẸ ISẸLẸ**
 
 ![](https://volentix.io/file/2019/01/Web-1920-–-2@3x.png)
 
@@ -421,11 +421,11 @@ The project’s timeline is shown in the above figure. The main milestones are:
 — Vespucci MVP. November 2018 .  
 — Vespucci, version 1.0\. Osu kẹrin 2019.
 
-### **ACKNOWLEDGMENTS**
+### **AWỌN IMỌRIRI**
 
 This text is based on NH’s original vision docs and AA’s update on them.
 
-### **REFERENCES**
+### **AWỌN ITỌKASI**
 
 [1] J. Yao et al. Forecasting and Analysis of Marketing Data using Neural Networks”, Journal of Science and Engineering 14:843-862 (1998)
 
