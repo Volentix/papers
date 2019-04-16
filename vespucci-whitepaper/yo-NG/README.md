@@ -298,10 +298,10 @@ Lara awọn nkan miiran, diẹ ninu awọn ẹya ara ti o wa nilẹ nipasẹ aw�
 * odiwọn bi bulọọku se tobi to
 * onka bulọọku
 * iye owo (usd)
-* market capitalization (usd)
-* exchange volume(usd)
-* total coins mined
-* difficulty adjustment
+* iye owo-iṣowo (usd)
+* iwọn iye ipaṣipaarọ(usd)
+* iye owo to ti jẹ wiwa
+* iṣatunṣe bi o se ṣoro si
 * block reward reduction, number & time
 * net hashes per second
 * total coins mined
