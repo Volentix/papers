@@ -302,7 +302,7 @@ Lara awọn nkan miiran, diẹ ninu awọn ẹya ara ti o wa nilẹ nipasẹ aw�
 * iwọn iye ipaṣipaarọ(usd)
 * iye owo to ti jẹ wiwa
 * iṣatunṣe bi o se ṣoro si
-* block reward reduction, number & time
+* adinku ere bulọọku, nọmba & akoko
 * net hashes per second
 * total coins mined
 
