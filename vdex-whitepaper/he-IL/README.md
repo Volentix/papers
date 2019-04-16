@@ -56,11 +56,11 @@ Vespucci משמש כמנוע לניתוח נתונים, נגיש באמצעות 
 
 ### Web Assembly(WASM)
 
-Web Assembly enables high-performance Web applications and also secures each application in its own sandbox, through which functionalities VDex can obtain network access, filesystem namespace restrictions, and enforced rule-based execution.
+Web Assembly מאפשר ביצועים גבוהים של יישומים רשתיים ומאבטח כל יישום בארגז חול משלו, אשר דרך פונקציות אלו VDex יכול לשמר גישה רשתית, נגבלות בשמות ובקבצים של המערכת, ואכיפת ביצועים המבוססים על כללים.
 
-### Rust/C++ contracts
+### חוזי ++Rust/C
 
-The well-known and popular programming language C++ appears highly suitable for WASM. C++ has highly mature debugging support and libraries. The EOS codebase uses templates liberally, and C++ allows the use of templates and operator overloading to define a runtime cost-free validation of units. The program reinitializes to clean state at the start of every message, a distinct advantage that streamlines formulation of smart contracts. The WebAssembly framework automatically rejects any transaction addressing memory inaccurately. In case dynamic memory allocation is necessary, users can depart to smart pointers because EOS.IO contracts use C++14. It is noteworthy that the first implementation of PARSEC Directed Acyclic Graph (DAG) technology is expected to be in Rust.
+נמצא כי שפת התכנות הידועה והפופולארית ''++C'' נורא מותאמת עבור WASM. ל''++C '' תמיכת איתור באגים מאוד בשלה, וספריות. קוד הבסיס של EOS משתמש בתבניות באופן ליבראלי, ו++C מאפשר את השימוש בתבניות ועומס יתר מנהלי על מנת להגדיר זמן ריצה ללא עלות, על האימות של יחידות. The program reinitializes to clean state at the start of every message, a distinct advantage that streamlines formulation of smart contracts. The WebAssembly framework automatically rejects any transaction addressing memory inaccurately. In case dynamic memory allocation is necessary, users can depart to smart pointers because EOS.IO contracts use C++14. It is noteworthy that the first implementation of PARSEC Directed Acyclic Graph (DAG) technology is expected to be in Rust.
 
 #### 3.0.2 Schema defined messages and database
 
