@@ -24,15 +24,15 @@ Venue היא פלטפורמה דינאמית לקהילה, שמגייסת ומא
 
 ### 2.2 VERTO
 
-Verto מעוצב כארנק רב-מטבעות לשימוש עם ''חלפן הכספים'' המבוזר VDex, המכוון להקל על ניהול אישי ומקומי של מפתחות פרטיים וציבוריים בעסקאות בין עמית- לעמית, עם המטרה לחיסול סיכון של ספיגת אבידות כבדות המשויכות לכשלים טראומטיים של מפעילים מרכזיים. Verto plans to employ a system of smart contracts to maintain the state between two trading clients, the simplest operations being accomplished with atomic swaps.[1]
+Verto מעוצב כארנק רב-מטבעות לשימוש עם ''חלפן הכספים'' המבוזר VDex, המכוון להקל על ניהול אישי ומקומי של מפתחות פרטיים וציבוריים בעסקאות בין עמית- לעמית, עם המטרה לחיסול סיכון של ספיגת אבידות כבדות המשויכות לכשלים טראומטיים של מפעילים מרכזיים. Verto מתכנן להעסיק מערכת של חוזים חכמים בכדי לשמר את המצב המסחרי בין שני לקוחות, הפעולות הפשוטות ביותר שניתן להשיג עם חילופים אטומיים.[1]
 
 ### 2.3 VESPUCCI
 
-Vespucci is envisioned as an analytics engine accessible via a user-friendly interface with treasure troves of real-time and historical market data, such as digital assets ratings and sentiment analysis. We wish to empower users with tools to graph and compare tradeable digital assets, to access and parse historical trading records, to plot trends and patterns, and to monitor and assess open-source software developments. Vespucci seeks to bring to your fingertips confident and comprehensive market-relevant data by aggregating the information currently scattered throughout many different blockchains, websites, chat rooms, and exchanges.
+Vespucci משמש כמנוע לניתוח נתונים, נגיש באמצעות הממשק הידידותי למשתמש, עם אוצרות שוק בזמן אמת ונתוני שוק היסטוריים, כגון דירוגים של נכסים דיגיטליים ו''כריית דעות''. אנו מייחלים לחיזוק המשתמשים עם כלים, כמו גרפים להשוואת נכסים דיגיטליים סחירים, גישה וניתוח רשומות מסחר היסטוריות, וזה בכדי ליזום טרנדים ודפוסים, וגם לפקח ולהעריך את ההתפתחויות בתוכנת הקוד הפתוח. Vespucci מביא לך באופן בטוח ומקיף מידע שוק רלוונטי, על ידי מיון המידע המפוזר במקומות שונים כמו בלוקצ'יינים, אתרים, חדרי צ'אטים, ו''חלפני כספים''.
 
 ### 2.4 VDEX
 
-The fourth pillar of Volentix, the VDex exchange, is the tradable digital assets platform introduced in detail in this white paper. For smooth and secure usability, we plan VDex to integrate with your own personal Verto wallet and Vespucci interface. We expect VDex to be able to manage transactions involving both VTX and the vast array of digital assets and blockchains extant from time to time throughout the world. We are developing Venue as a complementary adjunct primarily in order to incentivize and drive native VTX-based initiatives.
+עמוד התווך הרביעי של Volentix, ''חלפן הכספים VDex'', הינו פלטפורמת נכסים דיגיטלית המוצגת בפירוט ברשימה לבנה זו. עבור שימוש חלק ומאובטח, אנו מתכננים לשלב את הVDEX לתוך ארנק הVERTO האישי שלך, ובנוסף אל ממשק הVESPUCCI למשתמש. אנו מצפים כי VDex יהיה מסוגל לנהל העברות הקשורות גם כן לVTX, ואשר נכללות במגוון רחב של נכסים דיגיטליים ובלוקצ'יינים קיימים מעת לעת ברחבי העולם. We are developing Venue as a complementary adjunct primarily in order to incentivize and drive native VTX-based initiatives.
 
 ## 3. עיצוב מבני
 
