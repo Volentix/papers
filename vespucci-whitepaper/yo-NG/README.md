@@ -64,7 +64,7 @@ Awọn opo mẹtẹta ni a ṣe apejuwe wọn ninu awọn ẹya abala wọnyii. 
 
 Lati le ṣe ayẹwo Vespucci ninu igbejade kan to fẹẹrẹ jẹ gbogbogbo nipa lilo awọn olujọwọ ara ẹni ti a fojusun, eto naa n jẹ fifihan lọwọlọwọ yii si orisirisi awọn olumulo ti ita fun ayẹwo fun asise ninu agbeyẹwo awọn iṣẹ eto, ati UI naa. O jẹ ṣiṣe ninu eto ti oju gbangba nipasẹ ajọ ti igbejade beta pipade. Awọn olumulo jẹ yiyan lati faye gba alaye esi idahun alatunṣe ati to wulo. Ilana atẹnumọ awọn ayipada, awọn atunṣe, ati awọn atunto to nlọ lọwọ yoo waye ni akoko igbejade ti beta lati inu oye ti o wa lati inu esi idahun olumulo
 
-* ### **PILARS**
+* ### **AWỌN OPO**
 
 * #### **IYANANA IWOYESI**
 
@@ -291,12 +291,12 @@ Lara awọn nkan miiran, diẹ ninu awọn ẹya ara ti o wa nilẹ nipasẹ aw�
 * onka iye isanwo
 * awọn adirẹsi ti n ṣiṣe lọwọ
 * awọn owo
-* median fee
-* generated coins
-* average difficulty
-* median transaction value (usd)
-* block size
-* block count
+* owo median
+* awọn owo ti a wa jade
+* agbede bi inira se to
+* iye iṣowo median (usd)
+* odiwọn bi bulọọku se tobi to
+* onka bulọọku
 * iye owo (usd)
 * market capitalization (usd)
 * exchange volume(usd)
