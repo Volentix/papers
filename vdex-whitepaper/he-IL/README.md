@@ -24,11 +24,11 @@ Venue היא פלטפורמה דינאמית לקהילה, שמגייסת ומא
 
 ### 2.2 VERTO
 
-Verto מעוצב כארנק רב-מטבעות לשימוש עם ''חלפן הכספים'' המבוזר VDex, המכוון להקל על ניהול אישי ומקומי של מפתחות פרטיים וציבוריים בעסקאות בין עמית- לעמית, עם המטרה לחיסול סיכון של ספיגת אבידות כבדות המשויכות לכשלים טראומטיים של מפעילים מרכזיים. Verto מתכנן להעסיק מערכת של חוזים חכמים בכדי לשמר את המצב המסחרי בין שני לקוחות, הפעולות הפשוטות ביותר שניתן להשיג עם חילופים אטומיים.[1]
+Verto מעוצב כארנק רב-מטבעות לשימוש עם ''חלפן הכספים'' המבוזר VDex, המכוון להקל על ניהול אישי ומקומי של מפתחות פרטיים וציבוריים בעסקאות בין עמית- לעמית, עם המטרה לחיסול סיכון של ספיגת אבידות כבדות המשויכות לכשלים טראומטיים של מפעילים מרכזיים. Verto משתמש במערכת של חוזים חכמים בכדי לשמר את המצב בין שני לקוחות המבצעים העברות, הפעולות הפשוטות ביותר שניתן להשיג עם חילופי מסחר ישירים.[1]
 
 ### 2.3 VESPUCCI
 
-Vespucci משמש כמנוע לניתוח נתונים, נגיש באמצעות הממשק הידידותי למשתמש, עם אוצרות שוק בזמן אמת ונתוני שוק היסטוריים, כגון דירוגים של נכסים דיגיטליים ו''כריית דעות''. אנו מייחלים לחיזוק המשתמשים עם כלים, כמו גרפים להשוואת נכסים דיגיטליים סחירים, גישה וניתוח רשומות מסחר היסטוריות, וזה בכדי ליזום טרנדים ודפוסים, וגם לפקח ולהעריך את ההתפתחויות בתוכנת הקוד הפתוח. Vespucci מביא לך באופן בטוח ומקיף מידע שוק רלוונטי, על ידי מיון המידע המפוזר במקומות שונים כמו בלוקצ'יינים, אתרים, חדרי צ'אטים, ו''חלפני כספים''.
+Vespucci משמש כמנוע לניתוח נתונים, נגיש באמצעות הממשק הידידותי למשתמש, עם נתוני שוק היסטוריים ונתונים בזמן אמת, כגון דירוגים של נכסים דיגיטליים ו''כריית דעות''. מטרתינו היא לחזק את המשתמשים עם כלים כדי לגרף להשווות נכסים דיגיטליים סחירים, בכדי לגשת ולנתח רשומות מסחר היסטוריות, ליזום טרנדים ודפוסים, וכמו כן לפקח ולהעריך את ההתפתחויות בתוכנת הקוד הפתוח. Vespucci מביא לך באופן בטוח ומקיף מידע שוק רלוונטי, על ידי מיון המידע המפוזר במקומות שונים כמו בלוקצ'יינים, אתרים, חדרי צ'אטים, ו''חלפני כספים''.
 
 ### 2.4 VDEX
 
@@ -64,9 +64,9 @@ Web Assembly מאפשר ביצועים גבוהים של יישומים רשתי
 
 #### 3.0.2 הודעות מוגדרות בסכימה ומאגר נתונים
 
-Service contracts are standardized to provide a baseline measure of interoperability between and among disparate systems by harmonization of data models. Indeed, the Standardized Service Contract design principle advocates that service contracts be based on standardized data models. Analysis is done on the service inventory blueprint to find out the commonly occurring business documents that are exchanged between services. These business documents are then modeled in a standardized manner. The Canonical Schema pattern reduces the need for application of the data model transformation design pattern. [3]
+חוזי שירות מתוקננים על מנת לספק מידה בסיסית של יכולת פעולה הדדית בין מערכות שונות על-ידי הרמון מודלים של נתונים. אכן, עיקרון השירות של עיצוב חוזים סטנדרטיים תומך בביסוס חוזי שירות על מודלים סטנדרטיים של נתונים. Analysis is done on the service inventory blueprint to find out the commonly occurring business documents that are exchanged between services. מסמכים עסקיים אלו מעוצבים בצורה סטנדרטית. תבנית הסכימה הקנונית מפחיתה את הצורך ביישום הטרנספורמציה בדפוסי עיצוב של מודלי נתונים. [3]
 
-#### 3.0.3 Inter-Contract Communication
+#### 3.0.3 תקשורת בין חוזים
 
 Data is shared between contracts via an oracle, which, "in the context of blockchains and smart contracts, is an agent that finds and verifies real-world occurrences and submits this information to a blockchain to be used by smart contracts.” [4] Every node will have an identical copy of these data, for use in smart contract computation. Rather than the smart contract functioning to pull the data, instead the oracle pushes the data onto the blockchain. In the instance of a blockchain, most reading of the data is done via polling "models" in order to monitor blockchain state and to perform certain responsive actions.
 
