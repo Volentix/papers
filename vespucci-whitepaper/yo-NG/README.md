@@ -303,10 +303,10 @@ Lara awọn nkan miiran, diẹ ninu awọn ẹya ara ti o wa nilẹ nipasẹ aw�
 * iye owo to ti jẹ wiwa
 * iṣatunṣe bi o se ṣoro si
 * adinku ere bulọọku, nọmba & akoko
-* net hashes per second
-* total coins mined
+* apapọ hash ni iṣẹju aaya kọọkan
+* iye owo to ti jẹ wiwa
 
-**Source Code – Developer activity**
+**Orisun koodu - Iṣẹ olugbedide**
 
 Abala kan wa ti o jẹ ti iyanana iwọn oniye lati apa irisi ibasepọ ti o n wo ikopa ti awujọ olugbedide ti o yi iṣẹ akanse naa ka, eyiti o ni ibatan pẹlu Iyanana Iwoyesi. Iwadi sinu awọn osuwọn ti o n ṣe afihan to peye ti awọn iwọn ikopa ti awujọ ati ti ikopa awọn oluṣẹda pẹlu ma jẹ gbigbe yẹwo. Awọn okunfa naa le jẹ awọn ohun wọnyi amọ ko pin si awọn ohun wọnyi:
 
@@ -344,7 +344,7 @@ Vespucci ni intafeesi olumulo (UI) kan eyiti o n fayegba lati tẹ iwọn aala w
 
 Intafeesi abajade n pese aworan oniṣubu, to n pese atọka fun awọn abala to se faagun ti o n safihan awọn oṣuwọn ti a yan ni kikun. Aworan oniṣubu n ṣafihan alaye isọniṣoki ipele ipo ti alaroko-awọ ti owo kiripito. Iṣiro ipele ipo ti alaroko-awọ n jẹ ṣiṣe nipa lilo agbede iwọn ti apapọ gbogbo agbeyẹwo awọn osuwọn. Ọkọọkan abala ti o ṣe faagun n ṣafihan osuwọn tabi ẹgbẹ ti awọn osuwọn ni ọna aworan onila. Agbeyẹwo awọn osuwọn ti jẹ yiyasọtọ si oriṣiriṣi awọn abala dida lori alaye ti wọn duro fun gẹgẹbi data ti o nii ṣe pẹlu irisi ibasepọ tabi irisi idiju. Ṣiṣe atọka ẹlẹyẹ julọ ti agbeyẹwo awọn osuwọn waye lati fayegba ifọrọwerọ alatinumọ ti UI ni wiwọle si ati iwo data ti a nifẹsi fun olumulo naa.
 
-Titẹle aṣeyọri ti apa owo Ethereum ati aṣàwákiri ayelujara ti Ethereum, intafeesi pataki julọ ti o jẹ fifihan si olumulo kan jẹ gbigbalejo ninu ohun elo Electron. Electron jẹ imọ-ẹrọ giga ti o jẹ ṣiṣafihan nipasẹ Github lati ṣẹda awọn ohun elo ti ode oni. Since Vespucci is not tied to Desktop-based APIs however, it is also possible to port this application to run inside of a browser. The interface for the app can be designed by using mature UI libraries for modern applications. With each component existing on its own, it is also straightforward to pull components out and add new ones as the product is trialed with users without adversely affecting the product as a whole.
+Titẹle aṣeyọri ti apa owo Ethereum ati aṣàwákiri ayelujara ti Ethereum, intafeesi pataki julọ ti o jẹ fifihan si olumulo kan jẹ gbigbalejo ninu ohun elo Electron. Electron jẹ imọ-ẹrọ giga ti o jẹ ṣiṣafihan nipasẹ Github lati ṣẹda awọn ohun elo ti ode oni. Niwọnti Vespucci ko jẹ sisopọ mọ awọn API ti o da lori kọ̀mpútà àgbétẹ́lẹ̀ amọ sa, o tun ṣee ṣe lati gbe ohun elo yii jade lati ṣiṣe ninu ẹrọ aṣàwákiri ayelujara. The interface for the app can be designed by using mature UI libraries for modern applications. With each component existing on its own, it is also straightforward to pull components out and add new ones as the product is trialed with users without adversely affecting the product as a whole.
 
 PLATFORM FEATURES
 
