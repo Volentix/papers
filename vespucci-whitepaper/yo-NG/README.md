@@ -369,7 +369,7 @@ AWỌN ASAAYAN OLUMULO
 * Ṣeto eto ipele ipo nipa yiyan eyi to ṣe pataki julọ ninu awọn ilana ipilẹ naa ati ṣiṣe atunto awọn iwọn.
 * Be informed separately about the effect of the basic parameters via diagrams and gain a deeper picture of those that shape the fluctuation of the value of each currency.
 * Filter the list of cryptocurrencies according to the hash rate and the chronological period they were active on the market.
-* View cryptocurrency features in detail.
+* Wo awọn ẹya ara owo kiripito ni kikun.
 
 ![](https://volentix.io/file/2019/01/main-dashboard-–-3@3x.png)
 
@@ -379,7 +379,7 @@ A ti ṣọrọ nipa awọn ọna pataki mẹta ti ẹka-eto ti Iyanana Awọn �
 
 Awọn abajade ti gbogbo awọn ẹya ara mẹtẹta pẹlu awọn isipopada iye owo ti o wa ni ibaamu (idiyele ti o wa ni idakeji si ewu) fun oriṣiriṣi awọn feremu ti o jasi ipele ipo ti awọn owo kiripito naa ati awọn aami ni ọna gbogbogbo pipe julọ ti ko ti sẹlẹ ri. Eyi wa pẹlu Igbẹhin-isaayan fun awọn eniyan.
 
-Regarding extensibility, Vespucci is particularly useful for Ethereum-based tokens. This represents many of the most exciting tradeable tokens today, but many new smart contract systems are being developed with their own very particular virtual machines and execution runtimes. This module can be seen as a specific instantiation of a number of other such modules which could be built for future smart contract systems. In particular, systems are likely to appear that expose a semantics especially amenable to formal verification, at which point Vespucci will be extended with new modules resembling this one for each new smart contract system that supports a range of valuable tokens. Overtime, and with the main pillars firmy rooted, the system is envisioned to also provide price prediction.
+Nipa ifaagunsi, Vespucci paapaa julọ wulo fun awọn aami ti o da lori Ethereum. This represents many of the most exciting tradeable tokens today, but many new smart contract systems are being developed with their own very particular virtual machines and execution runtimes. This module can be seen as a specific instantiation of a number of other such modules which could be built for future smart contract systems. In particular, systems are likely to appear that expose a semantics especially amenable to formal verification, at which point Vespucci will be extended with new modules resembling this one for each new smart contract system that supports a range of valuable tokens. Overtime, and with the main pillars firmy rooted, the system is envisioned to also provide price prediction.
 
 **Deep learning and AI** are powerful technologies under rapid development today and may be employed in other parts of the Vespucci system besides the final phase of outputting the overall score. Below is a sketch of a basic neural network with a single hidden layer. Today’s deep networks have a multitude of such layers, whose power we shall exploit. Neural networks “learn” the appropriate weights by back-propagation. An important question is therefore the learning phase where historical data on cryptocurrencies, properly labeled, shall be employed. One issue is that the available data is limited and its labels may need curation: the created dataset shall become openly accessible as a contribution to the community.
 
