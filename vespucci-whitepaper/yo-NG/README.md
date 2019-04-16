@@ -366,18 +366,18 @@ AWỌN ASAAYAN OLUMULO
 
 * Safihan gbogbo awọn aroko, tó kàngun si orukọ ati aami ti ipele ipo ti Vespucci.
 * Ṣatunto eto ipele ipo nipa yiyan awọn ilana Vespucci ti nṣiṣe lọwọ.
-* Configure rating system by selecting the priority of the basic parameters and adjusting weights.
+* Ṣeto eto ipele ipo nipa yiyan eyi to ṣe pataki julọ ninu awọn ilana ipilẹ naa ati ṣiṣe atunto awọn iwọn.
 * Be informed separately about the effect of the basic parameters via diagrams and gain a deeper picture of those that shape the fluctuation of the value of each currency.
 * Filter the list of cryptocurrencies according to the hash rate and the chronological period they were active on the market.
 * View cryptocurrency features in detail.
 
 ![](https://volentix.io/file/2019/01/main-dashboard-–-3@3x.png)
 
-* ### **OVERALL ARCHITECTURE AND IMPLEMENTATION**
+* ### **IYAWORAN LAPAPỌ ATI IMUṢIṢẸ**
 
-We have discussed the three main subsystems of Fundamental / Technological Analysis, Technical Analysis, and Sentiment Analysis. All three pillars are imperfect. Siwaju si, awọn oluyanana ti o ni iriri julọ nikan ni o le da gbogbo awọn ọna mẹtẹta papọ mọra ni ilana ipele ipo kan. Iṣiro ikẹhin fun ọkọọkan owo kiripito da lori ọkọọkan awọn ẹya ara mẹta naa, ti o jẹ wiwọn boya nipasẹ awọn iwọn aiyipada tabi nipasẹ awọn iwọn ti o jẹ pipese nipasẹ olumulo. Niwọn ti a jẹ olugbagbọ gidi ninu iwulo ti imọ-ẹrọ naa ati iwulo ti awọn ẹgbẹ to wa lẹhin owo kiripito kọọkan, FTA ati, paapa julọ, awọn abala imọ-ẹrọ ti gba iwọn apapọ ti o jẹ 50% latilẹwa. Dida lori iwadi ati idanwo ti awọn ohun elo agbeyẹwo, awọn iwọn ti o yẹ jẹ wiwari lati ṣe odiwọn iye ifẹsẹmulẹ ti owo kan. A n lo awọn aṣeyọri to waye laipẹ yii ninu awọn nẹtiwọki neural ti o jinlẹ lati le ṣe akanpọ awọn iṣiro ni alaifọwọyi laisi ilọwọsi ti eniyan lati le yago fun iṣegbelẹhin onitaara tabi ẹlẹlọ.
+A ti ṣọrọ nipa awọn ọna pataki mẹta ti ẹka-eto ti Iyanana Awọn ọja / Awọn ohun elo, Iyanana Idiju, ati Iyanana Iwoyesi. Gbogbo awọn opo mẹtẹta jẹ alaipe. Siwaju si, awọn oluyanana ti o ni iriri julọ nikan ni o le da gbogbo awọn ọna mẹtẹta papọ mọra ni ilana ipele ipo kan. Iṣiro ikẹhin fun ọkọọkan owo kiripito da lori ọkọọkan awọn ẹya ara mẹta naa, ti o jẹ wiwọn boya nipasẹ awọn iwọn aiyipada tabi nipasẹ awọn iwọn ti o jẹ pipese nipasẹ olumulo. Niwọn ti a jẹ olugbagbọ gidi ninu iwulo ti imọ-ẹrọ naa ati iwulo ti awọn ẹgbẹ to wa lẹhin owo kiripito kọọkan, FTA ati, paapa julọ, awọn abala imọ-ẹrọ ti gba iwọn apapọ ti o jẹ 50% latilẹwa. Dida lori iwadi ati idanwo ti awọn ohun elo agbeyẹwo, awọn iwọn ti o yẹ jẹ wiwari lati ṣe odiwọn iye ifẹsẹmulẹ ti owo kan. A n lo awọn aṣeyọri to waye laipẹ yii ninu awọn nẹtiwọki neural ti o jinlẹ lati le ṣe akanpọ awọn iṣiro ni alaifọwọyi laisi ilọwọsi ti eniyan lati le yago fun iṣegbelẹhin onitaara tabi ẹlẹlọ.
 
-Awọn abajade ti gbogbo awọn ẹya ara mẹtẹta pẹlu awọn isipopada iye owo ti o wa ni ibaamu (idiyele ti o wa ni idakeji si ewu) fun oriṣiriṣi awọn feremu ti o jasi ipele ipo ti awọn owo kiripito naa ati awọn aami ni ọna gbogbogbo pipe julọ ti ko ti sẹlẹ ri. This is coupled with Post-processing for humans.
+Awọn abajade ti gbogbo awọn ẹya ara mẹtẹta pẹlu awọn isipopada iye owo ti o wa ni ibaamu (idiyele ti o wa ni idakeji si ewu) fun oriṣiriṣi awọn feremu ti o jasi ipele ipo ti awọn owo kiripito naa ati awọn aami ni ọna gbogbogbo pipe julọ ti ko ti sẹlẹ ri. Eyi wa pẹlu Igbẹhin-isaayan fun awọn eniyan.
 
 Regarding extensibility, Vespucci is particularly useful for Ethereum-based tokens. This represents many of the most exciting tradeable tokens today, but many new smart contract systems are being developed with their own very particular virtual machines and execution runtimes. This module can be seen as a specific instantiation of a number of other such modules which could be built for future smart contract systems. In particular, systems are likely to appear that expose a semantics especially amenable to formal verification, at which point Vespucci will be extended with new modules resembling this one for each new smart contract system that supports a range of valuable tokens. Overtime, and with the main pillars firmy rooted, the system is envisioned to also provide price prediction.
 
