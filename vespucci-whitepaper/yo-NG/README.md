@@ -362,7 +362,7 @@ AWỌN ẸYA ARA PILATIFỌỌMU
 * Iṣẹ lori awọn nẹtiwọki ikanni ajọlo nipa lilo awọn ojuami lori maapu agbaye
 * Agbara lati se afikun awọn atẹ iwulo miiran nipasẹ akojọ ti awọn ilana kan
 
-USER OPTIONS
+AWỌN ASAAYAN OLUMULO
 
 * Show all the encryption, next to the name and symbol of Vespucci’s rating.
 * Adjust rating system by selecting active Vespucci parameters.
