@@ -68,13 +68,13 @@ Web Assembly מאפשר ביצועים גבוהים של יישומים רשתי
 
 #### 3.0.3 תקשורת בין חוזים
 
-Data is shared between contracts via an oracle, which, "in the context of blockchains and smart contracts, is an agent that finds and verifies real-world occurrences and submits this information to a blockchain to be used by smart contracts.” [4] Every node will have an identical copy of these data, for use in smart contract computation. Rather than the smart contract functioning to pull the data, instead the oracle pushes the data onto the blockchain. In the instance of a blockchain, most reading of the data is done via polling "models" in order to monitor blockchain state and to perform certain responsive actions.
+נתוני מידע מתחלקים בין חוזים באמצעות האורקל (oracle), אשר כפי שכתוב בתכני הבלוקצ'יינים והחוזים החכמים, הינו סוכן שמוצא ומאשר התרחשויות עולם אמיתי ומגיש את המידע הזה לבלוקצ'יין לשימושו בחוזים חכמים. [4] לכל צומת רשתית יהיה עותק זהה של נתונים אלה, לשימוש בחישוב של חוזים חכמים. במקום שהחוזה החכם יאסוף את הנתונים, האורקל דוחף את הנתונים על גבי הבלוקצ'יין. במקרה של כל בלוקצ'יין, רב הקריאה של הנתונים נעשית באמצעות סקירת ''מודלים'' בכדי לעקוב אחר הסטטוס של הבלוקצ'יין ועל מנת לבצע פעולות תגובה מסוימות.
 
 #### 3.0.4 שרשורי צד
 
-In EOS.IO, issuance of a digital asset creates a sidechain, which is an emerging mechanism permitting digital assets from one blockchain to be securely used in a separate blockchain and then moved back to the original blockchain. Efficiency of processing is promoted by creating multiple sidechains. A TCP-like communication channel between different blockchains evaluates proofs. For each shard (a unit of parallelizable execution in a cycle), a balanced merkle tree is constructed of these action commitments to generate a temporary shared merkle root; this is done for speed of parallel computation. The block header contains the root of a balanced merkle tree the leaves of which are the roots of these individual shard merkle trees. [2]
+ב- EOS.IO, הנפקה של נכס דיגיטלי יוצרת שרשרת צד, דבר זה הוא מנגנון המתיר שימוש מאובטח של נכסים דיגיטליים מבלוקצ'יין אחד לאחר, ומאפשר את חזרתם לבלוקצ'יין המקורי. יעילות העיבוד מקודמת על-ידי יצירת שרשראות-צד מרובות. ערוץ תקשורת דמוי-TCP בין בלוקצ'יינים שונים מעריך הוכחות. For each shard (a unit of parallelizable execution in a cycle), a balanced merkle tree is constructed of these action commitments to generate a temporary shared merkle root; this is done for speed of parallel computation. The block header contains the root of a balanced merkle tree the leaves of which are the roots of these individual shard merkle trees. [2]
 
-#### 3.0.5 Liquidity
+#### 3.0.5 הנזלה
 
 A digital asset is liquid if it is easily sold or purchased in ordinary trading volumes without a significant short-term impact on its prevailing market price. In order to achieve such a status, traditionally any tradable asset must surmount a trading volume threshold sufficient to support stability. Specifically, we anticipate adopting the following methodologies: Loopring protocol with the use of EOS.IO contracts acting as nodes.[5] Bancor algorithm used to bring stability to the digital asset.[6] Toggles between these protocols and HTLC (atomic swaps) according to Vespucci analyses on the VDex network.
 
