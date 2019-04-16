@@ -353,8 +353,8 @@ AWỌN ẸYA ARA PILATIFỌỌMU
 * Ṣafihan awọn asẹ fun awọn owo kiripito.
 * Atọka owo kiripito
 * Eto ipele ipo ti Vespucci nipa lilo eto ipele ipo irawọ 5
-* Show general information and characteristics of the cryptocurrency of user’s choice
-* Sentiment analysis charts
+* Ṣafihan ifitonileti gbogbogbo ati awọn iṣesi ti owo kiripito naa ti o jẹ ti ipinnu olumulo
+* Awọn atẹ iyanana iwoyesi
 * Cryptocurrency distribution scheme
 * Transaction history
 * Technical Characteristics
