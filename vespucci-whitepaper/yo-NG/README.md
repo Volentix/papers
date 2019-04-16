@@ -351,8 +351,8 @@ AWỌN ẸYA ARA PILATIFỌỌMU
 * Fi gbogbo awọn ilana ti o jẹ lilo lati ṣe iṣiro Vespucci han.
 * Agbara fun olumulo lati ṣe atunṣe awọn ilana ipilẹ fun iṣeto iṣiro.
 * Ṣafihan awọn asẹ fun awọn owo kiripito.
-* Cryptocurrency index
-* Rating system of Vespucci using 5 stars rating system
+* Atọka owo kiripito
+* Eto ipele ipo ti Vespucci nipa lilo eto ipele ipo irawọ 5
 * Show general information and characteristics of the cryptocurrency of user’s choice
 * Sentiment analysis charts
 * Cryptocurrency distribution scheme
