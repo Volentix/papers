@@ -385,7 +385,7 @@ Nipa ifaagunsi, Vespucci paapaa julọ wulo fun awọn aami ti o da lori Ethereu
 
 ![](https://volentix.io/file/2019/01/1-2.jpg)
 
-Nikẹhin, a mẹnuba awọn ero ọlọgbọn meji ti o ma jẹ mimulo ni ipele yii: (a) Awọn imuṣiṣẹ ti awọn irinṣẹ ẹkọ-kikọ ti o jẹ pinpin ni ibasepọ pẹlu akọmọna alaisilojukan ti Vespucci. (b) Aggregation of the neural networks that may be employed in one or more of the three pillars into a final score to be computed by an overall machine learning tool.
+Nikẹhin, a mẹnuba awọn ero ọlọgbọn meji ti o ma jẹ mimulo ni ipele yii: (a) Awọn imuṣiṣẹ ti awọn irinṣẹ ẹkọ-kikọ ti o jẹ pinpin ni ibasepọ pẹlu akọmọna alaisilojukan ti Vespucci. (b) Akopapọ ti awọn nẹtiwọki neural naa ti o le jẹ mimulo ninu ọkan tabi jubẹ lọ ti awọn opo mẹtẹta sinu isiro ikẹhin lati jẹ ṣisiro papọ nipasẹ irinsẹ ẹrọ ikẹkọ gbogbogbo.
 
 The **pipeline of Vespucci**, as shown in the figure below, consists of a computer cluster, having nodes for listening (Vespucci Listeners, or Aggregators) the aforementioned sources, such as social media (Twitter, Facebook, reddit), coin sites (coinmarketcap.com), Github etc, and nodes that could perform the analysis step of the collected data (Vespucci Analyzers). The results are kept in a database (e.g. SQL) to which the user has access through the interface and programmatically by an API.
 
