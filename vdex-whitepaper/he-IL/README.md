@@ -40,11 +40,11 @@ Vespucci משמש כמנוע לניתוח נתונים, נגיש באמצעות 
 
 #### מערכת הפעלה 3.0.1
 
-אנו הערכנו והאמדנו מערכות הפעלה רבות כמועמדים לבניה של '' חלפן הכספים VDex ''. למרות כי אנו מכבדים את העבודה הנעשתה על-ידי מספר מנהיגים מייסדים של נכסים דיגיטליים וטכנולוגיות הבלוקצ'יין, בין פורצי דרך אלו, העבודה של EOS.IO כמערכת הפעלה- מאין מסגרת בה יישומים מבוזרים יכולים להיבנות, יוצאת דופן ומשמשת כדוגמת מופת, על פי דעתנו. התוכנה מספקת חשבונות, האמתה, מאגרי מידע, תקשורת אסינכרונית (מתאפשרת בזמנים שונים), וקביעה של אשכולות רוחביות. רכיבים ופרוטוקולים כבר מובנים לתוך הפלטפורמה, ומצע משני יכול לשמש בכדי לספק את דרישות הVDex שלנו. VDex will initially benefit from the standard features offered by EOS.IO such as account and wallet creation and the recovery of stolen keys, but we plan subsequently to implement protocols for creation of a decentralized exchange through EOS contracts and other tools.[2] Here is a summary of encouraging methodologies:
+אנו הערכנו והאמדנו מערכות הפעלה רבות כמועמדים לבניה של '' חלפן הכספים VDex ''. למרות כי אנו מכבדים את העבודה הנעשתה על-ידי מספר מנהיגים מייסדים של נכסים דיגיטליים וטכנולוגיות הבלוקצ'יין, בין פורצי דרך אלו, העבודה של EOS.IO כמערכת הפעלה- מאין מסגרת בה יישומים מבוזרים יכולים להיבנות, יוצאת דופן ומשמשת כדוגמת מופת, על פי דעתנו. התוכנה מספקת חשבונות, האמתה, מאגרי מידע, תקשורת אסינכרונית (מתאפשרת בזמנים שונים), וקביעה של אשכולות רוחביות. רכיבים ופרוטוקולים כבר מובנים לתוך הפלטפורמה, ומצע משני יכול לשמש בכדי לספק את דרישות הVDex שלנו. VDex תחילה יטיב מהתכונות הסטנדרטיות המובאות מאת EOS.IO, כגון יצירה של חשבונות וארנקים והשחזור של מפתחות גנובים/אבודים, אך לאחר מכן אנו מתכננים להביא ליישום נהלים תקניים עבור יצירת ''חלפן כספים'' מבוזר דרך חוזי EOS וכלים אחרים.[2] הנה נמצא סיכום כלל העקרונות ושיטות הפעולה:
 
-### Context Free Actions
+### פעולות תוכן חינמיות
 
-Most of the scalability techniques proposed by Ethereum (Sharding, Raiden, Plasma, State Channels) become more efficient, parallelizable, and practical while also ensuring speedy inter-blockchain communication and unimpaired scalability. A Context Free Action involves computations that depend only on transaction data, and not upon the blockchain state.
+רב הטכניקות המדרגיות המוצעות על ידי אתריום - Ethereum (Sharding, Raiden, Plasma, ערוצי מדינה) נהיים יותר ויותר יעילים, מקבילים, ומעשיים תוך כדי וידוי של מהירות התקשורת בין בלוקצ'יינים ומניעת פגיעה במדרגיות. A Context Free Action involves computations that depend only on transaction data, and not upon the blockchain state.
 
 ### Binary/JSON conversion
 
