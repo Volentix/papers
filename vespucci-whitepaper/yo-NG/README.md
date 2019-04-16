@@ -409,7 +409,7 @@ Initially, most of those processes run on Linux Virtual Machines and results are
 
 Fun Iyanana Iwoyesi, ati o ṣee ṣe awọn modulu miiran pẹlu, eto **node.js** kan jẹ lilo, botilẹ jẹpe awọn imusisẹ miiran le jẹ fifirọpo ni irọrun. Awọn alaye kikun n jẹ gbigba silẹ, atipe o n jẹ gbigba ni lemọlemọ, fifi pamọ sibi ti o duro sojukan jẹ ohun inilo fun ẹya ikẹhin ti Vespucci. MongoDB le ṣee lo nipa awọn modulu miiran naa ninu eto naa lati ka ati kọ iru alaye bẹẹ. MongoDB is a mature document-oriented database useful in storing structured information, as is the case for the data that exists in the Vespucci system. Ọna miiran le jẹ CockroachDB.
 
-Awọn orisun Vespucci **data</​​0> le ni, ṣugbọn ko pin si: awọn akọsilẹ itan iṣowo, awọn aṣa iṣowo, iṣẹ olugbedide ati iyanana erongba, pinpin awọn dukia oni-nọmba ati alaye iṣejọba, awọn alaye ati awọn adehun ati adirẹẹsi awọn iye to ku ti isinyi ati ti igba kan ati apero iyanana iwoyesi. Alaye yii le jẹ riri ni fifọnka kaakiri awọn aaye ayelujara ti aṣawakiri ti blockchain ati awọn yara itakurọsọ. Ni pato, Iyanana iwoyesi (wo [abala](https://docs.google.com/document/d/1NLr-rgF66NCBmLmPIdElltKYVPJrLVO7DZDpcNEm6OU/edit?ts=5bec2f33#heading=h.tuaauijo691s) ti o yẹ) yoo nilo data lori gbogbo owó fun akoko ti o ni opin. This is a vast amount of data and in order to minimise the impact that data will have on the system, we employ big data techniques of compression, aggregation, and filtering.</p> 
+Awọn orisun Vespucci **data</​​0> le ni, ṣugbọn ko pin si: awọn akọsilẹ itan iṣowo, awọn aṣa iṣowo, iṣẹ olugbedide ati iyanana erongba, pinpin awọn dukia oni-nọmba ati alaye iṣejọba, awọn alaye ati awọn adehun ati adirẹẹsi awọn iye to ku ti isinyi ati ti igba kan ati apero iyanana iwoyesi. Alaye yii le jẹ riri ni fifọnka kaakiri awọn aaye ayelujara ti aṣawakiri ti blockchain ati awọn yara itakurọsọ. Ni pato, Iyanana iwoyesi (wo [abala](https://docs.google.com/document/d/1NLr-rgF66NCBmLmPIdElltKYVPJrLVO7DZDpcNEm6OU/edit?ts=5bec2f33#heading=h.tuaauijo691s) ti o yẹ) yoo nilo data lori gbogbo owó fun akoko ti o ni opin. Eyi jẹ iye data ti o tobi pupọ atipe lati mu adinku ba ipa ti data naa yoo ni lori eto naa, a se amulo awọn ilana data nla ti afunpapọ, ikojọpọ, ati sisẹ.</p> 
 
 Storage techniques may rely on off-chain Order books developed by VLabs, which is a sophisticated data structure with high security standards. It relies on EOS.IO, and its persistence API. One advantage of such a system is that it is not expensive; on the other hand, it is sufficiently efficient for our purposes. While transactions are handled by the VDex, non-transactional data will remain off-chain.
 
@@ -419,7 +419,7 @@ Storage techniques may rely on off-chain Order books developed by VLabs, which i
 
 The project’s timeline is shown in the above figure. The main milestones are:  
 — Vespucci MVP. November 2018 .  
-— Vespucci, version 1.0\. April 2019.
+— Vespucci, version 1.0\. Osu kẹrin 2019.
 
 ### **ACKNOWLEDGMENTS**
 
