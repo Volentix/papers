@@ -368,7 +368,7 @@ AWỌN ASAAYAN OLUMULO
 * Ṣatunto eto ipele ipo nipa yiyan awọn ilana Vespucci ti nṣiṣe lọwọ.
 * Ṣeto eto ipele ipo nipa yiyan eyi to ṣe pataki julọ ninu awọn ilana ipilẹ naa ati ṣiṣe atunto awọn iwọn.
 * Be informed separately about the effect of the basic parameters via diagrams and gain a deeper picture of those that shape the fluctuation of the value of each currency.
-* Filter the list of cryptocurrencies according to the hash rate and the chronological period they were active on the market.
+* Ṣẹ akojọ ti awọn owo kiripito ni ibamu si oṣuwọn hash ati awọn igba ti isẹlẹ nṣiṣẹ lori ọja naa.
 * Wo awọn ẹya ara owo kiripito ni kikun.
 
 ![](https://volentix.io/file/2019/01/main-dashboard-–-3@3x.png)
@@ -385,7 +385,7 @@ Nipa ifaagunsi, Vespucci paapaa julọ wulo fun awọn aami ti o da lori Ethereu
 
 ![](https://volentix.io/file/2019/01/1-2.jpg)
 
-Lastly, we mention two cutting-edge ideas to be employed in this phase: (a) Distributed implementations of learning tools in conjunction with the decentralized philosophy of Vespucci. (b) Aggregation of the neural networks that may be employed in one or more of the three pillars into a final score to be computed by an overall machine learning tool.
+Nikẹhin, a mẹnuba awọn ero ọlọgbọn meji ti o ma jẹ mimulo ni ipele yii: (a) Awọn imuṣiṣẹ ti awọn irinṣẹ ẹkọ-kikọ ti o jẹ pinpin ni ibasepọ pẹlu akọmọna alaisilojukan ti Vespucci. (b) Aggregation of the neural networks that may be employed in one or more of the three pillars into a final score to be computed by an overall machine learning tool.
 
 The **pipeline of Vespucci**, as shown in the figure below, consists of a computer cluster, having nodes for listening (Vespucci Listeners, or Aggregators) the aforementioned sources, such as social media (Twitter, Facebook, reddit), coin sites (coinmarketcap.com), Github etc, and nodes that could perform the analysis step of the collected data (Vespucci Analyzers). The results are kept in a database (e.g. SQL) to which the user has access through the interface and programmatically by an API.
 
