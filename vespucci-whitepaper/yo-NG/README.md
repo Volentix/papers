@@ -402,7 +402,7 @@ The **implementation** of the Vespucci analysis tools is in Python using various
 * NumPy, Pandas, Seaborn, matplotlib for the analysis part.
 * Scikit-learn, TensorFlow for machine learning.
 * NLTK, Tweepy, VADER, TextBlob for twitter sentiment analysis.
-* pyodbc to connect with our database.
+* pyodbc lati sopọ pẹlu ibi ipamọ data wa.
 * Blockchair.com API and coinmarketcap, a wrapper around the coinmarketcap.com API, to obtain information about each coin, such as the market cap ranking, and to update them easily
 
 Initially, most of those processes run on Linux Virtual Machines and results are kept in SQL databases. In case of insufficiency, a serverless frameworks shall be considered. In the immediate future powerful servers with GPUs are designed to perform efficiently all of our analysis (Kubernetes may be relevant here, assuming Docker containers).
@@ -411,13 +411,13 @@ Fun Iyanana Iwoyesi, ati o ṣee ṣe awọn modulu miiran pẹlu, eto **node.js
 
 Awọn orisun Vespucci **data</​​0> le ni, ṣugbọn ko pin si: awọn akọsilẹ itan iṣowo, awọn aṣa iṣowo, iṣẹ olugbedide ati iyanana erongba, pinpin awọn dukia oni-nọmba ati alaye iṣejọba, awọn alaye ati awọn adehun ati adirẹẹsi awọn iye to ku ti isinyi ati ti igba kan ati apero iyanana iwoyesi. Alaye yii le jẹ riri ni fifọnka kaakiri awọn aaye ayelujara ti aṣawakiri ti blockchain ati awọn yara itakurọsọ. Ni pato, Iyanana iwoyesi (wo [abala](https://docs.google.com/document/d/1NLr-rgF66NCBmLmPIdElltKYVPJrLVO7DZDpcNEm6OU/edit?ts=5bec2f33#heading=h.tuaauijo691s) ti o yẹ) yoo nilo data lori gbogbo owó fun akoko ti o ni opin. Eyi jẹ iye data ti o tobi pupọ atipe lati mu adinku ba ipa ti data naa yoo ni lori eto naa, a se amulo awọn ilana data nla ti afunpapọ, ikojọpọ, ati sisẹ.</p> 
 
-Awọn ilana ifipamọ le gbarale awọn iwe Ibeere alaisilori-ila ti o jẹ gbigbedide nipasẹ VLabs, eyi ti o jẹ eto data ti igbalode pẹlu awọn odiwọn aabo to ga. O gbarale ori EOS.IO, ati API alatẹnumọ rẹ. Anfani kan ti iru ti eto yii ni wipe ko gbowolori; ni ọna miiran, o se deede fun awọn eredi tiwa. While transactions are handled by the VDex, non-transactional data will remain off-chain.
+Awọn ilana ifipamọ le gbarale awọn iwe Ibeere alaisilori-ila ti o jẹ gbigbedide nipasẹ VLabs, eyi ti o jẹ eto data ti igbalode pẹlu awọn odiwọn aabo to ga. O gbarale ori EOS.IO, ati API alatẹnumọ rẹ. Anfani kan ti iru ti eto yii ni wipe ko gbowolori; ni ọna miiran, o se deede fun awọn eredi tiwa. Nigbati iṣakoso awọn iṣowo n waye nipasẹ VDex, awọn data ti kii ṣe ti iṣowo yoo wa aisilori-ila.
 
 * ### **ATẸ ISẸLẸ**
 
 ![](https://volentix.io/file/2019/01/Web-1920-–-2@3x.png)
 
-The project’s timeline is shown in the above figure. The main milestones are:  
+Atẹ isẹlẹ iṣẹ akanṣe naa jẹ fifihan ninu akawe ti o wa loke. The main milestones are:  
 — Vespucci MVP. November 2018 .  
 — Vespucci, version 1.0\. Osu kẹrin 2019.
 
