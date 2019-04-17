@@ -387,9 +387,9 @@ Nipa ifaagunsi, Vespucci paapaa julọ wulo fun awọn aami ti o da lori Ethereu
 
 Nikẹhin, a mẹnuba awọn ero ọlọgbọn meji ti o ma jẹ mimulo ni ipele yii: (a) Awọn imuṣiṣẹ ti awọn irinṣẹ ẹkọ-kikọ ti o jẹ pinpin ni ibasepọ pẹlu akọmọna alaisilojukan ti Vespucci. (b) Akopapọ ti awọn nẹtiwọki neural naa ti o le jẹ mimulo ninu ọkan tabi jubẹ lọ ti awọn opo mẹtẹta sinu isiro ikẹhin lati jẹ ṣisiro papọ nipasẹ irinsẹ ẹrọ ikẹkọ gbogbogbo.
 
-Awọn **ọpa ti Vespucci**, bi o ṣe jẹ fifihan ninu akawe ti o wa ni isalẹ yii, ti o ni iṣupọ kọmputa kan, ti o ni awọn oju ipade fun gbigbọ (Awọn olugbọ ti Vespucci, tabi Awọn alakopapọ) awọn orisun ti a ti sọ tẹlẹ, gẹgẹbi awọn ikanni ajọlo (Twitter, Facebook, reddit), awọn aaye ayelujara ti owo (coinmarketcap.com), Github ati bẹẹ bẹẹ lọ, ati awọn oju ipade ti o le ṣe igbesẹ iyanana ti awọn data ti o jẹ gbigba (Awọn oluyana ti Vespucci). The results are kept in a database (e.g. SQL) to which the user has access through the interface and programmatically by an API.
+Awọn **ọpa ti Vespucci**, bi o ṣe jẹ fifihan ninu akawe ti o wa ni isalẹ yii, ti o ni iṣupọ kọmputa kan, ti o ni awọn oju ipade fun gbigbọ (Awọn olugbọ ti Vespucci, tabi Awọn alakopapọ) awọn orisun ti a ti sọ tẹlẹ, gẹgẹbi awọn ikanni ajọlo (Twitter, Facebook, reddit), awọn aaye ayelujara ti owo (coinmarketcap.com), Github ati bẹẹ bẹẹ lọ, ati awọn oju ipade ti o le ṣe igbesẹ iyanana ti awọn data ti o jẹ gbigba (Awọn oluyana ti Vespucci). Awọn abajade n jẹ fifipamọ sinu ibi ipamọ data (fun apẹẹrẹ SQL) si eyiti olumulo naa ni anfani iwọle si nipasẹ intafeesi ati nipa iseto nipasẹ API kan.
 
-* The listeners are VM nodes which periodically listen/search the sources of each coin. New information extracted for each coin is also kept in the database for transparency.
+* Awọn olutẹtisi naa ni awọn oju ipade ti o n ti atigbadegba gbọ/wa awọn orisun ti owo kọọkan. Alaye tuntun ti o jẹ fifajade fun owo kọọkan naa tun jẹ fifipamọ ninu ibi ipamọ data fun ainikọnunkọhọ.
 * The analyzer VM nodes are then triggered and the new collected data will be analyzed (Sentiment, Technical and Technological & Fundamental analysis) by the Vespucci Analyzer nodes. The results are stored in the database.
 * Finally, the UI is periodically refreshed, updating the current view of the user to include new analysis results.
 
