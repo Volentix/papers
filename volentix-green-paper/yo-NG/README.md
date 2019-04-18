@@ -6,7 +6,7 @@ Volentix n ṣafihan VDex, ti o jẹ siseto gẹgẹ bi ibi ipasipaarọ ohun-in
 
 Aaye ifilọle VDex n ṣe ifojusọna fun sise ibamu awọn ibeere idalara ti Volentix si awọn imọ ẹrọ ti o wa nilẹ lori eto isẹ sise alaisilojukan EOS.IO. A gbero lati ṣe idanwo awọn erongba wa nipa ṣiṣe apẹrẹ awoṣe nipa akanṣe software EZEOS, eyiti a kọ ati ti a ṣe akanṣe rẹ pẹlu awọn irinṣẹ ila aṣẹ alasunmọ ti EOS.IO. Software yi wa ni: https://github.com/Volentix/ezeos
 
-## MARKET MANDATE
+## OFIN ỌJA
 
 In the second decade since the emergence of Bitcoin, the digital asset marketplace is defined by the dizzying highs and lows experienced by a tiny percentage of the global population trading thousands of cryptocurrencies many of which are outright scams. Looking past the frauds, and observing the value of the credible digital application technologies emerging in the past ten years, if we are to progress and promulgate those technologies, then they must penetrate the mainstream. Legitimate digital currencies must be used in broad commerce. And the primary focus of digital assets proliferation must be to simplify and enrich user experience. The choices of which existing technologies to employ and which unavailable technologies to develop must be driven by comfort, certainty, and security of user  
 transactions and related experiences.
