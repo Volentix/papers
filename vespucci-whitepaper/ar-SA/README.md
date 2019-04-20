@@ -72,7 +72,7 @@
 
 واحدة من أهم العوامل التي تؤثر على مكانة وقيمة العملات الرقمية هي الثقة العامة والتوجه. التوجه مهم جداً للتقييم النقدي للعملات الرقمية. الآراء العامة متاحة على نطاق واسع للجمع والتحليل. وبالتالي فإن ركيزة أساسية لنظام تصنيف Vespucci تعتمد على تحليل نزعة السوق (SA) الخاص بمحتوى العملات الرقمية والذي تم إنشاؤه بواسطة الجمهور على وسائل التواصل الاجتماعي (Twitter ، Facebook ، Telegram) المدونات، Reddit، المنتديات والمواقع الإخبارية. العامل المميز لعنصر تحليل نزعة السوق الخاص بـ Vespucci هي المجموعة الواسعة والكاملة لمصادر البيانات التي يتم جمعها وتحليلها. نحن نعتقد أنه فقط من خلال تغطية كل مصدر محتمل للرأي العام المتعلق بكل عملة رقمية، يتم الكشف عن الحالة الحقيقية لتوجه السوق.
 
-تم بناء عنصر تحليل نزعة السوق الخاص بـ Vespucci في نهج مرحلي. تتضمن المرحلة الأولى تطبيق آلية استيعاب بيانات كبيرة تعتمد على التحويل اللامركزي. هذه الآلية قادرة على الاستماع بشكل مستمر لمصادر البيانات المذكورة أعلاه وتحويل جميع المحتويات/الرسائل الخاصة بكل عملة رقمية. لا يستخدم تخزينا ثابتا. تقوم نفس الآلية بتسجيل درجات التوجه الخاصة بالمحتوى المحول باستخدام دالة الدرجات المبنية على الذكاء الاصطناعي ومكتبات تحليل النصوص وذلك لتحليل محتوى وسائل التواصل الإجتماعي. The module also relies on further tools such as NTLK and TextBlob that assign numerical scores of sentiment to pieces of text. This process need not be transparent to the user.
+تم بناء عنصر تحليل نزعة السوق الخاص بـ Vespucci في نهج مرحلي. تتضمن المرحلة الأولى تطبيق آلية استيعاب بيانات كبيرة تعتمد على التحويل اللامركزي. هذه الآلية قادرة على الاستماع بشكل مستمر لمصادر البيانات المذكورة أعلاه وتحويل جميع المحتويات/الرسائل الخاصة بكل عملة رقمية. لا يستخدم تخزينا ثابتا. تقوم نفس الآلية بتسجيل درجات التوجه الخاصة بالمحتوى المحول باستخدام دالة الدرجات المبنية على الذكاء الاصطناعي ومكتبات تحليل النصوص وذلك لتحليل محتوى وسائل التواصل الإجتماعي. يعتمد التموذج أيضًا على أدوات أخرى مثل NTLK و TextBlob التي تقوم بتعيين درجات رقمية للتوجه إلى أجزاء من النص. هذه العملية لا تحتاج إلى أن تكون شفافة للمستخدم.
 
 هذا يضمن أن عنصر تحليل نزعة السوق الخاص بـ Vespucci قادر على تغطية الاغلبية العظمى من الرأي العام. تتم مقارنة النتائج على مدار ساعة واحدة ويوم واحد وأسبوع واحد. تتوفر الإخراجات من خلال واجهات برمجة التطبيقات للاستخدام الداخلي من قبل مكونات Vespucci الأخرى مثل واجهة المستخدم الأمامية على الويب وكذلك للمستخدمين الخارجيين الذين يرغبون في استهلاك البيانات أو إنشاء تطبيقات طرف آخر تعتمد على Vespucci.
 
@@ -84,7 +84,7 @@ Eventually, Vespucci will reach out to the open-source community in an attempt t
 
 ![](https://volentix.io/file/2019/01/a.jpg)
 
-By leveraging Python’s Machine learning framework, and given the language’s advantages, it is only natural for this module to be implemented in Python. It interfaces with particular machine learning libraries such as Scikit-learn, TensorFlow, CNTK, Torch, Theano, and Keras.
+من خلال الاستفادة من هيكل التعلم الألي الخاص بـ Python وبالنظر إلى مزايا اللغة، من الطبيعي أن يتم تطبيق هذا الهيكل في Python. إنه يتفاعل مع مكتبات خاصة بالتعلم الآلي مثل Scikit-learn ،TensorFlow ،CNTK Torch ،Theano وKeras.
 
 ‪A user experience linking to the cryptocurrency’s public community forum is developed to provide up to date announcements and statistics of community activity. The final score can be derived as a scoring function. Eventually, machine learning techniques are applied to deliver real-time sentiment analysis.‬
 
