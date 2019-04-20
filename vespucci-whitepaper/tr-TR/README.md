@@ -368,14 +368,14 @@ KULLANICI SEÇENEKLERİ
 * Aktif Vespucci parametrelerini seçerek derecelendirme sistemini ayarlayın.
 * Temel parametrelerin önceliğini seçerek ve ağırlıkları ayarlayarak derecelendirme sistemini yapılandırın.
 * Temel parametrelerin diyagramlarla etkisi hakkında ayrıca bilgi sahibi olun ve her para biriminin değerindeki dalgalanmayı şekillendirenlerin daha derin bir resmini elde edin.
-* Filter the list of cryptocurrencies according to the hash rate and the chronological period they were active on the market.
+* Kripto para birimleri listesini hash oranına ve piyasa üzerinde aktif oldukları kronolojik döneme göre filtreleyin.
 * Kripto para birimi özelliklerini ayrıntılı olarak görüntüleyin.
 
 ![](https://volentix.io/file/2019/01/main-dashboard-–-3@3x.png)
 
 * ### **GENEL MİMARLIK VE UYGULAMA**
 
-We have discussed the three main subsystems of Fundamental / Technological Analysis, Technical Analysis, and Sentiment Analysis. Üç sütun da kusurlu. Furthermore, only the most experienced analysts can combine all three systems in one rating strategy. The final score for each cryptocurrency depends on each of the three components, weighted either by default values or by weighs provided by the user. Since we are firm believers in the value of the technology and the value of the team behind each cryptocurrency, FTA and, especially, the technological aspects are assigned a total weight of 50% by default. Based on research and trial of assessment parameters, appropriate weights are derived to quantifiably gauge the validity of a coin. We exploit recent breakthroughs in deep neural networks in order to automate the combination of scores without human intervention so as to avoid introducing direct or indirect bias.
+Temel / Teknolojik Analiz, Teknik Analiz ve Duyarlılık Analizi'nin üç ana alt sistemini tartıştık. Üç sütun da kusurlu. Ayrıca, yalnızca en deneyimli analistler üç sistemi de bütünüyle bir derecelendirme stratejisinde birleştirebilir. Her bir kripto para birimi için son puan, varsayılan değerler ile veya kullanıcı tarafından sağlanan ağırlıklar ile ağırlıklandırılan üç bileşenin her birine bağlıdır. Since we are firm believers in the value of the technology and the value of the team behind each cryptocurrency, FTA and, especially, the technological aspects are assigned a total weight of 50% by default. Based on research and trial of assessment parameters, appropriate weights are derived to quantifiably gauge the validity of a coin. We exploit recent breakthroughs in deep neural networks in order to automate the combination of scores without human intervention so as to avoid introducing direct or indirect bias.
 
 The outputs of all three constituents together with the corresponding price (the price being inverse to risk) movements for different frames yield a ranking of the cryptocurrencies and the tokens in the most holistic approach ever achieved. Bu, insanlar için Post-process ile birleştirilmiştir.
 
