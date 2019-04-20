@@ -44,9 +44,9 @@ Vespucci'nin özellikleri aşağıdaki gibidir.
 * Temel / Teknolojik Analiz'den teknik / ekonomik yönlere ve duyarlılık ölçere kadar değişen bir kriter spektrumunun tamamının kombinasyonu.
 * Metodolojide şeffaflık (veri kaynakları, yutma mekanizması, veri işleme süreci, algoritmalar)
 * Geniş kaynak spektrumu (taraflı verileri önlemek için)
-* Modular design that offers the ability to extend the platform to other applications such as smart contracts.
+* Akıllı sözleşmeler gibi diğer uygulamalara platformu genişletme olanağı sunan modüler tasarım.
 * Güvenlik: EOS Blok Zinciri Üzerindeki Veri Kaynakları (VLabs)
-* High accuracy using sophisticated Evaluation methods, AI, and Deep Learning
+* Gelişmiş Değerlendirme yöntemleri, AI ve Derin Öğrenme kullanarak yüksek doğruluk
 * Intuitive algorithms, possibility for weighs given by user, Post-processing for humans.
 * #### **PRENSİPLER**
 
