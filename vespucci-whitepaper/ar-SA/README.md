@@ -76,7 +76,7 @@
 
 هذا يضمن أن عنصر تحليل نزعة السوق الخاص بـ Vespucci قادر على تغطية الاغلبية العظمى من الرأي العام. تتم مقارنة النتائج على مدار ساعة واحدة ويوم واحد وأسبوع واحد. تتوفر الإخراجات من خلال واجهات برمجة التطبيقات للاستخدام الداخلي من قبل مكونات Vespucci الأخرى مثل واجهة المستخدم الأمامية على الويب وكذلك للمستخدمين الخارجيين الذين يرغبون في استهلاك البيانات أو إنشاء تطبيقات طرف آخر تعتمد على Vespucci.
 
-Vespucci’s public opinion listeners run on cloud-based VMs that are able to instantly scale-out to address all potential workloads. This way Vespucci handles and ingests the massive, yet valuable, data volumes related to cryptocurrencies that are being generated at every given moment. Parallelization is key when handling Big Data and Vespucci’s architecture leverages parallelization, multi-threading and concurrency wherever possible. Micro-services and serverless code run in parallel to orchestrate the ingestion procedures and data flows.
+يعمل مستمعي الرأي العام الخاصين بـ Vespucci على أجهزة VM المستندة إلى السحابة والتي يمكنها التدريج الفوري لمعالجة جميع أعباء العمل المحتملة. وبهذه الطريقة، يحول Vespucci ويتعامل مع أحجام ضخمة من البيانات ذات القيمة والمرتبطة بالعملات الإلكترونية التي يتم إنشاؤها في كل لحظة. Parallelization is key when handling Big Data and Vespucci’s architecture leverages parallelization, multi-threading and concurrency wherever possible. Micro-services and serverless code run in parallel to orchestrate the ingestion procedures and data flows.
 
 In the second phase, scoring tools are adapted and enhanced so as to focus their functionality to cryptocurrencies and, eventually, our own software shall be developed for this task. Moreover, some storage is used (see the relevant [section](https://docs.google.com/document/d/1NLr-rgF66NCBmLmPIdElltKYVPJrLVO7DZDpcNEm6OU/edit?ts=5bec2f33#heading=h.921dav9nirz6)) for aggregate data needed in order (a) to make historical comparisons and (b) to train the Convolutional Neural Network that produces the final score. For (a), we could make use of the entire history of each token since its creation. For (b), deep learning needs data covering a period of up to two years.
 
@@ -86,15 +86,15 @@ Eventually, Vespucci will reach out to the open-source community in an attempt t
 
 من خلال الاستفادة من هيكل التعلم الألي الخاص بـ Python وبالنظر إلى مزايا اللغة، من الطبيعي أن يتم تطبيق هذا الهيكل في Python. إنه يتفاعل مع مكتبات خاصة بالتعلم الآلي مثل Scikit-learn ،TensorFlow ،CNTK Torch ،Theano وKeras.
 
-‪A user experience linking to the cryptocurrency’s public community forum is developed to provide up to date announcements and statistics of community activity. The final score can be derived as a scoring function. Eventually, machine learning techniques are applied to deliver real-time sentiment analysis.‬
+تم تطوير تجربة مستخدم متصلة بمنتدى المجتمع العام الخاص بالعملات الرقمية لتقديم أحدث الإعلانات والإحصائيات حول نشاط المجتمع. يمكن استخلاص النتيجة النهائية كدالة تقييم. في نهاية المطاف، يتم تطبيق تقنيات التعلم الآلي لتقديم تحليل نزعات السوق في الوقت الحقيقي
 
 <table>
   <tr>
     
 
-<td>**Source**</td>
+<td>**المصدر**</td>
 
-<td>**Analysis**</td>
+<td>**التحليل**</td>
 
   </tr>
   
@@ -103,7 +103,7 @@ Eventually, Vespucci will reach out to the open-source community in an attempt t
 
 <td>Twitter </td>
 
-<td>Sentiment</td>
+<td>التوجه</td>
 
   </tr>
   
@@ -112,7 +112,7 @@ Eventually, Vespucci will reach out to the open-source community in an attempt t
 
 <td>Reddit</td>
 
-<td>Sentiment</td>
+<td>التوجه</td>
 
   </tr>
   
@@ -121,7 +121,7 @@ Eventually, Vespucci will reach out to the open-source community in an attempt t
 
 <td>Facebook</td>
 
-<td>Sentiment</td>
+<td>التوجه</td>
 
   </tr>
   
@@ -130,7 +130,7 @@ Eventually, Vespucci will reach out to the open-source community in an attempt t
 
 <td>Telegram</td>
 
-<td>Sentiment</td>
+<td>التوجه</td>
 
   </tr>
   
@@ -139,7 +139,7 @@ Eventually, Vespucci will reach out to the open-source community in an attempt t
 
 <td>LinkedIn</td>
 
-<td>Sentiment & Technological</td>
+<td>التوجه/الأساسي</td>
 
   </tr>
   
@@ -148,7 +148,7 @@ Eventually, Vespucci will reach out to the open-source community in an attempt t
 
 <td>Coin Sites</td>
 
-<td>Technological & Fundamental</td>
+<td>التكنولوجي/الأساسي</td>
 
   </tr>
   
