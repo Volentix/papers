@@ -8,12 +8,12 @@ The VDex launch point anticipates matching Volentix’s design requirements to a
 
 ## PİYASA YETKİSİ
 
-In the second decade since the emergence of Bitcoin, the digital asset marketplace is defined by the dizzying highs and lows experienced by a tiny percentage of the global population trading thousands of cryptocurrencies many of which are outright scams. Dolandırıcılıkların ötesine bakmak ve son on yılda ortaya çıkan güvenilir dijital uygulama teknolojilerinin değerini gözlemlemek, eğer bu teknolojileri ilerletmek ve yaymak istiyorsak, o zaman ana akıma nüfuz etmeleri gerekir. Yasal dijital para birimleri geniş ticarette kullanılmalıdır. Dijital varlıkların yayılmasının temel odağı, kullanıcı deneyimini basitleştirmek ve zenginleştirmek olmalıdır. The choices of which existing technologies to employ and which unavailable technologies to develop must be driven by comfort, certainty, and security of user  
-transactions and related experiences.
+In the second decade since the emergence of Bitcoin, the digital asset marketplace is defined by the dizzying highs and lows experienced by a tiny percentage of the global population trading thousands of cryptocurrencies many of which are outright scams. Dolandırıcılıkların ötesine bakmak ve son on yılda ortaya çıkan güvenilir dijital uygulama teknolojilerinin değerini gözlemlemek, eğer bu teknolojileri ilerletmek ve yaymak istiyorsak, o zaman ana akıma nüfuz etmeleri gerekir. Yasal dijital para birimleri geniş ticarette kullanılmalıdır. Dijital varlıkların yayılmasının temel odağı, kullanıcı deneyimini basitleştirmek ve zenginleştirmek olmalıdır. Mevcut teknolojilerin istihdam edileceği seçimler ve kullanılamayacak teknolojilerin geliştirilmesinde, kullanıcı  
+işlemlerinin ve ilgili deneyimlerin konforu, kesinliği ve güvenliği esas alınmalıdır.
 
 ## PİYASA GİRİŞİ
 
-To address the prevailing market mandate, the VOLENTIX ecosystem introduces an initializing array of four digital applications, specifically known as VENUE, VERTO, VESPUCCI, and VDEX.
+Geçerli piyasa yetkilerini ele almak için, VOLENTIX ekosistemi, özellikle VENUE, VERTO, VESPUCCI ve VDEX olarak bilinen, dört dijital uygulamayı başlatan bir dizi tanıtır.
 
 ## Venue
 
@@ -21,7 +21,7 @@ Venue, VTX tokenin dağıtımını kolaylaştırmak ve VOLENTIX topluluğu giri�
 
 ## Verto
 
-Verto, VDEX borsası ile kullanım için çok para birimli bir cüzdan olacak ve eşler arası işlemlerde kullanılmak üzere özel anahtarların saklanmasını kolaylaştıracak. Both private and public keys will be locally managed, with the goal of eliminating the risks of devastating losses of stake associated with traumatic failures of central operators. Lütfen <http://verto.vdex.io/> ziyaret ederek VERTO öncüsünü okuyun
+Verto, VDEX borsası ile kullanım için çok para birimli bir cüzdan olacak ve eşler arası işlemlerde kullanılmak üzere özel anahtarların saklanmasını kolaylaştıracak. Hem özel hem de halka açık anahtarlar, merkezi operatörlerin travmatik başarısızlıkları ile ilişkili yıkıcı risk kayıplarını ortadan kaldırmak amacıyla yerel olarak yönetilecektir. Lütfen <http://verto.vdex.io/> ziyaret ederek VERTO öncüsünü okuyun
 
 ## Vespucci
 
