@@ -33,7 +33,7 @@ VOLENTIX'in dördüncü ayağı, [https://volentix.io/documentation/vdex-whitepa
 
 VDEX, gizlilik kullanıcı deneyimi ve topluluk gelişimi ve yönetimi üzerinde durularak dağıtılmış, merkezi olmayan bir dijital- para birimi olarak tasarlanmaktadır. VDEX, yerleşik teknolojilere erişerek ve güvenlik konusunda öncelikli seçici yeni protokoller, hız, kimlik doğrulama, kullanım kolaylığı, ölçeklenebilirlik ve çoklu varlık desteği konularında öncelikli seçici yeni protokoller planlayarak, EOS.IO akıllı sözleşmelerine dayanan bir merkezi olmayan uygulama portföyü oluşturarak eşler arası işlemleri kolaylaştırmayı amaçlamaktadır.
 
-Sorunsuz ve güvenli bir kullanım için, VDEX'i kendi kişisel VERTO cüzdanınız ve VESPUCCI arayüzünüzle entegre etmeyi planlıyoruz. Although we expect VERTO and VDEX ultimately to be able to manage transactions involving the vast array of digital assets and blockchains extant from time to time, we are developing VENUE as a complementary adjunct primarily in order to incentivize and drive native VTX-based transactions.
+Sorunsuz ve güvenli bir kullanım için, VDEX'i kendi kişisel VERTO cüzdanınız ve VESPUCCI arayüzünüzle entegre etmeyi planlıyoruz. VERTO ve VDEX'in nihayetinde, zaman zaman mevcut olan çok çeşitli dijital varlıklar ve blok zincirlerini içeren işlemleri yönetebilmeyi beklememize rağmen, yerel VTX tabanlı işlemleri teşvik etmek ve sürdürmek için VENUE'yi tamamlayıcı bir yardımcı olarak geliştiriyoruz.
 
 ## MARKET ARZ VE TALEP
 
