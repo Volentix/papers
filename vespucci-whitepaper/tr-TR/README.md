@@ -47,12 +47,12 @@ Vespucci'nin özellikleri aşağıdaki gibidir.
 * Akıllı sözleşmeler gibi diğer uygulamalara platformu genişletme olanağı sunan modüler tasarım.
 * Güvenlik: EOS Blok Zinciri Üzerindeki Veri Kaynakları (VLabs)
 * Gelişmiş Değerlendirme yöntemleri, AI ve Derin Öğrenme kullanarak yüksek doğruluk
-* Intuitive algorithms, possibility for weighs given by user, Post-processing for humans.
+* Sezgisel algoritmalar, kullanıcı tarafından verilen ağırlıklar için olasılık, insanlar için işlem Sonrasıdır.
 * #### **PRENSİPLER**
 
 Vespucci, aşağıdaki prensiplere göre tasarlanmıştır.
 
-* Objective in order not to risk compromising the Volentix DAO goodwill before it is established beyond any doubt
+* Amaç, herhangi bir şüphe olmadan, kurulmasından önce Volentix DAO şerefiyesinin tehlikeye atılmaması içindir
 * Otomatikleştirilmiş
 * Aranılan
 * Merkezi olmayan uygulama
@@ -60,7 +60,7 @@ Vespucci, aşağıdaki prensiplere göre tasarlanmıştır.
 * Sezgisel
 * #### **VESPUCCI NASIL ÇALIŞIR**
 
-Üç sütun aşağıdaki alt bölümlerde açıklanmıştır. Bu alt bölümlerde çok sayıda kriterden bahsedilmiştir. The results of the SA component is made available along with the Technical and FTA results to the users so they can access a complete 360 view of each coin’s state, rank and ultimately understand the coin’s true value and potential. ‪An evaluation of both established cryptocurrencies and known “scam-coins” is performed, and the resulting parameters deemed most relevant in determining cryptocurrency validity is integrated into the system.
+Üç sütun aşağıdaki alt bölümlerde açıklanmıştır. Bu alt bölümlerde çok sayıda kriterden bahsedilmiştir. SA bileşeninin sonuçları, kullanıcılara Teknik ve FTA sonuçları ile birlikte sunulmakta, böylece onlar, her bir madeni paranın durumunun tam 360 görünümüne erişebilmekte, rütbe ve en sonunda madeni paranın gerçek değerini ve potansiyelini anlayabilmektedir. ‪An evaluation of both established cryptocurrencies and known “scam-coins” is performed, and the resulting parameters deemed most relevant in determining cryptocurrency validity is integrated into the system.
 
 In order to test Vespucci in a semi-public release using prospective volunteers, the system is being introduced to various outside users for bug testing of the assessment system functions, and the UI. Halka açık bir ortamda kapalı bir beta sürümünün organizasyonu aracılığıyla gerçekleştirilir. Kullanıcılar, daha yapıcı ve alakalı geri bildirim bilgilerine izin verecek şekilde seçilmiştir. Kullanıcı geri bildirimlerinden elde edilen içgörüden beta sürüm sırasında devam eden bir yinelemeli çimdikler, düzeltmeler ve ayarlamalar süreci gerçekleşecek.‬
 
