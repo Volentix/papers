@@ -41,8 +41,8 @@ The rating and analytical capacity of Vespucci relies on the three pillars of: S
 Vespucci'nin özellikleri aşağıdaki gibidir.
 
 * Bir Tahmin makinesine kolayca yol açan kripto para birimlerinin derecelendirilmesi.
-* Combination of a complete spectrum of criteria ranging from Fundamental / Technological Analysis to technical / economics aspects up to a sentiment gauge.
-* Transparency in methodology (data sources, ingestion mechanism, data manipulation process, algorithms)
+* Temel / Teknolojik Analiz'den teknik / ekonomik yönlere ve duyarlılık ölçere kadar değişen bir kriter spektrumunun tamamının kombinasyonu.
+* Metodolojide şeffaflık (veri kaynakları, yutma mekanizması, veri işleme süreci, algoritmalar)
 * Geniş kaynak spektrumu (taraflı verileri önlemek için)
 * Modular design that offers the ability to extend the platform to other applications such as smart contracts.
 * Güvenlik: EOS Blok Zinciri Üzerindeki Veri Kaynakları (VLabs)
