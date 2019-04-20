@@ -14,7 +14,7 @@ Birincil hedefimiz, tüm dijital varlık kullanıcılarına, dijital varlıklar 
 * teknik analiz (TA), ve
 * temel / teknolojik analiz (FTA).
 
-Vespucci offers for the first time a well-rounded profile of each digital asset of interest along with a live rating, representing a combination of different indicators, based on the principles of decentralized governance, peer privacy, public ledger via a public blockchain, and open source code. Hence, its analysis is free of the bias of specific individuals or interest groups and the employed methods are up for scrutiny and discussion by the community. Decentralized applications offer a paradigm shift in current technology; a particularly relevant instance lies within the emerging cryptocurrency exchanges. En güçlü, en ileri yöntemlerden bazılarını kullanarak, yaklaşımımız açık standartlara ve kullanım kolaylığı ilkelerine uyar.
+Vespucci, ilk kez, merkezi olmayan yönetim, akran gizliliği, halka açık blok zinciri yoluyla halka açık defteri kebir ve açık kaynak kod ilkelerine dayanan farklı göstergelerin bir kombinasyonunu temsil eden, canlı bir derecelendirme ile birlikte her bir dijital varlık için çok yönlü bir profil sunmaktadır. Hence, its analysis is free of the bias of specific individuals or interest groups and the employed methods are up for scrutiny and discussion by the community. Decentralized applications offer a paradigm shift in current technology; a particularly relevant instance lies within the emerging cryptocurrency exchanges. En güçlü, en ileri yöntemlerden bazılarını kullanarak, yaklaşımımız açık standartlara ve kullanım kolaylığı ilkelerine uyar.
 
 Vespucci genel mimarisi
 
