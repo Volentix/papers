@@ -17,7 +17,7 @@ To address the prevailing market mandate, the VOLENTIX ecosystem introduces an i
 
 ## Ibugbe
 
-Venue jẹ gbigbekalẹ gẹgẹbi pilatifọọmu awujọ alayipada ti o n gba ati ṣiṣe aato awọn ọmọ ẹgbẹ ti awujọ Volentix lati jẹ ki pinpin aami abinibi VTX rọrun, ati lati ṣe ipolongo imọ nipa awọn eto Volentix. An initial VENUE signature campaign is underway. Please visit <https://venue.volentix.io> for more information.
+Venue jẹ gbigbekalẹ gẹgẹbi pilatifọọmu awujọ alayipada ti o n gba ati ṣiṣe aato awọn ọmọ ẹgbẹ ti awujọ Volentix lati jẹ ki pinpin aami abinibi VTX rọrun, ati lati ṣe ipolongo imọ nipa awọn eto Volentix. An initial VENUE signature campaign is underway. Jọwọ ṣabẹwo si <https://venue.volentix.io> fun alaye siwaju sii.
 
 ## Verto
 
@@ -25,13 +25,13 @@ Verto will be a multi-currency wallet for use with the VDEX exchange, and intend
 
 ## Vespucci
 
-Vespucci jẹ fifojusun gẹgẹbi ohun elo iyanana ti o se wọle si nipasẹ intafeesi onirọrun-olumulo pẹlu awọn ile ipamọ iṣura ti bosenlọ lọwọ ti awọn data ọja, gẹgẹbi awọn ipele ipo ati iyanana iwoyesi. A fẹ lati ro awọn olumulo lagbara pẹlu awọn irinṣẹ lati ṣe iwọn ati ṣe afiwe awọn ohun-ini oni-nọmba ti o ṣe fisowo, lati wọle ati pin awọn akọsilẹ itan iṣowo, lati ṣeto awọn aṣa ati awọn ilana, ati lati mojuto ati ṣayẹwo awọn idagbasoke software orisun-gbangba. VESPUCCI seeks to bring to your fingertips confident and comprehensive market-relevant data by aggregating the information currently scattered throughout many different blockchains, websites, chat rooms, and exchanges. This application is currently in development by our affiliate Pythagoras Systems.
+Vespucci jẹ fifojusun gẹgẹbi ohun elo iyanana ti o se wọle si nipasẹ intafeesi onirọrun-olumulo pẹlu awọn ile ipamọ iṣura ti bosenlọ lọwọ ti awọn data ọja, gẹgẹbi awọn ipele ipo ati iyanana iwoyesi. A fẹ lati ro awọn olumulo lagbara pẹlu awọn irinṣẹ lati ṣe iwọn ati ṣe afiwe awọn ohun-ini oni-nọmba ti o ṣe fisowo, lati wọle ati pin awọn akọsilẹ itan iṣowo, lati ṣeto awọn aṣa ati awọn ilana, ati lati mojuto ati ṣayẹwo awọn idagbasoke software orisun-gbangba. VESPUCCI n wa lati mu si arọwọto rẹ awọn alaye ti o kun ati ti o gboya lori iṣowo ọja nipa sise akojọpọ awọn ijabọ alaye ti o lọwọlọwọ yii fọn kakiri gbogbo awọn oriṣiriṣi awọn blockchain, awọn aaye ayelujara, awọn yara itakurọsọ, ati awọn ibi iyipada. This application is currently in development by our affiliate Pythagoras Systems.
 
 The fourth pillar of VOLENTIX is the decentralized VDEX exchange, a tradable digital assets platform introduced in detail in our white paper available to view at [https://volentix.io/documentation/vdex-whitepaper](https://volentix.io/documentation/vdex-whitepaper/).
 
 ## VDex
 
-VDEX is being designed as a distributed, decentralized digital- currencies exchange with emphasis on privacy user experience and community development and governance. By accessing established technologies and planning selective new protocols with priority on security, speed, authentication, ease of use, scalability, and multi-asset support, VDEX intends to facilitate peer-to-peer transactions by assembling a portfolio of decentralized applications built on EOS.IO smart contracts.
+VDex n jẹ siseto gẹgẹbi ibi ipasipaarọ awọn owo oni-nọmba alaisilojukan, ti o jẹ pinpin pẹlu itẹramọ lori asiri iriri olumulo ati idagbasoke awujọ ati iṣejọba. Nipa wiwọle si awọn imọ-ẹrọ ti o fẹsẹrinlẹ ati siseto yiyan awọn ilana titun ti o pataki aabo, iyara, ìfàṣẹsí, irọrun ti lilo, agbara iṣiṣẹ ṣi, ati atilẹyin ọlọpọ-ohun ini, VDEX n gbero lati ṣọ awọn iṣowo ẹgbẹ́-sí-ẹgbẹ́ di irọrun nipa sisẹ atopọ awọn ohun elo alaisilojukan ti o jẹ gbigbe dede lori awọn iwe adehun EOS.IO to jafafa.
 
 For smooth and secure usability, we plan VDEX to integrate with your own personal VERTO wallet and VESPUCCI user interface. Although we expect VERTO and VDEX ultimately to be able to manage transactions involving the vast array of digital assets and blockchains extant from time to time, we are developing VENUE as a complementary adjunct primarily in order to incentivize and drive native VTX-based transactions.
 
