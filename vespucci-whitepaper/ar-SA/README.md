@@ -44,13 +44,13 @@
 * مزيج من مجموعة كاملة من المعايير التي تتراوح من التحليل الأساسي/التكنولوجي إلى الجوانب الفنية/الاقتصادية حتى مقياس التوجه.
 * الشفافية في المنهجية (مصادر البيانات، آلية التحويل، عملية معالجة البيانات، الخوارزميات)
 * مجموعة واسعة من المصادر (لتجنب البيانات المتحيزة)
-* Modular design that offers the ability to extend the platform to other applications such as smart contracts.
-* Security: Data Sources on EOS Blockchain (VLabs)
-* High accuracy using sophisticated Evaluation methods, AI, and Deep Learning
+* تصميم نمطي يوفر القدرة على توسيع المنصة لتشمل تطبيقات أخرى مثل العقود الذكية.
+* الأمان: مصادر البيانات على (EOS Blockchain (VLabs
+* دقة عالية باستخدام أساليب التقييم المتطورة، الذكاء الاصطناعى، والتعلم العميق
 * Intuitive algorithms, possibility for weighs given by user, Post-processing for humans.
-* #### **PRINCIPLES**
+* #### **المبادئ**
 
-Vespucci is designed under the following principles.
+تم تصميم Vespucci وفقًا للمبادئ التالية.
 
 * Objective in order not to risk compromising the Volentix DAO goodwill before it is established beyond any doubt
 * Automated
@@ -60,9 +60,9 @@ Vespucci is designed under the following principles.
 * Intuitive
 * #### **HOW VESPUCCI WORKS**
 
-تم وصف الدعائم الثلاثة في الأقسام الفرعية التالية. كما تم ذكر عدد كبير من المعايير فيها. تم توفير نتائج مقياس التوجه لتحليل نزعة السوق (SA) بالإضافة إلى نتائج التحليل الفني (TA) والتحليل الأساسي/التكنولوجي (FTA) للمستخدمين حتى يتمكنوا من الوصول إلى عرض 360 كامل لحالة كل عملة، تصنيف وفهم القيمة الحقيقية للعملة وإمكاناتها. يتم إجراء تقييم لكل من العملات الرقمية و "العملات المزورة" المعروفة ويتم دمج الموسطات الناتجة التي تعتبر الأكثر أهمية في تحديد صلاحية العملة الرقمية في النظام.
+تم وصف الدعائم الثلاثة في الأقسام الفرعية التالية. كما تم ذكر عدد كبير من المعايير فيها. تم توفير نتائج تحليل نزعة السوق (SA) بالإضافة إلى نتائج التحليل الفني (TA) والتحليل الأساسي/التكنولوجي (FTA) للمستخدمين حتى يتمكنوا من الوصول إلى عرض 360 كامل لحالة كل عملة، تصنيف وفهم القيمة الحقيقية للعملة وإمكاناتها. يتم إجراء تقييم لكل من العملات الرقمية و "العملات المزورة" المعروفة ويتم دمج الموسطات الناتجة التي تعتبر الأكثر أهمية في تحديد صلاحية العملة الرقمية في النظام.
 
-من أجل اختبار Vespucci في إصدار شبه عام باستخدام متطوعين محتملين، يتم تقديم النظام إلى العديد من المستخدمين الخارجيين لاختبار أخطاء وظائف نظام التقييم و UI. ‬‪It is carried out in a public setting through the organization of a closed beta release. Users are selected to allow for more constructive and relevant feedback information.‬ ‪An ongoing iterative process of tweaks, fixes, and adjustments will take place during the beta release from the insight derived from user feedback.‬
+من أجل اختبار Vespucci في إصدار شبه عام باستخدام متطوعين محتملين، يتم تقديم النظام إلى العديد من المستخدمين الخارجيين لاختبار أخطاء وظائف نظام التقييم و UI. يتم تنفيذه في إعداد عام من خلال تنظيم إصدار بيتا مغلق. Users are selected to allow for more constructive and relevant feedback information.‬ ‪An ongoing iterative process of tweaks, fixes, and adjustments will take place during the beta release from the insight derived from user feedback.‬
 
 * ### **PILARS**
 
