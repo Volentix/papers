@@ -15,9 +15,9 @@ transactions and related experiences.
 
 To address the prevailing market mandate, the VOLENTIX ecosystem introduces an initializing array of four digital applications, specifically known as VENUE, VERTO, VESPUCCI, and VDEX.
 
-## Venue
+## Ibugbe
 
-Venue is planned as a dynamic community platform that recruits and aligns members of the VOLENTIX community to facilitate distribution of the native VTX token, and to promote awareness of VOLENTIX community initiatives. An initial VENUE signature campaign is underway. Please visit <https://venue.volentix.io> for more information.
+Venue jẹ gbigbekalẹ gẹgẹbi pilatifọọmu awujọ alayipada ti o n gba ati ṣiṣe aato awọn ọmọ ẹgbẹ ti awujọ Volentix lati jẹ ki pinpin aami abinibi VTX rọrun, ati lati ṣe ipolongo imọ nipa awọn eto Volentix. An initial VENUE signature campaign is underway. Please visit <https://venue.volentix.io> for more information.
 
 ## Verto
 
@@ -58,7 +58,7 @@ Volentix Labs
 
 ## Ikọjalẹ
 
-FOR INFORMATION PURPOSES ONLY. This information does not purport to be comprehensive. The information is subject to change in whole or in part at any time without notice. Volentix Labs reserves the right to amend, replace, remove, or delete any and all information at the sole and exclusive discretion of Volentix Labs. Volentix Labs makes no representation or warranty, expressed or implied, concerning the accuracy or completeness of the information and expressly disclaims any and all liability of any and all kinds whatsoever for the information contained or not contained. Volentix Labs requests each and every reader to read the information fully and carefully, and to undertake independent investigation and analysis of the information, and to seek and obtain professional advice for purposes of evaluating the information. To the knowledge of Volentix Labs, no regulatory agency, government, or other third-party enforcement entity has reviewed, evaluated, or approved any part or all of the information. This information is not an offer or solicitation of any kind whatsoever and does not form the basis for any contract or commitment of any kind whatsoever. Any statement considered to be forward-looking is purely a matter of opinion, and no viewer should rely on any such statement or on any part or all of the information in any way whatsoever.
+FOR INFORMATION PURPOSES ONLY. Ifitonileti yii ko jẹmọ pe o kun fọfọ. Ifitonileti naa jẹmọ ki o ni ayipada ni odidi tabi ni apakan ni eyikeyi akoko laisi ikede. Awọn Laabu Volentix ni ẹtọ lati ṣe atunṣe, rọpo, yọ kuro, tabi pa eyikeyi ati gbogbo alaye rẹ pẹlu ifẹ inu ati ipinnu ti o jẹ ti Awọn Laabu Volentix nikan soso. Awọn Laabu Volentix ko ṣe aṣoju tabi majẹmu atilẹyin kankan, ṣafihan tabi ṣe itumọsi, nipa ti iṣedeede tabi aṣepari ti ifitonileti naa ati ṣe ikọjalẹ kedere ti eyikeyi ati gbogbo gbese ti eyikeyi ati gbogbo eyiowu ti ki ba jẹ fun ifitonileti ti o wa ninu ẹ tabi ti ko si ninu ẹ. Awọn Laabu Volentix nilo ki ọkọọkan ati gbogbo oluka ka alaye naa ni kikun ati ni ifarabalẹ, ati lati ṣe iwadi ti ara ẹni ati iyanana ti alaye naa, ati lati wa ati gba imọran ọjọgbọn fun awọn idi ti ṣiṣe igbelewọn alaye naa. Si imọ ti awọn Laabu Volentix, kosi igbimọ idari, ijọba, tabi ifipamu ti alagata miiran bi atunyẹwo ṣe waye, jẹ gbigbelewọn, tabi jẹ fifọwọsi eyikeyi apakan tabi gbogbo alaye naa. Alaye yii ko kin ṣe ipese tabi ibeere iru eyikeyi botiwukori ati pe ko kin ṣe ipilẹ fun eyikeyi adehun tabi ifarajin iru eyikeyi botiwukori. Gbolohun kankan ti o ba jẹ kika si onitẹsiwaju jẹ ọrọ ti imọran nikan, ati pe oluwoye kankan ko gbọdọ gbarale iru gbolohun bẹ tabi apakan tabi gbogbo alaye naa ni eyikeyi ọna.
 
 ## RESTRICTION REGARDING U.S.A.
 
