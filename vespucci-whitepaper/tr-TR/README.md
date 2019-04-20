@@ -387,9 +387,9 @@ Genişletilebilirlik ile ilgili olarak Vespucci, Ethereum tabanlı tokenler içi
 
 Son olarak, bu aşamada kullanılacak en son iki fikirden söz ediyoruz: (a) Vespucci'nin merkezi olmama felsefesi ile birlikte öğrenme araçlarının dağıtılmış uygulamaları. (b) Üç sütundan birinde veya daha fazlasında kullanılabilecek sinir ağlarının, genel bir makine öğrenim aracı tarafından hesaplanacak bir nihai puan halinde toplanması.
 
-The **pipeline of Vespucci**, as shown in the figure below, consists of a computer cluster, having nodes for listening (Vespucci Listeners, or Aggregators) the aforementioned sources, such as social media (Twitter, Facebook, reddit), coin sites (coinmarketcap.com), Github etc, and nodes that could perform the analysis step of the collected data (Vespucci Analyzers). The results are kept in a database (e.g. SQL) to which the user has access through the interface and programmatically by an API.
+Aşağıdaki şekilde gösterildiği gibi **Vespucci boru hattı**, sosyal medya (Twitter, Facebook, reddit), madeni para siteleri (coinmarketcap.com), Github vb. yukarıda belirtilen kaynakları (Vespucci Dinleyicileri veya Toplayıcıları) dinlemek için düğümleri ve toplanan verilerin analiz adımını gerçekleştirebilecek düğümleri içeren bir bilgisayar kümesinden oluşur (Vespucci Analizörleri). Sonuçlar, kullanıcının arayüz yoluyla ve programatik olarak bir API tarafından erişebildiği bir veritabanında (örneğin, SQL) tutulur.
 
-* The listeners are VM nodes which periodically listen/search the sources of each coin. New information extracted for each coin is also kept in the database for transparency.
+* Dinleyiciler, her bir madeni paranın kaynaklarını periyodik olarak dinleyen/arayan VM düğümleridir. New information extracted for each coin is also kept in the database for transparency.
 * The analyzer VM nodes are then triggered and the new collected data will be analyzed (Sentiment, Technical and Technological & Fundamental analysis) by the Vespucci Analyzer nodes. Sonuçlar veri tabanında saklanır.
 * Finally, the UI is periodically refreshed, updating the current view of the user to include new analysis results.
 
