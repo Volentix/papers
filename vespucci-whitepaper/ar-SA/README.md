@@ -76,7 +76,7 @@
 
 هذا يضمن أن عنصر تحليل نزعة السوق الخاص بـ Vespucci قادر على تغطية الاغلبية العظمى من الرأي العام. تتم مقارنة النتائج على مدار ساعة واحدة ويوم واحد وأسبوع واحد. تتوفر الإخراجات من خلال واجهات برمجة التطبيقات للاستخدام الداخلي من قبل مكونات Vespucci الأخرى مثل واجهة المستخدم الأمامية على الويب وكذلك للمستخدمين الخارجيين الذين يرغبون في استهلاك البيانات أو إنشاء تطبيقات طرف آخر تعتمد على Vespucci.
 
-يعمل مستمعي الرأي العام الخاصين بـ Vespucci على أجهزة VM المستندة إلى السحابة والتي يمكنها التدريج الفوري لمعالجة جميع أعباء العمل المحتملة. وبهذه الطريقة، يحول Vespucci ويتعامل مع أحجام ضخمة من البيانات ذات القيمة والمرتبطة بالعملات الإلكترونية التي يتم إنشاؤها في كل لحظة. Parallelization is key when handling Big Data and Vespucci’s architecture leverages parallelization, multi-threading and concurrency wherever possible. Micro-services and serverless code run in parallel to orchestrate the ingestion procedures and data flows.
+يعمل مستمعي الرأي العام الخاصين بـ Vespucci على أجهزة VM المستندة إلى السحابة والتي يمكنها التدريج الفوري لمعالجة جميع أعباء العمل المحتملة. وبهذه الطريقة، يحول Vespucci ويتعامل مع أحجام ضخمة من البيانات ذات القيمة والمرتبطة بالعملات الإلكترونية التي يتم إنشاؤها في كل لحظة. التوازي هو مفتاح التعامل مع بنية البيانات الكبيرة لذلك تعمل هندسة Vespucci على زيادة التوازي، الترابط المتعدد، والتزامن كلما كان ذلك ممكنًا. تعمل الخدمات الصغيرة والكود بدون سرفير بالتوازي مع تنظيم إجراءات التحويل وتدفقات البيانات.
 
 In the second phase, scoring tools are adapted and enhanced so as to focus their functionality to cryptocurrencies and, eventually, our own software shall be developed for this task. Moreover, some storage is used (see the relevant [section](https://docs.google.com/document/d/1NLr-rgF66NCBmLmPIdElltKYVPJrLVO7DZDpcNEm6OU/edit?ts=5bec2f33#heading=h.921dav9nirz6)) for aggregate data needed in order (a) to make historical comparisons and (b) to train the Convolutional Neural Network that produces the final score. For (a), we could make use of the entire history of each token since its creation. For (b), deep learning needs data covering a period of up to two years.
 
@@ -139,7 +139,7 @@ Eventually, Vespucci will reach out to the open-source community in an attempt t
 
 <td>LinkedIn</td>
 
-<td>التوجه/الأساسي</td>
+<td>التوجه والأساسي</td>
 
   </tr>
   
@@ -148,7 +148,7 @@ Eventually, Vespucci will reach out to the open-source community in an attempt t
 
 <td>Coin Sites</td>
 
-<td>التكنولوجي/الأساسي</td>
+<td>التكنولوجي والأساسي</td>
 
   </tr>
   
@@ -157,7 +157,7 @@ Eventually, Vespucci will reach out to the open-source community in an attempt t
 
 <td>CoinMarketCap</td>
 
-<td>Technical, Technological & Fundamental</td>
+<td>الفني، التكنولوجي والأساسي</td>
 
   </tr>
   
@@ -166,7 +166,7 @@ Eventually, Vespucci will reach out to the open-source community in an attempt t
 
 <td>Github</td>
 
-<td>Technological</td>
+<td>التكنولوجي</td>
 
   </tr>
   
@@ -175,7 +175,7 @@ Eventually, Vespucci will reach out to the open-source community in an attempt t
 
 <td>Coinbio</td>
 
-<td>General Information about every crypto </td>
+<td>معلومات عامة حول كل عملة رقمية </td>
 
   </tr>
   
@@ -184,7 +184,7 @@ Eventually, Vespucci will reach out to the open-source community in an attempt t
 
 <td>BitInfoCharts</td>
 
-<td>Technical </td>
+<td>تقني </td>
 
   </tr>
   
@@ -193,7 +193,7 @@ Eventually, Vespucci will reach out to the open-source community in an attempt t
 
 <td>Cointelegraph</td>
 
-<td>Technical </td>
+<td>تقني </td>
 
   </tr>
   
@@ -202,7 +202,7 @@ Eventually, Vespucci will reach out to the open-source community in an attempt t
 
 <td>CCN</td>
 
-<td>Sentiment (Forums & News)</td>
+<td>التوجه (المنتديات والأخبار)</td>
 
   </tr>
   
@@ -211,7 +211,7 @@ Eventually, Vespucci will reach out to the open-source community in an attempt t
 
 <td>CoinDesk</td>
 
-<td>Sentiment (Forums & News)</td>
+<td>التوجه (المنتديات والأخبار)</td>
 
   </tr>
   
@@ -220,7 +220,7 @@ Eventually, Vespucci will reach out to the open-source community in an attempt t
 
 <td>Bitcointalk</td>
 
-<td>Sentiment (Forums & News) </td>
+<td>التوجه (المنتديات والأخبار) </td>
 
   </tr>
   
@@ -229,7 +229,7 @@ Eventually, Vespucci will reach out to the open-source community in an attempt t
 
 <td>Crypto Coin Rankings</td>
 
-<td>Technological & Technical </td>
+<td>التكنولوجي والتقني </td>
 
   </tr>
 </table>
