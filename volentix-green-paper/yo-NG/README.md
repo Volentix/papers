@@ -11,9 +11,9 @@ Aaye ifilọle VDex n ṣe ifojusọna fun sise ibamu awọn ibeere idalara ti V
 In the second decade since the emergence of Bitcoin, the digital asset marketplace is defined by the dizzying highs and lows experienced by a tiny percentage of the global population trading thousands of cryptocurrencies many of which are outright scams. Looking past the frauds, and observing the value of the credible digital application technologies emerging in the past ten years, if we are to progress and promulgate those technologies, then they must penetrate the mainstream. Legitimate digital currencies must be used in broad commerce. And the primary focus of digital assets proliferation must be to simplify and enrich user experience. The choices of which existing technologies to employ and which unavailable technologies to develop must be driven by comfort, certainty, and security of user  
 transactions and related experiences.
 
-## MARKET ENTRY
+## ATẸWỌLE ỌJA
 
-To address the prevailing market mandate, the VOLENTIX ecosystem introduces an initializing array of four digital applications, specifically known as VENUE, VERTO, VESPUCCI, and VDEX.
+Lati ṣamojuto ofin ọja ti o mulẹ lọwọlọwọ yii, awujọ ti VOLENTIX n ṣafihan ibi ibẹẹrẹ iseto orisirisi awọn ohun elo oni-nọmba mẹrin kan, ti a mọ ni pato si VENUE, VERTO, VESPUCCI, ati VDEX.
 
 ## Ibugbe
 
