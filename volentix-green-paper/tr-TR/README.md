@@ -4,7 +4,7 @@
 
 Volentix introduces VDex, designed as a distributed, decentralized digital assets exchange with emphasis on user experience and community development and governance. By accessing established technologies and planning selective new protocols with priority on security, speed, authentication, ease of use, scalability, and multi-asset support, VDex intends to facilitate peer-to-peer transactions by assembling a portfolio of decentralized applications built on EOS.IO smart contracts.
 
-The VDex launch point anticipates matching Volentix’s design requirements to available technologies superimposed on the EOS.IO decentralized operating system. We intend to test our assumptions by prototyping via custom EZEOS software, which we built and customized with EOS.IO’s close command line tools. Bu yazılım şurada bulunur: https://github.com/Volentix/ezeos
+The VDex launch point anticipates matching Volentix’s design requirements to available technologies superimposed on the EOS.IO decentralized operating system. Varsayımlarımızı, EOS.IO'nun yakın komut satırı araçları ile oluşturup özelleştirdiğimiz özel EZEOS yazılımı aracılığıyla prototipleyerek test etmeyi amaçlıyoruz. Bu yazılım şurada bulunur: https://github.com/Volentix/ezeos
 
 ## PİYASA YETKİSİ
 
@@ -17,7 +17,7 @@ To address the prevailing market mandate, the VOLENTIX ecosystem introduces an i
 
 ## Venue
 
-Venue is planned as a dynamic community platform that recruits and aligns members of the VOLENTIX community to facilitate distribution of the native VTX token, and to promote awareness of VOLENTIX community initiatives. An initial VENUE signature campaign is underway. Lütfen daha fazla bilgi için <https://venue.volentix.io> ziyaret edin.
+Venue, VTX tokenin dağıtımını kolaylaştırmak ve VOLENTIX topluluğu girişimlerinin farkındalığını arttırmak için VOLENTIX topluluğu üyelerini işe alan ve hizalayan dinamik bir topluluk platformu olarak planlanmıştır. İlk VENUE imza kampanyası devam ediyor. Lütfen daha fazla bilgi için <https://venue.volentix.io> ziyaret edin.
 
 ## Verto
 
