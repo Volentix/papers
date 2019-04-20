@@ -418,8 +418,8 @@ Awọn ilana ifipamọ le gbarale awọn iwe Ibeere alaisilori-ila ti o jẹ gbi
 ![](https://volentix.io/file/2019/01/Web-1920-–-2@3x.png)
 
 Atẹ isẹlẹ iṣẹ akanṣe naa jẹ fifihan ninu akawe ti o wa loke. The main milestones are:  
-— Vespucci MVP. November 2018 .  
-— Vespucci, version 1.0\. Osu kẹrin 2019.
+— Vespucci MVP. Oṣù Kọkànlá 2018 .  
+— Vespucci, ẹya 1.0\. Osu kẹrin 2019.
 
 ### **AWỌN IMỌRIRI**
 
