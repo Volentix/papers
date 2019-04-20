@@ -22,15 +22,15 @@ Vespucci genel mimarisi
 
 * ### **OBJEKTİF**
 
-Vespucci offers a web-based platform to enable users to navigate through crypto data and make informed trading and digital-asset utilization decisions. Özellikle şunları sağlar:
+Vespucci, kullanıcıların kripto verilerinde gezinmelerini ve bilinçli alım satım ve dijital varlık kullanım kararları almalarını sağlayan web tabanlı bir platformdur. Özellikle şunları sağlar:
 
-* An intuitive analytical agent leading to an easy to understand overview of cryptocurrencies.
+* Sezgileri güçlü bir analitik temsilci, kripto para birimlerine genel bakış hakkında anlaşılması kolay bir yol açar.
 * Risk değerlendirmesi de dahil olmak üzere bir kripto para birimleri derecelendirme sistemi.
 * Kripto para birimi haberleri için bir gösterge tablosu.
 
 ![](https://volentix.io/file/2019/01/02-icon.jpg)
 
-The rating and analytical capacity of Vespucci relies on the three pillars of: Sentiment analysis, Technical / economic analysis, and Fundamental / technological analysis. Vespucci combines these aspects in order to provide rating and ranking by employing Machine Learning and Neural Network (NN) technology. It offers a service that has never been available before since it integrates all features in the following figure.
+Vespucci'nin derecelendirme ve analitik kapasitesi şu üç sütuna dayanmaktadır: Duyarlılık analizi, Teknik / ekonomik analiz ve Temel / teknolojik analiz. Vespucci combines these aspects in order to provide rating and ranking by employing Machine Learning and Neural Network (NN) technology. It offers a service that has never been available before since it integrates all features in the following figure.
 
 ![](https://volentix.io/file/2019/01/1k.jpg)
 
