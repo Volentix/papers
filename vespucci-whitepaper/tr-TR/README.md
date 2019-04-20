@@ -389,11 +389,11 @@ Son olarak, bu aşamada kullanılacak en son iki fikirden söz ediyoruz: (a) Ves
 
 Aşağıdaki şekilde gösterildiği gibi **Vespucci boru hattı**, sosyal medya (Twitter, Facebook, reddit), madeni para siteleri (coinmarketcap.com), Github vb. yukarıda belirtilen kaynakları (Vespucci Dinleyicileri veya Toplayıcıları) dinlemek için düğümleri ve toplanan verilerin analiz adımını gerçekleştirebilecek düğümleri içeren bir bilgisayar kümesinden oluşur (Vespucci Analizörleri). Sonuçlar, kullanıcının arayüz yoluyla ve programatik olarak bir API tarafından erişebildiği bir veritabanında (örneğin, SQL) tutulur.
 
-* Dinleyiciler, her bir madeni paranın kaynaklarını periyodik olarak dinleyen/arayan VM düğümleridir. New information extracted for each coin is also kept in the database for transparency.
+* Dinleyiciler, her bir madeni paranın kaynaklarını periyodik olarak dinleyen/arayan VM düğümleridir. Her bir madeni para için çıkarılan yeni bilgiler şeffaflık için veri tabanında da tutulur.
 * The analyzer VM nodes are then triggered and the new collected data will be analyzed (Sentiment, Technical and Technological & Fundamental analysis) by the Vespucci Analyzer nodes. Sonuçlar veri tabanında saklanır.
-* Finally, the UI is periodically refreshed, updating the current view of the user to include new analysis results.
+* Son olarak, UI periyodik olarak yenilenerek kullanıcının mevcut analizini yeni analiz sonuçlarını içerecek şekilde güncellemektedir.
 
-To effectiv ely manage our computer cluster consisting of listening and analyzing nodes, we offer a platform that facilitates any type of component architecture (a useful tool here is Kubernetes once we use Docker containers). We shall provide the API, but implementation details are decided by the developers. To provide concrete examples, f rameworks for distributed storage and processing of big data are considered, such as Apache Hadoop (or Cassandra). Hadoop is a collection of open-source software utilities that facilitate using a network of computers to solve problems involving massive amounts of data and computation, handling automatically the hardware failures. Other frameworks may be considered such as Apache Spark, which is a cluster-computing batch processing framework, with the ability to write applications in multiple languages (Java, Scala, Python, R). Alternatives include Apache Samza, which offers a near-realtime asynchronous framework for distributed stream processing, or Apache Flink, a hybrid framework for stream processes and batch tasks.
+Dinleme ve analiz düğümlerinden oluşan bilgisayar kümemizi etkin bir şekilde yönetmek için, her tür bileşen mimarisini kolaylaştıran bir platform sunuyoruz (Docker konteynerlerini kullandığımızda Kubernetes burada kullanışlı bir araçtır). API'ı sağlayacağız ancak geliştiriciler tarafından uygulamanın detaylarına karar verilir. Elle tutulur örnekler sağlamak için, Apache Hadoop (veya Cassandra) gibi büyük verilerin dağıtılmış depolanması ve işlenmesi için çerçeveler dikkate alınır. Hadoop, büyük miktarda veri ve hesaplama içeren sorunları çözmek için bir bilgisayar ağının kullanılmasını kolaylaştıran, donanım hatalarını otomatik olarak ele alan bir açık kaynak yazılım koleksiyonudur. Birden fazla dilde (Java, Scala, Python, R) uygulama yazabilme özelliğine sahip küme-hesaplama toplu işlem çerçevesi olan Apache Spark gibi başka çerçeveler de düşünülebilir. Alternatives include Apache Samza, which offers a near-realtime asynchronous framework for distributed stream processing, or Apache Flink, a hybrid framework for stream processes and batch tasks.
 
 ![](https://volentix.io/file/2019/01/Web-1920-–-3@2x.png)
 
@@ -401,7 +401,7 @@ The **implementation** of the Vespucci analysis tools is in Python using various
 
 * NumPy, Pandas, Seaborn, analiz bölümü için matplotlib.
 * Makine öğrenimi için Scikit-learn, TensorFlow.
-* NLTK, Tweepy, VADER, TextBlob for twitter sentiment analysis.
+* Twitter duyarlılık analizi için NLTK, Tweepy, VADER, TextBlob.
 * pyodbc veri tabanımız ile bağlantı kurmak için.
 * Blockchair.com API and coinmarketcap, a wrapper around the coinmarketcap.com API, to obtain information about each coin, such as the market cap ranking, and to update them easily
 
