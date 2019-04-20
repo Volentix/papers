@@ -27,7 +27,7 @@ Verto, VDEX borsası ile kullanım için çok para birimli bir cüzdan olacak ve
 
 Vespucci, varlık derecelendirmeleri ve duyarlılık analizi gibi gerçek zamanlı piyasa verilerinin hazine askerleri ile kullanıcı dostu bir arayüzle erişilebilen bir analitik motoru olarak öngörülmektedir. Kullanıcıları takas edilebilir dijital varlıkları grafiklemek ve karşılaştırmak, geçmiş alım satım kayıtlarına erişmek ve ayrıştırmak, trendleri ve kalıpları çizmek ve açık kaynaklı yazılım gelişmelerini izlemek ve değerlendirmek için araçlarla güçlendirmek istiyoruz. VESPUCCI, şu anda birçok farklı blok zincirleri, web siteleri, sohbet odaları ve borsalara dağılmış olan bilgileri bir araya getirerek, parmaklarınızın ucunda güvenli ve piyasa ile ilgili kapsamlı verileri bulmaya çalışıyor. Bu uygulama şu anda ortağımız Pythagoras Systems tarafından geliştirilmektedir.
 
-The fourth pillar of VOLENTIX is the decentralized VDEX exchange, a tradable digital assets platform introduced in detail in our white paper available to view at [https://volentix.io/documentation/vdex-whitepaper](https://volentix.io/documentation/vdex-whitepaper/).
+VOLENTIX'in dördüncü ayağı, [https://volentix.io/documentation/vdex-whitepaper](https://volentix.io/documentation/vdex-whitepaper/)'da görüntülenebilecek olan tanıtım belgemizde ayrıntılı olarak sunulan, ticari bir dijital varlık platformu olan merkezi olmayan VDEX borsasıdır.
 
 ## VDex
 
