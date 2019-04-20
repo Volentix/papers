@@ -34,13 +34,13 @@
 
 ![](https://volentix.io/file/2019/01/1k.jpg)
 
-* ### **DESIGNING VESPUCCI**
+* ### **تصميم VESPUCCI**
 
-* #### **VESPUCCI FEATURES**
+* #### **ميزات VESPUCCI**
 
-The features of Vespucci are as follows.
+ميزات Vespucci هي على النحو التالي.
 
-* Rating of cryptocurrencies, easily leading to a Prediction machine.
+* تصنيف العملات الإلكترونية مما يؤدي بسهولة إلى آلة تنبؤ.
 * Combination of a complete spectrum of criteria ranging from Fundamental / Technological Analysis to technical / economics aspects up to a sentiment gauge.
 * Transparency in methodology (data sources, ingestion mechanism, data manipulation process, algorithms)
 * Broad spectrum of sources (to avoid biased data)
@@ -60,7 +60,7 @@ Vespucci is designed under the following principles.
 * Intuitive
 * #### **HOW VESPUCCI WORKS**
 
-The three pillars are described in the following subsections. In these subsections a large number of criteria is mentioned. The results of the SA component is made available along with the Technical and FTA results to the users so they can access a complete 360 view of each coin’s state, rank and ultimately understand the coin’s true value and potential. ‪An evaluation of both established cryptocurrencies and known “scam-coins” is performed, and the resulting parameters deemed most relevant in determining cryptocurrency validity is integrated into the system.
+تم وصف الدعائم الثلاثة في الأقسام الفرعية التالية. كما تم ذكر عدد كبير من المعايير فيها. The results of the SA component is made available along with the Technical and FTA results to the users so they can access a complete 360 view of each coin’s state, rank and ultimately understand the coin’s true value and potential. ‪An evaluation of both established cryptocurrencies and known “scam-coins” is performed, and the resulting parameters deemed most relevant in determining cryptocurrency validity is integrated into the system.
 
 In order to test Vespucci in a semi-public release using prospective volunteers, the system is being introduced to various outside users for bug testing of the assessment system functions, and the UI. ‬‪It is carried out in a public setting through the organization of a closed beta release. Users are selected to allow for more constructive and relevant feedback information.‬ ‪An ongoing iterative process of tweaks, fixes, and adjustments will take place during the beta release from the insight derived from user feedback.‬
 
