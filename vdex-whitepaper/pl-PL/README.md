@@ -76,15 +76,15 @@ W EOS.IO wydanie zasobu cyfrowego tworzy łańcuch boczny, który jest nowym mec
 
 #### 3.0.5 Płynność
 
-Zasób cyfrowy jest płynny, jeśli łatwo go sprzedać lub kupić w zwykłych wolumenach obrotu, bez znaczącego krótkoterminowego wpływu na jego dominującą cenę rynkową. W celu zdobycia takiego satusu, zazwyczaj każdy wymienialny zasób musi pokrywać pułap wolumenu obrotu wystarczający do podtrzymania stabilności. W szczególności przewidujemy przyjęcie następujących metodologii: Zapętlanie protokołu z wykorzystaniem kontraktów EOS.IO działających jako węzły.[5] Algorytm Bancora używany do zapewnienia stabilności zasobu cyfrowego. [6] Przełączanie między tymi protokołami i HTLC (swapy atomowe) zgodnie z analizami Vespucci w sieci VDex.
+Zasób cyfrowy jest płynny, jeśli łatwo go sprzedać lub kupić w zwykłych wolumenach obrotu, bez znaczącego krótkoterminowego wpływu na jego dominującą cenę rynkową. W celu zdobycia takiego satusu, zazwyczaj każdy wymienialny zasób musi pokrywać pułap wolumenu obrotu wystarczający do podtrzymania stabilności. W szczególności przewidujemy przyjęcie następujących metodologii: Zapętlanie protokołu z wykorzystaniem kontraktów EOS.IO działających jako węzły.[5] Algorytm Bancora używany do zapewnienia stabilności zasobu cyfrowego. [6] Przełączanie między tymi protokołami i HTLC (atomic swap) zgodnie z analizami Vespucci w sieci VDex.
 
-#### 3.0.6 Hashed Timelock Contracts (Atomic Swaps)
+#### 3.0.6 Mieszany Timelock Umów (Atomic Swap)
 
-A Hashed Timelock Contract (HTLC)[1] is a smart contract enabling the implementation of time-bound transactions. Users will be offered a variable lock-in period for their transactions, with a discount on transaction fees in exchange for choosing a longer lock-in period.
+Umowa Hashed Timelock (HTLC)[1] to inteligentna umowa umożliwiająca realizację transakcji ograniczonych w czasie. Użytkownicy otrzymają zmienny okres blokady dla swoich transakcji, ze zniżką na opłaty transakcyjne w zamian za wybór dłuższego okresu blokady.
 
-### 3.1 NETWORK TOPOLOGY
+### 3.1 TOPOLOGIA SIECI
 
-#### 3.1.1 Nodes
+#### 3.1.1 Węzły
 
 ![](../9.jpg)
 
@@ -106,89 +106,89 @@ Węzły pobierają część opłaty za każdą transakcję. Jeśli użytkownik p
 
 #### 3.1.2 Agregatory
 
-Agregatory VDex są dedykowanymi serwerami Volentix do celów symulatora i bezpieczeństwa. One of their functions is to pull logs and order book data from nodes into sparse distributed representations for hierarchical temporal memory as intrusion [7] analysis for detecting anomalies in the system. The aggregators will also be host to other components such as metachain ledgers and blockchain scrapers.
+Agregatory VDex są dedykowanymi serwerami Volentix do celów symulatora i bezpieczeństwa. Jedną z ich funkcji jest pobieranie rejestrów i danych z węzłów do rzadkich rozproszonych reprezentacji dla hierarchicznej pamięci czasowej jako analizy włamań [7] do wykrywania anomalii w systemie. Agregatory będą także hostować inne komponenty, takie jak księgi metachain i skrobaki blockchain.
 
-#### 3.1.3 Latency
+#### 3.1.3 Opóźnienie
 
-EOS.IO has low latency block confirmation (0.5 seconds).[5] This degree of latency can be maintained in transactions with other blockchains if those chains admit of similar latency. But fundamentally the transaction is only as rapid as the lesser-rapid chain in the equation. It is well known, for example, that a Bitcoin block requires approximately ten minutes for processing. Receiving a transaction hash does not mean the transaction is confirmed; it means only that a node accepted the transaction without error, although there is generally a high probability other block producers will accept it.
+EOS.IO ma potwierdzenie bloku o niskim opóźnieniu (0,5 sekundy).[5] Ten stopień opóźnienia można utrzymać w transakcjach z innymi blockchainami, jeśli łańcuchy te dopuszczają podobne opóźnienie. Ale zasadniczo transakcja jest tak szybka, jak mniej gwałtowny łańcuch w równaniu. Wiadomo na przykład, że blok Bitcoin wymaga około dziesięciu minut na przetworzenie. Otrzymanie sumy kontrolnej transakcji nie oznacza potwierdzenia transakcji; oznacza to tylko, że węzeł zaakceptował transakcję bez błędu, chociaż generalnie istnieje duże prawdopodobieństwo, że inni producenci bloków ją zaakceptują.
 
-### 3.2 ORDER BOOK
+### 3.2 ARKUSZ ZLECEŃ
 
-The order book is the list of buy-and-sell orders VDex records from interested users. A matching engine uses an order book to determine which orders can be fulfilled. The Loopring protocol allows for customizing the order book data structure.[5] Containers provided by EOS.IO can be used for optimal performance.[8]
+Arkusz zleceń to lista zamówień kupna i sprzedaży rekordów VDex od zainteresowanych użytkowników. Dopasowany silnik używa arkusza zleceń, aby określić, które zamówienia mogą zostać zrealizowane. Protokół Loopring umożliwia dostosowanie struktury danych arkusza zleceń.[5] Pojemniki dostarczane przez EOS.IO mogą być używane do optymalnej wydajności.[8]
 
-#### 3.2.1 Data structures
+#### 3.2.1 Struktury danych
 
-Using the Loopring Protocol FIFO (first-in first-out) circular buffer, nodes can design their order books to display and match a user’s order. This method follows an OTC model, where limit orders are positioned based on price only.[5]
+Używając Pętli Protokołu FIFO (pierwszy wchodzi pierwszy opuszcza) buforu kołowego, węzły mogą projektować swoje arkusze zleceń, aby wyświetlały i pasowały do ​​zamówienia użytkownika. Metoda ta opiera się na modelu OTC, w którym zlecenia limitowe są pozycjonowane wyłącznie w oparciu o cenę.[5]
 
-Referencing the EOS.IO persistence API, the order book is able to take advantage of the powerful multi-index container shared among nodes through the same EOS.IO account.
+Odwołując się do interfejsu API trwałości EOS.IO, arkusz zleceń jest w stanie wykorzystać potężny pojemnik o wielu indeksach współdzielony przez węzły za pośrednictwem tego samego konta EOS.IO.
 
-#### 3.2.2 On-Chain order book
+#### 3.2.2 Arkusz zleceń w łańcuchu
 
-An on-chain order book is a record of offers residing on the wallet (node) chosen to settle the order book. It resides in a persistent database on each node subscribing to the same account as all the other nodes.
+Arkusz zleceń w łańcuchu to rejestr ofert znajdujących się w portfelu (węźle) wybranym do rozliczenia arkusza zleceń. Znajduje się w trwałej bazie danych na każdym węźle subskrybującym to samo konto, co wszystkie pozostałe węzły.
 
-#### 3.2.3 Off-Chain order book
+#### 3.2.3 Arkusz zleceń poza łańcuchem
 
-Residing on the aggregator, offline order books serve for simulator and security purposes.
+Znajdując się w agregatorze, książki zamówień offline służą do celów symulatora i bezpieczeństwa.
 
-#### 3.2.4 Decentralization process of order book settlement
+#### 3.2.4 Decentralizacja procesu rozliczenia księgi zamówień
 
-For decentralization purposes, nodes will take turns to settle the order book. The settling node must be designated by the protocol and all order book entries from all nodes must be available to the settling nodes. We believe the RAFT[9] and PARSEC[10] consensus mechanisms offer effective solutions. RAFT is a well-established algorithm and is easy to implement.[7] PARSEC is more recent and more efficient, using Directed Acyclic Graph (DAG) technology and eliminating the need for copying logs.
+W celu decentralizacji, węzły będą zmieniać kolejność zamówień. The settling node must be designated by the protocol and all order book entries from all nodes must be available to the settling nodes. Wierzymy, że mechanizmy konsensusowe RAFT[9] i PARSEC[10] oferują skuteczne rozwiązania. RAFT jest sprawdzonym algorytmem i jest łatwy do wdrożenia.[7] PARSEC jest nowszy i bardziej wydajny, dzięki technologii Directed Acyclic Graph (DAG) i eliminuje potrzebę kopiowania rejestrów.
 
-### 3.3 ORDER SETTLEMENT
+### 3.3 ROZLICZENIE ZAMÓWIENIA
 
-Order settlement contains familiar elements of conventional financial market transactions. Utilizing FIFO technology to design the order book, VDex intends to check order, inventory, and fill rate, as well as limit orders and cancellations. ![](../7.jpg)
+Rozliczenie zamówienia zawiera znane elementy konwencjonalnych transakcji na rynku finansowym. Wykorzystując technologię FIFO do projektowania arkusza zleceń, VDex zamierza sprawdzić zamówienie, ewidencję i wskaźnik wypełnienia, a także ograniczyć zamówienia i anulowania. ![](../7.jpg)
 
 ### 3.4 VTX
 
-#### 3.4.1 VTX Issuance and Use
+#### 3.4.1 Emisja i Użycie VTX
 
-VTX is the native digital asset to be issued and used on the VDex decentralized exchange. We currently plan to use an eosio.token contract from the EOS.IO framework to issue 2.1 billion EOS.IO-compliant VTX tokens with a supply of 1.3 billion. VTX will have a diverse array of uses, for example:
+VTX to natywny zasób cyfrowy, który ma być wydawany i używany poprzez zdecentralizowaną wymianę VDex. Obecnie planujemy wykorzystać umowę eosio.token ze struktury EOS.IO do emisji 2,1 miliarda tokenów VTX zgodnych ze standardem EOS.IO przy dopływie 1,3 miliarda. VTX będzie miał różne zastosowania, na przykład:
 
-To reward participants in the consensus process and in Venue campaigns.
+Nagradzać uczestników w procesie konsensusu i w kampaniach Venue.
 
-To pay and redistribute transaction fees on the VDex exchange.
+Płacić i redystrybuować opłaty transakcyjne na giełdzie VDex.
 
-To submit and vote on proposals to the Volentix ecosystem, using the voting rights allocated to VTX holders.
+Przesyłać i głosować na propozycje do ekosystemu Volentix, wykorzystując prawa głosu przydzielone posiadaczom VTX.
 
-To stake support for reviewing proposals and implementing projects.
+Udzielać wsparcia za przeglądanie propozycji i wdrażanie projektów.
 
-To incentivize users to participate in order book settlement by becoming nodes via their Verto wallets.
+Aby zachęcić użytkowników do uczestnictwa w rozliczaniu arkusza zleceń, stając się węzłami za pośrednictwem portfeli Verto.
 
-To incentivize users to lock funds in for >24 hours by HTLC time-bound transactions.
+Aby zachęcić użytkowników do zablokowania środków na >24 godziny przez transakcje HTLC ograniczonych w czasie.
 
-#### 3.4.2 VTX Allocation
+#### 3.4.2 Alokacja VTX
 
 ![](../6.jpg)
 
-A digital assets ecosystem requires an array of certain fundamental human constituents who shepherd the project forward.[11] It is essential to compensate those individuals for their participation. Subject to adjustment, Volentix currently anticipates the following allocations:
+Ekosystem zasobów cyfrowych wymaga szeregu podstawowych składników ludzkich, które prowadzą projekt do przodu.[11] Istotne jest, aby zrekompensować tym osobom ich udział. Poddany dostosowaniu, Volentix przewiduje obecnie następujące przydziały:
 
-1. Contributors. 12%. An array of individuals, akin to founders, who contribute insights, time and talent, though often work without early compensation.
+1. Współautorzy. 12%. Szereg osób podobnych do założycieli, którzy wnoszą spostrzeżenia, czas i talent, choć często pracują bez wcześniejszej rekompensaty.
 
-2. Supporters.
+2. Wspierający.
 
-Phase 1. 5%. Early passive seed funders.
+Faza 1. 5%. Wcześni pasywni fundatorzy seed.
 
-Phase 2. 28%. Funders via qualified private pre-sales and possible public sale.
+Faza 2. 28%. Fundatorzy za pośrednictwem kwalifikowanej prywatnej wyprzedaży i możliwej publicznej sprzedaży.
 
-3. Facilitators. (Advisors, Developers, Promoters, Custodians). Note that requirements for assistance from the sub-categories in this category may differ significantly before and after the project receives substantial funding support, but certain individuals may serve during both phases.
+3. Mediatorzy. (Doradcy, Deweloperzy, Promotorzy, Opiekunowie). Należy zauważyć, że wymagania dotyczące pomocy z podkategorii w tej kategorii mogą się znacznie różnić przed i po otrzymaniu przez projekt znacznego wsparcia finansowego, ale niektóre osoby mogą służyć w obu fazach.
 
-Phase 1. 10%.
+Faza 1. 10%.
 
-Phase 2. 10%.
+Faza 2. 10%.
 
-4. Decentralized treasury. 35%. Community members incentivized and rewarded for participation in progressive development of a decentralized autonomous organization (DAO). A decentralized treasury is anticipated to be administered by smart contracts and community consensus. ![](../5.jpg)
+4. Zdecentralizowany skarbiec. 35%. Członkowie społeczności zachęcali i nagradzali za udział w stopniowym rozwoju zdecentralizowanej autonomicznej organizacji (DAO). Oczekuje się, że zdecentralizowany skarbiec będzie zarządzany przez inteligentne umowy i konsensus społeczny. ![](../5.jpg)
 
-#### 3.4.3 VTX Distribution
+#### 3.4.3 dystrybucja VTX
 
-In light of market conditions at the time of this writing, Volentix is considering timing, means, and terms and conditions of VTX distribution as a function of private pre-sales and possible public sale. Please monitor our website for updates.
+W świetle warunków rynkowych w momencie pisania niniejszego tekstu Volentix rozważa harmonogram, środki i warunki dystrybucji VTX w zależności od prywatnej przedprzedaży i możliwej publicznej sprzedaży. Prosimy o śledzenie naszej witryny w poszukiwaniu aktualizacji.
 
-### 3.5 EOS.IO PLATFORM DEPLOYMENT
+### 3.5 ZASTOSOWANIE PLATFORMY EOS.IO
 
-The following considerations are relevant to our deploying the VDex exchange on the EOS.IO platform:
+Poniższe uwagi są istotne dla naszego wdrożenia wymiany VDex na platformie EOS.IO:
 
-Deploying a contract has a cost but is free to use.
+Wdrożenie umowy wiąże się z kosztami, ale można go używać bezpłatnie.
 
-Developers stake EOS.IO-compliant tokens to deploy a smart contract. After the contract is deployed, the locked tokens are returned.
+Deweloperzy stosują żetony kompatybilne z EOS.IO, aby wdrożyć inteligentną umowę. Po wdrożeniu umowy zablokowane tokeny są zwracane.
 
 Decentralized applications allocate memory, CPU, bandwidth, and other resources to their contracts.
 

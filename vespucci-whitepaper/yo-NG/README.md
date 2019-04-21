@@ -64,7 +64,7 @@ Awọn opo mẹtẹta ni a ṣe apejuwe wọn ninu awọn ẹya abala wọnyii. 
 
 Lati le ṣe ayẹwo Vespucci ninu igbejade kan to fẹẹrẹ jẹ gbogbogbo nipa lilo awọn olujọwọ ara ẹni ti a fojusun, eto naa n jẹ fifihan lọwọlọwọ yii si orisirisi awọn olumulo ti ita fun ayẹwo fun asise ninu agbeyẹwo awọn iṣẹ eto, ati UI naa. O jẹ ṣiṣe ninu eto ti oju gbangba nipasẹ ajọ ti igbejade beta pipade. Awọn olumulo jẹ yiyan lati faye gba alaye esi idahun alatunṣe ati to wulo. Ilana atẹnumọ awọn ayipada, awọn atunṣe, ati awọn atunto to nlọ lọwọ yoo waye ni akoko igbejade ti beta lati inu oye ti o wa lati inu esi idahun olumulo
 
-* ### **PILARS**
+* ### **AWỌN OPO**
 
 * #### **IYANANA IWOYESI**
 
@@ -291,22 +291,22 @@ Lara awọn nkan miiran, diẹ ninu awọn ẹya ara ti o wa nilẹ nipasẹ aw�
 * onka iye isanwo
 * awọn adirẹsi ti n ṣiṣe lọwọ
 * awọn owo
-* median fee
-* generated coins
-* average difficulty
-* median transaction value (usd)
-* block size
-* block count
+* owo median
+* awọn owo ti a wa jade
+* agbede bi inira se to
+* iye iṣowo median (usd)
+* odiwọn bi bulọọku se tobi to
+* onka bulọọku
 * iye owo (usd)
-* market capitalization (usd)
-* exchange volume(usd)
-* total coins mined
-* difficulty adjustment
-* block reward reduction, number & time
-* net hashes per second
-* total coins mined
+* iye owo-iṣowo (usd)
+* iwọn iye ipaṣipaarọ(usd)
+* iye owo to ti jẹ wiwa
+* iṣatunṣe bi o se ṣoro si
+* adinku ere bulọọku, nọmba & akoko
+* apapọ hash ni iṣẹju aaya kọọkan
+* iye owo to ti jẹ wiwa
 
-**Source Code – Developer activity**
+**Orisun koodu - Iṣẹ olugbedide**
 
 Abala kan wa ti o jẹ ti iyanana iwọn oniye lati apa irisi ibasepọ ti o n wo ikopa ti awujọ olugbedide ti o yi iṣẹ akanse naa ka, eyiti o ni ibatan pẹlu Iyanana Iwoyesi. Iwadi sinu awọn osuwọn ti o n ṣe afihan to peye ti awọn iwọn ikopa ti awujọ ati ti ikopa awọn oluṣẹda pẹlu ma jẹ gbigbe yẹwo. Awọn okunfa naa le jẹ awọn ohun wọnyi amọ ko pin si awọn ohun wọnyi:
 
@@ -344,56 +344,56 @@ Vespucci ni intafeesi olumulo (UI) kan eyiti o n fayegba lati tẹ iwọn aala w
 
 Intafeesi abajade n pese aworan oniṣubu, to n pese atọka fun awọn abala to se faagun ti o n safihan awọn oṣuwọn ti a yan ni kikun. Aworan oniṣubu n ṣafihan alaye isọniṣoki ipele ipo ti alaroko-awọ ti owo kiripito. Iṣiro ipele ipo ti alaroko-awọ n jẹ ṣiṣe nipa lilo agbede iwọn ti apapọ gbogbo agbeyẹwo awọn osuwọn. Ọkọọkan abala ti o ṣe faagun n ṣafihan osuwọn tabi ẹgbẹ ti awọn osuwọn ni ọna aworan onila. Agbeyẹwo awọn osuwọn ti jẹ yiyasọtọ si oriṣiriṣi awọn abala dida lori alaye ti wọn duro fun gẹgẹbi data ti o nii ṣe pẹlu irisi ibasepọ tabi irisi idiju. Ṣiṣe atọka ẹlẹyẹ julọ ti agbeyẹwo awọn osuwọn waye lati fayegba ifọrọwerọ alatinumọ ti UI ni wiwọle si ati iwo data ti a nifẹsi fun olumulo naa.
 
-Following the success of the Ethereum Wallet and Ethereum Mist browser, the main interface exposed to a user is hosted inside an Electron app. Electron is a mature technology introduced by Github to create modern desktop applications. Since Vespucci is not tied to Desktop-based APIs however, it is also possible to port this application to run inside of a browser. The interface for the app can be designed by using mature UI libraries for modern applications. With each component existing on its own, it is also straightforward to pull components out and add new ones as the product is trialed with users without adversely affecting the product as a whole.
+Titẹle aṣeyọri ti apa owo Ethereum ati aṣàwákiri ayelujara ti Ethereum, intafeesi pataki julọ ti o jẹ fifihan si olumulo kan jẹ gbigbalejo ninu ohun elo Electron. Electron jẹ imọ-ẹrọ giga ti o jẹ ṣiṣafihan nipasẹ Github lati ṣẹda awọn ohun elo ti ode oni. Niwọnti Vespucci ko jẹ sisopọ mọ awọn API ti o da lori kọ̀mpútà àgbétẹ́lẹ̀ amọ sa, o tun ṣee ṣe lati gbe ohun elo yii jade lati ṣiṣe ninu ẹrọ aṣàwákiri ayelujara. Intafeesi fun ohun elo naa le ṣee dalara nipasẹ lilo awọn ile ikowesi UI ti giga fun awọn ohun elo igbalode. Pẹlu ọkọọkan ẹya ara ti o n da wa funra rẹ, o tun jẹ ọna taara lati fa awọn ẹya ara jade ati se afikun awọn tuntun bi ọja naa see jẹ didanwo pẹlu awọn olumulo lai ni ipa buruku lori ọja naa ni odidi.
 
-PLATFORM FEATURES
+AWỌN ẸYA ARA PILATIFỌỌMU
 
-* Show all parameters that were used to calculate Vespucci score.
-* Ability for the user to modify basic parameters for score configuration.
-* Display filters for cryptocoins.
-* Cryptocurrency index
-* Rating system of Vespucci using 5 stars rating system
-* Show general information and characteristics of the cryptocurrency of user’s choice
-* Sentiment analysis charts
-* Cryptocurrency distribution scheme
-* Transaction history
-* Technical Characteristics
-* Charts of activity on Github
-* Activity on social networks using points on world map
-* Ability to add other utility charts through a list of parameters
+* Fi gbogbo awọn ilana ti o jẹ lilo lati ṣe iṣiro Vespucci han.
+* Agbara fun olumulo lati ṣe atunṣe awọn ilana ipilẹ fun iṣeto iṣiro.
+* Ṣafihan awọn asẹ fun awọn owo kiripito.
+* Atọka owo kiripito
+* Eto ipele ipo ti Vespucci nipa lilo eto ipele ipo irawọ 5
+* Ṣafihan ifitonileti gbogbogbo ati awọn iṣesi ti owo kiripito naa ti o jẹ ti ipinnu olumulo
+* Awọn atẹ iyanana iwoyesi
+* Eto pinpin owo kiripito
+* Itan Isowo
+* Awọn iṣesi Idiju
+* Awọn atẹ ti iṣẹ lori Github
+* Iṣẹ lori awọn nẹtiwọki ikanni ajọlo nipa lilo awọn ojuami lori maapu agbaye
+* Agbara lati se afikun awọn atẹ iwulo miiran nipasẹ akojọ ti awọn ilana kan
 
-USER OPTIONS
+AWỌN ASAAYAN OLUMULO
 
-* Show all the encryption, next to the name and symbol of Vespucci’s rating.
-* Adjust rating system by selecting active Vespucci parameters.
-* Configure rating system by selecting the priority of the basic parameters and adjusting weights.
+* Safihan gbogbo awọn aroko, tó kàngun si orukọ ati aami ti ipele ipo ti Vespucci.
+* Ṣatunto eto ipele ipo nipa yiyan awọn ilana Vespucci ti nṣiṣe lọwọ.
+* Ṣeto eto ipele ipo nipa yiyan eyi to ṣe pataki julọ ninu awọn ilana ipilẹ naa ati ṣiṣe atunto awọn iwọn.
 * Be informed separately about the effect of the basic parameters via diagrams and gain a deeper picture of those that shape the fluctuation of the value of each currency.
-* Filter the list of cryptocurrencies according to the hash rate and the chronological period they were active on the market.
-* View cryptocurrency features in detail.
+* Ṣẹ akojọ ti awọn owo kiripito ni ibamu si oṣuwọn hash ati awọn igba ti isẹlẹ nṣiṣẹ lori ọja naa.
+* Wo awọn ẹya ara owo kiripito ni kikun.
 
 ![](https://volentix.io/file/2019/01/main-dashboard-–-3@3x.png)
 
-* ### **OVERALL ARCHITECTURE AND IMPLEMENTATION**
+* ### **IYAWORAN LAPAPỌ ATI IMUṢIṢẸ**
 
-We have discussed the three main subsystems of Fundamental / Technological Analysis, Technical Analysis, and Sentiment Analysis. All three pillars are imperfect. Furthermore, only the most experienced analysts can combine all three systems in one rating strategy. The final score for each cryptocurrency depends on each of the three components, weighted either by default values or by weighs provided by the user. Since we are firm believers in the value of the technology and the value of the team behind each cryptocurrency, FTA and, especially, the technological aspects are assigned a total weight of 50% by default. Based on research and trial of assessment parameters, appropriate weights are derived to quantifiably gauge the validity of a coin. We exploit recent breakthroughs in deep neural networks in order to automate the combination of scores without human intervention so as to avoid introducing direct or indirect bias.
+A ti ṣọrọ nipa awọn ọna pataki mẹta ti ẹka-eto ti Iyanana Awọn ọja / Awọn ohun elo, Iyanana Idiju, ati Iyanana Iwoyesi. Gbogbo awọn opo mẹtẹta jẹ alaipe. Siwaju si, awọn oluyanana ti o ni iriri julọ nikan ni o le da gbogbo awọn ọna mẹtẹta papọ mọra ni ilana ipele ipo kan. Iṣiro ikẹhin fun ọkọọkan owo kiripito da lori ọkọọkan awọn ẹya ara mẹta naa, ti o jẹ wiwọn boya nipasẹ awọn iwọn aiyipada tabi nipasẹ awọn iwọn ti o jẹ pipese nipasẹ olumulo. Niwọn ti a jẹ olugbagbọ gidi ninu iwulo ti imọ-ẹrọ naa ati iwulo ti awọn ẹgbẹ to wa lẹhin owo kiripito kọọkan, FTA ati, paapa julọ, awọn abala imọ-ẹrọ ti gba iwọn apapọ ti o jẹ 50% latilẹwa. Dida lori iwadi ati idanwo ti awọn ohun elo agbeyẹwo, awọn iwọn ti o yẹ jẹ wiwari lati ṣe odiwọn iye ifẹsẹmulẹ ti owo kan. A n lo awọn aṣeyọri to waye laipẹ yii ninu awọn nẹtiwọki neural ti o jinlẹ lati le ṣe akanpọ awọn iṣiro ni alaifọwọyi laisi ilọwọsi ti eniyan lati le yago fun iṣegbelẹhin onitaara tabi ẹlẹlọ.
 
-The outputs of all three constituents together with the corresponding price (the price being inverse to risk) movements for different frames yield a ranking of the cryptocurrencies and the tokens in the most holistic approach ever achieved. This is coupled with Post-processing for humans.
+Awọn abajade ti gbogbo awọn ẹya ara mẹtẹta pẹlu awọn isipopada iye owo ti o wa ni ibaamu (idiyele ti o wa ni idakeji si ewu) fun oriṣiriṣi awọn feremu ti o jasi ipele ipo ti awọn owo kiripito naa ati awọn aami ni ọna gbogbogbo pipe julọ ti ko ti sẹlẹ ri. Eyi wa pẹlu Igbẹhin-isaayan fun awọn eniyan.
 
-Regarding extensibility, Vespucci is particularly useful for Ethereum-based tokens. This represents many of the most exciting tradeable tokens today, but many new smart contract systems are being developed with their own very particular virtual machines and execution runtimes. This module can be seen as a specific instantiation of a number of other such modules which could be built for future smart contract systems. In particular, systems are likely to appear that expose a semantics especially amenable to formal verification, at which point Vespucci will be extended with new modules resembling this one for each new smart contract system that supports a range of valuable tokens. Overtime, and with the main pillars firmy rooted, the system is envisioned to also provide price prediction.
+Nipa ifaagunsi, Vespucci paapaa julọ wulo fun awọn aami ti o da lori Ethereum. Eyi n soju fun ọpọlọpọ awọn aami iṣowo ti o wuni julọ loni, ṣugbọn ọpọlọpọ awọn eto adehun ajafafa tuntun ti n jẹ gbigbedide pẹlu awọn ẹro aifojuri ti ara wọn gangan ati awọn akoko aseyọri iṣẹ. Modulu yii le ṣee ri gẹgẹbi pàtó apẹẹrẹ kan ti nọmba ti iru awọn modulu bẹẹ miiran eyiti o le ṣe gbedide fun awọn eto adehun ajafafa ọjọ iwaju. In particular, systems are likely to appear that expose a semantics especially amenable to formal verification, at which point Vespucci will be extended with new modules resembling this one for each new smart contract system that supports a range of valuable tokens. Lẹhin igba diẹ, ati pẹlu ifẹsẹmulẹ awọn opo to se pataki, eto naa jẹ fifojusun lati tun peṣe asọtẹlẹ idiyele.
 
-**Deep learning and AI** are powerful technologies under rapid development today and may be employed in other parts of the Vespucci system besides the final phase of outputting the overall score. Below is a sketch of a basic neural network with a single hidden layer. Today’s deep networks have a multitude of such layers, whose power we shall exploit. Neural networks “learn” the appropriate weights by back-propagation. An important question is therefore the learning phase where historical data on cryptocurrencies, properly labeled, shall be employed. One issue is that the available data is limited and its labels may need curation: the created dataset shall become openly accessible as a contribution to the community.
+**Ẹkọ kikọ to jinlẹ ati AI** jẹ imọ ẹrọ to lagbara ti o wa labẹ agbedide kiakia loni atipe o le jẹ mimulo ni awọn ẹya ara ti eto Vespucci miiran yatọ sii ipele ikẹhin ti o n se abajade ti isiro gbogbogbo. Ni isalẹ yii ni iyaworan ti ipilẹ nẹtiwọki neural pẹlu ipele kan ti o farasin. Awọn nẹtiwọki ti o jinlẹ loni ni ọpọlọpọ iru awọn ipele wọnyii, eyi ti a ma samulo agbara wọn. Awọn nẹtiwọki neural n "kọ" awọn iwọn ti o tọ nipasẹ back-propagation. Ibeere pataki kan nitorina jẹ ti ipele ikẹkọ nibi ti awọn itan data lori awọn owo kiripito, ti o ni akọle ti o tọ, yoo ti jẹ mimulo. Isoro kan ni pe data ti o wa nilẹ ni opin atipe awọn akọle rẹ le nilo tito: eto data ti o jẹ ṣiṣẹda yoo di wiwọle si onigbangba gẹgẹbi iranlọwọ si awujọ.
 
 ![](https://volentix.io/file/2019/01/1-2.jpg)
 
-Lastly, we mention two cutting-edge ideas to be employed in this phase: (a) Distributed implementations of learning tools in conjunction with the decentralized philosophy of Vespucci. (b) Aggregation of the neural networks that may be employed in one or more of the three pillars into a final score to be computed by an overall machine learning tool.
+Nikẹhin, a mẹnuba awọn ero ọlọgbọn meji ti o ma jẹ mimulo ni ipele yii: (a) Awọn imuṣiṣẹ ti awọn irinṣẹ ẹkọ-kikọ ti o jẹ pinpin ni ibasepọ pẹlu akọmọna alaisilojukan ti Vespucci. (b) Akopapọ ti awọn nẹtiwọki neural naa ti o le jẹ mimulo ninu ọkan tabi jubẹ lọ ti awọn opo mẹtẹta sinu isiro ikẹhin lati jẹ ṣisiro papọ nipasẹ irinsẹ ẹrọ ikẹkọ gbogbogbo.
 
-The **pipeline of Vespucci**, as shown in the figure below, consists of a computer cluster, having nodes for listening (Vespucci Listeners, or Aggregators) the aforementioned sources, such as social media (Twitter, Facebook, reddit), coin sites (coinmarketcap.com), Github etc, and nodes that could perform the analysis step of the collected data (Vespucci Analyzers). The results are kept in a database (e.g. SQL) to which the user has access through the interface and programmatically by an API.
+Awọn **ọpa ti Vespucci**, bi o ṣe jẹ fifihan ninu akawe ti o wa ni isalẹ yii, ti o ni iṣupọ kọmputa kan, ti o ni awọn oju ipade fun gbigbọ (Awọn olugbọ ti Vespucci, tabi Awọn alakopapọ) awọn orisun ti a ti sọ tẹlẹ, gẹgẹbi awọn ikanni ajọlo (Twitter, Facebook, reddit), awọn aaye ayelujara ti owo (coinmarketcap.com), Github ati bẹẹ bẹẹ lọ, ati awọn oju ipade ti o le ṣe igbesẹ iyanana ti awọn data ti o jẹ gbigba (Awọn oluyana ti Vespucci). Awọn abajade n jẹ fifipamọ sinu ibi ipamọ data (fun apẹẹrẹ SQL) si eyiti olumulo naa ni anfani iwọle si nipasẹ intafeesi ati nipa iseto nipasẹ API kan.
 
-* The listeners are VM nodes which periodically listen/search the sources of each coin. New information extracted for each coin is also kept in the database for transparency.
-* The analyzer VM nodes are then triggered and the new collected data will be analyzed (Sentiment, Technical and Technological & Fundamental analysis) by the Vespucci Analyzer nodes. The results are stored in the database.
-* Finally, the UI is periodically refreshed, updating the current view of the user to include new analysis results.
+* Awọn olutẹtisi naa ni awọn oju ipade ti o n ti atigbadegba gbọ/wa awọn orisun ti owo kọọkan. Alaye tuntun ti o jẹ fifajade fun owo kọọkan naa tun jẹ fifipamọ ninu ibi ipamọ data fun ainikọnunkọhọ.
+* Awọn oju ipade ti VM oniyanana naa yoo bẹẹrẹ iṣẹ atipe awọn data tuntun ti o jẹ gbigba ma jẹ yiyanana (Iwoyesi, Idiju ati Awọn ohun elo & Iyanana awọn ọja) nipasẹ awọn oju ipade ti Oniyanana Vespucci. Awọn abajade naa wa ni ipamọ ni ibi ipamọ data.
+* Níkẹyìn, UI naa n jẹ sisọdọtun ni atigbadegba, n mu ki iwoye ti ọwọlọwọ yii kun daadaa lati ni awọn abajade iyanana tuntun.
 
-To effectiv ely manage our computer cluster consisting of listening and analyzing nodes, we offer a platform that facilitates any type of component architecture (a useful tool here is Kubernetes once we use Docker containers). We shall provide the API, but implementation details are decided by the developers. To provide concrete examples, f rameworks for distributed storage and processing of big data are considered, such as Apache Hadoop (or Cassandra). Hadoop is a collection of open-source software utilities that facilitate using a network of computers to solve problems involving massive amounts of data and computation, handling automatically the hardware failures. Other frameworks may be considered such as Apache Spark, which is a cluster-computing batch processing framework, with the ability to write applications in multiple languages (Java, Scala, Python, R). Alternatives include Apache Samza, which offers a near-realtime asynchronous framework for distributed stream processing, or Apache Flink, a hybrid framework for stream processes and batch tasks.
+Lati ṣe iṣakoso ni kikun ti awọn iṣupọ kọmputa wa ti o ni awọn oju ipade ti gbigbọ ati iyanana, a n pese pilatifọọmu kan ti o n ṣe atilẹyin eyikeyi ti iru iyaworan ẹya ara (irinsẹ ti o wulo nibi ni Kubernetes ni kete ti a ba lo awọn apoti Docker). A yoo pese API naa, ṣugbọn ipinnu awọn alaye imuṣiṣẹ ma jẹ ṣiṣe nipasẹ awọn olugbedide. Lati pese awọn apẹẹrẹ ti o le koko, awọn ilana fun ibi ipamọ ti o jẹ pinpin ati iṣaayan awọn data nla jẹ didaro, gẹgẹbi Apache Hadoop (tabi Cassandra). Hadoop is a collection of open-source software utilities that facilitate using a network of computers to solve problems involving massive amounts of data and computation, handling automatically the hardware failures. Other frameworks may be considered such as Apache Spark, which is a cluster-computing batch processing framework, with the ability to write applications in multiple languages (Java, Scala, Python, R). Alternatives include Apache Samza, which offers a near-realtime asynchronous framework for distributed stream processing, or Apache Flink, a hybrid framework for stream processes and batch tasks.
 
 ![](https://volentix.io/file/2019/01/Web-1920-–-3@2x.png)
 
@@ -402,30 +402,30 @@ The **implementation** of the Vespucci analysis tools is in Python using various
 * NumPy, Pandas, Seaborn, matplotlib for the analysis part.
 * Scikit-learn, TensorFlow for machine learning.
 * NLTK, Tweepy, VADER, TextBlob for twitter sentiment analysis.
-* pyodbc to connect with our database.
+* pyodbc lati sopọ pẹlu ibi ipamọ data wa.
 * Blockchair.com API and coinmarketcap, a wrapper around the coinmarketcap.com API, to obtain information about each coin, such as the market cap ranking, and to update them easily
 
 Initially, most of those processes run on Linux Virtual Machines and results are kept in SQL databases. In case of insufficiency, a serverless frameworks shall be considered. In the immediate future powerful servers with GPUs are designed to perform efficiently all of our analysis (Kubernetes may be relevant here, assuming Docker containers).
 
-For Sentiment Analysis, and possibly other modules as well, a **node.js** system is used, though alternative implementations are easily swappable. The aggregate information being recorded, and continuously being derived, storing it in a static place is a requirement for the final version of Vespucci. MongoDB can be used by the other modules in the system to read and write such information. MongoDB is a mature document-oriented database useful in storing structured information, as is the case for the data that exists in the Vespucci system. An alternative may be CockroachDB.
+Fun Iyanana Iwoyesi, ati o ṣee ṣe awọn modulu miiran pẹlu, eto **node.js** kan jẹ lilo, botilẹ jẹpe awọn imusisẹ miiran le jẹ fifirọpo ni irọrun. Awọn alaye kikun n jẹ gbigba silẹ, atipe o n jẹ gbigba ni lemọlemọ, fifi pamọ sibi ti o duro sojukan jẹ ohun inilo fun ẹya ikẹhin ti Vespucci. MongoDB le ṣee lo nipa awọn modulu miiran naa ninu eto naa lati ka ati kọ iru alaye bẹẹ. MongoDB jẹ ibi ipamọ data to gbilẹ ti awọn nkan to jẹmọ iwe ti o wulo nimu titọju alaye to ni eto, gẹgẹbi idi ti awọn data ti o wa ninu eto Vespucci. Ọna miiran le jẹ CockroachDB.
 
-Vespucci **data** sources may include, but not be limited to: historic trading records, trading trends, developer activity and plan analysis, digital asset distribution and governance information, terms and conditions and current and historic address balances as well as forum sentiment analysis. This information can be found scattered among blockchain explorer sites and chat rooms. In particular, Sentiment analysis (see relevant [section](https://docs.google.com/document/d/1NLr-rgF66NCBmLmPIdElltKYVPJrLVO7DZDpcNEm6OU/edit?ts=5bec2f33#heading=h.tuaauijo691s)) would require data on all coins for a limited period of time. This is a vast amount of data and in order to minimise the impact that data will have on the system, we employ big data techniques of compression, aggregation, and filtering.
+Awọn orisun Vespucci **data</​​0> le ni, ṣugbọn ko pin si: awọn akọsilẹ itan iṣowo, awọn aṣa iṣowo, iṣẹ olugbedide ati iyanana erongba, pinpin awọn dukia oni-nọmba ati alaye iṣejọba, awọn alaye ati awọn adehun ati adirẹẹsi awọn iye to ku ti isinyi ati ti igba kan ati apero iyanana iwoyesi. Alaye yii le jẹ riri ni fifọnka kaakiri awọn aaye ayelujara ti aṣawakiri ti blockchain ati awọn yara itakurọsọ. Ni pato, Iyanana iwoyesi (wo [abala](https://docs.google.com/document/d/1NLr-rgF66NCBmLmPIdElltKYVPJrLVO7DZDpcNEm6OU/edit?ts=5bec2f33#heading=h.tuaauijo691s) ti o yẹ) yoo nilo data lori gbogbo owó fun akoko ti o ni opin. Eyi jẹ iye data ti o tobi pupọ atipe lati mu adinku ba ipa ti data naa yoo ni lori eto naa, a se amulo awọn ilana data nla ti afunpapọ, ikojọpọ, ati sisẹ.</p> 
 
-Storage techniques may rely on off-chain Order books developed by VLabs, which is a sophisticated data structure with high security standards. It relies on EOS.IO, and its persistence API. One advantage of such a system is that it is not expensive; on the other hand, it is sufficiently efficient for our purposes. While transactions are handled by the VDex, non-transactional data will remain off-chain.
+Awọn ilana ifipamọ le gbarale awọn iwe Ibeere alaisilori-ila ti o jẹ gbigbedide nipasẹ VLabs, eyi ti o jẹ eto data ti igbalode pẹlu awọn odiwọn aabo to ga. O gbarale ori EOS.IO, ati API alatẹnumọ rẹ. Anfani kan ti iru ti eto yii ni wipe ko gbowolori; ni ọna miiran, o se deede fun awọn eredi tiwa. Nigbati iṣakoso awọn iṣowo n waye nipasẹ VDex, awọn data ti kii ṣe ti iṣowo yoo wa aisilori-ila.
 
-* ### **TIMELINE**
+* ### **ATẸ ISẸLẸ**
 
 ![](https://volentix.io/file/2019/01/Web-1920-–-2@3x.png)
 
-The project’s timeline is shown in the above figure. The main milestones are:  
-— Vespucci MVP. November 2018 .  
-— Vespucci, version 1.0\. April 2019.
+Atẹ isẹlẹ iṣẹ akanṣe naa jẹ fifihan ninu akawe ti o wa loke. The main milestones are:  
+— Vespucci MVP. Oṣù Kọkànlá 2018 .  
+— Vespucci, ẹya 1.0\. Osu kẹrin 2019.
 
-### **ACKNOWLEDGMENTS**
+### **AWỌN IMỌRIRI**
 
 This text is based on NH’s original vision docs and AA’s update on them.
 
-### **REFERENCES**
+### **AWỌN ITỌKASI**
 
 [1] J. Yao et al. Forecasting and Analysis of Marketing Data using Neural Networks”, Journal of Science and Engineering 14:843-862 (1998)
 
@@ -443,7 +443,7 @@ This text is based on NH’s original vision docs and AA’s update on them.
 
 [8] Arup Foresight: Blockchain Technology
 
-[9] Volentix Labs,The Volentix VDEX Whitepaper (2018) <https://s3.ca-central-1.amazonaws.com/volentix/VDexWhitePaper.pdf>
+[9] Awọn Laabu Volentix,Iwe funfun VDEX Ti Volentix (2018) <https://s3.ca-central-1.amazonaws.com/volentix/VDexWhitePaper.pdf>
 
 [10] <http://crix.hu-berlin.de/> [Technical Analysis]
 
@@ -461,4 +461,4 @@ This text is based on NH’s original vision docs and AA’s update on them.
 
 [17] <https://www.investopedia.com>
 
-Brackets at the end of certain references indicate the part of the paper that uses this reference.
+Awọn aami akopọ ni opin awọn itọkasi kan n safihan abala ti iwe naa ti o n lo itọkasi yii.

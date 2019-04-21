@@ -270,41 +270,41 @@ VTX هو الأصل الرقمي الأصلي الذي سيتم إصداره و�
 
 يوقع وينشر المستخدمون الضارون العديد من الطلبات ذو قيمة أكبر من الصفر ولكن بعنوان ذو رصيد صفري. تقوم العُقد بمراقبة الأرصدة الفعلية وتحديث حالات الطلب وفقًا لذلك، ثم تتجاهلها.
 
-#### 3.9.5 Timing attack
+#### 3.9.5 هجوم التوقيت
 
-Timing attacks are a class of cryptographic attacks through which a third-party observer can deduce the content of encrypted data by recording and analyzing the time taken to execute cryptographic algorithms. The RAFT algorithm prevents timing attacks by using randomness of timeouts.
+هجمات التوقيت هي فئة من هجمات التشفير التي يستطيع من خلالها مراقب من طرف أخر إستنتاج محتوى البيانات المشفرة من خلال تسجيل وتحليل الوقت المستغرق لتنفيذ خوارزميات التشفير. تمنع خوارزمية RAFT هجمات التوقيت عن طريق استخدام العشوائية في تحديد المهلات.
 
-### 3.10 USER EXPERIENCE
+### 3.10 تجربة المستخدم
 
-Our focus on user experience is primary. We wish to make VTX and the four pillars of Volentix -- Venue, Verto, Vespucci, and VDex -- easily accessible to and useable by all those who wish to join our community. We expect the experience continually to be educational as well, with templates and simulators to support a superior UX/UI relationship.
+يعد تركيزنا على تجربة المستخدم أساسيا. نود أن نجعل VTX ودعائم Volentix الأربعة -- Vespucci ،Verto ،Venue وVdex -- سهلة المنال ويمكن استخدامها من قبل جميع أولئك الذين يرغبون في الانضمام إلى مجتمعنا. نتوقع أيضاً أن تكون التجربة تعليمية باستمرار مع قوالب وأنظمة محاكاة لدعم علاقة متفوقة لـ UX/UI.
 
-### 3.11 TRUE DECENTRALIZATION
+### 3.11 لامركزية حقيقية
 
-EOS.IO is an open-source, scalable infrastructure for decentralized applications. Its goal is a fair and transparent block producer (BP) election process utilizing a democratic delegated proof of stake (DPoS) consensus. Particularly as such a system just begins to proliferate, there will be glitches. Therefore, some degree of retained centralization is inevitable and necessary. But our guiding philosophy is one of decentralization, and our ongoing efforts are targeted to promoting a reduction in dependence on central authority.
+EOS.IO هي بنية أساسية، قابلة للتطوير ومفتوحة المصدر للتطبيقات اللامركزية. هدفها عملية إختيار (Election Process) عادلة وشفافة لمنتجي الكتل (BP) باستخدام نظام إثبات صحة الحصة ديمقراطِي (DPoS) وقائم على الإجماع. خاصة أنه عندما يبدأ هذا النظام في الإنتشار ستكون هناك بعض الثغرات (glitches). لذلك، تبقى درجة ما من المركزية المقيدة أمرًا لا مفر منه وضروريًا. لكن فلسفتنا الأساسية هي اللامركزية، وتهدف جهودنا المستمرة إلى تشجيع تخفيض الاعتماد على السلطة المركزية.
 
-For example, initially we plan to erect a system for electing nodes (when solving order books) that will not use a shared central clock or DPoS but instead will be based either on random timeouts for the determination of leaders in an election (RAFT) or on Directed Acyclic Graph (DAG) in the PARSEC protocol.
+على سبيل المثال، نخطط مبدئيًا لإقامة نظام لإختيار العُقد (عند حل دفتر الطلبات) الذي لا يستعمل ساعة مركزية مشتركة (central clock) أو DPoS، لكن بدلا من ذلك، يعتمد على مهلات عشوائية لتحديد القادة في عملية الاختيار (RAFT) أو على Directed Acyclic Graph (DAG) في بروتوكول PARSEC.
 
-### 3.12 SYSTEM RECOVERY
+### 3.12 استرداد النظام
 
-The RAFT and PARSEC protocols provide a robust system for recovery in the case of node failure. Security measures are also provided for trading between and among native blockchains. If a chain defies identification, the system defaults to the next block or a short time lock.
+توفر بروتوكولات RAFT و PARSEC نظامًا قويًا للقيام بالإسترداد (recovery) في حالة فشل العُقدة. يتم كذلك توفير تدابير أمنية للتداول بين سلاسل الكتل الأصلية. إذا كانت السلسلة تتعارض وعملية التعريف، فسيقوم النظام بتعيين الكتلة التالية افتراضيًا أو انشاء قفل قصير الأجل (short time lock).
 
-### 3.13 EVOLVING ARCHITECTURE
+### 3.13 تطوير البنية
 
-Daily announcements of fresh code developments impacting on use of digital assets reveal the tremendous benefit of the open-source code philosophy. We at Volentix recognize we are the beneficiaries of the enormous financial resources dedicated by many early movers to developing digital assets applications over the past decade. We now have an opportunity to take the next step by creating VDex, a decentralized exchange for the next generation of digital assets transactions.
+تكشف الإعلانات اليومية لعمليات التطوير التي تؤثر على عملية إستخدام الأصول الرقمية على الفوائد الهائلة لفلسفة المصدر المفتوح. ندرك في Volentix أننا مستفيدين من موارد مالية هائلة كرسها العديد من أوائل المطورين الذي تعاطوا مع تطوير تطبيقات الأصول الرقمية على مدار العقد الماضي. لدينا الآن فرصة لاتخاذ الخطوة التالية من خلال إنشاء VDex، منصة للتبادل الغير مركزي للجيل القادم لتعاملات الأصول الرقمية.
 
-## 4. CONCLUDING THOUGHTS
+## 4. أفكار ختامية
 
-All of us at Volentix are dedicating our work and insights to developing a program premised on empowerment and independence. If you are of a mind to join us, in whatever capacity, then please do so and please become educated on the topics contained in this white paper and additional Volentix publications as we share them with our community.
+في Volentix، نكرس جميعُنا عملنا ورؤيتنا لتطوير برنامج قائم على التمكين والاستقلالية. إذا كنت تفكر في الانضمام إلينا، بأية صفة كانت، فيرجى القيام بذلك والرجاء التعرف على المواضيع الواردة في هذه الوثيقة البيضاء ومنشورات Volentix الإضافية التي نشاركها مع مجتمعنا.
 
-## 5. TIMELINE
+## 5. المخطط الزمني
 
-Please monitor our website and social media for updates and other important announcements. Thank you very much for your attention and interest.
+يرجى مراقبة موقعنا على شبكة الإنترنت ووسائل التواصل الاجتماعي للحصول على التحديثات والإعلانات الهامة الأخرى. شكرا جزيلا على انتباهكم واهتمامكم.
 
-## DISCLAIMER
+## إخلاء المسؤولية
 
-This white paper was prepared, and is presented, for information purposes only. The information presented does not purport to be comprehensive. The information is subject to change in whole or in part at any time without notice. Volentix Labs reserves the right to amend, replace, remove, or delete any and all information at the sole and exclusive discretion of Volentix. Volentix Labs makes no representation or warranty, expressed or implied, concerning the accuracy or completeness of the information and expressly disclaims any and all liability of any and all kinds whatsoever for the information contained or not contained. Volentix Labs requests each and every reader to read the information fully and carefully, and to undertake independent investigation and analysis of the information, and to seek and obtain professional advice for purposes of evaluating the information. To the knowledge of Volentix Labs, no regulatory agency, government, or other third-party enforcement entity has reviewed, evaluated, or approved any part or all of the information. This information is not an offer or solicitation of any kind whatsoever and does not form the basis for any contract or commitment of any kind whatsoever. Any statement considered to be forward-looking is purely a matter of opinion, and no viewer should rely on any such statement or on any part or all of the information in any way whatsoever.
+تم إعداد هذه الوثيقة البيضاء وتم تقديمها لدواعي إستعلامية فقط. لا نزعم أن المعلومات المقدمة شاملة. يمكن أن تخضع المعلومات للتغيير كليًا أو جزئيًا في أي وقت ودون إشعار مسبق. تحتفظ Volentix Labs بالحق في تعديل، استبدال، إزالة أو حذف أي/جميع المعلومات وفقًا لتقدير Volentix الحصري. لا تقدم Volentix Labs أي تعهد أو ضمان، صريحًا أو ضمنيًا، فيما يتعلق بدقة أو اكتمال المعلومات وتخلي مسؤوليتها صراحةً عن أي/جميع أنواع المعلومات الواردة أو غير المضمنة. يطلب Volentix Labs من كل قارئ قراءة المعلومات بالكامل وبعناية، إجراء تحقيق مستقل وتحليل للمعلومات، البحث عن استشارة مهنية والحصول عليها من أجل تقييم المعلومات. إلى حد علم Volentix Labs، لم تقم أي وكالة تنظيمية، حكومة أو أي جهة تنفيذية تابعة لأطراف أخرى، بمراجعة، تقييم أو الموافقة على أي جزء من المعلومات أو جميعها. هذه المعلومات ليست عرضًا أو طلبًا من أي نوع ولا تشكل الأساس لأي عقد أو التزام من أي نوع كان. أي بيان يعتبر استشرافيًا هو مجرد مسألة رأي ويجب أن لا يعتمد أي مُشاهد على مثل هذا البيان أو على أي جزء من المعلومات أو جميعها بأي طريقة كانت.
 
-## FOOTNOTES
+## الحواشي السفلية
 
 1. K. Kurokawa, Atomic cross chain transfer, an overview, (2015).
 
@@ -330,7 +330,7 @@ This white paper was prepared, and is presented, for information purposes only. 
 
 12. BlockColliderTeam, Block collider white paper, (2018).
 
-## SUPPLEMENTAL REFERENCES
+## مراجع إضافية
 
 Aelf, A multi-chain parallel computing blockchain framework, (2018).
 
@@ -362,4 +362,4 @@ G. Wood, Ethereum: A secure decentralised generalised transaction ledger.ethereu
 
 Dane Keller Rutledge, Creating a Comprehensive Digital Assets Ecosystem (DAE), (2018).
 
-## END OF PAPER
+## نهاية الوثيقة

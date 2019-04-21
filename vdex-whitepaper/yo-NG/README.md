@@ -212,75 +212,75 @@ Lati gbọn awọn abamoda kan danu, a gbero lati bẹrẹ idanwo aabo ni atẹl
 
 #### 3.8.1 Aabo olubasọrọ
 
-Retain vast majority of funds in a time-delayed, multi-signature-controlled account.
+De ọpọlọpọ awọn owo mọlẹ ninu akọọlẹ oniṣakoso-ọlọpọ-ibuwọlu, ti akoko daduro.
 
-Use multi-signatures on a hot wallet with several independent processes/servers double-checking all withdrawals, with the concomitant benefit of creating a trusted list of accounts.
+Lo awọn ọpọ-ibuwọlu lori hot wallet pẹlu ọpọlọpọ awọn ilana ti olominira/awọn server ti o n ṣe atunyẹwo gbogbo awọn iyọkuro, pẹlu awọn anfaani ti o wa pẹlu ṣiṣẹda akojọpọ awọn akọọlẹ ti fọkantan.
 
-Deploy a custom contract that allows withdrawals only to accounts verified by KYC/AML.
+Lo akanṣe adehun kan ti o fayegba awọn iyọkuro nikan si awọn akọọlẹ ti o jẹ jijẹrisi nipasẹ KYC/AML.
 
-Deploy a custom contract that accepts only deposits of known assets from accounts verified by KYC/AML.
+Lo akanṣe adehun kan ti o fayegba awọn ifidogo ti awọn ohun-ini ti o jẹ mimọ nikan lati awọn akọọlẹ ti o jẹ jijẹrisi nipasẹ nipasẹ KYC/AML.
 
-Deploy a custom contract that requires a mandatory 24-hour waiting period for all withdrawals.
+Lo akanṣe adehun kan ti o nilo akoko idaduro wakati 24 to pọn dandan fun gbogbo awọn iyọkuro.
 
-Utilize contracts with hardware wallets for all signing, including for automated withdrawals.
+Lo awọn adehun pẹlu awọn apo owo ti afojuri fun gbogbo bibuwọlu, pẹlu fun awọn iyọkuro aladaaṣiṣẹ.
 
-Upgrade broken contracts.
+Satunse awọn adehun to bajẹ.
 
-Include ability to pause the functionality of a contract.
+Se afikun anfani lati da iṣẹ ṣiṣe ti adehun kan duro.
 
-Include ability to delay an action of a contract.
+Se afikun anfani lati da igbeṣẹ ti adehun kan duro.
 
-#### 3.8.2 Auditing rogue processes
+#### 3.8.2 Ṣiṣayẹwo awọn ilana ẹlẹtan
 
-The advanced anomaly detection algorithms provided by Numenta’s Nupic library will require less voluminous training data sets than conventional AI systems.
+Awọn alugọridimu iṣawari aiṣedede to tubọ ga to jẹ pipese nipasẹ ile ikowesi ti Numenta Nupic yoo nilo awọn eto data ikẹkọ to kere ju awọn ilana AI ti o wọpọ julọ.
 
-#### 3.8.3 Randomization
+#### 3.8.3 Isọdialaileto
 
-True randomisation of address space layout, route or utilizing varying lengths of timeouts as in the RAFT protocol can complexify systems enough to enhance resilience and further secure systems against a side-channel attack or front running.
+Isọdialaileto olotitọ ti aaye eto adirẹẹsi, ipa ọna tabi lilo awọn akoko idawọduro ti olorisirisi gigun bi ti complexninu ilana RAFT le mu awọn eto le si ti o to lati mu ifarada gboro si ati tubọ da aabo bo awọn eto kuro nibi awọn ikọlu ikanni-ẹlẹgbẹ kan tabi ti aṣaaju.
 
-#### 3.8.4 Log inspection
+#### 3.8.4 Iṣabẹwo akọṣilẹ
 
-Parsec does not rely on logs for the determination of consensus. On the other hand, RAFT will require this. In any case, Validator nodes will be designed to require minimal information To determine consensus as to minimize the transaction process time.
+Parsec ko gbọkanle awọn akọsilẹ fun ipinnu ti ipohunpọ. Ni ọna miiran, RAFT yoo nilo eyi. Bose wu kori, Awọn oju ipade asedaniloju ma jẹ siseto lati nilo alaye bintin Lati mọ ipohunpọ lati mu adinku ba akoko isaayan iṣowo naa.
 
-#### 3.8.5 Transaction as Proof of Stake (TaPoS)
+#### 3.8.5 Iṣowo gẹgẹbi Ẹri ti Idokowo(TaPoS)
 
-This mechanism prevents the replay of a transaction on forks that do not include the referenced block. Signals the network that a particular user and stake are on a specific fork.
+Ilana eto yii n ṣe idena atunṣe ti iṣowo kan lori awọn ẹka ti ko ni bulọọku ti a tọkasi naa. N fun nẹtiwọki naa lọwọ pe pato olumulo kan ati ipin idokowo kan wa lori pato ẹka kan.
 
-### 3.9 Security threats and remedies
+### 3.9 Awọn ihalẹ aabo ati awọn atunse
 
-#### 3.9.1 Double spend
+#### 3.9. Inawo ẹlẹmeji
 
-A double spend is an attack in which a particular cryptocurrency stake is spent in more than one transaction.
+Inawo ẹlẹmeji jẹ ikọlu eyi ti pato ipin idokowo owo kiripito kan ti jẹ nina ninu iṣowo to ju ẹyọkan lọ.
 
-A race attack occurs when two conflicting transactions are sent in rapid succession into the network.
+Ikọlu idije ma n waye nigbati awọn iṣowo onitako meji ba jẹ fifiranṣẹ ni sisẹntẹle si inu nẹtiwọki naa.
 
-A Finney attack pre-mines one transaction into a block and spends the same tokens before releasing the block to invalidate that transaction.
+Ikọlu Finney ma n ṣe iwakusa-iṣaaju ti iṣowo kan sinu bulọọku kan atipe o ma naa awọn aami kanna ṣaaju itusilẹ bulọọku naa lati fagile idaniloju iṣowo naa.
 
-A 51% attack can be mounted by anyone owning >50% of the total computing power of a network. Ipo olohun to pọ julọ fayegba idapada eyikeyi iṣowo ati fayegba gbogbo iṣakoso yiyan awọn iṣowo ti o n farahan ni awọn bulọọku. EOS.IO, Loopring, and RAFT appear to prevent this problem. If a block producer takes an unreasonable amount of runtime or is not sufficiently profitable, then the process is blacklisted.[5]
+Ikọlu 51% le jẹ gbigbekalẹ nipasẹ ẹnikẹni ti o ni kọja ipin 50% ti agbara isiro apapọ ti nẹtiwọki kan. Ipo olohun to pọ julọ fayegba idapada eyikeyi iṣowo ati fayegba gbogbo iṣakoso yiyan awọn iṣowo ti o n farahan ni awọn bulọọku. EOS.IO, Loopring, ati RAFT han gẹgẹbi eyi ti o ti dena iṣoro yii. Ti olugbe bulọọku jade ba gba akoko isẹ sise to pọju boṣeyẹlo tabi ko ni ere ti o to, ajẹwipe ilana naa jẹ fifi si akojọpọ iyago fun.[5]
 
-#### 3.9.2 Front running
+#### 3.9.2 Ti o siwaju
 
-A front runner steals one or more orders from a pending order book settlement transaction. Both EOS.IO and Loopring offer remedies in which keys are protected because they are not part of the on-chain transaction, and therefore remain unknown to parties other than the owner. Only the order book settling node is possessed of the sensitive information, and each node uses a different solution for resolving the order books, introducing yet another level of complexity to promote security.
+Asiwaju ma n ji ibeere kan tabi ju bẹlọ kuro ninu iyanju iwe ibeere iṣowo ti o wa ni asorọ. Awọn EOS.IO ati Loopring n pese awọn atunṣe ni eyiti awọn kọkọrọ ti ni idaabobo nitori pe wọn ko si ni ara iṣowo ori-ila, ati nitorina jẹ aimọ si awọn ẹlomiran ayafi ẹniti o ni. Oju ipade iyanju iwe ibeere nikan ni o ni alaye ti o se kókó, atipe oju ipade kọọkan n lo ọna abayọ miiran fun yiyanju awọn iwe ibeere, ṣiṣe afihan ipele ti itakoko miiran sibẹsibẹ lati ṣe igbelarugẹ aabo.
 
-#### 3.9.3 Forged identities
+#### 3.9.3 Awọn idanimọ ayederu
 
-Malicious users create forged identities to send a large number of small orders to attack Loopring nodes. However, most of these orders will be rejected for not yielding satisfying profit when matched.
+Awọn olumulo onisuta n ṣẹda awọn idanimọ ayederu lati fi nọmba nla ti awọn ibeere keekeke ransẹ lati kọlu awọn oju ipade Loopring. Amọ sa, ọpọ ninu awọn ibeere yii yoo jẹ kikọ fun ailere ti o to funni ni itẹlọrun nigbati asopọ waye.
 
-#### 3.9.4 Insufficient Balance
+#### 3.9.4 Aito Iye ti o ku
 
-Malicious users sign and spread orders the value of which is non-zero but the address of which has a zero balance. Nodes monitor actual balances, update these order states accordingly, and then discard them.
+Awọn olumulo onisuta n buwọlu ati ṣe itanka awọn ibeere eyi ti iye wọn kii ṣe odo sugbọn eyiti iye to ku ninu adirẹẹsi naa jẹ odo. Awọn oju ipade n mojuto awọn iye to ku gangan, ṣe imudojuiwọn awọn ipo ibeere wọnyi gẹgẹbi o ṣe yẹ, ati lẹhinna da wọn nu.
 
-#### 3.9.5 Timing attack
+#### 3.9.5 Ikọlu alakoko
 
-Timing attacks are a class of cryptographic attacks through which a third-party observer can deduce the content of encrypted data by recording and analyzing the time taken to execute cryptographic algorithms. The RAFT algorithm prevents timing attacks by using randomness of timeouts.
+Awọn ikọlu alakoko jẹ kilasi awọn ikọlu ti aroko nipasẹ eyiti oluwoye ti o jẹ alagata le ṣawari awọn akoonu ti awọn data ti o jẹ pipamọ nipasẹ gbigbasilẹ ati ṣiṣe iyanana akoko ti o gba lati yanju awọn alugọridimu aroko. Alugọridimu RAFT naa n ṣe idena awọn ikọlu alakoko nipa lilo iwa aileto awọn akoko idawọduro.
 
-### 3.10 USER EXPERIENCE
+### 3.10 IRIRI OLUMULO
 
-Our focus on user experience is primary. We wish to make VTX and the four pillars of Volentix -- Venue, Verto, Vespucci, and VDex -- easily accessible to and useable by all those who wish to join our community. We expect the experience continually to be educational as well, with templates and simulators to support a superior UX/UI relationship.
+Afojusun wa lori iriri olumulo jẹ pataki. A fẹ lati jẹ ki VTX ati awọn opo mẹrin ti Volentix - Venue, Verto, Vespucci, ati VDex - wa ni arọwọto pẹlu irọrun ati ki o ṣee lo fun gbogbo awọn ti o fẹ lati darapọ mọ awujọ wa. A nireti pe ki iriri naa nigbagbogbo tubọ ma kọni ni ẹkọ si, pẹlu awọn awoṣe ati awọn ẹrọ afidanrawo lati ṣe atilẹyin fun iṣẹ ti UX/UI ti o tubọ lagbara julọ.
 
-### 3.11 TRUE DECENTRALIZATION
+### 3.11 ISỌDALAISILOJUKAN OLOTITỌ
 
-EOS.IO is an open-source, scalable infrastructure for decentralized applications. Its goal is a fair and transparent block producer (BP) election process utilizing a democratic delegated proof of stake (DPoS) consensus. Particularly as such a system just begins to proliferate, there will be glitches. Therefore, some degree of retained centralization is inevitable and necessary. Ṣugbọn akọmọna itọnisọna wa jẹ ti alaisilojukan, ati awọn igbiyanju wa ti n lọ lọwọ jẹ fifojusun lati ṣe ipolongo mimu adinku ba gigbarale iṣakoso olojukan.
+EOS.IO jẹ orisun-gbangba, ohun amayederun onipele agbara iṣiṣẹ fun awọn ohun elo alaisilojukan. Afojusun rẹ jẹ ilana idibo olugbe bulọọku jade (BP) ti o jẹ otitọ ati ti o han kedere ti o n lo ipohunpọ ẹri ti idokowo onipinpin funni (DPoS) ti tiwantiwa. Paapa julọ bi iru eto bẹ ṣe ṣẹṣẹ bẹrẹ lati ma gbooro si, awọn aiṣedeede yoo wa. Nitorina, diẹ ninu awọn iwalojukan ti sẹku jẹ aileseyẹrafun atipe pataki ni. Ṣugbọn akọmọna itọnisọna wa jẹ ti alaisilojukan, ati awọn igbiyanju wa ti n lọ lọwọ jẹ fifojusun lati ṣe ipolongo mimu adinku ba gigbarale iṣakoso olojukan.
 
 Fun apẹrẹ, ni iṣaaju a ṣe ipinnu lati se agbekalẹ eto kan fun yiyan awọn oju ipade (nigbati o ba n yanju awọn iwe ibeere) ti ko ni lo aago alajọpin olojukan tabi DPoS ṣugbọn dipo o ma da lori awọn akoko idawọduro alaileto fun siṣe ipinnu awọn olori ninu idibo kan (RAFT) tabi lori Directed Acyclic Graph (DAG) ninu ilana PARSEC.
 
@@ -330,7 +330,7 @@ Iwe funfun jẹ pipese, o si jẹ gbigbekalẹ, fun awọn idi alaye nikan. Ifit
 
 12. BlockColliderTeam, Block collider white paper, (2018).
 
-## SUPPLEMENTAL REFERENCES
+## AFIKUN AWỌN ITỌKASI
 
 Aelf, A multi-chain parallel computing blockchain framework, (2018).
 
@@ -346,7 +346,7 @@ S. D. K. M. T. S. H. Garcia-Molina, The eigentrust algorithm for reputation mana
 
 M. R. Garrick Hileman, Global cryptocurrency benchmarking study, (2017).
 
-Komodo, An advanced blockchain technology, focused on freedom, (2018).
+D. K. M. T. S. H. Garcia-Molina, The eigentrust algorithm for reputation management in p2p networks, (2018).
 
 Q. Liquid, Providing liquidity to the non-liquid crypto economy, (2018).
 
@@ -362,4 +362,4 @@ G. Wood, Ethereum: A secure decentralised generalised transaction ledger.ethereu
 
 Dane Keller Rutledge, Creating a Comprehensive Digital Assets Ecosystem (DAE), (2018).
 
-## END OF PAPER
+## OPIN IWE

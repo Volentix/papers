@@ -1,100 +1,100 @@
-# Vespucci Whitepaper
+# الوثيقة البيضاء الخاصة بـ Vespucci
 
-### **ABSTRACT**
+### **الملخص**
 
-The relatively recent explosion of cryptocurrencies has attracted a lot of popularity and more people are becoming aware of the benefits over fiat currency. The ever-increasing number of platforms that support cryptocurrencies and allow for transactions between a wide variety of products and services attract many users forming a new, dynamic generation of traders, for whom the intricacies of the blockchain technology are transparent. To navigate the complex world of cryptocurrencies, new users, along with experienced investors, would greatly benefit from a system that evaluates cryptocurrencies and creates a ranking that can be used as an investing guide, to be personalized with user-defined parameters. Vespucci is a new system that goes beyond the aforementioned functionalities. In particular, it monitors the evolution of blockchain and cryptocurrency markets and, by harnessing the power of cutting-edge AI and Machine Learning technolo gy, delivers unbiased, robust and up-to-date rankings that represent the real value of a very wide spectrum of coins so as to, eventually, act as a predictor of their future course. This ranking system is complete in the sense that it draws from a very large set of sources, categorized into three pillars, namely, sentiment analysis, fundamental and technological analysis, and technical analysis. Vespucci is part of the integrated ecosystem of Volentix, built around the decentralized exchange platform VDex; the latter employs a collection of smart EOS.IO contracts to establish quick and secure transactions, user anonymity, liquidity, scalability, performance, and estimation of profit margin. This whit e paper presents an in-depth overview of how Vespucci works, including a discussion of several technical aspects, and also highlights the different ways it can be used.
+جذب الانفجار الأخير في العملات الإلكترونية شعبية كبيرة وأصبح عدد كبير من الناس يدركون فوائدها التي تجعلها أفضل من العملات الورقية. يجذب العدد المتزايد من المنصات التي تدعم العملات الإلكترونية والتي تسمح بالمعاملات بين مجموعة واسعة من المنتجات والخدمات العديد من المستخدمين الذين يشكلون جيلًا جديدًا وديناميكيًا من المتداولين والذين بالنسبة لهم تتسم التعقيدات التقنية لسلسلة الكتل بالشفافية. للتنقل في العالم المعقد للعملات الإلكترونية، سيجد عديد المستخدمون الجدد، إلى جانب المستثمرين المتمرسين، استفادة كبيرة من النظام الذي يقيم العملات الإلكترونية ويخلق تصنيفًا يمكن استخدامه كدليل استثمار لتخصيصه مع الموسطات المعرفة من قبل المستخدم. Vespucci هو نظام جديد يتجاوز الوظائف المذكورة أعلاه. على وجه الخصوص، يراقب هذا النظام تطور أسواق سلاسل الكتل والعملات الإلكترونية عن طريق تسخير قوة أحدث تقنيات الـ AI وتقنية Machine Learning. كما يقدم تصنيفات غير متحيزة، قوية، وحديثة، تمثل القيمة الحقيقية لمجموعة واسعة للغاية من العملات لكي يمكن في نهاية المطاف استعمالها لتنبؤ بمسارها في المستقبل. نظام التصنيف هذا كاملٌ بمعنى أنه مستمد من مجموعة كبيرة جدًا من المصادر المصنفة إلى ثلاثة دعائم وهي، تحليل المعنويات، التحليل الأساسي/التكنولوجي والتحليل الفني. يعتبر Vespucci جزءًا من بيئة Volentix المتكاملة، والذي تم بنائه حول منصة التبادل اللامركزية VDex؛ يستخدم هذا الأخير مجموعة من عقود EOS.IO الذكية لضمان معاملات سريعة وآمنة، إخفاء هوية المستخدم، السيولة، التدرجية، الأداء وتقدير هامش الربح. هذه الوثيقة البيضاء تقدم نظرة متعمقة حول كيفية عمل Vespucci بما في ذلك مناقشة الجوانب التقنية المتعددة، كما تسلط الضوء على مختلف طرق استخدامه.
 
-* ### **OVERVIEW**
+* ### **نظرة عامة**
 
-Vespucci is part of the Volentix ecosystem. In particular, it implements one of the main pillars of the Volentix ecosystem, of which VDex is the fulcrum. VDex is a decentralized exchange with the user and community in mind. Vespucci, besides being a digital asset audit and assessment utility accessible to non-experts, it is also a tool to chart and juxtapose tradeable digital assets. Moreover, it provides a dashboard for cryptocurrencies’ activity in the digital world.
+يعد Vespucci جزء من بيئة Volentix. فهو يطبق على وجه الخصوص إحدى الدعائم الرئيسية لبيئة Volentix والتي يعتبر VDex نقطة ارتكازها. VDex منصة لا مركزية للتبادل صممت مع الأخذ في الإعتبار كل من المستخدم والمجتمع. بالإضافة إلى كونها أداة لتدقيق وتقييم الأصول الرقمية في متناول غير الخبراء، يعتبر Vespucci أداة لرسم وتخطيط الأصول الرقمية القابلة للتداول. علاوة على ذلك، فإنه يوفر لوحة معلومات لنشاط العملات الرقمية.
 
-Our primary goal is to offer all users of digital assets an intuitive analytical agent and rating system for digital assets, merging the following aspects (see figure below):
+هدفنا الأساسي هو تزويد جميع المستخدمين بوكلاء لتحليل وتصنيف الأصول الرقمية مع دمج الجوانب التالية (انظر الرسم التوضيحي أدناه):
 
-* a sentiment gauge for sentiment analysis (SA),
-* technical analysis (TA), and
-* fundamental / technological analysis (FTA).
+* مقياس التوجه لتحليل نزعة السوق (sentiment analysis أو SA)،
+* التحليل الفني (technical analysis أو TA)،
+* والتحليل الأساسي/التكنولوجي (fundamental/technological analysis أو FTA).
 
-Vespucci offers for the first time a well-rounded profile of each digital asset of interest along with a live rating, representing a combination of different indicators, based on the principles of decentralized governance, peer privacy, public ledger via a public blockchain, and open source code. Hence, its analysis is free of the bias of specific individuals or interest groups and the employed methods are up for scrutiny and discussion by the community. Decentralized applications offer a paradigm shift in current technology; a particularly relevant instance lies within the emerging cryptocurrency exchanges. Using some of the most powerful cutting-edge methods, our approach abides by open standards and the principles of ease of use.
+لأول مرة يقدم Vespucci ملفًا شاملا لكل الأصول الرقمية التي تهمك إلى جانب تصنيف مباشر يتمثل في مجموعة من المؤشرات المختلفة استنادًا على مبادئ الحوكمة اللامركزية، خصوصية النظير، دفتر الحسابات العام من خلال سلسلة الكتل والشفرة المفتوحة المصدر. وبالتالي، فإن تحليله خالي من تحيز أفراد معينين أو مجموعات مصالح محددة، والأساليب المستخدمة هي موضع تدقيق ومناقشة من قبل المجتمع. تقدم التطبيقات اللامركزية نقلة نوعية في التكنولوجيا الحالية؛ مثال جيد على هذا يوجد بشكل خاص في عمليات تبادل العملات الناشئة. يلتزم نهجنا بالمعايير المفتوحة ومبادئ سهولة الاستخدام باستخدام بعض من أحدث الأساليب المتطورة.
 
-General architecture of Vespucci
+البنية العامة الخاصة بـ Vespucci
 
 ![](https://volentix.io/file/2019/01/Web-1920-–-6@3x.png)
 
-* ### **OBJECTIVE**
+* ### **الهدف**
 
-Vespucci offers a web-based platform to enable users to navigate through crypto data and make informed trading and digital-asset utilization decisions. In particular, it provides:
+يقدم Vespucci منصة على شبكة الإنترنت لتمكين المستخدمين من الإبحار عبر بيانات العملات الإلكترونية، اتخاذ قرارات مستنيرة في التداول واستخدام الأصول الرقمية. على وجه الخصوص، فإنه يوفر:
 
-* An intuitive analytical agent leading to an easy to understand overview of cryptocurrencies.
-* A rating system of cryptocurrencies, including risk assessment.
-* A dashboard for cryptocurrency news.
+* وكيل تحليلي بديهي يسمح بنظرة عامة وسهلة الفهم للعملات الإلكترونية.
+* نظام تقييم للعملات الإلكترونية، بما في ذلك تقييم المخاطر.
+* واجهة لأخبار العملات الإلكترونية.
 
 ![](https://volentix.io/file/2019/01/02-icon.jpg)
 
-The rating and analytical capacity of Vespucci relies on the three pillars of: Sentiment analysis, Technical / economic analysis, and Fundamental / technological analysis. Vespucci combines these aspects in order to provide rating and ranking by employing Machine Learning and Neural Network (NN) technology. It offers a service that has never been available before since it integrates all features in the following figure.
+يعتمد تقيم Vespucci وقدرته التحليلية على ثلاثة دعائم: تحليل نزعة السوق، التحليل الفني/الاقتصادي والتحليل الأساسي/التكنولوجي. يجمع Vespucci بين هذه الجوانب من أجل توفير التقيم والتصنيف من خلال استخدام تقنية التعلم الآلي والشبكات العصبية (Neural Network أو NN). فهو يقدم خدمة لم تكن متوفرة من قبل لأنها تدمج جميع الميزات في الرسم التوضيحي التالي.
 
 ![](https://volentix.io/file/2019/01/1k.jpg)
 
-* ### **DESIGNING VESPUCCI**
+* ### **تصميم VESPUCCI**
 
-* #### **VESPUCCI FEATURES**
+* #### **ميزات VESPUCCI**
 
-The features of Vespucci are as follows.
+ميزات Vespucci هي على النحو التالي.
 
-* Rating of cryptocurrencies, easily leading to a Prediction machine.
-* Combination of a complete spectrum of criteria ranging from Fundamental / Technological Analysis to technical / economics aspects up to a sentiment gauge.
-* Transparency in methodology (data sources, ingestion mechanism, data manipulation process, algorithms)
-* Broad spectrum of sources (to avoid biased data)
-* Modular design that offers the ability to extend the platform to other applications such as smart contracts.
-* Security: Data Sources on EOS Blockchain (VLabs)
-* High accuracy using sophisticated Evaluation methods, AI, and Deep Learning
-* Intuitive algorithms, possibility for weighs given by user, Post-processing for humans.
-* #### **PRINCIPLES**
+* تصنيف العملات الإلكترونية مما يؤدي بسهولة إلى آلة تنبؤ.
+* مزيج من مجموعة كاملة من المعايير التي تتراوح من التحليل الأساسي/التكنولوجي إلى الجوانب الفنية/الاقتصادية حتى مقياس التوجه.
+* الشفافية في المنهجية (مصادر البيانات، آلية التحويل، عملية معالجة البيانات، الخوارزميات)
+* مجموعة واسعة من المصادر (لتجنب البيانات المتحيزة)
+* تصميم نمطي يوفر القدرة على توسيع المنصة لتشمل تطبيقات أخرى مثل العقود الذكية.
+* الأمان: مصادر البيانات على (EOS Blockchain (VLabs
+* دقة عالية باستخدام أساليب التقييم المتطورة، الذكاء الاصطناعى، والتعلم العميق
+* خوارزميات حدسية، إمكانية الاعتبار من قِبل المستخدم، المعالجة اللاحقة للبشر.
+* #### **المبادئ**
 
-Vespucci is designed under the following principles.
+تم تصميم Vespucci وفقًا للمبادئ التالية.
 
-* Objective in order not to risk compromising the Volentix DAO goodwill before it is established beyond any doubt
-* Automated
-* In demand
-* Decentralized implementation
-* Open-source
-* Intuitive
-* #### **HOW VESPUCCI WORKS**
+* موضوعي لتجنب الإخلال بسمعة شركة Volentix DAO قبل إنشائها بناءاً عن أي شك
+* يعمل تلقائيا
+* قيد الطلب
+* تطبيق لامركزي
+* مفتوح المصدر
+* حدسي
+* #### **كيف يعمل VESPUCCI؟**
 
-The three pillars are described in the following subsections. In these subsections a large number of criteria is mentioned. The results of the SA component is made available along with the Technical and FTA results to the users so they can access a complete 360 view of each coin’s state, rank and ultimately understand the coin’s true value and potential. ‪An evaluation of both established cryptocurrencies and known “scam-coins” is performed, and the resulting parameters deemed most relevant in determining cryptocurrency validity is integrated into the system.
+تم وصف الدعائم الثلاثة في الأقسام الفرعية التالية. كما تم ذكر عدد كبير من المعايير فيها. تم توفير نتائج تحليل نزعة السوق (SA) بالإضافة إلى نتائج التحليل الفني (TA) والتحليل الأساسي/التكنولوجي (FTA) للمستخدمين حتى يتمكنوا من الوصول إلى عرض 360 كامل لحالة كل عملة، تصنيف وفهم القيمة الحقيقية للعملة وإمكاناتها. يتم إجراء تقييم لكل من العملات الرقمية و "العملات المزورة" المعروفة ويتم دمج الموسطات الناتجة التي تعتبر الأكثر أهمية في تحديد صلاحية العملة الرقمية في النظام.
 
-In order to test Vespucci in a semi-public release using prospective volunteers, the system is being introduced to various outside users for bug testing of the assessment system functions, and the UI. ‬‪It is carried out in a public setting through the organization of a closed beta release. Users are selected to allow for more constructive and relevant feedback information.‬ ‪An ongoing iterative process of tweaks, fixes, and adjustments will take place during the beta release from the insight derived from user feedback.‬
+من أجل اختبار Vespucci في إصدار شبه عام باستخدام متطوعين محتملين، يتم تقديم النظام إلى العديد من المستخدمين الخارجيين لاختبار أخطاء وظائف نظام التقييم و UI. يتم تنفيذه في إعداد عام من خلال تنظيم إصدار تجريبي (Beta) مغلق. يتم اختيار المستخدمين للحصول على مزيد من التعليقات البناءة. ستحدث عملية تكرارية مستمرة من التعديلات والإصلاحات خلال الإصدار التجريبي من الرؤية المستمدة من ملاحظات المستخدم
 
-* ### **PILARS**
+* ### **الدعائم**
 
-* #### **SENTIMENT ANALYSIS**
+* #### **تحليل نزعة السوق**
 
-Market sentiment is being explored by the relatively new field of [behavioral finance](https://www.investopedia.com/terms/b/behavioralfinance.asp). It starts with the assumption that markets are apparently inefficient much of the time, and this inefficiency can be explained by psychology and other [social sciences](https://www.investopedia.com/terms/s/social-science.asp). The idea of applying social science to finance was fully legitimized when [D. Kahneman](https://www.investopedia.com/terms/d/daniel-kahneman.asp), a psychologist, won the 2002 Nobel Memorial Prize in Economics – he was the first psychologist to do so. Many of the ideas in behavioral finance confirm observable suspicions: that investors tend to overemphasize data that come easily to mind; that many investors react with greater pain to losses than with pleasure to equivalent gains; and that investors tend to persist in a mistake.
+يتم استكشاف توجه السوق من خلال مجال [التمويل السلوكي](https://www.investopedia.com/terms/b/behavioralfinance.asp) الجديد. تبدأ بالافتراض أن الأسواق غير فعالة معظم الوقت، ويمكن تفسير هذا العجز عن طريق علم النفس و[العلوم الاجتماعية](https://www.investopedia.com/terms/s/social-science.asp) الأخرى. أصبحت فكرة تطبيق العلوم الاجتماعية على التمويل شرعية بالكامل عندما قام [الطبيب النفسي Kahneman](https://www.investopedia.com/terms/d/daniel-kahneman.asp) بالفوز بجائزة نوبل التذكارية في الاقتصاد لعام 2002 - وكان أول عالم نفساني يفعل شيء من هذا القبيل. تؤكد العديد من الأفكار في التمويل السلوكي شكوكًا ملحوظة: إن المستثمرين يميلون إلى المبالغة في تأكيد البيانات التي تتبادر إلى الذهن بسهولة؛ أن العديد من المستثمرين يتفاعلون أكثر من الخسائر مقارنة بالسرور نتيجة الحصول على مكاسب مماثلة؛ وأن المستثمرين يميلون إلى الاستمرار في خطأ.
 
-One of the most significant factors that affect the rank and value of crypto-coins is the public confidence and sentiment. Sentiment bears major weight of cryptocurrencies monetary valuation. Public opinions are widely available to collect and analyze. A m ajor pillar of the Vespucci ranking platform is hence based on Sentiment Analysis (SA) of crypto related content, generated by the public on Social media (Twitter, Facebook, Telegram), Reddit, Blogs, forums and news sites. The key differentiating fact of Vespucci SA component is the broad and complete spectrum of data sources that are collected and analyzed. We believe that only by covering every potential source of public opinion related to each crypto-coin, the true state of market sentiment is revealed.
+واحدة من أهم العوامل التي تؤثر على مكانة وقيمة العملات الرقمية هي الثقة العامة والتوجه. التوجه مهم جداً للتقييم النقدي للعملات الرقمية. الآراء العامة متاحة على نطاق واسع للجمع والتحليل. وبالتالي فإن ركيزة أساسية لنظام تصنيف Vespucci تعتمد على تحليل نزعة السوق (SA) الخاص بمحتوى العملات الرقمية والذي تم إنشاؤه بواسطة الجمهور على وسائل التواصل الاجتماعي (Twitter ، Facebook ، Telegram) المدونات، Reddit، المنتديات والمواقع الإخبارية. العامل المميز لعنصر تحليل نزعة السوق الخاص بـ Vespucci هي المجموعة الواسعة والكاملة لمصادر البيانات التي يتم جمعها وتحليلها. نحن نعتقد أنه فقط من خلال تغطية كل مصدر محتمل للرأي العام المتعلق بكل عملة رقمية، يتم الكشف عن الحالة الحقيقية لتوجه السوق.
 
-Vespucci SA component is built in a phased approach. The first phase includes the implementation of a centralized cloud based, highly scalable, Big Data ingestion mechanism. This mechanism is able to listen continuously to the above mentioned data sources and ingest all content/messages that are relevant to each cryptocurrency. It uses no persistent storage. The same mechanism scores the Sentiment of the ingested content using an AI driven score function and text analytics libraries for analyzing social media content. The module also relies on further tools such as NTLK and TextBlob that assign numerical scores of sentiment to pieces of text. This process need not be transparent to the user.
+تم بناء عنصر تحليل نزعة السوق الخاص بـ Vespucci في نهج مرحلي. تتضمن المرحلة الأولى تطبيق آلية استيعاب بيانات كبيرة تعتمد على التحويل اللامركزي. هذه الآلية قادرة على الاستماع بشكل مستمر لمصادر البيانات المذكورة أعلاه وتحويل جميع المحتويات/الرسائل الخاصة بكل عملة رقمية. لا يستخدم تخزينا ثابتا. تقوم نفس الآلية بتسجيل درجات التوجه الخاصة بالمحتوى المحول باستخدام دالة الدرجات المبنية على الذكاء الاصطناعي ومكتبات تحليل النصوص وذلك لتحليل محتوى وسائل التواصل الإجتماعي. يعتمد التموذج أيضًا على أدوات أخرى مثل NTLK و TextBlob التي تقوم بتعيين درجات رقمية للتوجه إلى أجزاء من النص. هذه العملية لا تحتاج إلى أن تكون شفافة للمستخدم.
 
-This ensures that Vespucci SA component is able to cover the vast majority of public opinion. Results are compared over periods of one hour, one day and one week. The outputs are available through APIs for internal use by other Vespucci components such as the front-end web UI as well as to external users that want to consume the data or build third-party applications based on Vespucci.
+هذا يضمن أن عنصر تحليل نزعة السوق الخاص بـ Vespucci قادر على تغطية الاغلبية العظمى من الرأي العام. تتم مقارنة النتائج على مدار ساعة واحدة ويوم واحد وأسبوع واحد. تتوفر الإخراجات من خلال واجهات برمجة التطبيقات للاستخدام الداخلي من قبل مكونات Vespucci الأخرى مثل واجهة المستخدم الأمامية على الويب وكذلك للمستخدمين الخارجيين الذين يرغبون في استهلاك البيانات أو إنشاء تطبيقات طرف آخر تعتمد على Vespucci.
 
-Vespucci’s public opinion listeners run on cloud-based VMs that are able to instantly scale-out to address all potential workloads. This way Vespucci handles and ingests the massive, yet valuable, data volumes related to cryptocurrencies that are being generated at every given moment. Parallelization is key when handling Big Data and Vespucci’s architecture leverages parallelization, multi-threading and concurrency wherever possible. Micro-services and serverless code run in parallel to orchestrate the ingestion procedures and data flows.
+يعمل مستمعي الرأي العام الخاصين بـ Vespucci على أجهزة VM المستندة إلى السحابة والتي يمكنها التدريج الفوري لمعالجة جميع أعباء العمل المحتملة. وبهذه الطريقة، يحول Vespucci ويتعامل مع أحجام ضخمة من البيانات ذات القيمة والمرتبطة بالعملات الإلكترونية التي يتم إنشاؤها في كل لحظة. التوازي هو مفتاح التعامل مع بنية البيانات الكبيرة لذلك تعمل هندسة Vespucci على زيادة التوازي، الترابط المتعدد، والتزامن كلما كان ذلك ممكنًا. تعمل الخدمات الصغيرة والكود بدون سرفير بالتوازي مع تنظيم إجراءات التحويل وتدفقات البيانات.
 
-In the second phase, scoring tools are adapted and enhanced so as to focus their functionality to cryptocurrencies and, eventually, our own software shall be developed for this task. Moreover, some storage is used (see the relevant [section](https://docs.google.com/document/d/1NLr-rgF66NCBmLmPIdElltKYVPJrLVO7DZDpcNEm6OU/edit?ts=5bec2f33#heading=h.921dav9nirz6)) for aggregate data needed in order (a) to make historical comparisons and (b) to train the Convolutional Neural Network that produces the final score. For (a), we could make use of the entire history of each token since its creation. For (b), deep learning needs data covering a period of up to two years.
+في المرحلة الثانية، يتم تكييف أدوات التسجيل وتحسينها لتركيز وظائفها على العملات الإلكترونية. ففي نهاية الأمر، يجب تطوير برنامجنا لهذه المهمة. علاوة على ذلك، يتم استخدام بعض السعة التخزينية (أنظر [القسم ذي الصلة](https://docs.google.com/document/d/1NLr-rgF66NCBmLmPIdElltKYVPJrLVO7DZDpcNEm6OU/edit?ts=5bec2f33#heading=h.921dav9nirz6)) للحصول على البيانات الإجمالية المطلوبة من أجل (أ) إجراء مقارنات حسب التاريخ و (ب) لتدريب الشبكة العصبية التلافيفية (Convolutional Neural Network) التي تصنع النتيجة النهائية. بالنسبة إلى (أ)، يمكننا الاستفادة من تاريخ كل عملة رمزية منذ إنشائها. بالنسبة إلى (ب)، يحتاج التعليم العميق إلى بيانات تغطي فترة تصل إلى عامين.
 
-Eventually, Vespucci will reach out to the open-source community in an attempt to make the platform decentralized to a great degree . The intention is to decentralize the data ingestion and sentiment scoring functionality in order to provide secure, community led, unbiased and credible results.
+في النهاية، سوف يتواصل Vespucci مع مجتمع المصادر المفتوحة في محاولة لجعل المنصة لامركزية إلى أبعد حد. والقصد من ذلك هو تحقيق اللامركزية في تحويل البيانات ووظيفة تقييم التوجهات من أجل توفير نتائج آمنة، مقادة من طرف المجتمع، غير متحيزة وذات مصداقية.
 
 ![](https://volentix.io/file/2019/01/a.jpg)
 
-By leveraging Python’s Machine learning framework, and given the language’s advantages, it is only natural for this module to be implemented in Python. It interfaces with particular machine learning libraries such as Scikit-learn, TensorFlow, CNTK, Torch, Theano, and Keras.
+من خلال الاستفادة من هيكل التعلم الألي الخاص بـ Python وبالنظر إلى مزايا اللغة، من الطبيعي أن يتم تطبيق هذا الهيكل في Python. إنه يتفاعل مع مكتبات خاصة بالتعلم الآلي مثل Scikit-learn ،TensorFlow ،CNTK Torch ،Theano وKeras.
 
-‪A user experience linking to the cryptocurrency’s public community forum is developed to provide up to date announcements and statistics of community activity. The final score can be derived as a scoring function. Eventually, machine learning techniques are applied to deliver real-time sentiment analysis.‬
+تم تطوير تجربة مستخدم متصلة بمنتدى المجتمع العام الخاص بالعملات الرقمية لتقديم أحدث الإعلانات والإحصائيات حول نشاط المجتمع. يمكن استخلاص النتيجة النهائية كدالة تقييم. في نهاية المطاف، يتم تطبيق تقنيات التعلم الآلي لتقديم تحليل نزعات السوق في الوقت الحقيقي
 
 <table>
   <tr>
     
 
-<td>**Source**</td>
+<td>**المصدر**</td>
 
-<td>**Analysis**</td>
+<td>**التحليل**</td>
 
   </tr>
   
@@ -103,7 +103,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Twitter </td>
 
-<td>Sentiment</td>
+<td>التوجه</td>
 
   </tr>
   
@@ -112,7 +112,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Reddit</td>
 
-<td>Sentiment</td>
+<td>التوجه</td>
 
   </tr>
   
@@ -121,7 +121,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Facebook</td>
 
-<td>Sentiment</td>
+<td>التوجه</td>
 
   </tr>
   
@@ -130,7 +130,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Telegram</td>
 
-<td>Sentiment</td>
+<td>التوجه</td>
 
   </tr>
   
@@ -139,7 +139,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>LinkedIn</td>
 
-<td>Sentiment & Technological</td>
+<td>التوجه والأساسي</td>
 
   </tr>
   
@@ -148,7 +148,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Coin Sites</td>
 
-<td>Technological & Fundamental</td>
+<td>التكنولوجي والأساسي</td>
 
   </tr>
   
@@ -157,7 +157,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>CoinMarketCap</td>
 
-<td>Technical, Technological & Fundamental</td>
+<td>الفني، التكنولوجي والأساسي</td>
 
   </tr>
   
@@ -166,7 +166,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Github</td>
 
-<td>Technological</td>
+<td>التكنولوجي</td>
 
   </tr>
   
@@ -175,7 +175,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Coinbio</td>
 
-<td>General Information about every crypto </td>
+<td>معلومات عامة حول كل عملة رقمية </td>
 
   </tr>
   
@@ -184,7 +184,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>BitInfoCharts</td>
 
-<td>Technical </td>
+<td>تقني </td>
 
   </tr>
   
@@ -193,7 +193,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Cointelegraph</td>
 
-<td>Technical </td>
+<td>تقني </td>
 
   </tr>
   
@@ -202,7 +202,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>CCN</td>
 
-<td>Sentiment (Forums & News)</td>
+<td>التوجه (المنتديات والأخبار)</td>
 
   </tr>
   
@@ -211,7 +211,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>CoinDesk</td>
 
-<td>Sentiment (Forums & News)</td>
+<td>التوجه (المنتديات والأخبار)</td>
 
   </tr>
   
@@ -220,7 +220,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Bitcointalk</td>
 
-<td>Sentiment (Forums & News) </td>
+<td>التوجه (المنتديات والأخبار) </td>
 
   </tr>
   
@@ -229,16 +229,16 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Crypto Coin Rankings</td>
 
-<td>Technological & Technical </td>
+<td>التكنولوجي والتقني </td>
 
   </tr>
 </table>
 
-* #### **TECHNICAL ANALYSIS**
+* #### **التحليل الفني**
 
-Technical analysis is a trading tool employed to evaluate [securities](https://www.investopedia.com/terms/s/security.asp) and identify trading opportunities by analyzing statistics gathered from trading activity, such as price movement and volume. Unlike fundamental analysts who attempt to evaluate a security’s intrinsic value, [technical analysts](https://www.investopedia.com/terms/t/technical-analyst.asp) focus on charts of price movement and va rious analytical tools to evaluate a security’s strength or weakness. A typical source may be **coinmarketcap**. We focus on indicators and methods suitable for assets with high volatility of prices, and hence suitable for cryptocurrencies.
+التحليل الفني هو أداة تداول تستخدم لتقييم [السند المالي](https://www.investopedia.com/terms/s/security.asp) وتحديد فرص التداول من خلال تحليل الإحصاءات التي تم جمعها من نشاط التداول، مثل حركة السعر والحجم. على عكس المحللين الأساسيين الذين يحاولون تقدير القيمة الجوهرية للأسناد المالية، يركز [المحللون الفنيون](https://www.investopedia.com/terms/t/technical-analyst.asp) على الرسوم البيانية لحركة الأسعار والأدوات التحليلية الفعالة لتقييم قوة أو ضعف السند المالي. قد يكون المصدر النموذجي **coinmarketcap**. نركز على المؤشرات والأساليب المناسبة للأصول ذات التقلب الشديد في الأسعار، وبالتالي فهي مناسبة للعملات الإلكترونية.
 
-Technical analysts believe the analysis of price movement or the supply and demand of currencies is the best way to identify trends in the currency. Price movements tend to trade within a trend or range. In connection with this belief, technical analysts assume that history tends to repeat itself, based on the idea that market participants have often reacted in a similar fashion to reoccurring market events. There is a very large number of techniques and indices for data analysis. In this section, we focus on certain simple techniques, such as Keltner Channels , moving average crossovers, RSI, Bollinger Bands, and the popular MACD, and to some advanced methods, such as Fibonnaci, and Ichimoku Kinko Hyo.
+يعتقد المحللون الفنيون أن تحليل حركة الأسعار أو العرض والطلب الخاص بالعملات هو أفضل طريقة لتحديد اتجاهات العملة. تميل حركات الأسعار إلى التداول ضمن اتجاه أو نطاق. فيما يتعلق بهذا الاعتقاد، يفترض المحللون الفنيون أن التاريخ يميل إلى تكرار نفسه استنادًا على فكرة أن المشاركين في السوق كانوا في كثير من الأحيان يتفاعلون بطريقة مماثلة لأحداث السوق المتكررة. يوجد عدد كبير جدًا من التقنيات والمؤشرات لتحليل البيانات. في هذا القسم، نركز على بعض التقنيات البسيطة مثل Keltner Channels moving average crossovers ،RSI ،Bollinger Bands وتقنية MACD الشهيرة، هذا بالإضافة إلى بعض الأساليب المتقدمة مثل Fibonnaci وIchimoku Kinko Hyo.
 
 * Keltner Channels put an upper, middle and lower band around the price action on a stock chart. The indicator is most useful in strongly [trending markets](https://www.investopedia.com/terms/t/trending-market.asp) when the price is making higher highs and higher lows for an [uptrend](https://www.investopedia.com/terms/u/uptrend.asp), or lower highs and lower lows for a [downtrend](https://www.investopedia.com/terms/d/downtrend.asp).
 

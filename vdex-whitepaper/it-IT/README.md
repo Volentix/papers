@@ -68,7 +68,7 @@ Service contracts are standardized to provide a baseline measure of interoperabi
 
 #### 3.0.3 Comunicazione Inter-Contract
 
-I dati sono condivisi tra i contratti attraverso un oracolo, che, "nel contesto delle blockchain e degli smart contract, è un agente che trova e verifica eventi del mondo reale e invia queste informazioni ad una blockchain per essere utilizzati dagli smart contract". [4] Ogni nodo avrà una copia identica di questi dati, da utilizzare nella computazione degli smart contract. Piuttosto che sia lo smart contract a funzionare per estrarre i dati, è invece l'oracolo a inviare i dati alla blockchain. In the instance of a blockchain, most reading of the data is done via polling "models" in order to monitor blockchain state and to perform certain responsive actions.
+I dati sono condivisi tra i contratti attraverso un oracolo, che, "nel contesto delle blockchain e degli smart contract, è un agente che trova e verifica eventi del mondo reale e invia queste informazioni ad una blockchain per essere utilizzati dagli smart contract". [4] Ogni nodo avrà una copia identica di questi dati, da utilizzare nella computazione degli smart contract. Piuttosto che essere lo smart contract a funzionare per estrarre i dati, è invece l'oracolo a inviare i dati alla blockchain. In the instance of a blockchain, most reading of the data is done via polling "models" in order to monitor blockchain state and to perform certain responsive actions.
 
 #### 3.0.4 Sidechains
 
@@ -114,27 +114,27 @@ EOS.IO ha una latenza bassa per la conferma dei blocchi (0.5 secondi). [5] Quest
 
 ### 3.2 REGISTRO ORDINI
 
-Il registro ordini è la lista degli ordini di acquisto e vendita che vengono registrati da VDex dagli utenti interessati. Un motore corrispondente utilizza un registro ordini per determinare quali ordini possono essere coperti. Da il protocollo Loopring permette la personalizzazione della struttura del registro ordini. [5] Per prestazioni ottimali, si possono utilizzare i contenitori forniti da EOS.IO. [8]
+Il registro ordini è la lista degli ordini di acquisto e vendita che VDex registra dagli utenti interessati. Un motore corrispondente utilizza un registro ordini per determinare quali ordini possono essere coperti. Il protocollo Loopring permette la personalizzazione della struttura del registro ordini. [5] Per prestazioni ottimali, si possono utilizzare i container forniti da EOS.IO. [8]
 
 #### 3.2.1 Strutture dati
 
-Utilizzando il buffer circolare Protocollo di Loopring FIFO (primo ad entrare primo ad uscire), i nodi possono progettare i loro registri degli ordini per mostrare e corrispondere all'ordine di un utente. Questo metodo segue un modello OTC, dove i limit order vengono posizionati basandosi soltanto sul prezzo.[5]
+Utilizzando il buffer circolare FIFO (primo ad entrare primo ad uscire) del Protocollo Loopring, i nodi possono progettare i loro registri degli ordini per mostrare e soddisfare l'ordine di un utente. Questo metodo segue un modello OTC, dove i limit order vengono posizionati solo in base al prezzo.[5]
 
 Facendo riferimento alla persistence API di EOS.IO, il registro ordini può trarre vantaggio dal potente container multi-index condiviso tra i nodi tramite lo stesso account EOS.IO.
 
 #### 3.2.2 Registro ordini On-Chain
 
-Un registro ordini on-chain è un registro di offerte che risiedono nel wallet (nodo) scelto per impostare il registro ordini. Questo si trova in un database persistente su ogni nodo che si iscrive allo stesso account di tutti gli altri nodi.
+Un registro ordini on-chain è un registro di offerte che risiedono nel wallet (nodo) scelto per impostare il registro ordini. Questo si trova in un database persistente su ogni nodo che si iscrive allo stesso account degli altri nodi.
 
 #### 3.2.3 Registro ordini Off-Chain
 
-Risiedenti sull'aggregatore, i registri ordini offline servono per la simulazione e per scopi di sicurezza.
+Risiedenti sull'aggregatore, i registri ordini offline hanno come scopo la sicurezza e le simulazioni.
 
 #### 3.2.4 Processo di decentralizzazione per l'impostazione del registro ordini
 
 Ai fini della decentralizzazione, I nodi faranno a turno per impostare il registro ordini. The settling node must be designated by the protocol and all order book entries from all nodes must be available to the settling nodes. Secondo noi i meccanismi di consenso RAFT[9] e PARSEC[10] offrono soluzioni efficaci. RAFT è un algoritmo ben consolidato ed è facile da implementare.[7] PARSEC è più recente ed efficace, utilizza la tecnologia Directed Acyclic Graph (DAG) ed elimina la necessità di copiare i log.
 
-### 3.3 REGOLAMENTO ORDINE
+### 3.3 IMPOSTAZIONE ORDINE
 
 Il regolamento degli ordini contiene elementi noti delle operazioni tradizionali del mercato finanziario. Utilizing FIFO technology to design the order book, VDex intends to check order, inventory, and fill rate, as well as limit orders and cancellations. ![](../7.jpg)
 
@@ -142,7 +142,7 @@ Il regolamento degli ordini contiene elementi noti delle operazioni tradizionali
 
 #### 3.4.1 VTX Issuance and Use
 
-VTX è l'aset digitale nativo da emettere e utilizzare sull'exchange decentralizzato di VDex. Attualmente abbiamo intenzione di utilizzare un contratto eosio.token del framework EOS.IO per emettere 2.1 miliardi di token VTX compatibili con EOS.IO con una fornitura di 1.3 miliardi. VTX avrà un'ampia gamma di utilizzi, ad esempio:
+VTX è l'asset digitale nativo da emettere e utilizzare sull'exchange decentralizzato di VDex. Attualmente abbiamo intenzione di utilizzare un contratto eosio.token del framework EOS.IO per emettere 2.1 miliardi di token VTX compatibili con EOS.IO con una fornitura di 1.3 miliardi. VTX avrà un'ampia gamma di utilizzi, ad esempio:
 
 Per ricompensare i partecipanti nel processo del consenso e nelle campagne Venue.
 
@@ -152,7 +152,7 @@ Per presentare e votare le proposte per l'ecosistema Volentix, utilizzando i dir
 
 Per offrire sostegno per la revisione delle proposte e per attuare progetti.
 
-Per incentivare gli utenti a partecipare nel regolamento del libro d'ordine diventando nodi attraverso i loro wallet Verto.
+Per incentivare gli utenti a partecipare nell'impostazione del libro d'ordine diventando nodi attraverso i loro wallet Verto.
 
 Per incentivare gli utenti a bloccare i loro fondi per più di 24 ore per le transazioni HTLC con scadenza.
 
@@ -160,9 +160,9 @@ Per incentivare gli utenti a bloccare i loro fondi per più di 24 ore per le tra
 
 ![](../6.jpg)
 
-Un'ecosistema di asset digitali richiede una matrice di componenti umani fondamentali che portino avanti il progetto. [11] È essenziale ricompensare questi individui per la loro partecipazione. Oggetto di aggiustamenti, attualmente Volentix prevede i seguenti stanziamenti:
+Un ecosistema di asset digitali richiede una insieme di componenti umani fondamentali che portino avanti il progetto. [11] È essenziale ricompensare questi individui per la loro partecipazione. Oggetto di aggiustamenti, al momento Volentix prevede i seguenti stanziamenti:
 
-1. Collaboratori. 12%. Una serie di individui, simili ai fondatori, che contribuiscono con idee, tempo e talento, anche se spesso lavorano senza una compensazione anticipata.
+1. Collaboratori. 12%. Un insieme di individui, simili ai fondatori, che contribuiscono con idee, tempo e talento, anche se spesso lavorano senza una compensazione anticipata.
 
 2. Sostenitori.
 
@@ -170,7 +170,7 @@ Fase 1. 5%. Early passive seed funders.
 
 Fase 2. 28%. Finanziatori tramite prevendita privata qualificata e possibile vendita pubblica.
 
-3. Facilitatori. (Consulenti, Sviluppatori, Promotori, Custodi). Si noti che i requisiti per l'assistenza da parte delle sottocategorie di questa categoria possono differire significativamente prima e dopo che il progetto abbia ricevuto il sostegno finanziario sostanziale, ma alcuni individui possono prestare servizio durante entrambe le fasi.
+3. Facilitatori. (Consulenti, Sviluppatori, Promotori, Custodi). Nota che i requisiti per l'assistenza da parte delle sotto categorie di questa categoria possono differire significativamente prima e dopo che il progetto abbia ricevuto il sostegno finanziario sostanziale, ma alcuni individui possono prestare servizio durante entrambe le fasi.
 
 Fase 1. 10%.
 
@@ -180,7 +180,7 @@ Fase 2. 10%.
 
 #### 3.4.3 Distribuzione VTX
 
-Alla luce delle condizioni di mercato al momento della presente scrittura, Volentix sta considerando i tempi, i mezzi, i termini e le condizioni per la distribuzione di VTX come una funzione di prevendite private e un eventuale vendita publica. Controlla il nostro sito per ulteriori aggiornamenti.
+Alla luce delle condizioni del mercato al momento della presente scrittura, Volentix sta considerando i tempi, i mezzi, i termini e le condizioni per la distribuzione di VTX come una funzione di prevendite private e un eventuale vendita pubblica. Tieni sotto controllo il nostro sito per ulteriori aggiornamenti.
 
 ### 3.5 IMPIEGO DELLA PIATTAFORMA EOS.IO
 
@@ -232,7 +232,7 @@ Includere la possibilità di ritardare un azione di un contratto.
 
 #### 3.8.2 Auditing rogue processes
 
-Gli algoritmi avanzati della rilevazione delle anomalie forniti dalla libreria Nupic di Numenta necessiteranno degli insiemi di dati di addestramento meno voluminosi di quelli dei sistemi Ai convenzionali.
+Gli algoritmi avanzati per la rilevazione delle anomalie forniti dalla libreria Nupic di Numenta necessiteranno degli insiemi di dati di addestramento meno voluminosi di quelli dei sistemi AI convenzionali.
 
 #### 3.8.3 Randomizzazione
 
@@ -256,19 +256,19 @@ Un attacco di tipo race si verifica quando due transazioni in conflitto vengono 
 
 A Finney attack pre-mines one transaction into a block and spends the same tokens before releasing the block to invalidate that transaction.
 
-Un attacco 51% può essere effettuato da chiunque possiede più del 50% della potenza di calcolo di una rete. A majority ownership position permits reversal of any transaction and allows total control of selection of transactions appearing in blocks. Sembra che EOS.IO, Loopring, e RAFT pervengono questo problema. Se un produttore di blocchi impiega una quantità irragionevole di runtime oppure non è sufficientemente profitabile, allore il processo viene inserito nella lista nera.[5]
+Un attacco 51% può essere effettuato da chiunque possiede più del 50% della potenza di calcolo di una rete. A majority ownership position permits reversal of any transaction and allows total control of selection of transactions appearing in blocks. Sembra che EOS.IO, Loopring, e RAFT pervengono questo problema. Se un produttore di blocchi impiega una quantità irragionevole di runtime oppure non è sufficientemente redditizia, allora il processo viene inserito nella lista nera.[5]
 
 #### 3.9.2 Front running
 
-A front runner steals one or more orders from a pending order book settlement transaction. Both EOS.IO and Loopring offer remedies in which keys are protected because they are not part of the on-chain transaction, and therefore remain unknown to parties other than the owner. Only the order book settling node is possessed of the sensitive information, and each node uses a different solution for resolving the order books, introducing yet another level of complexity to promote security.
+Un front runner ruba uno o più ordini dall'impostazione del libro ordini di una transazione in attesa. Sia EOS.IO che Loopring offrono dei rimedi nei quali le chiavi sono protette perché non fanno parte della transazione on-chain, e quindi rimangono sconosciute ai soggetti diversi dal proprietario. Solo il nodo che regola il registro d'ordine è in possesso delle informazioni sensibili, e ogni nodo utilizza una soluzione diversa per la risoluzione dei registri degli ordini, aggiungendo un altro livello di difficoltà per promuovere la sicurezza.
 
-#### 3.9.3 Forged identities
+#### 3.9.4 Identità forgiate
 
-Malicious users create forged identities to send a large number of small orders to attack Loopring nodes. However, most of these orders will be rejected for not yielding satisfying profit when matched.
+Gli utenti malintenzionati creano identità forgiate per inviare un gran numero di piccoli ordini per attaccare i nodi di Loopring. However, most of these orders will be rejected for not yielding satisfying profit when matched.
 
-#### 3.9.4 Insufficient Balance
+#### 3.9.4 Saldo Insufficiente
 
-Malicious users sign and spread orders the value of which is non-zero but the address of which has a zero balance. Nodes monitor actual balances, update these order states accordingly, and then discard them.
+Gli utenti malintenzionati creano e inviano ordini il cui valore è diverso da 0 ma il cui indirizzo ha un saldo pari a 0. I nodi controlla il saldo reale, aggiorna di conseguenza lo stato di questi ordini, e poi li scarta.
 
 #### 3.9.5 Timing attack
 
