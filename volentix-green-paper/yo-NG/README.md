@@ -37,7 +37,7 @@ Fun lilo ti o dan mọran ati ti o ni aabo, a gbero lati jẹki VDEX ṣiṣẹp
 
 ## IPESE ATI IBEERE ỌJA
 
-To facilitate access to and use of the four pillars of the VOLENTIX ecosystem, we plan to issue the native utility token VTX. An initial VENUE signature campaign is underway, and we are evaluating pre-sale opportunities as well as potential terms and conditions in the event a crowdsale is authorized.
+Lati mu irọrun ba wiwọle si ati lilo ti awọn opo mẹrin ti awujọ VOLENTIX, a gbero lati ṣe ipese aami ibilẹ VTX ti o wulo. An initial VENUE signature campaign is underway, and we are evaluating pre-sale opportunities as well as potential terms and conditions in the event a crowdsale is authorized.
 
 Bi a ti se gbero lọwọlọwọ, adehun aami eos.io lati ilana ti EOS.IO maa mu irọrun ba pinpin awọn aami VTX ti o jẹ biliọnu 2.1 ti o ni ibaamu pẹlu EOS.IO pẹlu ipese ti o jẹ biliọnu 1.3. As a utility token, VTX envisions a diverse array of uses. For additional information, please refer to our VDEX white paper at <https://volentix.io/documentation/vdex-whitepaper.>
 
