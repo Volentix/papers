@@ -27,7 +27,7 @@ Verto will be a multi-currency wallet for use with the VDEX exchange, and intend
 
 Vespucci jẹ fifojusun gẹgẹbi ohun elo iyanana ti o se wọle si nipasẹ intafeesi onirọrun-olumulo pẹlu awọn ile ipamọ iṣura ti bosenlọ lọwọ ti awọn data ọja, gẹgẹbi awọn ipele ipo ati iyanana iwoyesi. A fẹ lati ro awọn olumulo lagbara pẹlu awọn irinṣẹ lati ṣe iwọn ati ṣe afiwe awọn ohun-ini oni-nọmba ti o ṣe fisowo, lati wọle ati pin awọn akọsilẹ itan iṣowo, lati ṣeto awọn aṣa ati awọn ilana, ati lati mojuto ati ṣayẹwo awọn idagbasoke software orisun-gbangba. VESPUCCI n wa lati mu si arọwọto rẹ awọn alaye ti o kun ati ti o gboya lori iṣowo ọja nipa sise akojọpọ awọn ijabọ alaye ti o lọwọlọwọ yii fọn kakiri gbogbo awọn oriṣiriṣi awọn blockchain, awọn aaye ayelujara, awọn yara itakurọsọ, ati awọn ibi iyipada. This application is currently in development by our affiliate Pythagoras Systems.
 
-The fourth pillar of VOLENTIX is the decentralized VDEX exchange, a tradable digital assets platform introduced in detail in our white paper available to view at [https://volentix.io/documentation/vdex-whitepaper](https://volentix.io/documentation/vdex-whitepaper/).
+Opo kẹrin ti VOLENTIX ni ibi ipaṣipaarọ alaisilojukan VDEX, pilatifọọmu awọn dukia oni-nọmba to ṣe fiṣowo ti o jẹ fifihan ni kikun ninu iwe funfun wa ti o wa fun wiwo ni [https://volentix.io/documentation/vdex-whitepaper](https://volentix.io/documentation/vdex-whitepaper/).
 
 ## VDex
 
