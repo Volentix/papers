@@ -35,7 +35,7 @@ VDex n jẹ siseto gẹgẹbi ibi ipasipaarọ awọn owo oni-nọmba alaisiloju
 
 Fun lilo ti o dan mọran ati ti o ni aabo, a gbero lati jẹki VDEX ṣiṣẹpọ pẹlu apo owo Verto ti ara rẹ ati intafeesi olumulo VESPUCCI. Biotilẹjẹpe a ni ireti pe ki VERTO ati VDEX lakotan ni anfani lati ṣakoso awọn iṣowo ti o niise pẹlu ọpọlọpọ orisirisi awọn dukia oni-nọmba ati awọn blockchain ti o wa laye lati igba de igba, a n ṣe agbedide VENUE gẹgẹbi afikun alabaṣiṣẹpọ nipataki lati le pese iwuri ati lati ṣe atilẹyin fun awọn iṣowo ibilẹ ti o da lori VTX.
 
-## MARKET SUPPLY AND DEMAND
+## IPESE ATI IBEERE ỌJA
 
 To facilitate access to and use of the four pillars of the VOLENTIX ecosystem, we plan to issue the native utility token VTX. An initial VENUE signature campaign is underway, and we are evaluating pre-sale opportunities as well as potential terms and conditions in the event a crowdsale is authorized.
 
