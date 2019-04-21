@@ -33,7 +33,7 @@ Opo kẹrin ti VOLENTIX ni ibi ipaṣipaarọ alaisilojukan VDEX, pilatifọọm
 
 VDex n jẹ siseto gẹgẹbi ibi ipasipaarọ awọn owo oni-nọmba alaisilojukan, ti o jẹ pinpin pẹlu itẹramọ lori asiri iriri olumulo ati idagbasoke awujọ ati iṣejọba. Nipa wiwọle si awọn imọ-ẹrọ ti o fẹsẹrinlẹ ati siseto yiyan awọn ilana titun ti o pataki aabo, iyara, ìfàṣẹsí, irọrun ti lilo, agbara iṣiṣẹ ṣi, ati atilẹyin ọlọpọ-ohun ini, VDEX n gbero lati ṣọ awọn iṣowo ẹgbẹ́-sí-ẹgbẹ́ di irọrun nipa sisẹ atopọ awọn ohun elo alaisilojukan ti o jẹ gbigbe dede lori awọn iwe adehun EOS.IO to jafafa.
 
-Fun lilo ti o dan mọran ati ti o ni aabo, a gbero lati jẹki VDEX ṣiṣẹpọ pẹlu apo owo Verto ti ara rẹ ati intafeesi olumulo VESPUCCI. Although we expect VERTO and VDEX ultimately to be able to manage transactions involving the vast array of digital assets and blockchains extant from time to time, we are developing VENUE as a complementary adjunct primarily in order to incentivize and drive native VTX-based transactions.
+Fun lilo ti o dan mọran ati ti o ni aabo, a gbero lati jẹki VDEX ṣiṣẹpọ pẹlu apo owo Verto ti ara rẹ ati intafeesi olumulo VESPUCCI. Biotilẹjẹpe a ni ireti pe ki VERTO ati VDEX lakotan ni anfani lati ṣakoso awọn iṣowo ti o niise pẹlu ọpọlọpọ orisirisi awọn dukia oni-nọmba ati awọn blockchain ti o wa laye lati igba de igba, a n ṣe agbedide VENUE gẹgẹbi afikun alabaṣiṣẹpọ nipataki lati le pese iwuri ati lati ṣe atilẹyin fun awọn iṣowo ibilẹ ti o da lori VTX.
 
 ## MARKET SUPPLY AND DEMAND
 
