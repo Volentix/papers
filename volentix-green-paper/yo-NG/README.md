@@ -50,7 +50,7 @@ A ni afojusun lati jẹ ki VTX ati awọn opo mẹrin ti VOLENTIX - VENUE, VERTO
 ## AKỌMỌNA ATI IFARAJIN
 
 Akọmọna itọnisọna wa jẹ ti alaisilojukan, atipe awọn igbiyanju wa ti n lọ lọwọ jẹ fifojusun lati ṣe ipolongo mimu adinku ba gigbarale iṣakoso olojukan. Awọn anfani nla ti akọmọna koodu orisun-gbangba  
-ni pe ojoojumọ ni awọn ikede ti awọn agbedide koodu tuntun ti o n ni ipa lori irọrun ati ailewu ti owo ṣiṣe ati ilo awọn dukia oni-nọmba. Igbagbọ wa jẹ aabo ati irọrun ti isẹ. Prudence mandates education. The most important asset is knowledge.
+ni pe ojoojumọ ni awọn ikede ti awọn agbedide koodu tuntun ti o n ni ipa lori irọrun ati ailewu ti owo ṣiṣe ati ilo awọn dukia oni-nọmba. Igbagbọ wa jẹ aabo ati irọrun ti isẹ. Ọgbọn se ẹkọ ni dandan. Duika to se pataki julọ ni imọ.
 
 Gbogbo wa ni VOLENTIX n fi ara iṣẹ wa to ni ye lori ati awọn oye wa jin si ṣiṣe igbedide eto kan ti o da lori ironilagbara ati ominira. Jọwọ mojuto aaye ayelujara wa ati awọn ikanni ajọlo fun awọn ifitonileti ati awọn ikede pataki miiran. O ṣeun pupọ fun itẹtisilẹ ati inifẹsi rẹ.
 
