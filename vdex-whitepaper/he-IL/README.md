@@ -72,11 +72,11 @@ Web Assembly מאפשר ביצועים גבוהים של יישומים רשתי
 
 #### 3.0.4 שרשורי צד
 
-ב- EOS.IO, הנפקה של נכס דיגיטלי יוצרת שרשרת צד, דבר זה הוא מנגנון המתיר שימוש מאובטח של נכסים דיגיטליים מבלוקצ'יין אחד לאחר, ומאפשר את חזרתם לבלוקצ'יין המקורי. יעילות העיבוד מקודמת על-ידי יצירת שרשראות-צד מרובות. ערוץ תקשורת דמוי-TCP בין בלוקצ'יינים שונים מעריך הוכחות. For each shard (a unit of parallelizable execution in a cycle), a balanced merkle tree is constructed of these action commitments to generate a temporary shared merkle root; this is done for speed of parallel computation. The block header contains the root of a balanced merkle tree the leaves of which are the roots of these individual shard merkle trees. [2]
+ב- EOS.IO, הנפקה של נכס דיגיטלי יוצרת שרשרת צד, דבר זה הוא מנגנון המתיר שימוש מאובטח של נכסים דיגיטליים מבלוקצ'יין אחד לאחר, ומאפשר את חזרתם לבלוקצ'יין המקורי. יעילות העיבוד מקודמת על-ידי יצירת שרשראות-צד מרובות. ערוץ תקשורת דמוי-TCP בין בלוקצ'יינים שונים המבצע אומדן הוכחות. For each shard (a unit of parallelizable execution in a cycle), a balanced merkle tree is constructed of these action commitments to generate a temporary shared merkle root; this is done for speed of parallel computation. The block header contains the root of a balanced merkle tree the leaves of which are the roots of these individual shard merkle trees. [2]
 
 #### 3.0.5 הנזלה
 
-ניתן להנזיל נכס דיגיטלי אם הוא נמכר בקלות או נרכש בשיטות מסחר רגילות ללא השפעה משמעותית לטווח קצר על מחיר השוק השורר. In order to achieve such a status, traditionally any tradable asset must surmount a trading volume threshold sufficient to support stability. Specifically, we anticipate adopting the following methodologies: Loopring protocol with the use of EOS.IO contracts acting as nodes.[5] Bancor algorithm used to bring stability to the digital asset.[6] Toggles between these protocols and HTLC (atomic swaps) according to Vespucci analyses on the VDex network.
+ניתן להנזיל נכס דיגיטלי אם הוא נמכר בקלות או נרכש בשיטות מסחר רגילות ללא השפעה משמעותית לטווח קצר על מחיר השוק. In order to achieve such a status, traditionally any tradable asset must surmount a trading volume threshold sufficient to support stability. Specifically, we anticipate adopting the following methodologies: Loopring protocol with the use of EOS.IO contracts acting as nodes.[5] Bancor algorithm used to bring stability to the digital asset.[6] Toggles between these protocols and HTLC (atomic swaps) according to Vespucci analyses on the VDex network.
 
 #### 3.0.6 Hashed Timelock Contracts (Atomic Swaps)
 
