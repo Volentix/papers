@@ -367,7 +367,7 @@ AWỌN ASAAYAN OLUMULO
 * Safihan gbogbo awọn aroko, tó kàngun si orukọ ati aami ti ipele ipo ti Vespucci.
 * Ṣatunto eto ipele ipo nipa yiyan awọn ilana Vespucci ti nṣiṣe lọwọ.
 * Ṣeto eto ipele ipo nipa yiyan eyi to ṣe pataki julọ ninu awọn ilana ipilẹ naa ati ṣiṣe atunto awọn iwọn.
-* Be informed separately about the effect of the basic parameters via diagrams and gain a deeper picture of those that shape the fluctuation of the value of each currency.
+* Da mọ ni iyatọ nipa ipa ti awọn ilana ipilẹ nipasẹ awọn aworan ni ati ki o ni aworan to jinlẹ ti awọn ti o n ṣe irisi aidurolojukan ti iye owo ti owo kọọkan.
 * Ṣẹ akojọ ti awọn owo kiripito ni ibamu si oṣuwọn hash ati awọn igba ti isẹlẹ nṣiṣẹ lori ọja naa.
 * Wo awọn ẹya ara owo kiripito ni kikun.
 
@@ -379,7 +379,7 @@ A ti ṣọrọ nipa awọn ọna pataki mẹta ti ẹka-eto ti Iyanana Awọn �
 
 Awọn abajade ti gbogbo awọn ẹya ara mẹtẹta pẹlu awọn isipopada iye owo ti o wa ni ibaamu (idiyele ti o wa ni idakeji si ewu) fun oriṣiriṣi awọn feremu ti o jasi ipele ipo ti awọn owo kiripito naa ati awọn aami ni ọna gbogbogbo pipe julọ ti ko ti sẹlẹ ri. Eyi wa pẹlu Igbẹhin-isaayan fun awọn eniyan.
 
-Nipa ifaagunsi, Vespucci paapaa julọ wulo fun awọn aami ti o da lori Ethereum. Eyi n soju fun ọpọlọpọ awọn aami iṣowo ti o wuni julọ loni, ṣugbọn ọpọlọpọ awọn eto adehun ajafafa tuntun ti n jẹ gbigbedide pẹlu awọn ẹro aifojuri ti ara wọn gangan ati awọn akoko aseyọri iṣẹ. Modulu yii le ṣee ri gẹgẹbi pàtó apẹẹrẹ kan ti nọmba ti iru awọn modulu bẹẹ miiran eyiti o le ṣe gbedide fun awọn eto adehun ajafafa ọjọ iwaju. In particular, systems are likely to appear that expose a semantics especially amenable to formal verification, at which point Vespucci will be extended with new modules resembling this one for each new smart contract system that supports a range of valuable tokens. Lẹhin igba diẹ, ati pẹlu ifẹsẹmulẹ awọn opo to se pataki, eto naa jẹ fifojusun lati tun peṣe asọtẹlẹ idiyele.
+Nipa ifaagunsi, Vespucci paapaa julọ wulo fun awọn aami ti o da lori Ethereum. Eyi n soju fun ọpọlọpọ awọn aami iṣowo ti o wuni julọ loni, ṣugbọn ọpọlọpọ awọn eto adehun ajafafa tuntun ti n jẹ gbigbedide pẹlu awọn ẹro aifojuri ti ara wọn gangan ati awọn akoko aseyọri iṣẹ. Modulu yii le ṣee ri gẹgẹbi pàtó apẹẹrẹ kan ti nọmba ti iru awọn modulu bẹẹ miiran eyiti o le ṣe gbedide fun awọn eto adehun ajafafa ọjọ iwaju. Ni pato, awọn eto le farahan bi eyi to n ṣafihan awọn itumọ kan ti o ṣe pataki fun imudaniloju alaigbẹfẹ, ni ipo eyiti Vespucci yoo gba afikun pẹlu awọn modulu tuntun to farajọ eyi fun ọkọọkan awọn eto adehun ajafafa tuntun ti o n ṣe atilẹyin fun orisirisi awọn aami to niyelori. Lẹhin igba diẹ, ati pẹlu ifẹsẹmulẹ awọn opo to se pataki, eto naa jẹ fifojusun lati tun peṣe asọtẹlẹ idiyele.
 
 **Ẹkọ kikọ to jinlẹ ati AI** jẹ imọ ẹrọ to lagbara ti o wa labẹ agbedide kiakia loni atipe o le jẹ mimulo ni awọn ẹya ara ti eto Vespucci miiran yatọ sii ipele ikẹhin ti o n se abajade ti isiro gbogbogbo. Ni isalẹ yii ni iyaworan ti ipilẹ nẹtiwọki neural pẹlu ipele kan ti o farasin. Awọn nẹtiwọki ti o jinlẹ loni ni ọpọlọpọ iru awọn ipele wọnyii, eyi ti a ma samulo agbara wọn. Awọn nẹtiwọki neural n "kọ" awọn iwọn ti o tọ nipasẹ back-propagation. Ibeere pataki kan nitorina jẹ ti ipele ikẹkọ nibi ti awọn itan data lori awọn owo kiripito, ti o ni akọle ti o tọ, yoo ti jẹ mimulo. Isoro kan ni pe data ti o wa nilẹ ni opin atipe awọn akọle rẹ le nilo tito: eto data ti o jẹ ṣiṣẹda yoo di wiwọle si onigbangba gẹgẹbi iranlọwọ si awujọ.
 
@@ -437,7 +437,7 @@ Atẹ isẹlẹ iṣẹ akanṣe naa jẹ fifihan ninu akawe ti o wa loke. Awọ
 
 [5] Bird et al. Natural Language Processing with Python, O’Reilly Media Inc. (2009)
 
-[6] E. Stenqvist et al. Sise asọtẹlẹ aidurolojukan owo Bitcoin pẹlu iyanana iwoyesi Twitter. MSc Thesis. School of Computer Science and Communication, KTH Royal Institute of Technology, Stockholm, Sweden (2017)
+[6] E. Stenqvist et al. Sise asọtẹlẹ aidurolojukan owo Bitcoin pẹlu iyanana iwoyesi Twitter. Iwe iwadi MSc. School of Computer Science and Communication, KTH Royal Institute of Technology, Stockholm, Sweden (2017)
 
 [7] H. Kakavand, N. Kost De Sevres, and B. Chilton, The Blockchain Revolution: An Analysis of Regulation and Technology Related to Distributed Ledger Technologies. SSRN Electronic Journal. 10.2139/ ssrn.2849251 (2017)
 
