@@ -49,10 +49,10 @@ A ni afojusun lati jẹ ki VTX ati awọn opo mẹrin ti VOLENTIX - VENUE, VERTO
 
 ## AKỌMỌNA ATI IFARAJIN
 
-Akọmọna itọnisọna wa jẹ ti alaisilojukan, atipe awọn igbiyanju wa ti n lọ lọwọ jẹ fifojusun lati ṣe ipolongo mimu adinku ba gigbarale iṣakoso olojukan. The tremendous benefit of the open-source code philosophy  
-is that every day there are announcements of fresh code developments impacting on convenient and safe trading and use of digital assets. Our premise is security and ease of operation. Prudence mandates education. The most important asset is knowledge.
+Akọmọna itọnisọna wa jẹ ti alaisilojukan, atipe awọn igbiyanju wa ti n lọ lọwọ jẹ fifojusun lati ṣe ipolongo mimu adinku ba gigbarale iṣakoso olojukan. Awọn anfani nla ti akọmọna koodu orisun-gbangba  
+ni pe ojoojumọ ni awọn ikede ti awọn agbedide koodu tuntun ti o n ni ipa lori irọrun ati ailewu ti owo ṣiṣe ati ilo awọn dukia oni-nọmba. Our premise is security and ease of operation. Prudence mandates education. The most important asset is knowledge.
 
-All of us at VOLENTIX are dedicating sizable quantities of work and insights to developing a program premised on empowerment and independence. Please monitor our website and social media for updates and other important announcements. Thank you very much for your attention and interest.
+Gbogbo wa ni VOLENTIX n fi ara iṣẹ wa to ni ye lori ati awọn oye wa jin si ṣiṣe igbedide eto kan ti o da lori ironilagbara ati ominira. Jọwọ mojuto aaye ayelujara wa ati awọn ikanni ajọlo fun awọn ifitonileti ati awọn ikede pataki miiran. Thank you very much for your attention and interest.
 
 Awọn Laabu Volentix
 
