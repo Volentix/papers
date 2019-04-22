@@ -8,7 +8,7 @@ Aaye ifilọle VDex n ṣe ifojusọna fun sise ibamu awọn ibeere idalara ti V
 
 ## OFIN ỌJA
 
-In the second decade since the emergence of Bitcoin, the digital asset marketplace is defined by the dizzying highs and lows experienced by a tiny percentage of the global population trading thousands of cryptocurrencies many of which are outright scams. Looking past the frauds, and observing the value of the credible digital application technologies emerging in the past ten years, if we are to progress and promulgate those technologies, then they must penetrate the mainstream. Legitimate digital currencies must be used in broad commerce. And the primary focus of digital assets proliferation must be to simplify and enrich user experience. The choices of which existing technologies to employ and which unavailable technologies to develop must be driven by comfort, certainty, and security of user  
+Ni ọdun mẹwa ẹlẹkeji lẹhin ti Bitcoin ti farahan, ibi iṣowo dukia oni-nọmba jẹ asọye nipasẹ awọn igasoke ati awọn ijawalẹ olooyi ti o jẹ iriri ida diẹ lara iye awọn eniyan agbaye ti ṣe iṣowo ẹgbẹgbẹrun awọn owo kiripito ọpọlọpọ awọn eyiti o jẹ ẹtàn patapata. Looking past the frauds, and observing the value of the credible digital application technologies emerging in the past ten years, if we are to progress and promulgate those technologies, then they must penetrate the mainstream. Legitimate digital currencies must be used in broad commerce. And the primary focus of digital assets proliferation must be to simplify and enrich user experience. The choices of which existing technologies to employ and which unavailable technologies to develop must be driven by comfort, certainty, and security of user  
 transactions and related experiences.
 
 ## ATẸWỌLE ỌJA
