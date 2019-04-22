@@ -39,9 +39,9 @@ Fun lilo ti o dan mọran ati ti o ni aabo, a gbero lati jẹki VDEX ṣiṣẹp
 
 Lati mu irọrun ba wiwọle si ati lilo ti awọn opo mẹrin ti awujọ VOLENTIX, a gbero lati ṣe ipese aami ibilẹ VTX ti o wulo. Ipolongo ibuwọlu alakọkọ ti VENUE ti wa loju ọna, ati pe a n ṣe agbeyẹwo awọn anfani tita-iṣaaju ati awọn ti o ṣeese ko jẹ awọn alaye ati awọn adehun ti o ba lọ sẹlẹ pe titajade fun awọn eniyan jẹ fifi ontẹ lu.
 
-Bi a ti se gbero lọwọlọwọ, adehun aami eos.io lati ilana ti EOS.IO maa mu irọrun ba pinpin awọn aami VTX ti o jẹ biliọnu 2.1 ti o ni ibaamu pẹlu EOS.IO pẹlu ipese ti o jẹ biliọnu 1.3. As a utility token, VTX envisions a diverse array of uses. For additional information, please refer to our VDEX white paper at <https://volentix.io/documentation/vdex-whitepaper.>
+Bi a ti se gbero lọwọlọwọ, adehun aami eos.io lati ilana ti EOS.IO maa mu irọrun ba pinpin awọn aami VTX ti o jẹ biliọnu 2.1 ti o ni ibaamu pẹlu EOS.IO pẹlu ipese ti o jẹ biliọnu 1.3. Gẹgẹbi aami oniwulo, VTX n fojusun oriṣiriṣi awọn iwulo. Fun afikun alaye, jọwọ kan si iwe funfun VDEX wa ni <https://volentix.io/documentation/vdex-whitepaper.>
 
-## MARKET SUPPLY AND DEMAND
+## IPESE ATI IBEERE ỌJA
 
 In contemplating technological design, we have evaluated various existing (and emerging) operating systems. EOS.IO software stands out as exemplary. EOS.IO jẹ orisun-gbangba, ohun amayederun onipele agbara iṣiṣẹ fun awọn ohun elo alaisilojukan. A le jẹ anfani lati ara awọn ẹya to pewọn ti EOS.IO n funni gẹgẹ bi ti ṣiṣẹda awọn akọọlẹ ati awọn apo owo, ati pe a tun gbero lati ṣe amulo awọn ilana fun ṣiṣẹda ibi ipasiparọ VDEX ti o jẹ alaisilojukan nipasẹ awọn adehun EOS ati awọn irinṣẹ miiran.
 
