@@ -8,8 +8,8 @@ Aaye ifilọle VDex n ṣe ifojusọna fun sise ibamu awọn ibeere idalara ti V
 
 ## OFIN ỌJA
 
-Ni ọdun mẹwa ẹlẹkeji lẹhin ti Bitcoin ti farahan, ibi iṣowo dukia oni-nọmba jẹ asọye nipasẹ awọn igasoke ati awọn ijawalẹ olooyi ti o jẹ iriri ida diẹ lara iye awọn eniyan agbaye ti ṣe iṣowo ẹgbẹgbẹrun awọn owo kiripito ọpọlọpọ awọn eyiti o jẹ ẹtàn patapata. Fifojufo awọn jibiti, ati kikiyesi iye ti awọn imọ ẹrọ ohun-elo oni-nọmba to se fọkantan ti o n waye lati ọdun mẹwa sẹyin, ti a ba fẹ lati ni ilọsiwaju ati lati polongo awọn imọ-ẹrọ naa, ajẹwipe wọn gbọdọ wọ inu ojulowo. Awọn owo oni-nọmba to bofinmu gbọdọ jẹ lilo ninu iṣowo gbogbogbo. Ati ifojusi pataki ti imugbooro awọn dukia oni-nọmba gbọdọ jẹ lati mu irọrun ba ati ki o mu iriri olumulo kun fọfọ. The choices of which existing technologies to employ and which unavailable technologies to develop must be driven by comfort, certainty, and security of user  
-transactions and related experiences.
+Ni ọdun mẹwa ẹlẹkeji lẹhin ti Bitcoin ti farahan, ibi iṣowo dukia oni-nọmba jẹ asọye nipasẹ awọn igasoke ati awọn ijawalẹ olooyi ti o jẹ iriri ida diẹ lara iye awọn eniyan agbaye ti ṣe iṣowo ẹgbẹgbẹrun awọn owo kiripito ọpọlọpọ awọn eyiti o jẹ ẹtàn patapata. Fifojufo awọn jibiti, ati kikiyesi iye ti awọn imọ ẹrọ ohun-elo oni-nọmba to se fọkantan ti o n waye lati ọdun mẹwa sẹyin, ti a ba fẹ lati ni ilọsiwaju ati lati polongo awọn imọ-ẹrọ naa, ajẹwipe wọn gbọdọ wọ inu ojulowo. Awọn owo oni-nọmba to bofinmu gbọdọ jẹ lilo ninu iṣowo gbogbogbo. Ati ifojusi pataki ti imugbooro awọn dukia oni-nọmba gbọdọ jẹ lati mu irọrun ba ati ki o mu iriri olumulo kun fọfọ. Awọn ipinnu ti awọn imo-ẹrọ ti o ti wa tẹlẹ fun amulo ati eyi ti awọn imọ ẹrọ ti kosi nilẹ fun igbedide gbọdọ jẹ diidari nipasẹ irọrun, idaniloju, ati aabo ti olumulo  
+awọn iṣowo ati awọn iriri ti o ni ibatan pẹlu rẹ.
 
 ## ATẸWỌLE ỌJA
 
@@ -17,7 +17,7 @@ Lati ṣamojuto ofin ọja ti o mulẹ lọwọlọwọ yii, awujọ ti VOLENTIX
 
 ## Ibugbe
 
-Venue jẹ gbigbekalẹ gẹgẹbi pilatifọọmu awujọ alayipada ti o n gba ati ṣiṣe aato awọn ọmọ ẹgbẹ ti awujọ Volentix lati jẹ ki pinpin aami abinibi VTX rọrun, ati lati ṣe ipolongo imọ nipa awọn eto Volentix. An initial VENUE signature campaign is underway. Jọwọ ṣabẹwo si <https://venue.volentix.io> fun alaye siwaju sii.
+Venue jẹ gbigbekalẹ gẹgẹbi pilatifọọmu awujọ alayipada ti o n gba ati ṣiṣe aato awọn ọmọ ẹgbẹ ti awujọ Volentix lati jẹ ki pinpin aami abinibi VTX rọrun, ati lati ṣe ipolongo imọ nipa awọn eto Volentix. Ipolongo ibuwọlu alakọkọ ti VENUE ti wa loju ọna. Jọwọ ṣabẹwo si <https://venue.volentix.io> fun alaye siwaju sii.
 
 ## Verto
 
