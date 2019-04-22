@@ -433,11 +433,11 @@ Atẹ isẹlẹ iṣẹ akanṣe naa jẹ fifihan ninu akawe ti o wa loke. Awọ
 
 [3] A. Severyn et al. Twitter Sentiment Analysis with Deep Convolutional Neural Networks, International ACM SIGIR Conference on Research and Development in Information Retrieval:959-962 (2015)
 
-[4] C.J. & Gilbert et al. VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text. International Conference on Weblogs and Social Media (ICWSM-14) 8 (2014)
+[4] C.J. & Gilbert et al. VADER: Awose Ilana to dalori Ahun-sise fun Iyanana Iwoyesi ti Ọrọ Ikanni Ajọlo. International Conference on Weblogs and Social Media (ICWSM-14) 8 (2014)
 
 [5] Bird et al. Natural Language Processing with Python, O’Reilly Media Inc. (2009)
 
-[6] E. Stenqvist et al. Predicting Bitcoin price fluctuation with Twitter sentiment analysis. MSc Thesis. School of Computer Science and Communication, KTH Royal Institute of Technology, Stockholm, Sweden (2017)
+[6] E. Stenqvist et al. Sise asọtẹlẹ aidurolojukan owo Bitcoin pẹlu iyanana iwoyesi Twitter. MSc Thesis. School of Computer Science and Communication, KTH Royal Institute of Technology, Stockholm, Sweden (2017)
 
 [7] H. Kakavand, N. Kost De Sevres, and B. Chilton, The Blockchain Revolution: An Analysis of Regulation and Technology Related to Distributed Ledger Technologies. SSRN Electronic Journal. 10.2139/ ssrn.2849251 (2017)
 
