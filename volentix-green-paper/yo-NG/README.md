@@ -21,11 +21,11 @@ Venue jẹ gbigbekalẹ gẹgẹbi pilatifọọmu awujọ alayipada ti o n gba 
 
 ## Verto
 
-Verto yoo jẹ apo owo olorisirisi-owo fun lilo pẹlu ibi ipaṣipaarọ alaisilojukan ti VDEX, o si n gbero lati mu irọrun ba iṣetọju awọn kọkọrọ ikọkọ fun lilo ninu awọn iṣowo ẹgbẹ́-sí-ẹgbẹ́. Awọn kọkọrọ ikọkọ ati awọn kọkọrọ gbangba yoo wa labẹ iṣakoso ibilẹ, pẹlu afojusun lati se imukuro awọn ewu ti awọn ipadanu oniparun ti isamisi ti o ni nkan ṣe pẹlu awọn ikuna ti awọn oṣiṣẹ iṣakoso aaringbungbu. Please read the VERTO primer by visiting <http://verto.vdex.io/>
+Verto yoo jẹ apo owo olorisirisi-owo fun lilo pẹlu ibi ipaṣipaarọ alaisilojukan ti VDEX, o si n gbero lati mu irọrun ba iṣetọju awọn kọkọrọ ikọkọ fun lilo ninu awọn iṣowo ẹgbẹ́-sí-ẹgbẹ́. Awọn kọkọrọ ikọkọ ati awọn kọkọrọ gbangba yoo wa labẹ iṣakoso ibilẹ, pẹlu afojusun lati se imukuro awọn ewu ti awọn ipadanu oniparun ti isamisi ti o ni nkan ṣe pẹlu awọn ikuna ti awọn oṣiṣẹ iṣakoso aaringbungbu. Jọwọ ka VERTO alakọkọ nipasẹ lilọ si <http://verto.vdex.io/>
 
 ## Vespucci
 
-Vespucci jẹ fifojusun gẹgẹbi ohun elo iyanana ti o se wọle si nipasẹ intafeesi onirọrun-olumulo pẹlu awọn ile ipamọ iṣura ti bosenlọ lọwọ ti awọn data ọja, gẹgẹbi awọn ipele ipo ati iyanana iwoyesi. A fẹ lati ro awọn olumulo lagbara pẹlu awọn irinṣẹ lati ṣe iwọn ati ṣe afiwe awọn ohun-ini oni-nọmba ti o ṣe fisowo, lati wọle ati pin awọn akọsilẹ itan iṣowo, lati ṣeto awọn aṣa ati awọn ilana, ati lati mojuto ati ṣayẹwo awọn idagbasoke software orisun-gbangba. VESPUCCI n wa lati mu si arọwọto rẹ awọn alaye ti o kun ati ti o gboya lori iṣowo ọja nipa sise akojọpọ awọn ijabọ alaye ti o lọwọlọwọ yii fọn kakiri gbogbo awọn oriṣiriṣi awọn blockchain, awọn aaye ayelujara, awọn yara itakurọsọ, ati awọn ibi iyipada. This application is currently in development by our affiliate Pythagoras Systems.
+Vespucci jẹ fifojusun gẹgẹbi ohun elo iyanana ti o se wọle si nipasẹ intafeesi onirọrun-olumulo pẹlu awọn ile ipamọ iṣura ti bosenlọ lọwọ ti awọn data ọja, gẹgẹbi awọn ipele ipo ati iyanana iwoyesi. A fẹ lati ro awọn olumulo lagbara pẹlu awọn irinṣẹ lati ṣe iwọn ati ṣe afiwe awọn ohun-ini oni-nọmba ti o ṣe fisowo, lati wọle ati pin awọn akọsilẹ itan iṣowo, lati ṣeto awọn aṣa ati awọn ilana, ati lati mojuto ati ṣayẹwo awọn idagbasoke software orisun-gbangba. VESPUCCI n wa lati mu si arọwọto rẹ awọn alaye ti o kun ati ti o gboya lori iṣowo ọja nipa sise akojọpọ awọn ijabọ alaye ti o lọwọlọwọ yii fọn kakiri gbogbo awọn oriṣiriṣi awọn blockchain, awọn aaye ayelujara, awọn yara itakurọsọ, ati awọn ibi iyipada. Ohun elo yii lọwọlọwọ wa labẹ idagbasoke nipasẹ Awọn Eto Pythagoras ti alabase wa.
 
 Opo kẹrin ti VOLENTIX ni ibi ipaṣipaarọ alaisilojukan VDEX, pilatifọọmu awọn dukia oni-nọmba to ṣe fiṣowo ti o jẹ fifihan ni kikun ninu iwe funfun wa ti o wa fun wiwo ni [https://volentix.io/documentation/vdex-whitepaper](https://volentix.io/documentation/vdex-whitepaper/).
 
@@ -50,7 +50,7 @@ A ni afojusun lati jẹ ki VTX ati awọn opo mẹrin ti VOLENTIX - VENUE, VERTO
 ## AKỌMỌNA ATI IFARAJIN
 
 Akọmọna itọnisọna wa jẹ ti alaisilojukan, atipe awọn igbiyanju wa ti n lọ lọwọ jẹ fifojusun lati ṣe ipolongo mimu adinku ba gigbarale iṣakoso olojukan. Awọn anfani nla ti akọmọna koodu orisun-gbangba  
-ni pe ojoojumọ ni awọn ikede ti awọn agbedide koodu tuntun ti o n ni ipa lori irọrun ati ailewu ti owo ṣiṣe ati ilo awọn dukia oni-nọmba. Our premise is security and ease of operation. Prudence mandates education. The most important asset is knowledge.
+ni pe ojoojumọ ni awọn ikede ti awọn agbedide koodu tuntun ti o n ni ipa lori irọrun ati ailewu ti owo ṣiṣe ati ilo awọn dukia oni-nọmba. Igbagbọ wa jẹ aabo ati irọrun ti isẹ. Prudence mandates education. The most important asset is knowledge.
 
 Gbogbo wa ni VOLENTIX n fi ara iṣẹ wa to ni ye lori ati awọn oye wa jin si ṣiṣe igbedide eto kan ti o da lori ironilagbara ati ominira. Jọwọ mojuto aaye ayelujara wa ati awọn ikanni ajọlo fun awọn ifitonileti ati awọn ikede pataki miiran. O ṣeun pupọ fun itẹtisilẹ ati inifẹsi rẹ.
 
