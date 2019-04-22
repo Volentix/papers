@@ -21,7 +21,7 @@ Venue jẹ gbigbekalẹ gẹgẹbi pilatifọọmu awujọ alayipada ti o n gba 
 
 ## Verto
 
-Verto will be a multi-currency wallet for use with the VDEX exchange, and intends to facilitate custody of private keys for use in peer-to-peer transactions. Both private and public keys will be locally managed, with the goal of eliminating the risks of devastating losses of stake associated with traumatic failures of central operators. Please read the VERTO primer by visiting <http://verto.vdex.io/>
+Verto yoo jẹ apo owo olorisirisi-owo fun lilo pẹlu ibi ipaṣipaarọ alaisilojukan ti VDEX, o si n gbero lati mu irọrun ba iṣetọju awọn kọkọrọ ikọkọ fun lilo ninu awọn iṣowo ẹgbẹ́-sí-ẹgbẹ́. Awọn kọkọrọ ikọkọ ati awọn kọkọrọ gbangba yoo wa labẹ iṣakoso ibilẹ, pẹlu afojusun lati se imukuro awọn ewu ti awọn ipadanu oniparun ti isamisi ti o ni nkan ṣe pẹlu awọn ikuna ti awọn oṣiṣẹ iṣakoso aaringbungbu. Please read the VERTO primer by visiting <http://verto.vdex.io/>
 
 ## Vespucci
 
