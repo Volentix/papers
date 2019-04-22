@@ -62,4 +62,4 @@ FUN AWỌN ILO TI ALAYE NIKAN. Ifitonileti yii ko jẹmọ pe o kun fọfọ. If
 
 ## IDENA NIPA TI U.S.A.
 
-In view of confusion in the current regulatory environment, Volentix does not anticipate soliciting or accepting purchases by United States persons. We anticipate vetting users by requiring rigorous identity verification for purposes of KYC/AML predicates.
+Nitori ti iruju ninu agbegbe idari ti o wa lọwọlọwọ yii, Volentix ko fojusọna fun bibeere tabi gbigba awọn rira lati ọdọ awọn ara Amẹrika. A fojusọna fun sise agbeyẹwo awọn olumulo nipa bibeere fun idaniloju idanimọ to jinlẹ fun awọn ilo ti ipo KYC/AML.
