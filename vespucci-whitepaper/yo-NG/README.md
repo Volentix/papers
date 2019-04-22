@@ -405,7 +405,7 @@ The **implementation** of the Vespucci analysis tools is in Python using various
 * pyodbc lati sopọ pẹlu ibi ipamọ data wa.
 * Blockchair.com API ati coinmarketcap, ideri kan ti o yi API coinmarketcap.com ka, lati gba alaye nipa owo kọọkan, gẹgẹbi awọn ipo iye owo-iṣowo, ati lati ṣe imudojuiwọn wọn ni irọrun
 
-Ni ibẹrẹ, pupọ ninu awọn ilana naa n ṣiṣẹ lori Linux Virtual Machines ti awọn esi n wa ni ipamọ ni awọn ibi ipamọ data ti SQL. Bi o ba ṣẹlẹ pe aito waye, awọn ilana alainisakoso ma jẹ didaro. In the immediate future powerful servers with GPUs are designed to perform efficiently all of our analysis (Kubernetes may be relevant here, assuming Docker containers).
+Ni ibẹrẹ, pupọ ninu awọn ilana naa n ṣiṣẹ lori Linux Virtual Machines ti awọn esi n wa ni ipamọ ni awọn ibi ipamọ data ti SQL. Bi o ba ṣẹlẹ pe aito waye, awọn ilana alainisakoso ma jẹ didaro. Ni ọjọ iwaju ti o n bọ laipẹ awọn isakoso alagbara ti o ni awọn GPU n jẹ didalara lati ṣe gbogbo awọn iyanana wa daradara (Kubernetes le wulo nibi, pẹlu ero awọn apoti Docker).
 
 Fun Iyanana Iwoyesi, ati o ṣee ṣe awọn modulu miiran pẹlu, eto **node.js** kan jẹ lilo, botilẹ jẹpe awọn imusisẹ miiran le jẹ fifirọpo ni irọrun. Awọn alaye kikun n jẹ gbigba silẹ, atipe o n jẹ gbigba ni lemọlemọ, fifi pamọ sibi ti o duro sojukan jẹ ohun inilo fun ẹya ikẹhin ti Vespucci. MongoDB le ṣee lo nipa awọn modulu miiran naa ninu eto naa lati ka ati kọ iru alaye bẹẹ. MongoDB jẹ ibi ipamọ data to gbilẹ ti awọn nkan to jẹmọ iwe ti o wulo nimu titọju alaye to ni eto, gẹgẹbi idi ti awọn data ti o wa ninu eto Vespucci. Ọna miiran le jẹ CockroachDB.
 
@@ -417,13 +417,13 @@ Awọn ilana ifipamọ le gbarale awọn iwe Ibeere alaisilori-ila ti o jẹ gbi
 
 ![](https://volentix.io/file/2019/01/Web-1920-–-2@3x.png)
 
-Atẹ isẹlẹ iṣẹ akanṣe naa jẹ fifihan ninu akawe ti o wa loke. The main milestones are:  
+Atẹ isẹlẹ iṣẹ akanṣe naa jẹ fifihan ninu akawe ti o wa loke. Awọn koko aṣeyọri jẹ:  
 — Vespucci MVP. Oṣù Kọkànlá 2018 .  
 — Vespucci, ẹya 1.0\. Osu kẹrin 2019.
 
 ### **AWỌN IMỌRIRI**
 
-This text is based on NH’s original vision docs and AA’s update on them.
+Ọrọ yii da lori ojulowo awọn iwe iwoye ti NH ati imudojuiwọn ti AA lori wọn.
 
 ### **AWỌN ITỌKASI**
 
