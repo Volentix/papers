@@ -8,7 +8,7 @@ Aaye ifilọle VDex n ṣe ifojusọna fun sise ibamu awọn ibeere idalara ti V
 
 ## OFIN ỌJA
 
-Ni ọdun mẹwa ẹlẹkeji lẹhin ti Bitcoin ti farahan, ibi iṣowo dukia oni-nọmba jẹ asọye nipasẹ awọn igasoke ati awọn ijawalẹ olooyi ti o jẹ iriri ida diẹ lara iye awọn eniyan agbaye ti ṣe iṣowo ẹgbẹgbẹrun awọn owo kiripito ọpọlọpọ awọn eyiti o jẹ ẹtàn patapata. Looking past the frauds, and observing the value of the credible digital application technologies emerging in the past ten years, if we are to progress and promulgate those technologies, then they must penetrate the mainstream. Legitimate digital currencies must be used in broad commerce. And the primary focus of digital assets proliferation must be to simplify and enrich user experience. The choices of which existing technologies to employ and which unavailable technologies to develop must be driven by comfort, certainty, and security of user  
+Ni ọdun mẹwa ẹlẹkeji lẹhin ti Bitcoin ti farahan, ibi iṣowo dukia oni-nọmba jẹ asọye nipasẹ awọn igasoke ati awọn ijawalẹ olooyi ti o jẹ iriri ida diẹ lara iye awọn eniyan agbaye ti ṣe iṣowo ẹgbẹgbẹrun awọn owo kiripito ọpọlọpọ awọn eyiti o jẹ ẹtàn patapata. Fifojufo awọn jibiti, ati kikiyesi iye ti awọn imọ ẹrọ ohun-elo oni-nọmba to se fọkantan ti o n waye lati ọdun mẹwa sẹyin, ti a ba fẹ lati ni ilọsiwaju ati lati polongo awọn imọ-ẹrọ naa, ajẹwipe wọn gbọdọ wọ inu ojulowo. Awọn owo oni-nọmba to bofinmu gbọdọ jẹ lilo ninu iṣowo gbogbogbo. And the primary focus of digital assets proliferation must be to simplify and enrich user experience. The choices of which existing technologies to employ and which unavailable technologies to develop must be driven by comfort, certainty, and security of user  
 transactions and related experiences.
 
 ## ATẸWỌLE ỌJA
