@@ -43,7 +43,7 @@ Bi a ti se gbero lọwọlọwọ, adehun aami eos.io lati ilana ti EOS.IO maa m
 
 ## IPESE ATI IBEERE ỌJA
 
-In contemplating technological design, we have evaluated various existing (and emerging) operating systems. EOS.IO software stands out as exemplary. EOS.IO jẹ orisun-gbangba, ohun amayederun onipele agbara iṣiṣẹ fun awọn ohun elo alaisilojukan. A le jẹ anfani lati ara awọn ẹya to pewọn ti EOS.IO n funni gẹgẹ bi ti ṣiṣẹda awọn akọọlẹ ati awọn apo owo, ati pe a tun gbero lati ṣe amulo awọn ilana fun ṣiṣẹda ibi ipasiparọ VDEX ti o jẹ alaisilojukan nipasẹ awọn adehun EOS ati awọn irinṣẹ miiran.
+Ninu iṣaro nipa idalara ti imọ-ẹrọ, a ti ṣe agbeyẹwo orisirisi awọn eto isẹ sise ori ẹrọ ti o wa (ati ti o n dide bọ). Software EOS.IO da yatọ bi awokọse. EOS.IO jẹ orisun-gbangba, ohun amayederun onipele agbara iṣiṣẹ fun awọn ohun elo alaisilojukan. A le jẹ anfani lati ara awọn ẹya to pewọn ti EOS.IO n funni gẹgẹ bi ti ṣiṣẹda awọn akọọlẹ ati awọn apo owo, ati pe a tun gbero lati ṣe amulo awọn ilana fun ṣiṣẹda ibi ipasiparọ VDEX ti o jẹ alaisilojukan nipasẹ awọn adehun EOS ati awọn irinṣẹ miiran.
 
 A ni afojusun lati jẹ ki VTX ati awọn opo mẹrin ti VOLENTIX - VENUE, VERTO, VESPUCCI, ati VDEX - wa ni arọwọto pẹlu irọrun ati ki o ṣee lo fun gbogbo awọn ti o fẹ lati darapọ mọ awujọ wa. We plan a user interface that makes available to you relevant market data as well as your account information. We expect the experience to be enhanced by continuing education, with templates and simulators to support a superior UX/UI relationship.
 
