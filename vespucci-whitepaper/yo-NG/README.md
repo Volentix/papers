@@ -397,7 +397,7 @@ Lati ṣe iṣakoso ni kikun ti awọn iṣupọ kọmputa wa ti o ni awọn oju
 
 ![](https://volentix.io/file/2019/01/Web-1920-–-3@2x.png)
 
-The **implementation** of the Vespucci analysis tools is in Python using various data analytics libraries, wrappers for the different APIs, and libraries for machine learning. The libraries to be used are some of the following:
+**Imuṣiṣẹ** ti awọn irinṣẹ iyanana ti Vespucci wa ninu Python nipa lilo orisirisi awọn ile ikowesi iyanana data, awọn ideri fun oriṣiriṣi awọn API, ati awọn ile ikowesi fun ẹkọ ẹrọ. Awọn ile ikowesi to ma jẹ lilo ni diẹ ninu awọn wọnyii:
 
 * NumPy, Pandas, Seaborn, matplotlib fun abala ti iyanana naa.
 * Scikit-learn, TensorFlow fun ẹkọ ẹrọ.
