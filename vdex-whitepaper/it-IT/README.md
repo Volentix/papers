@@ -156,11 +156,11 @@ Per incentivare gli utenti a partecipare nell'impostazione del registro degli or
 
 Per incentivare gli utenti a bloccare i loro fondi per più di 24 ore per le transazioni HTLC con scadenza.
 
-#### 3.4.2 Stanziamento VTX
+#### 3.4.2 VTX Allocation
 
 ![](../6.jpg)
 
-Un ecosistema di asset digitali richiede una insieme di componenti umani fondamentali che portino avanti il progetto.[11] È essenziale ricompensare questi individui per la loro partecipazione. Oggetto di aggiustamenti, al momento Volentix prevede i seguenti stanziamenti:
+Un ecosistema di asset digitali richiede una insieme di componenti umane fondamentali che portino avanti il progetto.[11] È essenziale per compensare questi individui per la loro partecipazione. Oggetto di aggiustamenti, al momento Volentix prevede i seguenti stanziamenti:
 
 1. Collaboratori. 12%. Un insieme di individui, simili ai fondatori, che contribuiscono con idee, tempo e talento, anche se spesso lavorano senza una compensazione anticipata.
 
