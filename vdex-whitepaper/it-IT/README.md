@@ -114,13 +114,13 @@ EOS.IO ha una latenza bassa per la conferma dei blocchi (0.5 secondi). [5] Quest
 
 ### 3.2 REGISTRO ORDINI
 
-Il registro ordini è la lista degli ordini di acquisto e vendita che VDex registra dagli utenti interessati. Un motore corrispondente utilizza un registro ordini per determinare quali ordini possono essere coperti. Il protocollo Loopring permette la personalizzazione della struttura del registro ordini. [5] Per prestazioni ottimali, si possono utilizzare i container forniti da EOS.IO. [8]
+Il registro ordini è la lista degli ordini di acquisto e vendita che VDex registra dagli utenti interessati. Un motore corrispondente utilizza un registro ordini per determinare quali ordini possono essere coperti. Il protocollo Loopring permette la personalizzazione della struttura del registro ordini.[5] Per prestazioni ottimali, si possono utilizzare i container forniti da EOS.IO.[8]
 
-#### 3.2.1 Strutture dati
+#### 3.2.1 Strutture di dati
 
 Utilizzando il buffer circolare FIFO (primo ad entrare primo ad uscire) del Protocollo Loopring, i nodi possono progettare i loro registri degli ordini per mostrare e soddisfare l'ordine di un utente. Questo metodo segue un modello OTC, dove i limit order vengono posizionati solo in base al prezzo.[5]
 
-Facendo riferimento alla persistence API di EOS.IO, il registro ordini può trarre vantaggio dal potente container multi-index condiviso tra i nodi tramite lo stesso account EOS.IO.
+Facendo riferimento alla persistence API di EOS.IO, il registro ordini può trarre vantaggio dal potente container multi-index condiviso tra i nodi nello stesso account EOS.IO.
 
 #### 3.2.2 Registro ordini On-Chain
 
