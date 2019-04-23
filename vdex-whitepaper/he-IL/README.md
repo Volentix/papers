@@ -102,7 +102,7 @@ Web Assembly מאפשר ביצועים גבוהים של יישומים רשתי
 
 6. מיישמים חוזים למען הזמנות שמולאו.
 
-Nodes earn a portion of the fee for each transaction. If a user has sufficient funds and possesses a good track record, his or her Verto wallet can act as a node.
+צמתי רשת מרוויחים חלק מדמי האגרה בעבור כל העברה. If a user has sufficient funds and possesses a good track record, his or her Verto wallet can act as a node.
 
 #### 3.1.2 Aggregators
 
