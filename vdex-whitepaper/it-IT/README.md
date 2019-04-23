@@ -142,7 +142,7 @@ L'impostazione degli ordini contiene elementi noti delle operazioni tradizionali
 
 #### 3.4.1 VTX Issuance and Use
 
-VTX è l'asset digitale nativo da emettere e utilizzare sull'exchange decentralizzato di VDex. Attualmente abbiamo intenzione di utilizzare un contratto eosio.token del framework EOS.IO per emettere 2.1 miliardi di token VTX compatibili con EOS.IO con una fornitura di 1.3 miliardi. VTX avrà un'ampia gamma di utilizzi, ad esempio:
+VTX è l'asset digitale nativo da emettere e utilizzare sull'exchange decentralizzato VDex. Attualmente abbiamo intenzione di utilizzare un contratto eosio.token del framework EOS.IO per emettere 2.1 miliardi di token VTX compatibili con EOS.IO con una fornitura di 1.3 miliardi. VTX avrà un'ampia gamma di utilizzi, ad esempio:
 
 Per ricompensare i partecipanti nel processo del consenso e nelle campagne Venue.
 
@@ -160,7 +160,7 @@ Per incentivare gli utenti a bloccare i loro fondi per più di 24 ore per le tra
 
 ![](../6.jpg)
 
-Un ecosistema di asset digitali richiede una insieme di componenti umani fondamentali che portino avanti il progetto. [11] È essenziale ricompensare questi individui per la loro partecipazione. Oggetto di aggiustamenti, al momento Volentix prevede i seguenti stanziamenti:
+Un ecosistema di asset digitali richiede una insieme di componenti umani fondamentali che portino avanti il progetto.[11] È essenziale ricompensare questi individui per la loro partecipazione. Oggetto di aggiustamenti, al momento Volentix prevede i seguenti stanziamenti:
 
 1. Collaboratori. 12%. Un insieme di individui, simili ai fondatori, che contribuiscono con idee, tempo e talento, anche se spesso lavorano senza una compensazione anticipata.
 
@@ -176,7 +176,7 @@ Fase 1. 10%.
 
 Fase 2. 10%.
 
-4. Tesoreria decentralizzata. 35%. Membri della comunità incentivati e ricompensati per la partecipazione nel progressivo sviluppo di un organizzazione autonoma decentralizzata (DAO). È previsto che una tesoreria decentralizzata sia amministrata da smart contract e consenso comunitario. ![](../5.jpg)
+4. Tesoreria decentralizzata. 35%. Membri della comunità incentivati e ricompensati per la partecipazione nel progressivo sviluppo di un'organizzazione autonoma decentralizzata (DAO). È previsto che una tesoreria decentralizzata venga amministrata tramite l'utilizzo degli smart contract e del consenso comunitario. ![](../5.jpg)
 
 #### 3.4.3 Distribuzione VTX
 
