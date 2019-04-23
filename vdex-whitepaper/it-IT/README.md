@@ -198,7 +198,7 @@ Molteplici messaggi e molteplici account possono essere assegnati allo stesso th
 
 #### Comunicazione Inter-Blockchain
 
-EOS.IO è progettato per rendere più leggere le verifiche della Comunicazione Inter-Blockchain (IBC). Per catene con capacità insufficiente per elaborare le verifiche IBC e stabilirne la validità, c'è un'opzione di default per oracoli/escrow di fiducia. With an EOS.IO-based smart contract, a trusted multi-signature wallet holding the asset in escrow can be used to persuade the signing/publishing of the transaction based on IBC proofs from the originating chain.
+EOS.IO è progettato per rendere più leggere le verifiche della Comunicazione Inter-Blockchain (IBC). For chains with insufficient capacity for processing the IBC proofs and establishing validity, there is an option to default to trusted oracles/escrows. With an EOS.IO-based smart contract, a trusted multi-signature wallet holding the asset in escrow can be used to persuade the signing/publishing of the transaction based on IBC proofs from the originating chain.
 
 #### 3.6.2 Informazione Multi-Blockchain
 
@@ -268,7 +268,7 @@ Gli utenti malintenzionati creano identità forgiate per inviare un gran numero 
 
 #### 3.9.4 Saldo Insufficiente
 
-Gli utenti malintenzionati creano e inviano ordini il cui valore è diverso da 0 ma il cui indirizzo ha un saldo pari a 0. I nodi controllano il saldo reale, aggiornano di conseguenza lo stato di questi ordini, e poi li scarta.
+Gli utenti malintenzionati creano ed inviano ordini il cui valore è diverso da 0 ma il cui indirizzo ha un saldo pari a 0. I nodi controllano il saldo reale, aggiornano di conseguenza lo stato di questi ordini, e poi li scarta.
 
 #### 3.9.5 Timing attack
 
