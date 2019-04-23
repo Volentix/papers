@@ -202,7 +202,7 @@ EOS.IO è progettato per rendere più leggere le verifiche della Comunicazione I
 
 #### 3.6.2 Informazione Multi-Blockchain
 
-Le informazioni comprensibili su più blockchain si possono ottenere aggregando le linee temporali della blockchain in ordine parallelo (con variazioni nella frequenza del cambiamento di stato). This system can trigger multi-chain load balancers, transfer states, draw data outputs from smart contracts, and foreign blockchain transaction execution. La distanza relativa del blocco, lo stato globale relativo, e gli eventi con marcatura temporale vengono registrati su un ledger globale per ottimizzare e confermare le transazioni prima che queste si verifichino effettivamente sulla catena nativa. Questo approccio potrebbe essere utilizzato anche per determinare la coincidenza tra catene nella produzione del blocco per accedere a una maggiore liquidità. [12]
+Le informazioni comprensibili su più blockchain si possono ottenere aggregando le linee temporali della blockchain in ordine parallelo (con variazioni nella frequenza del cambiamento di stato). This system can trigger multi-chain load balancers, transfer states, draw data outputs from smart contracts, and foreign blockchain transaction execution. La distanza relativa del blocco, lo stato globale relativo, e gli eventi con marcatura temporale vengono registrati su un ledger globale per ottimizzare e confermare le transazioni prima che queste si verifichino effettivamente sulla catena nativa. Questo approccio potrebbe essere utilizzato anche per determinare la coincidenza tra catene nella produzione del blocco per accedere a una maggiore liquidità.[12]
 
 ### 3.7 SECURITY CONCERNS
 
@@ -256,11 +256,11 @@ Un attacco di tipo race si verifica quando due transazioni in conflitto vengono 
 
 A Finney attack pre-mines one transaction into a block and spends the same tokens before releasing the block to invalidate that transaction.
 
-Un attacco 51% può essere effettuato da chiunque possiede più del 50% della potenza di calcolo di una rete. A majority ownership position permits reversal of any transaction and allows total control of selection of transactions appearing in blocks. Sembra che EOS.IO, Loopring, e RAFT pervengono questo problema. Se un produttore di blocchi impiega una quantità irragionevole di runtime oppure non è sufficientemente redditizia, allora il processo viene inserito nella lista nera.[5]
+Un attacco 51% può essere effettuato da chiunque possiede più del 50% della potenza di calcolo di una rete. A majority ownership position permits reversal of any transaction and allows total control of selection of transactions appearing in blocks. Sembra che EOS.IO, Loopring, e RAFT prevengono questo problema. Se un produttore di blocchi impiega una quantità irragionevole di runtime oppure non è sufficientemente redditizia, allora il processo viene inserito nella lista nera.[5]
 
 #### 3.9.2 Front running
 
-Un front runner ruba uno o più ordini dall'impostazione del libro ordini di una transazione in attesa. Sia EOS.IO che Loopring offrono dei rimedi nei quali le chiavi sono protette perché non fanno parte della transazione on-chain, e quindi rimangono sconosciute ai soggetti diversi dal proprietario. Solo il nodo che regola il registro d'ordine è in possesso delle informazioni sensibili, e ogni nodo utilizza una soluzione diversa per la risoluzione dei registri degli ordini, aggiungendo un altro livello di difficoltà per promuovere la sicurezza.
+Un front runner ruba uno o più ordini dall'impostazione del libro ordini di una transazione in attesa. Sia EOS.IO che Loopring offrono dei rimedi nei quali le chiavi sono protette perché non fanno parte della transazione on-chain, e quindi rimangono sconosciute ai soggetti diversi dal proprietario. Solo il nodo che imposta il registro d'ordine è in possesso delle informazioni sensibili, e ogni nodo utilizza una soluzione diversa per la risoluzione dei registri degli ordini, aggiungendo un altro livello di difficoltà per promuovere la sicurezza.
 
 #### 3.9.4 Identità forgiate
 
@@ -268,7 +268,7 @@ Gli utenti malintenzionati creano identità forgiate per inviare un gran numero 
 
 #### 3.9.4 Saldo Insufficiente
 
-Gli utenti malintenzionati creano e inviano ordini il cui valore è diverso da 0 ma il cui indirizzo ha un saldo pari a 0. I nodi controlla il saldo reale, aggiorna di conseguenza lo stato di questi ordini, e poi li scarta.
+Gli utenti malintenzionati creano e inviano ordini il cui valore è diverso da 0 ma il cui indirizzo ha un saldo pari a 0. I nodi controllano il saldo reale, aggiornano di conseguenza lo stato di questi ordini, e poi li scarta.
 
 #### 3.9.5 Timing attack
 
