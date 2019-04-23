@@ -80,7 +80,7 @@ Web Assembly מאפשר ביצועים גבוהים של יישומים רשתי
 
 #### 3.0.6 חוזי זמן נעולים (החלפות אטומיות)
 
-חוזה זמן נעול (HTLC)[1] חוזה חכם (סוג של תשלום בו שני משתמשים מסכימים להסדר כספי, שם צד אחד ישלם לצד השני כמות מסוימת של מטבע מבוזר), המאפשר את יישומן של העברות מוגבלות-זמן (העברות ''נעולות זמן'', בהן הצד המקבל מותנה בכמות מסוימת של זמן עד לאישור התשלום, למקרה ותהיה חריגה מהזמן המוקצה, הכסף יוחזר לשולח). למשתמשים תוצענה תקופת נעילה משתנה בעבור העברותיהם, עם הנחה על עלויות ההעברות בתמורה לבחירה בתקופת נעילה ארוכה יותר.
+חוזה זמן נעול (HTLC)[1] חוזה חכם (סוג של תשלום בו שני משתמשים מסכימים להסדר כספי, שם צד אחד ישלם לצד השני כמות מסוימת של מטבע מבוזר), המאפשר את יישומן של העברות מוגבלות-זמן (העברות ''נעולות זמן'', בהן הצד המקבל מותנה בכמות מסוימת של זמן עד לאישור התשלום, למקרה ותהיה חריגה מהזמן המוקצה, הכסף יוחזר לשולח). למשתמשים תוצע תקופת נעילה משתנה בעבור העברותיהם, עם הנחה על עלויות ההעברות בתמורה לבחירה בתקופת נעילה ארוכה יותר.
 
 ### 3.1 טופולוגיית רשת
 
@@ -102,11 +102,11 @@ Web Assembly מאפשר ביצועים גבוהים של יישומים רשתי
 
 6. מיישמים חוזים למען הזמנות שמולאו.
 
-צמתי רשת מרוויחים חלק מדמי האגרה בעבור כל העברה. If a user has sufficient funds and possesses a good track record, his or her Verto wallet can act as a node.
+צמתי רשת מרוויחים חלק מדמי האגרה בעבור כל העברה. אם המשתמש/ת מחזיק/ה בכמות הכספים הנדרשת, וברשותו/ה רישומים אמינים המעידים על כך, ארנק ה Verto שלו/ה יכול לשמש כצומת רשתי.
 
-#### 3.1.2 Aggregators
+#### 3.1.2 צוברים
 
-The VDex aggregators are dedicated Volentix servers for simulator and security purposes. One of their functions is to pull logs and order book data from nodes into sparse distributed representations for hierarchical temporal memory as intrusion [7] analysis for detecting anomalies in the system. The aggregators will also be host to other components such as metachain ledgers and blockchain scrapers.
+צוברי הVDex הם שרתים של Volentix המיועדים עבור מטרות אבטחה והדמיה. One of their functions is to pull logs and order book data from nodes into sparse distributed representations for hierarchical temporal memory as intrusion [7] analysis for detecting anomalies in the system. The aggregators will also be host to other components such as metachain ledgers and blockchain scrapers.
 
 #### 3.1.3 Latency
 
