@@ -130,7 +130,7 @@ Un registro ordini on-chain è un registro di offerte che risiedono nel wallet (
 
 Risiedenti sull'aggregatore, i registri ordini offline hanno come scopo la sicurezza e le simulazioni.
 
-#### 3.2.4 Processo di decentralizzazione per l'impostazione del registro ordini
+#### 3.2.4 Processo di decentralizzazione dell'impostazione del registro ordini
 
 Ai fini della decentralizzazione, I nodi faranno a turno per impostare il registro ordini. The settling node must be designated by the protocol and all order book entries from all nodes must be available to the settling nodes. Secondo noi i meccanismi di consenso RAFT[9] e PARSEC[10] offrono soluzioni efficaci. RAFT è un algoritmo ben consolidato ed è facile da implementare.[7] PARSEC è più recente ed efficace, utilizza la tecnologia Directed Acyclic Graph (DAG) ed elimina la necessità di copiare i log.
 
@@ -142,7 +142,7 @@ L'impostazione degli ordini contiene elementi noti delle operazioni tradizionali
 
 #### 3.4.1 VTX Issuance and Use
 
-VTX è l'asset digitale nativo da emettere e utilizzare sull'exchange decentralizzato VDex. Attualmente abbiamo intenzione di utilizzare un contratto eosio.token del framework EOS.IO per emettere 2.1 miliardi di token VTX compatibili con EOS.IO con una fornitura di 1.3 miliardi. VTX avrà un'ampia gamma di utilizzi, ad esempio:
+VTX è l'asset digitale nativo da emettere e utilizzare sull'exchange decentralizzato VDex. Attualmente abbiamo intenzione di utilizzare un contratto eosio.token del framework EOS.IO per emettere 2.1 miliardi di token VTX compatibili con EOS.IO con una supply di 1.3 miliardi. VTX avrà un'ampia gamma di utilizzi, ad esempio:
 
 Per ricompensare i partecipanti nel processo del consenso e nelle campagne Venue.
 
