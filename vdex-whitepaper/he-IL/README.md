@@ -80,11 +80,11 @@ Web Assembly מאפשר ביצועים גבוהים של יישומים רשתי
 
 #### 3.0.6 חוזי זמן נעולים (החלפות אטומיות)
 
-A Hashed Timelock Contract (HTLC)[1] is a smart contract enabling the implementation of time-bound transactions. Users will be offered a variable lock-in period for their transactions, with a discount on transaction fees in exchange for choosing a longer lock-in period.
+חוזה זמן נעול (HTLC)[1] חוזה חכם (סוג של תשלום בו שני משתמשים מסכימים להסדר כספי, שם צד אחד ישלם לצד השני כמות מסוימת של מטבע מבוזר), המאפשר את יישומן של העברות מוגבלות-זמן (העברות ''נעולות זמן'', בהן הצד המקבל מותנה בכמות מסוימת של זמן עד לאישור התשלום, למקרה ותהיה חריגה מהזמן המוקצה, הכסף יוחזר לשולח). למשתמשים תוצענה תקופת נעילה משתנה בעבור העברותיהם, עם הנחה על עלויות ההעברות בתמורה לבחירה בתקופת נעילה ארוכה יותר.
 
-### 3.1 NETWORK TOPOLOGY
+### 3.1 טופולוגיית רשת
 
-#### 3.1.1 Nodes
+#### 3.1.1 צמתי רשת
 
 ![](../9.jpg)
 
