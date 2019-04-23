@@ -110,7 +110,7 @@ Web Assembly מאפשר ביצועים גבוהים של יישומים רשתי
 
 #### 3.1.3 השהיה
 
-לEOS.IO השהיה קצרה בעת אישור הבלוק (0.5 שניות).[5] רמה זו של השהיה יכולה להישמר בעסקאות עם בלוקצ'יינים אחרים, כל עוד שרשורי רשת אלו ידמו בכמות זמן ההשהיה. But fundamentally the transaction is only as rapid as the lesser-rapid chain in the equation. It is well known, for example, that a Bitcoin block requires approximately ten minutes for processing. Receiving a transaction hash does not mean the transaction is confirmed; it means only that a node accepted the transaction without error, although there is generally a high probability other block producers will accept it.
+לEOS.IO השהיה קצרה בעת אישור הבלוק (0.5 שניות).[5] רמה זו של השהיה יכולה להישמר בעסקאות עם בלוקצ'יינים אחרים, כל עוד זמן ההשהיה דומה ביניהם. But fundamentally the transaction is only as rapid as the lesser-rapid chain in the equation. It is well known, for example, that a Bitcoin block requires approximately ten minutes for processing. Receiving a transaction hash does not mean the transaction is confirmed; it means only that a node accepted the transaction without error, although there is generally a high probability other block producers will accept it.
 
 ### 3.2 ORDER BOOK
 
