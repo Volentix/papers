@@ -110,11 +110,11 @@ Gli aggregatori di VDex sono server dedicati di Volentix che hanno come scopo la
 
 #### 3.1.3 Latenza
 
-EOS.IO ha una latenza bassa per la conferma dei blocchi (0.5 secondi). [5] Questo grado di latenza può essere mantenuto nelle transazioni con altre blockchain se queste chain hanno una latenza simile. Ma sostanzialmente la transazione è rapida solo come la catena meno rapida dell'equazione. Per esempio, è risaputo, che un blocco Bitcoin necessita circa 10 minuti per l'elaborazione. Ricevere il hash di una transazione non significa che la transazione è stata confermata; significa soltanto che un nodo ha accettato la transazione senza alcun errore, anche se in genere c'è un alta probabilità che anche altri produttori di blocchi la accetteranno.
+EOS.IO ha una latenza bassa per la conferma dei blocchi (0.5 secondi). [5] Questo grado di latenza può essere mantenuto nelle transazioni con altre blockchain se queste chain hanno una latenza simile. Ma sostanzialmente la transazione è rapida solo come la catena meno rapida dell'equazione. Per esempio, è risaputo, che un blocco Bitcoin necessita circa 10 minuti per l'elaborazione. Ricevere l'hash di una transazione non significa che la transazione è stata confermata; significa soltanto che un nodo ha accettato la transazione senza alcun errore, anche se in genere c'è un alta probabilità che anche altri produttori di blocchi la accetteranno.
 
 ### 3.2 REGISTRO ORDINI
 
-Il registro ordini è la lista degli ordini di acquisto e vendita che VDex registra dagli utenti interessati. Un motore corrispondente utilizza un registro ordini per determinare quali ordini possono essere coperti. Il protocollo Loopring permette la personalizzazione della struttura del registro ordini.[5] Per prestazioni ottimali, si possono utilizzare i container forniti da EOS.IO.[8]
+Il registro ordini è la lista degli ordini di acquisto e vendita che VDex registra dagli utenti interessati. Un matching engine utilizza un registro ordini per determinare quali ordini possono essere sodisfatti. Il protocollo Loopring permette la personalizzazione della struttura del registro ordini.[5] Per prestazioni ottimali, si possono utilizzare i container forniti da EOS.IO.[8]
 
 #### 3.2.1 Strutture di dati
 
