@@ -124,7 +124,7 @@ Facendo riferimento alla persistence API di EOS.IO, il registro ordini può trar
 
 #### 3.2.2 Registro ordini On-Chain
 
-Un registro ordini on-chain è un registro di offerte che risiedono nel wallet (nodo) scelto per impostare il registro ordini. Questo si trova in un database persistente su ogni nodo che si iscrive allo stesso account degli altri nodi.
+Un registro ordini on-chain è un registro di offerte che risiedono nel wallet (nodo) scelto per impostare il registro ordini. Questo si trova in un database persistente su ogni nodo che si iscrive allo stesso account di tutti gli altri nodi.
 
 #### 3.2.3 Registro ordini Off-Chain
 
@@ -136,7 +136,7 @@ Ai fini della decentralizzazione, I nodi faranno a turno per impostare il regist
 
 ### 3.3 IMPOSTAZIONE ORDINE
 
-Il regolamento degli ordini contiene elementi noti delle operazioni tradizionali del mercato finanziario. Utilizing FIFO technology to design the order book, VDex intends to check order, inventory, and fill rate, as well as limit orders and cancellations. ![](../7.jpg)
+L'impostazione degli ordini contiene elementi noti delle operazioni tradizionali del mercato finanziario. Utilizing FIFO technology to design the order book, VDex intends to check order, inventory, and fill rate, as well as limit orders and cancellations. ![](../7.jpg)
 
 ### 3.4 VTX
 
