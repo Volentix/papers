@@ -124,7 +124,7 @@ Facendo riferimento alla persistence API di EOS.IO, il registro ordini può trar
 
 #### 3.2.2 Registro ordini On-Chain
 
-Un registro ordini on-chain è un registro di offerte che risiedono nel wallet (nodo) scelto per impostare il registro ordini. Questo si trova in un database persistente su ogni nodo che si iscrive allo stesso account di tutti gli altri nodi.
+Un registro ordini on-chain è un registro di offerte che risiedono nel wallet (nodo) scelto per impostare il registro ordini. Questo si trova in un database persistente su ogni nodo che si iscrive allo stesso account come tutti gli altri nodi.
 
 #### 3.2.3 Registro ordini Off-Chain
 
@@ -152,7 +152,7 @@ Per presentare e votare le proposte per l'ecosistema Volentix, utilizzando i dir
 
 Per offrire sostegno per la revisione delle proposte e per attuare progetti.
 
-Per incentivare gli utenti a partecipare nell'impostazione del libro d'ordine diventando nodi attraverso i loro wallet Verto.
+Per incentivare gli utenti a partecipare nell'impostazione del registro degli ordini assumendo la funzione di nodi attraverso i loro wallet Verto.
 
 Per incentivare gli utenti a bloccare i loro fondi per più di 24 ore per le transazioni HTLC con scadenza.
 
