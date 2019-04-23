@@ -88,19 +88,19 @@ Web Assembly מאפשר ביצועים גבוהים של יישומים רשתי
 
 ![](../9.jpg)
 
-Nodes are the endpoints of the VDex exchange. Their functions are:
+צמתי רשת הינם נקודות הקצה של '' חלפן הכספים VDex ''. התפקודים שלהם:
 
-1. Act as portals to VDex through the Verto wallet.
+1. משמשים כפתח לVDex דרך ארנק הVerto.
 
-2. Merge order book information.
+2. מלכדים מידע בספר ההזמנות.
 
-3. Settle order book.
+3. מיישבים ומארנים ספר הזמנות.
 
-4. Manage order cancellation.
+4. מנהלים ביטולי הזמנות.
 
-5. Assign timeouts for the RAFT protocol.
+5. מקצים פסקי-זמן בעבור פרוטקול הRAFT.
 
-6. Initiate contracts for orders that have been filled.
+6. מיישמים חוזים למען הזמנות שמולאו.
 
 Nodes earn a portion of the fee for each transaction. If a user has sufficient funds and possesses a good track record, his or her Verto wallet can act as a node.
 
