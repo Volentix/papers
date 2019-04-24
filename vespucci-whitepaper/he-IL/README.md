@@ -367,15 +367,15 @@ PLATFORM FEATURES
 * הצג את כל ההצפנה, על-יד השם והסמל של דירוג Vespucci.
 * התאם את מערכת הדירוג על-ידי בחירת פרמטרים פעילים של Vespucci.
 * קבע את תצורת מערכת הדירוג באמצעות בחירה בעדיפות של הפרמטרים הבסיסיים והתאמה של משקולות.
-* Be informed separately about the effect of the basic parameters via diagrams and gain a deeper picture of those that shape the fluctuation of the value of each currency.
-* Filter the list of cryptocurrencies according to the hash rate and the chronological period they were active on the market.
-* View cryptocurrency features in detail.
+* תעודכן באופן נפרד לגבי ההשפעה של פרמטרים בסיסיים באמצעות דיאגרמות, איתם תוכל להשיג תמונה יותר גדולה על אלה שמעצבים את תנודות הערך של כל מטבע.
+* סינון רשימת מטבעות הקריפטו על פי תעריף ה- hash (רוב עומס העבודה של עיבוד של בלוקים) והתקופה הכרונולוגית בה הם היו פעילים בשוק.
+* הצג תכונות מטבעות-קריפטו בפירוט.
 
 ![](https://volentix.io/file/2019/01/main-dashboard-–-3@3x.png)
 
-* ### **OVERALL ARCHITECTURE AND IMPLEMENTATION**
+* ###** עיצוב מבני וביצוע מקיף**
 
-We have discussed the three main subsystems of Fundamental / Technological Analysis, Technical Analysis, and Sentiment Analysis. All three pillars are imperfect. Furthermore, only the most experienced analysts can combine all three systems in one rating strategy. התוצאה הסופית לכל מטבע קריפטו תלויה בכוח של כל אחד משלושת הרכיבים, ונשקלים על פי ערכי ברירות מחדל או לפי המשתמש. כיוון שאנו מאמינים בערך הטכנולוגיה ובערך של הצוות מאחורי כל מטבע ממוחשב, FTA, ובמיוחד בהיבטים הטכנולוגיים העומדים על משקל כולל של 50% ברירת מחדל. בעזרת ביסוס על מחקר וניסויי הערכה של פרמטרים, משקלים מותאמים נגזרים בכמות מדודה של ערך המטבע. אנו מנצלים את פריצות הדרך האחרונות ב''רשתות עצביות עמוקות'' על מנת להפוך את שילוב התוצאות לאוטומטי, ללא התערבות אנושית, וכך גם להימנע מחד- צדדיות ישירה או עקיפה.
+דנו כבר בנושא שלושת התת-מערכות העיקריות של ניתוח טכנולוגי/בסיסי, טכני, ורגשי. שלושת עמודי התווך אינם מושלמים. Furthermore, only the most experienced analysts can combine all three systems in one rating strategy. התוצאה הסופית לכל מטבע קריפטו תלויה בכוח של כל אחד משלושת הרכיבים, ונשקלים על פי ערכי ברירות מחדל או לפי המשתמש. כיוון שאנו מאמינים בערך הטכנולוגיה ובערך של הצוות מאחורי כל מטבע ממוחשב, FTA, ובמיוחד בהיבטים הטכנולוגיים העומדים על משקל כולל של 50% ברירת מחדל. בעזרת ביסוס על מחקר וניסויי הערכה של פרמטרים, משקלים מותאמים נגזרים בכמות מדודה של ערך המטבע. אנו מנצלים את פריצות הדרך האחרונות ב''רשתות עצביות עמוקות'' על מנת להפוך את שילוב התוצאות לאוטומטי, ללא התערבות אנושית, וכך גם להימנע מחד- צדדיות ישירה או עקיפה.
 
 The outputs of all three constituents together with the corresponding price (the price being inverse to risk) movements for different frames yield a ranking of the cryptocurrencies and the tokens in the most holistic approach ever achieved. This is coupled with Post-processing for humans.
 
