@@ -54,7 +54,7 @@ Vespucci משמש כמנוע לניתוח נתונים, נגיש באמצעות 
 
 הפרדת האימות מהיישום מאפשרת העברה יותר מהירה ומגדילה את רוחב הפס. בלוקים של EOS.IO מיוצרים כל 500ms, על פי דיווחים.
 
-### Web Assembly(WASM)
+### (Web assembly (WASM
 
 Web Assembly מאפשר ביצועים גבוהים של יישומים רשתיים ומאבטח כל יישום בSandbox משלו, אשר דרך פונקציות אלו VDex יכול לקבל גישה רשתית, מגבלות בשמות ובקבצים של המערכת, ואכיפת הוצאות לפועל המבוססות על כללים.
 
@@ -64,7 +64,7 @@ Web Assembly מאפשר ביצועים גבוהים של יישומים רשתי
 
 #### 3.0.2 הודעות מוגדרות בסכימה ומאגר נתונים
 
-חוזי שירות מתוקננים על מנת לספק מידה בסיסית של יכולת פעולה הדדית בין מערכות שונות על-ידי הרמון מודלים של נתונים. אכן, עיקרון השירות של עיצוב חוזים סטנדרטיים תומך בביסוס חוזי שירות על מודלים סטנדרטיים של נתונים. Analysis is done on the service inventory blueprint to find out the commonly occurring business documents that are exchanged between services. מסמכים עסקיים אלו מעוצבים בצורה סטנדרטית. תבנית הסכימה הקנונית מפחיתה את הצורך ביישום הטרנספורמציה בדפוסי עיצוב של מודלי נתונים. [3]
+חוזי שירות מתוקננים על מנת לספק מידה בסיסית של יכולת פעולה הדדית בין מערכות שונות על-ידי הרמון מודלים של נתונים. אכן, עיקרון השירות של עיצוב חוזים סטנדרטיים תומך בביסוס חוזי שירות על מודלים סטנדרטיים של נתונים. ניתוח הנתונים נעשה בתוכנית שרות המלאי, על מנת לגלות את המסמכים העסקיים הנפוצים שאיתם מתבצעות החלפות בין שירותים שונים. מסמכים עסקיים אלו מעוצבים בצורה סטנדרטית. תבנית הסכימה הקנונית מפחיתה את הצורך ביישום הטרנספורמציה בדפוסי עיצוב של מודלי נתונים. [3]
 
 #### 3.0.3 תקשורת בין חוזים
 
@@ -110,9 +110,9 @@ Web Assembly מאפשר ביצועים גבוהים של יישומים רשתי
 
 #### 3.1.3 השהיה
 
-לEOS.IO השהיה קצרה בעת אישור הבלוק (0.5 שניות).[5] רמה זו של השהיה יכולה להישמר בעסקאות עם בלוקצ'יינים אחרים, כל עוד זמן ההשהיה דומה ביניהם. But fundamentally the transaction is only as rapid as the lesser-rapid chain in the equation. It is well known, for example, that a Bitcoin block requires approximately ten minutes for processing. Receiving a transaction hash does not mean the transaction is confirmed; it means only that a node accepted the transaction without error, although there is generally a high probability other block producers will accept it.
+לEOS.IO השהיה קצרה בעת אישור הבלוק (0.5 שניות).[5] רמה זו של השהיה יכולה להישמר בעסקאות עם בלוקצ'יינים אחרים, כל עוד זמן ההשהיה דומה ביניהם. כעיקרון החליפין פועל אך ורק באותה מהירות כשם השרשרת בתוך המשוואה. ידוע, כי למשל, לבלוק של ביטקוין נדרש כעשר דקות לעבד. קבלה של עסקה נעולה אינו אומר שהעסקה מאושרת; זה מוודא כי צומת רשתי אישר את העסקה ללא תקלה, אף על פי שיש סיכוי גבוה לאישורם של מנפיקי בלוקים אחרים.
 
-### 3.2 ORDER BOOK
+### 3.2 ספר הזמנות
 
 The order book is the list of buy-and-sell orders VDex records from interested users. A matching engine uses an order book to determine which orders can be fulfilled. The Loopring protocol allows for customizing the order book data structure.[5] Containers provided by EOS.IO can be used for optimal performance.[8]
 
