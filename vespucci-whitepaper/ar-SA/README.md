@@ -246,11 +246,11 @@
 
 **مؤشر القوة النسبية (Relative Strength Index أو RSI)** هو مؤشر الزخم الذي يقيس حجم التغييرات الأخيرة في الأسعار لتحليل حالات الشراء المفرط والبيع المفرط. يستخدم في المقام الأول لمحاولة تحديد حالات الشراء المفرط والبيع المفرط. يوفر RSI تقييمًا نسبيًا لقوة أداء سعر السند المالي في الآونة الأخيرة، مما يجعله مؤشرًا للزخم. تشير نسب RSI الأعلى أو تساوي 70 إلى أن السند المالي أصبح في حالة شراء مفرط أو تقدير مفرط. بينما يتم تفسير نسب RSI الأدنى أو تساوي 30 في أغلب الأحيان على أنها تشير إلى حالة البيع المفرط أو انخفاض في تقدير القيمة التي قد تشير إلى تغير الاتجاه أو عكس السعر التصحيحي في الاتجاه الصعودي. في محاولة لتجنب إشارات خاطئة من مؤشر القوة النسبية، يستخدم بعض المتداولين نسباً أكبر وأصغر كإشارات شراء أو بيع، مثلا القراءات فوق 80 تشير إلى حالات شراءٍ مُفرط والقراءات أقل من 20 تشير إلى حالات بيعٍ مُفرط. يمكن أن تؤدي حركات الأسعار الكبيرة المفاجئة إلى إشارات خاطئة في البيع أو الشراء على RSI. لذلك، فأنه يُستخدم بشكل أفضل مع بعض التحسينات لتطبيقه أو بإستعمال مؤشرات فنية أخرى لتأكيد التحليل.
 
-**أشرطة بولينجر (Bollinger bands)** هي عبارة عن مؤشر خاص بالرسم البياني الفني، شائعٌ بين المتداولين في العديد من الأسواق المالية. On a chart there are two “bands” that sandwich the market price. Many use them primarily to determine overbought and oversold levels. A common strategy is to sell when the price touches the upper Bollinger Band and buy when it hits the lower band. This technique also called range-bound markets. In this type of market, the price bounces off the Bollinger Bands like a ball bouncing between two walls.
+**أشرطة بولينجر (Bollinger bands)** هي عبارة عن مؤشر خاص بالرسم البياني الفني، شائعٌ بين المتداولين في العديد من الأسواق المالية. على الرسم البياني هنالك ''شريطين'' يقومون بحصر سعر السوق المحتمل. كثير يستخدمونها في المقام الأول لتحديد مستويات البيع والشراء المفرط. إستراتيجية شائعة تتمثل في البيع عندما يلامس السعر الشريط العلوي والشراء عندما يصل إلى الشريط السفلي. تعرف هذه التقنية بالأسواق محدودة النطاق (range-bound markets). في هذا النوع من السوق، يرتد السعر بين الأشرطة مثل الكرة التي ترتد بين جدارين.
 
 **MACD** calculates the difference between a currency’s 26-day and 12-day exponential moving averages (EMA). The 12-day EMA is the faster one, while the 26-day is a slower moving average. The calculation of both EMAs uses the closing prices of whatever period is measured. On the MACD chart, a nine-day EMA of MACD itself is plotted as well, and it acts as a signal for buy and sell decisions.The MACD histogram provides a visual depiction of the difference between MACD and its nine-day EMA. MACD histogram is one of the main tools traders use to gauge momentum, because it gives an intuitive visual representation of the speed of price movement. For this reason, the MACD is commonly used to measure the strength of a price move rather than the direction or trend of a currency.
 
-More advanced techniques for data analysis are the Fibonacci methods as well as Ichimoku Kinko Hyo techniques, as discussed in the sequel.
+الأساليب الأكثر تقدما لتحليل البيانات هي أساليب فيبوناتشي وكذلك تقنيات إيشيموكو كينكو هيو (Ichimoku Kinko Hyo)، كالأتي.
 
 **ملحق فيبوناتشي (Fibonacci Extension):** إنها أدوات تنبؤ شائعة غالبًا ما تستخدم مع أنماط الرسوم الفنية الأخرى. يستخدم العديد من المتداولين هذه التقنية جنبًا إلى جنب مع الدراسات القائمة على الموجة (Elliott Wave و Wolfe Wave) لتقدير ارتفاع كل موجة وتحديد الموجات المختلفة. عادة ما يتم استخدامها مع أنماط المخططات الأخرى مثل المثلث التصاعدي. بمجرد تحديد النموذج، يمكن إنشاء تنبؤ بإضافة 61.8٪ من المسافة بين المقاومة العليا وقاعدة المثلث إلى سعر الدخول.
 
@@ -258,13 +258,13 @@ More advanced techniques for data analysis are the Fibonacci methods as well as 
 
 **قنوات فيبوناتشي (Fibonacci Channels):** يمكن تطبيق نمط فيبوناتشي على القنوات عموديا وقطريا. تتمثل إحدى التقنيات الشائعة في الجمع بين دراسات فيبوناتشي القطرية والعمودية لإيجاد مناطق يشير كلاهما فيها إلى مقاومة كبيرة.
 
-**Ichimoku Kinko Hyo** is a technical indicator that is used to gauge momentum along with future areas of support and resistance.It was originally developed by a Japanese newspaper writer to combine various technical strategies into a single indicator that could be easily implemented and interpreted. Ichimoku indicator is a combination of five key components:
+**إيشيموكو كينكو هيو (Ichimoku Kinko Hyo) **هو مؤشر فني يتم استخدامه لقياس الزخم إلى جانب مجالات الدعم والمقاومة المستقبلية. تم تطويره في الأصل بواسطة صحافي ياباني للجمع بين الاستراتيجيات التقنية المختلفة في مؤشر واحد يمكن تنفيذه وتفسيره بسهولة. مؤشر إيشيموكو هو مزيج من خمسة مكونات رئيسية:
 
-1. Tenkan-sen: Represents support and resistance level, and it’s a signal line for reversals.
-2. Kijun-sen: Represents support and resistance level. It’s a confirmation of a trend change, and can be used as a trailing stop-loss point.
-3. Senkou Span A: Is the average of tenkan-sen and kijun-sen for 26 periods ahead. The resulting line is used to identify future areas of support and resistance.
-4. Senkou Span B: Is calculated by the highest high and the lowest low over the past 52 periods, for 26 periods ahead. The resulting line is used to identify future areas of support and resistance.
-5. Chickou Span: Is the current period’s closing price plotted 26 days back on the chart. This line is used to show possible areas of support and resistance.
+1. Tenkan-sen: يمثل الدعم, مستوى المقاومة وخط إشارة للانتكاسات.
+2. Kijun-sen: يمثل مستوى الدعم والمقاومة. كما يمثل تأكيد على تغير الاتجاه، ويمكن استخدامه أيضاً كنقطة لوقف الخسارة (stop-loss point).
+3. Senkou Span A: هو متوسط tenkan-sen و kijun-sen قائم على 26 فترة قادمة. يتم استخدام الخط الناتج لتحديد مجالات الدعم والمقاومة المستقبلية.
+4. Senkou Span B: يتم حسابه من أعلى وأدنى مستوى على مدار الـ 52 فترة الماضية، ولمدة 26 فترة قادمة. يتم استخدام الخط الناتج لتحديد مجالات الدعم والمقاومة المستقبلية.
+5. Chickou Span: هو سعر إغلاق الفترة الحالية الذي تم تخطيطه منذ 26 يوم على الرسم البياني. يستخدم هذا الخط لإظهار مجالات الدعم والمقاومة المحتملة.
 
 * #### **FUNDAMENTAL AND TECHNOLOGICAL ANALYSIS**
 
