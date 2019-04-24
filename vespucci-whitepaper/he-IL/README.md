@@ -431,9 +431,9 @@ Storage techniques may rely on off-chain Order books developed by VLabs, which i
 
 [2] E. Kouloumpis et al. Twitter Sentiment Analysis: The Good the Bad and the OMG!”, International AAAI Conference on Weblogs and Social Media (ICWSM-11) (2011)
 
-[3] A. Severyn et al. Twitter Sentiment Analysis with Deep Convolutional Neural Networks, International ACM SIGIR Conference on Research and Development in Information Retrieval:959-962 (2015)
+[3] A. Severyn et al. ניתוח הסנטימנט (תחום של עיבוד שפה טבעית אשר משתמש בתוכנה ומחשבים כדי להסיק את הרגש של בני אדם מהטקסט שהם כותבים/מעלים) של טוויטר דרך רשתות עצביות עמוקות, הכנס הבינלאומי ACM SIGIR בנושא המחקר והפיתוח באחזור מידעי:959-962 (2015)
 
-[4] C.J. & Gilbert et al. VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text. כנס בינלאומי בבלוגים ובמדיה חברתית (2014) 8 (ICWSM-14)
+[4] C.J. & Gilbert et al. VADER: מודול מבוסס-חוק מחפיר הנועד לניתוח סנטימנט של תכני מדיה חברתית. כנס בינלאומי בבלוגים ובמדיה חברתית (2014) 8 (ICWSM-14)
 
 [5] Bird et al. עיבוד שפה טבעי עם Python, O’Reilly Media Inc. (2009)
 
