@@ -126,7 +126,7 @@ Referencing the EOS.IO persistence API, the order book is able to take advantage
 
 ספר הזמנות על-שרשורי הוא רשימה תיעודית של כל הצעה המתגוררת בארנק (צומת רשתי) הנבחר לבסס את ספר ההזמנות הכללי. הוא שוכן במאגר נתונים תמידי, על גבי כל צומת רשתי שמנוי לאותו חשבון כשם צמתי הרשת האחרים.
 
-#### 3.2.3 ספר הזמנות תחת-שרשורי
+#### 3.2.3 ספר הזמנות תת-שרשורי
 
 Residing on the aggregator, offline order books serve for simulator and security purposes.
 
