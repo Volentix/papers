@@ -2,14 +2,14 @@
 
 ## IFIHAN
 
-Volentix n ṣafihan VDex, ti o jẹ siseto gẹgẹ bi ibi ipasipaarọ ohun-ini oni-nọmba alaisilojukan, ti o jẹ pinpin pẹlu itẹramọ lori iriri olumulo ati idagbasoke awujọ ati iṣejọba. Nipa wiwọle si awọn imọ-ẹrọ ti o fẹsẹrinlẹ ati siseto yiyan awọn ilana titun ti o pataki aabo, iyara, ìfàṣẹsí, irọrun ti lilo, agbara iṣiṣẹ ṣi, ati atilẹyin ọlọpọ-ohun ini, VDex n gbero lati ṣọ awọn iṣowo ẹgbẹ́-sí-ẹgbẹ́ di irọrun nipa sisẹ atopọ awọn ohun elo alaisilojukan ti o jẹ gbigbe dede lori awọn iwe adehun EOS.IO to jafafa.
+Volentix n ṣafihan VDex, ti o jẹ siseto gẹgẹ bi ibi ipasipaarọ ohun-ini oni-nọmba alaisilojukan, ti o jẹ pinpin pẹlu itẹramọ lori iriri olumulo ati idagbasoke awujọ ati iṣejọba. Nipa wiwọle si awọn imọ-ẹrọ ti o fẹsẹrinlẹ ati siseto yiyan awọn ilana titun ti o pataki aabo, iyara, ìfàṣẹsí, irọrun ti lilo, agbara iṣiṣẹ ṣi, ati atilẹyin ọlọpọ-ohun ini, VDex n gbero lati ṣọ awọn iṣowo ẹgbẹ́-sí-ẹgbẹ́ di irọrun nipa sisẹ atopọ awọn ohun elo alaisilojukan ti o jẹ gbigbe dide lori awọn iwe adehun EOS.IO to jafafa.
 
 Aaye ifilọle VDex n ṣe ifojusọna fun sise ibamu awọn ibeere idalara ti Volentix si awọn imọ ẹrọ ti o wa nilẹ lori eto isẹ sise alaisilojukan EOS.IO. A gbero lati ṣe idanwo awọn erongba wa nipa ṣiṣe apẹrẹ awoṣe nipa akanṣe software EZEOS, eyiti a kọ ati ti a ṣe akanṣe rẹ pẹlu awọn irinṣẹ ila aṣẹ alasunmọ ti EOS.IO. Software yi wa ni: https://github.com/Volentix/ezeos
 
 ## OFIN ỌJA
 
-In the second decade since the emergence of Bitcoin, the digital asset marketplace is defined by the dizzying highs and lows experienced by a tiny percentage of the global population trading thousands of cryptocurrencies many of which are outright scams. Looking past the frauds, and observing the value of the credible digital application technologies emerging in the past ten years, if we are to progress and promulgate those technologies, then they must penetrate the mainstream. Legitimate digital currencies must be used in broad commerce. And the primary focus of digital assets proliferation must be to simplify and enrich user experience. The choices of which existing technologies to employ and which unavailable technologies to develop must be driven by comfort, certainty, and security of user  
-transactions and related experiences.
+Ni ọdun mẹwa ẹlẹkeji lẹhin ti Bitcoin ti farahan, ibi iṣowo dukia oni-nọmba jẹ asọye nipasẹ awọn igasoke ati awọn ijawalẹ olooyi ti o jẹ iriri ida diẹ lara iye awọn eniyan agbaye ti ṣe iṣowo ẹgbẹgbẹrun awọn owo kiripito ọpọlọpọ awọn eyiti o jẹ ẹtàn patapata. Fifojufo awọn jibiti, ati kikiyesi iye ti awọn imọ ẹrọ ohun-elo oni-nọmba to se fọkantan ti o n waye lati ọdun mẹwa sẹyin, ti a ba fẹ lati ni ilọsiwaju ati lati polongo awọn imọ-ẹrọ naa, ajẹwipe wọn gbọdọ wọ inu ojulowo. Awọn owo oni-nọmba to bofinmu gbọdọ jẹ lilo ninu iṣowo gbogbogbo. Ati ifojusi pataki ti imugbooro awọn dukia oni-nọmba gbọdọ jẹ lati mu irọrun ba ati ki o mu iriri olumulo kun fọfọ. Awọn ipinnu ti awọn imo-ẹrọ ti o ti wa tẹlẹ fun amulo ati eyi ti awọn imọ ẹrọ ti kosi nilẹ fun igbedide gbọdọ jẹ diidari nipasẹ irọrun, idaniloju, ati aabo ti olumulo  
+awọn iṣowo ati awọn iriri ti o ni ibatan pẹlu rẹ.
 
 ## ATẸWỌLE ỌJA
 
@@ -17,49 +17,49 @@ Lati ṣamojuto ofin ọja ti o mulẹ lọwọlọwọ yii, awujọ ti VOLENTIX
 
 ## Ibugbe
 
-Venue jẹ gbigbekalẹ gẹgẹbi pilatifọọmu awujọ alayipada ti o n gba ati ṣiṣe aato awọn ọmọ ẹgbẹ ti awujọ Volentix lati jẹ ki pinpin aami abinibi VTX rọrun, ati lati ṣe ipolongo imọ nipa awọn eto Volentix. An initial VENUE signature campaign is underway. Jọwọ ṣabẹwo si <https://venue.volentix.io> fun alaye siwaju sii.
+Venue jẹ gbigbekalẹ gẹgẹbi pilatifọọmu awujọ alayipada ti o n gba ati ṣiṣe aato awọn ọmọ ẹgbẹ ti awujọ Volentix lati jẹ ki pinpin aami abinibi VTX rọrun, ati lati ṣe ipolongo imọ nipa awọn eto Volentix. Ipolongo ibuwọlu alakọkọ ti VENUE ti wa loju ọna. Jọwọ ṣabẹwo si <https://venue.volentix.io> fun alaye siwaju sii.
 
 ## Verto
 
-Verto will be a multi-currency wallet for use with the VDEX exchange, and intends to facilitate custody of private keys for use in peer-to-peer transactions. Both private and public keys will be locally managed, with the goal of eliminating the risks of devastating losses of stake associated with traumatic failures of central operators. Please read the VERTO primer by visiting <http://verto.vdex.io/>
+Verto yoo jẹ apo owo olorisirisi-owo fun lilo pẹlu ibi ipaṣipaarọ alaisilojukan ti VDEX, o si n gbero lati mu irọrun ba iṣetọju awọn kọkọrọ ikọkọ fun lilo ninu awọn iṣowo ẹgbẹ́-sí-ẹgbẹ́. Awọn kọkọrọ ikọkọ ati awọn kọkọrọ gbangba yoo wa labẹ iṣakoso ibilẹ, pẹlu afojusun lati se imukuro awọn ewu ti awọn ipadanu oniparun ti isamisi ti o ni nkan ṣe pẹlu awọn ikuna ti awọn oṣiṣẹ iṣakoso aaringbungbu. Jọwọ ka VERTO alakọkọ nipasẹ lilọ si <http://verto.vdex.io/>
 
 ## Vespucci
 
-Vespucci jẹ fifojusun gẹgẹbi ohun elo iyanana ti o se wọle si nipasẹ intafeesi onirọrun-olumulo pẹlu awọn ile ipamọ iṣura ti bosenlọ lọwọ ti awọn data ọja, gẹgẹbi awọn ipele ipo ati iyanana iwoyesi. A fẹ lati ro awọn olumulo lagbara pẹlu awọn irinṣẹ lati ṣe iwọn ati ṣe afiwe awọn ohun-ini oni-nọmba ti o ṣe fisowo, lati wọle ati pin awọn akọsilẹ itan iṣowo, lati ṣeto awọn aṣa ati awọn ilana, ati lati mojuto ati ṣayẹwo awọn idagbasoke software orisun-gbangba. VESPUCCI n wa lati mu si arọwọto rẹ awọn alaye ti o kun ati ti o gboya lori iṣowo ọja nipa sise akojọpọ awọn ijabọ alaye ti o lọwọlọwọ yii fọn kakiri gbogbo awọn oriṣiriṣi awọn blockchain, awọn aaye ayelujara, awọn yara itakurọsọ, ati awọn ibi iyipada. This application is currently in development by our affiliate Pythagoras Systems.
+Vespucci jẹ fifojusun gẹgẹbi ohun elo iyanana ti o se wọle si nipasẹ intafeesi onirọrun-olumulo pẹlu awọn ile ipamọ iṣura ti bosenlọ lọwọ ti awọn data ọja, gẹgẹbi awọn ipele ipo ati iyanana iwoyesi. A fẹ lati ro awọn olumulo lagbara pẹlu awọn irinṣẹ lati ṣe iwọn ati ṣe afiwe awọn ohun-ini oni-nọmba ti o ṣe fisowo, lati wọle ati pin awọn akọsilẹ itan iṣowo, lati ṣeto awọn aṣa ati awọn ilana, ati lati mojuto ati ṣayẹwo awọn idagbasoke software orisun-gbangba. VESPUCCI n wa lati mu si arọwọto rẹ awọn alaye ti o kun ati ti o gboya lori iṣowo ọja nipa sise akojọpọ awọn ijabọ alaye ti o lọwọlọwọ yii fọn kakiri gbogbo awọn oriṣiriṣi awọn blockchain, awọn aaye ayelujara, awọn yara itakurọsọ, ati awọn ibi iyipada. Ohun elo yii lọwọlọwọ wa labẹ idagbasoke nipasẹ Awọn Eto Pythagoras ti alabase wa.
 
-The fourth pillar of VOLENTIX is the decentralized VDEX exchange, a tradable digital assets platform introduced in detail in our white paper available to view at [https://volentix.io/documentation/vdex-whitepaper](https://volentix.io/documentation/vdex-whitepaper/).
+Opo kẹrin ti VOLENTIX ni ibi ipaṣipaarọ alaisilojukan VDEX, pilatifọọmu awọn dukia oni-nọmba to ṣe fiṣowo ti o jẹ fifihan ni kikun ninu iwe funfun wa ti o wa fun wiwo ni [https://volentix.io/documentation/vdex-whitepaper](https://volentix.io/documentation/vdex-whitepaper/).
 
 ## VDex
 
 VDex n jẹ siseto gẹgẹbi ibi ipasipaarọ awọn owo oni-nọmba alaisilojukan, ti o jẹ pinpin pẹlu itẹramọ lori asiri iriri olumulo ati idagbasoke awujọ ati iṣejọba. Nipa wiwọle si awọn imọ-ẹrọ ti o fẹsẹrinlẹ ati siseto yiyan awọn ilana titun ti o pataki aabo, iyara, ìfàṣẹsí, irọrun ti lilo, agbara iṣiṣẹ ṣi, ati atilẹyin ọlọpọ-ohun ini, VDEX n gbero lati ṣọ awọn iṣowo ẹgbẹ́-sí-ẹgbẹ́ di irọrun nipa sisẹ atopọ awọn ohun elo alaisilojukan ti o jẹ gbigbe dede lori awọn iwe adehun EOS.IO to jafafa.
 
-Fun lilo ti o dan mọran ati ti o ni aabo, a gbero lati jẹki VDEX ṣiṣẹpọ pẹlu apo owo Verto ti ara rẹ ati intafeesi olumulo VESPUCCI. Although we expect VERTO and VDEX ultimately to be able to manage transactions involving the vast array of digital assets and blockchains extant from time to time, we are developing VENUE as a complementary adjunct primarily in order to incentivize and drive native VTX-based transactions.
+Fun lilo ti o dan mọran ati ti o ni aabo, a gbero lati jẹki VDEX ṣiṣẹpọ pẹlu apo owo Verto ti ara rẹ ati intafeesi olumulo VESPUCCI. Biotilẹjẹpe a ni ireti pe ki VERTO ati VDEX lakotan ni anfani lati ṣakoso awọn iṣowo ti o niise pẹlu ọpọlọpọ orisirisi awọn dukia oni-nọmba ati awọn blockchain ti o wa laye lati igba de igba, a n ṣe agbedide VENUE gẹgẹbi afikun alabaṣiṣẹpọ nipataki lati le pese iwuri ati lati ṣe atilẹyin fun awọn iṣowo ibilẹ ti o da lori VTX.
 
-## MARKET SUPPLY AND DEMAND
+## IPESE ATI IBEERE ỌJA
 
-To facilitate access to and use of the four pillars of the VOLENTIX ecosystem, we plan to issue the native utility token VTX. An initial VENUE signature campaign is underway, and we are evaluating pre-sale opportunities as well as potential terms and conditions in the event a crowdsale is authorized.
+Lati mu irọrun ba wiwọle si ati lilo ti awọn opo mẹrin ti awujọ VOLENTIX, a gbero lati ṣe ipese aami ibilẹ VTX ti o wulo. Ipolongo ibuwọlu alakọkọ ti VENUE ti wa loju ọna, ati pe a n ṣe agbeyẹwo awọn anfani tita-iṣaaju ati awọn ti o ṣeese ko jẹ awọn alaye ati awọn adehun ti o ba lọ sẹlẹ pe titajade fun awọn eniyan jẹ fifi ontẹ lu.
 
-Bi a ti se gbero lọwọlọwọ, adehun aami eos.io lati ilana ti EOS.IO maa mu irọrun ba pinpin awọn aami VTX ti o jẹ biliọnu 2.1 ti o ni ibaamu pẹlu EOS.IO pẹlu ipese ti o jẹ biliọnu 1.3. As a utility token, VTX envisions a diverse array of uses. For additional information, please refer to our VDEX white paper at <https://volentix.io/documentation/vdex-whitepaper.>
+Bi a ti se gbero lọwọlọwọ, adehun aami eos.io lati ilana ti EOS.IO maa mu irọrun ba pinpin awọn aami VTX ti o jẹ biliọnu 2.1 ti o ni ibaamu pẹlu EOS.IO pẹlu ipese ti o jẹ biliọnu 1.3. Gẹgẹbi aami oniwulo, VTX n fojusun oriṣiriṣi awọn iwulo. Fun afikun alaye, jọwọ kan si iwe funfun VDEX wa ni <https://volentix.io/documentation/vdex-whitepaper.>
 
-## MARKET SUPPLY AND DEMAND
+## IPESE ATI IBEERE ỌJA
 
-In contemplating technological design, we have evaluated various existing (and emerging) operating systems. EOS.IO software stands out as exemplary. EOS.IO jẹ orisun-gbangba, ohun amayederun onipele agbara iṣiṣẹ fun awọn ohun elo alaisilojukan. A le jẹ anfani lati ara awọn ẹya to pewọn ti EOS.IO n funni gẹgẹ bi ti ṣiṣẹda awọn akọọlẹ ati awọn apo owo, ati pe a tun gbero lati ṣe amulo awọn ilana fun ṣiṣẹda ibi ipasiparọ VDEX ti o jẹ alaisilojukan nipasẹ awọn adehun EOS ati awọn irinṣẹ miiran.
+Ninu iṣaro nipa idalara ti imọ-ẹrọ, a ti ṣe agbeyẹwo orisirisi awọn eto isẹ sise ori ẹrọ ti o wa (ati ti o n dide bọ). Software EOS.IO da yatọ bi awokọse. EOS.IO jẹ orisun-gbangba, ohun amayederun onipele agbara iṣiṣẹ fun awọn ohun elo alaisilojukan. A le jẹ anfani lati ara awọn ẹya to pewọn ti EOS.IO n funni gẹgẹ bi ti ṣiṣẹda awọn akọọlẹ ati awọn apo owo, ati pe a tun gbero lati ṣe amulo awọn ilana fun ṣiṣẹda ibi ipasiparọ VDEX ti o jẹ alaisilojukan nipasẹ awọn adehun EOS ati awọn irinṣẹ miiran.
 
-A ni afojusun lati jẹ ki VTX ati awọn opo mẹrin ti VOLENTIX - VENUE, VERTO, VESPUCCI, ati VDEX - wa ni arọwọto pẹlu irọrun ati ki o ṣee lo fun gbogbo awọn ti o fẹ lati darapọ mọ awujọ wa. We plan a user interface that makes available to you relevant market data as well as your account information. We expect the experience to be enhanced by continuing education, with templates and simulators to support a superior UX/UI relationship.
+A ni afojusun lati jẹ ki VTX ati awọn opo mẹrin ti VOLENTIX - VENUE, VERTO, VESPUCCI, ati VDEX - wa ni arọwọto pẹlu irọrun ati ki o ṣee lo fun gbogbo awọn ti o fẹ lati darapọ mọ awujọ wa. A gbero intafeesi olumulo kan ti o mu ki awọn data ọja to wulo wa nilẹ fun ẹ ati alaye nipa akọọlẹ rẹ pẹlu. A nireti pe ki iriri naa tubọ jẹ mimudara si nipa titẹ siwaju ninu ẹkọ, pẹlu awọn awoṣe ati awọn ẹrọ afidanrawo lati ṣe atilẹyin fun ibaṣepọ ti UX/UI ti o tubọ lagbara julọ.
 
-## PHILOSOPHY AND COMMITMENT
+## AKỌMỌNA ATI IFARAJIN
 
-Our guiding philosophy is one of decentralization, and our ongoing efforts are targeted to promoting a reduction in dependence on central authority. The tremendous benefit of the open-source code philosophy  
-is that every day there are announcements of fresh code developments impacting on convenient and safe trading and use of digital assets. Our premise is security and ease of operation. Prudence mandates education. The most important asset is knowledge.
+Akọmọna itọnisọna wa jẹ ti alaisilojukan, atipe awọn igbiyanju wa ti n lọ lọwọ jẹ fifojusun lati ṣe ipolongo mimu adinku ba gigbarale iṣakoso olojukan. Awọn anfani nla ti akọmọna koodu orisun-gbangba  
+ni pe ojoojumọ ni awọn ikede ti awọn agbedide koodu tuntun ti o n ni ipa lori irọrun ati ailewu ti owo ṣiṣe ati ilo awọn dukia oni-nọmba. Igbagbọ wa jẹ aabo ati irọrun ti isẹ. Ọgbọn se ẹkọ ni dandan. Duika to se pataki julọ ni imọ.
 
-All of us at VOLENTIX are dedicating sizable quantities of work and insights to developing a program premised on empowerment and independence. Please monitor our website and social media for updates and other important announcements. Thank you very much for your attention and interest.
+Gbogbo wa ni VOLENTIX n fi ara iṣẹ wa to ni ye lori ati awọn oye wa jin si ṣiṣe igbedide eto kan ti o da lori ironilagbara ati ominira. Jọwọ mojuto aaye ayelujara wa ati awọn ikanni ajọlo fun awọn ifitonileti ati awọn ikede pataki miiran. O ṣeun pupọ fun itẹtisilẹ ati inifẹsi rẹ.
 
 Awọn Laabu Volentix
 
 ## Ikọjalẹ
 
-FOR INFORMATION PURPOSES ONLY. Ifitonileti yii ko jẹmọ pe o kun fọfọ. Ifitonileti naa jẹmọ ki o ni ayipada ni odidi tabi ni apakan ni eyikeyi akoko laisi ikede. Awọn Laabu Volentix ni ẹtọ lati ṣe atunṣe, rọpo, yọ kuro, tabi pa eyikeyi ati gbogbo alaye rẹ pẹlu ifẹ inu ati ipinnu ti o jẹ ti Awọn Laabu Volentix nikan soso. Awọn Laabu Volentix ko ṣe aṣoju tabi majẹmu atilẹyin kankan, ṣafihan tabi ṣe itumọsi, nipa ti iṣedeede tabi aṣepari ti ifitonileti naa ati ṣe ikọjalẹ kedere ti eyikeyi ati gbogbo gbese ti eyikeyi ati gbogbo eyiowu ti ki ba jẹ fun ifitonileti ti o wa ninu ẹ tabi ti ko si ninu ẹ. Awọn Laabu Volentix nilo ki ọkọọkan ati gbogbo oluka ka alaye naa ni kikun ati ni ifarabalẹ, ati lati ṣe iwadi ti ara ẹni ati iyanana ti alaye naa, ati lati wa ati gba imọran ọjọgbọn fun awọn idi ti ṣiṣe igbelewọn alaye naa. Si imọ ti awọn Laabu Volentix, kosi igbimọ idari, ijọba, tabi ifipamu ti alagata miiran bi atunyẹwo ṣe waye, jẹ gbigbelewọn, tabi jẹ fifọwọsi eyikeyi apakan tabi gbogbo alaye naa. Alaye yii ko kin ṣe ipese tabi ibeere iru eyikeyi botiwukori ati pe ko kin ṣe ipilẹ fun eyikeyi adehun tabi ifarajin iru eyikeyi botiwukori. Gbolohun kankan ti o ba jẹ kika si onitẹsiwaju jẹ ọrọ ti imọran nikan, ati pe oluwoye kankan ko gbọdọ gbarale iru gbolohun bẹ tabi apakan tabi gbogbo alaye naa ni eyikeyi ọna.
+FUN AWỌN ILO TI ALAYE NIKAN. Ifitonileti yii ko jẹmọ pe o kun fọfọ. Ifitonileti naa jẹmọ ki o ni ayipada ni odidi tabi ni apakan ni eyikeyi akoko laisi ikede. Awọn Laabu Volentix ni ẹtọ lati ṣe atunṣe, rọpo, yọ kuro, tabi pa eyikeyi ati gbogbo alaye rẹ pẹlu ifẹ inu ati ipinnu ti o jẹ ti Awọn Laabu Volentix nikan soso. Awọn Laabu Volentix ko ṣe aṣoju tabi majẹmu atilẹyin kankan, ṣafihan tabi ṣe itumọsi, nipa ti iṣedeede tabi aṣepari ti ifitonileti naa ati ṣe ikọjalẹ kedere ti eyikeyi ati gbogbo gbese ti eyikeyi ati gbogbo eyiowu ti ki ba jẹ fun ifitonileti ti o wa ninu ẹ tabi ti ko si ninu ẹ. Awọn Laabu Volentix nilo ki ọkọọkan ati gbogbo oluka ka alaye naa ni kikun ati ni ifarabalẹ, ati lati ṣe iwadi ti ara ẹni ati iyanana ti alaye naa, ati lati wa ati gba imọran ọjọgbọn fun awọn idi ti ṣiṣe igbelewọn alaye naa. Si imọ ti awọn Laabu Volentix, kosi igbimọ idari, ijọba, tabi ifipamu ti alagata miiran bi atunyẹwo ṣe waye, jẹ gbigbelewọn, tabi jẹ fifọwọsi eyikeyi apakan tabi gbogbo alaye naa. Alaye yii ko kin ṣe ipese tabi ibeere iru eyikeyi botiwukori ati pe ko kin ṣe ipilẹ fun eyikeyi adehun tabi ifarajin iru eyikeyi botiwukori. Gbolohun kankan ti o ba jẹ kika si onitẹsiwaju jẹ ọrọ ti imọran nikan, ati pe oluwoye kankan ko gbọdọ gbarale iru gbolohun bẹ tabi apakan tabi gbogbo alaye naa ni eyikeyi ọna.
 
-## RESTRICTION REGARDING U.S.A.
+## IDENA NIPA TI U.S.A.
 
-In view of confusion in the current regulatory environment, Volentix does not anticipate soliciting or accepting purchases by United States persons. We anticipate vetting users by requiring rigorous identity verification for purposes of KYC/AML predicates.
+Nitori ti iruju ninu agbegbe idari ti o wa lọwọlọwọ yii, Volentix ko fojusọna fun bibeere tabi gbigba awọn rira lati ọdọ awọn ara Amẹrika. A fojusọna fun sise agbeyẹwo awọn olumulo nipa bibeere fun idaniloju idanimọ to jinlẹ fun awọn ilo ti ipo KYC/AML.

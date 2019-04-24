@@ -367,7 +367,7 @@ AWỌN ASAAYAN OLUMULO
 * Safihan gbogbo awọn aroko, tó kàngun si orukọ ati aami ti ipele ipo ti Vespucci.
 * Ṣatunto eto ipele ipo nipa yiyan awọn ilana Vespucci ti nṣiṣe lọwọ.
 * Ṣeto eto ipele ipo nipa yiyan eyi to ṣe pataki julọ ninu awọn ilana ipilẹ naa ati ṣiṣe atunto awọn iwọn.
-* Be informed separately about the effect of the basic parameters via diagrams and gain a deeper picture of those that shape the fluctuation of the value of each currency.
+* Da mọ ni iyatọ nipa ipa ti awọn ilana ipilẹ nipasẹ awọn aworan ni ati ki o ni aworan to jinlẹ ti awọn ti o n ṣe irisi aidurolojukan ti iye owo ti owo kọọkan.
 * Ṣẹ akojọ ti awọn owo kiripito ni ibamu si oṣuwọn hash ati awọn igba ti isẹlẹ nṣiṣẹ lori ọja naa.
 * Wo awọn ẹya ara owo kiripito ni kikun.
 
@@ -379,7 +379,7 @@ A ti ṣọrọ nipa awọn ọna pataki mẹta ti ẹka-eto ti Iyanana Awọn �
 
 Awọn abajade ti gbogbo awọn ẹya ara mẹtẹta pẹlu awọn isipopada iye owo ti o wa ni ibaamu (idiyele ti o wa ni idakeji si ewu) fun oriṣiriṣi awọn feremu ti o jasi ipele ipo ti awọn owo kiripito naa ati awọn aami ni ọna gbogbogbo pipe julọ ti ko ti sẹlẹ ri. Eyi wa pẹlu Igbẹhin-isaayan fun awọn eniyan.
 
-Nipa ifaagunsi, Vespucci paapaa julọ wulo fun awọn aami ti o da lori Ethereum. Eyi n soju fun ọpọlọpọ awọn aami iṣowo ti o wuni julọ loni, ṣugbọn ọpọlọpọ awọn eto adehun ajafafa tuntun ti n jẹ gbigbedide pẹlu awọn ẹro aifojuri ti ara wọn gangan ati awọn akoko aseyọri iṣẹ. Modulu yii le ṣee ri gẹgẹbi pàtó apẹẹrẹ kan ti nọmba ti iru awọn modulu bẹẹ miiran eyiti o le ṣe gbedide fun awọn eto adehun ajafafa ọjọ iwaju. In particular, systems are likely to appear that expose a semantics especially amenable to formal verification, at which point Vespucci will be extended with new modules resembling this one for each new smart contract system that supports a range of valuable tokens. Lẹhin igba diẹ, ati pẹlu ifẹsẹmulẹ awọn opo to se pataki, eto naa jẹ fifojusun lati tun peṣe asọtẹlẹ idiyele.
+Nipa ifaagunsi, Vespucci paapaa julọ wulo fun awọn aami ti o da lori Ethereum. Eyi n soju fun ọpọlọpọ awọn aami iṣowo ti o wuni julọ loni, ṣugbọn ọpọlọpọ awọn eto adehun ajafafa tuntun ti n jẹ gbigbedide pẹlu awọn ẹro aifojuri ti ara wọn gangan ati awọn akoko aseyọri iṣẹ. Modulu yii le ṣee ri gẹgẹbi pàtó apẹẹrẹ kan ti nọmba ti iru awọn modulu bẹẹ miiran eyiti o le ṣe gbedide fun awọn eto adehun ajafafa ọjọ iwaju. Ni pato, awọn eto le farahan bi eyi to n ṣafihan awọn itumọ kan ti o ṣe pataki fun imudaniloju alaigbẹfẹ, ni ipo eyiti Vespucci yoo gba afikun pẹlu awọn modulu tuntun to farajọ eyi fun ọkọọkan awọn eto adehun ajafafa tuntun ti o n ṣe atilẹyin fun orisirisi awọn aami to niyelori. Lẹhin igba diẹ, ati pẹlu ifẹsẹmulẹ awọn opo to se pataki, eto naa jẹ fifojusun lati tun peṣe asọtẹlẹ idiyele.
 
 **Ẹkọ kikọ to jinlẹ ati AI** jẹ imọ ẹrọ to lagbara ti o wa labẹ agbedide kiakia loni atipe o le jẹ mimulo ni awọn ẹya ara ti eto Vespucci miiran yatọ sii ipele ikẹhin ti o n se abajade ti isiro gbogbogbo. Ni isalẹ yii ni iyaworan ti ipilẹ nẹtiwọki neural pẹlu ipele kan ti o farasin. Awọn nẹtiwọki ti o jinlẹ loni ni ọpọlọpọ iru awọn ipele wọnyii, eyi ti a ma samulo agbara wọn. Awọn nẹtiwọki neural n "kọ" awọn iwọn ti o tọ nipasẹ back-propagation. Ibeere pataki kan nitorina jẹ ti ipele ikẹkọ nibi ti awọn itan data lori awọn owo kiripito, ti o ni akọle ti o tọ, yoo ti jẹ mimulo. Isoro kan ni pe data ti o wa nilẹ ni opin atipe awọn akọle rẹ le nilo tito: eto data ti o jẹ ṣiṣẹda yoo di wiwọle si onigbangba gẹgẹbi iranlọwọ si awujọ.
 
@@ -393,19 +393,19 @@ Awọn **ọpa ti Vespucci**, bi o ṣe jẹ fifihan ninu akawe ti o wa ni isal�
 * Awọn oju ipade ti VM oniyanana naa yoo bẹẹrẹ iṣẹ atipe awọn data tuntun ti o jẹ gbigba ma jẹ yiyanana (Iwoyesi, Idiju ati Awọn ohun elo & Iyanana awọn ọja) nipasẹ awọn oju ipade ti Oniyanana Vespucci. Awọn abajade naa wa ni ipamọ ni ibi ipamọ data.
 * Níkẹyìn, UI naa n jẹ sisọdọtun ni atigbadegba, n mu ki iwoye ti ọwọlọwọ yii kun daadaa lati ni awọn abajade iyanana tuntun.
 
-Lati ṣe iṣakoso ni kikun ti awọn iṣupọ kọmputa wa ti o ni awọn oju ipade ti gbigbọ ati iyanana, a n pese pilatifọọmu kan ti o n ṣe atilẹyin eyikeyi ti iru iyaworan ẹya ara (irinsẹ ti o wulo nibi ni Kubernetes ni kete ti a ba lo awọn apoti Docker). A yoo pese API naa, ṣugbọn ipinnu awọn alaye imuṣiṣẹ ma jẹ ṣiṣe nipasẹ awọn olugbedide. Lati pese awọn apẹẹrẹ ti o le koko, awọn ilana fun ibi ipamọ ti o jẹ pinpin ati iṣaayan awọn data nla jẹ didaro, gẹgẹbi Apache Hadoop (tabi Cassandra). Hadoop is a collection of open-source software utilities that facilitate using a network of computers to solve problems involving massive amounts of data and computation, handling automatically the hardware failures. Other frameworks may be considered such as Apache Spark, which is a cluster-computing batch processing framework, with the ability to write applications in multiple languages (Java, Scala, Python, R). Alternatives include Apache Samza, which offers a near-realtime asynchronous framework for distributed stream processing, or Apache Flink, a hybrid framework for stream processes and batch tasks.
+Lati ṣe iṣakoso ni kikun ti awọn iṣupọ kọmputa wa ti o ni awọn oju ipade ti gbigbọ ati iyanana, a n pese pilatifọọmu kan ti o n ṣe atilẹyin eyikeyi ti iru iyaworan ẹya ara (irinsẹ ti o wulo nibi ni Kubernetes ni kete ti a ba lo awọn apoti Docker). A yoo pese API naa, ṣugbọn ipinnu awọn alaye imuṣiṣẹ ma jẹ ṣiṣe nipasẹ awọn olugbedide. Lati pese awọn apẹẹrẹ ti o le koko, awọn ilana fun ibi ipamọ ti o jẹ pinpin ati iṣaayan awọn data nla jẹ didaro, gẹgẹbi Apache Hadoop (tabi Cassandra). Hadoop jẹ àkójọpọ awọn ohun amulo ti software orisun gbangba ti o n mu irọrun ba lilo nẹtiwọki ti awọn kọmputa lati yanju awọn iṣoro ti o niise pẹlu awọn iye data ti o tobi ati iṣeṣiro, ṣiṣe abojuto alatinuwa fun awọn ikuna hardware naa. Awọn ilana miiran le jẹ didaro gẹgẹbi Apache Spark, eyi ti o jẹ ilana isaayan ipele iṣeṣiro-oniṣupọ, pẹlu agbara lati kọ awọn ohun elo ni awọn ede pupọ (Java, Scala, Python, R). Awọn miiran ni Apache Samza, eyi ti o pese ilana ti alailo aago ti o fẹrẹ jẹ bosenlọ fun iṣaayan isan data to jẹ pinpin, tabi Apache Flink, ilana aranbara fun awọn iṣaayan isan data ati awọn iṣẹ onipele.
 
 ![](https://volentix.io/file/2019/01/Web-1920-–-3@2x.png)
 
-The **implementation** of the Vespucci analysis tools is in Python using various data analytics libraries, wrappers for the different APIs, and libraries for machine learning. The libraries to be used are some of the following:
+**Imuṣiṣẹ** ti awọn irinṣẹ iyanana ti Vespucci wa ninu Python nipa lilo orisirisi awọn ile ikowesi iyanana data, awọn ideri fun oriṣiriṣi awọn API, ati awọn ile ikowesi fun ẹkọ ẹrọ. Awọn ile ikowesi to ma jẹ lilo ni diẹ ninu awọn wọnyii:
 
-* NumPy, Pandas, Seaborn, matplotlib for the analysis part.
-* Scikit-learn, TensorFlow for machine learning.
-* NLTK, Tweepy, VADER, TextBlob for twitter sentiment analysis.
+* NumPy, Pandas, Seaborn, matplotlib fun abala ti iyanana naa.
+* Scikit-learn, TensorFlow fun ẹkọ ẹrọ.
+* NLTK, Tweepy, VADER, TextBlob fun iyanana iwoyesi ti twitter.
 * pyodbc lati sopọ pẹlu ibi ipamọ data wa.
-* Blockchair.com API and coinmarketcap, a wrapper around the coinmarketcap.com API, to obtain information about each coin, such as the market cap ranking, and to update them easily
+* Blockchair.com API ati coinmarketcap, ideri kan ti o yi API coinmarketcap.com ka, lati gba alaye nipa owo kọọkan, gẹgẹbi awọn ipo iye owo-iṣowo, ati lati ṣe imudojuiwọn wọn ni irọrun
 
-Initially, most of those processes run on Linux Virtual Machines and results are kept in SQL databases. In case of insufficiency, a serverless frameworks shall be considered. In the immediate future powerful servers with GPUs are designed to perform efficiently all of our analysis (Kubernetes may be relevant here, assuming Docker containers).
+Ni ibẹrẹ, pupọ ninu awọn ilana naa n ṣiṣẹ lori Linux Virtual Machines ti awọn esi n wa ni ipamọ ni awọn ibi ipamọ data ti SQL. Bi o ba ṣẹlẹ pe aito waye, awọn ilana alainisakoso ma jẹ didaro. Ni ọjọ iwaju ti o n bọ laipẹ awọn isakoso alagbara ti o ni awọn GPU n jẹ didalara lati ṣe gbogbo awọn iyanana wa daradara (Kubernetes le wulo nibi, pẹlu ero awọn apoti Docker).
 
 Fun Iyanana Iwoyesi, ati o ṣee ṣe awọn modulu miiran pẹlu, eto **node.js** kan jẹ lilo, botilẹ jẹpe awọn imusisẹ miiran le jẹ fifirọpo ni irọrun. Awọn alaye kikun n jẹ gbigba silẹ, atipe o n jẹ gbigba ni lemọlemọ, fifi pamọ sibi ti o duro sojukan jẹ ohun inilo fun ẹya ikẹhin ti Vespucci. MongoDB le ṣee lo nipa awọn modulu miiran naa ninu eto naa lati ka ati kọ iru alaye bẹẹ. MongoDB jẹ ibi ipamọ data to gbilẹ ti awọn nkan to jẹmọ iwe ti o wulo nimu titọju alaye to ni eto, gẹgẹbi idi ti awọn data ti o wa ninu eto Vespucci. Ọna miiran le jẹ CockroachDB.
 
@@ -417,13 +417,13 @@ Awọn ilana ifipamọ le gbarale awọn iwe Ibeere alaisilori-ila ti o jẹ gbi
 
 ![](https://volentix.io/file/2019/01/Web-1920-–-2@3x.png)
 
-Atẹ isẹlẹ iṣẹ akanṣe naa jẹ fifihan ninu akawe ti o wa loke. The main milestones are:  
+Atẹ isẹlẹ iṣẹ akanṣe naa jẹ fifihan ninu akawe ti o wa loke. Awọn koko aṣeyọri jẹ:  
 — Vespucci MVP. Oṣù Kọkànlá 2018 .  
 — Vespucci, ẹya 1.0\. Osu kẹrin 2019.
 
 ### **AWỌN IMỌRIRI**
 
-This text is based on NH’s original vision docs and AA’s update on them.
+Ọrọ yii da lori ojulowo awọn iwe iwoye ti NH ati imudojuiwọn ti AA lori wọn.
 
 ### **AWỌN ITỌKASI**
 
@@ -433,11 +433,11 @@ This text is based on NH’s original vision docs and AA’s update on them.
 
 [3] A. Severyn et al. Twitter Sentiment Analysis with Deep Convolutional Neural Networks, International ACM SIGIR Conference on Research and Development in Information Retrieval:959-962 (2015)
 
-[4] C.J. & Gilbert et al. VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text. International Conference on Weblogs and Social Media (ICWSM-14) 8 (2014)
+[4] C.J. & Gilbert et al. VADER: Awose Ilana to dalori Ahun-sise fun Iyanana Iwoyesi ti Ọrọ Ikanni Ajọlo. International Conference on Weblogs and Social Media (ICWSM-14) 8 (2014)
 
 [5] Bird et al. Natural Language Processing with Python, O’Reilly Media Inc. (2009)
 
-[6] E. Stenqvist et al. Predicting Bitcoin price fluctuation with Twitter sentiment analysis. MSc Thesis. School of Computer Science and Communication, KTH Royal Institute of Technology, Stockholm, Sweden (2017)
+[6] E. Stenqvist et al. Sise asọtẹlẹ aidurolojukan owo Bitcoin pẹlu iyanana iwoyesi Twitter. Iwe iwadi MSc. School of Computer Science and Communication, KTH Royal Institute of Technology, Stockholm, Sweden (2017)
 
 [7] H. Kakavand, N. Kost De Sevres, and B. Chilton, The Blockchain Revolution: An Analysis of Regulation and Technology Related to Distributed Ledger Technologies. SSRN Electronic Journal. 10.2139/ ssrn.2849251 (2017)
 

@@ -20,7 +20,7 @@ Volentix מציג בתוכו את VDex, המשמש כ"חלפן כספים" למ�
 
 Venue היא פלטפורמה דינאמית לקהילה, שמגייסת ומארגנת את חברי קהילתה בכדי להקל על ביזור הVTX- הנכס הדיגיטלי המקומי של Volentix, ועל מנת לעלות מודעות בנוגע ליוזמות Volentix.
 
-לאחרונה הושקה בגירסת הבטא, Venue מאפשרת למשתמשים לקבל VTX בתמורה להשתתפות בפיתוח קהילתי, הגשת תיקונים לבאגים, וקבלת תגמולים. לוח תוצאות ומדדים חיים משקפים את השתתפות המשתמש. The first signature campaign was launched on the https://bitcointalk.org/ forum on July 13, 2018. אנא בקר/י ב https://venue.volentix.io למידע נוסף.
+לאחרונה הושקה בגירסת הבטא, Venue מאפשרת למשתמשים לקבל VTX בתמורה להשתתפות בפיתוח קהילתי, הגשת תיקונים לבאגים, וקבלת תגמולים. לוח תוצאות ומדדים חיים משקפים את השתתפות המשתמש. הקמפיין הראשוני הושק בפורום ה https://bitcointalk.org/ ביולי ה13, 2018. אנא בקר/י ב https://venue.volentix.io למידע נוסף.
 
 ### 2.2 VERTO
 
@@ -44,7 +44,7 @@ Vespucci משמש כמנוע לניתוח נתונים, נגיש באמצעות 
 
 ### פעולות תוכן חינמיות
 
-רב הטכניקות המדרגיות המוצעות על ידי אתריום - Ethereum (Sharding, Raiden, Plasma, State channels) נהיים יותר ויותר יעילים, מקבילים, ומעשיים תוך כדי הבטחת מהירות התקשורת בין בלוקצ'יינים ומניעת פגיעה במדרגיות. פעולת תוכן חינמית משלבת חישובים המסתמכים אך ורק על נתוני ההעברות, ולא על מעמד הבלוקצ'יין.
+רב הטכניקות המדרגיות המוצעות על ידי אתריום - Ethereum (Sharding, Raiden, Plasma, State channels) נהיות יותר יעילות, מקבילות ומעשיות תוך כדי הבטחת מהירות התקשורת בין בלוקצ'יינים ומניעת פגיעה במדרגיות. פעולת תוכן חינמית משלבת חישובים המסתמכים אך ורק על נתוני ההעברות, ולא על מעמד הבלוקצ'יין.
 
 ### המרה בינארית/JSON
 
@@ -54,17 +54,17 @@ Vespucci משמש כמנוע לניתוח נתונים, נגיש באמצעות 
 
 הפרדת האימות מהיישום מאפשרת העברה יותר מהירה ומגדילה את רוחב הפס. בלוקים של EOS.IO מיוצרים כל 500ms, על פי דיווחים.
 
-### Web Assembly(WASM)
+### (Web assembly (WASM
 
 Web Assembly מאפשר ביצועים גבוהים של יישומים רשתיים ומאבטח כל יישום בSandbox משלו, אשר דרך פונקציות אלו VDex יכול לקבל גישה רשתית, מגבלות בשמות ובקבצים של המערכת, ואכיפת הוצאות לפועל המבוססות על כללים.
 
 ### חוזים של ++Rust/C
 
-נמצא כי שפת התכנות הידועה והפופולארית ''++C'' מותאמת עבור WASM. ל''++C '' תמיכת איתור באגים מאוד בשלה, וספריות. קוד הבסיס של EOS משתמש בתבניות באופן ליבראלי, ו++C מאפשר את השימוש בתבניות ועומס יתר מנהלי על מנת להגדיר זמן ריצה ללא עלות, על האימות של יחידות. התוכנית מאתחלת מחדש למצב נקי בתחילתה של כל הודעה, יתרון משמעותי שמייעל את הניסוח של חוזים חכמים. מסגרת הWebAssembly דוחה באופן אוטומטי כל עסקה המביעה זיכרון בדרך לא מדויקת. במקרה והכרחי להקצות זיכרון דינאמי, משתמשים יכולים לעזוב אל מצביעים חכמים כיוון שחוזי EOS.IO משתמשים ב C++14. זה ראוי לציין כי היישום הראשון בטכנולוגיית הגרף המיוכל (DAG) של PARSEC צפוי להיות בRust.
+נמצא כי שפת התכנות הידועה והפופולארית ''++C'' מותאמת עבור WASM. ל''++C'' ישנן ספריות ותמיכת איתור באגים עתורת ניסיון. קוד הבסיס של EOS משתמש בתבניות באופן ליבראלי, ו++C מאפשר את השימוש בתבניות ועומס יתר מנהלי על מנת להגדיר זמן ריצה ללא עלות, על האימות של יחידות. התוכנית מאתחלת מחדש למצב נקי בתחילתה של כל הודעה, יתרון משמעותי שמייעל את הניסוח של חוזים חכמים. מסגרת הWebAssembly דוחה באופן אוטומטי כל עסקה שפונה אל הזיכרון באופן לא מדוייק. במקרה והכרחי להקצות זיכרון דינאמי, משתמשים יכולים לעבור אל מצביעים חכמים כיוון שחוזי EOS.IO משתמשים ב C++14. זה ראוי לציין כי היישום הראשון בטכנולוגיית הגרף המיוכל (DAG) של PARSEC צפוי להיות בRust.
 
 #### 3.0.2 הודעות מוגדרות בסכימה ומאגר נתונים
 
-חוזי שירות מתוקננים על מנת לספק מידה בסיסית של יכולת פעולה הדדית בין מערכות שונות על-ידי הרמון מודלים של נתונים. אכן, עיקרון השירות של עיצוב חוזים סטנדרטיים תומך בביסוס חוזי שירות על מודלים סטנדרטיים של נתונים. Analysis is done on the service inventory blueprint to find out the commonly occurring business documents that are exchanged between services. מסמכים עסקיים אלו מעוצבים בצורה סטנדרטית. תבנית הסכימה הקנונית מפחיתה את הצורך ביישום הטרנספורמציה בדפוסי עיצוב של מודלי נתונים. [3]
+חוזי שירות מתוקננים על מנת לספק מידה בסיסית של יכולת פעולה הדדית בין מערכות שונות על-ידי הרמון מודלים של נתונים. אכן, עיקרון השירות של עיצוב חוזים סטנדרטיים תומך בביסוס חוזי שירות על מודלים סטנדרטיים של נתונים. ניתוח הנתונים נעשה בתוכנית שרות המלאי, על מנת לגלות את המסמכים העסקיים הנפוצים שאיתם מתבצעות החלפות בין שירותים שונים. מסמכים עסקיים אלו מעוצבים בצורה סטנדרטית. תבנית הסכימה הקנונית מפחיתה את הצורך ביישום הטרנספורמציה בדפוסי עיצוב של מודלי נתונים. [3]
 
 #### 3.0.3 תקשורת בין חוזים
 
@@ -72,61 +72,61 @@ Web Assembly מאפשר ביצועים גבוהים של יישומים רשתי
 
 #### 3.0.4 שרשורי צד
 
-ב- EOS.IO, הנפקה של נכס דיגיטלי יוצרת שרשרת צד, דבר זה הוא מנגנון המתיר שימוש מאובטח של נכסים דיגיטליים מבלוקצ'יין אחד לאחר, ומאפשר את חזרתם לבלוקצ'יין המקורי. יעילות העיבוד מקודמת על-ידי יצירת שרשראות-צד מרובות. ערוץ תקשורת דמוי-TCP בין בלוקצ'יינים שונים מעריך הוכחות. For each shard (a unit of parallelizable execution in a cycle), a balanced merkle tree is constructed of these action commitments to generate a temporary shared merkle root; this is done for speed of parallel computation. The block header contains the root of a balanced merkle tree the leaves of which are the roots of these individual shard merkle trees. [2]
+ב- EOS.IO, הנפקה של נכס דיגיטלי יוצרת שרשרת צד, דבר זה הוא מנגנון המתיר שימוש מאובטח של נכסים דיגיטליים מבלוקצ'יין אחד לאחר, ומאפשר את חזרתם לבלוקצ'יין המקורי. יעילות העיבוד מקודמת על-ידי יצירת שרשראות-צד מרובות. ערוץ תקשורת דמוי-TCP בין בלוקצ'יינים שונים המבצע אומדן הוכחות. For each shard (a unit of parallelizable execution in a cycle), a balanced merkle tree is constructed of these action commitments to generate a temporary shared merkle root; this is done for speed of parallel computation. The block header contains the root of a balanced merkle tree the leaves of which are the roots of these individual shard merkle trees. [2]
 
 #### 3.0.5 הנזלה
 
-ניתן להנזיל נכס דיגיטלי אם הוא נמכר בקלות או נרכש בשיטות מסחר רגילות ללא השפעה משמעותית לטווח קצר על מחיר השוק השורר. In order to achieve such a status, traditionally any tradable asset must surmount a trading volume threshold sufficient to support stability. Specifically, we anticipate adopting the following methodologies: Loopring protocol with the use of EOS.IO contracts acting as nodes.[5] Bancor algorithm used to bring stability to the digital asset.[6] Toggles between these protocols and HTLC (atomic swaps) according to Vespucci analyses on the VDex network.
+ניתן להנזיל נכס דיגיטלי אם הוא נמכר בקלות או נרכש בשיטות מסחר רגילות ללא השפעה משמעותית לטווח קצר על מחיר השוק. על מנת להגיע למעמד סטטוס שכזה, באופן מסורתי, כל נכס סחיר חייב לעלות מעל לסף נפח המסחר בכדי להשיג יציבות. Specifically, we anticipate adopting the following methodologies: Loopring protocol with the use of EOS.IO contracts acting as nodes.[5] Bancor algorithm used to bring stability to the digital asset.[6] Toggles between these protocols and HTLC (atomic swaps) according to Vespucci analyses on the VDex network.
 
-#### 3.0.6 Hashed Timelock Contracts (Atomic Swaps)
+#### 3.0.6 חוזי זמן נעולים (החלפות אטומיות)
 
-A Hashed Timelock Contract (HTLC)[1] is a smart contract enabling the implementation of time-bound transactions. Users will be offered a variable lock-in period for their transactions, with a discount on transaction fees in exchange for choosing a longer lock-in period.
+חוזה זמן נעול (HTLC)[1] חוזה חכם (סוג של תשלום בו שני משתמשים מסכימים להסדר כספי, שם צד אחד ישלם לצד השני כמות מסוימת של מטבע מבוזר), המאפשר את יישומן של העברות מוגבלות-זמן (העברות ''נעולות זמן'', בהן הצד המקבל מותנה בכמות מסוימת של זמן עד לאישור התשלום, למקרה ותהיה חריגה מהזמן המוקצה, הכסף יוחזר לשולח). למשתמשים תוצע תקופת נעילה משתנה בעבור העברותיהם, עם הנחה על עלויות ההעברות בתמורה לבחירה בתקופת נעילה ארוכה יותר.
 
-### 3.1 NETWORK TOPOLOGY
+### 3.1 טופולוגיית רשת
 
-#### 3.1.1 Nodes
+#### 3.1.1 צמתי רשת
 
 ![](../9.jpg)
 
-Nodes are the endpoints of the VDex exchange. Their functions are:
+צמתי רשת הינם נקודות הקצה של '' חלפן הכספים VDex ''. התפקידים שלהם:
 
-1. Act as portals to VDex through the Verto wallet.
+1. משמשים כקישור לVDex דרך ארנק הVerto.
 
-2. Merge order book information.
+2. איסוף מידע בספר ההזמנות.
 
-3. Settle order book.
+3. ארגון ספר הזמנות.
 
-4. Manage order cancellation.
+4. ניהול ביטולי הזמנות.
 
-5. Assign timeouts for the RAFT protocol.
+5. מקצים פסקי-זמן בעבור פרוטקול הRAFT.
 
-6. Initiate contracts for orders that have been filled.
+6. מיישמים חוזים למען הזמנות שמולאו.
 
-Nodes earn a portion of the fee for each transaction. If a user has sufficient funds and possesses a good track record, his or her Verto wallet can act as a node.
+צמתי רשת מרוויחים חלק מדמי האגרה בעבור כל העברה. אם המשתמש/ת מחזיק/ה בכמות הכספים הנדרשת, וברשותו/ה רישומים אמינים המעידים על כך, ארנק ה Verto שלו/ה יכול לשמש כצומת רשתי.
 
-#### 3.1.2 Aggregators
+#### 3.1.2 צוברים
 
-The VDex aggregators are dedicated Volentix servers for simulator and security purposes. One of their functions is to pull logs and order book data from nodes into sparse distributed representations for hierarchical temporal memory as intrusion [7] analysis for detecting anomalies in the system. The aggregators will also be host to other components such as metachain ledgers and blockchain scrapers.
+צוברי הVDex הם שרתים של Volentix המיועדים עבור מטרות אבטחה והדמיה. One of their functions is to pull logs and order book data from nodes into sparse distributed representations for hierarchical temporal memory as intrusion [7] analysis for detecting anomalies in the system. הצוברים כמו כן יארחו רכיבים אחרים כגון לדג'רים ב''metachain'' ומגרדי הבלוקצ'יין.
 
-#### 3.1.3 Latency
+#### 3.1.3 השהיה
 
-EOS.IO has low latency block confirmation (0.5 seconds).[5] This degree of latency can be maintained in transactions with other blockchains if those chains admit of similar latency. But fundamentally the transaction is only as rapid as the lesser-rapid chain in the equation. It is well known, for example, that a Bitcoin block requires approximately ten minutes for processing. Receiving a transaction hash does not mean the transaction is confirmed; it means only that a node accepted the transaction without error, although there is generally a high probability other block producers will accept it.
+לEOS.IO השהיה קצרה בעת אישור הבלוק (0.5 שניות).[5] רמה זו של השהיה יכולה להישמר בעסקאות עם בלוקצ'יינים אחרים, כל עוד זמן ההשהיה דומה ביניהם. כעיקרון החליפין פועל אך ורק באותה מהירות כשם השרשרת בתוך המשוואה. ידוע, כי למשל, לבלוק של ביטקוין נדרש כעשר דקות לעבד. קבלה של עסקה נעולה אינו אומר שהעסקה מאושרת; זה מוודא כי צומת רשתי אישר את העסקה ללא תקלה, אף על פי שיש סיכוי גבוה לאישורם של מנפיקי בלוקים אחרים.
 
-### 3.2 ORDER BOOK
+### 3.2 ספר הזמנות
 
-The order book is the list of buy-and-sell orders VDex records from interested users. A matching engine uses an order book to determine which orders can be fulfilled. The Loopring protocol allows for customizing the order book data structure.[5] Containers provided by EOS.IO can be used for optimal performance.[8]
+ספר ההזמנות הינו רשימה של כל הזמנות הקניה ומכירה מרשומות הVDex של משתמשים מעוניינים. מנוע ההתאמה משתמש בספר ההזמנות על מנת לקבוע אילו הזמנות ימולאו. פרוטוקול הלופרינג (Loopring) מאפשר עיצוב אישי של מבנה נתוני המידע בספר ההזמנות.[5] מיכלים שסופקו על-ידי EOS.IO יכולים לשמש בעבור ביצוע מיטבי.[8]
 
-#### 3.2.1 Data structures
+#### 3.2.1 מבנה נתוני
 
-Using the Loopring Protocol FIFO (first-in first-out) circular buffer, nodes can design their order books to display and match a user’s order. This method follows an OTC model, where limit orders are positioned based on price only.[5]
+Using the Loopring Protocol FIFO (first-in first-out) circular buffer, nodes can design their order books to display and match a user’s order. שיטה זו הולכת אחרי מודול OTC, שם מגבלות ההזמנות מוגדרות בהתבסס על מחיר בלבד.[5]
 
 Referencing the EOS.IO persistence API, the order book is able to take advantage of the powerful multi-index container shared among nodes through the same EOS.IO account.
 
-#### 3.2.2 On-Chain order book
+#### 3.2.2 ספר הזמנות על-שרשורי
 
-An on-chain order book is a record of offers residing on the wallet (node) chosen to settle the order book. It resides in a persistent database on each node subscribing to the same account as all the other nodes.
+ספר הזמנות על-שרשורי הוא רשימה תיעודית של כל הצעה המתגוררת בארנק (צומת רשתי) הנבחר לבסס את ספר ההזמנות הכללי. הוא שוכן במאגר נתונים תמידי, על גבי כל צומת רשתי שמנוי לאותו חשבון כשם צמתי הרשת האחרים.
 
-#### 3.2.3 Off-Chain order book
+#### 3.2.3 ספר הזמנות תחת-שרשורי
 
 Residing on the aggregator, offline order books serve for simulator and security purposes.
 

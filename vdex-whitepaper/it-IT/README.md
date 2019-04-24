@@ -110,39 +110,39 @@ Gli aggregatori di VDex sono server dedicati di Volentix che hanno come scopo la
 
 #### 3.1.3 Latenza
 
-EOS.IO ha una latenza bassa per la conferma dei blocchi (0.5 secondi). [5] Questo grado di latenza può essere mantenuto nelle transazioni con altre blockchain se queste chain hanno una latenza simile. Ma sostanzialmente la transazione è rapida solo come la catena meno rapida dell'equazione. Per esempio, è risaputo, che un blocco Bitcoin necessita circa 10 minuti per l'elaborazione. Ricevere il hash di una transazione non significa che la transazione è stata confermata; significa soltanto che un nodo ha accettato la transazione senza alcun errore, anche se in genere c'è un alta probabilità che anche altri produttori di blocchi la accetteranno.
+EOS.IO ha una latenza bassa per la conferma dei blocchi (0.5 secondi). [5] Questo grado di latenza può essere mantenuto nelle transazioni con altre blockchain se queste chain hanno una latenza simile. Ma sostanzialmente la transazione è rapida solo come la catena meno rapida dell'equazione. Per esempio, è risaputo, che un blocco Bitcoin necessita circa 10 minuti per l'elaborazione. Ricevere l'hash di una transazione non significa che la transazione è stata confermata; significa soltanto che un nodo ha accettato la transazione senza alcun errore, anche se in genere c'è un alta probabilità che anche altri produttori di blocchi la accetteranno.
 
 ### 3.2 REGISTRO ORDINI
 
-Il registro ordini è la lista degli ordini di acquisto e vendita che VDex registra dagli utenti interessati. Un motore corrispondente utilizza un registro ordini per determinare quali ordini possono essere coperti. Il protocollo Loopring permette la personalizzazione della struttura del registro ordini. [5] Per prestazioni ottimali, si possono utilizzare i container forniti da EOS.IO. [8]
+Il registro ordini è la lista degli ordini di acquisto e vendita che VDex registra dagli utenti interessati. Un matching engine utilizza un registro ordini per determinare quali ordini possono essere sodisfatti. Il protocollo Loopring permette la personalizzazione della struttura del registro ordini.[5] Per prestazioni ottimali, si possono utilizzare i container forniti da EOS.IO.[8]
 
-#### 3.2.1 Strutture dati
+#### 3.2.1 Strutture di dati
 
 Utilizzando il buffer circolare FIFO (primo ad entrare primo ad uscire) del Protocollo Loopring, i nodi possono progettare i loro registri degli ordini per mostrare e soddisfare l'ordine di un utente. Questo metodo segue un modello OTC, dove i limit order vengono posizionati solo in base al prezzo.[5]
 
-Facendo riferimento alla persistence API di EOS.IO, il registro ordini può trarre vantaggio dal potente container multi-index condiviso tra i nodi tramite lo stesso account EOS.IO.
+Facendo riferimento alla persistence API di EOS.IO, il registro ordini può trarre vantaggio dal potente container multi-index condiviso tra i nodi nello stesso account EOS.IO.
 
 #### 3.2.2 Registro ordini On-Chain
 
-Un registro ordini on-chain è un registro di offerte che risiedono nel wallet (nodo) scelto per impostare il registro ordini. Questo si trova in un database persistente su ogni nodo che si iscrive allo stesso account degli altri nodi.
+Un registro ordini on-chain è un registro di offerte che risiedono nel wallet (nodo) scelto per impostare il registro ordini. Questo si trova in un database persistente su ogni nodo che si iscrive allo stesso account come tutti gli altri nodi.
 
 #### 3.2.3 Registro ordini Off-Chain
 
 Risiedenti sull'aggregatore, i registri ordini offline hanno come scopo la sicurezza e le simulazioni.
 
-#### 3.2.4 Processo di decentralizzazione per l'impostazione del registro ordini
+#### 3.2.4 Processo di decentralizzazione dell'impostazione del registro ordini
 
 Ai fini della decentralizzazione, I nodi faranno a turno per impostare il registro ordini. The settling node must be designated by the protocol and all order book entries from all nodes must be available to the settling nodes. Secondo noi i meccanismi di consenso RAFT[9] e PARSEC[10] offrono soluzioni efficaci. RAFT è un algoritmo ben consolidato ed è facile da implementare.[7] PARSEC è più recente ed efficace, utilizza la tecnologia Directed Acyclic Graph (DAG) ed elimina la necessità di copiare i log.
 
 ### 3.3 IMPOSTAZIONE ORDINE
 
-Il regolamento degli ordini contiene elementi noti delle operazioni tradizionali del mercato finanziario. Utilizing FIFO technology to design the order book, VDex intends to check order, inventory, and fill rate, as well as limit orders and cancellations. ![](../7.jpg)
+L'impostazione degli ordini contiene elementi noti delle operazioni tradizionali del mercato finanziario. Utilizing FIFO technology to design the order book, VDex intends to check order, inventory, and fill rate, as well as limit orders and cancellations. ![](../7.jpg)
 
 ### 3.4 VTX
 
 #### 3.4.1 VTX Issuance and Use
 
-VTX è l'asset digitale nativo da emettere e utilizzare sull'exchange decentralizzato di VDex. Attualmente abbiamo intenzione di utilizzare un contratto eosio.token del framework EOS.IO per emettere 2.1 miliardi di token VTX compatibili con EOS.IO con una fornitura di 1.3 miliardi. VTX avrà un'ampia gamma di utilizzi, ad esempio:
+VTX è l'asset digitale nativo da emettere e utilizzare sull'exchange decentralizzato VDex. Attualmente abbiamo intenzione di utilizzare un contratto eosio.token del framework EOS.IO per emettere 2.1 miliardi di token VTX compatibili con EOS.IO con una supply di 1.3 miliardi. VTX avrà un'ampia gamma di utilizzi, ad esempio:
 
 Per ricompensare i partecipanti nel processo del consenso e nelle campagne Venue.
 
@@ -152,15 +152,15 @@ Per presentare e votare le proposte per l'ecosistema Volentix, utilizzando i dir
 
 Per offrire sostegno per la revisione delle proposte e per attuare progetti.
 
-Per incentivare gli utenti a partecipare nell'impostazione del libro d'ordine diventando nodi attraverso i loro wallet Verto.
+Per incentivare gli utenti a partecipare nell'impostazione del registro degli ordini assumendo la funzione di nodi attraverso i loro wallet Verto.
 
 Per incentivare gli utenti a bloccare i loro fondi per più di 24 ore per le transazioni HTLC con scadenza.
 
-#### 3.4.2 Stanziamento VTX
+#### 3.4.2 VTX Allocation
 
 ![](../6.jpg)
 
-Un ecosistema di asset digitali richiede una insieme di componenti umani fondamentali che portino avanti il progetto. [11] È essenziale ricompensare questi individui per la loro partecipazione. Oggetto di aggiustamenti, al momento Volentix prevede i seguenti stanziamenti:
+Un ecosistema di asset digitali richiede una insieme di componenti umane fondamentali che portino avanti il progetto.[11] È essenziale per compensare questi individui per la loro partecipazione. Oggetto di aggiustamenti, al momento Volentix prevede i seguenti stanziamenti:
 
 1. Collaboratori. 12%. Un insieme di individui, simili ai fondatori, che contribuiscono con idee, tempo e talento, anche se spesso lavorano senza una compensazione anticipata.
 
@@ -176,7 +176,7 @@ Fase 1. 10%.
 
 Fase 2. 10%.
 
-4. Tesoreria decentralizzata. 35%. Membri della comunità incentivati e ricompensati per la partecipazione nel progressivo sviluppo di un organizzazione autonoma decentralizzata (DAO). È previsto che una tesoreria decentralizzata sia amministrata da smart contract e consenso comunitario. ![](../5.jpg)
+4. Tesoreria decentralizzata. 35%. Membri della comunità incentivati e ricompensati per la partecipazione nel progressivo sviluppo di un'organizzazione autonoma decentralizzata (DAO). È previsto che una tesoreria decentralizzata venga amministrata tramite l'utilizzo degli smart contract e del consenso comunitario. ![](../5.jpg)
 
 #### 3.4.3 Distribuzione VTX
 
@@ -198,11 +198,11 @@ Molteplici messaggi e molteplici account possono essere assegnati allo stesso th
 
 #### Comunicazione Inter-Blockchain
 
-EOS.IO è progettato per rendere più leggere le verifiche della Comunicazione Inter-Blockchain (IBC). Per catene con capacità insufficiente per elaborare le verifiche IBC e stabilirne la validità, c'è un'opzione di default per oracoli/escrow di fiducia. With an EOS.IO-based smart contract, a trusted multi-signature wallet holding the asset in escrow can be used to persuade the signing/publishing of the transaction based on IBC proofs from the originating chain.
+EOS.IO è progettato per rendere più leggere le verifiche della Comunicazione Inter-Blockchain (IBC). For chains with insufficient capacity for processing the IBC proofs and establishing validity, there is an option to default to trusted oracles/escrows. With an EOS.IO-based smart contract, a trusted multi-signature wallet holding the asset in escrow can be used to persuade the signing/publishing of the transaction based on IBC proofs from the originating chain.
 
 #### 3.6.2 Informazione Multi-Blockchain
 
-Le informazioni comprensibili su più blockchain si possono ottenere aggregando le linee temporali della blockchain in ordine parallelo (con variazioni nella frequenza del cambiamento di stato). This system can trigger multi-chain load balancers, transfer states, draw data outputs from smart contracts, and foreign blockchain transaction execution. La distanza relativa del blocco, lo stato globale relativo, e gli eventi con marcatura temporale vengono registrati su un ledger globale per ottimizzare e confermare le transazioni prima che queste si verifichino effettivamente sulla catena nativa. Questo approccio potrebbe essere utilizzato anche per determinare la coincidenza tra catene nella produzione del blocco per accedere a una maggiore liquidità. [12]
+Le informazioni comprensibili su più blockchain si possono ottenere aggregando le linee temporali della blockchain in ordine parallelo (con variazioni nella frequenza del cambiamento di stato). This system can trigger multi-chain load balancers, transfer states, draw data outputs from smart contracts, and foreign blockchain transaction execution. La distanza relativa del blocco, lo stato globale relativo, e gli eventi con marcatura temporale vengono registrati su un ledger globale per ottimizzare e confermare le transazioni prima che queste si verifichino effettivamente sulla catena nativa. Questo approccio potrebbe essere utilizzato anche per determinare la coincidenza tra catene nella produzione del blocco per accedere a una maggiore liquidità.[12]
 
 ### 3.7 SECURITY CONCERNS
 
@@ -256,11 +256,11 @@ Un attacco di tipo race si verifica quando due transazioni in conflitto vengono 
 
 A Finney attack pre-mines one transaction into a block and spends the same tokens before releasing the block to invalidate that transaction.
 
-Un attacco 51% può essere effettuato da chiunque possiede più del 50% della potenza di calcolo di una rete. A majority ownership position permits reversal of any transaction and allows total control of selection of transactions appearing in blocks. Sembra che EOS.IO, Loopring, e RAFT pervengono questo problema. Se un produttore di blocchi impiega una quantità irragionevole di runtime oppure non è sufficientemente redditizia, allora il processo viene inserito nella lista nera.[5]
+Un attacco 51% può essere effettuato da chiunque possiede più del 50% della potenza di calcolo di una rete. A majority ownership position permits reversal of any transaction and allows total control of selection of transactions appearing in blocks. Sembra che EOS.IO, Loopring, e RAFT prevengono questo problema. Se un produttore di blocchi impiega una quantità irragionevole di runtime oppure non è sufficientemente redditizia, allora il processo viene inserito nella lista nera.[5]
 
 #### 3.9.2 Front running
 
-Un front runner ruba uno o più ordini dall'impostazione del libro ordini di una transazione in attesa. Sia EOS.IO che Loopring offrono dei rimedi nei quali le chiavi sono protette perché non fanno parte della transazione on-chain, e quindi rimangono sconosciute ai soggetti diversi dal proprietario. Solo il nodo che regola il registro d'ordine è in possesso delle informazioni sensibili, e ogni nodo utilizza una soluzione diversa per la risoluzione dei registri degli ordini, aggiungendo un altro livello di difficoltà per promuovere la sicurezza.
+Un front runner ruba uno o più ordini dall'impostazione del libro ordini di una transazione in attesa. Sia EOS.IO che Loopring offrono dei rimedi nei quali le chiavi sono protette perché non fanno parte della transazione on-chain, e quindi rimangono sconosciute ai soggetti diversi dal proprietario. Solo il nodo che imposta il registro d'ordine è in possesso delle informazioni sensibili, e ogni nodo utilizza una soluzione diversa per la risoluzione dei registri degli ordini, aggiungendo un altro livello di difficoltà per promuovere la sicurezza.
 
 #### 3.9.4 Identità forgiate
 
@@ -268,7 +268,7 @@ Gli utenti malintenzionati creano identità forgiate per inviare un gran numero 
 
 #### 3.9.4 Saldo Insufficiente
 
-Gli utenti malintenzionati creano e inviano ordini il cui valore è diverso da 0 ma il cui indirizzo ha un saldo pari a 0. I nodi controlla il saldo reale, aggiorna di conseguenza lo stato di questi ordini, e poi li scarta.
+Gli utenti malintenzionati creano ed inviano ordini il cui valore è diverso da 0 ma il cui indirizzo ha un saldo pari a 0. I nodi controllano il saldo reale, aggiornano di conseguenza lo stato di questi ordini, e poi li scarta.
 
 #### 3.9.5 Timing attack
 
