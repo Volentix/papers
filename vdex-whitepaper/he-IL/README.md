@@ -20,7 +20,7 @@ Volentix מציג בתוכו את VDex, המשמש כ"חלפן כספים" למ�
 
 Venue היא פלטפורמה דינאמית לקהילה, שמגייסת ומארגנת את חברי קהילתה בכדי להקל על ביזור הVTX- הנכס הדיגיטלי המקומי של Volentix, ועל מנת לעלות מודעות בנוגע ליוזמות Volentix.
 
-לאחרונה הושקה בגירסת הבטא, Venue מאפשרת למשתמשים לקבל VTX בתמורה להשתתפות בפיתוח קהילתי, הגשת תיקונים לבאגים, וקבלת תגמולים. לוח תוצאות ומדדים חיים משקפים את השתתפות המשתמש. The first signature campaign was launched on the https://bitcointalk.org/ forum on July 13, 2018. אנא בקר/י ב https://venue.volentix.io למידע נוסף.
+לאחרונה הושקה בגירסת הבטא, Venue מאפשרת למשתמשים לקבל VTX בתמורה להשתתפות בפיתוח קהילתי, הגשת תיקונים לבאגים, וקבלת תגמולים. לוח תוצאות ומדדים חיים משקפים את השתתפות המשתמש. הקמפיין הראשוני הושק בפורום ה https://bitcointalk.org/ ביולי ה13, 2018. אנא בקר/י ב https://venue.volentix.io למידע נוסף.
 
 ### 2.2 VERTO
 
@@ -76,7 +76,7 @@ Web Assembly מאפשר ביצועים גבוהים של יישומים רשתי
 
 #### 3.0.5 הנזלה
 
-ניתן להנזיל נכס דיגיטלי אם הוא נמכר בקלות או נרכש בשיטות מסחר רגילות ללא השפעה משמעותית לטווח קצר על מחיר השוק. In order to achieve such a status, traditionally any tradable asset must surmount a trading volume threshold sufficient to support stability. Specifically, we anticipate adopting the following methodologies: Loopring protocol with the use of EOS.IO contracts acting as nodes.[5] Bancor algorithm used to bring stability to the digital asset.[6] Toggles between these protocols and HTLC (atomic swaps) according to Vespucci analyses on the VDex network.
+ניתן להנזיל נכס דיגיטלי אם הוא נמכר בקלות או נרכש בשיטות מסחר רגילות ללא השפעה משמעותית לטווח קצר על מחיר השוק. על מנת להגיע למעמד סטטוס שכזה, באופן מסורתי, כל נכס סחיר חייב לעלות מעל לסף נפח המסחר בכדי להשיג יציבות. Specifically, we anticipate adopting the following methodologies: Loopring protocol with the use of EOS.IO contracts acting as nodes.[5] Bancor algorithm used to bring stability to the digital asset.[6] Toggles between these protocols and HTLC (atomic swaps) according to Vespucci analyses on the VDex network.
 
 #### 3.0.6 חוזי זמן נעולים (החלפות אטומיות)
 
