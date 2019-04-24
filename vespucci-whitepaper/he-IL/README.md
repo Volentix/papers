@@ -359,14 +359,14 @@ PLATFORM FEATURES
 * Transaction history
 * Technical Characteristics
 * Charts of activity on Github
-* Activity on social networks using points on world map
-* Ability to add other utility charts through a list of parameters
+* פעילויות ברשתות חבריות המשתמשות בנקודות על-גבי מפת העולם
+* היכולת להוסיף תרשימי שירות אחרים באמצעות רשימה של פרמטרים
 
-USER OPTIONS
+אפשרויות משתמש
 
-* Show all the encryption, next to the name and symbol of Vespucci’s rating.
-* Adjust rating system by selecting active Vespucci parameters.
-* Configure rating system by selecting the priority of the basic parameters and adjusting weights.
+* הצג את כל ההצפנה, על-יד השם והסמל של דירוג Vespucci.
+* התאם את מערכת הדירוג על-ידי בחירת פרמטרים פעילים של Vespucci.
+* קבע את תצורת מערכת הדירוג באמצעות בחירה בעדיפות של הפרמטרים הבסיסיים והתאמה של משקולות.
 * Be informed separately about the effect of the basic parameters via diagrams and gain a deeper picture of those that shape the fluctuation of the value of each currency.
 * Filter the list of cryptocurrencies according to the hash rate and the chronological period they were active on the market.
 * View cryptocurrency features in detail.
