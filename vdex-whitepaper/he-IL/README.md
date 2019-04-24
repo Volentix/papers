@@ -114,19 +114,19 @@ Web Assembly מאפשר ביצועים גבוהים של יישומים רשתי
 
 ### 3.2 ספר הזמנות
 
-The order book is the list of buy-and-sell orders VDex records from interested users. A matching engine uses an order book to determine which orders can be fulfilled. The Loopring protocol allows for customizing the order book data structure.[5] Containers provided by EOS.IO can be used for optimal performance.[8]
+ספר ההזמנות הינו רשימה של כל הזמנות הקניה ומכירה מרשומות הVDex של משתמשים מעוניינים. מנוע ההתאמה משתמש בספר ההזמנות על מנת לקבוע אילו הזמנות ימולאו. פרוטוקול הלופרינג (Loopring) מאפשר עיצוב אישי של מבנה נתוני המידע בספר ההזמנות.[5] מיכלים שסופקו על-ידי EOS.IO יכולים לשמש בעבור ביצוע מיטבי.[8]
 
-#### 3.2.1 Data structures
+#### 3.2.1 מבנה נתוני
 
-Using the Loopring Protocol FIFO (first-in first-out) circular buffer, nodes can design their order books to display and match a user’s order. This method follows an OTC model, where limit orders are positioned based on price only.[5]
+Using the Loopring Protocol FIFO (first-in first-out) circular buffer, nodes can design their order books to display and match a user’s order. שיטה זו הולכת אחרי מודול OTC, שם מגבלות ההזמנות מוגדרות בהתבסס על מחיר בלבד.[5]
 
 Referencing the EOS.IO persistence API, the order book is able to take advantage of the powerful multi-index container shared among nodes through the same EOS.IO account.
 
-#### 3.2.2 On-Chain order book
+#### 3.2.2 ספר הזמנות על-שרשורי
 
-An on-chain order book is a record of offers residing on the wallet (node) chosen to settle the order book. It resides in a persistent database on each node subscribing to the same account as all the other nodes.
+ספר הזמנות על-שרשורי הוא רשימה תיעודית של כל הצעה המתגוררת בארנק (צומת רשתי) הנבחר לבסס את ספר ההזמנות הכללי. הוא שוכן במאגר נתונים תמידי, על גבי כל צומת רשתי שמנוי לאותו חשבון כשם צמתי הרשת האחרים.
 
-#### 3.2.3 Off-Chain order book
+#### 3.2.3 ספר הזמנות תחת-שרשורי
 
 Residing on the aggregator, offline order books serve for simulator and security purposes.
 
