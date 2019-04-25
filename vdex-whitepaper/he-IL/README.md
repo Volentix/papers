@@ -154,13 +154,13 @@ VTX הוא הנכס הדיגיטלי המקומי שיונפק וישומש בת
 
 תמרוץ משתמשים להשתתף בביסוס ספר ההזמנות ע''י הפיכתם לצמתי רשת דרך ארנקי הVerto שלהם.
 
-To incentivize users to lock funds in for >24 hours by HTLC time-bound transactions.
+עידוד משתמשים לנעול את קרנותיהם במשך < 24 שעות על-ידי שימוש בהעברות HTLC מגבילות-זמן.
 
-#### 3.4.2 VTX Allocation
+#### 3.4.2 הקצאת VTX
 
 ![](../6.jpg)
 
-A digital assets ecosystem requires an array of certain fundamental human constituents who shepherd the project forward.[11] It is essential to compensate those individuals for their participation. Subject to adjustment, Volentix currently anticipates the following allocations:
+מערכת נכסים דיגיטלית דורשת מערך מסוים של יסודות מרכיבים אנושיים אשר יובילו את הפרויקט קדימה.[11] זהו הכרחי לפצות את אותם אנשים בעבור השתתפותם. Subject to adjustment, Volentix currently anticipates the following allocations:
 
 1. Contributors. 12%. An array of individuals, akin to founders, who contribute insights, time and talent, though often work without early compensation.
 
