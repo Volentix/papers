@@ -106,7 +106,7 @@ Web Assembly מאפשר ביצועים גבוהים של יישומים רשתי
 
 #### 3.1.2 צוברים
 
-צוברי הVDex הם שרתים של Volentix המיועדים עבור מטרות אבטחה והדמיה. One of their functions is to pull logs and order book data from nodes into sparse distributed representations for hierarchical temporal memory as intrusion [7] analysis for detecting anomalies in the system. הצוברים כמו כן יארחו רכיבים אחרים כגון לדג'רים ב''metachain'' ומגרדי הבלוקצ'יין.
+צוברי הVDex הם שרתים של Volentix המיועדים עבור מטרות אבטחה והדמיה. One of their functions is to pull logs and order book data from nodes into sparse distributed representations for hierarchical temporal memory as intrusion [7] analysis for detecting anomalies in the system. הצוברים כמו כן יארחו רכיבים אחרים כגון לדג'רים ב''metachain'' ו"scrapers" של הבלוקצ'יין.
 
 #### 3.1.3 השהיה
 
