@@ -172,13 +172,13 @@ VTX הוא הנכס הדיגיטלי המקומי שיונפק וישומש בת
 
 3. מנחים. (יועצים, מפתחים, מקדמים, אפוטרופוסים). שימו לב כי הדרישות עבור סיוע מתת-קטגוריות, בקטגוריה זו, עלולות להשתנות באופן משמעותי לאור קבלה של תמיכת מימון משמעותית, אך אנשים מסוימים עשויים לשרת במהלך שני השלבים.
 
-Phase 1. 10%.
+שלב 1.10%.
 
-Phase 2. 10%.
+שלב 2.10%.
 
-4. Decentralized treasury. 35%. Community members incentivized and rewarded for participation in progressive development of a decentralized autonomous organization (DAO). A decentralized treasury is anticipated to be administered by smart contracts and community consensus. ![](../5.jpg)
+4. אוצרות מבוזרות. 35%. חברי הקהילה הומרצו ותוגמלו עבור השתתפותם בפיתוח המתקדם של ארגון אוטונומי מבוזר (DAO). אוצרות מבוזרות צפויות להתנהל תחת חוזים חכמים והסכמה קהילתית. ![](../5.jpg)
 
-#### 3.4.3 VTX Distribution
+#### 3.4.3 הפצה של VTX
 
 In light of market conditions at the time of this writing, Volentix is considering timing, means, and terms and conditions of VTX distribution as a function of private pre-sales and possible public sale. Please monitor our website for updates.
 
