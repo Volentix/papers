@@ -272,11 +272,11 @@ Gli utenti malintenzionati creano ed inviano ordini il cui valore è diverso da 
 
 #### 3.9.5 Timing attack
 
-Gli attacchi di tipo Timing sono una classe di attacchi cryptografici attraverso i quali un osservatore di terze parti può dedurre il contenuto dei dati criptati registrando e analizzando il tempo necessario per l'esecuzione degli algoritmi di crittografia. The RAFT algorithm prevents timing attacks by using randomness of timeouts.
+Gli attacchi di tipo Timing sono una classe di attacchi cryptografici attraverso i quali un osservatore di terze parti può dedurre il contenuto dei dati criptati registrando e analizzando il tempo necessario per l'esecuzione degli algoritmi di crittografia. L'algoritmo RAFT previene gli attacchi di tipo timing utilizzando i timeout in modo casuale.
 
 ### 3.10 USER EXPERIENCE
 
-Our focus on user experience is primary. We wish to make VTX and the four pillars of Volentix -- Venue, Verto, Vespucci, and VDex -- easily accessible to and useable by all those who wish to join our community. We expect the experience continually to be educational as well, with templates and simulators to support a superior UX/UI relationship.
+Our focus on user experience is primary. Vogliamo rendere VTX e i quatro pilastri di Volentix --Venue, Verto, Vespucci, e VDex -- facilmente accessibili e utilizzabili da tutti coloro che desiderano unirsi alla nostra comunità. We expect the experience continually to be educational as well, with templates and simulators to support a superior UX/UI relationship.
 
 ### 3.11 TRUE DECENTRALIZATION
 
