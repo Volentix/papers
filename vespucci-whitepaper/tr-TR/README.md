@@ -14,7 +14,7 @@ Birincil hedefimiz, tüm dijital varlık kullanıcılarına, dijital varlıklar 
 * teknik analiz (TA), ve
 * temel / teknolojik analiz (FTA).
 
-Vespucci, ilk kez, merkezi olmayan yönetim, akran gizliliği, halka açık blok zinciri yoluyla halka açık defteri kebir ve açık kaynak kod ilkelerine dayanan farklı göstergelerin bir kombinasyonunu temsil eden, canlı bir derecelendirme ile birlikte her bir dijital varlık için çok yönlü bir profil sunmaktadır. Bu nedenle analiz, belirli bireylerin veya ilgili grupların önyargısından muaftır ve kullanılan yöntemler topluluk tarafından incelenmek ve tartışılmak için hazırdır. Merkezi olmayan uygulamalar mevcut teknolojide bir paradigma değişikliği sunar; özellikle konu ile ilgili bir örnek, ortaya çıkan kripto para birimi borsalarında yer almaktadır. En güçlü, en ileri yöntemlerden bazılarını kullanarak, yaklaşımımız açık standartlara ve kullanım kolaylığı ilkelerine uyar.
+Vespucci, ilk kez, merkezi olmayan yönetim, akran gizliliği, halka açık blok zinciri yoluyla halka açık defteri kebir ve açık kaynak kod ilkelerine dayanan farklı göstergelerin bir kombinasyonunu temsil eden, canlı bir derecelendirme ile birlikte her bir dijital varlık için çok yönlü bir profil sunmaktadır. Bu nedenle analiz, belirli bireylerin veya ilgili grupların önyargısından muaftır ve kullanılan yöntemler topluluk tarafından incelenmek ve tartışılmak için hazırdır. Decentralized applications offer a paradigm shift in current technology; a particularly relevant instance lies within the emerging cryptocurrency exchanges. En güçlü, en ileri yöntemlerden bazılarını kullanarak, yaklaşımımız açık standartlara ve kullanım kolaylığı ilkelerine uyar.
 
 Vespucci genel mimarisi
 
