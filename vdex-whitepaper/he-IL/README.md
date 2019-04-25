@@ -160,17 +160,17 @@ VTX הוא הנכס הדיגיטלי המקומי שיונפק וישומש בת
 
 ![](../6.jpg)
 
-מערכת נכסים דיגיטלית דורשת מערך מסוים של יסודות מרכיבים אנושיים אשר יובילו את הפרויקט קדימה.[11] זהו הכרחי לפצות את אותם אנשים בעבור השתתפותם. Subject to adjustment, Volentix currently anticipates the following allocations:
+מערכת נכסים דיגיטלית דורשת מערך מסוים של יסודות מרכיבים אנושיים אשר יובילו את הפרויקט קדימה.[11] זהו הכרחי לפצות את אותם אנשים בעבור השתתפותם. בכפוף לנושא ההתאמה, Volentix צופה להקצאות הבאות:
 
-1. Contributors. 12%. An array of individuals, akin to founders, who contribute insights, time and talent, though often work without early compensation.
+1. תורמים. 12%. מערך של אנשים יחידים, בדומה למייסדים, אשר מביאים תובנות, תורמים זמן וכישרון, אף על פי לרב עובדים ללא פיצוי מקדים.
 
-2. Supporters.
+2. תומכים.
 
-Phase 1. 5%. Early passive seed funders.
+שלב 1.5%. מממני גרעין פסיביים מוקדמים.
 
-Phase 2. 28%. Funders via qualified private pre-sales and possible public sale.
+שלב 2.28%. תורמים: באמצעות מכירות-מראש מוסמכות ואפשרויות מכירה פומבית.
 
-3. Facilitators. (Advisors, Developers, Promoters, Custodians). Note that requirements for assistance from the sub-categories in this category may differ significantly before and after the project receives substantial funding support, but certain individuals may serve during both phases.
+3. מנחים. (יועצים, מפתחים, מקדמים, אפוטרופוסים). שימו לב כי הדרישות עבור סיוע מתת-קטגוריות, בקטגוריה זו, עלולות להשתנות באופן משמעותי לאור קבלה של תמיכת מימון משמעותית, אך אנשים מסוימים עשויים לשרת במהלך שני השלבים.
 
 Phase 1. 10%.
 
