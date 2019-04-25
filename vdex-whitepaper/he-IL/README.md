@@ -142,17 +142,17 @@ Referencing the EOS.IO persistence API, the order book is able to take advantage
 
 #### 3.4.1 הנפקה ושימוש בVTX
 
-VTX הוא הנכס הדיגיטלי המקומי שיונפק וישומש בתוך ''חלפן הכספים VDEX''. We currently plan to use an eosio.token contract from the EOS.IO framework to issue 2.1 billion EOS.IO-compliant VTX tokens with a supply of 1.3 billion. VTX will have a diverse array of uses, for example:
+VTX הוא הנכס הדיגיטלי המקומי שיונפק וישומש בתוך ''חלפן הכספים VDEX''. אנו מתכננים להשתמש בחוזה eosio.token ממסגרת הEOS.IO על מנת לסייע בהנפקת 2.1 מיליארד טוקני VTX מותאמי-EOS.IO, עם האספקה ההתחלתית של 1.3 מיליארד טוקנים. לVTX יהיה מגוון רב של שימושים, לדוגמא:
 
-To reward participants in the consensus process and in Venue campaigns.
+תיגמול משתתפים בתהליך הקונצנזוס וקמפיינים של Venue.
 
-To pay and redistribute transaction fees on the VDex exchange.
+שילום והפצה מחדש של עלויות העברה ב''חלפן הVDex''.
 
-To submit and vote on proposals to the Volentix ecosystem, using the voting rights allocated to VTX holders.
+הצבעה ושליחה של הצעות למערכת ה Volentix, באמצעות מימוש זכויות ההצבעה המוקצות בעבור כל מחזיק VTX.
 
-To stake support for reviewing proposals and implementing projects.
+חיזוק התמיכה עבור סקירת הצעות וצעדי ביצוע של פרויקטים.
 
-To incentivize users to participate in order book settlement by becoming nodes via their Verto wallets.
+תמרוץ משתמשים להשתתף בביסוס ספר ההזמנות ע''י הפיכתם לצמתי רשת דרך ארנקי הVerto שלהם.
 
 To incentivize users to lock funds in for >24 hours by HTLC time-bound transactions.
 
