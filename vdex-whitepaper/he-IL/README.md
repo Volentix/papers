@@ -76,7 +76,7 @@ Web Assembly מאפשר ביצועים גבוהים של יישומים רשתי
 
 #### 3.0.5 הנזלה
 
-ניתן להנזיל נכס דיגיטלי אם הוא נמכר בקלות או נרכש בשיטות מסחר רגילות ללא השפעה משמעותית לטווח קצר על מחיר השוק. על מנת להגיע למעמד סטטוס שכזה, כל נכס מסורתי שהיה נהוג עד כה, כמו כן כל נכס סחיר חייב לעלות מעל לסף נפח המסחר בכדי להשיג יציבות. Specifically, we anticipate adopting the following methodologies: Loopring protocol with the use of EOS.IO contracts acting as nodes.[5] Bancor algorithm used to bring stability to the digital asset.[6] Toggles between these protocols and HTLC (atomic swaps) according to Vespucci analyses on the VDex network.
+ניתן להנזיל נכס דיגיטלי אם הוא נמכר בקלות או נרכש בשיטות מסחר רגילות ללא השפעה משמעותית לטווח קצר על מחיר השוק. על מנת להגיע למעמד סטטוס שכזה, כל נכס מסורתי שהיה נהוג עד כה, כמו כן כל נכס סחיר חייב לעלות מעל לסף נפח המסחר בכדי להשיג יציבות. באופן ספציפי, אנו מצפים ליישם את המתודולוגיות הבאות: פרוטוקול הלופרינג (Loopring) עם שימוש בחוזי EOS.IO הנחשבים צמתי רשת.[5] אלגוריתם הבנקור (Bancor), נועד לשמור על יציבות בכל הקשור לנכס דיגיטלי.[6] חילופים בין פרוטוקולים אלו ל HTLC (החלפות אטומיות) ייעשו בהתאם לניתוחו של Vespucci על רשת הVDex.
 
 #### 3.0.6 חוזי זמן נעולים (החלפות אטומיות)
 
@@ -128,11 +128,11 @@ Referencing the EOS.IO persistence API, the order book is able to take advantage
 
 #### 3.2.3 ספר ההזמנות מחוץ לבלוקצ'יין
 
-Residing on the aggregator, offline order books serve for simulator and security purposes.
+ספרי הזמנות לא מקוונים משרתים למטרות הדמיה ואבטחה, כאשר מאוחסנים בצוברים.
 
-#### 3.2.4 Decentralization process of order book settlement
+#### 3.2.4 תהליך הביזור של השתכנות ספר הזמנות
 
-For decentralization purposes, nodes will take turns to settle the order book. The settling node must be designated by the protocol and all order book entries from all nodes must be available to the settling nodes. We believe the RAFT[9] and PARSEC[10] consensus mechanisms offer effective solutions. RAFT is a well-established algorithm and is easy to implement.[7] PARSEC is more recent and more efficient, using Directed Acyclic Graph (DAG) technology and eliminating the need for copying logs.
+צמתי רשת יישבו ויבססו את ספר ההזמנות, כל אחד בתורו, למטרות של ביזור. The settling node must be designated by the protocol and all order book entries from all nodes must be available to the settling nodes. We believe the RAFT[9] and PARSEC[10] consensus mechanisms offer effective solutions. RAFT is a well-established algorithm and is easy to implement.[7] PARSEC is more recent and more efficient, using Directed Acyclic Graph (DAG) technology and eliminating the need for copying logs.
 
 ### 3.3 ORDER SETTLEMENT
 
