@@ -180,25 +180,25 @@ VTX הוא הנכס הדיגיטלי המקומי שיונפק וישומש בת
 
 #### 3.4.3 הפצה של VTX
 
-In light of market conditions at the time of this writing, Volentix is considering timing, means, and terms and conditions of VTX distribution as a function of private pre-sales and possible public sale. Please monitor our website for updates.
+לאור תנאי השוק בעת כתיבת מסמך זה, Volentix שוקל את פקטור הזמן, האמצעים, ותנאי הביזור של VTX כפונקציות למכירות-מראש פרטיות ואפשרויות מכירה ציבורית. עקוב אחרי האתר שלנו לקבלת עדכונים.
 
-### 3.5 EOS.IO PLATFORM DEPLOYMENT
+### 3.5 פלטפורמת התפרסות EOS.IO
 
-The following considerations are relevant to our deploying the VDex exchange on the EOS.IO platform:
+השיקולים הבאים רלוונטיים להתפרסות ''חלפן הכספים VDex'' בתוך פלטפורמת הEOS.IO:
 
-Deploying a contract has a cost but is free to use.
+ישנה עלות לפריסה של חוזה, אך השימוש בו חינמי.
 
 Developers stake EOS.IO-compliant tokens to deploy a smart contract. After the contract is deployed, the locked tokens are returned.
 
-Decentralized applications allocate memory, CPU, bandwidth, and other resources to their contracts.
+יישומים מבוזרים מקצים זיכרון, CPU, רוחב פס ומשאבים אחרים אל החוזים שלהם.
 
-Multiple messages and multiple accounts can be assigned to the same thread.
+ניתן להקצות על אותו שרשור חשבונות והודעות רבות.
 
-### 3.6 BLOCKCHAIN INTERACTION
+### 3.6 אינטראקציית הבלוקצ'יין
 
-#### 3.6.1 Inter-Blockchain Communication
+#### 3.6.1 תקשורת בין בלוקצ'יינים
 
-EOS.IO is designed to make Inter-Blockchain Communication (IBC) proofs lightweight. For chains with insufficient capacity for processing the IBC proofs and establishing validity, there is an option to default to trusted oracles/escrows. With an EOS.IO-based smart contract, a trusted multi-signature wallet holding the asset in escrow can be used to persuade the signing/publishing of the transaction based on IBC proofs from the originating chain.
+EOS.IO נועד להקל על הוכחות התקשורת בין בלוקצ'יינים (IBC). עבור שרשורים עם קיבולת לא מספיקה לעיבוד של הוכחות IBC ומיסוד תוקף, ישנה אפשרות של ברירת מחדל לoracles/escrows אמינים. With an EOS.IO-based smart contract, a trusted multi-signature wallet holding the asset in escrow can be used to persuade the signing/publishing of the transaction based on IBC proofs from the originating chain.
 
 #### 3.6.2 Multi-Blockchain Information
 
