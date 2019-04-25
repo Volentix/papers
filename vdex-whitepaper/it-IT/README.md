@@ -276,7 +276,7 @@ Gli attacchi di tipo Timing sono una classe di attacchi cryptografici attraverso
 
 ### 3.10 USER EXPERIENCE
 
-Our focus on user experience is primary. Vogliamo rendere VTX e i quatro pilastri di Volentix --Venue, Verto, Vespucci, e VDex -- facilmente accessibili e utilizzabili da tutti coloro che desiderano unirsi alla nostra comunità. We expect the experience continually to be educational as well, with templates and simulators to support a superior UX/UI relationship.
+Our focus on user experience is primary. Vogliamo rendere VTX e i quatro pilastri di Volentix --Venue, Verto, Vespucci, e VDex -- facilmente accessibili e utilizzabili da tutti coloro che desiderano unirsi alla nostra comunità. Ci aspettiamo che l'esperienza sia continuamente anche educativa, con modelli e simulatori per supportare una migliore relazione UX/UI.
 
 ### 3.11 TRUE DECENTRALIZATION
 
