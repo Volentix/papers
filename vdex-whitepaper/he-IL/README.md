@@ -136,13 +136,13 @@ Referencing the EOS.IO persistence API, the order book is able to take advantage
 
 ### 3.3 הסדר הזמנות
 
-Order settlement contains familiar elements of conventional financial market transactions. Utilizing FIFO technology to design the order book, VDex intends to check order, inventory, and fill rate, as well as limit orders and cancellations. ![](../7.jpg)
+''הסדר ההזמנות'' מכיל אלמנטים מוכרים מהשוק הקונבנציונלי-כלכלי. שימוש בטכנולוגיית ה-FIFO על מנת לעצב את ספר ההזמנות, VDex מתכוון לנהל בדיקות סדר, ספירת מלאי, תעריף מילוי, כמו כן גם הוראות מגבלה וביטולים. ![](../7.jpg)
 
 ### 3.4 VTX
 
-#### 3.4.1 VTX Issuance and Use
+#### 3.4.1 הנפקה ושימוש בVTX
 
-VTX is the native digital asset to be issued and used on the VDex decentralized exchange. We currently plan to use an eosio.token contract from the EOS.IO framework to issue 2.1 billion EOS.IO-compliant VTX tokens with a supply of 1.3 billion. VTX will have a diverse array of uses, for example:
+VTX הוא הנכס הדיגיטלי המקומי שיונפק וישומש בתוך ''חלפן הכספים VDEX''. We currently plan to use an eosio.token contract from the EOS.IO framework to issue 2.1 billion EOS.IO-compliant VTX tokens with a supply of 1.3 billion. VTX will have a diverse array of uses, for example:
 
 To reward participants in the consensus process and in Venue campaigns.
 
