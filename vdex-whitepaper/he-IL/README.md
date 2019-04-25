@@ -216,31 +216,31 @@ EOS.IO נועד להקל על הוכחות התקשורת בין בלוקצ'יי
 
 Use multi-signatures on a hot wallet with several independent processes/servers double-checking all withdrawals, with the concomitant benefit of creating a trusted list of accounts.
 
-Deploy a custom contract that allows withdrawals only to accounts verified by KYC/AML.
+פריסתו של חוזה מותאם המאפשר משיכות אך ורק לחשבונות מאומתות על-ידי KYC/AML.
 
-Deploy a custom contract that accepts only deposits of known assets from accounts verified by KYC/AML.
+פריסתו של חוזה מתואם אישית המאשר אך ורק פיקדונות של נכסים ידועים מחשבונות מאומתות על-ידי KYC/AML.
 
-Deploy a custom contract that requires a mandatory 24-hour waiting period for all withdrawals.
+פריסתו של חוזה מותאם אשר דורש תקופת המתנה של 24 שעות עבור כל משיכה.
 
-Utilize contracts with hardware wallets for all signing, including for automated withdrawals.
+ניצול חוזים עם ארנקים חומריים לכלל הכניסות, כולל משיכות אוטומטיות.
 
-Upgrade broken contracts.
+שדרוג חוזים שבורים.
 
-Include ability to pause the functionality of a contract.
+הכללת יכולת השהיה על פונקציונליות של חוזה.
 
-Include ability to delay an action of a contract.
+הכללת יכולת עיכוב פעולה של חוזה.
 
-#### 3.8.2 Auditing rogue processes
+#### 3.8.2 ביקורת תהליכים
 
-The advanced anomaly detection algorithms provided by Numenta’s Nupic library will require less voluminous training data sets than conventional AI systems.
+האלגוריתמים המתקדמים לזיהוי חריגה שמסופקים על-ידי הספריה של ''Numenta Nupic'' ידרשו פחות אימונים רב-ממדיים לערכות נתונים מאשר מערכות קונבנציונליות של AI (בינה מלאכותית).
 
-#### 3.8.3 Randomization
+#### 3.8.3 אקראיות
 
 True randomisation of address space layout, route or utilizing varying lengths of timeouts as in the RAFT protocol can complexify systems enough to enhance resilience and further secure systems against a side-channel attack or front running.
 
-#### 3.8.4 Log inspection
+#### 3.8.4 ביקורת יומן כניסות
 
-Parsec does not rely on logs for the determination of consensus. On the other hand, RAFT will require this. In any case, Validator nodes will be designed to require minimal information To determine consensus as to minimize the transaction process time.
+Parsec אינו צריך להסתמך על רישומי כניסה בכדי לקבוע הסכמה. מצד שני, RAFT ידרוש זאת. In any case, Validator nodes will be designed to require minimal information To determine consensus as to minimize the transaction process time.
 
 #### 3.8.5 Transaction as Proof of Stake (TaPoS)
 
