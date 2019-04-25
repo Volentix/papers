@@ -200,13 +200,13 @@ Developers stake EOS.IO-compliant tokens to deploy a smart contract. After the c
 
 EOS.IO נועד להקל על הוכחות התקשורת בין בלוקצ'יינים (IBC). עבור שרשורים עם קיבולת לא מספיקה לעיבוד של הוכחות IBC ומיסוד תוקף, ישנה אפשרות של ברירת מחדל לoracles/escrows אמינים. With an EOS.IO-based smart contract, a trusted multi-signature wallet holding the asset in escrow can be used to persuade the signing/publishing of the transaction based on IBC proofs from the originating chain.
 
-#### 3.6.2 Multi-Blockchain Information
+#### 3.6.2 מידע בלוקצ'יינים
 
-Comprehensible multi-blockchain information can be obtained by aggregating blockchain timelines in parallel order (with variance in the frequency of change of state). This system can trigger multi-chain load balancers, transfer states, draw data outputs from smart contracts, and foreign blockchain transaction execution. Relative block distance, relative global state, and timestamped events are recorded on a global ledger to optimize and confirm transactions before they actually happen on the native chain. This approach could also be used to determine block production coincidence between chains to access greater liquidity.[12]
+ניתן לקבל מידע רב על בלוקצ'יינים, באמצעות קיבוץ צירי הזמן שלהם בסדר מקביל ( עם שוני בתדירות החלפת המצב [state]). מערכת זו יכולה לעורר עומס שרשורי מרובה, להחליף מצב, להביא תוצרים של נתוני מידע מחוזים חכמים, וביצוע עסקאות זרות. מרחק יחסי בין בלוקים, מצב גלובלי יחסי, וחותמות האירועים נרשמים בלדג'ר עולמי על מנת להטיב ולאשר את ההעברות לפני שהן מתרחשות על הרשת המקומית. גישה זו יכולה גם כן לשמש לקביעת צירופי המקרים בהליכי ייצור הבלוקים בין רשתות על מנת לקבל הנזלה רבה יותר.[12]
 
-### 3.7 SECURITY CONCERNS
+### 3.7 חששות אבטחה
 
-To shake out certain assumptions, we intend to commence security testing following the prototyping phase. Security concerns are of paramount importance to users and must be addressed. Threats include, for example, an attacker executing malicious code within a transaction or manipulating the order of transactions or the timestamps of blocks. In the following sections, we address certain security measures and specific security threats and remedies.
+בכדי להשתחרר ממסקנות מסוימות, אנו מתכננים להתחיל בבדיקת אבטחה שתלך על פי שלב האב-טיפוס. Security concerns are of paramount importance to users and must be addressed. Threats include, for example, an attacker executing malicious code within a transaction or manipulating the order of transactions or the timestamps of blocks. In the following sections, we address certain security measures and specific security threats and remedies.
 
 ### 3.8 SECURITY MEASURES
 
