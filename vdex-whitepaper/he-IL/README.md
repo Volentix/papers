@@ -206,13 +206,13 @@ EOS.IO נועד להקל על הוכחות התקשורת בין בלוקצ'יי
 
 ### 3.7 חששות אבטחה
 
-בכדי להשתחרר ממסקנות מסוימות, אנו מתכננים להתחיל בבדיקת אבטחה שתלך על פי שלב האב-טיפוס. Security concerns are of paramount importance to users and must be addressed. Threats include, for example, an attacker executing malicious code within a transaction or manipulating the order of transactions or the timestamps of blocks. In the following sections, we address certain security measures and specific security threats and remedies.
+בכדי להשתחרר ממסקנות מסוימות, אנו מתכננים להתחיל בבדיקת אבטחה שתלך על פי שלב האב-טיפוס. חששות בנוגע לאבטחה מקבלות חשיבות עליונה למשתמשים, ככה שנחוץ לטפל בהם. סוגי איומים כוללים, לדוגמא, מישהו אשר מריץ קוד מזיק בתוך עסקת חליפין, או מניפולציה בסדר ההעברות וחותמות הזמן של בלוקים. בחלקים הבאים, אנו פונים אל כמה איומים ביטחוניים ספציפיים עם אמצעי ביטחון ותקנים.
 
-### 3.8 SECURITY MEASURES
+### 3.8 אמצעי ביטחון
 
-#### 3.8.1 Contract security
+#### 3.8.1 חוזה אבטחה
 
-Retain vast majority of funds in a time-delayed, multi-signature-controlled account.
+שמירה על הרוב המכריע של כספים בחשבון מושהה, חשבון רב-כניסות מבוקר.
 
 Use multi-signatures on a hot wallet with several independent processes/servers double-checking all withdrawals, with the concomitant benefit of creating a trusted list of accounts.
 
