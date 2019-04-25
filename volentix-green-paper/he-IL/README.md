@@ -13,7 +13,7 @@ Volentix מציג בתוכו את VDex, המשמש כ"חלפן כספים" למ�
 
 ## מיפתח השוק
 
-To address the prevailing market mandate, the VOLENTIX ecosystem introduces an initializing array of four digital applications, specifically known as VENUE, VERTO, VESPUCCI, and VDEX.
+בכדי לפנות אל שוק הבורסה, מערכת הVOLENTIX מציגה מערך מגוון של ארבעה יישומים דיגיטליים, הידועים בתור VENUE, VERTO, VESPUCCI, וVDEX.
 
 ## Venue
 
