@@ -132,9 +132,9 @@ Referencing the EOS.IO persistence API, the order book is able to take advantage
 
 #### 3.2.4 תהליך הביזור של השתכנות ספר הזמנות
 
-צמתי רשת יישבו ויבססו את ספר ההזמנות, כל אחד בתורו, למטרות של ביזור. The settling node must be designated by the protocol and all order book entries from all nodes must be available to the settling nodes. We believe the RAFT[9] and PARSEC[10] consensus mechanisms offer effective solutions. RAFT is a well-established algorithm and is easy to implement.[7] PARSEC is more recent and more efficient, using Directed Acyclic Graph (DAG) technology and eliminating the need for copying logs.
+צמתי רשת יישבו ויבססו את ספר ההזמנות, כל אחד בתורו, למטרות של ביזור. הצומת המייסד הרשתי חייב להתעצב על-פי הפרוטוקולים, ורשומות ספר ההזמנות מכל צומת צריכות להיות זמינות לצמתים המייסדים. אנו מאמינים כי ההסכמה בין מכניקות של[RAFT[9 ו-[10] PARSEC תביא לפתרונות אפקטיביים. RAFT הינו אלגוריתם מבוסס היטב וקל נורא ליישום.[7] PARSEC התפתח לאחרונה ונמצא יותר יעיל, באמצעות טכנולוגיות DAG (גרפים מכוונים מחזוריים) וסילוק הצורך בהעתקת רישומי יומן.
 
-### 3.3 ORDER SETTLEMENT
+### 3.3 הסדר הזמנות
 
 Order settlement contains familiar elements of conventional financial market transactions. Utilizing FIFO technology to design the order book, VDex intends to check order, inventory, and fill rate, as well as limit orders and cancellations. ![](../7.jpg)
 
