@@ -272,7 +272,7 @@ Gli utenti malintenzionati creano ed inviano ordini il cui valore è diverso da 
 
 #### 3.9.5 Timing attack
 
-Timing attacks are a class of cryptographic attacks through which a third-party observer can deduce the content of encrypted data by recording and analyzing the time taken to execute cryptographic algorithms. The RAFT algorithm prevents timing attacks by using randomness of timeouts.
+Gli attacchi di tipo Timing sono una classe di attacchi cryptografici attraverso i quali un osservatore di terze parti può dedurre il contenuto dei dati criptati registrando e analizzando il tempo necessario per l'esecuzione degli algoritmi di crittografia. The RAFT algorithm prevents timing attacks by using randomness of timeouts.
 
 ### 3.10 USER EXPERIENCE
 
