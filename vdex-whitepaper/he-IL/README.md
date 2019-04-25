@@ -240,13 +240,13 @@ True randomisation of address space layout, route or utilizing varying lengths o
 
 #### 3.8.4 ביקורת יומן כניסות
 
-Parsec אינו צריך להסתמך על רישומי כניסה בכדי לקבוע הסכמה. מצד שני, RAFT ידרוש זאת. In any case, Validator nodes will be designed to require minimal information To determine consensus as to minimize the transaction process time.
+Parsec אינו צריך להסתמך על רישומי כניסה בכדי לקבוע הסכמה. מצד שני, RAFT ידרוש זאת. בכל מקרה, צמתי רשת מאמתים ידרשו מידע מינימלי על מנת לקבוע הסכמה בנושא מזעור תהליך זמן העברות.
 
 #### 3.8.5 Transaction as Proof of Stake (TaPoS)
 
 This mechanism prevents the replay of a transaction on forks that do not include the referenced block. Signals the network that a particular user and stake are on a specific fork.
 
-### 3.9 Security threats and remedies
+### 3.9 איומים בטחוניים ותקנים
 
 #### 3.9.1 Double spend
 
@@ -262,23 +262,23 @@ A 51% attack can be mounted by anyone owning >50% of the total computing power o
 
 A front runner steals one or more orders from a pending order book settlement transaction. Both EOS.IO and Loopring offer remedies in which keys are protected because they are not part of the on-chain transaction, and therefore remain unknown to parties other than the owner. Only the order book settling node is possessed of the sensitive information, and each node uses a different solution for resolving the order books, introducing yet another level of complexity to promote security.
 
-#### 3.9.3 Forged identities
+#### 3.9.3 זיוף זהויות
 
-Malicious users create forged identities to send a large number of small orders to attack Loopring nodes. However, most of these orders will be rejected for not yielding satisfying profit when matched.
+משתמשים עם כוונות זדוניות יכולים ליצור זהויות מזויפות על מנת לשלוח מספר רב של הזמנות קטנות הנועדו לתקוף צמתי לופרינג. עם זאת, מרבית ההזמנות האלו יידחו על אי-מתן רווח מספק כשיותאמו.
 
-#### 3.9.4 Insufficient Balance
+#### 3.9.4 יתרה לא מספיקה
 
-Malicious users sign and spread orders the value of which is non-zero but the address of which has a zero balance. Nodes monitor actual balances, update these order states accordingly, and then discard them.
+משתמשים מסוימים עלולים להיכנס ולהפיץ הזמנות, כאשר ערכן שונה מאפס אך הכתובת בעלת יתרה אפסית. צמתי רשת מפקחים על יתרות אמינות, מעדכנים את מצבי ההזמנות בהתאם, ולאחר מכן מוחקים אותם.
 
-#### 3.9.5 Timing attack
+#### 3.9.5 התקפות מתוזמנות
 
-Timing attacks are a class of cryptographic attacks through which a third-party observer can deduce the content of encrypted data by recording and analyzing the time taken to execute cryptographic algorithms. The RAFT algorithm prevents timing attacks by using randomness of timeouts.
+התקפות מתוזמנות הן סוג של התקפות הצפנה, בהן צד חיצוני משקיף יכול לדון בתכני הנתונים המוצפנים על-ידי רישום וניתוח הזמן שנלקח להוציא לפועל אותם אלגוריתמים מוצפנים. אלגוריתם הRAFT מונע התקפות מתוזמנות באמצעות שימוש בפסקי-זמן אקראיים.
 
-### 3.10 USER EXPERIENCE
+### 3.10 חווית המשתמש
 
-Our focus on user experience is primary. We wish to make VTX and the four pillars of Volentix -- Venue, Verto, Vespucci, and VDex -- easily accessible to and useable by all those who wish to join our community. We expect the experience continually to be educational as well, with templates and simulators to support a superior UX/UI relationship.
+Our focus on user experience is primary. אנחנו מכוונים ליצור שVTX וארבעת עמודי התווך של Volentix -- Venue, Verto, Vespucci, VDex -- יהיו קלים ונגישים לכל מי שברצונו/ה להצטרף לקהילה שלנו. אנחנו מצפים כי החוויה תועצם על ידי המשכת החינוך, עם תבניות והדמיות בכדי לתמוך במערכת יחסים UX/UI נעלה.
 
-### 3.11 TRUE DECENTRALIZATION
+### 3.11 ביזור אמיתי
 
 EOS.IO is an open-source, scalable infrastructure for decentralized applications. Its goal is a fair and transparent block producer (BP) election process utilizing a democratic delegated proof of stake (DPoS) consensus. Particularly as such a system just begins to proliferate, there will be glitches. Therefore, some degree of retained centralization is inevitable and necessary. But our guiding philosophy is one of decentralization, and our ongoing efforts are targeted to promoting a reduction in dependence on central authority.
 
@@ -296,7 +296,7 @@ Daily announcements of fresh code developments impacting on use of digital asset
 
 All of us at Volentix are dedicating our work and insights to developing a program premised on empowerment and independence. If you are of a mind to join us, in whatever capacity, then please do so and please become educated on the topics contained in this white paper and additional Volentix publications as we share them with our community.
 
-## 5. TIMELINE
+## 5. ציר זמן
 
 Please monitor our website and social media for updates and other important announcements. Thank you very much for your attention and interest.
 
@@ -362,4 +362,4 @@ G. Wood, Ethereum: A secure decentralised generalised transaction ledger.ethereu
 
 Dane Keller Rutledge, Creating a Comprehensive Digital Assets Ecosystem (DAE), (2018).
 
-## END OF PAPER
+## סוף המסמך
