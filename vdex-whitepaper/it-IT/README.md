@@ -280,7 +280,7 @@ Our focus on user experience is primary. Vogliamo rendere VTX e i quatro pilastr
 
 ### 3.11 TRUE DECENTRALIZATION
 
-EOS.IO è un'infrastruttura scalabile e di tipo open source per applicazioni decentralizzate. Its goal is a fair and transparent block producer (BP) election process utilizing a democratic delegated proof of stake (DPoS) consensus. In particolare, poichè un sistema del genere è ancora agli inizi, ci saranno dei difetti. Therefore, some degree of retained centralization is inevitable and necessary. But our guiding philosophy is one of decentralization, and our ongoing efforts are targeted to promoting a reduction in dependence on central authority.
+EOS.IO è un'infrastruttura scalabile e di tipo open source per applicazioni decentralizzate. Its goal is a fair and transparent block producer (BP) election process utilizing a democratic delegated proof of stake (DPoS) consensus. In particolare, poichè un sistema del genere è ancora agli inizi, ci saranno dei difetti. Pertanto, un certo grado di centralizzazione mantenuta è inevitabile e necessario. Però la fnostta filosofia che ci guida è una di decentralizzazione, e i nostri sforzi sono mirati a promuovere una riduzione nell'indipendenza da un autorità centrale.
 
 For example, initially we plan to erect a system for electing nodes (when solving order books) that will not use a shared central clock or DPoS but instead will be based either on random timeouts for the determination of leaders in an election (RAFT) or on Directed Acyclic Graph (DAG) in the PARSEC protocol.
 
