@@ -431,9 +431,9 @@ Bu metin NH’nin orijinal vizyon belgelerine ve AA’nın güncellemelerine day
 
 [2] E. Kouloumpis ve ark. Twitter Duyarlılık Analizi: Kötü, İyi ve AMAN TANRIM!”, Uluslararası AAAI Weblogs ve Sosyal Medya Konferansı (ICWSM-11) (2011)
 
-[3] A. Severyn ve ark. Twitter Sentiment Analysis with Deep Convolutional Neural Networks, International ACM SIGIR Conference on Research and Development in Information Retrieval:959-962 (2015)
+[3] A. Severyn ve ark. Derin Konvolüsyonel Sinir Ağları ile Twitter Duyarlılık Analizi, Bilgi Alma Alanında Araştırma ve Geliştirme Uluslararası ACM SIGIR Konferansı:959-962 (2015)
 
-[4] C.J. & Gilbert ve diğerleri. VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text. Uluslararası Weblogs ve Sosyal Medya Konferansı (ICWSM-14) 8 (2014)
+[4] C.J. & Gilbert ve diğerleri. VADER: Sosyal Medya Metninin Duyarlılık Analizi için Temel Kural Bazlı Bir Model. Uluslararası Weblogs ve Sosyal Medya Konferansı (ICWSM-14) 8 (2014)
 
 [5] Kuş ve ark. Python ile Doğal Dil İşleme, O’Reilly Media Inc. (2009)
 
@@ -461,4 +461,4 @@ Bu metin NH’nin orijinal vizyon belgelerine ve AA’nın güncellemelerine day
 
 [17] <https://www.investopedia.com>
 
-Brackets at the end of certain references indicate the part of the paper that uses this reference.
+Belirlenmiş referansların sonundaki parantezler, bu referansı kullanan kağıdın bir kısmını gösterir.
