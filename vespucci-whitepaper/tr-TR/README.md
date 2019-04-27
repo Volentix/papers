@@ -409,9 +409,9 @@ Başlangıçta, bu işlemlerin çoğu Linux Sanal Makineleri'nde gerçekleştiri
 
 Alternatif uygulamalar kolayca değiştirilebilir olsa da, Duygu Analizi ve muhtemelen diğer modüller için, bir **node.js** sistemi kullanılır. Vespucci'nin son sürümü için, toplanan bilgilerin kaydedilmesi ve sürekli bir şekilde elde edilmesi, statik bir yerde saklanması zorunludur. MongoDB, bu gibi bilgileri okumak ve yazmak için sistemdeki diğer modüller tarafından kullanılabilir. MongoDB, Vespucci sisteminde mevcut veriler için olduğu gibi, yapılandırılmış bilgilerin depolanmasında yararlı, olgun bir belge odaklı veritabanıdır. CockroachDB bir alternatif olabilir.
 
-Vespucci **veri** kaynakları aşağıdakileri içerebilir ancak bunlarla sınırlı değildir: tarihi ticaret kayıtları, ticaret eğilimleri, geliştirici faaliyeti ve plan analizi, dijital varlık dağıtımı ve yönetim bilgileri, şartlar ve koşullar ve mevcut ve tarihi adres dengeleri ile birlikte forum duyarlılığı analizi. Bu bilgi blok zinciri gezgin siteleri ve sohbet odaları arasında dağınık olarak bulunabilir. Özellikle, Duyarlılık analizi (ilgili [bölüme](https://docs.google.com/document/d/1NLr-rgF66NCBmLmPIdElltKYVPJrLVO7DZDpcNEm6OU/edit?ts=5bec2f33#heading=h.tuaauijo691s) bakın) sınırlı bir süre için tüm madeni paralar üzerinde veri gerektirecektir. This is a vast amount of data and in order to minimise the impact that data will have on the system, we employ big data techniques of compression, aggregation, and filtering.
+Vespucci **veri** kaynakları aşağıdakileri içerebilir ancak bunlarla sınırlı değildir: tarihi ticaret kayıtları, ticaret eğilimleri, geliştirici faaliyeti ve plan analizi, dijital varlık dağıtımı ve yönetim bilgileri, şartlar ve koşullar ve mevcut ve tarihi adres dengeleri ile birlikte forum duyarlılığı analizi. Bu bilgi blok zinciri gezgin siteleri ve sohbet odaları arasında dağınık olarak bulunabilir. Özellikle, Duyarlılık analizi (ilgili [bölüme](https://docs.google.com/document/d/1NLr-rgF66NCBmLmPIdElltKYVPJrLVO7DZDpcNEm6OU/edit?ts=5bec2f33#heading=h.tuaauijo691s) bakın) sınırlı bir süre için tüm madeni paralar üzerinde veri gerektirecektir. Bu, çok miktarda veridir ve verilerin sistem üzerindeki etkisini en aza indirmek için, büyük veri sıkıştırma, toplama ve filtreleme teknikleri kullanıyoruz.
 
-Storage techniques may rely on off-chain Order books developed by VLabs, which is a sophisticated data structure with high security standards. EOS.IO'ya ve kalıcı API'ına güvenir. One advantage of such a system is that it is not expensive; on the other hand, it is sufficiently efficient for our purposes. İşlemler VDex tarafından gerçekleştirilirken, işlem yapmayan veriler zincir dışında kalacaktır.
+Depolama teknikleri, yüksek güvenlik standartlarına sahip sofistike bir veri yapısı olan VLabs tarafından geliştirilen zincirli olmayan Emir kitaplarına dayanabilir. EOS.IO'ya ve kalıcı API'ına güvenir. Böyle bir sistemin bir avantajı pahalı olmamasıdır; diğer yandan, bizim amaçlarımız için yeterince verimlidir. İşlemler VDex tarafından gerçekleştirilirken, işlem yapmayan veriler zincir dışında kalacaktır.
 
 * ### **ZAMAN ÇİZELGESİ**
 
@@ -427,7 +427,7 @@ Bu metin NH’nin orijinal vizyon belgelerine ve AA’nın güncellemelerine day
 
 ### **REFERANSLAR**
 
-[1] J. Yao ve ark. Forecasting and Analysis of Marketing Data using Neural Networks”, Journal of Science and Engineering 14:843-862 (1998)
+[1] J. Yao ve ark. Sinir Ağları kullanarak Pazarlama Verilerinin Tahmini ve Analizi”, Bilim ve Mühendislik Dergisi 14:843-862 (1998)
 
 [2] E. Kouloumpis ve ark. Twitter Duyarlılık Analizi: Kötü, İyi ve AMAN TANRIM!”, Uluslararası AAAI Weblogs ve Sosyal Medya Konferansı (ICWSM-11) (2011)
 
