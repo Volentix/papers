@@ -8,7 +8,7 @@ VDex başlangıç noktası, Volentix'in tasarım gereksinimlerini EOS.IO merkezi
 
 ## PİYASA YETKİSİ
 
-In the second decade since the emergence of Bitcoin, the digital asset marketplace is defined by the dizzying highs and lows experienced by a tiny percentage of the global population trading thousands of cryptocurrencies many of which are outright scams. Dolandırıcılıkların ötesine bakmak ve son on yılda ortaya çıkan güvenilir dijital uygulama teknolojilerinin değerini gözlemlemek, eğer bu teknolojileri ilerletmek ve yaymak istiyorsak, o zaman ana akıma nüfuz etmeleri gerekir. Yasal dijital para birimleri geniş ticarette kullanılmalıdır. Dijital varlıkların yayılmasının temel odağı, kullanıcı deneyimini basitleştirmek ve zenginleştirmek olmalıdır. Mevcut teknolojilerin istihdam edileceği seçimler ve kullanılamayacak teknolojilerin geliştirilmesinde, kullanıcı  
+Bitcoin'in ortaya çıkışından bu yana geçen ikinci on yılda, dijital varlık piyasası, çoğu düpedüz dolandırıcılık yapan binlerce kripto para birimi ticareti yapan küresel nüfusun küçük bir yüzdesi tarafından deneyimlenen baş döndürücü yüksek ve düşük oranlarla tanımlanmaktadır. Dolandırıcılıkların ötesine bakmak ve son on yılda ortaya çıkan güvenilir dijital uygulama teknolojilerinin değerini gözlemlemek, eğer bu teknolojileri ilerletmek ve yaymak istiyorsak, o zaman ana akıma nüfuz etmeleri gerekir. Yasal dijital para birimleri geniş ticarette kullanılmalıdır. Dijital varlıkların yayılmasının temel odağı, kullanıcı deneyimini basitleştirmek ve zenginleştirmek olmalıdır. Mevcut teknolojilerin istihdam edileceği seçimler ve kullanılamayacak teknolojilerin geliştirilmesinde, kullanıcı  
 işlemlerinin ve ilgili deneyimlerin konforu, kesinliği ve güvenliği esas alınmalıdır.
 
 ## PİYASA GİRİŞİ
