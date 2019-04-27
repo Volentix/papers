@@ -397,7 +397,7 @@ Dinleme ve analiz düğümlerinden oluşan bilgisayar kümemizi etkin bir şekil
 
 ![](https://volentix.io/file/2019/01/Web-1920-–-3@2x.png)
 
-The **implementation** of the Vespucci analysis tools is in Python using various data analytics libraries, wrappers for the different APIs, and libraries for machine learning. Kullanılacak kütüphaneler aşağıdakilerden bazılarıdır:
+Vespucci analiz araçlarının **uygulanması**, çeşitli veri analitik kütüphaneleri, farklı API'ler için sarıcılar ve makine öğrenimi için kütüphaneler kullanan Python'dadır. Kullanılacak kütüphaneler aşağıdakilerden bazılarıdır:
 
 * NumPy, Pandas, Seaborn, analiz bölümü için matplotlib.
 * Makine öğrenimi için Scikit-learn, TensorFlow.
