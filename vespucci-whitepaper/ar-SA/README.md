@@ -281,20 +281,20 @@
 * تتعلق التدرجية بكيفية تأثر أداء النظام بعدد العُقد، المعاملات والمستخدمين، وتشتت المواقع الجغرافية للعُقد.
 * متطلبات الأجهزة للتخزين، الذاكرة والمعالجات اللازمة لتخزين شبكة السلسلة والتحقق من صحة المعاملات والكتل ، فضلاً عن كيفية تغيير هذه المتطلبات أثناء نمو الشبكات.
 
-لتطبيق التحليل أعلاه، المزيد من التفاصيل توجد في القسم التالي. تتوفر اليوم مستكشفات سلاسل الكتل على نطاق واسع لدعم هذه المهمة. على وجه الخصوص ، تم دمج مستكشفات مثل [coinmetrics](https://coinmetrics.io/) و[cryptocompare](https://www.cryptocompare.com/) لتلبية إحتاجيات اتفاقية التجارة الحرة. The former is an open source crypto-asset analytics service, providing daily data for the most major cryptocurrencies (about 64 currently). Cryptocompare is a platform with live cryptocurrency data; its API makes available historical and live streaming cryptocurrency data, such as pricing, volume and block explorer data from multiple exchanges and blockchains.
+لتطبيق التحليل أعلاه، المزيد من التفاصيل توجد في القسم التالي. تتوفر اليوم مستكشفات سلاسل الكتل على نطاق واسع لدعم هذه المهمة. على وجه الخصوص ، تم دمج مستكشفات مثل [coinmetrics](https://coinmetrics.io/) و[cryptocompare](https://www.cryptocompare.com/) لتلبية إحتاجيات اتفاقية التجارة الحرة. السابقة هي عبارة عن خدمة تحليلات خاصة بتشفير الأصول مفتوحة المصدر، حيث يتم توفير بيانات يومية لمعظم العملات الرقمية الرئيسية (حوالي 64 حاليًا). Cryptocompare is a platform with live cryptocurrency data; its API makes available historical and live streaming cryptocurrency data, such as pricing, volume and block explorer data from multiple exchanges and blockchains.
 
 Among others, some of the features available by both APIs are:
 
 * عدد المعاملات - عدد المعاملات التي تحدث على شبكة الكتل العامة في اليوم
-* transaction volume (usd) – total value of outputs on the blockchain, on a given day
-* adjusted transaction volume (usd) – estimated ([https://coinmetrics.io/introducing-adjusted-estimates](https://coinmetrics.io/introducing-adjusted-estimates/))
-* payment count
-* active addresses
-* fees
-* median fee
-* generated coins
-* average difficulty
-* median transaction value (usd)
+* حجم المعاملات (دولار) - القيمة الإجمالية للإخراجات على شبكة الكتل، في يوم معين
+* حجم المعاملة المعدّل (دولار أمريكي) - المقدّر ([https://coinmetrics.io/introducing-adjusted-estimates](https://coinmetrics.io/introducing-adjusted-estimates/))
+* عدد الدفع
+* العناوين نشطة
+* الرسوم
+* الرسوم الوسيطة
+* العملات المنشأة
+* الصعوبة المتوسطة
+* قيمة المعاملة الوسيطة (دولار)
 * block size
 * block count
 * price (usd)
@@ -318,7 +318,7 @@ Among others, some of the features available by both APIs are:
 
 تفحص هذه الوحدة (المتعلقة بتحليل المعنويات) معلومات من Github ومصادر أخرى كمراجعة المستندات. يقيم جودة قاعدة الشفرة من خلال النظر في الإشارات الاجتماعية المعروفة بين مطوري البرمجيات، وعلى وجه الخصوص:
 
-* خبرة الفريق وسجلهم والتزامهم المتواصل بمشروعهم (تردد طلبات الإيداع، وتردد استجابة المجتمع لالأخطاء، المساهمات، ومقدار الوقت الذي يقضونه باستمرار في بناء المشروع)،
+* خبرة الفريق وسجلهم والتزامهم المتواصل بمشروعهم (تردد طلبات الإيداع، وتردد استجابة المجتمع للأخطاء، المساهمات، ومقدار الوقت الذي يقضونه باستمرار في بناء المشروع)،
 * النشاط على GitHub ، والذي يرتبط ارتباطًا وثيقًا بالعنصر السابق، وعدد المتابعين للمشروع،
 * جودة الشفرة (لغات البرمجة، تغطية الاختبار، نسبة الأخطاء مقارنة بعدد الخطوط، فواصل البناء ، إلخ)، المتانة، وصيانة البرنامج،
 * الورقة البيضاء المطابقة.
