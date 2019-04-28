@@ -274,7 +274,7 @@
 * معدل التجزئة (Hash rate) مقابل الصعوبة مع مرور الوقت، السعر واستهلاك الطاقة. يمكن أن تظهر هذه المؤشرات العديد من الارتباطات مع معدل التجزئة، أي أن هذا الأخير يمكن أن يتبع زيادة أو نقصان مماثل في السعر. معدل تجزئة الشبكات هو أيضًا مؤشر أمان، نظرًا لأن الشبكات ذات معدل التجزئة المنخفض أسهل في التلاعب بها.
 * نشاط العُقدة والتوزيع. العُقد هي أجزاء حيوية من سلسلة الكتل لأنها التي تقوم بالحفاظ على نشاط الشبكة. فهي تكون متصلة بشبكة السلسلة، حيث تقوم بنقل واستقبال المعاملات وذلك مع إمتلاك نسخة خاصة بها من السلسلة. لذلك، يمكن أن يوفر نشاطها، توزيعها ومتوسط حجمها معلومات مفيدة حول السلسلة.
 * توزيع العملات بما في ذلك معلومات حول كيفية توزيع العملة بين المطورين، وفريق الإنشاء/الإنتاج وعامة الشعب. أيضًا، يبدو أن معدل التغير في إجمالي العرض وكيفية توزيعه يوفر إحصائيات مفيدة حول القيمة الفعلية للعملة وإشارة إلى عمليات الاحتيال المحتملة.
-* Miner distribution‬, indicating the number of miners online and how they are distributed (by pool), their fees, luck etc. Also,he software version of miners is also important, since ideally they should be on its latest version in order to support all the features of the Coin that they are mining.
+* توزيع المعدِنين مع الإشارة إلى عدد المعدِنين على الإنترنت وكيفية توزيعهم (حسب المجموعة)، رسومهم، حظهم، إلخ. يعتبر أيضًا إصدار البرمجيات الخاص بالمعدِنين مهمًا، لأنه من الأفضل أن يمتلكوا أحدث إصدار من أجل دعم جميع ميزات العملة التي يقومون بتعدينها.
 * Transaction levels, where various measures could be taken into account, such as the number of transactions submitted or validated per second by each node and the entire network, the average time of validation for a transaction and its volatility.
 * Tra nsactions fees, that users might pay to the network, in order to complete transactions or smart contracts.
 * Security includes several aspects such as the vulnerability of the system to attacks (e.g. double spending, Sybil attacks), the confidentiality of transactions, as well as user anonymity.
@@ -324,7 +324,7 @@ Among others, some of the features available by both APIs are:
 * الورقة البيضاء المطابقة.
 * المبادئ الحسابية والتشفيرية للنظام.
 
-More specifically, some features of the git repositories that determine the repository’s popularity and robustness are its forks and stars, the activity of the maintenance team, measured by the rate of issues closed and of pull requests, as well as the quality of the project’s source code, measured by its test coverage and other code quality metrics. These can be obtained from the [CoinGecko](https://www.coingecko.com/en) API, a cryptocurrency ranking chart app that ranks digital currencies by developer activity, community, and liquidity.
+وبالتحديد، تحدد شعبية مستودعات git وقوتها شوكاتها ونجومها، نشاط فريق الصيانة الذي يتم قياسه حسب معدل المشكلات التي تم إغلاقها وطلبات السحب ،وكذلك جودة شفرة مصدر المشروع التي يتم قياسها حسب تغطية الاختبار ومقاييس جودة الشفرة الأخرى. These can be obtained from the [CoinGecko](https://www.coingecko.com/en) API, a cryptocurrency ranking chart app that ranks digital currencies by developer activity, community, and liquidity.
 
 The combination of these criteria relies essentially on an adapted and powerful scoring function which, eventually, may be replaced by a Convolutional Neural Network, also discussed in support of Sentiment Analysis (see relevant section).
 
