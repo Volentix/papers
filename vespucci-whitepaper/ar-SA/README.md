@@ -306,7 +306,7 @@ Among others, some of the features available by both APIs are:
 * net hashes per second
 * total coins mined
 
-**Source Code – Developer activity**
+**شفرة المصدر - نشاط المطور**
 
 There is an aspect of quantitative analysis from a social perspective which looks at the involvement of the developer community surrounding the project, quite related to Sentiment Analysis. Research into metrics that accurately reflect rates of community participation as well as creator participation will be assessed. These factors may include but are not limited to:‬
 
