@@ -417,15 +417,15 @@ Storage techniques may rely on off-chain Order books developed by VLabs, which i
 
 ![](https://volentix.io/file/2019/01/Web-1920-–-2@3x.png)
 
-The project’s timeline is shown in the above figure. The main milestones are:  
-— Vespucci MVP. November 2018 .  
-— Vespucci, version 1.0\. April 2019.
+يظهر الجدول الزمني للمشروع في الشكل أعلاه. الأحداث الرئيسية هي:  
+— Vespucci MVP. نوفمبر 2018 .  
+— إصدار Vespucci 1.0\. أفريل 2019.
 
 ### **ACKNOWLEDGMENTS**
 
 This text is based on NH’s original vision docs and AA’s update on them.
 
-### **REFERENCES**
+### **المراجع**
 
 [1] J. Yao et al. Forecasting and Analysis of Marketing Data using Neural Networks”, Journal of Science and Engineering 14:843-862 (1998)
 
@@ -461,4 +461,4 @@ This text is based on NH’s original vision docs and AA’s update on them.
 
 [17] <https://www.investopedia.com>
 
-Brackets at the end of certain references indicate the part of the paper that uses this reference.
+تشير الأقواس الموجودة في نهاية بعض المراجع إلى جزء الورقة الذي يستخدم هذا المرجع.
