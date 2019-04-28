@@ -272,7 +272,7 @@
 
 * يعتبر وقت إنتشار الكتل (Block propagation) أمرًا مهمًا، حيث يجب نشر الكتل التي تم العثور عليها حديثًا في أسرع وقت ممكن عبر شبكة السلسلة. باستثناء وقت انتظار المستخدم، هناك مشكلة رئيسية أخرى تأتي من وقت الانتشار وهي أنه حتى بالنسبة للتأخيرات الضئيلة، قد تفوز كتلة أخرى موجودة في نفس الوقت بـ "سباق الكتل" (block race).
 * معدل التجزئة (Hash rate) مقابل الصعوبة مع مرور الوقت، السعر واستهلاك الطاقة. يمكن أن تظهر هذه المؤشرات العديد من الارتباطات مع معدل التجزئة، أي أن هذا الأخير يمكن أن يتبع زيادة أو نقصان مماثل في السعر. معدل تجزئة الشبكات هو أيضًا مؤشر أمان، نظرًا لأن الشبكات ذات معدل التجزئة المنخفض أسهل في التلاعب بها.
-* نشاط العقدة والتوزيع. Nodes are vital parts of a blockchain, since it is maintained by them. They are connected to the blockchain network, transmitting and receiving the transactions, having their own copy of the blockchain. Therefore, their activity, distribution and average size can provide useful information about the blockchain.
+* نشاط العُقدة والتوزيع. العُقد هي أجزاء حيوية من سلسلة الكتل لأنها التي تقوم بالحفاظ على نشاط الشبكة. They are connected to the blockchain network, transmitting and receiving the transactions, having their own copy of the blockchain. Therefore, their activity, distribution and average size can provide useful information about the blockchain.
 * Coin distribution‬, including information on how the coin is distributed among the developers, the foundation/production team, and the public. Also, the rate of change of the total supply and how is then distributed seems to provide useful statistics on the actual value of the coin and indication of possible frauds.
 * Miner distribution‬, indicating the number of miners online and how they are distributed (by pool), their fees, luck etc. Also,he software version of miners is also important, since ideally they should be on its latest version in order to support all the features of the Coin that they are mining.
 * Transaction levels, where various measures could be taken into account, such as the number of transactions submitted or validated per second by each node and the entire network, the average time of validation for a transaction and its volatility.
@@ -320,9 +320,9 @@ Among others, some of the features available by both APIs are:
 
 * خبرة الفريق وسجلهم والتزامهم المتواصل بمشروعهم (تردد طلبات الإيداع، وتردد استجابة المجتمع لالأخطاء، المساهمات، ومقدار الوقت الذي يقضونه باستمرار في بناء المشروع)،
 * النشاط على GitHub ، والذي يرتبط ارتباطًا وثيقًا بالعنصر السابق، وعدد المتابعين للمشروع،
-* The quality of code (programming languages, test coverage, ratio of bugs over lines of code,build breaks etc), robustness, and maintenance of the software,
-* The corresponding white paper.
-* The mathematical and cryptographical principles of the system.
+* جودة الشفرة (لغات البرمجة، تغطية الاختبار، نسبة الأخطاء مقارنة بعدد الخطوط، فواصل البناء ، إلخ)، المتانة، وصيانة البرنامج،
+* الورقة البيضاء المطابقة.
+* المبادئ الحسابية والتشفيرية للنظام.
 
 More specifically, some features of the git repositories that determine the repository’s popularity and robustness are its forks and stars, the activity of the maintenance team, measured by the rate of issues closed and of pull requests, as well as the quality of the project’s source code, measured by its test coverage and other code quality metrics. These can be obtained from the [CoinGecko](https://www.coingecko.com/en) API, a cryptocurrency ranking chart app that ranks digital currencies by developer activity, community, and liquidity.
 
