@@ -266,9 +266,9 @@
 4. Senkou Span B: يتم حسابه من أعلى وأدنى مستوى على مدار الـ 52 فترة الماضية، ولمدة 26 فترة قادمة. يتم استخدام الخط الناتج لتحديد مجالات الدعم والمقاومة المستقبلية.
 5. Chickou Span: هو سعر إغلاق الفترة الحالية الذي تم تخطيطه منذ 26 يوم على الرسم البياني. يستخدم هذا الخط لإظهار مجالات الدعم والمقاومة المحتملة.
 
-* #### **FUNDAMENTAL AND TECHNOLOGICAL ANALYSIS**
+#### **التحليل الأساسي والتكنولوجي**
 
-Various blockchain technologies have been developed to tackle various challenges and, therefore, are meant to satisfy different requirements. A review of the technical concepts of the different blockchain technologies is our basis in understanding the impact of the different architectures in terms of performance, privacy, security and regulation. Quantitative analysis from a technological perspective (not to be confused with technical analysis) appraises and correlates various network statistics gleamed from the blockchain, giving a real-time view of the cryptocurrency. These statistics include but are not limited to:‬
+تم تطوير العديد من تقنيات سلاسل الكتل للتعامل مع شتى التحديات والهدف منها تلبية الاحتياجات المختلفة. إن مراجعة المفاهيم التقنية الخاصة بسلاسل الكتل المختلفة هي الأساس الذي نتبعه في فهم تأثير مختلف الهياكل من حيث الأداء، الخصوصية، الأمن والتنظيم. Quantitative analysis from a technological perspective (not to be confused with technical analysis) appraises and correlates various network statistics gleamed from the blockchain, giving a real-time view of the cryptocurrency. These statistics include but are not limited to:‬
 
 * Block propagation time is important, since newly-found blocks need to be propagated as soon as possible across the blockchain network. Except for the waiting time for the user, another major issue coming from propagation time is that even for tiny delays‬, another block found at the same time might win the “block race”.
 * Hash rate vs Difficulty over Time‬, Price and Power consumption. These indicators, could show various correlations with Hash Rate, i.e. the hashrate could follow a corresponding increase or decrease to the price. Networks’ Hash Rate is also a security indicator, since networks which have low hash rate is easier to be tampered.
@@ -308,13 +308,13 @@ Among others, some of the features available by both APIs are:
 
 **شفرة المصدر - نشاط المطور**
 
-There is an aspect of quantitative analysis from a social perspective which looks at the involvement of the developer community surrounding the project, quite related to Sentiment Analysis. Research into metrics that accurately reflect rates of community participation as well as creator participation will be assessed. These factors may include but are not limited to:‬
+ينظر جانب التحليل الكمي من منظور اجتماعي إلى مشاركة مجتمع المطورين المحيط بالمشروع، وهو يرتبط تمامًا بتحليل المعنويات. سيتم تقييم البحث في المقاييس التي تعكس بدقة معدلات مشاركة المجتمع وكذلك مشاركة ‏‏المنشئين. قد تشمل هذه العوامل على سبيل المثال لكنها لا تقف على:
 
-‪• online community participation
+• مشاركة المجتمع عبر الإنترنت
 
-‪• code base activity‬
+• نشاط خاص بالشفرة
 
-‪• creator approachability and responsiveness ‬.
+• قبول المنشئ واستجابته.
 
 This module (related to Sentiment analysis) examines information from Github and other sources such as literature review. It grades the quality of a codebase by looking at social cues well-known among software developers, and in particular:
 
