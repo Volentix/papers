@@ -278,14 +278,14 @@
 * مستويات المعاملات، حيث يمكن أن تؤخذ مختلف التدابير بعين الاعتبار ، مثل عدد المعاملات التي تم تقديمها أو التحقق من صحتها في الثانية الواحدة من قبل كل عقدة والشبكة بأكملها، متوسط وقت التحقق من صحة المعاملة وتقلبها.
 * رسوم المعاملات التي قد يدفعها المستخدمون إلى الشبكة لإكمال المعاملات أو العقود الذكية.
 * يشمل الأمن عدة جوانب مثل قابلية تعرض النظام للهجمات (مثل الإنفاق المزدوج (double spending)، وهجمات سيبل (Sybil attacks))، سرية المعاملات، فضلاً عن إخفاء هوية المستخدم.
-* Scalability concerns how the system’s performance is affected by the number of nodes, transactions and users, and the scattering of the geographic positions of the nodes.
-* Hardware requirements for storage, memory and processors needed to store the blockchain network and validate the transactions and blocks, as well as how these requirements change while the networks grows.
+* تتعلق التدرجية بكيفية تأثر أداء النظام بعدد العُقد، المعاملات والمستخدمين، وتشتت المواقع الجغرافية للعُقد.
+* متطلبات الأجهزة للتخزين، الذاكرة والمعالجات اللازمة لتخزين شبكة السلسلة والتحقق من صحة المعاملات والكتل ، فضلاً عن كيفية تغيير هذه المتطلبات أثناء نمو الشبكات.
 
-To implement the above analysis, further detail is given in the next section. Today, blockchain explorers are widely available to support this task. In particular, blockchain explorers such as [coinmetrics](https://coinmetrics.io/) and [cryptocompare](https://www.cryptocompare.com/) were combined, in order to meet the needs of FTA. The former is an open source crypto-asset analytics service, providing daily data for the most major cryptocurrencies (about 64 currently). Cryptocompare is a platform with live cryptocurrency data; its API makes available historical and live streaming cryptocurrency data, such as pricing, volume and block explorer data from multiple exchanges and blockchains.
+لتطبيق التحليل أعلاه، المزيد من التفاصيل توجد في القسم التالي. تتوفر اليوم مستكشفات سلاسل الكتل على نطاق واسع لدعم هذه المهمة. على وجه الخصوص ، تم دمج مستكشفات مثل [coinmetrics](https://coinmetrics.io/) و[cryptocompare](https://www.cryptocompare.com/) لتلبية إحتاجيات اتفاقية التجارة الحرة. The former is an open source crypto-asset analytics service, providing daily data for the most major cryptocurrencies (about 64 currently). Cryptocompare is a platform with live cryptocurrency data; its API makes available historical and live streaming cryptocurrency data, such as pricing, volume and block explorer data from multiple exchanges and blockchains.
 
 Among others, some of the features available by both APIs are:
 
-* transaction count – number of transactions happening on the public blockchain a day
+* عدد المعاملات - عدد المعاملات التي تحدث على شبكة الكتل العامة في اليوم
 * transaction volume (usd) – total value of outputs on the blockchain, on a given day
 * adjusted transaction volume (usd) – estimated ([https://coinmetrics.io/introducing-adjusted-estimates](https://coinmetrics.io/introducing-adjusted-estimates/))
 * payment count
@@ -324,9 +324,9 @@ Among others, some of the features available by both APIs are:
 * الورقة البيضاء المطابقة.
 * المبادئ الحسابية والتشفيرية للنظام.
 
-وبالتحديد، تحدد شعبية مستودعات git وقوتها شوكاتها ونجومها، نشاط فريق الصيانة الذي يتم قياسه حسب معدل المشكلات التي تم إغلاقها وطلبات السحب ،وكذلك جودة شفرة مصدر المشروع التي يتم قياسها حسب تغطية الاختبار ومقاييس جودة الشفرة الأخرى. These can be obtained from the [CoinGecko](https://www.coingecko.com/en) API, a cryptocurrency ranking chart app that ranks digital currencies by developer activity, community, and liquidity.
+وبالتحديد، تحدد شعبية مستودعات git وقوتها شوكاتها ونجومها، نشاط فريق الصيانة الذي يتم قياسه حسب معدل المشكلات التي تم إغلاقها وطلبات السحب ،وكذلك جودة شفرة مصدر المشروع التي يتم قياسها حسب تغطية الاختبار ومقاييس جودة الشفرة الأخرى. يمكن الحصول عليها من [CoinGecko ](https://www.coingecko.com/en)API، وهو تطبيق تصنيف للرسوم البيانية الخاصة بالعملات الإلكترونية الذي يقوم بتصنيف العملات الالكترونية حسب نشاط المطور والمجتمع والسيولة.
 
-The combination of these criteria relies essentially on an adapted and powerful scoring function which, eventually, may be replaced by a Convolutional Neural Network, also discussed in support of Sentiment Analysis (see relevant section).
+يعتمد الجمع بين هذه المعايير بشكل أساسي على وظيفة تسجيل قوية ومكيفة يمكن استبدالها في النهاية بشبكة عصبية تلافيفية (Convolutional Neural Network)، تمت مناقشتها أيضًا لدعم تحليل المعنويات (انظر القسم ذي الصلة).
 
 * #### **BLOCKCHAIN STATISTICS, BLOCKCHAIN FULL NODE, AND EVM ANALYSIS**
 
