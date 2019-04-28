@@ -268,9 +268,9 @@
 
 #### **التحليل الأساسي والتكنولوجي**
 
-تم تطوير العديد من تقنيات سلاسل الكتل للتعامل مع شتى التحديات والهدف منها تلبية الاحتياجات المختلفة. إن مراجعة المفاهيم التقنية الخاصة بسلاسل الكتل المختلفة هي الأساس الذي نتبعه في فهم تأثير مختلف الهياكل من حيث الأداء، الخصوصية، الأمن والتنظيم. Quantitative analysis from a technological perspective (not to be confused with technical analysis) appraises and correlates various network statistics gleamed from the blockchain, giving a real-time view of the cryptocurrency. These statistics include but are not limited to:‬
+تم تطوير العديد من تقنيات سلاسل الكتل للتعامل مع شتى التحديات والهدف منها تلبية الاحتياجات المختلفة. إن مراجعة المفاهيم التقنية الخاصة بسلاسل الكتل المختلفة هي الأساس الذي نتبعه في فهم تأثير مختلف الهياكل من حيث الأداء، الخصوصية، الأمن والتنظيم. من منظور تقني، يقوم التحليل الكمي (يجب عدم الخلط بينه وبين التحليل الفني) بتقييم مختلف إحصاءات الشبكة المأخوذة من السلسلة والربط بينها، مما يوفر عرضًا في الوقت الفعلي للعملة الرقمية. تشمل هذه الإحصاءات لكنها لا تقف عند:
 
-* Block propagation time is important, since newly-found blocks need to be propagated as soon as possible across the blockchain network. Except for the waiting time for the user, another major issue coming from propagation time is that even for tiny delays‬, another block found at the same time might win the “block race”.
+* يعتبر وقت نشر الكتل (Block propagation) أمرًا مهمًا، حيث يجب نشر الكتل التي تم العثور عليها حديثًا في أسرع وقت ممكن عبر شبكة السلسلة. Except for the waiting time for the user, another major issue coming from propagation time is that even for tiny delays‬, another block found at the same time might win the “block race”.
 * Hash rate vs Difficulty over Time‬, Price and Power consumption. These indicators, could show various correlations with Hash Rate, i.e. the hashrate could follow a corresponding increase or decrease to the price. Networks’ Hash Rate is also a security indicator, since networks which have low hash rate is easier to be tampered.
 * Node activity‬ and distribution‬. Nodes are vital parts of a blockchain, since it is maintained by them. They are connected to the blockchain network, transmitting and receiving the transactions, having their own copy of the blockchain. Therefore, their activity, distribution and average size can provide useful information about the blockchain.
 * Coin distribution‬, including information on how the coin is distributed among the developers, the foundation/production team, and the public. Also, the rate of change of the total supply and how is then distributed seems to provide useful statistics on the actual value of the coin and indication of possible frauds.
@@ -308,7 +308,7 @@ Among others, some of the features available by both APIs are:
 
 **شفرة المصدر - نشاط المطور**
 
-ينظر جانب التحليل الكمي من منظور اجتماعي إلى مشاركة مجتمع المطورين المحيط بالمشروع، وهو يرتبط تمامًا بتحليل المعنويات. سيتم تقييم البحث في المقاييس التي تعكس بدقة معدلات مشاركة المجتمع وكذلك مشاركة ‏‏المنشئين. قد تشمل هذه العوامل على سبيل المثال لكنها لا تقف على:
+ينظر جانب التحليل الكمي من منظور اجتماعي إلى مشاركة مجتمع المطورين المحيط بالمشروع، وهو يرتبط تمامًا بتحليل المعنويات. سيتم تقييم البحث في المقاييس التي تعكس بدقة معدلات مشاركة المجتمع ومشاركة ‏‏المنشئين. قد تشمل هذه العوامل لكنها لا تقف عند:
 
 • مشاركة المجتمع عبر الإنترنت
 
@@ -316,7 +316,7 @@ Among others, some of the features available by both APIs are:
 
 • قبول المنشئ واستجابته.
 
-This module (related to Sentiment analysis) examines information from Github and other sources such as literature review. It grades the quality of a codebase by looking at social cues well-known among software developers, and in particular:
+تفحص هذه الوحدة (المتعلقة بتحليل المعنويات) معلومات من Github ومصادر أخرى كمراجعة المستندات. يقيم جودة قاعدة الشفرة من خلال النظر في الإشارات الاجتماعية المعروفة بين مطوري البرمجيات، وعلى وجه الخصوص:
 
 * The expertise and track record of the team and their continued commitment to their project (frequency of commits, frequency the community responds to bugs, contributions over time, and the amount of time that has been consistently spent building up the project),
 * The activity on GitHub, which is tightly related to the previous item, and the number of followers of the project,
