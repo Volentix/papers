@@ -176,7 +176,7 @@ VTX הוא הנכס הדיגיטלי המקומי שיונפק ובו יעשה �
 
 שלב 2.10%.
 
-4. כספת מבוזרת. 35%. חברי הקהילה תומרצו ותוגמלו עבור השתתפותם בפיתוח המתקדם של ארגון אוטונומי מבוזר (DAO). כספת מבוזרת צפויה תחת חוזים חכמים והסכמה קהילתית. ![](../5.jpg)
+4. כספת מבוזרת. 35%. חברי הקהילה תומרצו ותוגמלו עבור השתתפותם בפיתוח המתקדם של ארגון אוטונומי מבוזר (DAO). כספת מבוזרת צפויה להיות מנוהלת תחת חוזים חכמים והסכמה קהילתית. ![](../5.jpg)
 
 #### 3.4.3 הפצה של VTX
 
@@ -198,7 +198,7 @@ Developers stake EOS.IO-compliant tokens to deploy a smart contract. After the c
 
 #### 3.6.1 תקשורת בין בלוקצ'יינים
 
-EOS.IO נועד להקל על הוכחות התקשורת בין בלוקצ'יינים (IBC). עבור שרשורים עם קיבולת לא מספיקה לעיבוד של הוכחות IBC ומיסוד תוקף, ישנה אפשרות של ברירת מחדל לoracles/escrows אמינים. With an EOS.IO-based smart contract, a trusted multi-signature wallet holding the asset in escrow can be used to persuade the signing/publishing of the transaction based on IBC proofs from the originating chain.
+EOS.IO נועד להפוך הוכחות התקשורת בין בלוקצ'יינים (IBC) לקלות משקל. עבור שרשורים עם קיבולת לא מספיקה לעיבוד של הוכחות IBC ומיסוד תוקף, ישנה אפשרות של ברירת מחדל לoracles/escrows אמינים. With an EOS.IO-based smart contract, a trusted multi-signature wallet holding the asset in escrow can be used to persuade the signing/publishing of the transaction based on IBC proofs from the originating chain.
 
 #### 3.6.2 מידע בלוקצ'יינים
 
