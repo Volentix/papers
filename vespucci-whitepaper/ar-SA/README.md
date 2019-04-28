@@ -275,9 +275,9 @@
 * نشاط العُقدة والتوزيع. العُقد هي أجزاء حيوية من سلسلة الكتل لأنها التي تقوم بالحفاظ على نشاط الشبكة. فهي تكون متصلة بشبكة السلسلة، حيث تقوم بنقل واستقبال المعاملات وذلك مع إمتلاك نسخة خاصة بها من السلسلة. لذلك، يمكن أن يوفر نشاطها، توزيعها ومتوسط حجمها معلومات مفيدة حول السلسلة.
 * توزيع العملات بما في ذلك معلومات حول كيفية توزيع العملة بين المطورين، وفريق الإنشاء/الإنتاج وعامة الشعب. أيضًا، يبدو أن معدل التغير في إجمالي العرض وكيفية توزيعه يوفر إحصائيات مفيدة حول القيمة الفعلية للعملة وإشارة إلى عمليات الاحتيال المحتملة.
 * توزيع المعدِنين مع الإشارة إلى عدد المعدِنين على الإنترنت وكيفية توزيعهم (حسب المجموعة)، رسومهم، حظهم، إلخ. يعتبر أيضًا إصدار البرمجيات الخاص بالمعدِنين مهمًا، لأنه من الأفضل أن يمتلكوا أحدث إصدار من أجل دعم جميع ميزات العملة التي يقومون بتعدينها.
-* Transaction levels, where various measures could be taken into account, such as the number of transactions submitted or validated per second by each node and the entire network, the average time of validation for a transaction and its volatility.
-* Tra nsactions fees, that users might pay to the network, in order to complete transactions or smart contracts.
-* Security includes several aspects such as the vulnerability of the system to attacks (e.g. double spending, Sybil attacks), the confidentiality of transactions, as well as user anonymity.
+* مستويات المعاملات، حيث يمكن أن تؤخذ مختلف التدابير بعين الاعتبار ، مثل عدد المعاملات التي تم تقديمها أو التحقق من صحتها في الثانية الواحدة من قبل كل عقدة والشبكة بأكملها، متوسط وقت التحقق من صحة المعاملة وتقلبها.
+* رسوم المعاملات التي قد يدفعها المستخدمون إلى الشبكة لإكمال المعاملات أو العقود الذكية.
+* يشمل الأمن عدة جوانب مثل قابلية تعرض النظام للهجمات (مثل الإنفاق المزدوج (double spending)، وهجمات سيبل (Sybil attacks))، سرية المعاملات، فضلاً عن إخفاء هوية المستخدم.
 * Scalability concerns how the system’s performance is affected by the number of nodes, transactions and users, and the scattering of the geographic positions of the nodes.
 * Hardware requirements for storage, memory and processors needed to store the blockchain network and validate the transactions and blocks, as well as how these requirements change while the networks grows.
 
