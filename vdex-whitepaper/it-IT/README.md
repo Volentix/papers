@@ -294,7 +294,7 @@ Gli annunci quotidiani dello sviluppo di nuovo codice che influiscono sull'utili
 
 ## 4. PENSIERI CONCLUSIVI
 
-Tutti noi di Volentix stiamo dedicando il nostro lavoro e i nostri pensieri allo sviluppo di un programma basato sull'indipendenza e sull'empowerment. If you are of a mind to join us, in whatever capacity, then please do so and please become educated on the topics contained in this white paper and additional Volentix publications as we share them with our community.
+Tutti noi di Volentix stiamo dedicando il nostro lavoro e i nostri pensieri allo sviluppo di un programma basato sull'indipendenza e sull'empowerment. Se vuoi unirti a noi, qualunque siano le tue abilità, allora ti preghiamo di farlo e di studiare gli argomenti contenuti in questa white paper e le ulteriori pubblicazioni Volentix che condividiamo con la nostra community.
 
 ## 5. TIMELINE
 
