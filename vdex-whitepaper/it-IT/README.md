@@ -290,11 +290,11 @@ I protocolli RAFT e PARSEC forniscono un sistema robusto per il recupero nel cas
 
 ### 3.13 ARCHIETETTURA IN EVOLUZIONE
 
-Gli annunci quotidiani dello sviluppo di nuovo codice che influiscono sull'utilizzo degli asset digitali rivelano l'enorme vantaggio della filosofia del codice open-source. We at Volentix recognize we are the beneficiaries of the enormous financial resources dedicated by many early movers to developing digital assets applications over the past decade. We now have an opportunity to take the next step by creating VDex, a decentralized exchange for the next generation of digital assets transactions.
+Gli annunci quotidiani dello sviluppo di nuovo codice che influiscono sull'utilizzo degli asset digitali rivelano l'enorme vantaggio della filosofia del codice open-source. Noi di Volentix siamo consapevoli di essere i beneficiari delle enormi risorse finanziarie fornite dagli investitori iniziali per lo sviluppo delle applicazioni di asset digitali nell'ultimo decennio. Ora abbiamo l'opportunità di fare il prossimo passo creando VDex, un exchange decentralizzato per la prossima generazione delle transazioni di asset digitali.
 
-## 4. CONCLUDING THOUGHTS
+## 4. PENSIERI CONCLUSIVI
 
-All of us at Volentix are dedicating our work and insights to developing a program premised on empowerment and independence. If you are of a mind to join us, in whatever capacity, then please do so and please become educated on the topics contained in this white paper and additional Volentix publications as we share them with our community.
+Tutti noi di Volentix stiamo dedicando il nostro lavoro e i nostri pensieri allo sviluppo di un programma basato sull'indipendenza e sull'empowerment. If you are of a mind to join us, in whatever capacity, then please do so and please become educated on the topics contained in this white paper and additional Volentix publications as we share them with our community.
 
 ## 5. TIMELINE
 
