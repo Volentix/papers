@@ -288,9 +288,9 @@ Per esempio, inizialmente abbiamo intenzione di erigere un sistema per l'elezion
 
 I protocolli RAFT e PARSEC forniscono un sistema robusto per il recupero nel caso di un errore in un nodo. Sono inoltre fornite misure di sicurezza per il commercio tra blockchain native. If a chain defies identification, the system defaults to the next block or a short time lock.
 
-### 3.13 EVOLVING ARCHITECTURE
+### 3.13 ARCHIETETTURA IN EVOLUZIONE
 
-Daily announcements of fresh code developments impacting on use of digital assets reveal the tremendous benefit of the open-source code philosophy. We at Volentix recognize we are the beneficiaries of the enormous financial resources dedicated by many early movers to developing digital assets applications over the past decade. We now have an opportunity to take the next step by creating VDex, a decentralized exchange for the next generation of digital assets transactions.
+Gli annunci quotidiani dello sviluppo di nuovo codice che influiscono sull'utilizzo degli asset digitali rivelano l'enorme vantaggio della filosofia del codice open-source. We at Volentix recognize we are the beneficiaries of the enormous financial resources dedicated by many early movers to developing digital assets applications over the past decade. We now have an opportunity to take the next step by creating VDex, a decentralized exchange for the next generation of digital assets transactions.
 
 ## 4. CONCLUDING THOUGHTS
 
