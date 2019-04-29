@@ -64,7 +64,7 @@ Il noto e popolare linguaggio di programmazione C++ appare altamente adatto a WA
 
 #### 3.0.2 Messaggi e database definiti da uno schema
 
-I contratti di servizio sono standardizzati per fornire una misura di base dell'interoperabilità tra sistemi diversi attraverso l'armonizzazione dei modelli di dati. Infatti, il principio del modello del Contratto di Servizio Standardizzato prevede che i contratti di servizio siano basati su modelli di dati standardizzati. L'analisi viene effettuata sul progetto dell'inventario dei servizi per scoprire i documenti aziendali più comuni che vengono scambiati tra i servizi. Questi documenti aziendali vengono poi riprodotti in un modo standardizzato. The Canonical Schema pattern reduces the need for application of the data model transformation design pattern. [3]
+I contratti di servizio sono standardizzati per fornire una misura di base dell'interoperabilità tra sistemi diversi attraverso l'armonizzazione dei modelli di dati. Infatti, il principio del modello del Contratto di Servizio Standardizzato prevede che i contratti di servizio siano basati su modelli di dati standardizzati. L'analisi viene effettuata sul progetto dell'inventario dei servizi per scoprire i documenti aziendali più comuni che vengono scambiati tra i servizi. Questi documenti aziendali vengono poi riprodotti in un modo standardizzato. Il modello Canonical Schema riduce il bisogno di applicazione del modello di progettazione per la trasformazione del modello di dati. [3]
 
 #### 3.0.3 Comunicazione Inter-Contract
 
