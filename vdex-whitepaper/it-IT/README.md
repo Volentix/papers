@@ -28,7 +28,7 @@ Verto viene costruito come un wallet multi-valuta da utilizzare con l'exchange d
 
 ### 2.3 VESPUCCI
 
-Vespucci è concepito come un motore di analisi accessibile tramite un'interfaccia facile da usare, contenenti dati, nascosti preziosi, di mercato in tempo reale e storici, come i rating dei beni digitali e l'analisi del sentimento. Vogliamo consentire agli utenti di generare grafici e confrontare gli asset digitali, accedere e analizzare i record di trading passati, tracciare tendenze e modelli, e monitorare e stimare gli sviluppi dei software open source. Vespucci seeks to bring to your fingertips confident and comprehensive market-relevant data by aggregating the information currently scattered throughout many different blockchains, websites, chat rooms, and exchanges.
+Vespucci è concepito come un motore di analisi accessibile tramite un'interfaccia facile da usare, contenenti dati, nascosti preziosi, di mercato in tempo reale e storici, come i rating dei beni digitali e l'analisi del sentimento. Vogliamo consentire agli utenti di generare grafici e confrontare gli asset digitali, accedere e analizzare i record di trading passati, tracciare tendenze e modelli, e monitorare e stimare gli sviluppi dei software open source. Vespucci si sforza di portare tra le vostre mani dati di mercato affidabili e completi, aggregando informazioni che sono attualmente sparse in una vasta gamma di blockchain, siti web, chat room ed exchange.
 
 ### 2.4 VDEX
 
