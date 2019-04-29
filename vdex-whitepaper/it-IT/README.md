@@ -298,9 +298,9 @@ Tutti noi di Volentix stiamo dedicando il nostro lavoro e i nostri pensieri allo
 
 ## 5. TIMELINE
 
-Please monitor our website and social media for updates and other important announcements. Thank you very much for your attention and interest.
+Controlla il nostro sito web e i nostri social media per aggiornamenti e altri annunci importanti. Vi ringraziamo per la vostra attenzione e il vostro interesse.
 
-## DISCLAIMER
+## DISCLAIMER (dichiarazione di esclusione di responsabilità)
 
 This white paper was prepared, and is presented, for information purposes only. The information presented does not purport to be comprehensive. The information is subject to change in whole or in part at any time without notice. Volentix Labs reserves the right to amend, replace, remove, or delete any and all information at the sole and exclusive discretion of Volentix. Volentix Labs makes no representation or warranty, expressed or implied, concerning the accuracy or completeness of the information and expressly disclaims any and all liability of any and all kinds whatsoever for the information contained or not contained. Volentix Labs requests each and every reader to read the information fully and carefully, and to undertake independent investigation and analysis of the information, and to seek and obtain professional advice for purposes of evaluating the information. To the knowledge of Volentix Labs, no regulatory agency, government, or other third-party enforcement entity has reviewed, evaluated, or approved any part or all of the information. This information is not an offer or solicitation of any kind whatsoever and does not form the basis for any contract or commitment of any kind whatsoever. Any statement considered to be forward-looking is purely a matter of opinion, and no viewer should rely on any such statement or on any part or all of the information in any way whatsoever.
 
