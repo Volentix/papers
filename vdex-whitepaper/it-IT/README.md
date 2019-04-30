@@ -330,7 +330,7 @@ Questa white paper è stata preparata, ed è presentata, solo a scopo informativ
 
 12. BlockColliderTeam, Block collider white paper, (2018).
 
-## SUPPLEMENTAL REFERENCES
+## REFERENZE SUPPLEMENTARI
 
 Aelf, A multi-chain parallel computing blockchain framework, (2018).
 
