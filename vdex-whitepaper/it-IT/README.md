@@ -306,7 +306,7 @@ Questa white paper è stata preparata, ed è presentata, solo a scopo informativ
 
 ## NOTE A PIÈ DI PAGINA
 
-1. K. Kurokawa, trasferimenti cross chain Atomic, una panoramica, (2015).
+1. K. Kurokawa, Atomic cross chain transfer, an overview, (2015).
 
 2. EOS.IO, Eos.io technical white paper v2, (2018).
 
