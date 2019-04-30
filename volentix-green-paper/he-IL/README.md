@@ -13,7 +13,7 @@ Volentix מציג בתוכו את VDex, המשמש כ"חלפן כספים" למ�
 
 ## מיפתח השוק
 
-To address the prevailing market mandate, the VOLENTIX ecosystem introduces an initializing array of four digital applications, specifically known as VENUE, VERTO, VESPUCCI, and VDEX.
+בכדי לפנות אל שוק הבורסה, מערכת הVOLENTIX מציגה מערך מגוון של ארבעה יישומים דיגיטליים, הידועים בתור VENUE, VERTO, VESPUCCI, וVDEX.
 
 ## Venue
 
@@ -39,7 +39,7 @@ VDex מעוצב כ''חלפן'' למטבעות ונכסים ממוחשבים, ה�
 
 בכדי להקל גישה בעת שימוש בארבעת העמודים של Volentix, אנו מתכוונים להנפיק את מטבע התשמיש המקומי VTX. קמפיין התחלתי של Venue בעיצומו, ואנו אומדים את הזדמנויות המכירה מראש, כמו כן גם את התנאים והמושגים הפוטנציאלים במידה ותהליך הנפקת המטבע הדיגיטלי מורשה.
 
-As currently conceived, an eosio.token contract from the EOS.IO framework would facilitate the issuance of 2.1 billion EOS.IO-compliant VTX tokens with a circulating supply of 1.3 billion. בתור אסימון שירות, VTX מציג מערך מגוון של שימושים. למידע נוסף, אנא עיין ברשימת ה VDEX הלבנה שלנו ב <https://volentix.io/documentation/vdex-whitepaper.>
+כיום נתפס כי חוזה eosio.token ממסגרת הEOS.IO יסייע בהנפקת 2.1 מיליארד טוקני VTX מותאמי-EOS.IO, עם האספקה המחזורית של 1.3 מיליארד טוקנים. בתור אסימון שירות, VTX מציג מערך מגוון של שימושים. למידע נוסף, אנא עיין ברשימת ה VDEX הלבנה שלנו ב <https://volentix.io/documentation/vdex-whitepaper.>
 
 ## היצע וביקוש בשוק
 

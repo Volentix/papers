@@ -359,27 +359,27 @@ PLATFORM FEATURES
 * Transaction history
 * Technical Characteristics
 * Charts of activity on Github
-* Activity on social networks using points on world map
-* Ability to add other utility charts through a list of parameters
+* פעילות ברשתות חברתיות המשתמשות בנקודות על-גבי מפת העולם
+* היכולת להוסיף טבלאות שירות נוספות באמצעות רשימה של פרמטרים
 
-USER OPTIONS
+אפשרויות משתמש
 
-* Show all the encryption, next to the name and symbol of Vespucci’s rating.
-* Adjust rating system by selecting active Vespucci parameters.
-* Configure rating system by selecting the priority of the basic parameters and adjusting weights.
-* Be informed separately about the effect of the basic parameters via diagrams and gain a deeper picture of those that shape the fluctuation of the value of each currency.
-* Filter the list of cryptocurrencies according to the hash rate and the chronological period they were active on the market.
-* View cryptocurrency features in detail.
+* הצג את כל ההצפנה, על-יד השם והסמל של דירוג Vespucci.
+* התאם את מערכת הדירוג על-ידי בחירת פרמטרים פעילים של Vespucci.
+* קבע את תצורת מערכת הדירוג באמצעות בחירה בעדיפות של הפרמטרים הבסיסיים והתאמתם.
+* תעודכן בנפרד לגבי השפעתו של כל פרמטר בסיסי באמצעות דיאגרמות, כך תוכל להשיג תמונה רחבה יותר על אלה המעצבים את תנודות הערך של כל מטבע.
+* סינון רשימת מטבעות הקריפטו על פי תעריף ה- hash (רוב עומס העבודה של עיבוד הבלוקים) ומשך הזמן בו הם היו פעילים בשוק.
+* תצוגת תכונות מטבעות-קריפטו פרטנית.
 
 ![](https://volentix.io/file/2019/01/main-dashboard-–-3@3x.png)
 
-* ### **OVERALL ARCHITECTURE AND IMPLEMENTATION**
+* ###** עיצוב מבני וביצוע מקיף**
 
-We have discussed the three main subsystems of Fundamental / Technological Analysis, Technical Analysis, and Sentiment Analysis. All three pillars are imperfect. Furthermore, only the most experienced analysts can combine all three systems in one rating strategy. התוצאה הסופית לכל מטבע קריפטו תלויה בכוח של כל אחד משלושת הרכיבים, ונשקלים על פי ערכי ברירות מחדל או לפי המשתמש. כיוון שאנו מאמינים בערך הטכנולוגיה ובערך של הצוות מאחורי כל מטבע ממוחשב, FTA, ובמיוחד בהיבטים הטכנולוגיים העומדים על משקל כולל של 50% ברירת מחדל. בעזרת ביסוס על מחקר וניסויי הערכה של פרמטרים, משקלים מותאמים נגזרים בכמות מדודה של ערך המטבע. אנו מנצלים את פריצות הדרך האחרונות ב''רשתות עצביות עמוקות'' על מנת להפוך את שילוב התוצאות לאוטומטי, ללא התערבות אנושית, וכך גם להימנע מחד- צדדיות ישירה או עקיפה.
+דנו כבר בנושא שלושת תת-המערכות העיקריות של ניתוח טכנולוגי/בסיסי, טכני, ורגשי. שלושת עמודי התווך אינם מושלמים. יתר על כן, רק האנליסטים המנוסים ביותר יכולים לשלב את כל שלושת המערכות באסטרטגיית דירוג אחת. התוצאה הסופית לכל מטבע קריפטו תלויה בכוח של כל אחד משלושת הרכיבים, ונשקלים על פי ערכי ברירות מחדל או לפי המשתמש. כיוון שאנו מאמינים בערך הטכנולוגיה ובערך של הצוות מאחורי כל מטבע ממוחשב, FTA, ובמיוחד בהיבטים הטכנולוגיים העומדים על משקל כולל של 50% ברירת מחדל. בעזרת ביסוס על מחקר וניסויי הערכה של פרמטרים, משקלים מותאמים נגזרים בכמות מדודה של ערך המטבע. אנו מנצלים את פריצות הדרך האחרונות ב''רשתות עצביות עמוקות'' על מנת להפוך את שילוב התוצאות לאוטומטי, ללא התערבות אנושית, וכך גם להימנע מחד- צדדיות ישירה או עקיפה.
 
-The outputs of all three constituents together with the corresponding price (the price being inverse to risk) movements for different frames yield a ranking of the cryptocurrencies and the tokens in the most holistic approach ever achieved. This is coupled with Post-processing for humans.
+התוצרים של שלושת המרכיבים יחד עם תנועות המחיר המקביל (בהיות המחיר חסין לסיכונים) למסגרות שונות נותנים זכות קדימה לדירוג מטבעות הקריפטו והטוקנים בגישה ההוליסטית ביותר שניתן להשיג עד כה. זה מצומד לעיבוד-שלאחר עבור בני-אדם.
 
-לגבי יכולת ההרחבה, Vespucci שימושי במיוחד עבור אסימונים המבוססים על אתריום. This represents many of the most exciting tradeable tokens today, but many new smart contract systems are being developed with their own very particular virtual machines and execution runtimes. מוֹדוּל (יחידת תפקוד עצמאית בתוך מערכת) משמש כדוגמה ממשית ספציפית מתוך מספר של מודולים אחרים כאלה, המיועדים לבניית חוזים חכמים עתידיים במערכת. In particular, systems are likely to appear that expose a semantics especially amenable to formal verification, at which point Vespucci will be extended with new modules resembling this one for each new smart contract system that supports a range of valuable tokens. במשך הזמן, ובעת שארבעת עמודי התווך מושרשים היטב, המערכת חוזה גם לספק ניבוי מחיר.
+לגבי יכולת ההרחבה, Vespucci שימושי במיוחד עבור אסימונים המבוססים על אתריום. This represents many of the most exciting tradeable tokens today, but many new smart contract systems are being developed with their own very particular virtual machines and execution runtimes. מוֹדוּל (יחידת תפקוד עצמאית בתוך מערכת) משמש כדוגמה ממשית ספציפית מתוך מספר של מודולים אחרים כאלה, המיועדים לבניית חוזים חכמים עתידיים במערכת. בפרט, מערכות נוטות להופיע כשחושפות סמנטיקה ונתונות לאימות רשמי, בנקודה זו Vespucci יורחב עם מודלים חדשים המותאמים לכל מערכת ''חוזים חכמים'' אשר תומכת במגוון אסימונים יקרי-ערך. במשך הזמן, ובעת שארבעת עמודי התווך מושרשים היטב, המערכת חוזה גם לספק ניבוי מחיר.
 
 ** למידה עמוקה ו AI** הינם טכנולוגיות עוצמתיות שנמצאות כיום תחת פיתוח תמידי ויכולות לשמש בחלקים אחרים במערכת הVespucci, בנוסף לשלב האחרון של ייבוא התוצאה הכללית. למטה יש סרטוט של רשת עצבית בסיסית עם שכבה אחת מוסתרת. לרשתות העמוקות של היום יש שפע של שכבות מסוג זה, אשר את כוחם אנו ננצל. רשתות עצביות ''לומדות'' את המשקולות המתאימות על- ידי אלגוריתם גיבוי הפצתי. An important question is therefore the learning phase where historical data on cryptocurrencies, properly labeled, shall be employed. סוגיה אחת שקיימת היא המוגבלות בנתוני המידע הזמינים, ותוויותיה אשר אולי זקוקות לארכיונאות: ערכת הנתונים שנוצרה תהיה נגישה באופן גלוי כתרומה לקהילה.
 
@@ -387,13 +387,13 @@ The outputs of all three constituents together with the corresponding price (the
 
 לבסוף, אנו מביאים שני רעיונות חדשניים אשר יהיו מיושמים בשלב זה: (א) שימוש ביישומים מבוזרים של כלי למידה בשילוב עם פילוסופיית הביזור של Vespucci. (ב) הצטברות של רשתות עצביות המועסקות על- ידי אחד או יותר משלושת עמודי התווך, תביא לתוצאה הסופית המחושבת באמצעות מחשב למידה כללי.
 
-** קו היסוד של Vespucci ** כמתואר במספר למטה, מורכבת מאשכול המחשב, צמתי רשת עבור האזנה ( מאזיני Vespucci, או צוברים) של המקורות הנ''ל, כגון אתרי מדיה חברתית ( טוויטר, פייסבוק, רדיט), אתרי מטבעות (coinmarketcap.com), Github, וצמתים אשר מבצעים את צעד הניתוח הראשוני של הנתונים שנצטברו. The results are kept in a database (e.g. SQL) to which the user has access through the interface and programmatically by an API.
+** קו היסוד של Vespucci ** כמתואר במספר למטה, מורכבת מאשכול המחשב, צמתי רשת עבור האזנה ( מאזיני Vespucci, או צוברים) של המקורות הנ''ל, כגון אתרי מדיה חברתית ( טוויטר, פייסבוק, רדיט), אתרי מטבעות (coinmarketcap.com), Github, וצמתים אשר מבצעים את צעד הניתוח הראשוני של הנתונים שנצטברו. התוצאות נשמרות במאגר נתונים (למשל SQL) שאליו יש למשתמש גישה באמצעות הממשק, ובאופן תכנותי על-ידי API.
 
-* The listeners are VM nodes which periodically listen/search the sources of each coin. New information extracted for each coin is also kept in the database for transparency.
-* The analyzer VM nodes are then triggered and the new collected data will be analyzed (Sentiment, Technical and Technological & Fundamental analysis) by the Vespucci Analyzer nodes. The results are stored in the database.
+* המאזינים הינם צמתי VM שבאופן קבוע מאזינות/מחפשות את המקורות של כל מטבע. מידע חדש שנאסף בעבור כל מטבע, גם כן נשמר במאגר הנתונים למטרת שקיפות.
+* לאחר מכן מופעלים צמתי VM המנתחים את נתוני המידע שהתווספו( רגשי, טכני וטכנולוגי & ניתוח בסיסי) על-ידי צומת הניתוח של Vespucci. התוצאות מאוחסנות במאגר הנתונים.
 * לבסוף, ממשק המשתמש מתרענן מעת לעת, ומעדכן את התצוגה הנוכחית של המשתמש על מנת לכלול תוצאות ניתוחי מידע חדשים.
 
-To effectiv ely manage our computer cluster consisting of listening and analyzing nodes, we offer a platform that facilitates any type of component architecture (a useful tool here is Kubernetes once we use Docker containers). We shall provide the API, but implementation details are decided by the developers. To provide concrete examples, f rameworks for distributed storage and processing of big data are considered, such as Apache Hadoop (or Cassandra). Hadoop is a collection of open-source software utilities that facilitate using a network of computers to solve problems involving massive amounts of data and computation, handling automatically the hardware failures. Other frameworks may be considered such as Apache Spark, which is a cluster-computing batch processing framework, with the ability to write applications in multiple languages (Java, Scala, Python, R). Alternatives include Apache Samza, which offers a near-realtime asynchronous framework for distributed stream processing, or Apache Flink, a hybrid framework for stream processes and batch tasks.
+על מנת לנהל ביעילות את אשכול המחשבים המורכבים מהאזנה וצמתי-ניתוח, אנו מציעים פלטפורמה המאפשרת כל סוג של רכיב בעיצוב המבני ( כלי שימושי ביותר הוא ה-Kubernetes בעת שימוש במיכלי הדוקר [Docker]). אנו נספק את ה-API, אך פרטי המימוש יוחלטו על-ידי היזמים. בכדי לספק דוגמאות מוחשיות, מסגרות עבור אחסון מבוזר ועיבוד גדול של נתוני מידע נכנסות לשיקול, כגון Apache Hadoop ( או קסנדרה). Hadoop הוא אוסף כלי עזר בתוך תוכנות קוד-פתוח, המסייעות דרך רשת של מחשבים בפתירת בעיות הקשורות לכמויות עצומות של נתונים ומחשוב, ומתמודדות עם כשלי חומרה באופן אוטומטי. Other frameworks may be considered such as Apache Spark, which is a cluster-computing batch processing framework, with the ability to write applications in multiple languages (Java, Scala, Python, R). Alternatives include Apache Samza, which offers a near-realtime asynchronous framework for distributed stream processing, or Apache Flink, a hybrid framework for stream processes and batch tasks.
 
 ![](https://volentix.io/file/2019/01/Web-1920-–-3@2x.png)
 
@@ -431,9 +431,9 @@ Storage techniques may rely on off-chain Order books developed by VLabs, which i
 
 [2] E. Kouloumpis et al. Twitter Sentiment Analysis: The Good the Bad and the OMG!”, International AAAI Conference on Weblogs and Social Media (ICWSM-11) (2011)
 
-[3] A. Severyn et al. Twitter Sentiment Analysis with Deep Convolutional Neural Networks, International ACM SIGIR Conference on Research and Development in Information Retrieval:959-962 (2015)
+[3] A. Severyn et al. ניתוח הסנטימנט (תחום של עיבוד שפה טבעית אשר משתמש בתוכנה ומחשבים כדי להסיק את הרגש של בני אדם מהטקסט שהם כותבים/מעלים) של טוויטר דרך רשתות עצביות עמוקות, הכנס הבינלאומי ACM SIGIR בנושא המחקר והפיתוח באחזור מידעי:959-962 (2015)
 
-[4] C.J. & Gilbert et al. VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text. כנס בינלאומי בבלוגים ובמדיה חברתית (2014) 8 (ICWSM-14)
+[4] C.J. & Gilbert et al. VADER: מודל מבוסס-חוק הנועד לניתוח סנטימנט של תכני מדיה חברתית. כנס בינלאומי בבלוגים ובמדיה חברתית (2014) 8 (ICWSM-14)
 
 [5] Bird et al. עיבוד שפה טבעי עם Python, O’Reilly Media Inc. (2009)
 

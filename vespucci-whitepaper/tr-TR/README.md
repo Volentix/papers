@@ -14,7 +14,7 @@ Birincil hedefimiz, tüm dijital varlık kullanıcılarına, dijital varlıklar 
 * teknik analiz (TA), ve
 * temel / teknolojik analiz (FTA).
 
-Vespucci, ilk kez, merkezi olmayan yönetim, akran gizliliği, halka açık blok zinciri yoluyla halka açık defteri kebir ve açık kaynak kod ilkelerine dayanan farklı göstergelerin bir kombinasyonunu temsil eden, canlı bir derecelendirme ile birlikte her bir dijital varlık için çok yönlü bir profil sunmaktadır. Bu nedenle analiz, belirli bireylerin veya ilgili grupların önyargısından muaftır ve kullanılan yöntemler topluluk tarafından incelenmek ve tartışılmak için hazırdır. Merkezi olmayan uygulamalar mevcut teknolojide bir paradigma değişikliği sunar; özellikle konu ile ilgili bir örnek, ortaya çıkan kripto para birimi borsalarında yer almaktadır. En güçlü, en ileri yöntemlerden bazılarını kullanarak, yaklaşımımız açık standartlara ve kullanım kolaylığı ilkelerine uyar.
+Vespucci, ilk kez, merkezi olmayan yönetim, akran gizliliği, halka açık blok zinciri yoluyla halka açık defteri kebir ve açık kaynak kod ilkelerine dayanan farklı göstergelerin bir kombinasyonunu temsil eden, canlı bir derecelendirme ile birlikte her bir dijital varlık için çok yönlü bir profil sunmaktadır. Bu nedenle analiz, belirli bireylerin veya ilgili grupların önyargısından muaftır ve kullanılan yöntemler topluluk tarafından incelenmek ve tartışılmak için hazırdır. Merkezi olmayan uygulamalar mevcut teknolojide bir paradigma değişikliği sunar; özellikle ilgili bir örnek, ortaya çıkan kripto para birimi borsalarında yer almaktadır. En güçlü, en ileri yöntemlerden bazılarını kullanarak, yaklaşımımız açık standartlara ve kullanım kolaylığı ilkelerine uyar.
 
 Vespucci genel mimarisi
 
@@ -390,14 +390,14 @@ Son olarak, bu aşamada kullanılacak en son iki fikirden söz ediyoruz: (a) Ves
 Aşağıdaki şekilde gösterildiği gibi **Vespucci boru hattı**, sosyal medya (Twitter, Facebook, reddit), madeni para siteleri (coinmarketcap.com), Github vb. yukarıda belirtilen kaynakları (Vespucci Dinleyicileri veya Toplayıcıları) dinlemek için düğümleri ve toplanan verilerin analiz adımını gerçekleştirebilecek düğümleri içeren bir bilgisayar kümesinden oluşur (Vespucci Analizörleri). Sonuçlar, kullanıcının arayüz yoluyla ve programatik olarak bir API tarafından erişebildiği bir veritabanında (örneğin, SQL) tutulur.
 
 * Dinleyiciler, her bir madeni paranın kaynaklarını periyodik olarak dinleyen/arayan VM düğümleridir. Her bir madeni para için çıkarılan yeni bilgiler şeffaflık için veri tabanında da tutulur.
-* The analyzer VM nodes are then triggered and the new collected data will be analyzed (Sentiment, Technical and Technological & Fundamental analysis) by the Vespucci Analyzer nodes. Sonuçlar veri tabanında saklanır.
+* Analizör VM düğümleri, daha sonra tetiklenir ve toplanan yeni veriler Vespucci Analizör düğümleri tarafından analiz edilir (Hassasiyet, Teknik ve Teknolojik & Temel analiz). Sonuçlar veri tabanında saklanır.
 * Son olarak, UI periyodik olarak yenilenerek kullanıcının mevcut analizini yeni analiz sonuçlarını içerecek şekilde güncellemektedir.
 
-Dinleme ve analiz düğümlerinden oluşan bilgisayar kümemizi etkin bir şekilde yönetmek için, her tür bileşen mimarisini kolaylaştıran bir platform sunuyoruz (Docker konteynerlerini kullandığımızda Kubernetes burada kullanışlı bir araçtır). API'ı sağlayacağız ancak geliştiriciler tarafından uygulamanın detaylarına karar verilir. Elle tutulur örnekler sağlamak için, Apache Hadoop (veya Cassandra) gibi büyük verilerin dağıtılmış depolanması ve işlenmesi için çerçeveler dikkate alınır. Hadoop, büyük miktarda veri ve hesaplama içeren sorunları çözmek için bir bilgisayar ağının kullanılmasını kolaylaştıran, donanım hatalarını otomatik olarak ele alan bir açık kaynak yazılım koleksiyonudur. Birden fazla dilde (Java, Scala, Python, R) uygulama yazabilme özelliğine sahip küme-hesaplama toplu işlem çerçevesi olan Apache Spark gibi başka çerçeveler de düşünülebilir. Alternatives include Apache Samza, which offers a near-realtime asynchronous framework for distributed stream processing, or Apache Flink, a hybrid framework for stream processes and batch tasks.
+Dinleme ve analiz düğümlerinden oluşan bilgisayar kümemizi etkin bir şekilde yönetmek için, her tür bileşen mimarisini kolaylaştıran bir platform sunuyoruz (Docker konteynerlerini kullandığımızda Kubernetes burada kullanışlı bir araçtır). API'ı sağlayacağız ancak geliştiriciler tarafından uygulamanın detaylarına karar verilir. Elle tutulur örnekler sağlamak için, Apache Hadoop (veya Cassandra) gibi büyük verilerin dağıtılmış depolanması ve işlenmesi için çerçeveler dikkate alınır. Hadoop, büyük miktarda veri ve hesaplama içeren sorunları çözmek için bir bilgisayar ağının kullanılmasını kolaylaştıran, donanım hatalarını otomatik olarak ele alan bir açık kaynak yazılım koleksiyonudur. Birden fazla dilde (Java, Scala, Python, R) uygulama yazabilme özelliğine sahip küme-hesaplama toplu işlem çerçevesi olan Apache Spark gibi başka çerçeveler de düşünülebilir. Alternatifler arasında dağıtılmış akış işleme için gerçek zamanlıya yakın, eşzamanlı olmayan bir çerçeve sunan Apache Samza veya akış işlemleri ve toplu işlemler için karma bir çerçeve olan Apache Flink bulunur.
 
 ![](https://volentix.io/file/2019/01/Web-1920-–-3@2x.png)
 
-The **implementation** of the Vespucci analysis tools is in Python using various data analytics libraries, wrappers for the different APIs, and libraries for machine learning. Kullanılacak kütüphaneler aşağıdakilerden bazılarıdır:
+Vespucci analiz araçlarının **uygulanması**, çeşitli veri analitik kütüphaneleri, farklı API'ler için sarıcılar ve makine öğrenimi için kütüphaneler kullanan Python'dadır. Kullanılacak kütüphaneler aşağıdakilerden bazılarıdır:
 
 * NumPy, Pandas, Seaborn, analiz bölümü için matplotlib.
 * Makine öğrenimi için Scikit-learn, TensorFlow.
@@ -409,9 +409,9 @@ Başlangıçta, bu işlemlerin çoğu Linux Sanal Makineleri'nde gerçekleştiri
 
 Alternatif uygulamalar kolayca değiştirilebilir olsa da, Duygu Analizi ve muhtemelen diğer modüller için, bir **node.js** sistemi kullanılır. Vespucci'nin son sürümü için, toplanan bilgilerin kaydedilmesi ve sürekli bir şekilde elde edilmesi, statik bir yerde saklanması zorunludur. MongoDB, bu gibi bilgileri okumak ve yazmak için sistemdeki diğer modüller tarafından kullanılabilir. MongoDB, Vespucci sisteminde mevcut veriler için olduğu gibi, yapılandırılmış bilgilerin depolanmasında yararlı, olgun bir belge odaklı veritabanıdır. CockroachDB bir alternatif olabilir.
 
-Vespucci **data** sources may include, but not be limited to: historic trading records, trading trends, developer activity and plan analysis, digital asset distribution and governance information, terms and conditions and current and historic address balances as well as forum sentiment analysis. Bu bilgi blok zinciri gezgin siteleri ve sohbet odaları arasında dağınık olarak bulunabilir. In particular, Sentiment analysis (see relevant [section](https://docs.google.com/document/d/1NLr-rgF66NCBmLmPIdElltKYVPJrLVO7DZDpcNEm6OU/edit?ts=5bec2f33#heading=h.tuaauijo691s)) would require data on all coins for a limited period of time. This is a vast amount of data and in order to minimise the impact that data will have on the system, we employ big data techniques of compression, aggregation, and filtering.
+Vespucci **veri** kaynakları aşağıdakileri içerebilir ancak bunlarla sınırlı değildir: tarihi ticaret kayıtları, ticaret eğilimleri, geliştirici faaliyeti ve plan analizi, dijital varlık dağıtımı ve yönetim bilgileri, şartlar ve koşullar ve mevcut ve tarihi adres dengeleri ile birlikte forum duyarlılığı analizi. Bu bilgi blok zinciri gezgin siteleri ve sohbet odaları arasında dağınık olarak bulunabilir. Özellikle, Duyarlılık analizi (ilgili [bölüme](https://docs.google.com/document/d/1NLr-rgF66NCBmLmPIdElltKYVPJrLVO7DZDpcNEm6OU/edit?ts=5bec2f33#heading=h.tuaauijo691s) bakın) sınırlı bir süre için tüm madeni paralar üzerinde veri gerektirecektir. Bu, çok miktarda veridir ve verilerin sistem üzerindeki etkisini en aza indirmek için, büyük veri sıkıştırma, toplama ve filtreleme teknikleri kullanıyoruz.
 
-Storage techniques may rely on off-chain Order books developed by VLabs, which is a sophisticated data structure with high security standards. EOS.IO'ya ve kalıcı API'ına güvenir. One advantage of such a system is that it is not expensive; on the other hand, it is sufficiently efficient for our purposes. İşlemler VDex tarafından gerçekleştirilirken, işlem yapmayan veriler zincir dışında kalacaktır.
+Depolama teknikleri, yüksek güvenlik standartlarına sahip sofistike bir veri yapısı olan VLabs tarafından geliştirilen zincirli olmayan Emir kitaplarına dayanabilir. EOS.IO'ya ve kalıcı API'ına güvenir. Böyle bir sistemin bir avantajı pahalı olmamasıdır; diğer yandan, bizim amaçlarımız için yeterince verimlidir. İşlemler VDex tarafından gerçekleştirilirken, işlem yapmayan veriler zincir dışında kalacaktır.
 
 * ### **ZAMAN ÇİZELGESİ**
 
@@ -427,13 +427,13 @@ Bu metin NH’nin orijinal vizyon belgelerine ve AA’nın güncellemelerine day
 
 ### **REFERANSLAR**
 
-[1] J. Yao ve ark. Forecasting and Analysis of Marketing Data using Neural Networks”, Journal of Science and Engineering 14:843-862 (1998)
+[1] J. Yao ve ark. Sinir Ağları kullanarak Pazarlama Verilerinin Tahmini ve Analizi”, Bilim ve Mühendislik Dergisi 14:843-862 (1998)
 
 [2] E. Kouloumpis ve ark. Twitter Duyarlılık Analizi: Kötü, İyi ve AMAN TANRIM!”, Uluslararası AAAI Weblogs ve Sosyal Medya Konferansı (ICWSM-11) (2011)
 
-[3] A. Severyn ve ark. Twitter Sentiment Analysis with Deep Convolutional Neural Networks, International ACM SIGIR Conference on Research and Development in Information Retrieval:959-962 (2015)
+[3] A. Severyn ve ark. Derin Konvolüsyonel Sinir Ağları ile Twitter Duyarlılık Analizi, Bilgi Alma Alanında Araştırma ve Geliştirme Uluslararası ACM SIGIR Konferansı:959-962 (2015)
 
-[4] C.J. & Gilbert ve diğerleri. VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text. Uluslararası Weblogs ve Sosyal Medya Konferansı (ICWSM-14) 8 (2014)
+[4] C.J. & Gilbert ve diğerleri. VADER: Sosyal Medya Metninin Duyarlılık Analizi için Temel Kural Bazlı Bir Model. Uluslararası Weblogs ve Sosyal Medya Konferansı (ICWSM-14) 8 (2014)
 
 [5] Kuş ve ark. Python ile Doğal Dil İşleme, O’Reilly Media Inc. (2009)
 
@@ -461,4 +461,4 @@ Bu metin NH’nin orijinal vizyon belgelerine ve AA’nın güncellemelerine day
 
 [17] <https://www.investopedia.com>
 
-Brackets at the end of certain references indicate the part of the paper that uses this reference.
+Belirlenmiş referansların sonundaki parantezler, bu referansı kullanan kağıdın bir kısmını gösterir.

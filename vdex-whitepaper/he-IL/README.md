@@ -76,7 +76,7 @@ Web Assembly מאפשר ביצועים גבוהים של יישומים רשתי
 
 #### 3.0.5 הנזלה
 
-ניתן להנזיל נכס דיגיטלי אם הוא נמכר בקלות או נרכש בשיטות מסחר רגילות ללא השפעה משמעותית לטווח קצר על מחיר השוק. על מנת להגיע למעמד סטטוס שכזה, באופן מסורתי, כל נכס סחיר חייב לעלות מעל לסף נפח המסחר בכדי להשיג יציבות. Specifically, we anticipate adopting the following methodologies: Loopring protocol with the use of EOS.IO contracts acting as nodes.[5] Bancor algorithm used to bring stability to the digital asset.[6] Toggles between these protocols and HTLC (atomic swaps) according to Vespucci analyses on the VDex network.
+ניתן להנזיל נכס דיגיטלי אם הוא נמכר בקלות או נרכש בשיטות מסחר רגילות ללא השפעה משמעותית לטווח קצר על מחיר השוק. על מנת להגיע למעמד סטטוס שכזה, כל נכס מסורתי שהיה נהוג עד כה, כמו כן כל נכס סחיר חייב לעלות מעל לסף נפח המסחר בכדי להשיג יציבות. באופן ספציפי, אנו מצפים ליישם את המתודולוגיות הבאות: פרוטוקול הלופרינג (Loopring) עם שימוש בחוזי EOS.IO הנחשבים צמתי רשת.[5] אלגוריתם הבנקור (Bancor), נועד לשמור על יציבות בכל הקשור לנכס דיגיטלי.[6] חילופים בין פרוטוקולים אלו ל HTLC (החלפות אטומיות) ייעשו בהתאם לניתוחו של Vespucci על רשת הVDex.
 
 #### 3.0.6 חוזי זמן נעולים (החלפות אטומיות)
 
@@ -106,147 +106,147 @@ Web Assembly מאפשר ביצועים גבוהים של יישומים רשתי
 
 #### 3.1.2 צוברים
 
-צוברי הVDex הם שרתים של Volentix המיועדים עבור מטרות אבטחה והדמיה. One of their functions is to pull logs and order book data from nodes into sparse distributed representations for hierarchical temporal memory as intrusion [7] analysis for detecting anomalies in the system. הצוברים כמו כן יארחו רכיבים אחרים כגון לדג'רים ב''metachain'' ומגרדי הבלוקצ'יין.
+צוברי הVDex הם שרתים של Volentix המיועדים עבור מטרות אבטחה והדמיה. One of their functions is to pull logs and order book data from nodes into sparse distributed representations for hierarchical temporal memory as intrusion [7] analysis for detecting anomalies in the system. הצוברים כמו כן יארחו רכיבים אחרים כגון לדג'רים ב''metachain'' ו"scrapers" של הבלוקצ'יין.
 
 #### 3.1.3 השהיה
 
-לEOS.IO השהיה קצרה בעת אישור הבלוק (0.5 שניות).[5] רמה זו של השהיה יכולה להישמר בעסקאות עם בלוקצ'יינים אחרים, כל עוד זמן ההשהיה דומה ביניהם. כעיקרון החליפין פועל אך ורק באותה מהירות כשם השרשרת בתוך המשוואה. ידוע, כי למשל, לבלוק של ביטקוין נדרש כעשר דקות לעבד. קבלה של עסקה נעולה אינו אומר שהעסקה מאושרת; זה מוודא כי צומת רשתי אישר את העסקה ללא תקלה, אף על פי שיש סיכוי גבוה לאישורם של מנפיקי בלוקים אחרים.
+לEOS.IO השהיה קצרה בעת אישור הבלוק (0.5 שניות).[5] רמה זו של השהיה יכולה להישמר בעסקאות עם בלוקצ'יינים אחרים, כל עוד זמן ההשהיה דומה ביניהם. כעיקרון, החליפין פועל אך ורק באותה מהירות כשם החוליה החלשה ביותר בשרשרת זו. ידוע, כי למשל, לוקח כעשר דקות לעיבוד בלוק ביטקוין בודד. קבלה של עסקה נעולה אינה אומרת שהעסקה מאושרת; זה אומר כי צומת רשתי אישר את העסקה ללא תקלה, אף על פי שיש סיכוי גבוה לאישורם על ידי מנפיקי בלוקים אחרים.
 
 ### 3.2 ספר הזמנות
 
-ספר ההזמנות הינו רשימה של כל הזמנות הקניה ומכירה מרשומות הVDex של משתמשים מעוניינים. מנוע ההתאמה משתמש בספר ההזמנות על מנת לקבוע אילו הזמנות ימולאו. פרוטוקול הלופרינג (Loopring) מאפשר עיצוב אישי של מבנה נתוני המידע בספר ההזמנות.[5] מיכלים שסופקו על-ידי EOS.IO יכולים לשמש בעבור ביצוע מיטבי.[8]
+ספר ההזמנות הינו רשימה של כל הזמנות הקניה ומכירה אשר VDex מקבל ממשתמשים מעוניינים. מנוע ההתאמה משתמש בספר ההזמנות על מנת לקבוע אילו הזמנות ימולאו. פרוטוקול הלופרינג (Loopring) מאפשר עיצוב אישי של מבנה הנתונים בספר ההזמנות.[5] מיכלים שסופקו על-ידי EOS.IO יכולים לשמש למטרת ביצוע מיטבי.[8]
 
-#### 3.2.1 מבנה נתוני
+#### 3.2.1 מבנה נתוני המידע
 
-Using the Loopring Protocol FIFO (first-in first-out) circular buffer, nodes can design their order books to display and match a user’s order. שיטה זו הולכת אחרי מודול OTC, שם מגבלות ההזמנות מוגדרות בהתבסס על מחיר בלבד.[5]
+Using the Loopring Protocol FIFO (first-in first-out) circular buffer, nodes can design their order books to display and match a user’s order. שיטה זו הולכת אחרי מודל OTC, שם מגבלת ההזמנות מוגדרת בהתבסס על מחיר בלבד.[5]
 
 Referencing the EOS.IO persistence API, the order book is able to take advantage of the powerful multi-index container shared among nodes through the same EOS.IO account.
 
-#### 3.2.2 ספר הזמנות על-שרשורי
+#### 3.2.2 ספר ההזמנות שעל גבי הבלוקצ'יין
 
-ספר הזמנות על-שרשורי הוא רשימה תיעודית של כל הצעה המתגוררת בארנק (צומת רשתי) הנבחר לבסס את ספר ההזמנות הכללי. הוא שוכן במאגר נתונים תמידי, על גבי כל צומת רשתי שמנוי לאותו חשבון כשם צמתי הרשת האחרים.
+ספר ההזמנות שעל-גבי הבלוקצ'יין, הוא תיעוד של כל הצעה הנמצאת בארנק (צומת רשתי) הנבחר לארגון ספר ההזמנות הכללי. הוא נמצא במאגר נתונים עקבי מתמיד, על גבי כל צומת רשתי המנוי לאותו חשבון כמו צמתי הרשת האחרים.
 
-#### 3.2.3 ספר הזמנות תחת-שרשורי
+#### 3.2.3 ספר ההזמנות מחוץ לבלוקצ'יין
 
-Residing on the aggregator, offline order books serve for simulator and security purposes.
+ספרי הזמנות לא מקוונים משרתים למטרות הדמיה ואבטחה, כאשר מאוחסנים בצוברים.
 
-#### 3.2.4 Decentralization process of order book settlement
+#### 3.2.4 תהליך הביזור של סידור ספר הזמנות
 
-For decentralization purposes, nodes will take turns to settle the order book. The settling node must be designated by the protocol and all order book entries from all nodes must be available to the settling nodes. We believe the RAFT[9] and PARSEC[10] consensus mechanisms offer effective solutions. RAFT is a well-established algorithm and is easy to implement.[7] PARSEC is more recent and more efficient, using Directed Acyclic Graph (DAG) technology and eliminating the need for copying logs.
+צמתי רשת יישבו ויבססו את ספר ההזמנות, כל אחד בתורו, למטרות של ביזור. הצומת המייסד הרשתי חייב להתעצב על-פי הפרוטוקולים, ורשומות ספר ההזמנות מכל צומת צריכות להיות זמינות לצמתים המייסדים. אנו מאמינים כי ההסכמה בין מכניקות של[RAFT[9 ו-[10] PARSEC תביא לפתרונות אפקטיביים. RAFT הינו אלגוריתם מבוסס היטב וקל ליישום.[7] PARSEC התפתח לאחרונה ונמצא יותר יעיל, באמצעות טכנולוגיות DAG (גרפים מכוונים מחזוריים) וסילוק הצורך בהעתקת רישומי יומן.
 
-### 3.3 ORDER SETTLEMENT
+### 3.3 הסדר הזמנות
 
-Order settlement contains familiar elements of conventional financial market transactions. Utilizing FIFO technology to design the order book, VDex intends to check order, inventory, and fill rate, as well as limit orders and cancellations. ![](../7.jpg)
+''הסדר ההזמנות'' מכיל אלמנטים מוכרים מהשוק הקונבנציונלי-כלכלי. שימוש בטכנולוגיית ה-FIFO על מנת לעצב את ספר ההזמנות, VDex מתכוון לנהל בדיקות סדר, ספירת מלאי, תעריף מילוי, כמו כן גם סף מגבלת ההזמנות וביטולים. ![](../7.jpg)
 
 ### 3.4 VTX
 
-#### 3.4.1 VTX Issuance and Use
+#### 3.4.1 הנפקה ושימוש בVTX
 
-VTX is the native digital asset to be issued and used on the VDex decentralized exchange. We currently plan to use an eosio.token contract from the EOS.IO framework to issue 2.1 billion EOS.IO-compliant VTX tokens with a supply of 1.3 billion. VTX will have a diverse array of uses, for example:
+VTX הוא הנכס הדיגיטלי המקומי שיונפק ובו יעשה שימוש בתוך ''חלפן הכספים VDEX''. אנו מתכננים להשתמש בחוזה eosio.token ממסגרת הEOS.IO על מנת לסייע בהנפקת 2.1 מיליארד טוקני VTX מותאמי-EOS.IO, עם האספקה ההתחלתית של 1.3 מיליארד טוקנים. לVTX יהיה מגוון רב של שימושים, לדוגמא:
 
-To reward participants in the consensus process and in Venue campaigns.
+תיגמול משתתפים בתהליך הקונצנזוס וקמפיינים של Venue.
 
-To pay and redistribute transaction fees on the VDex exchange.
+תשלום והפצה מחדש של עלויות העברה ב''חלפן הVDex''.
 
-To submit and vote on proposals to the Volentix ecosystem, using the voting rights allocated to VTX holders.
+הצבעה ושליחה של הצעות למערכת ה Volentix, באמצעות מימוש זכויות ההצבעה המוקצות בעבור כל מחזיק VTX.
 
-To stake support for reviewing proposals and implementing projects.
+חיזוק התמיכה עבור סקירת הצעות והטמעת פרוייקטים.
 
-To incentivize users to participate in order book settlement by becoming nodes via their Verto wallets.
+תמרוץ משתמשים להשתתף בסידור ספר ההזמנות ע''י הפיכתם לצמתי רשת דרך ארנקי הVerto שלהם.
 
-To incentivize users to lock funds in for >24 hours by HTLC time-bound transactions.
+עידוד משתמשים "לסגור" את כספם, במשך < 24 שעות על-ידי שימוש בהעברות HTLC מוגבלות זמן.
 
-#### 3.4.2 VTX Allocation
+#### 3.4.2 הקצאת VTX
 
 ![](../6.jpg)
 
-A digital assets ecosystem requires an array of certain fundamental human constituents who shepherd the project forward.[11] It is essential to compensate those individuals for their participation. Subject to adjustment, Volentix currently anticipates the following allocations:
+מערכת נכסים דיגיטלית דורשת מערך מסוים של יסודות מרכיבים אנושיים אשר יובילו את הפרויקט קדימה.[11] זה חשוב לתגמל את אותם אנשים בעבור השתתפותם. בכפוף לשינויים, Volentix צופה להקצאות הבאות:
 
-1. Contributors. 12%. An array of individuals, akin to founders, who contribute insights, time and talent, though often work without early compensation.
+1. תורמים. 12%. מערך אנושי, בדומה למייסדים, אשר מביאים תובנות, תורמים זמן וכישרון, למרות שלרב עובדים ללא שכר.
 
-2. Supporters.
+2. תומכים.
 
-Phase 1. 5%. Early passive seed funders.
+שלב 1.5%. מממני גרעין פסיביים מוקדמים.
 
-Phase 2. 28%. Funders via qualified private pre-sales and possible public sale.
+שלב 2.28%. תורמים באמצעות קדם-מכירות מוסמכות ואפשרויות מכירה פומבית.
 
-3. Facilitators. (Advisors, Developers, Promoters, Custodians). Note that requirements for assistance from the sub-categories in this category may differ significantly before and after the project receives substantial funding support, but certain individuals may serve during both phases.
+3. מנחים. (יועצים, מפתחים, מקדמים, אפוטרופוסים). שימו לב כי הדרישות עבור סיוע מתת-קטגוריות, בתוך קטגורייה זו, עלולות להשתנות באופן משמעותי לאור קבלה של תמיכת מימון משמעותית, אך אנשים מסוימים עשויים לשרת במהלך שני השלבים.
 
-Phase 1. 10%.
+שלב 1.10%.
 
-Phase 2. 10%.
+שלב 2.10%.
 
-4. Decentralized treasury. 35%. Community members incentivized and rewarded for participation in progressive development of a decentralized autonomous organization (DAO). A decentralized treasury is anticipated to be administered by smart contracts and community consensus. ![](../5.jpg)
+4. כספת מבוזרת. 35%. חברי הקהילה תומרצו ותוגמלו עבור השתתפותם בפיתוח המתקדם של ארגון אוטונומי מבוזר (DAO). כספת מבוזרת צפויה להיות מנוהלת תחת חוזים חכמים והסכמה קהילתית. ![](../5.jpg)
 
-#### 3.4.3 VTX Distribution
+#### 3.4.3 הפצה של VTX
 
-In light of market conditions at the time of this writing, Volentix is considering timing, means, and terms and conditions of VTX distribution as a function of private pre-sales and possible public sale. Please monitor our website for updates.
+לאור תנאי השוק בעת כתיבת מסמך זה, Volentix שוקל את משתני הזמן, האמצעים, ותנאי הביזור של VTX כפונקציות לקדם- מכירות פרטיות ואפשרויות מכירה ציבורית. עקוב אחרי האתר שלנו לקבלת עדכונים.
 
-### 3.5 EOS.IO PLATFORM DEPLOYMENT
+### 3.5 פריסת פלטפורמת EOS.IO
 
-The following considerations are relevant to our deploying the VDex exchange on the EOS.IO platform:
+השיקולים הבאים רלוונטיים לפריסת ''חלפן הכספים VDex'' בתוך פלטפורמת הEOS.IO:
 
-Deploying a contract has a cost but is free to use.
+ישנה עלות לפריסה של חוזה, אך השימוש בו חינמי.
 
 Developers stake EOS.IO-compliant tokens to deploy a smart contract. After the contract is deployed, the locked tokens are returned.
 
-Decentralized applications allocate memory, CPU, bandwidth, and other resources to their contracts.
+יישומים מבוזרים מקצים זיכרון, CPU, רוחב פס ומשאבים אחרים אל החוזים שלהם.
 
-Multiple messages and multiple accounts can be assigned to the same thread.
+ניתן להקצות על אותו שרשור חשבונות והודעות רבות.
 
-### 3.6 BLOCKCHAIN INTERACTION
+### 3.6 אינטראקציית הבלוקצ'יין
 
-#### 3.6.1 Inter-Blockchain Communication
+#### 3.6.1 תקשורת בין בלוקצ'יינים
 
-EOS.IO is designed to make Inter-Blockchain Communication (IBC) proofs lightweight. For chains with insufficient capacity for processing the IBC proofs and establishing validity, there is an option to default to trusted oracles/escrows. With an EOS.IO-based smart contract, a trusted multi-signature wallet holding the asset in escrow can be used to persuade the signing/publishing of the transaction based on IBC proofs from the originating chain.
+EOS.IO נועד להפוך הוכחות התקשורת בין בלוקצ'יינים (IBC) לקלות משקל. עבור שרשורים עם קיבולת לא מספיקה לעיבוד של הוכחות IBC ומיסוד תוקף, ישנה אפשרות של ברירת מחדל לoracles/escrows אמינים. With an EOS.IO-based smart contract, a trusted multi-signature wallet holding the asset in escrow can be used to persuade the signing/publishing of the transaction based on IBC proofs from the originating chain.
 
-#### 3.6.2 Multi-Blockchain Information
+#### 3.6.2 מידע בלוקצ'יינים
 
-Comprehensible multi-blockchain information can be obtained by aggregating blockchain timelines in parallel order (with variance in the frequency of change of state). This system can trigger multi-chain load balancers, transfer states, draw data outputs from smart contracts, and foreign blockchain transaction execution. Relative block distance, relative global state, and timestamped events are recorded on a global ledger to optimize and confirm transactions before they actually happen on the native chain. This approach could also be used to determine block production coincidence between chains to access greater liquidity.[12]
+ניתן לקבל מידע רב על בלוקצ'יינים, באמצעות קיבוץ צירי הזמן שלהם בסדר מקביל ( עם שוני בתדירות החלפת המצב [state]). מערכת זו יכולה לעורר עומס שרשורי מרובה, להחליף מצב, להביא תוצרים של נתוני מידע מחוזים חכמים, וביצוע עסקאות זרות. מרחק יחסי בין בלוקים, מצב גלובלי יחסי, וחותמות האירועים נרשמים בלדג'ר עולמי על מנת להטיב ולאשר את ההעברות לפני שהן מתרחשות על הרשת המקומית. גישה זו יכולה גם כן לשמש לקביעת צירופי המקרים בהליכי ייצור הבלוקים בין רשתות על מנת לקבל הנזלה רבה יותר.[12]
 
-### 3.7 SECURITY CONCERNS
+### 3.7 חששות אבטחה
 
-To shake out certain assumptions, we intend to commence security testing following the prototyping phase. Security concerns are of paramount importance to users and must be addressed. Threats include, for example, an attacker executing malicious code within a transaction or manipulating the order of transactions or the timestamps of blocks. In the following sections, we address certain security measures and specific security threats and remedies.
+בכדי להשתחרר ממסקנות מסוימות, אנו מתכננים להתחיל בבדיקת אבטחה שתלך על פי שלב האב-טיפוס. חששות בנוגע לאבטחה מקבלות חשיבות עליונה למשתמשים, ככה שנחוץ לטפל בהם. סוגי איומים כוללים, לדוגמא, מישהו אשר מריץ קוד מזיק בתוך עסקת חליפין, או מניפולציה בסדר ההעברות וחותמות הזמן של בלוקים. בחלקים הבאים, אנו פונים אל כמה איומים ביטחוניים ספציפיים עם אמצעי ביטחון ותקנים.
 
-### 3.8 SECURITY MEASURES
+### 3.8 אמצעי ביטחון
 
-#### 3.8.1 Contract security
+#### 3.8.1 חוזה אבטחה
 
-Retain vast majority of funds in a time-delayed, multi-signature-controlled account.
+שמירה על הרוב המכריע של כספים בחשבון מושהה, חשבון רב-כניסות מבוקר.
 
 Use multi-signatures on a hot wallet with several independent processes/servers double-checking all withdrawals, with the concomitant benefit of creating a trusted list of accounts.
 
-Deploy a custom contract that allows withdrawals only to accounts verified by KYC/AML.
+פריסתו של חוזה מותאם המאפשר משיכות אך ורק לחשבונות מאומתות על-ידי KYC/AML.
 
-Deploy a custom contract that accepts only deposits of known assets from accounts verified by KYC/AML.
+פריסתו של חוזה מתואם אישית המאשר אך ורק פיקדונות של נכסים ידועים מחשבונות מאומתות על-ידי KYC/AML.
 
-Deploy a custom contract that requires a mandatory 24-hour waiting period for all withdrawals.
+פריסתו של חוזה מותאם אשר דורש תקופת המתנה של 24 שעות עבור כל משיכה.
 
-Utilize contracts with hardware wallets for all signing, including for automated withdrawals.
+ניצול חוזים עם ארנקים חומריים לכלל הכניסות, כולל משיכות אוטומטיות.
 
-Upgrade broken contracts.
+שדרוג חוזים שבורים.
 
-Include ability to pause the functionality of a contract.
+הכללת יכולת השהיה על פונקציונליות של חוזה.
 
-Include ability to delay an action of a contract.
+הכללת יכולת עיכוב פעולה של חוזה.
 
-#### 3.8.2 Auditing rogue processes
+#### 3.8.2 ביקורת תהליכים
 
-The advanced anomaly detection algorithms provided by Numenta’s Nupic library will require less voluminous training data sets than conventional AI systems.
+האלגוריתמים המתקדמים לזיהוי חריגה שמסופקים על-ידי הספריה של ''Numenta Nupic'' ידרשו פחות אימונים רב-ממדיים לערכות נתונים מאשר מערכות קונבנציונליות של AI (בינה מלאכותית).
 
-#### 3.8.3 Randomization
+#### 3.8.3 אקראיות
 
 True randomisation of address space layout, route or utilizing varying lengths of timeouts as in the RAFT protocol can complexify systems enough to enhance resilience and further secure systems against a side-channel attack or front running.
 
-#### 3.8.4 Log inspection
+#### 3.8.4 ביקורת יומן כניסות
 
-Parsec does not rely on logs for the determination of consensus. On the other hand, RAFT will require this. In any case, Validator nodes will be designed to require minimal information To determine consensus as to minimize the transaction process time.
+Parsec אינו צריך להסתמך על רישומי כניסה בכדי לקבוע הסכמה. מצד שני, RAFT ידרוש זאת. בכל מקרה, צמתי רשת מאמתים ידרשו מידע מינימלי על מנת לקבוע הסכמה בנושא מזעור תהליך זמן העברות.
 
 #### 3.8.5 Transaction as Proof of Stake (TaPoS)
 
 This mechanism prevents the replay of a transaction on forks that do not include the referenced block. Signals the network that a particular user and stake are on a specific fork.
 
-### 3.9 Security threats and remedies
+### 3.9 איומים בטחוניים ותקנים
 
 #### 3.9.1 Double spend
 
@@ -262,23 +262,23 @@ A 51% attack can be mounted by anyone owning >50% of the total computing power o
 
 A front runner steals one or more orders from a pending order book settlement transaction. Both EOS.IO and Loopring offer remedies in which keys are protected because they are not part of the on-chain transaction, and therefore remain unknown to parties other than the owner. Only the order book settling node is possessed of the sensitive information, and each node uses a different solution for resolving the order books, introducing yet another level of complexity to promote security.
 
-#### 3.9.3 Forged identities
+#### 3.9.3 זיוף זהויות
 
-Malicious users create forged identities to send a large number of small orders to attack Loopring nodes. However, most of these orders will be rejected for not yielding satisfying profit when matched.
+משתמשים עם כוונות זדוניות יכולים ליצור זהויות מזויפות על מנת לשלוח מספר רב של הזמנות קטנות הנועדו לתקוף צמתי לופרינג. עם זאת, מרבית ההזמנות האלו יידחו על אי-מתן רווח מספק כשיותאמו.
 
-#### 3.9.4 Insufficient Balance
+#### 3.9.4 יתרה לא מספיקה
 
-Malicious users sign and spread orders the value of which is non-zero but the address of which has a zero balance. Nodes monitor actual balances, update these order states accordingly, and then discard them.
+משתמשים מסוימים עלולים להיכנס ולהפיץ הזמנות, כאשר ערכן שונה מאפס אך הכתובת בעלת יתרה אפסית. צמתי רשת מפקחים על יתרות אמינות, מעדכנים את מצבי ההזמנות בהתאם, ולאחר מכן מוחקים אותם.
 
-#### 3.9.5 Timing attack
+#### 3.9.5 התקפות מתוזמנות
 
-Timing attacks are a class of cryptographic attacks through which a third-party observer can deduce the content of encrypted data by recording and analyzing the time taken to execute cryptographic algorithms. The RAFT algorithm prevents timing attacks by using randomness of timeouts.
+התקפות מתוזמנות הן סוג של התקפות הצפנה, בהן צד חיצוני משקיף יכול לדון בתכני הנתונים המוצפנים על-ידי רישום וניתוח הזמן שנלקח להוציא לפועל אותם אלגוריתמים מוצפנים. אלגוריתם הRAFT מונע התקפות מתוזמנות באמצעות שימוש בפסקי-זמן אקראיים.
 
-### 3.10 USER EXPERIENCE
+### 3.10 חווית המשתמש
 
-Our focus on user experience is primary. We wish to make VTX and the four pillars of Volentix -- Venue, Verto, Vespucci, and VDex -- easily accessible to and useable by all those who wish to join our community. We expect the experience continually to be educational as well, with templates and simulators to support a superior UX/UI relationship.
+Our focus on user experience is primary. אנחנו מכוונים ליצור שVTX וארבעת עמודי התווך של Volentix -- Venue, Verto, Vespucci, VDex -- יהיו קלים ונגישים לכל מי שברצונו/ה להצטרף לקהילה שלנו. אנחנו מצפים כי החוויה תועצם על ידי המשכת החינוך, עם תבניות והדמיות בכדי לתמוך במערכת יחסים UX/UI נעלה.
 
-### 3.11 TRUE DECENTRALIZATION
+### 3.11 ביזור אמיתי
 
 EOS.IO is an open-source, scalable infrastructure for decentralized applications. Its goal is a fair and transparent block producer (BP) election process utilizing a democratic delegated proof of stake (DPoS) consensus. Particularly as such a system just begins to proliferate, there will be glitches. Therefore, some degree of retained centralization is inevitable and necessary. But our guiding philosophy is one of decentralization, and our ongoing efforts are targeted to promoting a reduction in dependence on central authority.
 
@@ -296,7 +296,7 @@ Daily announcements of fresh code developments impacting on use of digital asset
 
 All of us at Volentix are dedicating our work and insights to developing a program premised on empowerment and independence. If you are of a mind to join us, in whatever capacity, then please do so and please become educated on the topics contained in this white paper and additional Volentix publications as we share them with our community.
 
-## 5. TIMELINE
+## 5. ציר זמן
 
 Please monitor our website and social media for updates and other important announcements. Thank you very much for your attention and interest.
 
@@ -362,4 +362,4 @@ G. Wood, Ethereum: A secure decentralised generalised transaction ledger.ethereu
 
 Dane Keller Rutledge, Creating a Comprehensive Digital Assets Ecosystem (DAE), (2018).
 
-## END OF PAPER
+## סוף המסמך

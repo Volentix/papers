@@ -8,7 +8,7 @@
 
 Volentix presenta VDex, progettato come una piattaforma decentralizzata per lo scambio di beni digitali con enfasi sull'user experience, sullo sviluppo della comunità e sulla governance. Attraverso l'utilizzo di tecnologie consolidate e la programmazione di nuovi protocolli selettivi dando priorità a sicurezza, velocità, autenticazione, facilità di utilizzo, scalabilità e supporto multi-asset, VDex vuole facilitare le transazioni di tipo peer-to-peer mettendo insieme un portfolio di applicazioni decentralizzate costruite sulla base degli smart contract di EOS.IO.
 
-The VDex launch point anticipates matching Volentix's design requirements to available technologies superimposed on the EOS.IO decentralized operating system. Abbiamo intenzione di testare le nostre ipotesi creando dei prototipi tramite software EZEOS personalizzato, che abbiamo costruito e personalizzato attraverso gli strumenti a riga di comando cleos di EOS.IO. Questo software risiede in: https://github.com/Volentix/ezeos
+Il punto di lancio VDex anticipa l'adeguamento dei requisiti di progettazione di Volentix alle tecnologie disponibili sovrapposte al sistema operativo decentralizzato EOS.IO. Abbiamo intenzione di testare le nostre ipotesi creando dei prototipi tramite software EZEOS personalizzato, che abbiamo costruito e personalizzato attraverso gli strumenti a riga di comando cleos di EOS.IO. Questo software risiede in: https://github.com/Volentix/ezeos
 
 ![](../main3-3000px.jpg)
 
@@ -24,11 +24,11 @@ Lanciata recentemente nella versione di beta test, Venue permette agli utenti di
 
 ### 2.2 VERTO
 
-Verto is being built as a multi-currency wallet for use with the VDex decentralized exchange, and intends to facilitate personal custody and local management of private and public keys in peer-to-peer transactions, with the goal of eliminating the risks of devastating losses of stake associated with traumatic failures of central operators. Verto plans to employ a system of smart contracts to maintain the state between two trading clients, the simplest operations being accomplished with atomic swaps.[1]
+Verto viene costruito come un wallet multi-valuta da utilizzare con l'exchange decentralizzato Vdex, e intendo facilitare la custodia pesonale e la gestione locale delle chiavi private e delle chiavi pubbliche nelle transazioni peer-to-peer, con l'obiettivo di eliminare i rischi di devastanti perdite di stake associate a fallimenti traumatici degli operatori centrali. Verto intende utilizzare un sistema di smart contract per mantenere lo stato tra due clienti commerciali, mentre le operazioni più semplici sono effettuate con atomic swap.[1]
 
 ### 2.3 VESPUCCI
 
-Vespucci è concepito come un motore di analisi accessibile tramite un'interfaccia facile da usare, contenenti dati, nascosti preziosi, di mercato in tempo reale e storici, come i rating dei beni digitali e l'analisi del sentimento. We wish to empower users with tools to graph and compare tradeable digital assets, to access and parse historical trading records, to plot trends and patterns, and to monitor and assess open-source software developments. Vespucci seeks to bring to your fingertips confident and comprehensive market-relevant data by aggregating the information currently scattered throughout many different blockchains, websites, chat rooms, and exchanges.
+Vespucci è concepito come un motore di analisi accessibile tramite un'interfaccia facile da usare, contenenti dati, nascosti preziosi, di mercato in tempo reale e storici, come i rating dei beni digitali e l'analisi del sentimento. Vogliamo consentire agli utenti di generare grafici e confrontare gli asset digitali, accedere e analizzare i record di trading passati, tracciare tendenze e modelli, e monitorare e stimare gli sviluppi dei software open source. Vespucci si sforza di portare tra le vostre mani dati di mercato affidabili e completi, aggregando informazioni che sono attualmente sparse in una vasta gamma di blockchain, siti web, chat room ed exchange.
 
 ### 2.4 VDEX
 
@@ -62,9 +62,9 @@ Web Assembly abilita applicazioni Web ad alte prestazioni e inoltre mette al sic
 
 Il noto e popolare linguaggio di programmazione C++ appare altamente adatto a WASM. C++ ha un supporto di debug e delle librerie altamente maturo. Il codebase di EOS utilizza liberamente i template, e C++ permette l'uso di template e sovraccarico dell'operatore per definire una convalida delle unità senza costi di runtime. Il programma si reinizializza a clean state all'inizio di ogni messaggio, un grosso vantaggio che semplifica la formulazione degli smart contract. Il framework Web Assembly rifiuta automaticamente qualsiasi transazione che fa riferimento alla memoria in modo impreciso. Nel caso in cui sia necessaria l'allocazione di memoria dinamica, gli utenti possono passare a puntatori intelligenti perché i contratti di EOS.IO utilizzano C++14. È degno di nota il fatto che la prima implementazione della tecnologia Directed Acyclic Graph (DAG) di PARSEC dovrebbe avvenire in Rust.
 
-#### 3.0.2 Schema defined messages and database
+#### 3.0.2 Messaggi e database definiti da uno schema
 
-Service contracts are standardized to provide a baseline measure of interoperability between and among disparate systems by harmonization of data models. Infatti, il principio del modello del Contratto di Servizio Standardizzato prevede che i contratti di servizio siano basati su modelli di dati standardizzati. L'analisi viene effettuata sul progetto dell'inventario dei servizi per scoprire i documenti aziendali più comuni che vengono scambiati tra i servizi. Questi documenti aziendali vengono poi riprodotti in un modo standardizzato. The Canonical Schema pattern reduces the need for application of the data model transformation design pattern. [3]
+I contratti di servizio sono standardizzati per fornire una misura di base dell'interoperabilità tra sistemi diversi attraverso l'armonizzazione dei modelli di dati. Infatti, il principio del modello del Contratto di Servizio Standardizzato prevede che i contratti di servizio siano basati su modelli di dati standardizzati. L'analisi viene effettuata sul progetto dell'inventario dei servizi per scoprire i documenti aziendali più comuni che vengono scambiati tra i servizi. Questi documenti aziendali vengono poi riprodotti in un modo standardizzato. Il modello Canonical Schema riduce il bisogno di applicazione del modello di progettazione per la trasformazione del modello di dati. [3]
 
 #### 3.0.3 Comunicazione Inter-Contract
 
@@ -272,39 +272,39 @@ Gli utenti malintenzionati creano ed inviano ordini il cui valore è diverso da 
 
 #### 3.9.5 Timing attack
 
-Timing attacks are a class of cryptographic attacks through which a third-party observer can deduce the content of encrypted data by recording and analyzing the time taken to execute cryptographic algorithms. The RAFT algorithm prevents timing attacks by using randomness of timeouts.
+Gli attacchi di tipo Timing sono una classe di attacchi cryptografici attraverso i quali un osservatore di terze parti può dedurre il contenuto dei dati criptati registrando e analizzando il tempo necessario per l'esecuzione degli algoritmi di crittografia. L'algoritmo RAFT previene gli attacchi di tipo timing utilizzando i timeout in modo casuale.
 
 ### 3.10 USER EXPERIENCE
 
-Our focus on user experience is primary. We wish to make VTX and the four pillars of Volentix -- Venue, Verto, Vespucci, and VDex -- easily accessible to and useable by all those who wish to join our community. We expect the experience continually to be educational as well, with templates and simulators to support a superior UX/UI relationship.
+Our focus on user experience is primary. Vogliamo rendere VTX e i quatro pilastri di Volentix --Venue, Verto, Vespucci, e VDex -- facilmente accessibili e utilizzabili da tutti coloro che desiderano unirsi alla nostra comunità. Ci aspettiamo che l'esperienza sia continuamente anche educativa, con modelli e simulatori per supportare una migliore relazione UX/UI.
 
 ### 3.11 TRUE DECENTRALIZATION
 
-EOS.IO is an open-source, scalable infrastructure for decentralized applications. Its goal is a fair and transparent block producer (BP) election process utilizing a democratic delegated proof of stake (DPoS) consensus. Particularly as such a system just begins to proliferate, there will be glitches. Therefore, some degree of retained centralization is inevitable and necessary. But our guiding philosophy is one of decentralization, and our ongoing efforts are targeted to promoting a reduction in dependence on central authority.
+EOS.IO è un'infrastruttura scalabile e di tipo open source per applicazioni decentralizzate. Its goal is a fair and transparent block producer (BP) election process utilizing a democratic delegated proof of stake (DPoS) consensus. In particolare, poichè un sistema del genere è ancora agli inizi, ci saranno dei difetti. Pertanto, un certo grado di centralizzazione mantenuta è inevitabile e necessario. Però la nostra filosofia guida è una di decentralizzazione, e i nostri sforzi sono mirati a promuovere una riduzione nell'indipendenza da un autorità centrale.
 
-For example, initially we plan to erect a system for electing nodes (when solving order books) that will not use a shared central clock or DPoS but instead will be based either on random timeouts for the determination of leaders in an election (RAFT) or on Directed Acyclic Graph (DAG) in the PARSEC protocol.
+Per esempio, inizialmente abbiamo intenzione di erigere un sistema per l'elezione dei nodi (per la risoluzione dei libri degli ordini) che non utilizzerà un orologio centrale condiviso o DPoS ma che si baserà o su timeout casuali per la determinazione dei leader in un elezione (RAFT) oppure su Directed Acyclic Graph (DAG) nel protocollo PARSEC.
 
 ### 3.12 SYSTEM RECOVERY
 
-The RAFT and PARSEC protocols provide a robust system for recovery in the case of node failure. Security measures are also provided for trading between and among native blockchains. If a chain defies identification, the system defaults to the next block or a short time lock.
+I protocolli RAFT e PARSEC forniscono un sistema robusto per il recupero nel caso di un errore in un nodo. Sono inoltre fornite misure di sicurezza per il commercio tra blockchain native. If a chain defies identification, the system defaults to the next block or a short time lock.
 
-### 3.13 EVOLVING ARCHITECTURE
+### 3.13 ARCHIETETTURA IN EVOLUZIONE
 
-Daily announcements of fresh code developments impacting on use of digital assets reveal the tremendous benefit of the open-source code philosophy. We at Volentix recognize we are the beneficiaries of the enormous financial resources dedicated by many early movers to developing digital assets applications over the past decade. We now have an opportunity to take the next step by creating VDex, a decentralized exchange for the next generation of digital assets transactions.
+Gli annunci quotidiani dello sviluppo di nuovo codice che influiscono sull'utilizzo degli asset digitali rivelano l'enorme vantaggio della filosofia del codice open-source. Noi di Volentix siamo consapevoli di essere i beneficiari delle enormi risorse finanziarie fornite dagli investitori iniziali per lo sviluppo delle applicazioni di asset digitali nell'ultimo decennio. Ora abbiamo l'opportunità di fare il prossimo passo creando VDex, un exchange decentralizzato per la prossima generazione delle transazioni di asset digitali.
 
-## 4. CONCLUDING THOUGHTS
+## 4. PENSIERI CONCLUSIVI
 
-All of us at Volentix are dedicating our work and insights to developing a program premised on empowerment and independence. If you are of a mind to join us, in whatever capacity, then please do so and please become educated on the topics contained in this white paper and additional Volentix publications as we share them with our community.
+Tutti noi di Volentix stiamo dedicando il nostro lavoro e i nostri pensieri allo sviluppo di un programma basato sull'indipendenza e sull'empowerment. Se vuoi unirti a noi, qualunque siano le tue abilità, allora ti preghiamo di farlo e di studiare gli argomenti contenuti in questa white paper e le ulteriori pubblicazioni Volentix che condividiamo con la nostra community.
 
 ## 5. TIMELINE
 
-Please monitor our website and social media for updates and other important announcements. Thank you very much for your attention and interest.
+Controlla il nostro sito web e i nostri social media per aggiornamenti e altri annunci importanti. Vi ringraziamo per la vostra attenzione e il vostro interesse.
 
-## DISCLAIMER
+## DISCLAIMER (dichiarazione di esclusione di responsabilità)
 
-This white paper was prepared, and is presented, for information purposes only. The information presented does not purport to be comprehensive. The information is subject to change in whole or in part at any time without notice. Volentix Labs reserves the right to amend, replace, remove, or delete any and all information at the sole and exclusive discretion of Volentix. Volentix Labs makes no representation or warranty, expressed or implied, concerning the accuracy or completeness of the information and expressly disclaims any and all liability of any and all kinds whatsoever for the information contained or not contained. Volentix Labs requests each and every reader to read the information fully and carefully, and to undertake independent investigation and analysis of the information, and to seek and obtain professional advice for purposes of evaluating the information. To the knowledge of Volentix Labs, no regulatory agency, government, or other third-party enforcement entity has reviewed, evaluated, or approved any part or all of the information. This information is not an offer or solicitation of any kind whatsoever and does not form the basis for any contract or commitment of any kind whatsoever. Any statement considered to be forward-looking is purely a matter of opinion, and no viewer should rely on any such statement or on any part or all of the information in any way whatsoever.
+Questa white paper è stata preparata, ed è presentata, solo a scopo informativo. Le informazioni presentate non pretendono di essere complete. Le informazioni sono soggette a cambiamenti totali o parziali in qualsiasi momento senza alcun preavviso. Volentix Labs si riserva il diritto di modificare, sostituire, rimuovere, o cancellare qualsiasi informazione a discrezione unica ed esclusiva di Volentix. Volentix Labs non rilascia alcuna dichiarazione o garanzia, espressa o implicita, circa l'accuratezza o la completezza delle informazioni e declina espressamente ogni e qualsiasi responsabilità di qualsiasi tipo per le informazioni contenute o meno. Volentix Labs chiede ad ogni lettore di leggere le informazioni in modo completo e con la massima attenzione, e di intraprendere un'indagine e un'analisi indipendente delle informazioni e di chiedere e ottenere una consulenza professionale ai fini della valutazione delle informazioni. Per quanto a conoscenza di Volentix Labs, nessuna agenzia di regolamentazione, ente governativo o altro ente di terze parti di applicazione della legge ha esaminato, valutato o approvato in tutto o in parte le informazioni. Queste informazioni non sono un offerta o una richiesta di alcun tipo e non formano le base per alcun tipo di contratto o di impegno. Qualsiasi dichiarazione considerata lungimirante è puramente una questione di opinioni, e nessun lettore dovrebbe fare affidamento su tale dichiarazione o su qualsiasi parte o su tutte le informazioni in alcun modo.
 
-## FOOTNOTES
+## NOTE A PIÈ DI PAGINA
 
 1. K. Kurokawa, Atomic cross chain transfer, an overview, (2015).
 
@@ -330,7 +330,7 @@ This white paper was prepared, and is presented, for information purposes only. 
 
 12. BlockColliderTeam, Block collider white paper, (2018).
 
-## SUPPLEMENTAL REFERENCES
+## REFERENZE SUPPLEMENTARI
 
 Aelf, A multi-chain parallel computing blockchain framework, (2018).
 

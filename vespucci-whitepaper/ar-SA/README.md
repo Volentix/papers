@@ -240,93 +240,93 @@
 
 يعتقد المحللون الفنيون أن تحليل حركة الأسعار أو العرض والطلب الخاص بالعملات هو أفضل طريقة لتحديد توجهات العملة. تميل حركات الأسعار إلى التداول ضمن اتجاه أو نطاق معين. فيما يتعلق بهذا الاعتقاد، يفترض المحللون الفنيون أن التاريخ يميل إلى تكرار نفسه استنادًا على فكرة أن المشاركين في السوق كانوا في كثير من الأحيان يتفاعلون بطريقة مماثلة لأحداث السوق المتكررة. يوجد عدد كبير جدًا من التقنيات والمؤشرات لتحليل البيانات. في هذا القسم، نركز على بعض التقنيات البسيطة مثل Keltner Channels, moving average crossovers ،RSI ،Bollinger Bands وتقنية MACD الشهيرة، هذا بالإضافة إلى بعض الأساليب المتقدمة مثل Fibonnaci وIchimoku Kinko Hyo.
 
-* Keltner Channels put an upper, middle and lower band around the price action on a stock chart. The indicator is most useful in strongly [trending markets](https://www.investopedia.com/terms/t/trending-market.asp) when the price is making higher highs and higher lows for an [uptrend](https://www.investopedia.com/terms/u/uptrend.asp), or lower highs and lower lows for a [downtrend](https://www.investopedia.com/terms/d/downtrend.asp).
+* تقوم قنوات كلتنر (Keltner Channels) بوضع شريط علوي، أوسط وسفلي حول حركة الأسعار في الرسم البياني الخاص بالأسهم. يكون المؤشر مفيدًا للغاية في [الأسواق الأكثر تداولاً](https://www.investopedia.com/terms/t/trending-market.asp) عندما يكون السعر يسجل أعلى مستوياته وأعلى انخفاضاته في [اتجاه صعودي](https://www.investopedia.com/terms/u/uptrend.asp) أو أدنى انخفاضاته وأدنى مستوياته في [اتجاه هبوطي](https://www.investopedia.com/terms/d/downtrend.asp).
 
-**Moving average crossovers:** The reason moving average is so important for traders and analysts is its smoothing role. It is responsible for noise removal, for outlier detection and emphasizes in long term trends. Several different kinds of moving average calculations exist, but all of them are used to plot a line against either a price chart or another indicator. The direction and slope of moving average lines inform investors about the relationship between historical data values and present data values. The flexibility of moving averages allows them to be used to analyze other moving averages. A common strategy involves plotting two moving average lines of different time intervals and interpreting their relationship to spot trends, forecast price movements and place trades. Moving average crossovers have subsequently become the focus of an entire subset of technical indicators. When utilizing moving averages, crossovers can determine a change in the price trend. A common trend reversal technique is utilizing a five-period simple moving average with a 15-period simple moving average. When the five-period moving average forms a crossover, it signals a reversal in the trend and potentially the start of a new opposite trend, which is called a breakout or a breakdown.
+**تقاطعات المتوسط المتحرك (Moving average crossovers):** يعتبر المتوسط المتحرك مهم جدًا للمتداولين والمحللين لدوره الكبير في التسهيل. إذ هو مسؤول عن إزالة الإشارات الخاطئة، للكشف الخارجي وللتأكيد على الاتجاهات (trends) الطويلة الأجل. توجد عدة أساليب مختلفة لحساب المتوسط المتحرك لكن يتم استخدامها جميعًا لرسم خط لمقارنته برسم بياني خاص بسعر أو بمؤشر آخر. يُعلِم اتجاه وانحدار خطوط المتوسط المتحرك المستثمرين بالعلاقة بين قيم البيانات التاريخية والحالية. تتيح مرونة المتوسطات المتحركة القدرة على استخدامها لتحليل المتوسطات المتحركة الأخرى. إستراتيجية شائعة تتمثل في رسم خطين لمتوسطين متحركين من فترات زمنية مختلفة وتحليل علاقتهما لرصد الاتجاهات المحتملة، حركات الأسعار المتوقعة والقيام بالتداول المناسب. أصبحت تقاطعات المتوسط المتحرك محور مجموعة فرعية كاملة من المؤشرات الفنية. عند استخدام المتوسطات المتحركة، يمكن للتقاطعات تحديد تغير ما في اتجاه السعر. هنالك تقنية شائعة لانعكاس الاتجاه تستخدم متوسط متحرك بسيط قائم على خمس فترات مع متوسط متحرك أخر قائم على خمسة عشرة فترة. عندما يشكل المتوسط المتحرك القائم على خمس فترات تقاطعًا، يشير ذلك إلى انعكاس في الاتجاه وربما بداية اتجاه معاكس جديد وهو ما يسمى بالاندلاع أو الانهيار (breakout/breakdown).
 
-**Relative Strength Index (RSI)** is a momentum indicator that measures the magnitude of recent price changes to analyze overbought or oversold conditions. It is primarily used to attempt to identify overbought or oversold conditions in the trading of an asset. The RSI provides a relative evaluation of the strength of a security’s recent price performance, thus making it a momentum indicator. RSI values above or equal to 70 indicate that a security is becoming overbought or overvalued. RSI reading below or equal to 30 is commonly interpreted as indicating an oversold or undervalued condition that may signal a trend change or corrective price reversal to the upside. Some traders, in an attempt to avoid false signals from the RSI, use more extreme RSI values as buy or sell signals, such as RSI readings above 80 to indicate overbought conditions and RSI readings below 20 to indicate oversold conditions. Sudden large price movements can create false buy or sell signals in the RSI. It is, therefore, best used with refinements to its application or in conjunction with other, confirming technical indicators.
+**مؤشر القوة النسبية (Relative Strength Index أو RSI)** هو مؤشر الزخم الذي يقيس حجم التغييرات الأخيرة في الأسعار لتحليل حالات الشراء المفرط والبيع المفرط. يستخدم في المقام الأول لمحاولة تحديد حالات الشراء المفرط والبيع المفرط عند تداول أصلٍ ما. يوفر RSI تقييمًا نسبيًا لقوة أداء سعر السند المالي في الآونة الأخيرة، مما يجعله مؤشرًا للزخم. تشير نسب RSI الأعلى من أو تساوي 70 إلى أن السند المالي أصبح في حالة شراء مفرط أو تقدير مفرط. بينما يتم تفسير نسب RSI الأدنى من أو تساوي 30 في أغلب الأحيان على أنها تشير إلى حالة البيع المفرط أو انخفاض في تقدير القيمة التي قد تشير إلى تغير الاتجاه (trend) أو إنعكاس السعر التصحيحي في الاتجاه الصعودي. في محاولة لتجنب إشارات خاطئة من مؤشر القوة النسبية، يستخدم بعض المتداولين نسباً أكبر وأصغر كإشارات شراء أو بيع، مثلا القراءات فوق 80 تشير إلى حالات شراءٍ مُفرط والقراءات أقل من 20 تشير إلى حالات بيعٍ مُفرط. يمكن أن تؤدي حركات الأسعار الكبيرة المفاجئة إلى إشارات بيع أو الشراء خاطئة في الـ RSI. لذلك، من الأفضل إستخدامه مع بعض التحسنات لتطبيقه أو بإستعمال مؤشرات فنية أخرى لتأكيد التحليل.
 
-**Bollinger Bands** are a technical chart indicator popular among traders across several financial markets. On a chart there are two “bands” that sandwich the market price. Many use them primarily to determine overbought and oversold levels. A common strategy is to sell when the price touches the upper Bollinger Band and buy when it hits the lower band. This technique also called range-bound markets. In this type of market, the price bounces off the Bollinger Bands like a ball bouncing between two walls.
+**أشرطة بولينجر (Bollinger bands)** هي عبارة عن مؤشر خاص بالرسم البياني الفني، شائعٌ بين المتداولين في العديد من الأسواق المالية. على الرسم البياني هنالك ''شريطين'' يقومون بحصر سعر السوق المحتمل. يستخدمها العديد من المتداولين خاصة لتحديد مستويات البيع والشراء المفرط. إحدى الإستراتيجيات الشائعة تتمثل في البيع عندما يلامس السعر الشريط العلوي والشراء عندما يصل إلى الشريط السفلي. تعرف هذه التقنية بالأسواق المحدودة النطاق (range-bound markets). في هذا النوع من السوق، يرتد السعر بين الأشرطة مثل الكرة التي ترتد بين جدارين.
 
-**MACD** calculates the difference between a currency’s 26-day and 12-day exponential moving averages (EMA). The 12-day EMA is the faster one, while the 26-day is a slower moving average. The calculation of both EMAs uses the closing prices of whatever period is measured. On the MACD chart, a nine-day EMA of MACD itself is plotted as well, and it acts as a signal for buy and sell decisions.The MACD histogram provides a visual depiction of the difference between MACD and its nine-day EMA. MACD histogram is one of the main tools traders use to gauge momentum, because it gives an intuitive visual representation of the speed of price movement. For this reason, the MACD is commonly used to measure the strength of a price move rather than the direction or trend of a currency.
+**المتوسط المتحرك للتقارب والتباعد (Moving Average Convergence Divergence أو MACD)** يحسب الفرق بين المتوسطات المتحركة الأُسية الخاصة بمدة 26 و12 يوم (Exponential Moving Averages أو EMA). يعتبر المتوسط المتحرك الأسي لمدة 12 يوم هو الأسرع، بينما الخاص بمدة 26 يوم هو الأبطأ. تستخدم لحساب هذه المتوسطات أسعار الإغلاق لأي فترة يتم قياسها. على الرسم البياني لـ MACD، يتم أيضًا إضافة المتوسط المتحرك الأسي لمدة تسعة أيام وهو بمثابة إشارة لاتخاذ قرارات البيع والشراء. يوفر المدرج التكراري (histogram) رسمًا مرئيًا يفرق بين MACD والمتوسط المتحرك الأسي لمدة تسعة أيام. يعتبر المدرج التكراري الخاص بـ MACD أحد الأدوات الرئيسية التي يستخدمها المتداولون لقياس الزخم لأنه يوفر تمثيلًا مرئيًا حدسي لسرعة حركة السعر. لهذا السبب، يتم استخدام MACD بشكل شائع لقياس قوة حركة السعر بدلاً من اتجاه العملة.
 
-More advanced techniques for data analysis are the Fibonacci methods as well as Ichimoku Kinko Hyo techniques, as discussed in the sequel.
+الأساليب الأكثر تقدما لتحليل البيانات هي أساليب فيبوناتشي وكذلك تقنيات إيشيموكو كينكو هيو (Ichimoku Kinko Hyo)، كما هو موضح فيما يلي.
 
-**Fibonacci Extension:** They are popular forecasting tools, often used in combination with other technical chart patterns. Many traders use this technique in conjunction with wave-based studies (Elliott Wave, Wolfe Wave) to estimate the height of each wave and define the different waves. They commonly used with other chart patterns such as the ascending triangle. Once the pattern is identified, a forecast can be created by adding 61.8% of the distance between the upper resistance and the base of the triangle to the entry price.
+**ملحق فيبوناتشي (Fibonacci Extension):** هم عبارة عن أدوات تنبؤ شائعة غالبًا ما تستخدم مع أنماط المخططات الفنية الأخرى. يستخدم العديد من المتداولين هذه التقنية جنبًا إلى جنب مع الدراسات القائمة على الموجة (Elliott Wave و Wolfe Wave) لتقدير ارتفاع كل موجة وتحديد الموجات المختلفة. عادة ما يتم استخدامها مع أنماط الروسم البيانية الأخرى مثل المثلث التصاعدي. بمجرد تحديد النمط، يمكن إنشاء تنبؤ بإضافة 61.8٪ من المسافة بين المقاومة العليا وقاعدة المثلث إلى سعر الدخول.
 
-**Fibonacci Clusters:** The Fibonacci cluster is a culmination of Fibonacci retracements from various significant highs and lows during a given time period. Each of these Fibonacci levels is then plotted on the “Y” axis (price). Each overlapping retracement level makes a darker shade on the cluster – the darker the cluster is, the more significant the support or resistance level tends to be. This technique can be used in conjunction with other Fibonacci techniques or chart patterns to confirm support and resistance levels.
+**أنظمة مجموعات فيبوناتشي (Fibonacci Clusters):** أنظمة مجموعات فيبوناتشي هي ذروة ارتدادات فيبوناتشي من الارتفاعات وأدنى مستوياتها خلال فترة زمنية محددة. يتم رسم كل مستوى من مستويات فيبوناتشي على المحور "Y" (السعر). يجعل كل مستوى ارتداد متداخل الظل أغمق على نظام المجموعة - كلما كان نظام المجموعة أكثر قتامة، كلما كان مستوى الدعم أو المقاومة أكثر أهمية. يمكن استخدام هذه التقنية مع تقنيات فيبوناتشي الأخرى أو أنماط الرسوم البيانية لتأكيد مستويات الدعم والمقاومة.
 
-**Fibonacci Channels:** The Fibonacci pattern can be applied to channels not only vertically, but also diagonally. One common technique is the combination of diagonal and vertical Fibonacci studies to find areas where both indicate significant resistance.
+**قنوات فيبوناتشي (Fibonacci Channels):** يمكن تطبيق نمط فيبوناتشي على القنوات عموديا وقطريا. تتمثل إحدى التقنيات الشائعة في الجمع بين دراسات فيبوناتشي القطرية والعمودية لإيجاد مناطق يشير كلاهما إلى مقاومة كبيرة.
 
-**Ichimoku Kinko Hyo** is a technical indicator that is used to gauge momentum along with future areas of support and resistance.It was originally developed by a Japanese newspaper writer to combine various technical strategies into a single indicator that could be easily implemented and interpreted. Ichimoku indicator is a combination of five key components:
+**إيشيموكو كينكو هيو (Ichimoku Kinko Hyo) **هو مؤشر فني يتم استخدامه لقياس الزخم إلى جانب مجالات الدعم والمقاومة المستقبلية. تم تطويره في الأصل بواسطة صحافي ياباني للجمع بين الاستراتيجيات التقنية المختلفة في مؤشر واحد يمكن تطبيقه وتفسيره بسهولة. مؤشر إيشيموكو هو مزيج من خمسة مكونات رئيسية:
 
-1. Tenkan-sen: Represents support and resistance level, and it’s a signal line for reversals.
-2. Kijun-sen: Represents support and resistance level. It’s a confirmation of a trend change, and can be used as a trailing stop-loss point.
-3. Senkou Span A: Is the average of tenkan-sen and kijun-sen for 26 periods ahead. The resulting line is used to identify future areas of support and resistance.
-4. Senkou Span B: Is calculated by the highest high and the lowest low over the past 52 periods, for 26 periods ahead. The resulting line is used to identify future areas of support and resistance.
-5. Chickou Span: Is the current period’s closing price plotted 26 days back on the chart. This line is used to show possible areas of support and resistance.
+1. Tenkan-sen: يمثل مستوى الدعم والمقاومة، وخط إشارة بالنسبة للانعكاسات (reversals).
+2. Kijun-sen: يمثل مستوى الدعم والمقاومة. كما يمثل تأكيد على تغير الاتجاه (trend)، ويمكن استخدامه أيضاً كنقطة لوقف الخسارة (stop-loss point).
+3. Senkou Span A: هو متوسط tenkan-sen وkijun-sen لمدة 26 فترة مستقبلية. يتم استخدام الخط الناتج لتحديد مجالات الدعم والمقاومة المستقبلية.
+4. Senkou Span B: يتم حسابه من أعلى وأدنى مستوى على مدار الـ 52 فترة الماضية، ولمدة 26 فترة قادمة. يتم استخدام الخط الناتج لتحديد مجالات الدعم والمقاومة المستقبلية.
+5. Chickou Span: هو سعر إغلاق الفترة الحالية الذي تم تخطيطه منذ 26 يوم على الرسم البياني. يستخدم هذا الخط لإظهار مجالات الدعم والمقاومة المحتملة.
 
-* #### **FUNDAMENTAL AND TECHNOLOGICAL ANALYSIS**
+* #### **التحليل الأساسي والتكنولوجي**
 
-Various blockchain technologies have been developed to tackle various challenges and, therefore, are meant to satisfy different requirements. A review of the technical concepts of the different blockchain technologies is our basis in understanding the impact of the different architectures in terms of performance, privacy, security and regulation. Quantitative analysis from a technological perspective (not to be confused with technical analysis) appraises and correlates various network statistics gleamed from the blockchain, giving a real-time view of the cryptocurrency. These statistics include but are not limited to:‬
+تم تطوير العديد من تقنيات سلاسل الكتل للتعامل مع شتى التحديات والهدف منها تلبية الاحتياجات المختلفة. إن مراجعة المفاهيم التقنية الخاصة بسلاسل الكتل المختلفة هي الأساس الذي نتبعه في فهم تأثير مختلف الهياكل من حيث الأداء، الخصوصية، الأمن والتنظيم. من منظور تقني، يقوم التحليل الكمي (يجب عدم الخلط بينه وبين التحليل الفني) بتقييم مختلف إحصاءات الشبكة المأخوذة من السلسلة والربط بينها، مما يوفر عرضًا في الوقت الفعلي للعملة الرقمية. تشمل هذه الإحصاءات لكنها لا تقف عند:
 
-* Block propagation time is important, since newly-found blocks need to be propagated as soon as possible across the blockchain network. Except for the waiting time for the user, another major issue coming from propagation time is that even for tiny delays‬, another block found at the same time might win the “block race”.
-* Hash rate vs Difficulty over Time‬, Price and Power consumption. These indicators, could show various correlations with Hash Rate, i.e. the hashrate could follow a corresponding increase or decrease to the price. Networks’ Hash Rate is also a security indicator, since networks which have low hash rate is easier to be tampered.
-* Node activity‬ and distribution‬. Nodes are vital parts of a blockchain, since it is maintained by them. They are connected to the blockchain network, transmitting and receiving the transactions, having their own copy of the blockchain. Therefore, their activity, distribution and average size can provide useful information about the blockchain.
-* Coin distribution‬, including information on how the coin is distributed among the developers, the foundation/production team, and the public. Also, the rate of change of the total supply and how is then distributed seems to provide useful statistics on the actual value of the coin and indication of possible frauds.
-* Miner distribution‬, indicating the number of miners online and how they are distributed (by pool), their fees, luck etc. Also,he software version of miners is also important, since ideally they should be on its latest version in order to support all the features of the Coin that they are mining.
-* Transaction levels, where various measures could be taken into account, such as the number of transactions submitted or validated per second by each node and the entire network, the average time of validation for a transaction and its volatility.
-* Tra nsactions fees, that users might pay to the network, in order to complete transactions or smart contracts.
-* Security includes several aspects such as the vulnerability of the system to attacks (e.g. double spending, Sybil attacks), the confidentiality of transactions, as well as user anonymity.
-* Scalability concerns how the system’s performance is affected by the number of nodes, transactions and users, and the scattering of the geographic positions of the nodes.
-* Hardware requirements for storage, memory and processors needed to store the blockchain network and validate the transactions and blocks, as well as how these requirements change while the networks grows.
+* يعتبر وقت إنتشار الكتل (Block propagation) أمرًا مهمًا، حيث يجب نشر الكتل التي تم العثور عليها حديثًا في أسرع وقت ممكن عبر شبكة السلسلة. باستثناء وقت انتظار المستخدم، هناك مشكلة رئيسية أخرى تأتي من وقت الانتشار وهي أنه حتى بالنسبة للتأخيرات الضئيلة، قد تفوز كتلة أخرى موجودة في نفس الوقت بـ "سباق الكتل" (block race).
+* معدل التجزئة (Hash rate) مقابل الصعوبة مع مرور الوقت، السعر واستهلاك الطاقة. يمكن أن تظهر هذه المؤشرات العديد من الارتباطات مع معدل التجزئة، أي أن هذا الأخير يمكن أن يتبع زيادة أو نقصان مماثل في السعر. معدل تجزئة الشبكات هو أيضًا مؤشر أمان، نظرًا لأن الشبكات ذات معدل التجزئة المنخفض أسهل في التلاعب بها.
+* نشاط العُقدة وتوزيعها. العُقد هي أجزاء حيوية من سلسلة الكتل لأنها التي تقوم بالحفاظ على نشاط الشبكة. فهي تكون متصلة بشبكة السلسلة، حيث تقوم بنقل واستقبال المعاملات وذلك مع إمتلاك نسخة خاصة بها من السلسلة. لذلك، يمكن أن يوفر نشاطها، توزيعها ومتوسط حجمها معلومات مفيدة حول السلسلة.
+* توزيع العملات بما في ذلك معلومات حول كيفية توزيع العملة بين المطورين، وفريق الإنشاء/الإنتاج وعامة الشعب. أيضًا، يبدو أن معدل التغير في إجمالي العرض وكيفية توزيعه يوفر إحصائيات مفيدة حول القيمة الفعلية للعملة وإشارة إلى عمليات الاحتيال المحتملة.
+* توزيع المعدِنين مع الإشارة إلى عدد المعدِنين على الإنترنت وكيفية توزيعهم (حسب المجموعة)، رسومهم، حظهم، إلخ. يعتبر أيضًا إصدار البرمجيات الخاص بالمعدِنين مهمًا، لأنه من الأفضل أن يمتلكوا أحدث إصدار من أجل دعم جميع ميزات العملة التي يقومون بتعدينها.
+* مستويات المعاملات، حيث يمكن أن تؤخذ مختلف التدابير بعين الاعتبار ، مثل عدد المعاملات التي تم تقديمها أو التحقق من صحتها في الثانية الواحدة من قبل كل عقدة والشبكة بأكملها، متوسط وقت التحقق من صحة المعاملة وتقلبها.
+* رسوم المعاملات التي قد يدفعها المستخدمون إلى الشبكة لإكمال المعاملات أو العقود الذكية.
+* يشمل الأمن عدة جوانب مثل قابلية تعرض النظام للهجمات (مثل الإنفاق المزدوج (double spending)، وهجمات سيبل (Sybil attacks))، سرية المعاملات، فضلاً عن إخفاء هوية المستخدم.
+* تتعلق التدرجية بكيفية تأثر أداء النظام بعدد العُقد، المعاملات والمستخدمين، وتشتت المواقع الجغرافية للعُقد.
+* متطلبات الأجهزة للتخزين، الذاكرة والمعالجات اللازمة لتخزين شبكة السلسلة والتحقق من صحة المعاملات والكتل ، فضلاً عن كيفية تغيير هذه المتطلبات أثناء نمو الشبكات.
 
-To implement the above analysis, further detail is given in the next section. Today, blockchain explorers are widely available to support this task. In particular, blockchain explorers such as [coinmetrics](https://coinmetrics.io/) and [cryptocompare](https://www.cryptocompare.com/) were combined, in order to meet the needs of FTA. The former is an open source crypto-asset analytics service, providing daily data for the most major cryptocurrencies (about 64 currently). Cryptocompare is a platform with live cryptocurrency data; its API makes available historical and live streaming cryptocurrency data, such as pricing, volume and block explorer data from multiple exchanges and blockchains.
+لتطبيق التحليل أعلاه، المزيد من التفاصيل توجد في القسم التالي. تتوفر اليوم مستكشفات سلاسل الكتل على نطاق واسع لدعم هذه المهمة. على وجه الخصوص ، تم دمج مستكشفات مثل [coinmetrics](https://coinmetrics.io/) و[cryptocompare](https://www.cryptocompare.com/) لتلبية إحتاجيات اتفاقية التجارة الحرة. السابقة هي عبارة عن خدمة تحليلات خاصة بتشفير الأصول مفتوحة المصدر، حيث يتم توفير بيانات يومية لمعظم العملات الرقمية الرئيسية (حوالي 64 حاليًا). Cryptocompare هي عبارة عن منصة بها بيانات تشفير تعرض في الوقت الحقيقي؛ تتيح واجهة برمجة التطبيقات (API) الخاصة بها بيانات العملة الرقمية التاريخية والمباشرة، مثل بيانات التسعير، حجم التداول وبيانات مستكشف الكتل المأخوذة من منصات التبادل المتعددة ومختلف السلاسل.
 
-Among others, some of the features available by both APIs are:
+من بين أخرى، هنالك بعض الميزات المتوفرة من قبل كلتا واجهات برمجة التطبيقات وهي:
 
-* transaction count – number of transactions happening on the public blockchain a day
-* transaction volume (usd) – total value of outputs on the blockchain, on a given day
-* adjusted transaction volume (usd) – estimated ([https://coinmetrics.io/introducing-adjusted-estimates](https://coinmetrics.io/introducing-adjusted-estimates/))
-* payment count
-* active addresses
-* fees
-* median fee
-* generated coins
-* average difficulty
-* median transaction value (usd)
-* block size
-* block count
-* price (usd)
-* market capitalization (usd)
-* exchange volume(usd)
-* total coins mined
-* difficulty adjustment
-* block reward reduction, number & time
-* net hashes per second
-* total coins mined
+* عدد المعاملات - عدد المعاملات التي تحدث على شبكة الكتل العامة في اليوم
+* حجم المعاملات (دولار) - القيمة الإجمالية للإخراجات على شبكة الكتل في يوم معين
+* حجم المعاملة المعدّل (دولار أمريكي) - المقدّر ([https://coinmetrics.io/introducing-adjusted-estimates](https://coinmetrics.io/introducing-adjusted-estimates/))
+* عدد مرات الدفع
+* العناوين النشطة
+* الرسوم
+* متوسط الرسوم
+* العملات المنشأة
+* مدى تحديد الصعوبة
+* قيمة المعاملة المتوسطة (دولار)
+* حجم الكتلة
+* عدد الكتلة
+* السعر (دولار)
+* القيمة السوقية (الدولار)
+* حجم التبادل (دولار)
+* مجموع العملات الالكترونية المعدنة
+* تعديل الصعوبة
+* تخفيض مكافآت الكتلة، العدد & الزمن
+* التجزئة الصافية (net hashes) في الثانية الواحدة
+* مجموع العملات الالكترونية المعدنة
 
-**Source Code – Developer activity**
+**شفرة المصدر - نشاط المطور**
 
-There is an aspect of quantitative analysis from a social perspective which looks at the involvement of the developer community surrounding the project, quite related to Sentiment Analysis. Research into metrics that accurately reflect rates of community participation as well as creator participation will be assessed. These factors may include but are not limited to:‬
+من منظور اجتماعي، هنالك جانب من التحليل الكمي ينظر إلى مشاركة مجتمع المطورين الخاص بالمشروع، وهو يرتبط نوعا ما بتحليل نزعة السوق. سيتم تقييم البحث في المقاييس التي تعكس بدقة معدلات مشاركة المجتمع ومشاركة ‏‏المنشئين. قد تشمل هذه العوامل لكنها لا تقف عند:
 
-‪• online community participation
+• مشاركة المجتمع عبر الإنترنت
 
-‪• code base activity‬
+• نشاط خاص بالشفرة
 
-‪• creator approachability and responsiveness ‬.
+• التقرب من المنشئ واستجابته.
 
-This module (related to Sentiment analysis) examines information from Github and other sources such as literature review. It grades the quality of a codebase by looking at social cues well-known among software developers, and in particular:
+تفحص هذه الوحدة (المتعلقة بتحليل نزعة السوق) معلومات من Github ومصادر أخرى كمراجعة الأعمال المكتوبة. يقيم جودة قاعدة الشفرة من خلال النظر في الإشارات الاجتماعية المعروفة بين مطوري البرمجيات، وعلى وجه الخصوص:
 
-* The expertise and track record of the team and their continued commitment to their project (frequency of commits, frequency the community responds to bugs, contributions over time, and the amount of time that has been consistently spent building up the project),
-* The activity on GitHub, which is tightly related to the previous item, and the number of followers of the project,
-* The quality of code (programming languages, test coverage, ratio of bugs over lines of code,build breaks etc), robustness, and maintenance of the software,
-* The corresponding white paper.
-* The mathematical and cryptographical principles of the system.
+* خبرة الفريق، سجلهم، إلتزامهم المتواصل بمشروعهم (تواتر طلبات الإيداع، تواتر استجابة المجتمع للأخطاء، المساهمات، ومقدار الوقت الذي تم إنفاقه باستمرار في بناء المشروع)،
+* النشاط على GitHub، والذي يرتبط ارتباطًا وثيقًا بالعنصر السابق وعدد المتابعين للمشروع،
+* جودة الشفرة (لغات البرمجة، تغطية الاختبار، نسبة الأخطاء مقارنة بعدد الخطوط، فواصل البناء ، إلخ)، المتانة، وصيانة البرنامج،
+* الورقة البيضاء المطابقة.
+* المبادئ الحسابية والتشفيرية للنظام.
 
-More specifically, some features of the git repositories that determine the repository’s popularity and robustness are its forks and stars, the activity of the maintenance team, measured by the rate of issues closed and of pull requests, as well as the quality of the project’s source code, measured by its test coverage and other code quality metrics. These can be obtained from the [CoinGecko](https://www.coingecko.com/en) API, a cryptocurrency ranking chart app that ranks digital currencies by developer activity, community, and liquidity.
+وبشكل أكثر تحديدًا، بعض ميزات مستودعات git التي تحدد شعبية المستودع وقوته، تتمثل في شوكاته ونجومه (forks and stars)، نشاط فريق الصيانة الذي يتم حسابه بواسطة معدل المشكلات التي تم إغلاقها وطلبات السحب، فضلاً عن جودة الشفرة الأصلية الخاصة بالمشروع التي يتم قياسها عبر تغطية الاختبار ومقاييس أخرى خاصة بجودة الشفرة. يمكن الحصول عليها من واجهة برمجة تطبيقات [CoinGecko](https://www.coingecko.com/en)، وهو تطبيق تصنيف للرسوم البيانية الخاصة بالعملات الإلكترونية والذي يقوم بتصنيفها حسب نشاط المطور، المجتمع والسيولة.
 
-The combination of these criteria relies essentially on an adapted and powerful scoring function which, eventually, may be replaced by a Convolutional Neural Network, also discussed in support of Sentiment Analysis (see relevant section).
+يعتمد الجمع بين هذه المعايير بشكل أساسي على وظيفة تسجيل قوية ومكيفة والتي يمكن استبدالها في النهاية بشبكة عصبية تلافيفية (Convolutional Neural Network)، تمت مناقشتها أيضًا لدعم تحليل نزعة السوق (انظر القسم المناسب).
 
 * #### **BLOCKCHAIN STATISTICS, BLOCKCHAIN FULL NODE, AND EVM ANALYSIS**
 
@@ -417,15 +417,15 @@ Storage techniques may rely on off-chain Order books developed by VLabs, which i
 
 ![](https://volentix.io/file/2019/01/Web-1920-–-2@3x.png)
 
-The project’s timeline is shown in the above figure. The main milestones are:  
-— Vespucci MVP. November 2018 .  
-— Vespucci, version 1.0\. April 2019.
+يظهر الجدول الزمني للمشروع في الشكل أعلاه. الأحداث الرئيسية هي:  
+— Vespucci MVP. نوفمبر 2018 .  
+— إصدار Vespucci 1.0\. أفريل 2019.
 
-### **ACKNOWLEDGMENTS**
+### **الشكر والتقدير**
 
-This text is based on NH’s original vision docs and AA’s update on them.
+يعتمد هذا النص على مستندات الرؤية الأصلية لـ NH والتحديثات التي قام بها AA عليها.
 
-### **REFERENCES**
+### **المراجع**
 
 [1] J. Yao et al. Forecasting and Analysis of Marketing Data using Neural Networks”, Journal of Science and Engineering 14:843-862 (1998)
 
@@ -461,4 +461,4 @@ This text is based on NH’s original vision docs and AA’s update on them.
 
 [17] <https://www.investopedia.com>
 
-Brackets at the end of certain references indicate the part of the paper that uses this reference.
+تشير الأقواس الموجودة في نهاية بعض المراجع إلى جزء الورقة الذي يستخدم هذا المرجع.
