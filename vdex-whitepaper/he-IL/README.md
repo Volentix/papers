@@ -198,7 +198,7 @@ Developers stake EOS.IO-compliant tokens to deploy a smart contract. After the c
 
 #### 3.6.1 תקשורת בין בלוקצ'יינים
 
-EOS.IO נועד להפוך הוכחות התקשורת בין בלוקצ'יינים (IBC) לקלות משקל. עבור שרשורים עם קיבולת לא מספיקה לעיבוד של הוכחות IBC ומיסוד תוקף, ישנה אפשרות של ברירת מחדל לoracles/escrows אמינים. With an EOS.IO-based smart contract, a trusted multi-signature wallet holding the asset in escrow can be used to persuade the signing/publishing of the transaction based on IBC proofs from the originating chain.
+EOS.IO נועד להפוך הוכחות התקשורת בין בלוקצ'יינים (IBC) לקלות משקל. עבור שרשורים עם קיבולת לא מספיקה לעיבוד של הוכחות IBC ומיסוד תוקף, ישנה אפשרות של ברירת מחדל לoracles/escrows אמינים. עם חוזה חכם מבוסס EOS.IO, ארנק אמין רב-כניסתי המחזיק ומבטיח את ביטחון הנכסים יכול לשמש לשכנוע הכניסה/הוצאה לאור של ההעברה הבנויה על הוכחות IBC מן שרשרת המקור.
 
 #### 3.6.2 מידע בלוקצ'יינים
 
@@ -214,7 +214,7 @@ EOS.IO נועד להפוך הוכחות התקשורת בין בלוקצ'יינ�
 
 שמירה על הרוב המכריע של כספים בחשבון מושהה, חשבון רב-כניסות מבוקר.
 
-Use multi-signatures on a hot wallet with several independent processes/servers double-checking all withdrawals, with the concomitant benefit of creating a trusted list of accounts.
+שימוש באופציית רב-כניסות בתוך הארנק עם מספר תהליכים/שרתים אשר בודקים פעמיים כל משיכה שמתבצעת, יחדו גם ההטבה הנלווית של יצירת רשימה בטוחה של חשבונות.
 
 פריסתו של חוזה מותאם המאפשר משיכות אך ורק לחשבונות מאומתות על-ידי KYC/AML.
 
