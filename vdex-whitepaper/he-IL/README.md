@@ -236,13 +236,13 @@ EOS.IO נועד להפוך הוכחות התקשורת בין בלוקצ'יינ�
 
 #### 3.8.3 אקראיות
 
-True randomisation of address space layout, route or utilizing varying lengths of timeouts as in the RAFT protocol can complexify systems enough to enhance resilience and further secure systems against a side-channel attack or front running.
+אקראיות אמיתית של פריסת מרחב הכתובות, וניתוב או ניצול אורכים משתנים של פסקי-זמן כפי שמתרחש בפרוטוקול הRAFT, יכולה להפוך מערכות למורכבות יותר, עד כדי העצמת החוסן והאבטחה של מערכות מפני התקפה של חזית ערוץ-צדדי.
 
 #### 3.8.4 ביקורת יומן כניסות
 
 Parsec אינו צריך להסתמך על רישומי כניסה בכדי לקבוע הסכמה. מצד שני, RAFT ידרוש זאת. בכל מקרה, צמתי רשת מאמתים ידרשו מידע מינימלי על מנת לקבוע הסכמה בנושא מזעור תהליך זמן העברות.
 
-#### 3.8.5 Transaction as Proof of Stake (TaPoS)
+#### 3.8.5 העברה כאלגוריתם הPOS
 
 This mechanism prevents the replay of a transaction on forks that do not include the referenced block. Signals the network that a particular user and stake are on a specific fork.
 
