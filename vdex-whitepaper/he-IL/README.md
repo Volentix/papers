@@ -244,13 +244,13 @@ Parsec אינו צריך להסתמך על רישומי כניסה בכדי לק
 
 #### 3.8.5 העברה כאלגוריתם הPOS
 
-מנגנון זה מונע את ההילוך החוזר של העברה מבוססת-מיזלוג ( Fork- פיצול של מטבע לתתי מטבע וחלוקתם לבעלי המטבעות המקוריים הנוצרים בעת שינויי חוק בפרוטוקול הבלוקצ’יין) אשר לא כוללים את הבלוק המיוחס. Signals the network that a particular user and stake are on a specific fork.
+מנגנון זה מונע את ההילוך החוזר של העברה מבוססת-מיזלוג ( Fork- פיצול של מטבע לתתי מטבע וחלוקתם לבעלי המטבעות המקוריים הנוצרים בעת שינויי חוק בפרוטוקול הבלוקצ’יין) אשר לא כוללים את הבלוק המיוחס. מסמן לרשת כאשר משתמש מסוים וה-Pos שלו מבוססים על מזלוג ספציפי.
 
-### 3.9 איומים בטחוניים ותקנים
+### 3.9 איומים בטחוניים ותיקונם
 
-#### 3.9.1 Double spend
+#### 3.9.1 בזבוז כפול
 
-A double spend is an attack in which a particular cryptocurrency stake is spent in more than one transaction.
+בזבוז כפול הינו כינוי לתרמית בה מתבצע ניסיון שימוש באותו סכום המטבעות הדיגיטליים לשני נמנעים שונים באותו הזמן.
 
 A race attack occurs when two conflicting transactions are sent in rapid succession into the network.
 
