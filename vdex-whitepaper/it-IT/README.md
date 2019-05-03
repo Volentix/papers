@@ -136,11 +136,11 @@ Ai fini della decentralizzazione, I nodi faranno a turno per impostare il regist
 
 ### 3.3 IMPOSTAZIONE ORDINE
 
-L'impostazione degli ordini contiene elementi noti delle operazioni tradizionali del mercato finanziario. Utilizing FIFO technology to design the order book, VDex intends to check order, inventory, and fill rate, as well as limit orders and cancellations. ![](../7.jpg)
+L'impostazione degli ordini contiene elementi noti delle operazioni tradizionali del mercato finanziario. Utilizzando la tecnologia FIFO per progettare il libro degli ordini, VDex intende controllare l'ordine, l'inventario, e il tasso di copertura di un ordine, così come i limit order e le cancellazioni. ![](../7.jpg)
 
 ### 3.4 VTX
 
-#### 3.4.1 VTX Issuance and Use
+#### 3.4.1 Creazione e utilizzo di VTX
 
 VTX è l'asset digitale nativo da emettere e utilizzare sull'exchange decentralizzato VDex. Attualmente abbiamo intenzione di utilizzare un contratto eosio.token del framework EOS.IO per emettere 2.1 miliardi di token VTX compatibili con EOS.IO con una supply di 1.3 miliardi. VTX avrà un'ampia gamma di utilizzi, ad esempio:
 
