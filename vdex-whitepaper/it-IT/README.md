@@ -132,7 +132,7 @@ Risiedenti sull'aggregatore, i registri ordini offline hanno come scopo la sicur
 
 #### 3.2.4 Processo di decentralizzazione dell'impostazione del registro ordini
 
-Ai fini della decentralizzazione, I nodi faranno a turno per impostare il registro ordini. The settling node must be designated by the protocol and all order book entries from all nodes must be available to the settling nodes. Secondo noi i meccanismi di consenso RAFT[9] e PARSEC[10] offrono soluzioni efficaci. RAFT è un algoritmo ben consolidato ed è facile da implementare.[7] PARSEC è più recente ed efficace, utilizza la tecnologia Directed Acyclic Graph (DAG) ed elimina la necessità di copiare i log.
+Ai fini della decentralizzazione, I nodi faranno a turno per impostare il registro ordini. Il settling node deve essere scelto dal protocollo e tutte le voci del libro degli ordini di tutti i nodi devono essere accessibili ai settling node. Secondo noi i meccanismi di consenso RAFT[9] e PARSEC[10] offrono soluzioni efficaci. RAFT è un algoritmo ben consolidato ed è facile da implementare.[7] PARSEC è più recente ed efficace, utilizza la tecnologia Directed Acyclic Graph (DAG) ed elimina la necessità di copiare i log.
 
 ### 3.3 IMPOSTAZIONE ORDINE
 
@@ -188,7 +188,7 @@ Le seguenti considerazioni sono rilevanti per il nostro utilizzo dell'exchange V
 
 La distribuzione di un contratto ha un costo ma l'utilizzo è gratuito.
 
-Developers stake EOS.IO-compliant tokens to deploy a smart contract. After the contract is deployed, the locked tokens are returned.
+Gli sviluppatori investono token conformi a EOS. IO per distribuire uno smart contract. Dopo che il contratto è stato distribuito, i token bloccati vengono restituiti.
 
 Le applicazioni decentralizzate stanziano memoria, CPU, larghezza di banda, e altre risorse per i loro contratti.
 
