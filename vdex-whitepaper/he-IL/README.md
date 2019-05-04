@@ -260,7 +260,7 @@ A 51% attack can be mounted by anyone owning >50% of the total computing power o
 
 #### 3.9.2 הטרמה
 
-A front runner steals one or more orders from a pending order book settlement transaction. Both EOS.IO and Loopring offer remedies in which keys are protected because they are not part of the on-chain transaction, and therefore remain unknown to parties other than the owner. Only the order book settling node is possessed of the sensitive information, and each node uses a different solution for resolving the order books, introducing yet another level of complexity to promote security.
+מועמד מוביל גונב הזמנה אחת או יותר מספר ההזמנות הנמצא בהמתנה בעסקת הסדר. EOS.IO ופרוטוקול הלופרינג מציעים שניהם תקנות, אשר בהן המפתחות מוגנות מפני שאינן לוקחות חלק בהעברות שעל הבלוקצ'יין, ולפיכך נותרות לא ידועות לצדדים שאינם הבעלים. Only the order book settling node is possessed of the sensitive information, and each node uses a different solution for resolving the order books, introducing yet another level of complexity to promote security.
 
 #### 3.9.3 זיוף זהויות
 
