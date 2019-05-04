@@ -282,9 +282,9 @@ A 51% attack can be mounted by anyone owning >50% of the total computing power o
 
 EOS.IO הינה תשתית קוד פתוח, הניתנת להרחבה בעבור יישומים מבוזרים. מטרתה היא תהליך בחירות הוגן ושקוף של מפיק הבלוק (BP) הבנוי על הסכמה נציגית דמוקרטית של אלגוריתם הPOS. במיוחד כאשר מערכת שכזו רק מתחילה להתרבות, הסיכוי הוא רב לתקלות. משום כך, מידה מסוימת של מרכוז שמור הינו בלתי נמנע והכרחי. הפילוסופיה המנחה שלנו היא ''ביזור'', והמאמצים המתמשכים שלנו ממוקדים לצמצום התלות בסמכות מרכזית.
 
-For example, initially we plan to erect a system for electing nodes (when solving order books) that will not use a shared central clock or DPoS but instead will be based either on random timeouts for the determination of leaders in an election (RAFT) or on Directed Acyclic Graph (DAG) in the PARSEC protocol.
+לדוגמא, תחילה אנו מתכננים להקים מערכת למטרת בחירה של צמתים (בעת פיתרון ספרי הזמנות) אשר לא תשתמש בשעון מרכזי משותף או באלגוריתם הPOS, אך במקום זאת תתבסס על פסקי-זמן אקראיים למען קביעתם של מנהיגים בתוך תהליך הבחירות (RAFT) או כמו כן על טכנולוגיית הגרף המיוכל (DAG) בפרוטוקול הPARSEC.
 
-### 3.12 SYSTEM RECOVERY
+### 3.12 שחזור מערכת
 
 The RAFT and PARSEC protocols provide a robust system for recovery in the case of node failure. Security measures are also provided for trading between and among native blockchains. If a chain defies identification, the system defaults to the next block or a short time lock.
 
