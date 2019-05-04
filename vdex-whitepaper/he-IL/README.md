@@ -198,23 +198,23 @@ Developers stake EOS.IO-compliant tokens to deploy a smart contract. After the c
 
 #### 3.6.1 תקשורת בין בלוקצ'יינים
 
-EOS.IO נועד להפוך הוכחות התקשורת בין בלוקצ'יינים (IBC) לקלות משקל. עבור שרשורים עם קיבולת לא מספיקה לעיבוד של הוכחות IBC ומיסוד תוקף, ישנה אפשרות של ברירת מחדל לoracles/escrows אמינים. With an EOS.IO-based smart contract, a trusted multi-signature wallet holding the asset in escrow can be used to persuade the signing/publishing of the transaction based on IBC proofs from the originating chain.
+EOS.IO נועד להפוך הוכחות התקשורת בין בלוקצ'יינים (IBC) לקלות משקל. עבור שרשורים עם קיבולת שלא מספיקה לעיבוד של הוכחות IBC ויצירת אימות, ישנה אפשרות של ברירת מחדל לoracles/escrows אמינים. עם חוזה חכם מבוסס EOS.IO, ארנק אמין רב-כניסתי המחזיק ומבטיח את ביטחון הנכסים יכול לשמש לשכנוע הכניסה/הוצאה לאור של ההעברה הבנויה על הוכחות IBC מן שרשרת המקור.
 
 #### 3.6.2 מידע בלוקצ'יינים
 
-ניתן לקבל מידע רב על בלוקצ'יינים, באמצעות קיבוץ צירי הזמן שלהם בסדר מקביל ( עם שוני בתדירות החלפת המצב [state]). מערכת זו יכולה לעורר עומס שרשורי מרובה, להחליף מצב, להביא תוצרים של נתוני מידע מחוזים חכמים, וביצוע עסקאות זרות. מרחק יחסי בין בלוקים, מצב גלובלי יחסי, וחותמות האירועים נרשמים בלדג'ר עולמי על מנת להטיב ולאשר את ההעברות לפני שהן מתרחשות על הרשת המקומית. גישה זו יכולה גם כן לשמש לקביעת צירופי המקרים בהליכי ייצור הבלוקים בין רשתות על מנת לקבל הנזלה רבה יותר.[12]
+ניתן לקבל מידע רב על בלוקצ'יינים, באמצעות איסוף צירי הזמן שלהם בסדר מקביל ( עם שוני בתדירות החלפת המצב [state]). מערכת זו יכולה להפעיל עומס רב-שרשורי מאזן, להעביר מצבים, לשלוף נתוני מידע מחוזים חכמים וליישם עסקאות עם בלוקצ'יינים אחרים. מרחק יחסי בין בלוקים, מצב גלובלי יחסי, וחותמות זמן האירועים נרשמים בלדג'ר עולמי על מנת למטב ולאשר את ההעברות לפני שהן מתרחשות על הרשת המקומית. גישה זו יכולה גם כן לשמש לקביעת צירופי המקרים בהליכי ייצור הבלוקים בין רשתות על מנת לקבל נזילות רבה יותר.[12]
 
-### 3.7 חששות אבטחה
+### 3.7 ענייני אבטחה
 
-בכדי להשתחרר ממסקנות מסוימות, אנו מתכננים להתחיל בבדיקת אבטחה שתלך על פי שלב האב-טיפוס. חששות בנוגע לאבטחה מקבלות חשיבות עליונה למשתמשים, ככה שנחוץ לטפל בהם. סוגי איומים כוללים, לדוגמא, מישהו אשר מריץ קוד מזיק בתוך עסקת חליפין, או מניפולציה בסדר ההעברות וחותמות הזמן של בלוקים. בחלקים הבאים, אנו פונים אל כמה איומים ביטחוניים ספציפיים עם אמצעי ביטחון ותקנים.
+בכדי להתנער מהנחות מסוימות, אנו מתכננים להתחיל בבדיקת האבטחה לאחר שלב אב-הטיפוס. עניינים הנוגעים לאבטחה מקבלים חשיבות עליונה עבור המשתמשים, ודורשים טיפול מיידי. איומים, כוללים לדוגמא, ניסיון הרצה של קוד מזיק (וירוס) בתוך עסקת חליפין, או ניסיון מניפולציה בסדר ההעברות וחותמות הזמן של בלוקים. בחלקים הבאים אנו נציג מספר איומי אבטחה ספציפיים ופתרונם.
 
-### 3.8 אמצעי ביטחון
+### 3.8 אמצעי בטיחות
 
-#### 3.8.1 חוזה אבטחה
+#### 3.8.1 אבטחת החוזה
 
-שמירה על הרוב המכריע של כספים בחשבון מושהה, חשבון רב-כניסות מבוקר.
+שמירת הרוב המכריע של הכספים בחשבון מבוקר, בעל השהיית זמן, ואפשרות רב-כניסתית.
 
-Use multi-signatures on a hot wallet with several independent processes/servers double-checking all withdrawals, with the concomitant benefit of creating a trusted list of accounts.
+שימוש באופציית רב-כניסות בתוך הארנק עם מספר תהליכים/שרתים אשר בודקים פעמיים כל משיכה שמתבצעת, יחדו גם ההטבה הנלווית של יצירת רשימה בטוחה של חשבונות.
 
 פריסתו של חוזה מותאם המאפשר משיכות אך ורק לחשבונות מאומתות על-ידי KYC/AML.
 
@@ -236,31 +236,31 @@ Use multi-signatures on a hot wallet with several independent processes/servers 
 
 #### 3.8.3 אקראיות
 
-True randomisation of address space layout, route or utilizing varying lengths of timeouts as in the RAFT protocol can complexify systems enough to enhance resilience and further secure systems against a side-channel attack or front running.
+אקראיות אמיתית של פריסת מרחב הכתובות, וניתוב או ניצול אורכים משתנים של פסקי-זמן כפי שמתרחש בפרוטוקול הRAFT, יכולה להפוך מערכות למורכבות יותר, עד כדי העצמת החוסן והאבטחה של מערכות מפני התקפה של חזית ערוץ-צדדי.
 
 #### 3.8.4 ביקורת יומן כניסות
 
 Parsec אינו צריך להסתמך על רישומי כניסה בכדי לקבוע הסכמה. מצד שני, RAFT ידרוש זאת. בכל מקרה, צמתי רשת מאמתים ידרשו מידע מינימלי על מנת לקבוע הסכמה בנושא מזעור תהליך זמן העברות.
 
-#### 3.8.5 Transaction as Proof of Stake (TaPoS)
+#### 3.8.5 העברה כאלגוריתם הPOS
 
-This mechanism prevents the replay of a transaction on forks that do not include the referenced block. Signals the network that a particular user and stake are on a specific fork.
+מנגנון זה מונע את ההילוך החוזר של העברה מבוססת-מיזלוג ( Fork- פיצול של מטבע לתתי מטבע וחלוקתם לבעלי המטבעות המקוריים הנוצרים בעת שינויי חוק בפרוטוקול הבלוקצ’יין) אשר לא כוללים את הבלוק המיוחס. מסמן לרשת כאשר משתמש מסוים וה-Pos שלו מבוססים על מזלוג ספציפי.
 
-### 3.9 איומים בטחוניים ותקנים
+### 3.9 איומים בטחוניים ותיקונם
 
-#### 3.9.1 Double spend
+#### 3.9.1 בזבוז כפול
 
-A double spend is an attack in which a particular cryptocurrency stake is spent in more than one transaction.
+בזבוז כפול הינו כינוי לתרמית בה מתבצע ניסיון שימוש באותו סכום המטבעות הדיגיטליים לשני נמנעים שונים באותו הזמן.
 
-A race attack occurs when two conflicting transactions are sent in rapid succession into the network.
+התקפת מרוץ מתרחשת כאשר שתי העברות הסותרות אחת את השניה נשלחות ברצף מהיר אל תוך הרשת.
 
-A Finney attack pre-mines one transaction into a block and spends the same tokens before releasing the block to invalidate that transaction.
+התקפת השיבוש ''פיני'' כורית מראש (כריית-מידע) העברה אחת אל תוך בלוק ומבזבזת את אותה כמות טוקנים לפני הוצאת הבלוק על מנת לבטל העברה זו.
 
-A 51% attack can be mounted by anyone owning >50% of the total computing power of a network. A majority ownership position permits reversal of any transaction and allows total control of selection of transactions appearing in blocks. EOS.IO, Loopring, and RAFT appear to prevent this problem. If a block producer takes an unreasonable amount of runtime or is not sufficiently profitable, then the process is blacklisted.[5]
+A 51% attack can be mounted by anyone owning >50% of the total computing power of a network. מרבית מעמדת הבעלות מאפשרת היפוך של כל העברה ומתירה שליטה מוחלטת במבחר של ההעברות המופיעות בבלוקצ'יין. EOS.IO, פרוטוקול הלופרינג והRAFT נדמים כי מונעים את בעיה זו. אם מפיק בלוק מנצל כמות לא סבירה של זמן-ריצה או אינו מספיק רווחי, התהליך יופיע ברשימה השחורה.[5]
 
-#### 3.9.2 Front running
+#### 3.9.2 הטרמה
 
-A front runner steals one or more orders from a pending order book settlement transaction. Both EOS.IO and Loopring offer remedies in which keys are protected because they are not part of the on-chain transaction, and therefore remain unknown to parties other than the owner. Only the order book settling node is possessed of the sensitive information, and each node uses a different solution for resolving the order books, introducing yet another level of complexity to promote security.
+מועמד מוביל גונב הזמנה אחת או יותר מספר ההזמנות הנמצא בהמתנה בעסקת הסדר. EOS.IO ופרוטוקול הלופרינג מציעים שניהם תקנות, אשר בהן המפתחות מוגנות מפני שאינן לוקחות חלק בהעברות שעל הבלוקצ'יין, ולפיכך נותרות לא ידועות לצדדים שאינם הבעלים. אך ורק הצומת המייסד בספר ההזמנות בעל מידע רגיש, כמו כן כל צומת משתמש בשיטת פיתרון אחרת עבור תיקון ספרי ההזמנות, מה שמציג בפנינו עוד רמת מורכבות עבור קידום ביטחון.
 
 #### 3.9.3 זיוף זהויות
 
@@ -276,11 +276,11 @@ A front runner steals one or more orders from a pending order book settlement tr
 
 ### 3.10 חווית המשתמש
 
-Our focus on user experience is primary. אנחנו מכוונים ליצור שVTX וארבעת עמודי התווך של Volentix -- Venue, Verto, Vespucci, VDex -- יהיו קלים ונגישים לכל מי שברצונו/ה להצטרף לקהילה שלנו. אנחנו מצפים כי החוויה תועצם על ידי המשכת החינוך, עם תבניות והדמיות בכדי לתמוך במערכת יחסים UX/UI נעלה.
+המיקוד העיקרי שלנו על חווית המתמש. אנחנו מכוונים ליצור שVTX וארבעת עמודי התווך של Volentix -- Venue, Verto, Vespucci, VDex -- יהיו קלים ונגישים לכל מי שברצונו/ה להצטרף לקהילה שלנו. אנחנו מצפים כי החוויה תועצם על ידי המשכת החינוך, עם תבניות והדמיות בכדי לתמוך במערכת יחסים UX/UI נעלה.
 
 ### 3.11 ביזור אמיתי
 
-EOS.IO is an open-source, scalable infrastructure for decentralized applications. Its goal is a fair and transparent block producer (BP) election process utilizing a democratic delegated proof of stake (DPoS) consensus. Particularly as such a system just begins to proliferate, there will be glitches. Therefore, some degree of retained centralization is inevitable and necessary. But our guiding philosophy is one of decentralization, and our ongoing efforts are targeted to promoting a reduction in dependence on central authority.
+EOS.IO הינה תשתית קוד פתוח, הניתנת להרחבה בעבור יישומים מבוזרים. מטרתה היא תהליך בחירות הוגן ושקוף של מפיק הבלוק (BP) הבנוי על הסכמה נציגית דמוקרטית של אלגוריתם הPOS. במיוחד כאשר מערכת שכזו רק מתחילה להתרבות, הסיכוי הוא רב לתקלות. משום כך, מידה מסוימת של מרכוז שמור הינו בלתי נמנע והכרחי. הפילוסופיה המנחה שלנו היא ''ביזור'', והמאמצים המתמשכים שלנו ממוקדים לצמצום התלות בסמכות מרכזית.
 
 For example, initially we plan to erect a system for electing nodes (when solving order books) that will not use a shared central clock or DPoS but instead will be based either on random timeouts for the determination of leaders in an election (RAFT) or on Directed Acyclic Graph (DAG) in the PARSEC protocol.
 

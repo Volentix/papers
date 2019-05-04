@@ -68,11 +68,11 @@ I contratti di servizio sono standardizzati per fornire una misura di base dell'
 
 #### 3.0.3 Comunicazione Inter-Contract
 
-I dati sono condivisi tra i contratti attraverso un oracolo, che, "nel contesto delle blockchain e degli smart contract, è un agente che trova e verifica eventi del mondo reale e invia queste informazioni ad una blockchain per essere utilizzati dagli smart contract". [4] Ogni nodo avrà una copia identica di questi dati, da utilizzare nella computazione degli smart contract. Piuttosto che essere lo smart contract a funzionare per estrarre i dati, è invece l'oracolo a inviare i dati alla blockchain. In the instance of a blockchain, most reading of the data is done via polling "models" in order to monitor blockchain state and to perform certain responsive actions.
+I dati sono condivisi tra i contratti attraverso un oracolo, che, "nel contesto delle blockchain e degli smart contract, è un agente che trova e verifica eventi del mondo reale e invia queste informazioni ad una blockchain per essere utilizzati dagli smart contract". [4] Ogni nodo avrà una copia identica di questi dati, da utilizzare nella computazione degli smart contract. Piuttosto che essere lo smart contract a funzionare per estrarre i dati, è invece l'oracolo a inviare i dati alla blockchain. Nel caso di una blockchain, la maggior parte della lettura dei dati viene effettuata sondando''i modelli'' per monitorare lo stato della blockchain e per effettuare alcune azioni reattive.
 
 #### 3.0.4 Sidechains
 
-In EOS.IO, l'emissione di un asset digitale crea una sidechain, cioè un meccanismo emergente che permette ad un bene digitale proveniente da una blockchain di essere utilizzato in modo sicuro in un altra blockchain e poi essere nuovamente spostato sulla blockchain originale. L'efficienza dell'elaborazione è incentivata dalla creazione di molteplici sidechain. Un canale di comunicazione tra blockchain diverse tipo TCP valuta le prove. Per ogni frammento (un'unità di esecuzione parallelizzabile in un ciclo), con questi impegni di azione viene costruito un albero di merkle equilibrato per generare una radice di merkle condivisa temporaneamente; ciò viene fatto per la velocità di calcolo parallelo. The block header contains the root of a balanced merkle tree the leaves of which are the roots of these individual shard merkle trees. [2]
+In EOS.IO, l'emissione di un asset digitale crea una sidechain, cioè un meccanismo emergente che permette ad un bene digitale proveniente da una blockchain di essere utilizzato in modo sicuro in un altra blockchain e poi essere nuovamente spostato sulla blockchain originale. L'efficienza dell'elaborazione è incentivata dalla creazione di molteplici sidechain. Un canale di comunicazione tra blockchain diverse tipo TCP valuta le prove. Per ogni frammento (un'unità di esecuzione parallelizzabile in un ciclo), con questi impegni di azione viene costruito un albero di merkle equilibrato per generare una radice di merkle condivisa temporaneamente; ciò viene fatto per la velocità di calcolo parallelo. L'intestazione del blocco contiene la radice di un albero merkle bilanciato le cui foglie sono le radici di questi frammenti dell'albero merkle. [2]
 
 #### 3.0.5 Liquidità
 
@@ -106,7 +106,7 @@ I nodi guadagnano una parte delle commissioni per ogni transazione. Se un utente
 
 #### 3.1.2 Aggregatori
 
-Gli aggregatori di VDex sono server dedicati di Volentix che hanno come scopo la sicurezza e le simulazioni. One of their functions is to pull logs and order book data from nodes into sparse distributed representations for hierarchical temporal memory as intrusion [7] analysis for detecting anomalies in the system. The aggregators will also be host to other components such as metachain ledgers and blockchain scrapers.
+Gli aggregatori di VDex sono server dedicati di Volentix che hanno come scopo la sicurezza e le simulazioni. One of their functions is to pull logs and order book data from nodes into sparse distributed representations for hierarchical temporal memory as intrusion [7] analysis for detecting anomalies in the system. Gli aggregatori saranno anche host per altri componenti del tipo ledger metachain e scraper blockchain.
 
 #### 3.1.3 Latenza
 
@@ -132,15 +132,15 @@ Risiedenti sull'aggregatore, i registri ordini offline hanno come scopo la sicur
 
 #### 3.2.4 Processo di decentralizzazione dell'impostazione del registro ordini
 
-Ai fini della decentralizzazione, I nodi faranno a turno per impostare il registro ordini. The settling node must be designated by the protocol and all order book entries from all nodes must be available to the settling nodes. Secondo noi i meccanismi di consenso RAFT[9] e PARSEC[10] offrono soluzioni efficaci. RAFT è un algoritmo ben consolidato ed è facile da implementare.[7] PARSEC è più recente ed efficace, utilizza la tecnologia Directed Acyclic Graph (DAG) ed elimina la necessità di copiare i log.
+Ai fini della decentralizzazione, I nodi faranno a turno per impostare il registro ordini. Il settling node deve essere scelto dal protocollo e tutte le voci del libro degli ordini di tutti i nodi devono essere accessibili ai settling node. Secondo noi i meccanismi di consenso RAFT[9] e PARSEC[10] offrono soluzioni efficaci. RAFT è un algoritmo ben consolidato ed è facile da implementare.[7] PARSEC è più recente ed efficace, utilizza la tecnologia Directed Acyclic Graph (DAG) ed elimina la necessità di copiare i log.
 
 ### 3.3 IMPOSTAZIONE ORDINE
 
-L'impostazione degli ordini contiene elementi noti delle operazioni tradizionali del mercato finanziario. Utilizing FIFO technology to design the order book, VDex intends to check order, inventory, and fill rate, as well as limit orders and cancellations. ![](../7.jpg)
+L'impostazione degli ordini contiene elementi noti delle operazioni tradizionali del mercato finanziario. Utilizzando la tecnologia FIFO per progettare il libro degli ordini, VDex intende controllare l'ordine, l'inventario, e il tasso di copertura di un ordine, così come i limit order e le cancellazioni. ![](../7.jpg)
 
 ### 3.4 VTX
 
-#### 3.4.1 VTX Issuance and Use
+#### 3.4.1 Creazione e utilizzo di VTX
 
 VTX è l'asset digitale nativo da emettere e utilizzare sull'exchange decentralizzato VDex. Attualmente abbiamo intenzione di utilizzare un contratto eosio.token del framework EOS.IO per emettere 2.1 miliardi di token VTX compatibili con EOS.IO con una supply di 1.3 miliardi. VTX avrà un'ampia gamma di utilizzi, ad esempio:
 
@@ -188,7 +188,7 @@ Le seguenti considerazioni sono rilevanti per il nostro utilizzo dell'exchange V
 
 La distribuzione di un contratto ha un costo ma l'utilizzo è gratuito.
 
-Developers stake EOS.IO-compliant tokens to deploy a smart contract. After the contract is deployed, the locked tokens are returned.
+Gli sviluppatori investono token conformi a EOS. IO per distribuire uno smart contract. Dopo che il contratto è stato distribuito, i token bloccati vengono restituiti.
 
 Le applicazioni decentralizzate stanziano memoria, CPU, larghezza di banda, e altre risorse per i loro contratti.
 
@@ -198,7 +198,7 @@ Molteplici messaggi e molteplici account possono essere assegnati allo stesso th
 
 #### Comunicazione Inter-Blockchain
 
-EOS.IO è progettato per rendere più leggere le verifiche della Comunicazione Inter-Blockchain (IBC). For chains with insufficient capacity for processing the IBC proofs and establishing validity, there is an option to default to trusted oracles/escrows. With an EOS.IO-based smart contract, a trusted multi-signature wallet holding the asset in escrow can be used to persuade the signing/publishing of the transaction based on IBC proofs from the originating chain.
+EOS.IO è progettato per rendere più leggere le verifiche della Comunicazione Inter-Blockchain (IBC). Per le catene con capacità insufficiente per eleborare le prove IBC e stabilirne la validità, c'è un opzione per passare automaticamente agli escrow/oracle affidabili. Con uno smart contract basato su EOS.IO, un wallet di fiducia con multi-firma in cui è depositato l'asset può essere utilizzato per persuadere la firma/pubblicazione della transazione basata su prove IBC della catena di origine.
 
 #### 3.6.2 Informazione Multi-Blockchain
 
