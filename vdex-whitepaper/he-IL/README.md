@@ -280,7 +280,7 @@ A 51% attack can be mounted by anyone owning >50% of the total computing power o
 
 ### 3.11 ביזור אמיתי
 
-EOS.IO הינה תשתית קוד פתוח, הניתנת להרחבה בעבור יישומים מבוזרים. Its goal is a fair and transparent block producer (BP) election process utilizing a democratic delegated proof of stake (DPoS) consensus. Particularly as such a system just begins to proliferate, there will be glitches. Therefore, some degree of retained centralization is inevitable and necessary. But our guiding philosophy is one of decentralization, and our ongoing efforts are targeted to promoting a reduction in dependence on central authority.
+EOS.IO הינה תשתית קוד פתוח, הניתנת להרחבה בעבור יישומים מבוזרים. מטרתה היא תהליך בחירות הוגן ושקוף של מפיק הבלוק (BP) הבנוי על הסכמה נציגית דמוקרטית של אלגוריתם הPOS. במיוחד כאשר מערכת שכזו רק מתחילה להתרבות, הסיכוי הוא רב לתקלות. Therefore, some degree of retained centralization is inevitable and necessary. But our guiding philosophy is one of decentralization, and our ongoing efforts are targeted to promoting a reduction in dependence on central authority.
 
 For example, initially we plan to erect a system for electing nodes (when solving order books) that will not use a shared central clock or DPoS but instead will be based either on random timeouts for the determination of leaders in an election (RAFT) or on Directed Acyclic Graph (DAG) in the PARSEC protocol.
 
