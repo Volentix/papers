@@ -198,7 +198,7 @@ Molteplici messaggi e molteplici account possono essere assegnati allo stesso th
 
 #### Comunicazione Inter-Blockchain
 
-EOS.IO è progettato per rendere più leggere le verifiche della Comunicazione Inter-Blockchain (IBC). Per le catene con capacità insufficiente per eleborare le prove IBC e stabilirne la validità, c'è un opzione per passare agli escrow/oracle affidabili. With an EOS.IO-based smart contract, a trusted multi-signature wallet holding the asset in escrow can be used to persuade the signing/publishing of the transaction based on IBC proofs from the originating chain.
+EOS.IO è progettato per rendere più leggere le verifiche della Comunicazione Inter-Blockchain (IBC). Per le catene con capacità insufficiente per eleborare le prove IBC e stabilirne la validità, c'è un opzione per passare automaticamente agli escrow/oracle affidabili. Con uno smart contract basato su EOS.IO, un wallet di fiducia con multi-firma in cui è depositato l'asset può essere utilizzato per persuadere la firma/pubblicazione della transazione basata su prove IBC della catena di origine.
 
 #### 3.6.2 Informazione Multi-Blockchain
 
