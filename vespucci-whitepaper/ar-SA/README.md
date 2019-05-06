@@ -328,7 +328,7 @@
 
 يعتمد الجمع بين هذه المعايير بشكل أساسي على وظيفة تسجيل قوية ومكيفة والتي يمكن استبدالها في النهاية بشبكة عصبية تلافيفية (Convolutional Neural Network)، تمت مناقشتها أيضًا لدعم تحليل نزعة السوق (انظر القسم المناسب).
 
-* #### **BLOCKCHAIN STATISTICS, BLOCKCHAIN FULL NODE, AND EVM ANALYSIS**
+* #### **إحصائيات سلسلة الكتل، العقدة الكاملة الخاصة بسلسلة الكتل وتحليل الـ EVM**
 
 This module is responsible for communicating with each of the nodes deployed for each blockchain being assessed. Its role is to provide a coherent standardized interface to the RESTful endpoint layer so that the nature of any blockchain can be abstracted, while knowing how to query any blockchain full node being run by the system, in order to collect information about the chain and network properties of that chain. In many instances, a tradable token is not actually running on its own dedicated chain but is sooner implemented using a system of contracts running on a smart-contract-enabling blockchain such as Ethereum. In such a case, this module communicates both with the full node for this chain, and the other modules, for example, the Ethereum static analysis module mentioned deeper in this document.
 
@@ -338,7 +338,7 @@ To glean the most useful information about a blockchain, it’s usually necessar
 
 A great number of the tokens being traded today are ERC20 tokens implemented on top of the Ethereum blockchain. Further, many of the most exciting tokens are part of a larger system of smart contracts that use an ERC20 token as their native token. Providing an in-depth analysis of these, and any smart contract system riding on top of Ethereum’s EVM is very useful for the high-level goals of Vespucci. This module thus exists to consume smart contract systems associated with some ERC20 tokens to grade them, at the code-level, on overall safety, the presence of bugs, and other important factors that can be ascertained with a static analysis of the contract code in a system of smart contracts. Much of its core logic is written in Python, and bridges are developed to the blockchain statistics module.
 
-* ### **USER EXPERIENCE**
+* ### **تجربة المستخدم**
 
 ‪Vespucci has a User interface (UI) that allows for straightforward parameter input and coherently displays the resulting assessment metrics. The input interface provides a list with all available coins or a selection of the top ranked coins based on market cap value: the user may select those of interest to him/her. Alternatively, it is required for the user to provide the link to one (or more) cryptocurrency’s public blockchain along with the link to the project source code as basic inputs. The type and level of analysis to be performed on the given coin is chosen. More detailed analysis requires more inputs. ‬
 
