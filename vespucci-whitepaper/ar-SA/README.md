@@ -367,7 +367,7 @@
 * إظهار كل التشفير بجوار اسم ورمز تقييم Vespucci.
 * ضبط نظام التقييم عن طريق تحديد موسطات Vespucci النشطة.
 * تكوين نظام التقييم عن طريق تحديد أولوية الموسطات الأساسية وعبر ضبط الأوزان.
-* اطلاع المستخدم على تأثير الموسطات الأساسية من خلال الرسوم البيانية واكتسابه صورة أعمق لتأثير الموسطات على تشكيل تقلب قيمة كل عملة.
+* اطلاع المستخدم على تأثير الموسطات الأساسية من خلال الرسوم البيانية واكتسابه صورة أعمق لتأثير الموسطات على تقلب قيمة كل عملة.
 * تصفية قائمة العملات الإلكترونية وفقا لمعدل التجزئة وفترة النشاط في السوق.
 * عرض ميزات العملة بالتفصيل.
 
@@ -381,7 +381,7 @@ The outputs of all three constituents together with the corresponding price (the
 
 Regarding extensibility, Vespucci is particularly useful for Ethereum-based tokens. This represents many of the most exciting tradeable tokens today, but many new smart contract systems are being developed with their own very particular virtual machines and execution runtimes. This module can be seen as a specific instantiation of a number of other such modules which could be built for future smart contract systems. In particular, systems are likely to appear that expose a semantics especially amenable to formal verification, at which point Vespucci will be extended with new modules resembling this one for each new smart contract system that supports a range of valuable tokens. Overtime, and with the main pillars firmy rooted, the system is envisioned to also provide price prediction.
 
-**Deep learning and AI** are powerful technologies under rapid development today and may be employed in other parts of the Vespucci system besides the final phase of outputting the overall score. Below is a sketch of a basic neural network with a single hidden layer. Today’s deep networks have a multitude of such layers, whose power we shall exploit. Neural networks “learn” the appropriate weights by back-propagation. An important question is therefore the learning phase where historical data on cryptocurrencies, properly labeled, shall be employed. One issue is that the available data is limited and its labels may need curation: the created dataset shall become openly accessible as a contribution to the community.
+**التعلم العميق و الذكاء الاصطناعى** هم عبارة على تقنيات قوية قيد التطوير السريع حيث يمكن استخدامها في أجزاء أخرى من نظام Vespucci إلى جانب المرحلة الأخيرة من إخراج الدرجة الإجمالية. الرسم التخطيطي الأدنى يمثل شبكة عصبية أساسية بطبقة واحدة مخفية. تضم شبكاتنا العميقة حاليا العديد من هذه الطبقات التي سنستغل كامل قوتها. Neural networks “learn” the appropriate weights by back-propagation. An important question is therefore the learning phase where historical data on cryptocurrencies, properly labeled, shall be employed. One issue is that the available data is limited and its labels may need curation: the created dataset shall become openly accessible as a contribution to the community.
 
 ![](https://volentix.io/file/2019/01/1-2.jpg)
 
