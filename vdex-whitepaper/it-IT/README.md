@@ -68,7 +68,7 @@ I contratti di servizio sono standardizzati per fornire una misura di base dell'
 
 #### 3.0.3 Comunicazione Inter-Contract
 
-I dati sono condivisi tra i contratti attraverso un oracolo, che, "nel contesto delle blockchain e degli smart contract, è un agente che trova e verifica eventi del mondo reale e invia queste informazioni ad una blockchain per essere utilizzati dagli smart contract". [4] Ogni nodo avrà una copia identica di questi dati, da utilizzare nella computazione degli smart contract. Piuttosto che essere lo smart contract a funzionare per estrarre i dati, è invece l'oracolo a inviare i dati alla blockchain. Nel caso di una blockchain, la maggior parte della lettura dei dati viene effettuata sondando''i modelli'' per monitorare lo stato della blockchain e per effettuare alcune azioni reattive.
+I dati sono condivisi tra i contratti attraverso un oracolo, che, "nel contesto delle blockchain e degli smart contract, è un agente che trova e verifica eventi del mondo reale e invia queste informazioni ad una blockchain per essere utilizzati dagli smart contract". [4] Ogni nodo avrà una copia identica di questi dati, da utilizzare nella computazione degli smart contract. Piuttosto che essere lo smart contract a funzionare per estrarre i dati, è invece l'oracolo a inviare i dati alla blockchain. Nel caso di una blockchain, la maggior parte della lettura dei dati viene effettuata attraverso ''modelli'' di sondaggio per monitorare lo stato della blockchain e per effettuare alcune azioni reattive.
 
 #### 3.0.4 Sidechains
 
