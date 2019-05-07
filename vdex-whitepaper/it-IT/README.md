@@ -24,7 +24,7 @@ Lanciata recentemente nella versione di beta test, Venue permette agli utenti di
 
 ### 2.2 VERTO
 
-Verto viene costruito come un wallet multi-valuta da utilizzare con l'exchange decentralizzato Vdex, e intendo facilitare la custodia pesonale e la gestione locale delle chiavi private e delle chiavi pubbliche nelle transazioni peer-to-peer, con l'obiettivo di eliminare i rischi di devastanti perdite di stake associate a fallimenti traumatici degli operatori centrali. Verto intende utilizzare un sistema di smart contract per mantenere lo stato tra due clienti commerciali, mentre le operazioni più semplici sono effettuate con atomic swap.[1]
+Verto viene costruito come un wallet multi-valuta da utilizzare con l'exchange decentralizzato Vdex, e intende facilitare la custodia personale e la gestione locale delle chiavi private e delle chiavi pubbliche nelle transazioni peer-to-peer, con l'obiettivo di eliminare il rischio di devastanti perdite di stake associate a fallimenti traumatici degli operatori centrali. Verto intende utilizzare un sistema di smart contract per mantenere lo stato tra due clienti commerciali, mentre le operazioni più semplici sono effettuate con atomic swap.[1]
 
 ### 2.3 VESPUCCI
 
@@ -280,7 +280,7 @@ Our focus on user experience is primary. Vogliamo rendere VTX e i quatro pilastr
 
 ### 3.11 TRUE DECENTRALIZATION
 
-EOS.IO è un'infrastruttura scalabile e di tipo open source per applicazioni decentralizzate. Its goal is a fair and transparent block producer (BP) election process utilizing a democratic delegated proof of stake (DPoS) consensus. In particolare, poichè un sistema del genere è ancora agli inizi, ci saranno dei difetti. Pertanto, un certo grado di centralizzazione mantenuta è inevitabile e necessario. Però la nostra filosofia guida è una di decentralizzazione, e i nostri sforzi sono mirati a promuovere una riduzione nell'indipendenza da un autorità centrale.
+EOS.IO è un'infrastruttura scalabile e di tipo open source per applicazioni decentralizzate. Il suo obiettivo è un processo di votazione equo e trasparente per la produzione dei blocchi (BP) utilizzando un consenso democratico di delegated proof of stake (DPoS). In particolare, poichè un sistema del genere è ancora agli inizi, ci saranno dei difetti. Pertanto, un certo grado di centralizzazione mantenuta è inevitabile e necessario. Però la nostra filosofia guida è una di decentralizzazione, e i nostri sforzi sono mirati a promuovere una riduzione nell'indipendenza da un autorità centrale.
 
 Per esempio, inizialmente abbiamo intenzione di erigere un sistema per l'elezione dei nodi (per la risoluzione dei libri degli ordini) che non utilizzerà un orologio centrale condiviso o DPoS ma che si baserà o su timeout casuali per la determinazione dei leader in un elezione (RAFT) oppure su Directed Acyclic Graph (DAG) nel protocollo PARSEC.
 
