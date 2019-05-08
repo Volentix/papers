@@ -8,7 +8,7 @@
 
 Volentix presenta VDex, progettato come una piattaforma decentralizzata per lo scambio di beni digitali con enfasi sull'user experience, sullo sviluppo della comunità e sulla governance. Attraverso l'utilizzo di tecnologie consolidate e la programmazione di nuovi protocolli selettivi dando priorità a sicurezza, velocità, autenticazione, facilità di utilizzo, scalabilità e supporto multi-asset, VDex vuole facilitare le transazioni di tipo peer-to-peer mettendo insieme un portfolio di applicazioni decentralizzate costruite sulla base degli smart contract di EOS.IO.
 
-Il punto di lancio VDex anticipa l'adeguamento dei requisiti di progettazione di Volentix alle tecnologie disponibili sovrapposte al sistema operativo decentralizzato EOS.IO. Abbiamo intenzione di testare le nostre ipotesi creando dei prototipi tramite software EZEOS personalizzato, che abbiamo costruito e personalizzato attraverso gli strumenti a riga di comando cleos di EOS.IO. Questo software risiede in: https://github.com/Volentix/ezeos
+Il punto di lancio VDex anticipa l'adeguamento dei requisiti di progettazione di Volentix alle tecnologie disponibili sul sistema operativo decentralizzato EOS.IO. Abbiamo intenzione di testare le nostre ipotesi creando dei prototipi tramite software EZEOS personalizzato, che abbiamo costruito e personalizzato attraverso gli strumenti a riga di comando cleos di EOS.IO. Questo software risiede in: https://github.com/Volentix/ezeos
 
 ![](../main3-3000px.jpg)
 
@@ -24,7 +24,7 @@ Lanciata recentemente nella versione di beta test, Venue permette agli utenti di
 
 ### 2.2 VERTO
 
-Verto viene costruito come un wallet multi-valuta da utilizzare con l'exchange decentralizzato Vdex, e intende facilitare la custodia personale e la gestione locale delle chiavi private e delle chiavi pubbliche nelle transazioni peer-to-peer, con l'obiettivo di eliminare il rischio di devastanti perdite di stake associate a fallimenti traumatici degli operatori centrali. Verto intende utilizzare un sistema di smart contract per mantenere lo stato tra due clienti commerciali, mentre le operazioni più semplici sono effettuate con atomic swap.[1]
+Verto viene costruito come un wallet multi-valuta da utilizzare con l'exchange decentralizzato VDex, e intende facilitare la custodia personale e la gestione locale delle chiavi private e delle chiavi pubbliche nelle transazioni peer-to-peer, con l'obiettivo di eliminare il rischio di devastanti perdite di stake associate a fallimenti traumatici degli operatori centrali. Verto intende utilizzare un sistema di smart contract per mantenere lo stato tra due clienti commerciali, mentre le operazioni più semplici sono effettuate con atomic swap.[1]
 
 ### 2.3 VESPUCCI
 
