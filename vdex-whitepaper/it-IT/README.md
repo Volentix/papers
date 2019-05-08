@@ -188,7 +188,7 @@ Le seguenti considerazioni sono rilevanti per il nostro utilizzo dell'exchange V
 
 La distribuzione di un contratto ha un costo ma l'utilizzo è gratuito.
 
-Gli sviluppatori investono token conformi a EOS. IO per distribuire uno smart contract. Dopo che il contratto è stato distribuito, i token bloccati vengono restituiti.
+Gli sviluppatori depositano token conformi a EOS. IO per distribuire uno smart contract. Dopo che il contratto è stato distribuito, i token bloccati vengono restituiti.
 
 Le applicazioni decentralizzate stanziano memoria, CPU, larghezza di banda, e altre risorse per i loro contratti.
 
