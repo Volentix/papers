@@ -280,7 +280,7 @@ Our focus on user experience is primary. Vogliamo rendere VTX e i quattro pilast
 
 ### 3.11 TRUE DECENTRALIZATION
 
-EOS.IO è un'infrastruttura scalabile e di tipo open source per applicazioni decentralizzate. Il suo obiettivo è un processo di votazione equo e trasparente per la produzione dei blocchi (BP) utilizzando un consenso democratico di delegated proof of stake (DPoS). In particolare, poichè un sistema del genere è ancora agli inizi, ci saranno dei difetti. Pertanto, un certo grado di centralizzazione mantenuta è inevitabile e necessario. Però la nostra filosofia guida è una di decentralizzazione, e i nostri sforzi sono mirati a promuovere una riduzione nell'indipendenza da un autorità centrale.
+EOS.IO è un'infrastruttura scalabile e di tipo open source per applicazioni decentralizzate. Il suo obiettivo è un processo di votazione equo e trasparente per la produzione dei blocchi (BP) utilizzando un consenso democratico di delegated proof of stake (DPoS). In particolare, poiché un sistema del genere è ancora agli inizi, ci saranno dei difetti. Pertanto, un certo grado di centralizzazione mantenuta è inevitabile e necessario. Però la nostra filosofia guida è una di decentralizzazione, e i nostri sforzi sono mirati a promuovere una riduzione della dipendenza da un autorità centrale.
 
 Per esempio, inizialmente abbiamo intenzione di erigere un sistema per l'elezione dei nodi (per la risoluzione dei libri degli ordini) che non utilizzerà un orologio centrale condiviso o DPoS ma che si baserà o su timeout casuali per la determinazione dei leader in un elezione (RAFT) oppure su Directed Acyclic Graph (DAG) nel protocollo PARSEC.
 
