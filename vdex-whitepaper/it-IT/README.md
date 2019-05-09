@@ -68,7 +68,7 @@ I contratti di servizio sono standardizzati per fornire una misura di base dell'
 
 #### 3.0.3 Comunicazione Inter-Contract
 
-I dati sono condivisi tra i contratti attraverso un oracolo, che, "nel contesto delle blockchain e degli smart contract, è un agente che trova e verifica eventi del mondo reale e invia queste informazioni ad una blockchain per essere utilizzati dagli smart contract". [4] Ogni nodo avrà una copia identica di questi dati, da utilizzare nella computazione degli smart contract. Piuttosto che essere lo smart contract a funzionare per estrarre i dati, è invece l'oracolo a inviare i dati alla blockchain. Nel caso di una blockchain, la maggior parte della lettura dei dati viene effettuata attraverso ''modelli'' di sondaggio per monitorare lo stato della blockchain e per effettuare alcune azioni reattive.
+I dati sono condivisi tra i contratti attraverso un oracolo, che, "nel contesto delle blockchain e degli smart contract, è un agente che trova e verifica eventi del mondo reale e invia queste informazioni ad una blockchain per essere utilizzati dagli smart contract". [4] Ogni nodo avrà una copia identica di questi dati, da utilizzare nella computazione degli smart contract. Piuttosto che essere lo smart contract a funzionare per estrarre i dati, è invece l'oracolo a inviare i dati alla blockchain. Nel caso di una blockchain, la maggior parte della lettura dei dati viene effettuata attraverso il sondaggio dei ''modelli'' per monitorare lo stato della blockchain e per effettuare alcune azioni reattive.
 
 #### 3.0.4 Sidechains
 
@@ -136,7 +136,7 @@ Ai fini della decentralizzazione, I nodi faranno a turno per impostare il regist
 
 ### 3.3 IMPOSTAZIONE ORDINE
 
-L'impostazione degli ordini contiene elementi noti delle operazioni tradizionali del mercato finanziario. Utilizzando la tecnologia FIFO per progettare il libro degli ordini, VDex intende controllare l'ordine, l'inventario, e il tasso di copertura di un ordine, così come i limit order e le cancellazioni. ![](../7.jpg)
+L'impostazione degli ordini contiene elementi noti delle operazioni tradizionali del mercato finanziario. Utilizzando la tecnologia FIFO per progettare il libro degli ordini, VDex intende controllare il libro degli ordini, l'inventario, e il tasso di copertura di un ordine, così come i limit order e le cancellazioni. ![](../7.jpg)
 
 ### 3.4 VTX
 
@@ -198,7 +198,7 @@ Molteplici messaggi e molteplici account possono essere assegnati allo stesso th
 
 #### Comunicazione Inter-Blockchain
 
-EOS.IO è progettato per rendere più leggere le verifiche della Comunicazione Inter-Blockchain (IBC). Per le catene con capacità insufficiente per eleborare le prove IBC e stabilirne la validità, c'è un opzione per passare automaticamente agli escrow/oracle affidabili. Con uno smart contract basato su EOS.IO, un wallet di fiducia con multi-firma in cui è depositato l'asset può essere utilizzato per persuadere la firma/pubblicazione della transazione basata su prove IBC della catena di origine.
+EOS.IO è progettato per rendere più leggere le verifiche della Comunicazione Inter-Blockchain (IBC). Per le catene con capacità insufficiente per elaborare le prove IBC e stabilirne la validità, c'è un opzione per passare automaticamente agli escrow/oracle affidabili. Con uno smart contract basato su EOS.IO, un wallet di fiducia con multi-firma in cui è depositato l'asset può essere utilizzato per persuadere la firma/pubblicazione della transazione basata su prove IBC della catena di origine.
 
 #### 3.6.2 Informazione Multi-Blockchain
 
@@ -272,11 +272,11 @@ Gli utenti malintenzionati creano ed inviano ordini il cui valore è diverso da 
 
 #### 3.9.5 Timing attack
 
-Gli attacchi di tipo Timing sono una classe di attacchi cryptografici attraverso i quali un osservatore di terze parti può dedurre il contenuto dei dati criptati registrando e analizzando il tempo necessario per l'esecuzione degli algoritmi di crittografia. L'algoritmo RAFT previene gli attacchi di tipo timing utilizzando i timeout in modo casuale.
+Gli attacchi di tipo Timing sono una classe di attacchi crittografici attraverso i quali un osservatore di terze parti può dedurre il contenuto dei dati criptati registrando e analizzando il tempo necessario per l'esecuzione degli algoritmi di crittografia. L'algoritmo RAFT previene gli attacchi di tipo timing utilizzando i timeout in modo casuale.
 
 ### 3.10 USER EXPERIENCE
 
-Our focus on user experience is primary. Vogliamo rendere VTX e i quatro pilastri di Volentix --Venue, Verto, Vespucci, e VDex -- facilmente accessibili e utilizzabili da tutti coloro che desiderano unirsi alla nostra comunità. Ci aspettiamo che l'esperienza sia continuamente anche educativa, con modelli e simulatori per supportare una migliore relazione UX/UI.
+Our focus on user experience is primary. Vogliamo rendere VTX e i quattro pilastri di Volentix --Venue, Verto, Vespucci, e VDex -- facilmente accessibili e utilizzabili da tutti coloro che desiderano unirsi alla nostra comunità. Ci aspettiamo che l'esperienza sia continuamente anche educativa, con modelli e simulatori per supportare una migliore relazione UX/UI.
 
 ### 3.11 TRUE DECENTRALIZATION
 
