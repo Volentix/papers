@@ -286,9 +286,9 @@ EOS.IO הינה תשתית קוד פתוח, הניתנת להרחבה בעבור
 
 ### 3.12 שחזור מערכת
 
-The RAFT and PARSEC protocols provide a robust system for recovery in the case of node failure. Security measures are also provided for trading between and among native blockchains. If a chain defies identification, the system defaults to the next block or a short time lock.
+פרוטוקול הRAFT והPARSEC מספקים שניהם מערכת חזקה עבור שחזור במקרה של כשל צמתי. אמצעי ביטחון מסופקים גם כן בעבור המסחר בין בלוקצ'יינים מקומיים. If a chain defies identification, the system defaults to the next block or a short time lock.
 
-### 3.13 EVOLVING ARCHITECTURE
+### 3.13 התפתחות העיצוב המבני
 
 Daily announcements of fresh code developments impacting on use of digital assets reveal the tremendous benefit of the open-source code philosophy. We at Volentix recognize we are the beneficiaries of the enormous financial resources dedicated by many early movers to developing digital assets applications over the past decade. We now have an opportunity to take the next step by creating VDex, a decentralized exchange for the next generation of digital assets transactions.
 
