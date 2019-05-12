@@ -290,7 +290,7 @@ EOS.IO הינה תשתית קוד פתוח, הניתנת להרחבה בעבור
 
 ### 3.13 התפתחות העיצוב המבני
 
-Daily announcements of fresh code developments impacting on use of digital assets reveal the tremendous benefit of the open-source code philosophy. We at Volentix recognize we are the beneficiaries of the enormous financial resources dedicated by many early movers to developing digital assets applications over the past decade. We now have an opportunity to take the next step by creating VDex, a decentralized exchange for the next generation of digital assets transactions.
+הודעות יומיות של התפתחויות קודים חדשים, המשפיעים על השימוש בנכס הדיגיטלי, חושפות את יתרונה העצום של פילוסופיית הקוד הפתוח. We at Volentix recognize we are the beneficiaries of the enormous financial resources dedicated by many early movers to developing digital assets applications over the past decade. We now have an opportunity to take the next step by creating VDex, a decentralized exchange for the next generation of digital assets transactions.
 
 ## 4. CONCLUDING THOUGHTS
 
