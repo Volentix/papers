@@ -316,9 +316,9 @@ EOS.IO הינה תשתית קוד פתוח, הניתנת להרחבה בעבור
 
 5. F. Zhou, Wang, לופרינג: פרוטוקול חלפן כספים מבוזר, (2018).
 
-6. G. B. Eyal Hertzog, Guy Benartzi, Bancor protocol: Continuous liquidity for cryptographic tokens through their smart contracts, (2018).
+6. G. B. אייל הרצוג, גיא בן-ארצי, פרוטוקול הBancor: הנזלה מתמשכת בעבור כספים קריפטוגרפיים על-ידי חוזים חכמים, (2018).
 
-7. L. Lamport, The part time parliament, (1998).
+7. L. Lamport, פרלמנט במשרה חלקית, (1998).
 
 8. D. Larimer, eosio.boot telegram chat, (2018).
 
