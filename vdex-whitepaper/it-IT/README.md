@@ -240,7 +240,7 @@ True randomisation of address space layout, route or utilizing varying lengths o
 
 #### 3.8.4 Ispezione del registro
 
-Parsec non utilizza i registri per la determinazione del consenso. D'altro canto, RAFT ne avrà bisogno. In any case, Validator nodes will be designed to require minimal information To determine consensus as to minimize the transaction process time.
+Parsec non utilizza i registri per la determinazione del consenso. D'altro canto, RAFT ne avrà bisogno. In ogni caso, I nodi di validazione saranno progettati per richiedere la minima quantità di informazioni Per la determinazione del consenso così come per minimizzare il tempo necessario per processare la transazione.
 
 #### 3.8.5 Transazione come Proof of Stake (TaPoS)
 
