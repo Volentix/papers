@@ -294,19 +294,19 @@ EOS.IO הינה תשתית קוד פתוח, הניתנת להרחבה בעבור
 
 ## 4. מחשבות מסכמות
 
-כולנו פה בVolentix מקדישים כמויות עבודה ותובנה ניכרות לפיתוח תוכנה המבוססת על העצמה ועצמאות. If you are of a mind to join us, in whatever capacity, then please do so and please become educated on the topics contained in this white paper and additional Volentix publications as we share them with our community.
+כולנו פה בVolentix מקדישים כמויות עבודה ותובנה ניכרות לפיתוח תוכנה המבוססת על העצמה ועצמאות. אם הינך חושב/ת על הצטרפות, בכל קיבולת שהיא, עשה/י זאת וכך תשכיל/י יותר על הנושאים הנכללים בתוך ה''רשימה הלבנה'' ופרסומים נוספים של Volentix תוך כדי שיתופם עם קהילתנו.
 
 ## 5. ציר זמן
 
-Please monitor our website and social media for updates and other important announcements. Thank you very much for your attention and interest.
+אנא שימ/י לב לאתר שלנו ולמדיה החברתית, עבור עדכונים והכרזות חשובות אחרות. תודה רבה על תשומת הלב וההתעניינות שלך.
 
-## DISCLAIMER
+## כתב ויתור
 
-This white paper was prepared, and is presented, for information purposes only. The information presented does not purport to be comprehensive. The information is subject to change in whole or in part at any time without notice. Volentix Labs reserves the right to amend, replace, remove, or delete any and all information at the sole and exclusive discretion of Volentix. Volentix Labs makes no representation or warranty, expressed or implied, concerning the accuracy or completeness of the information and expressly disclaims any and all liability of any and all kinds whatsoever for the information contained or not contained. Volentix Labs requests each and every reader to read the information fully and carefully, and to undertake independent investigation and analysis of the information, and to seek and obtain professional advice for purposes of evaluating the information. To the knowledge of Volentix Labs, no regulatory agency, government, or other third-party enforcement entity has reviewed, evaluated, or approved any part or all of the information. This information is not an offer or solicitation of any kind whatsoever and does not form the basis for any contract or commitment of any kind whatsoever. Any statement considered to be forward-looking is purely a matter of opinion, and no viewer should rely on any such statement or on any part or all of the information in any way whatsoever.
+הרשימה הלבנה נוצרה, ומיוצגת, אך ורק למטרות מידעיים. המידע המוצג לנ''ל אינו מתיימר להיות מקיף. מידע זה כפוף לשינויים מלאים או חלקיים העלולים לקרות בכל עת ללא התראה מוקדמת. מעבדות Volentix שומרות לעצמן את הזכות לשנות, להחליף, להסיר, או למחוק כל מידע על פי שיקול דעתה הבלעדי של מעבדות Volentix. מעבדות Volentix אינן לוקחות אחריות או חלק ייצוגי, מובע או מרומז, בדבר הדיוק או השלמות של המידע, ומתנערת במפורש מכל אחריות שהיא, בהקשר המידע הכלול או האינו כלול. מעבדות Volentix מבקשות מכל קורא לעיין במלוא המידע בקפידה, ולהתחייב לבדיקה וניתוח מידע עצמאי, וכמו כן לחפש ולהשיג עצות מקצועיות למטרות הערכת המידע. למיטב ידיעת מעבדות Volentix, אין סוכנות רגולטורים, ממשלה, או ישויות אכיפה אחרות מצד שלישי שבדקו, העריכו, או אישרו כל חלק מהמידע. מידע זה אינו הצעה או שידול בכל צורה שהיא, ואינו יוצר בסיס לחוזה או התחייבות מכל סוג שהוא. כל הצהרה הנחשבת לצופה פני עתיד היא לגמרי עניין של דעה, ואף צופה אינו צריך להסתמך על הצהרה שכזו, או כל חלק מהמידע בצורה כלשהי.
 
-## FOOTNOTES
+## הערות שוליים
 
-1. K. Kurokawa, Atomic cross chain transfer, an overview, (2015).
+1. .K Kurokawa, Atomic cross chain transfer, an overview, (2015).
 
 2. EOS.IO, Eos.io technical white paper v2, (2018).
 
