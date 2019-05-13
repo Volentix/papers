@@ -206,7 +206,7 @@ Le informazioni comprensibili su più blockchain si possono ottenere aggregando 
 
 ### 3.7 SECURITY CONCERNS
 
-To shake out certain assumptions, we intend to commence security testing following the prototyping phase. Le preoccupazioni in materia di sicurezza sono di vitale importanza per gli utenti e devono essere affrontate. Le minacce includono, ad esempio, un aggressore che esegue codice maligno all'interno di una transazione o manipola l'ordine delle transazioni o i timestamp dei blocchi. Nelle sezioni che seguono affrontiamo alcune misure di sicurezza e specifiche minacce alla sicurezza e rimedi.
+Per scrollarci di dosso certe supposizioni, abbiamo intenzione di iniziare i test della sicurezza subito dopo la fase di prototipazione. Le preoccupazioni in materia di sicurezza sono di vitale importanza per gli utenti e devono essere affrontate. Le minacce includono, ad esempio, un aggressore che esegue codice maligno all'interno di una transazione o manipola l'ordine delle transazioni o i timestamp dei blocchi. Nelle sezioni che seguono affrontiamo alcune misure di sicurezza e specifiche minacce alla sicurezza e rimedi.
 
 ### 3.8 MISURE DI SICUREZZA
 
@@ -254,9 +254,9 @@ Una doppia spesa e un tipo di attacco in cui un determinato stake di cryptocurre
 
 Un attacco di tipo race si verifica quando due transazioni in conflitto vengono inviate sulla rete in rapida successione.
 
-A Finney attack pre-mines one transaction into a block and spends the same tokens before releasing the block to invalidate that transaction.
+Un attacco di Finney pre-mina una transazione in un blocco e spende gli stessi token prima di rilasciare il blocco per invalidare quella transazione.
 
-Un attacco 51% può essere effettuato da chiunque possiede più del 50% della potenza di calcolo di una rete. A majority ownership position permits reversal of any transaction and allows total control of selection of transactions appearing in blocks. Sembra che EOS.IO, Loopring, e RAFT prevengono questo problema. Se un produttore di blocchi impiega una quantità irragionevole di runtime oppure non è sufficientemente redditizia, allora il processo viene inserito nella lista nera.[5]
+Un attacco 51% può essere effettuato da chiunque possiede più del 50% della potenza di calcolo di una rete. Una posizione di maggioranza azionaria permette l'inversione di qualsiasi transazione e permette il controllo totale della selezione delle transazioni che compaiono nei blocchi. Sembra che EOS.IO, Loopring, e RAFT prevengono questo problema. Se un produttore di blocchi impiega una quantità irragionevole di runtime oppure non è sufficientemente redditizia, allora il processo viene inserito nella lista nera.[5]
 
 #### 3.9.2 Front running
 
