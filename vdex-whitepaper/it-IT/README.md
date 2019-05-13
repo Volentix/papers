@@ -270,9 +270,9 @@ Gli utenti malintenzionati creano identità forgiate per inviare un gran numero 
 
 Gli utenti malintenzionati creano ed inviano ordini il cui valore è diverso da 0 ma il cui indirizzo ha un saldo pari a 0. I nodi controllano il saldo reale, aggiornano di conseguenza lo stato di questi ordini, e poi li scarta.
 
-#### 3.9.5 Timing attack
+#### 3.9.5 Attacco di tipo timing
 
-Gli attacchi di tipo Timing sono una classe di attacchi crittografici attraverso i quali un osservatore di terze parti può dedurre il contenuto dei dati criptati registrando e analizzando il tempo necessario per l'esecuzione degli algoritmi di crittografia. L'algoritmo RAFT previene gli attacchi di tipo timing utilizzando i timeout in modo casuale.
+Gli attacchi di tipo timing sono una classe di attacchi crittografici attraverso i quali un osservatore di terze parti può dedurre il contenuto dei dati criptati registrando e analizzando il tempo necessario per l'esecuzione degli algoritmi di crittografia. L'algoritmo RAFT previene gli attacchi di tipo timing utilizzando i timeout in modo casuale.
 
 ### 3.10 USER EXPERIENCE
 
