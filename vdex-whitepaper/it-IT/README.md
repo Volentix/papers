@@ -24,7 +24,7 @@ Lanciata recentemente nella versione di beta test, Venue permette agli utenti di
 
 ### 2.2 VERTO
 
-Verto viene costruito come un wallet multi-valuta da utilizzare con l'exchange decentralizzato VDex, e intende facilitare la custodia personale e la gestione locale delle chiavi private e delle chiavi pubbliche nelle transazioni peer-to-peer, con l'obiettivo di eliminare il rischio di devastanti perdite di stake associate a fallimenti traumatici degli operatori centrali. Verto intende utilizzare un sistema di smart contract per mantenere lo stato tra due clienti commerciali, mentre le operazioni più semplici sono effettuate con atomic swap.[1]
+Verto viene costruito come un wallet multi-valuta da utilizzare con l'exchange decentralizzato VDex, e intende facilitare la custodia personale e la gestione locale delle chiavi private e delle chiavi pubbliche nelle transazioni peer-to-peer, con l'obiettivo di eliminare il rischio di devastanti perdite di stake associate a fallimenti traumatici degli operatori centrali. Verto intende utilizzare un sistema di smart contract per mantenere lo stato tra due clienti commerciali, mentre le operazioni più semplici vengono effettuate con atomic swap.[1]
 
 ### 2.3 VESPUCCI
 
