@@ -332,17 +332,17 @@ EOS.IO הינה תשתית קוד פתוח, הניתנת להרחבה בעבור
 
 ## אזכורים נוספים
 
-Aelf, A multi-chain parallel computing blockchain framework, (2018).
+Aelf, מסגרת מחשוב בלוקצ'ייני רב-שרשורית מקבילה, (2018).
 
-ARK, A platform for consumer adoption, (2018).
+ARK, פלטפורמה בעבור אימוץ הצרכן, (2018).
 
-V. Buterin, Ethereum: a next generation smart contract and decentralized application platform, (2013).
+V. Buterin, איתריום: חוזה חכם לדור הבא של משתמשים ופלטופרמה ליישומים מבוזרים, (2013).
 
-S. Cormier, A machine based societal model for curbing citizen cynicism, (2017).
+S. Cormier, מכונה המבוססת על מודל חברתי לבלימה של ציניות אזרחית, (2017).
 
-M. Duncan, Quale, Halo platform, (2018).
+M. Quale, Duncan, פלטפורמת Halo, (2018).
 
-S. D. K. M. T. S. H. Garcia-Molina, The eigentrust algorithm for reputation management in p2p networks, (2018).
+S. D. K. M. T. S. H. Garcia-Molina, אלגוריתם הeigentrust למטרות ניהול מוניטין ברשתות p2p, (2018).
 
 M. R. Garrick Hileman, Global cryptocurrency benchmarking study, (2017).
 
