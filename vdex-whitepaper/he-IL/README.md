@@ -306,15 +306,15 @@ EOS.IO הינה תשתית קוד פתוח, הניתנת להרחבה בעבור
 
 ## הערות שוליים
 
-1. .K Kurokawa, Atomic cross chain transfer, an overview, (2015).
+1. K .Kurokawa, העברה אטומית של מטבעות בין בלוקצ'יינים שונים, סקירה כללית, (2015).
 
-2. EOS.IO, Eos.io technical white paper v2, (2018).
+2. EOS.IO, רשימה לבנה טכנית v2 של EOS.IO, (2018).
 
-3. T. Earl, Soa principles of service design, (2016).
+3. T. Earl, עקרונות ארכיטקטורה מוכוונת-שירותים (Soa) של עיצוב שירות, (2016).
 
-4. blockchainhub.net, blockchain-oracles, (2017).
+4. blockchainhub.net, אורקלי-בלוקצ'יין, (2017).
 
-5. F. Zhou, Wang, Loopring: A decentralized token exchange protocol, (2018).
+5. F. Zhou, Wang, לופרינג: פרוטוקול חלפן כספים מבוזר, (2018).
 
 6. G. B. Eyal Hertzog, Guy Benartzi, Bancor protocol: Continuous liquidity for cryptographic tokens through their smart contracts, (2018).
 
