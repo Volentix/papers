@@ -320,17 +320,17 @@ EOS.IO הינה תשתית קוד פתוח, הניתנת להרחבה בעבור
 
 7. L. Lamport, פרלמנט במשרה חלקית, (1998).
 
-8. D. Larimer, eosio.boot telegram chat, (2018).
+8. D. eosio.boot, Larimer צ'אט טלגרמי, (2018).
 
-9. J. O. Diego Ongaro, In search of an understandable consensus algorithm, (2018).
+9. J. O. Diego Ongaro, בחיפוש אחר אלגוריתם קונצנזוס הנתן להבנה, (2018).
 
-10. F. H. Q. M. S. S. Pierre Chevalier, Bart lomiej KamiÂťnski, Protocol for asynchronous, reliable, secure and efficient consensus (parsec), (2018).
+10. F. H. Q. M. S. S. pierre chevalier, Bart lomiej KamiÂťnski, פרוטוקול האי-סנכרון, קונצנזוס אמין, בטוח ויעיל (parsec), (2018).
 
-11. Dane Keller Rutledge, Fundamental Human Constituents of a Digital Assets Ecosystem (DAE). (2018).
+11. Dane Keller Rutledge, יסודות אנוש בסיסיים של מערכת נכסים דיגיטלים אקולוגית (DAE). (2018).
 
-12. BlockColliderTeam, Block collider white paper, (2018).
+12. צוות BlockCollider, הרשימה הלבנה ב Block collider, (2018).
 
-## SUPPLEMENTAL REFERENCES
+## אזכורים נוספים
 
 Aelf, A multi-chain parallel computing blockchain framework, (2018).
 
