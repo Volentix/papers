@@ -344,9 +344,9 @@ M. Quale, Duncan, פלטפורמת Halo, (2018).
 
 S. D. K. M. T. S. H. Garcia-Molina, אלגוריתם הeigentrust למטרות ניהול מוניטין ברשתות p2p, (2018).
 
-M. R. Garrick Hileman, Global cryptocurrency benchmarking study, (2017).
+M. R. Garrick Hileman, מחקר השוואתי על מטבעות-קריפטו גלובאליות, (2017).
 
-Komodo, An advanced blockchain technology, focused on freedom, (2018).
+Komodo, טכנולוגיית בלוקצ'יין מתקדמת, המתרכזת על חירות, (2018).
 
 Q. Liquid, Providing liquidity to the non-liquid crypto economy, (2018).
 
