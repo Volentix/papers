@@ -24,11 +24,11 @@ Lanciata recentemente nella versione di beta test, Venue permette agli utenti di
 
 ### 2.2 VERTO
 
-Verto viene costruito come un wallet multi-valuta da utilizzare con l'exchange decentralizzato VDex, e intende facilitare la custodia personale e la gestione locale delle chiavi private e delle chiavi pubbliche nelle transazioni peer-to-peer, con l'obiettivo di eliminare il rischio di devastanti perdite di stake associate a fallimenti traumatici degli operatori centrali. Verto intende utilizzare un sistema di smart contract per mantenere lo stato tra due clienti commerciali, mentre le operazioni più semplici vengono effettuate con atomic swap.[1]
+Verto è stato costruito come un wallet multi-valuta da utilizzare con l'exchange decentralizzato VDex, e intende facilitare la custodia personale e la gestione locale delle chiavi private e delle chiavi pubbliche nelle transazioni peer-to-peer, con l'obiettivo di eliminare il rischio di devastanti perdite di stake associate a fallimenti traumatici degli operatori centrali. Verto intende utilizzare un sistema di smart contract per mantenere lo stato tra due clienti commerciali, mentre le operazioni più semplici vengono effettuate con atomic swap.[1]
 
 ### 2.3 VESPUCCI
 
-Vespucci è concepito come un motore di analisi accessibile tramite un'interfaccia facile da usare, contenenti dati, nascosti preziosi, di mercato in tempo reale e storici, come i rating dei beni digitali e l'analisi del sentimento. Vogliamo offrire agli utenti gli strumenti necessari per generare grafici e confrontare gli asset digitali, accedere e analizzare i record di trading passati, tracciare tendenze e modelli, e monitorare e stimare gli sviluppi dei software open source. Vespucci si sforza di portare tra le vostre mani dati di mercato affidabili e completi, aggregando informazioni che sono attualmente sparse in una vasta gamma di blockchain, siti web, chat room ed exchange.
+Vespucci è concepito come un motore di analisi accessibile tramite un'interfaccia facile da usare, contenenti dati, nascosti preziosi, di mercato in tempo reale e storici, come i rating dei beni digitali e l'analisi del sentimento. Vogliamo offrire agli utenti gli strumenti necessari per generare grafici e confrontare gli asset digitali, accedere e analizzare i record di trading passati, tracciare tendenze e modelli, e monitorare e stimare gli sviluppi dei software open source. Vespucci si sforza di portare tra le vostre mani dati di mercato affidabili e completi, aggregando informazioni che sono attualmente distribuite in una vasta gamma di blockchain, siti web, chat room ed exchange.
 
 ### 2.4 VDEX
 
