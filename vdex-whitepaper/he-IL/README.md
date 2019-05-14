@@ -356,10 +356,10 @@ SingularityNET, שוק פתוח ומבוזר בין-רשתי בשביל ais, (20
 
 M. M. Timo Hanke וD. Williams, טכנולוגיית Dfinity כמערכת קונצנזוס לסקירה כללית, (2018).
 
-A. 0x, B. Will Warren: פרוטוקול פתוח בעבור חלפני כספים מבוזרים על גבי בלוקצ'יין האיתיריום, (2017).
+A. 0x, B. Will Warren: פרוטוקול פתוח בעבור חלפני כספים מבוזרים על גבי בלוקצ'יין האתריום, (2017).
 
-G. Wood, Ethereum: A secure decentralised generalised transaction ledger.ethereum project yellow paper, (2014).
+G. Wood, איתיריום: לדג'ר העברות מאובטח, כללי ומבוזר. פרויקט הרשימה הצהובה של אתריום, (2014).
 
-Dane Keller Rutledge, Creating a Comprehensive Digital Assets Ecosystem (DAE), (2018).
+Dane Keller Rutledge, יוצר מערכת נכס דיגיטלי כוללני (DAE), (2018).
 
 ## סוף המסמך
