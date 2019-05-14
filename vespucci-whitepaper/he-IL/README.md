@@ -2,7 +2,7 @@
 
 ### **תקציר**
 
-The relatively recent explosion of cryptocurrencies has attracted a lot of popularity and more people are becoming aware of the benefits over fiat currency. המספר ההולך וגדל של פלטפורמות אשר תומכות במטבעות-קריפטו, ומאפשרות העברות בין מגוון רחב של מוצרים ושירותים, מושך משתמשים רבים שנכללים בדור החדש והדינאמי של סוחרים, כאשר עבורם מורכבות טכנולוגיית הבלוקצ'יין שקופה. To navigate the complex world of cryptocurrencies, new users, along with experienced investors, would greatly benefit from a system that evaluates cryptocurrencies and creates a ranking that can be used as an investing guide, to be personalized with user-defined parameters. Vespucci is a new system that goes beyond the aforementioned functionalities. In particular, it monitors the evolution of blockchain and cryptocurrency markets and, by harnessing the power of cutting-edge AI and Machine Learning technolo gy, delivers unbiased, robust and up-to-date rankings that represent the real value of a very wide spectrum of coins so as to, eventually, act as a predictor of their future course. This ranking system is complete in the sense that it draws from a very large set of sources, categorized into three pillars, namely, sentiment analysis, fundamental and technological analysis, and technical analysis. Vespucci is part of the integrated ecosystem of Volentix, built around the decentralized exchange platform VDex; the latter employs a collection of smart EOS.IO contracts to establish quick and secure transactions, user anonymity, liquidity, scalability, performance, and estimation of profit margin. This whit e paper presents an in-depth overview of how Vespucci works, including a discussion of several technical aspects, and also highlights the different ways it can be used.
+The relatively recent explosion of cryptocurrencies has attracted a lot of popularity and more people are becoming aware of the benefits over fiat currency. המספר ההולך וגדל של פלטפורמות אשר תומכות במטבעות-קריפטו, ומאפשרות העברות בין מגוון רחב של מוצרים ושירותים, מושך משתמשים רבים שנכללים בדור החדש והדינאמי של סוחרים, כאשר עבורם מורכבות טכנולוגיית הבלוקצ'יין שקופה. בכדי לנווט את העולם המורכב של כספי-קריפטו, משתמשים חדשים יחד עם משקיעים מנוסים יטיבו באופן משמעותי ממערכת המעריכה את מטבעות הקריפטו, אשר גם יוצרת מדרג בו ניתן להשתמש כמדריך השקעות שיועצב באופן אישי על-ידי פרמטרים מוגדרים של המשתמש. Vespucci הינה מערכת חדשה אשר עולה הרבה מעבר לפונקציות שנזכרו לעיל. In particular, it monitors the evolution of blockchain and cryptocurrency markets and, by harnessing the power of cutting-edge AI and Machine Learning technolo gy, delivers unbiased, robust and up-to-date rankings that represent the real value of a very wide spectrum of coins so as to, eventually, act as a predictor of their future course. This ranking system is complete in the sense that it draws from a very large set of sources, categorized into three pillars, namely, sentiment analysis, fundamental and technological analysis, and technical analysis. Vespucci is part of the integrated ecosystem of Volentix, built around the decentralized exchange platform VDex; the latter employs a collection of smart EOS.IO contracts to establish quick and secure transactions, user anonymity, liquidity, scalability, performance, and estimation of profit margin. This whit e paper presents an in-depth overview of how Vespucci works, including a discussion of several technical aspects, and also highlights the different ways it can be used.
 
 * ### **OVERVIEW**
 
@@ -429,7 +429,7 @@ Storage techniques may rely on off-chain Order books developed by VLabs, which i
 
 [1] J. Yao et al. צפייה מראש וניתוח נתוני שיווק באמצעות רשתות עצביות'', כתב העת למדע והנדסה 14:843-862 (1998)
 
-[2] E. Kouloumpis et al. Twitter Sentiment Analysis: The Good the Bad and the OMG!”, International AAAI Conference on Weblogs and Social Media (ICWSM-11) (2011)
+[2] E. Kouloumpis et al . ניתוח סנטימנט בטוויטר: ''הטוב, הרע והOMG!'', ועד AAAI בינלאומי בנושא מדיה חברתית ובלוגים רשתיים (2011) (ICWSM-11)
 
 [3] A. Severyn et al. ניתוח הסנטימנט (תחום של עיבוד שפה טבעית אשר משתמש בתוכנה ומחשבים כדי להסיק את הרגש של בני אדם מהטקסט שהם כותבים/מעלים) של טוויטר דרך רשתות עצביות עמוקות, הכנס הבינלאומי ACM SIGIR בנושא המחקר והפיתוח באחזור מידעי:959-962 (2015)
 
@@ -439,7 +439,7 @@ Storage techniques may rely on off-chain Order books developed by VLabs, which i
 
 [6] E. Stenqvist et al. חיזוי תנודות במחיר הביטקוין עם כריית דעות טוויטר. תזת MSc. בית הספר למדעי המחשב ותקשורת, KTH המכון המלכותי לטכנולוגיה, שטוקהולם, שוודיה (2017)
 
-[7] H. Kakavand, N. Kost De Sevres, and B. Chilton, The Blockchain Revolution: An Analysis of Regulation and Technology Related to Distributed Ledger Technologies. יומן אלקטרוני SSRN. (2017) 10.2139/ ssrn.2849251
+[7] N. Kost De Sevres, H. Kakavand, וB. Chilton, מהפכת הבלוקצ'יין: ניתוח מידעי של רגולציה וטכנולוגיה הקשורות אל טכנולוגיות לדג'ר מופצות. יומן אלקטרוני SSRN. (2017) 10.2139/ ssrn.2849251
 
 [8] Arup צפייה מראש: טכנולוגיית הבלוקצ'יין
 
