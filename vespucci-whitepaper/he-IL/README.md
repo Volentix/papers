@@ -92,9 +92,9 @@ By leveraging Python’s Machine learning framework, and given the language’s 
   <tr>
     
 
-<td>**Source**</td>
+<td>**מקור**</td>
 
-<td>**Analysis**</td>
+<td>**ניתוח**</td>
 
   </tr>
   
@@ -407,9 +407,9 @@ The **implementation** of the Vespucci analysis tools is in Python using various
 
 Initially, most of those processes run on Linux Virtual Machines and results are kept in SQL databases. In case of insufficiency, a serverless frameworks shall be considered. In the immediate future powerful servers with GPUs are designed to perform efficiently all of our analysis (Kubernetes may be relevant here, assuming Docker containers).
 
-For Sentiment Analysis, and possibly other modules as well, a **node.js** system is used, though alternative implementations are easily swappable. נדרש לאחסן את המידע המצטבר שמופק ונשמר באופן רציף, במקום נייח ובטוח. דבר זה הינו הכרחי עבור הגירסה הסופית של Vespucci. האפליקציות במערכת יכולות להשתמש בMongoDB לסיוע בקריאה וכתיבה של מידע. MongoDB is a mature document-oriented database useful in storing structured information, as is the case for the data that exists in the Vespucci system. אלטרנטיבה קיימת היא CockroachDB.
+בעבור ניתוח סנטימנטלי, ואף מודלים אפשריים אחרים, מערכת </strong>js.צומת** נמצאת בשימוש, למרות כי יישומים חלופיים בהישג יד תמידי. נדרש לאחסן את המידע המצטבר שמופק ונשמר באופן רציף, במקום נייח ובטוח. דבר זה הינו הכרחי עבור הגירסה הסופית של Vespucci. האפליקציות במערכת יכולות להשתמש בMongoDB לסיוע בקריאה וכתיבה של מידע. MongoDB הינו מאגר נתונים מבוסס-מסמך, שימושי באחסון מידע מובנה, כפי שקורה אצל נתוני-המידע שקיימים במערכת הVespucci. אלטרנטיבה קיימת היא CockroachDB.</p> 
 
-מקורות **נתוני המידע** של Vespucci עשויות לכלול, אך אינן מוגבלות ל: רשומות מסחר היסטוריות, טרנדים של העברות, פעילות מפתחים וניתוח תוכנית, הפצת נכס דיגיטלי ומידע ממשלי, תנאים והתניות, יתרות כתובת עדכניות והיסטוריות כמו כן גם פורום הניתוח הסנטימנטלי. מידע זה יכול להימצא מפוזר על גבי אתרי Explorer של הבלוקצ'יין וחדרי צ'אטים. In particular, Sentiment analysis (see relevant [section](https://docs.google.com/document/d/1NLr-rgF66NCBmLmPIdElltKYVPJrLVO7DZDpcNEm6OU/edit?ts=5bec2f33#heading=h.tuaauijo691s)) would require data on all coins for a limited period of time. This is a vast amount of data and in order to minimise the impact that data will have on the system, we employ big data techniques of compression, aggregation, and filtering.
+מקורות **נתוני המידע** של Vespucci עשויות לכלול, אך אינן מוגבלות ל: רשומות מסחר היסטוריות, טרנדים של העברות, פעילות מפתחים וניתוח תוכנית, הפצת נכס דיגיטלי ומידע ממשלי, תנאים והתניות, יתרות כתובת עדכניות והיסטוריות כמו כן גם פורום הניתוח הסנטימנטלי. מידע זה יכול להימצא מפוזר על גבי אתרי Explorer של הבלוקצ'יין וחדרי צ'אטים. ניתוח סנטימנטלי בפרט, ( ראה [חלק](https://docs.google.com/document/d/1NLr-rgF66NCBmLmPIdElltKYVPJrLVO7DZDpcNEm6OU/edit?ts=5bec2f33#heading=h.tuaauijo691s) רלוונטי) ידרוש נתוני מידע בנוגע לכל המטבעות לתקופת זמן מוגבלת. זוהי כמות עצומה של נתוני מידע, כך שבכדי לצמצם את ההשפעה שיש לנתונים על המערכת, אנו מיישמים טכניקות נתונים של דחיסה, צבירה וסינון.
 
 טכניקות אחסון עלולות להישען על ספרי הזמנות חוץ-שרשוריים שהתפתחו על ידי VLabs, מבנה נתוני מתוחכם עם סטנדרטים גבוהים של אבטחה. זה מסתמך על EOS.IO, והAPI המתמיד. יתרון אחד של מערכת כזו הוא שהיא אינה יקרה; ומצד שני, היא יעילה מספיק למטרותינו. על אף שהעברות מנוהלות על ידי VDex, נתוני מידע שאינם קשורים לעסקאות יישארו מחוץ לרשת.
 
