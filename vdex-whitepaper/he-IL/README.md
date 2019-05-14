@@ -348,15 +348,15 @@ M. R. Garrick Hileman, מחקר השוואתי על מטבעות-קריפטו ג
 
 Komodo, טכנולוגיית בלוקצ'יין מתקדמת, המתרכזת על חירות, (2018).
 
-Q. Liquid, Providing liquidity to the non-liquid crypto economy, (2018).
+Q. Liquid, מספק הנזלה בעבור אקונומיית הקריפטו שלא הונזלה, (2018).
 
-S. R. M.P.M-S, Aniket Kate Matteo Maffei, Concurrency and privacy with payment-channel networks, (2017).
+S. R. M.P.M-S, Aniket Kate Matteo Maffei, מקביליות ופרטיות עם רשתות ערוצי תשלום, (2017).
 
-SingularityNET, A decentralized, open market and inter-network for ais, (2018).
+SingularityNET, שוק פתוח ומבוזר בין-רשתי בשביל ais, (2018).
 
-M. M. Timo Hanke and D. Williams, Dfinity technology overview series consensus system, (2018).
+M. M. Timo Hanke וD. Williams, טכנולוגיית Dfinity כמערכת קונצנזוס לסקירה כללית, (2018).
 
-A. B. Will Warren, 0x: An open protocol for decentralized exchange on the ethereum blockchain, (2017).
+A. 0x, B. Will Warren: פרוטוקול פתוח בעבור חלפני כספים מבוזרים על גבי בלוקצ'יין האיתיריום, (2017).
 
 G. Wood, Ethereum: A secure decentralised generalised transaction ledger.ethereum project yellow paper, (2014).
 
