@@ -30,13 +30,13 @@ Vespucci מציע פלטפורמה מבוססת-רשת אשר תאפשר למש�
 
 ![](https://volentix.io/file/2019/01/02-icon.jpg)
 
-The rating and analytical capacity of Vespucci relies on the three pillars of: Sentiment analysis, Technical / economic analysis, and Fundamental / technological analysis. Vespucci combines these aspects in order to provide rating and ranking by employing Machine Learning and Neural Network (NN) technology. It offers a service that has never been available before since it integrates all features in the following figure.
+היכולת האנליטית ודירוגית של Vespucci מסתמכת על שלושה עמודי תווך שהם: ניתוח סנטימנטלי (רגשי), ניתוח טכני / כלכלי, וניתוח יסודי / טכנולוגי. על ידי העסקת מכונת למידה וטכנולוגיית רשת נוירונים, Vespucci משלב בין היבטים אלו בכדי לספק שיטות מדרג ודירוג. כך גם הוא מציע שירות שאינו היה זמין לפני כן לעולם, לאור השילוב של כל התכונות בחלק הבא.
 
 ![](https://volentix.io/file/2019/01/1k.jpg)
 
-* ### **DESIGNING VESPUCCI**
+* ### **תכנון VESPUCCI**
 
-* #### **VESPUCCI FEATURES**
+* #### **תכונות VESPUCCI**
 
 The features of Vespucci are as follows.
 
