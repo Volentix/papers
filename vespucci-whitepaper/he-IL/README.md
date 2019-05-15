@@ -101,9 +101,9 @@ By leveraging Python’s Machine learning framework, and given the language’s 
   <tr>
     
 
-<td>Twitter </td>
+<td>טוויטר </td>
 
-<td>Sentiment</td>
+<td>סנטימנט</td>
 
   </tr>
   
@@ -112,25 +112,25 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Reddit</td>
 
-<td>Sentiment</td>
+<td>סנטימנט</td>
 
   </tr>
   
   <tr>
     
 
-<td>Facebook</td>
+<td>פייסבוק</td>
 
-<td>Sentiment</td>
+<td>סנטימנט</td>
 
   </tr>
   
   <tr>
     
 
-<td>Telegram</td>
+<td>טלגרם</td>
 
-<td>Sentiment</td>
+<td>סנטימנט</td>
 
   </tr>
   
@@ -139,16 +139,16 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>LinkedIn</td>
 
-<td>Sentiment & Technological</td>
+<td>סנטימנט וטכנולוגיה</td>
 
   </tr>
   
   <tr>
     
 
-<td>Coin Sites</td>
+<td>אתרי מטבעות</td>
 
-<td>Technological & Fundamental</td>
+<td>טכנולוגי ובסיסי</td>
 
   </tr>
   
