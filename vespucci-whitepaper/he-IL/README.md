@@ -72,7 +72,7 @@ In order to test Vespucci in a semi-public release using prospective volunteers,
 
 אחד מהפקטורים החשובים ביותר שמשפיעים על דירוג וערך מטבעות-קריפטו הינו ביטחון וסנטימנט הציבור. Sentiment bears major weight of cryptocurrencies monetary valuation. דעות פומביות לחלוטין זמינות לאיסוף וניתוח. עמוד תווך עיקרי בפלטפורמת הדירוג של Vespucci מבוסס על ניתוח סנטימנטלי (SA) של תכנים הקשורים לקריפטו, הנוצרים על-ידי הציבור במדיה החברתית (טוויטר, פייסבוק, טלגרם, רדיט, בלוגים, פורומים ואתרי חדשות). The key differentiating fact of Vespucci SA component is the broad and complete spectrum of data sources that are collected and analyzed. אנו מאמינים כי רק על-ידי כיסוי כל מקור פוטנציאלי של דעה פומבית הקשורה לכל מטבע-קריפטו, המצב האמיתי של שוק הסנטימנט נחשף.
 
-רכיב הSA של Vespucci נבנה בגישה מושהית. השלב הראשון כולל את מימוש המנגנון לעיכול נתוני מידע רבים (Big Data), המבוסס על ענן מרכזי ומדרגי. This mechanism is able to listen continuously to the above mentioned data sources and ingest all content/messages that are relevant to each cryptocurrency. It uses no persistent storage. The same mechanism scores the Sentiment of the ingested content using an AI driven score function and text analytics libraries for analyzing social media content. The module also relies on further tools such as NTLK and TextBlob that assign numerical scores of sentiment to pieces of text. This process need not be transparent to the user.
+רכיב הSA של Vespucci נבנה בגישה מושהית. השלב הראשון כולל את מימוש המנגנון לעיכול נתוני מידע רבים (Big Data), המבוסס על ענן מרכזי ומדרגי. מנגנון זה יכול להאזין בצורה ממושכת למקורות נתוני המידע שהוזכרו לעיל, ובאפשרותו לעכל כל תכן/הודעה אשר רלוונטי לתחום מטבעות-הקריפטו. הוא אינו משתמש באחסון מתמיד. The same mechanism scores the Sentiment of the ingested content using an AI driven score function and text analytics libraries for analyzing social media content. The module also relies on further tools such as NTLK and TextBlob that assign numerical scores of sentiment to pieces of text. This process need not be transparent to the user.
 
 This ensures that Vespucci SA component is able to cover the vast majority of public opinion. Results are compared over periods of one hour, one day and one week. The outputs are available through APIs for internal use by other Vespucci components such as the front-end web UI as well as to external users that want to consume the data or build third-party applications based on Vespucci.
 
@@ -157,7 +157,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>CoinMarketCap</td>
 
-<td>Technical, Technological & Fundamental</td>
+<td>טכני, טכנולוגי ובסיסי</td>
 
   </tr>
   
@@ -166,7 +166,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Github</td>
 
-<td>Technological</td>
+<td>טכנולוגי</td>
 
   </tr>
   
@@ -175,7 +175,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Coinbio</td>
 
-<td>General Information about every crypto </td>
+<td>מידע כללי לגבי כל קריפטו </td>
 
   </tr>
   
@@ -184,7 +184,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>BitInfoCharts</td>
 
-<td>Technical </td>
+<td>טכני </td>
 
   </tr>
   
@@ -193,7 +193,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Cointelegraph</td>
 
-<td>Technical </td>
+<td>טכני </td>
 
   </tr>
   
@@ -202,7 +202,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>CCN</td>
 
-<td>Sentiment (Forums & News)</td>
+<td>סנטימנט (פורומים וחדשות)</td>
 
   </tr>
   
@@ -211,7 +211,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>CoinDesk</td>
 
-<td>Sentiment (Forums & News)</td>
+<td>סנטימנט (פורומים וחדשות)</td>
 
   </tr>
   
@@ -220,23 +220,23 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Bitcointalk</td>
 
-<td>Sentiment (Forums & News) </td>
+<td>סנטימנט (פורומים וחדשות) </td>
 
   </tr>
   
   <tr>
     
 
-<td>Crypto Coin Rankings</td>
+<td>דירוגי מטבע - קריפטו</td>
 
-<td>Technological & Technical </td>
+<td>טכנולוגי וטכני </td>
 
   </tr>
 </table>
 
-* #### **TECHNICAL ANALYSIS**
+* ####** ניתוח טכני**
 
-Technical analysis is a trading tool employed to evaluate [securities](https://www.investopedia.com/terms/s/security.asp) and identify trading opportunities by analyzing statistics gathered from trading activity, such as price movement and volume. Unlike fundamental analysts who attempt to evaluate a security’s intrinsic value, [technical analysts](https://www.investopedia.com/terms/t/technical-analyst.asp) focus on charts of price movement and va rious analytical tools to evaluate a security’s strength or weakness. A typical source may be **coinmarketcap**. We focus on indicators and methods suitable for assets with high volatility of prices, and hence suitable for cryptocurrencies.
+ניתוח טכני הוא כלי מסחר הנועד להעריך [ אבטחות](https://www.investopedia.com/terms/s/security.asp) ולזהות הזדמנויות מסחריות ע''י ניתוח סטטיסטיקות שנאספו מפעילות מסחרית, כגון תנודות ונפח מחיר. לא כמו מנתחים יסודיים אשר מטרתם היא להעריך ערך פנימי מסוים לביטחון, [ מנתחים טכניים](https://www.investopedia.com/terms/t/technical-analyst.asp) מתרכזים על טבלאות של תנודות מחיר וכלים אנליטיים אחדים הנועדו להאמיד ערך חולשה או חוזקה לביטחון. מקור טיפוסי עלול להיות **coinmarketcap**. We focus on indicators and methods suitable for assets with high volatility of prices, and hence suitable for cryptocurrencies.
 
 Technical analysts believe the analysis of price movement or the supply and demand of currencies is the best way to identify trends in the currency. Price movements tend to trade within a trend or range. In connection with this belief, technical analysts assume that history tends to repeat itself, based on the idea that market participants have often reacted in a similar fashion to reoccurring market events. There is a very large number of techniques and indices for data analysis. In this section, we focus on certain simple techniques, such as Keltner Channels , moving average crossovers, RSI, Bollinger Bands, and the popular MACD, and to some advanced methods, such as Fibonnaci, and Ichimoku Kinko Hyo.
 
