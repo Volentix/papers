@@ -16,11 +16,11 @@ Vespucci הוא חלק ממערכת הVolentix. באופן ייחודי הוא �
 
 Vespucci offers for the first time a well-rounded profile of each digital asset of interest along with a live rating, representing a combination of different indicators, based on the principles of decentralized governance, peer privacy, public ledger via a public blockchain, and open source code. Hence, its analysis is free of the bias of specific individuals or interest groups and the employed methods are up for scrutiny and discussion by the community. Decentralized applications offer a paradigm shift in current technology; a particularly relevant instance lies within the emerging cryptocurrency exchanges. Using some of the most powerful cutting-edge methods, our approach abides by open standards and the principles of ease of use.
 
-General architecture of Vespucci
+עיצוב מבני כללי של Vespucci
 
 ![](https://volentix.io/file/2019/01/Web-1920-–-6@3x.png)
 
-* ### **OBJECTIVE**
+* ###**מטרה**
 
 Vespucci מציע פלטפורמה מבוססת-רשת אשר תאפשר למשתמשים לנווט דרך נתוני הקריפטו, ולבצע החלטות בנוגע לניצול הנכסים הדיגיטליים וייצור העברה מעודכנת. בפרט, זה מספק:
 
@@ -40,25 +40,25 @@ Vespucci מציע פלטפורמה מבוססת-רשת אשר תאפשר למש�
 
 התכונות של Vespucci הן כדלקמן.
 
-* Rating of cryptocurrencies, easily leading to a Prediction machine.
-* Combination of a complete spectrum of criteria ranging from Fundamental / Technological Analysis to technical / economics aspects up to a sentiment gauge.
-* Transparency in methodology (data sources, ingestion mechanism, data manipulation process, algorithms)
-* Broad spectrum of sources (to avoid biased data)
-* Modular design that offers the ability to extend the platform to other applications such as smart contracts.
-* Security: Data Sources on EOS Blockchain (VLabs)
-* High accuracy using sophisticated Evaluation methods, AI, and Deep Learning
+* דירוגן של מטבעות-קריפטו, המוביל בקלות אל מכונת חיזוי.
+* קומבינציה של ספקטרום קריטריונים שלם הנלקח מניתוח יסודי / טכנולוגי, משם להיבטים כלכליים / טכניים, ועד מד סנטימנט.
+* שקיפות במתודולוגיה (מקורות נתוני מידע, מנגנון עיכול, תהליך מניפולציה נתוני, אלגוריתמים)
+* ספקטרום נרחב של מאגרים ( בכדי להימנע מנתונים מוטים)
+* עיצוב מודולרי אשר מציע יכולת הרחבה של הפלטפורמה ליישומים אחרים, כגון חוזים חכמים.
+* אבטחה: מקורות מידע על בלוקצ'יין VLabs) EOS)
+* יכולת דיוק גבוהה באמצעות שיטות הערכה מתקדמות, בינה ממלאכותית, ולמידה עמוקה
 * Intuitive algorithms, possibility for weighs given by user, Post-processing for humans.
-* #### **PRINCIPLES**
+* ####**עקרונות**
 
-Vespucci is designed under the following principles.
+Vespucci תוכנן תחת העקרונות הבאים.
 
 * Objective in order not to risk compromising the Volentix DAO goodwill before it is established beyond any doubt
-* Automated
-* In demand
-* Decentralized implementation
-* Open-source
-* Intuitive
-* #### **HOW VESPUCCI WORKS**
+* אוטומטי
+* בר דרישה
+* יישום מבוזר
+* קוד-פתוח
+* אינטואיטיבי
+* ####**איך VESPUCCI עובד**
 
 The three pillars are described in the following subsections. In these subsections a large number of criteria is mentioned. The results of the SA component is made available along with the Technical and FTA results to the users so they can access a complete 360 view of each coin’s state, rank and ultimately understand the coin’s true value and potential. ‪An evaluation of both established cryptocurrencies and known “scam-coins” is performed, and the resulting parameters deemed most relevant in determining cryptocurrency validity is integrated into the system.
 
