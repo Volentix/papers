@@ -106,7 +106,7 @@ Web Assembly מאפשר ביצועים גבוהים של יישומים רשתי
 
 #### 3.1.2 צוברים
 
-צוברי הVDex הם שרתים של Volentix המיועדים עבור מטרות אבטחה והדמיה. One of their functions is to pull logs and order book data from nodes into sparse distributed representations for hierarchical temporal memory as intrusion [7] analysis for detecting anomalies in the system. הצוברים כמו כן יארחו רכיבים אחרים כגון לדג'רים ב''metachain'' ו"scrapers" של הבלוקצ'יין.
+צוברי הVDex הם שרתים של Volentix המיועדים עבור מטרות אבטחה והדמיה. אחת מפונקציותיהם הינה למשוך רשומות ונתוני מידע של ספר הזמנות מתוך צמתי-רשת אל ייצוגים דלילים ומבוזרים של זיכרון זמני היררכי באמצעות ניתוח [7] חדירתי למטרת זיהוי חריגות בתוך המערכת. הצוברים כמו כן יארחו רכיבים אחרים כגון לדג'רים ב''metachain'' ו"scrapers" של הבלוקצ'יין.
 
 #### 3.1.3 השהיה
 
@@ -118,7 +118,7 @@ Web Assembly מאפשר ביצועים גבוהים של יישומים רשתי
 
 #### 3.2.1 מבנה נתוני המידע
 
-Using the Loopring Protocol FIFO (first-in first-out) circular buffer, nodes can design their order books to display and match a user’s order. שיטה זו הולכת אחרי מודל OTC, שם מגבלת ההזמנות מוגדרת בהתבסס על מחיר בלבד.[5]
+בעת יישום פרוטוקול הלופרינג FIFO (ראשון-נכנס ראשון-יוצא) בחוצץ מעגלי, צמתי-רשת יכולים לעצב את ספרי ההזמנות שלהם בהתאם להזמנת המשתמש. שיטה זו הולכת אחרי מודל OTC, שם מגבלת ההזמנות מוגדרת בהתבסס על מחיר בלבד.[5]
 
 בהתייחסות אל התמדת הAPI של EOS.IO, ספר ההזמנות ביכולתו יהיה לנצל את מיכל המולטי-אינדקס (טבלה המאפשרת גישה ישירה לרשומות על-פי מפתח) המשותף בין צמתים דרך אותו חשבון EOS.IO.
 
