@@ -4,15 +4,15 @@
 
 The relatively recent explosion of cryptocurrencies has attracted a lot of popularity and more people are becoming aware of the benefits over fiat currency. המספר ההולך וגדל של פלטפורמות אשר תומכות במטבעות-קריפטו, ומאפשרות העברות בין מגוון רחב של מוצרים ושירותים, מושך משתמשים רבים שנכללים בדור החדש והדינאמי של סוחרים, כאשר עבורם מורכבות טכנולוגיית הבלוקצ'יין שקופה. בכדי לנווט את העולם המורכב של כספי-קריפטו, משתמשים חדשים יחד עם משקיעים מנוסים יטיבו באופן משמעותי ממערכת המעריכה את מטבעות הקריפטו, אשר גם יוצרת מדרג בו ניתן להשתמש כמדריך השקעות שיועצב באופן אישי על-ידי פרמטרים מוגדרים של המשתמש. Vespucci הינה מערכת חדשה אשר עולה הרבה מעבר לפונקציות שנזכרו לעיל. In particular, it monitors the evolution of blockchain and cryptocurrency markets and, by harnessing the power of cutting-edge AI and Machine Learning technolo gy, delivers unbiased, robust and up-to-date rankings that represent the real value of a very wide spectrum of coins so as to, eventually, act as a predictor of their future course. This ranking system is complete in the sense that it draws from a very large set of sources, categorized into three pillars, namely, sentiment analysis, fundamental and technological analysis, and technical analysis. Vespucci is part of the integrated ecosystem of Volentix, built around the decentralized exchange platform VDex; the latter employs a collection of smart EOS.IO contracts to establish quick and secure transactions, user anonymity, liquidity, scalability, performance, and estimation of profit margin. This whit e paper presents an in-depth overview of how Vespucci works, including a discussion of several technical aspects, and also highlights the different ways it can be used.
 
-* ### **OVERVIEW**
+* ###**סקירה כללית**
 
 Vespucci הוא חלק ממערכת הVolentix. באופן ייחודי הוא מיישם את אחד מעמודי התווך העיקריים של מערכת הVolentix, אשר נקודת המשען בה היא VDex. VDex הינו "חלפן כספים" מבוזר עם דגש על חווית משתמש וקהילה. Vespucci, besides being a digital asset audit and assessment utility accessible to non-experts, it is also a tool to chart and juxtapose tradeable digital assets. Moreover, it provides a dashboard for cryptocurrencies’ activity in the digital world.
 
-Our primary goal is to offer all users of digital assets an intuitive analytical agent and rating system for digital assets, merging the following aspects (see figure below):
+מטרתנו העיקרית היא להציע לכל משתמשי הנכס-הדיגיטלי סוכן אינטואיטיבי ואנליטי, וכמו כן מערכת דירוג בעבור נכסים דיגיטליים, בעת מיזוגם של ההיבטים הבאים:
 
-* a sentiment gauge for sentiment analysis (SA),
-* technical analysis (TA), and
-* fundamental / technological analysis (FTA).
+* מונה סנטימנט עבור ניתוח רגשי (SA),
+* ניתוח טכני (TA), ו
+* ניתוח יסודי / טכנולוגי (FTA).
 
 Vespucci offers for the first time a well-rounded profile of each digital asset of interest along with a live rating, representing a combination of different indicators, based on the principles of decentralized governance, peer privacy, public ledger via a public blockchain, and open source code. Hence, its analysis is free of the bias of specific individuals or interest groups and the employed methods are up for scrutiny and discussion by the community. Decentralized applications offer a paradigm shift in current technology; a particularly relevant instance lies within the emerging cryptocurrency exchanges. Using some of the most powerful cutting-edge methods, our approach abides by open standards and the principles of ease of use.
 
