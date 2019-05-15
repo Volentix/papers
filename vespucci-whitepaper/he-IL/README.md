@@ -38,7 +38,7 @@ Vespucci מציע פלטפורמה מבוססת-רשת אשר תאפשר למש�
 
 * #### **תכונות VESPUCCI**
 
-The features of Vespucci are as follows.
+התכונות של Vespucci הן כדלקמן.
 
 * Rating of cryptocurrencies, easily leading to a Prediction machine.
 * Combination of a complete spectrum of criteria ranging from Fundamental / Technological Analysis to technical / economics aspects up to a sentiment gauge.
