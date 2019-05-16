@@ -14,9 +14,9 @@ Il nostro obiettivo primario è quello di offrire a tutti gli utenti di asset di
 * analisi tecnica (TA), e
 * analisi fondamentale / tecnologica (FTA).
 
-Vespucci offers for the first time a well-rounded profile of each digital asset of interest along with a live rating, representing a combination of different indicators, based on the principles of decentralized governance, peer privacy, public ledger via a public blockchain, and open source code. Di conseguenza, la sua analisi è libera da pregiudizi da parte di specifici individui o gruppi di interesse e i metodi utilizzati sono oggetto di esame e di discussione da parte della comunità. Decentralized applications offer a paradigm shift in current technology; a particularly relevant instance lies within the emerging cryptocurrency exchanges. Using some of the most powerful cutting-edge methods, our approach abides by open standards and the principles of ease of use.
+Vespucci offers for the first time a well-rounded profile of each digital asset of interest along with a live rating, representing a combination of different indicators, based on the principles of decentralized governance, peer privacy, public ledger via a public blockchain, and open source code. Di conseguenza, la sua analisi è libera da pregiudizi da parte di specifici individui o gruppi di interesse e i metodi utilizzati sono oggetto di esame e di discussione da parte della comunità. Le applicazioni decentralizzate offrono un cambiamento di paradigma nella tecnologia attuale; un esempio particolarmente rilevante è rappresentato dagli exchange di cripto monete emergenti. Utilizzando alcuni dei più potenti metodi all'avanguardia, il nostro approccio si attiene a standard aperti e ai principi di facilità d'utilizzo.
 
-General architecture of Vespucci
+Architettura generale di Vespucci
 
 ![](https://volentix.io/file/2019/01/Web-1920-–-6@3x.png)
 
