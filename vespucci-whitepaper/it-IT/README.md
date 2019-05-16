@@ -6,9 +6,9 @@ L'esplosione relativamente recente delle criptovalute ha attirato molta popolari
 
 * ### **OVERVIEW**
 
-Vespucci fa parte dell'ecosistema Volentix. In particolare, implementa uno dei pilastri principali dell'ecosistema Volentix, di cui VDex è il fulcro. VDex is a decentralized exchange with the user and community in mind. Vespucci, oltre ad essere una utility di audit e valutazione di asset digitali accessibile ai non esperti, è anche uno strumento per tracciare e affiancare asset digitali commerciabili. Moreover, it provides a dashboard for cryptocurrencies’ activity in the digital world.
+Vespucci fa parte dell'ecosistema Volentix. In particolare, implementa uno dei pilastri principali dell'ecosistema Volentix, di cui VDex è il fulcro. VDex is a decentralized exchange with the user and community in mind. Vespucci, oltre ad essere una utility di audit e valutazione di asset digitali accessibile ai non esperti, è anche uno strumento per tracciare e affiancare asset digitali commerciabili. Inoltre, fornisce una dashboard per l'attività delle cripto monete nel mondo digitale.
 
-Our primary goal is to offer all users of digital assets an intuitive analytical agent and rating system for digital assets, merging the following aspects (see figure below):
+Il nostro obiettivo primario è quello di offrire a tutti gli utenti di asset digitali un agente analitico intuitivo e un sistema di rating per gli asset digitali, unendo i seguenti aspetti (vedi figura sotto):
 
 * a sentiment gauge for sentiment analysis (SA),
 * technical analysis (TA), and
