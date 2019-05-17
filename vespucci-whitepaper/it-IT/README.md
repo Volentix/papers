@@ -22,9 +22,9 @@ Architettura generale di Vespucci
 
 * ### **OBJECTIVE**
 
-Vespucci offers a web-based platform to enable users to navigate through crypto data and make informed trading and digital-asset utilization decisions. In particular, it provides:
+Vespucci offre una piattaforma web-based per consentire agli utenti di navigare tra i dati relativi alle cripto monete e prendere decisioni informate sul trading e sull'utilizzo degli asset digitali. In particolare, fornisce:
 
-* An intuitive analytical agent leading to an easy to understand overview of cryptocurrencies.
+* Un agente analitico intuitivo che porta ad una visione d'insieme di facile comprensione delle criptovalute.
 * A rating system of cryptocurrencies, including risk assessment.
 * A dashboard for cryptocurrency news.
 
