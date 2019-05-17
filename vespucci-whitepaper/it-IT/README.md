@@ -25,12 +25,12 @@ Architettura generale di Vespucci
 Vespucci offre una piattaforma web-based per consentire agli utenti di navigare tra i dati relativi alle cripto monete e prendere decisioni informate sul trading e sull'utilizzo degli asset digitali. In particolare, fornisce:
 
 * Un agente analitico intuitivo che porta ad una visione d'insieme di facile comprensione delle criptovalute.
-* A rating system of cryptocurrencies, including risk assessment.
-* A dashboard for cryptocurrency news.
+* Un sistema di valutazione delle criptovalute, compresa la valutazione del rischio.
+* Una dashboard per le notizie riguardanti le criptomonete.
 
 ![](https://volentix.io/file/2019/01/02-icon.jpg)
 
-The rating and analytical capacity of Vespucci relies on the three pillars of: Sentiment analysis, Technical / economic analysis, and Fundamental / technological analysis. Vespucci combines these aspects in order to provide rating and ranking by employing Machine Learning and Neural Network (NN) technology. It offers a service that has never been available before since it integrates all features in the following figure.
+La valutazione e la capacità analitica di Vespucci si basa sui tre pilastri di: Analisi del sentiment, Analisi tecnica / economica e Analisi fondamentale / tecnologica. Vespucci combina questi aspetti per fornire una valutazione e una classificazione attraverso l'utilizzo della tecnologia Machine Learning e Neural Network (NN). It offers a service that has never been available before since it integrates all features in the following figure.
 
 ![](https://volentix.io/file/2019/01/1k.jpg)
 
