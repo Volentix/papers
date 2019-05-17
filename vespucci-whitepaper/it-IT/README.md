@@ -30,17 +30,17 @@ Vespucci offre una piattaforma web-based per consentire agli utenti di navigare 
 
 ![](https://volentix.io/file/2019/01/02-icon.jpg)
 
-La valutazione e la capacità analitica di Vespucci si basa sui tre pilastri di: Analisi del sentiment, Analisi tecnica / economica e Analisi fondamentale / tecnologica. Vespucci combina questi aspetti per fornire una valutazione e una classificazione attraverso l'utilizzo della tecnologia Machine Learning e Neural Network (NN). It offers a service that has never been available before since it integrates all features in the following figure.
+La valutazione e la capacità analitica di Vespucci si basa sui tre pilastri di: Analisi del sentiment, Analisi tecnica / economica e Analisi fondamentale / tecnologica. Vespucci combina questi aspetti per fornire una valutazione e una classificazione attraverso l'utilizzo della tecnologia Machine Learning e Neural Network (NN). Offre un servizio che non è mai stato disponibile prima d'ora in quanto integra tutte le funzioni presenti nella figura seguente.
 
 ![](https://volentix.io/file/2019/01/1k.jpg)
 
 * ### **DESIGNING VESPUCCI**
 
-* #### **VESPUCCI FEATURES**
+* #### **FUNZIONI VESPUCCI**
 
-The features of Vespucci are as follows.
+Le funzioni di Vespucci sono le seguenti.
 
-* Rating of cryptocurrencies, easily leading to a Prediction machine.
+* Valutazione delle criptovalute, che porta facilmente ad una macchina per pronostici.
 * Combination of a complete spectrum of criteria ranging from Fundamental / Technological Analysis to technical / economics aspects up to a sentiment gauge.
 * Transparency in methodology (data sources, ingestion mechanism, data manipulation process, algorithms)
 * Broad spectrum of sources (to avoid biased data)
