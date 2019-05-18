@@ -42,11 +42,11 @@ Le funzioni di Vespucci sono le seguenti.
 
 * Valutazione delle criptovalute, che porta facilmente ad una macchina per pronostici.
 * Combinazione di uno spettro completo di criteri che vanno dall'Analisi Fondamentale / Tecnologica agli aspetti tecnici / economici fino ad un misuratore del sentiment.
-* Transparency in methodology (data sources, ingestion mechanism, data manipulation process, algorithms)
-* Broad spectrum of sources (to avoid biased data)
-* Modular design that offers the ability to extend the platform to other applications such as smart contracts.
-* Security: Data Sources on EOS Blockchain (VLabs)
-* High accuracy using sophisticated Evaluation methods, AI, and Deep Learning
+* Trasparenza nella metodologia (fonti dei dati, meccanismo di ingestione, processo di manipolazione dei dati, algoritmi)
+* Ampia gamma di fonti (per evitare dati distorti)
+* Design modulare che offre la possibilità di estendere la piattaforma ad altre applicazione come ad esempio smart contract.
+* Sicurezza: Fonti dei Dati sulla Blockchain EOS (VLabs)
+* Alta precisione utilizzando metodi di Valutazione sofisticati, AI, e Apprendimento Profondo
 * Intuitive algorithms, possibility for weighs given by user, Post-processing for humans.
 * #### **PRINCIPLES**
 
