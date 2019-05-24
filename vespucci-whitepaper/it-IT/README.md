@@ -2,77 +2,77 @@
 
 ### **ABSTRACT**
 
-The relatively recent explosion of cryptocurrencies has attracted a lot of popularity and more people are becoming aware of the benefits over fiat currency. The ever-increasing number of platforms that support cryptocurrencies and allow for transactions between a wide variety of products and services attract many users forming a new, dynamic generation of traders, for whom the intricacies of the blockchain technology are transparent. To navigate the complex world of cryptocurrencies, new users, along with experienced investors, would greatly benefit from a system that evaluates cryptocurrencies and creates a ranking that can be used as an investing guide, to be personalized with user-defined parameters. Vespucci is a new system that goes beyond the aforementioned functionalities. In particular, it monitors the evolution of blockchain and cryptocurrency markets and, by harnessing the power of cutting-edge AI and Machine Learning technolo gy, delivers unbiased, robust and up-to-date rankings that represent the real value of a very wide spectrum of coins so as to, eventually, act as a predictor of their future course. This ranking system is complete in the sense that it draws from a very large set of sources, categorized into three pillars, namely, sentiment analysis, fundamental and technological analysis, and technical analysis. Vespucci is part of the integrated ecosystem of Volentix, built around the decentralized exchange platform VDex; the latter employs a collection of smart EOS.IO contracts to establish quick and secure transactions, user anonymity, liquidity, scalability, performance, and estimation of profit margin. This whit e paper presents an in-depth overview of how Vespucci works, including a discussion of several technical aspects, and also highlights the different ways it can be used.
+L'esplosione relativamente recente delle criptovalute ha attirato molta popolarità e sempre più persone stanno diventando consapevoli dei benefici rispetto alla valuta fiat. Il numero sempre crescente di piattaforme che supportano le criptovalute e consentono transazioni tra una vasta gamma di prodotti e servizi attira molti utenti formando una nuova generazione dinamica di trader, per i quali le complessità della tecnologia blockchain sono trasparenti. Per navigare nel complesso mondo delle criptovalute, i nuovi utenti, insieme ad investitori esperti, trarrebbero grande beneficio da un sistema che valuta le criptovalute e crea una classifica che può essere utilizzata come guida all'investimento, da personalizzare con parametri definiti dall'utente. Vespucci è un nuovo sistema che va oltre le suddette funzionalità. In particolare, monitora l'evoluzione dei mercati delle blockchain e delle criptovalute e, sfruttando la potenza dell'AI all'avanguardia e della tecnologia Machine Learning, fornisce classifiche imparziali, robuste e aggiornate che rappresentano il valore reale di un'ampia gamma di monete in modo da fungere, eventualmente, da predittore del loro corso futuro. Questo sistema di classificazione è completo nel senso che attinge da un'ampia serie di fonti, categorizzate in tre pilastri, chiamati, analisi del sentiment, analisi fondamentale e tecnologica, e analisi tecnica. Vespucci fa parte dell'ecosistema integrato di Volentix, costruito attorno alla piattaforma di exchange decentralizzata VDex; quest'ultima utilizza una serie di smart contract EOS.IO per stabilire transazioni veloci e sicure, anonimato dell'utente, liquidità, scalabilità, performance, e una stima del margine di profitto. Questo white paper presenta una panoramica approfondita su come funziona Vespucci, comprende anche una discussione su diversi aspetti tecnici, e inoltre, sottolinea i diversi modi in cui può essere utilizzato.
 
 * ### **OVERVIEW**
 
-Vespucci is part of the Volentix ecosystem. In particular, it implements one of the main pillars of the Volentix ecosystem, of which VDex is the fulcrum. VDex is a decentralized exchange with the user and community in mind. Vespucci, besides being a digital asset audit and assessment utility accessible to non-experts, it is also a tool to chart and juxtapose tradeable digital assets. Moreover, it provides a dashboard for cryptocurrencies’ activity in the digital world.
+Vespucci fa parte dell'ecosistema Volentix. In particolare, implementa uno dei pilastri principali dell'ecosistema Volentix, di cui VDex è il fulcro. VDex is a decentralized exchange with the user and community in mind. Vespucci, oltre ad essere una utility di audit e valutazione di asset digitali accessibile ai non esperti, è anche uno strumento per tracciare e affiancare asset digitali commerciabili. Inoltre, fornisce una dashboard per l'attività delle cripto monete nel mondo digitale.
 
-Our primary goal is to offer all users of digital assets an intuitive analytical agent and rating system for digital assets, merging the following aspects (see figure below):
+Il nostro obiettivo primario è quello di offrire a tutti gli utenti di asset digitali un agente analitico intuitivo e un sistema di rating per gli asset digitali, unendo i seguenti aspetti (vedi figura sotto):
 
-* a sentiment gauge for sentiment analysis (SA),
-* technical analysis (TA), and
-* fundamental / technological analysis (FTA).
+* un misuratore del sentiment per l'analisi del sentiment (SA),
+* analisi tecnica (TA), e
+* analisi fondamentale / tecnologica (FTA).
 
-Vespucci offers for the first time a well-rounded profile of each digital asset of interest along with a live rating, representing a combination of different indicators, based on the principles of decentralized governance, peer privacy, public ledger via a public blockchain, and open source code. Hence, its analysis is free of the bias of specific individuals or interest groups and the employed methods are up for scrutiny and discussion by the community. Decentralized applications offer a paradigm shift in current technology; a particularly relevant instance lies within the emerging cryptocurrency exchanges. Using some of the most powerful cutting-edge methods, our approach abides by open standards and the principles of ease of use.
+Vespucci offers for the first time a well-rounded profile of each digital asset of interest along with a live rating, representing a combination of different indicators, based on the principles of decentralized governance, peer privacy, public ledger via a public blockchain, and open source code. Di conseguenza, la sua analisi è libera da pregiudizi da parte di specifici individui o gruppi di interesse e i metodi utilizzati sono oggetto di esame e di discussione da parte della comunità. Le applicazioni decentralizzate offrono un cambiamento di paradigma nella tecnologia attuale; un esempio particolarmente rilevante è rappresentato dagli exchange di cripto monete emergenti. Utilizzando alcuni dei più potenti metodi all'avanguardia, il nostro approccio si attiene a standard aperti e ai principi di facilità d'utilizzo.
 
-General architecture of Vespucci
+Architettura generale di Vespucci
 
 ![](https://volentix.io/file/2019/01/Web-1920-–-6@3x.png)
 
 * ### **OBJECTIVE**
 
-Vespucci offers a web-based platform to enable users to navigate through crypto data and make informed trading and digital-asset utilization decisions. In particular, it provides:
+Vespucci offre una piattaforma web-based per consentire agli utenti di navigare tra i dati relativi alle cripto monete e prendere decisioni informate sul trading e sull'utilizzo degli asset digitali. In particolare, fornisce:
 
-* An intuitive analytical agent leading to an easy to understand overview of cryptocurrencies.
-* A rating system of cryptocurrencies, including risk assessment.
-* A dashboard for cryptocurrency news.
+* Un agente analitico intuitivo che porta ad una visione d'insieme di facile comprensione delle criptovalute.
+* Un sistema di valutazione delle criptovalute, compresa la valutazione del rischio.
+* Una dashboard per le notizie riguardanti le criptomonete.
 
 ![](https://volentix.io/file/2019/01/02-icon.jpg)
 
-The rating and analytical capacity of Vespucci relies on the three pillars of: Sentiment analysis, Technical / economic analysis, and Fundamental / technological analysis. Vespucci combines these aspects in order to provide rating and ranking by employing Machine Learning and Neural Network (NN) technology. It offers a service that has never been available before since it integrates all features in the following figure.
+La valutazione e la capacità analitica di Vespucci si basa sui tre pilastri di: Analisi del sentiment, Analisi tecnica / economica e Analisi fondamentale / tecnologica. Vespucci combina questi aspetti per fornire una valutazione e una classificazione attraverso l'utilizzo della tecnologia Machine Learning e Neural Network (NN). Offre un servizio che non è mai stato disponibile prima d'ora in quanto integra tutte le funzioni presenti nella figura seguente.
 
 ![](https://volentix.io/file/2019/01/1k.jpg)
 
 * ### **DESIGNING VESPUCCI**
 
-* #### **VESPUCCI FEATURES**
+* #### **FUNZIONI VESPUCCI**
 
-The features of Vespucci are as follows.
+Le funzioni di Vespucci sono le seguenti.
 
-* Rating of cryptocurrencies, easily leading to a Prediction machine.
-* Combination of a complete spectrum of criteria ranging from Fundamental / Technological Analysis to technical / economics aspects up to a sentiment gauge.
-* Transparency in methodology (data sources, ingestion mechanism, data manipulation process, algorithms)
-* Broad spectrum of sources (to avoid biased data)
-* Modular design that offers the ability to extend the platform to other applications such as smart contracts.
-* Security: Data Sources on EOS Blockchain (VLabs)
-* High accuracy using sophisticated Evaluation methods, AI, and Deep Learning
+* Valutazione delle criptovalute, che porta facilmente ad una macchina per pronostici.
+* Combinazione di uno spettro completo di criteri che vanno dall'Analisi Fondamentale / Tecnologica agli aspetti tecnici / economici fino ad un misuratore del sentiment.
+* Trasparenza nella metodologia (fonti dei dati, meccanismo di ingestione, processo di manipolazione dei dati, algoritmi)
+* Ampia gamma di fonti (per evitare dati di parte)
+* Design modulare che offre la possibilità di estendere la piattaforma ad altre applicazione come ad esempio smart contract.
+* Sicurezza: Fonti dei Dati sulla Blockchain EOS (VLabs)
+* Alta precisione utilizzando metodi di Valutazione sofisticati, AI, e Apprendimento Profondo
 * Intuitive algorithms, possibility for weighs given by user, Post-processing for humans.
 * #### **PRINCIPLES**
 
-Vespucci is designed under the following principles.
+Vespucci è conceputo basandosi sui seguenti principi.
 
-* Objective in order not to risk compromising the Volentix DAO goodwill before it is established beyond any doubt
-* Automated
+* Obbiettivo per non rischiare di compromettere la buona volontà di Volentix DAO prima che venga accertata senza alcun dubbio
+* Automatizzato
 * In demand
-* Decentralized implementation
+* Implementazione decentralizzata
 * Open-source
-* Intuitive
-* #### **HOW VESPUCCI WORKS**
+* Intuitivo
+* #### **COME FUNZIONA VESPUCCI**
 
-The three pillars are described in the following subsections. In these subsections a large number of criteria is mentioned. The results of the SA component is made available along with the Technical and FTA results to the users so they can access a complete 360 view of each coin’s state, rank and ultimately understand the coin’s true value and potential. ‪An evaluation of both established cryptocurrencies and known “scam-coins” is performed, and the resulting parameters deemed most relevant in determining cryptocurrency validity is integrated into the system.
+I tre pilastri sono descritti nelle seguenti sottosezioni. In queste sottosezioni vengono menzionati un gran numero di criteri. I risultati del componente SA vengono messi a disposizione degli utenti, insieme ai risultati Tecnici e FTA, in modo che possano accedere a una visione completa a 360 gradi dello stato di ogni moneta, della classifica, ed infine, comprendere il vero valore e il potenziale della moneta. Viene eseguita una valutazione sia delle valute consolidate che delle "monete di tipo scam" conosciute, ed i parametri che ne risultano ritenuti più rilevanti per determinare la validità della moneta criptata sono integrati nel sistema.
 
-In order to test Vespucci in a semi-public release using prospective volunteers, the system is being introduced to various outside users for bug testing of the assessment system functions, and the UI. ‬‪It is carried out in a public setting through the organization of a closed beta release. Users are selected to allow for more constructive and relevant feedback information.‬ ‪An ongoing iterative process of tweaks, fixes, and adjustments will take place during the beta release from the insight derived from user feedback.‬
+Al fine di testare Vespucci in una versione semipubblica utilizzando potenziali volontari, il sistema viene presentato a diversi utenti esterni per il bug testing delle funzioni del sistema di valutazione e dell'interfaccia utente. Si svolge in un ambiente pubblico attraverso l'organizzazione di una versione beta chiusa. Users are selected to allow for more constructive and relevant feedback information.‬ ‪An ongoing iterative process of tweaks, fixes, and adjustments will take place during the beta release from the insight derived from user feedback.‬
 
-* ### **PILARS**
+* ### **PILASTRI**
 
-* #### **SENTIMENT ANALYSIS**
+* #### **ANALISI DEL SENTIMENT**
 
-Market sentiment is being explored by the relatively new field of [behavioral finance](https://www.investopedia.com/terms/b/behavioralfinance.asp). It starts with the assumption that markets are apparently inefficient much of the time, and this inefficiency can be explained by psychology and other [social sciences](https://www.investopedia.com/terms/s/social-science.asp). The idea of applying social science to finance was fully legitimized when [D. Kahneman](https://www.investopedia.com/terms/d/daniel-kahneman.asp), a psychologist, won the 2002 Nobel Memorial Prize in Economics – he was the first psychologist to do so. Many of the ideas in behavioral finance confirm observable suspicions: that investors tend to overemphasize data that come easily to mind; that many investors react with greater pain to losses than with pleasure to equivalent gains; and that investors tend to persist in a mistake.
+Il sentiment di mercato viene esplorato dal campo relativamente nuovo della [finanza comportamentale](https://www.investopedia.com/terms/b/behavioralfinance.asp). Si parte dal presupposto che i mercati sonom per la maggior parte del tempo, apparentemente inefficienti, e questa inefficienza può essere spiegata dalla psicologia e da altre [scienze sociali](https://www.investopedia.com/terms/s/social-science.asp). L'idea di applicare la scienza sociale alla finanza e stata pienamente legittimata quando[D. Kahneman](https://www.investopedia.com/terms/d/daniel-kahneman.asp), psicologo, ha vinto nel il Premio Nobel di Economia del 2002 - fu il primo psicologo che ci è riuscito. Molte delle idee della finanza comportamentale confermano i sospetti osservabili: che gli investitori tendono ad enfatizzare eccessivamente i dati che vengono facilmente in mente; che molti investitori reagiscono provano più sofferenza per le perditerispetto al piacere che provano con i guadagni equivalenti; e che gli investitori tendono a persistere in un errore.
 
-One of the most significant factors that affect the rank and value of crypto-coins is the public confidence and sentiment. Sentiment bears major weight of cryptocurrencies monetary valuation. Public opinions are widely available to collect and analyze. A m ajor pillar of the Vespucci ranking platform is hence based on Sentiment Analysis (SA) of crypto related content, generated by the public on Social media (Twitter, Facebook, Telegram), Reddit, Blogs, forums and news sites. The key differentiating fact of Vespucci SA component is the broad and complete spectrum of data sources that are collected and analyzed. We believe that only by covering every potential source of public opinion related to each crypto-coin, the true state of market sentiment is revealed.
+Uno dei fattori più significativi che influiscono sulla posizione e sul valore delle cripto monete è la confidenza e il sentiment delle persone. Il Sentiment ha un peso maggiore rispetto alla valutazione monetaria delle criptovalute. Le opinioni pubbliche sono ampiamente disponibili per essere raccolte ed analizzate. Un pilastro fondamentale della piattaforma di di classificazione di Vespucci è quindi basato sul Sentiment Analysis (SA) di contenuti correlati alle criptovalute, generati dal pubblico sui Social media (Twitter, Facebook, Telegram), Reddit, Blog, forum e siti di notizie. La differenza fondamentale del componente SA di Vespucci è l'ampio e completo spettro di fonti di dati raccolti e analizzati. Riteniamo che solo coprendo ogni potenziale fonte di opinione pubblica legata ad ogni criptovaluta, può essere scoperto lo stato reale del market sentiment.
 
-Vespucci SA component is built in a phased approach. The first phase includes the implementation of a centralized cloud based, highly scalable, Big Data ingestion mechanism. This mechanism is able to listen continuously to the above mentioned data sources and ingest all content/messages that are relevant to each cryptocurrency. It uses no persistent storage. The same mechanism scores the Sentiment of the ingested content using an AI driven score function and text analytics libraries for analyzing social media content. The module also relies on further tools such as NTLK and TextBlob that assign numerical scores of sentiment to pieces of text. This process need not be transparent to the user.
+Il componente SA di Vespucci è costruito con un approccio graduale. The first phase includes the implementation of a centralized cloud based, highly scalable, Big Data ingestion mechanism. This mechanism is able to listen continuously to the above mentioned data sources and ingest all content/messages that are relevant to each cryptocurrency. It uses no persistent storage. The same mechanism scores the Sentiment of the ingested content using an AI driven score function and text analytics libraries for analyzing social media content. The module also relies on further tools such as NTLK and TextBlob that assign numerical scores of sentiment to pieces of text. This process need not be transparent to the user.
 
 This ensures that Vespucci SA component is able to cover the vast majority of public opinion. Results are compared over periods of one hour, one day and one week. The outputs are available through APIs for internal use by other Vespucci components such as the front-end web UI as well as to external users that want to consume the data or build third-party applications based on Vespucci.
 

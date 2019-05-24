@@ -328,48 +328,48 @@
 
 يعتمد الجمع بين هذه المعايير بشكل أساسي على وظيفة تسجيل قوية ومكيفة والتي يمكن استبدالها في النهاية بشبكة عصبية تلافيفية (Convolutional Neural Network)، تمت مناقشتها أيضًا لدعم تحليل نزعة السوق (انظر القسم المناسب).
 
-* #### **BLOCKCHAIN STATISTICS, BLOCKCHAIN FULL NODE, AND EVM ANALYSIS**
+* #### **إحصائيات سلسلة الكتل، العُقدة الكاملة الخاصة بسلسلة الكتل وتحليل الألة الإفتراضية الخاصة بـ Ethereum أو (EVM)**
 
-This module is responsible for communicating with each of the nodes deployed for each blockchain being assessed. Its role is to provide a coherent standardized interface to the RESTful endpoint layer so that the nature of any blockchain can be abstracted, while knowing how to query any blockchain full node being run by the system, in order to collect information about the chain and network properties of that chain. In many instances, a tradable token is not actually running on its own dedicated chain but is sooner implemented using a system of contracts running on a smart-contract-enabling blockchain such as Ethereum. In such a case, this module communicates both with the full node for this chain, and the other modules, for example, the Ethereum static analysis module mentioned deeper in this document.
+هذا الموديل (module) مسؤول عن التواصل مع كل من العُقد المنشورة لكل سلسلة يجرى تقييمها. ويتمثل دوره في توفير واجهة موحدة ومتماسكة للطبقة النهائية من نوع RESTful بحيث يمكن استخلاص طبيعة أي سلسلة كتل مع معرفة كيفية الاستعلام عن أي عُقدة كاملة يتم تشغيلها بواسطة النظام، وهذا من أجل جمع المعلومات حول السلسلة وخصائص الشبكة التابعة لتلك السلسلة. في الكثير من الحالات، لا تعمل العملة الرمزية القابلة للتداول على سلسلة خاصة بها ولكن يتم تطبيقها سريعًا باستخدام نظام من العُقود التي يتم تشغيلها باستخدام سلسلة تسمح بإستخدام العُقود الذكية مثل Ethereum. في هذه الحالة، يتواصل هذا الموديل (module) مع العقدة الكاملة لهذه السلسلة والموديلات الأخرى، على سبيل المثال، موديل (module) التحليل الثابت الخاص بـ Ethereum المذكور لاحقاً في هذا المستند.
 
-A wide range of technology would be applicable for this layer, though in keeping with restricting several different technologies necessary to understand the full system, and using widely-deployed technologies, choosing a similar technology as the RESTful endpoint layer with which this module interacts would be prudent. A **node.js-based** module would thus be a wise choice, though other implementation technologies are certainly possible. Also, Ruby on Rails offers an extremely agile way to create REST APIs as well.
+يمكن تطبيق مجموعة واسعة من التكنولوجيا على هذه الطبقة، ولكن نظراً لمحدودية العديد من التقنيات المختلفة اللازمة لفهم النظام بالكامل واستخدام التقنيات التي يتم نشرها على نطاق واسع، اختيار تقنية مماثلة مثل الطبقة النهاية من نوع RESTful التي تتفاعل مع هذا الموديل (module) سيكون خيارا عاقلاً. موديل (module) **node.js-based** سيكون إختياراً حكيماً، رغم أن تقنيات التنفيذ الأخرى ممكنة بالتأكيد. كذلك، توفر Ruby on Rails طريقة سريعة للغاية لإنشاء واجهات برمجة تطبيقات REST أيضًا.
 
-To glean the most useful information about a blockchain, it’s usually necessary to run a full node that observes each incoming block. Doing so, it can provide real-time information on any of several important statistics, including chain height, inferring average and running average block times, block sizes, transaction counts, and any number of other properties visible to any full node. The interface for querying this full node is a decision made by the designers of the client in question, and is thus the responsibility of the blockchain statistics module to conform to this interface to normalize it into a form that can be consumed upstream by modules that are agnostic to the specific interface.
+للحصول على المعلومات الأكثر فائدة حول سلسلة معينة، من الضروري عادةً تشغيل عُقدة كاملة تراقب كل كتلة قادمة. عند القيام بذلك، يمكن أن تتوفر معلومات في الوقت الفعلي عن أي من الإحصائيات المهمة، بما في ذلك ارتفاع السلسلة (chain height)، إستنتاج متوسط وقت الكتل ومتوسط وقت تشغيلها، أحجام الكتل، عدد المعاملات وأي عدد من الخصائص الأخرى المعروضة لأي عُقدة كاملة. إن واجهة الاستعلام عن هذه العُقدة الكاملة هي قرار اتخذه مصممو العميل (client) المعني بالأمر، وبالتالي فهي مسؤولية موديل (module) إحصائيات السلسلة لتتوافق مع هذه الواجهة وتحويلها إلى نموذج يمكن أن تستهلكه الموديلات العليا التي لا تفضل واجهة محددة.
 
-A great number of the tokens being traded today are ERC20 tokens implemented on top of the Ethereum blockchain. Further, many of the most exciting tokens are part of a larger system of smart contracts that use an ERC20 token as their native token. Providing an in-depth analysis of these, and any smart contract system riding on top of Ethereum’s EVM is very useful for the high-level goals of Vespucci. This module thus exists to consume smart contract systems associated with some ERC20 tokens to grade them, at the code-level, on overall safety, the presence of bugs, and other important factors that can be ascertained with a static analysis of the contract code in a system of smart contracts. Much of its core logic is written in Python, and bridges are developed to the blockchain statistics module.
+عدد كبير من العملات الرمزية التي يتم تداولها اليوم هي بمثابة عملات ERC20 التي تم تطبيقها على رأس سلسلة كتل Ethereum. علاوة على ذلك، فإن العديد من العملات الرمزية المثيرة هي جزء من نظام أكبر من العُقود الذكية التي تستخدم عملات ERC20 كعملة أصلية خاصة بها. تقديم تحليل متعمق لهذه العُقود وأي نظام عقد ذكي يعمل على رأس الآلة الإفتراضية الخاصة بـ Ethereum مفيد للغاية لتحقيق أهداف Vespucci الكبيرة والمنشودة. وبالتالي، يوجد هذا الموديل (module) لاستهلاك أنظمة العُقود الذكية المرتبطة ببعض عملات ERC20 وذلك لأجل تصنيفها على مستوى الشفرة، على مستوى السلامة العامة، وجود الأخطاء، والعوامل المهمة الأخرى التي يمكن التحقق منها بتحليل ثابت لشفرة العَقد في نظام العُقود الذكية. يتم كتابة الكثير من جوهرها الأساسي بإستخدام لغة Python، ويتم تطوير الجسور إلى موديل (module) الإحصاءات الخاص بالسلسلة.
 
-* ### **USER EXPERIENCE**
+* ### **تجربة المستخدم**
 
-‪Vespucci has a User interface (UI) that allows for straightforward parameter input and coherently displays the resulting assessment metrics. The input interface provides a list with all available coins or a selection of the top ranked coins based on market cap value: the user may select those of interest to him/her. Alternatively, it is required for the user to provide the link to one (or more) cryptocurrency’s public blockchain along with the link to the project source code as basic inputs. The type and level of analysis to be performed on the given coin is chosen. More detailed analysis requires more inputs. ‬
+يملك Vespucci واجهة مستخدم (User interface) تسمح بإدخال الموسط مباشرة وتعرض بشكل متناسق مقاييس التقييم الناتجة. توفر واجهة الإدخال قائمة جميع العملات الإلكترونية المتاحة أو مجموعة مختارة من العملات الأعلى تصنيفا وفقا للقيمة السوقية: يمكن للمستخدم اختيار العملات التي تهمه/تهمها. عوضاً عن ذلك، يُطلب من المستخدم توفير رابط سلسلة عامة واحدة (أو أكثر) خاصة بعملة إلكترونية معينة بالإضافة إلى إدخلات أساسية تتمثل في رابط شفرة مصدر المشروع. يتم اختيار نوع ومستوى التحليل المراد تنفيذه على العملة المحددة. يتطلب التحليل الأكثر تفصيلا المزيد من المدخلات. ‬
 
-The results interface provides a collapsed view, providing an index for expandable sections that displays the selected metrics in detail. The collapsed view presents the colour-coded rating summary of a cryptocurrency. The colour-coded rating is calculated using a weighted average of all assessment metrics.‬ ‪Each expandable section displays the metric or group of metrics in a graphical manner. Assessment metrics are separated into different sections based on their represented information such as data relating to social perspective or a technical perspective. An optimal indexing of assessment metrics are determined to allow for intuitive UI interaction in accessing and view data of interest for the user.‬
+توفر واجهة النتائج طريقة عرض مطوية حيث توفر فهرسًا لمختلف الأقسام القابلة للتوسيع والتي تعرض المقاييس المحددة بأتمّ التفاصيل. تعرض طريقة العرض المطوية ملخص تصنيف العملة الإلكترونية مشفرا بإستخدام مختلف الألوان. يتم حساب التصنيف المشفر بإستخدام الألوان باستخدام متوسط مرجّح لجميع مقاييس التقييم. يعرض كل قسم قابل للتوسع المقياس أو مجموعة المقاييس بطريقة رسومية. يتم تجزئة مقاييس التقييم إلى أقسام مختلفة بناءً على المعلومات الخاصة بها مثل البيانات المتعلقة بالمنظور الاجتماعي أو الفني. يتم تحديد الفهرسة الأمثل لمقاييس التقييم لكي تسمح بتفاعل المستعمل مع واجهة المستخدم البديهية للوصول إلى البيانات التي تهمه ولعرضها
 
-Following the success of the Ethereum Wallet and Ethereum Mist browser, the main interface exposed to a user is hosted inside an Electron app. Electron is a mature technology introduced by Github to create modern desktop applications. Since Vespucci is not tied to Desktop-based APIs however, it is also possible to port this application to run inside of a browser. The interface for the app can be designed by using mature UI libraries for modern applications. With each component existing on its own, it is also straightforward to pull components out and add new ones as the product is trialed with users without adversely affecting the product as a whole.
+بعد نجاح Ethereum Wallet ومتصفح Ethereum Mist، سيتم استضافة الواجهة الرئيسية المعروضة للمستخدم داخل تطبيق Electron. Electron هي تقنية كاملة مقدمة من قِبل Github لإنشاء تطبيقات الكمبيوتر الحديثة. بالرغم من أن Vespucci غير مرتبط بواجهات برمجة التطبيقات المرتكز على الكمبيوتر، إلا أنه من الممكن النفاذ إلى هذا التطبيق من خلال المتصفح. يمكن تصميم واجهة التطبيق باستخدام مكتبات واجهة المستخدم الكاملة والخاصة بالتطبيقات الحديثة. نظرًا لإستقلال كل المكونات، من السهل سحب وإضافة مكونات جديدة لأن المنتج في فترة تجربة من قبل المستخدمين دون التأثير سلبًا على المنتج ككل.
 
-PLATFORM FEATURES
+ميزات المنصة
 
-* Show all parameters that were used to calculate Vespucci score.
-* Ability for the user to modify basic parameters for score configuration.
-* Display filters for cryptocoins.
-* Cryptocurrency index
-* Rating system of Vespucci using 5 stars rating system
-* Show general information and characteristics of the cryptocurrency of user’s choice
-* Sentiment analysis charts
-* Cryptocurrency distribution scheme
-* Transaction history
-* Technical Characteristics
-* Charts of activity on Github
-* Activity on social networks using points on world map
-* Ability to add other utility charts through a list of parameters
+* إظهار جميع الموسطات التي تم استخدامها لحساب درجة Vespucci.
+* قدرة المستخدم على تعديل الموسطات الأساسية لتكوين الدرجة.
+* عرض المرشحات لمختلف العملات.
+* مؤشر العملة الإلكترونية
+* نظام تقييم Vespucci باستخدام نظام تقييم الخمسة نجوم
+* إظهار المعلومات والخصائص العامة للعملة التي يختارها المستخدم
+* الرسوم البيانية الخاصة بتحليل نزعة السوق
+* مخطط توزيع العملة
+* سجل المعاملات
+* الخصائص التقنية
+* الرسوم البيانية للنشاط على Github
+* النشاط على شبكات التواصل الاجتماعية باستخدام نقاط على خريطة العالم
+* القدرة على إضافة الرسوم البيانية المفيدة الأخرى من خلال قائمة الموسطات
 
-USER OPTIONS
+خيارات المستخدم
 
-* Show all the encryption, next to the name and symbol of Vespucci’s rating.
-* Adjust rating system by selecting active Vespucci parameters.
-* Configure rating system by selecting the priority of the basic parameters and adjusting weights.
-* Be informed separately about the effect of the basic parameters via diagrams and gain a deeper picture of those that shape the fluctuation of the value of each currency.
-* Filter the list of cryptocurrencies according to the hash rate and the chronological period they were active on the market.
-* View cryptocurrency features in detail.
+* إظهار كل التشفير بجوار اسم ورمز تقييم Vespucci.
+* ضبط نظام التقييم عن طريق تحديد موسطات Vespucci النشطة.
+* تكوين نظام التقييم عن طريق تحديد أولوية الموسطات الأساسية وعبر ضبط الأوزان.
+* اطلاع المستخدم على تأثير الموسطات الأساسية من خلال الرسوم البيانية واكتسابه صورة أعمق لتأثير الموسطات على تقلب قيمة كل عملة.
+* تصفية قائمة العملات الإلكترونية وفقا لمعدل التجزئة وفترة النشاط في السوق.
+* عرض ميزات العملة بالتفصيل.
 
 ![](https://volentix.io/file/2019/01/main-dashboard-–-3@3x.png)
 
@@ -381,7 +381,7 @@ The outputs of all three constituents together with the corresponding price (the
 
 Regarding extensibility, Vespucci is particularly useful for Ethereum-based tokens. This represents many of the most exciting tradeable tokens today, but many new smart contract systems are being developed with their own very particular virtual machines and execution runtimes. This module can be seen as a specific instantiation of a number of other such modules which could be built for future smart contract systems. In particular, systems are likely to appear that expose a semantics especially amenable to formal verification, at which point Vespucci will be extended with new modules resembling this one for each new smart contract system that supports a range of valuable tokens. Overtime, and with the main pillars firmy rooted, the system is envisioned to also provide price prediction.
 
-**Deep learning and AI** are powerful technologies under rapid development today and may be employed in other parts of the Vespucci system besides the final phase of outputting the overall score. Below is a sketch of a basic neural network with a single hidden layer. Today’s deep networks have a multitude of such layers, whose power we shall exploit. Neural networks “learn” the appropriate weights by back-propagation. An important question is therefore the learning phase where historical data on cryptocurrencies, properly labeled, shall be employed. One issue is that the available data is limited and its labels may need curation: the created dataset shall become openly accessible as a contribution to the community.
+**التعلم العميق والذكاء الاصطناعي** هم عبارة على تقنيات قوية، حالياً قيد التطوير السريع حيث يمكن استخدامها في أجزاء أخرى من نظام Vespucci إلى جانب المرحلة الأخيرة من إخراج الدرجة الإجمالية. الرسم التخطيطي الأدنى يمثل شبكة عصبية أساسية بطبقة واحدة مخفية. تضم الشبكات العميقة حاليا العديد من هذه الطبقات التي سنستغل كامل قوتها. الشبكات العصبية "تتعلم" الأوزان المناسبة عن طريق الانتشار الخلفي (back-propagation). وبالتالي، فإن السؤال المهم هو مرحلة التعلم التي يتم فيها استخدام بيانات العملات التاريخية، والتي تحمل علامات صحيحة. إحدى المشاكل هي أن البيانات المتاحة محدودة وأن علاماتها قد تحتاج إلى تنسيق: يجب أن تصبح مجموعة البيانات المنشأة متاحة بشكل مفتوح كمساهمة للمجتمع.
 
 ![](https://volentix.io/file/2019/01/1-2.jpg)
 
@@ -417,7 +417,7 @@ Storage techniques may rely on off-chain Order books developed by VLabs, which i
 
 ![](https://volentix.io/file/2019/01/Web-1920-–-2@3x.png)
 
-يظهر الجدول الزمني للمشروع في الشكل أعلاه. الأحداث الرئيسية هي:  
+يمكن الإطلاع على الجدول الزمني للمشروع في الشكل أعلاه. الأحداث الرئيسية هي:  
 — Vespucci MVP. نوفمبر 2018 .  
 — إصدار Vespucci 1.0\. أفريل 2019.
 

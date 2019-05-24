@@ -8,7 +8,7 @@
 
 Volentix presenta VDex, progettato come una piattaforma decentralizzata per lo scambio di beni digitali con enfasi sull'user experience, sullo sviluppo della comunità e sulla governance. Attraverso l'utilizzo di tecnologie consolidate e la programmazione di nuovi protocolli selettivi dando priorità a sicurezza, velocità, autenticazione, facilità di utilizzo, scalabilità e supporto multi-asset, VDex vuole facilitare le transazioni di tipo peer-to-peer mettendo insieme un portfolio di applicazioni decentralizzate costruite sulla base degli smart contract di EOS.IO.
 
-Il punto di lancio VDex anticipa l'adeguamento dei requisiti di progettazione di Volentix alle tecnologie disponibili sovrapposte al sistema operativo decentralizzato EOS.IO. Abbiamo intenzione di testare le nostre ipotesi creando dei prototipi tramite software EZEOS personalizzato, che abbiamo costruito e personalizzato attraverso gli strumenti a riga di comando cleos di EOS.IO. Questo software risiede in: https://github.com/Volentix/ezeos
+Il punto di lancio VDex anticipa l'adeguamento dei requisiti di progettazione di Volentix alle tecnologie disponibili sul sistema operativo decentralizzato EOS.IO. Abbiamo intenzione di testare le nostre ipotesi creando dei prototipi tramite software EZEOS personalizzato, che abbiamo costruito e personalizzato attraverso gli strumenti a riga di comando cleos di EOS.IO. Questo software risiede in: https://github.com/Volentix/ezeos
 
 ![](../main3-3000px.jpg)
 
@@ -24,11 +24,11 @@ Lanciata recentemente nella versione di beta test, Venue permette agli utenti di
 
 ### 2.2 VERTO
 
-Verto viene costruito come un wallet multi-valuta da utilizzare con l'exchange decentralizzato Vdex, e intendo facilitare la custodia pesonale e la gestione locale delle chiavi private e delle chiavi pubbliche nelle transazioni peer-to-peer, con l'obiettivo di eliminare i rischi di devastanti perdite di stake associate a fallimenti traumatici degli operatori centrali. Verto intende utilizzare un sistema di smart contract per mantenere lo stato tra due clienti commerciali, mentre le operazioni più semplici sono effettuate con atomic swap.[1]
+Verto è stato costruito come un wallet multi-valuta da utilizzare con l'exchange decentralizzato VDex, e intende facilitare la custodia personale e la gestione locale delle chiavi private e delle chiavi pubbliche nelle transazioni peer-to-peer, con l'obiettivo di eliminare il rischio di devastanti perdite di stake associate a fallimenti traumatici degli operatori centrali. Verto intende utilizzare un sistema di smart contract per mantenere lo stato tra due clienti commerciali, mentre le operazioni più semplici vengono effettuate con atomic swap.[1]
 
 ### 2.3 VESPUCCI
 
-Vespucci è concepito come un motore di analisi accessibile tramite un'interfaccia facile da usare, contenenti dati, nascosti preziosi, di mercato in tempo reale e storici, come i rating dei beni digitali e l'analisi del sentimento. Vogliamo consentire agli utenti di generare grafici e confrontare gli asset digitali, accedere e analizzare i record di trading passati, tracciare tendenze e modelli, e monitorare e stimare gli sviluppi dei software open source. Vespucci si sforza di portare tra le vostre mani dati di mercato affidabili e completi, aggregando informazioni che sono attualmente sparse in una vasta gamma di blockchain, siti web, chat room ed exchange.
+Vespucci è concepito come un motore di analisi accessibile tramite un'interfaccia facile da usare, contenenti dati, nascosti preziosi, di mercato in tempo reale e storici, come i rating dei beni digitali e l'analisi del sentimento. Vogliamo offrire agli utenti gli strumenti necessari per generare grafici e confrontare gli asset digitali, accedere e analizzare i record di trading passati, tracciare tendenze e modelli, e monitorare e stimare gli sviluppi dei software open source. Vespucci si sforza di portare tra le vostre mani dati di mercato affidabili e completi, aggregando informazioni che sono attualmente distribuite in una vasta gamma di blockchain, siti web, chat room ed exchange.
 
 ### 2.4 VDEX
 
@@ -68,11 +68,11 @@ I contratti di servizio sono standardizzati per fornire una misura di base dell'
 
 #### 3.0.3 Comunicazione Inter-Contract
 
-I dati sono condivisi tra i contratti attraverso un oracolo, che, "nel contesto delle blockchain e degli smart contract, è un agente che trova e verifica eventi del mondo reale e invia queste informazioni ad una blockchain per essere utilizzati dagli smart contract". [4] Ogni nodo avrà una copia identica di questi dati, da utilizzare nella computazione degli smart contract. Piuttosto che essere lo smart contract a funzionare per estrarre i dati, è invece l'oracolo a inviare i dati alla blockchain. Nel caso di una blockchain, la maggior parte della lettura dei dati viene effettuata sondando''i modelli'' per monitorare lo stato della blockchain e per effettuare alcune azioni reattive.
+I dati sono condivisi tra i contratti attraverso un oracolo, che, "nel contesto delle blockchain e degli smart contract, è un agente che trova e verifica eventi del mondo reale e invia queste informazioni ad una blockchain per essere utilizzati dagli smart contract". [4] Ogni nodo avrà una copia identica di questi dati, da utilizzare nella computazione degli smart contract. Piuttosto che essere lo smart contract a funzionare per estrarre i dati, è invece l'oracolo a inviare i dati alla blockchain. Nel caso di una blockchain, la maggior parte della lettura dei dati viene effettuata attraverso il sondaggio di ''modelli'' per monitorare lo stato della blockchain e per effettuare alcune azioni reattive.
 
 #### 3.0.4 Sidechains
 
-In EOS.IO, l'emissione di un asset digitale crea una sidechain, cioè un meccanismo emergente che permette ad un bene digitale proveniente da una blockchain di essere utilizzato in modo sicuro in un altra blockchain e poi essere nuovamente spostato sulla blockchain originale. L'efficienza dell'elaborazione è incentivata dalla creazione di molteplici sidechain. Un canale di comunicazione tra blockchain diverse tipo TCP valuta le prove. Per ogni frammento (un'unità di esecuzione parallelizzabile in un ciclo), con questi impegni di azione viene costruito un albero di merkle equilibrato per generare una radice di merkle condivisa temporaneamente; ciò viene fatto per la velocità di calcolo parallelo. L'intestazione del blocco contiene la radice di un albero merkle bilanciato le cui foglie sono le radici di questi frammenti dell'albero merkle. [2]
+In EOS.IO, l'emissione di un asset digitale crea una sidechain, cioè un meccanismo emergente che permette ad un bene digitale proveniente da una blockchain di essere utilizzato in modo sicuro in un altra blockchain e poi essere nuovamente spostato sulla blockchain originale. L'efficienza dell'elaborazione è incentivata dalla creazione di molteplici sidechain. Un canale di comunicazione tra blockchain diverse tipo TCP valuta le prove. Per ogni frammento (un'unità di esecuzione parallelizzabile in un ciclo), con questi impegni di azione viene costruito un albero di merkle equilibrato per generare una radice di merkle condivisa temporaneamente; ciò viene fatto per la velocità di calcolo parallelo. L'intestazione del blocco contiene la radice di un albero di merkle bilanciato le cui foglie sono le radici di questi frammenti dell'albero di merkle. [2]
 
 #### 3.0.5 Liquidità
 
@@ -136,7 +136,7 @@ Ai fini della decentralizzazione, I nodi faranno a turno per impostare il regist
 
 ### 3.3 IMPOSTAZIONE ORDINE
 
-L'impostazione degli ordini contiene elementi noti delle operazioni tradizionali del mercato finanziario. Utilizzando la tecnologia FIFO per progettare il libro degli ordini, VDex intende controllare l'ordine, l'inventario, e il tasso di copertura di un ordine, così come i limit order e le cancellazioni. ![](../7.jpg)
+L'impostazione degli ordini contiene elementi noti delle operazioni tradizionali del mercato finanziario. Utilizzando la tecnologia FIFO per progettare il libro degli ordini, VDex intende controllare il libro degli ordini, l'inventario, e il tasso di copertura di un ordine, così come i limit order e le cancellazioni. ![](../7.jpg)
 
 ### 3.4 VTX
 
@@ -188,7 +188,7 @@ Le seguenti considerazioni sono rilevanti per il nostro utilizzo dell'exchange V
 
 La distribuzione di un contratto ha un costo ma l'utilizzo è gratuito.
 
-Gli sviluppatori investono token conformi a EOS. IO per distribuire uno smart contract. Dopo che il contratto è stato distribuito, i token bloccati vengono restituiti.
+Gli sviluppatori depositano token conformi a EOS. IO per distribuire uno smart contract. Dopo che il contratto è stato distribuito, i token bloccati vengono restituiti.
 
 Le applicazioni decentralizzate stanziano memoria, CPU, larghezza di banda, e altre risorse per i loro contratti.
 
@@ -198,7 +198,7 @@ Molteplici messaggi e molteplici account possono essere assegnati allo stesso th
 
 #### Comunicazione Inter-Blockchain
 
-EOS.IO è progettato per rendere più leggere le verifiche della Comunicazione Inter-Blockchain (IBC). Per le catene con capacità insufficiente per eleborare le prove IBC e stabilirne la validità, c'è un opzione per passare automaticamente agli escrow/oracle affidabili. Con uno smart contract basato su EOS.IO, un wallet di fiducia con multi-firma in cui è depositato l'asset può essere utilizzato per persuadere la firma/pubblicazione della transazione basata su prove IBC della catena di origine.
+EOS.IO è progettato per rendere più leggere le verifiche della Comunicazione Inter-Blockchain (IBC). Per le catene con capacità insufficiente per elaborare le prove IBC e stabilirne la validità, c'è un opzione per passare automaticamente agli escrow/oracle affidabili. Con uno smart contract basato su EOS.IO, un wallet di fiducia con multi-firma in cui è depositato l'asset può essere utilizzato per persuadere la firma/pubblicazione della transazione basata su prove IBC della catena di origine.
 
 #### 3.6.2 Informazione Multi-Blockchain
 
@@ -206,7 +206,7 @@ Le informazioni comprensibili su più blockchain si possono ottenere aggregando 
 
 ### 3.7 SECURITY CONCERNS
 
-To shake out certain assumptions, we intend to commence security testing following the prototyping phase. Le preoccupazioni in materia di sicurezza sono di vitale importanza per gli utenti e devono essere affrontate. Le minacce includono, ad esempio, un aggressore che esegue codice maligno all'interno di una transazione o manipola l'ordine delle transazioni o i timestamp dei blocchi. Nelle sezioni che seguono affrontiamo alcune misure di sicurezza e specifiche minacce alla sicurezza e rimedi.
+Per scrollarci di dosso certe supposizioni, abbiamo intenzione di iniziare i test della sicurezza subito dopo la fase di prototipazione. Le preoccupazioni in materia di sicurezza sono di vitale importanza per gli utenti e devono essere affrontate. Le minacce includono, ad esempio, un aggressore che esegue codice maligno all'interno di una transazione o manipola l'ordine delle transazioni o i timestamp dei blocchi. Nelle sezioni che seguono affrontiamo alcune misure di sicurezza e specifiche minacce alla sicurezza e rimedi.
 
 ### 3.8 MISURE DI SICUREZZA
 
@@ -240,7 +240,7 @@ True randomisation of address space layout, route or utilizing varying lengths o
 
 #### 3.8.4 Ispezione del registro
 
-Parsec non utilizza i registri per la determinazione del consenso. D'altro canto, RAFT ne avrà bisogno. In any case, Validator nodes will be designed to require minimal information To determine consensus as to minimize the transaction process time.
+Parsec non utilizza i registri per la determinazione del consenso. D'altro canto, RAFT ne avrà bisogno. In ogni caso, I nodi di validazione saranno progettati per richiedere la minima quantità di informazioni Per la determinazione del consenso così come per minimizzare il tempo necessario per processare la transazione.
 
 #### 3.8.5 Transazione come Proof of Stake (TaPoS)
 
@@ -254,9 +254,9 @@ Una doppia spesa e un tipo di attacco in cui un determinato stake di cryptocurre
 
 Un attacco di tipo race si verifica quando due transazioni in conflitto vengono inviate sulla rete in rapida successione.
 
-A Finney attack pre-mines one transaction into a block and spends the same tokens before releasing the block to invalidate that transaction.
+Un attacco di Finney pre-mina una transazione in un blocco e spende gli stessi token prima di rilasciare il blocco per invalidare quella transazione.
 
-Un attacco 51% può essere effettuato da chiunque possiede più del 50% della potenza di calcolo di una rete. A majority ownership position permits reversal of any transaction and allows total control of selection of transactions appearing in blocks. Sembra che EOS.IO, Loopring, e RAFT prevengono questo problema. Se un produttore di blocchi impiega una quantità irragionevole di runtime oppure non è sufficientemente redditizia, allora il processo viene inserito nella lista nera.[5]
+Un attacco 51% può essere effettuato da chiunque possiede più del 50% della potenza di calcolo di una rete. Una posizione di maggioranza azionaria permette l'inversione di qualsiasi transazione e permette il controllo totale della selezione delle transazioni che compaiono nei blocchi. Sembra che EOS.IO, Loopring, e RAFT prevengono questo problema. Se un produttore di blocchi impiega una quantità irragionevole di runtime oppure non è sufficientemente redditizia, allora il processo viene inserito nella lista nera.[5]
 
 #### 3.9.2 Front running
 
@@ -270,17 +270,17 @@ Gli utenti malintenzionati creano identità forgiate per inviare un gran numero 
 
 Gli utenti malintenzionati creano ed inviano ordini il cui valore è diverso da 0 ma il cui indirizzo ha un saldo pari a 0. I nodi controllano il saldo reale, aggiornano di conseguenza lo stato di questi ordini, e poi li scarta.
 
-#### 3.9.5 Timing attack
+#### 3.9.5 Attacco di tipo timing
 
-Gli attacchi di tipo Timing sono una classe di attacchi cryptografici attraverso i quali un osservatore di terze parti può dedurre il contenuto dei dati criptati registrando e analizzando il tempo necessario per l'esecuzione degli algoritmi di crittografia. L'algoritmo RAFT previene gli attacchi di tipo timing utilizzando i timeout in modo casuale.
+Gli attacchi di tipo timing sono una classe di attacchi crittografici attraverso i quali un osservatore di terze parti può dedurre il contenuto dei dati criptati registrando e analizzando il tempo necessario per l'esecuzione degli algoritmi di crittografia. L'algoritmo RAFT previene gli attacchi di tipo timing utilizzando i timeout in modo casuale.
 
 ### 3.10 USER EXPERIENCE
 
-Our focus on user experience is primary. Vogliamo rendere VTX e i quatro pilastri di Volentix --Venue, Verto, Vespucci, e VDex -- facilmente accessibili e utilizzabili da tutti coloro che desiderano unirsi alla nostra comunità. Ci aspettiamo che l'esperienza sia continuamente anche educativa, con modelli e simulatori per supportare una migliore relazione UX/UI.
+Our focus on user experience is primary. Vogliamo rendere VTX e i quattro pilastri di Volentix --Venue, Verto, Vespucci, e VDex -- facilmente accessibili e utilizzabili da tutti coloro che desiderano unirsi alla nostra comunità. Ci aspettiamo che l'esperienza sia continuamente anche educativa, con modelli e simulatori per supportare una migliore relazione UX/UI.
 
 ### 3.11 TRUE DECENTRALIZATION
 
-EOS.IO è un'infrastruttura scalabile e di tipo open source per applicazioni decentralizzate. Its goal is a fair and transparent block producer (BP) election process utilizing a democratic delegated proof of stake (DPoS) consensus. In particolare, poichè un sistema del genere è ancora agli inizi, ci saranno dei difetti. Pertanto, un certo grado di centralizzazione mantenuta è inevitabile e necessario. Però la nostra filosofia guida è una di decentralizzazione, e i nostri sforzi sono mirati a promuovere una riduzione nell'indipendenza da un autorità centrale.
+EOS.IO è un'infrastruttura scalabile e di tipo open source per applicazioni decentralizzate. Il suo obiettivo è un processo di votazione equo e trasparente per la produzione dei blocchi (BP) utilizzando un consenso democratico di delegated proof of stake (DPoS). In particolare, poiché un sistema del genere è ancora agli inizi, ci saranno dei difetti. Pertanto, un certo grado di centralizzazione mantenuta è inevitabile e necessario. Però la nostra filosofia guida è una di decentralizzazione, e i nostri sforzi sono mirati a promuovere una riduzione della dipendenza da un autorità centrale.
 
 Per esempio, inizialmente abbiamo intenzione di erigere un sistema per l'elezione dei nodi (per la risoluzione dei libri degli ordini) che non utilizzerà un orologio centrale condiviso o DPoS ma che si baserà o su timeout casuali per la determinazione dei leader in un elezione (RAFT) oppure su Directed Acyclic Graph (DAG) nel protocollo PARSEC.
 
@@ -294,7 +294,7 @@ Gli annunci quotidiani dello sviluppo di nuovo codice che influiscono sull'utili
 
 ## 4. PENSIERI CONCLUSIVI
 
-Tutti noi di Volentix stiamo dedicando il nostro lavoro e i nostri pensieri allo sviluppo di un programma basato sull'indipendenza e sull'empowerment. Se vuoi unirti a noi, qualunque siano le tue abilità, allora ti preghiamo di farlo e di studiare gli argomenti contenuti in questa white paper e le ulteriori pubblicazioni Volentix che condividiamo con la nostra community.
+Tutti noi di Volentix stiamo dedicando il nostro lavoro e i nostri pensieri allo sviluppo di un programma basato sull'indipendenza e sull'empowerment. Se vuoi unirti a noi, qualunque siano le tue abilità, allora ti preghiamo di farlo e di studiare gli argomenti contenuti in questa white paper e le ulteriori pubblicazioni Volentix che vengono continuamente condivise con la nostra community.
 
 ## 5. TIMELINE
 
@@ -302,7 +302,7 @@ Controlla il nostro sito web e i nostri social media per aggiornamenti e altri a
 
 ## DISCLAIMER (dichiarazione di esclusione di responsabilità)
 
-Questa white paper è stata preparata, ed è presentata, solo a scopo informativo. Le informazioni presentate non pretendono di essere complete. Le informazioni sono soggette a cambiamenti totali o parziali in qualsiasi momento senza alcun preavviso. Volentix Labs si riserva il diritto di modificare, sostituire, rimuovere, o cancellare qualsiasi informazione a discrezione unica ed esclusiva di Volentix. Volentix Labs non rilascia alcuna dichiarazione o garanzia, espressa o implicita, circa l'accuratezza o la completezza delle informazioni e declina espressamente ogni e qualsiasi responsabilità di qualsiasi tipo per le informazioni contenute o meno. Volentix Labs chiede ad ogni lettore di leggere le informazioni in modo completo e con la massima attenzione, e di intraprendere un'indagine e un'analisi indipendente delle informazioni e di chiedere e ottenere una consulenza professionale ai fini della valutazione delle informazioni. Per quanto a conoscenza di Volentix Labs, nessuna agenzia di regolamentazione, ente governativo o altro ente di terze parti di applicazione della legge ha esaminato, valutato o approvato in tutto o in parte le informazioni. Queste informazioni non sono un offerta o una richiesta di alcun tipo e non formano le base per alcun tipo di contratto o di impegno. Qualsiasi dichiarazione considerata lungimirante è puramente una questione di opinioni, e nessun lettore dovrebbe fare affidamento su tale dichiarazione o su qualsiasi parte o su tutte le informazioni in alcun modo.
+Questa white paper è stata preparata, ed è presentata, solo a scopo informativo. Le informazioni presentate non pretendono di essere complete. Le informazioni sono soggette a cambiamenti totali o parziali in qualsiasi momento e senza alcun preavviso. Volentix Labs si riserva il diritto di modificare, sostituire, rimuovere, o cancellare qualsiasi informazione a discrezione unica ed esclusiva di Volentix. Volentix Labs non rilascia alcuna dichiarazione o garanzia, espressa o implicita, circa l'accuratezza o la completezza delle informazioni e declina espressamente ogni e qualsiasi responsabilità di qualsiasi tipo per le informazioni contenute o meno. Volentix Labs chiede ad ogni lettore di leggere le informazioni in modo completo e con la massima attenzione, e di intraprendere un'indagine e un'analisi indipendente delle informazioni e di chiedere e ottenere una consulenza professionale ai fini della valutazione di tali informazioni. Per quanto a conoscenza di Volentix Labs, nessuna agenzia di regolamentazione, ente governativo o altre entità di terze parti di applicazione della legge ha esaminato, valutato o approvato in tutto o in parte le informazioni. Queste informazioni non sono un offerta o una richiesta di alcun tipo e non formano le base per alcun tipo di contratto o di impegno. Qualsiasi dichiarazione considerata lungimirante è puramente una questione di opinioni, e nessun lettore dovrebbe fare affidamento su tale dichiarazione o su qualsiasi parte o su tutte le informazioni in alcun modo.
 
 ## NOTE A PIÈ DI PAGINA
 
