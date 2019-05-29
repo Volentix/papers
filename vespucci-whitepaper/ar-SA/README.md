@@ -390,19 +390,19 @@
 يتكون ** خط الأنابيب الخاص بـ Vespucci**، كما هو موضح في الرسم البياني أدناه، من مجموعة من أجهزة الكمبيوتر، بها عقد للاستماع مختلف المصادر (مستمعين Vespucci، أو مجمعي البيانات)، منها وسائل التواصل الاجتماعي (Twitter ، Facebook ، reddit)، مواقع العملات الالكترونية (coinmarketcap.com)، و Github إلخ ، وكذلك العقد التي يمكن أن تؤدي خطوة تحليل البيانات التي تم جمعها (محللو Vespucci). يتم الاحتفاظ بالنتائج في قاعدة بيانات (مثل SQL) التي يمكن للمستخدم الوصول إليها من خلال الواجهة وبرمجياً بواسطة واجهة برمجة التطبيقات.
 
 * المستمعون عبارة عن عقد VM يستمعون/يبحثون بشكل دوري عن مصادر كل عملة. يتم الاحتفاظ بالمعلومات الجديدة المستخرجة عن كل عملة في قاعدة البيانات للشفافية.
-* The analyzer VM nodes are then triggered and the new collected data will be analyzed (Sentiment, Technical and Technological & Fundamental analysis) by the Vespucci Analyzer nodes. The results are stored in the database.
-* Finally, the UI is periodically refreshed, updating the current view of the user to include new analysis results.
+* ثم يتم تشغيل عقد محلل VM وتحليل البيانات الجديدة التي تم جمعها (نزعة السوق والتحليل الفني والتكنولوجي & الأساسي) من قبل عقد محلل Vespucci. يتم تخزين النتائج في قاعدة البيانات.
+* أخيرًا، يتم تحديث واجهة المستخدم بشكل دوري، وتحديث العرض الحالي للمستخدم ليشمل نتائج التحليل الجديدة.
 
-To effectiv ely manage our computer cluster consisting of listening and analyzing nodes, we offer a platform that facilitates any type of component architecture (a useful tool here is Kubernetes once we use Docker containers). We shall provide the API, but implementation details are decided by the developers. To provide concrete examples, f rameworks for distributed storage and processing of big data are considered, such as Apache Hadoop (or Cassandra). Hadoop is a collection of open-source software utilities that facilitate using a network of computers to solve problems involving massive amounts of data and computation, handling automatically the hardware failures. Other frameworks may be considered such as Apache Spark, which is a cluster-computing batch processing framework, with the ability to write applications in multiple languages (Java, Scala, Python, R). Alternatives include Apache Samza, which offers a near-realtime asynchronous framework for distributed stream processing, or Apache Flink, a hybrid framework for stream processes and batch tasks.
+للإدارة مجموعة أجهزة الكمبيوتر الخاصة بنا على نحو فعال والتي تتكون من عقد الاستماع والتحليل، نقدم منصة تسهل أي نوع من بنية المكونات (تعتبر Kubernetes أداة مفيدة هنا بمجرد استخدام حاويات Docker). سنقوم بتوفير واجهة برمجة التطبيقات، ولكن سيقرر المطورون تفاصيل التنفيذ. لتوفير أمثلة ملموسة، يتم النظر في أطر العمل لتخزين ومعالجة البيانات الكبيرة ، مثل Apache Hadoop (أو Cassandra). Hadoop هي عبارة عن مجموعة من الأدوات المساعدة المكونة من برامج مفتوحة المصدر التي تسهل استخدام شبكة من أجهزة الكمبيوتر لحل المشاكل التي تنطوي على كميات هائلة من البيانات والحساب، والتعامل تلقائيًا مع فشل الأجهزة. Other frameworks may be considered such as Apache Spark, which is a cluster-computing batch processing framework, with the ability to write applications in multiple languages (Java, Scala, Python, R). Alternatives include Apache Samza, which offers a near-realtime asynchronous framework for distributed stream processing, or Apache Flink, a hybrid framework for stream processes and batch tasks.
 
 ![](https://volentix.io/file/2019/01/Web-1920-–-3@2x.png)
 
-The **implementation** of the Vespucci analysis tools is in Python using various data analytics libraries, wrappers for the different APIs, and libraries for machine learning. The libraries to be used are some of the following:
+**تطبيق** أدوات التحليل الخاصة بـ Vespucci توجد في Python بإستخدام العديد من مكتبات تحليل البيانات، أغلفة مختلف واجهات برمجة التطبيقات، بالإضافة إلى مكتبات للتعلم الآلي. المكتبات المستخدمة هي بعض مما يلي:
 
-* NumPy, Pandas, Seaborn, matplotlib for the analysis part.
-* Scikit-learn, TensorFlow for machine learning.
-* NLTK, Tweepy, VADER, TextBlob for twitter sentiment analysis.
-* pyodbc to connect with our database.
+* NumPy ،Pandas ،Seaborn ،matplotlib للجزء الخاص بالتحليل.
+* Scikit-learn ،TensorFlow للتعلم الألي.
+* NLTK ،Tweepy ،VADER ،TextBlob لتحليل نزعة سوق twitter.
+* pyodbc للربط مع قاعدة بياناتنا.
 * Blockchair.com API and coinmarketcap, a wrapper around the coinmarketcap.com API, to obtain information about each coin, such as the market cap ranking, and to update them easily
 
 Initially, most of those processes run on Linux Virtual Machines and results are kept in SQL databases. In case of insufficiency, a serverless frameworks shall be considered. In the immediate future powerful servers with GPUs are designed to perform efficiently all of our analysis (Kubernetes may be relevant here, assuming Docker containers).
