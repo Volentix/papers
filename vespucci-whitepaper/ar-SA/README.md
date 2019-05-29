@@ -373,7 +373,7 @@
 
 ![](https://volentix.io/file/2019/01/main-dashboard-–-3@3x.png)
 
-* ### **OVERALL ARCHITECTURE AND IMPLEMENTATION**
+* ###**البنية العامة والتطبيق**
 
 We have discussed the three main subsystems of Fundamental / Technological Analysis, Technical Analysis, and Sentiment Analysis. All three pillars are imperfect. Furthermore, only the most experienced analysts can combine all three systems in one rating strategy. The final score for each cryptocurrency depends on each of the three components, weighted either by default values or by weighs provided by the user. Since we are firm believers in the value of the technology and the value of the team behind each cryptocurrency, FTA and, especially, the technological aspects are assigned a total weight of 50% by default. Based on research and trial of assessment parameters, appropriate weights are derived to quantifiably gauge the validity of a coin. We exploit recent breakthroughs in deep neural networks in order to automate the combination of scores without human intervention so as to avoid introducing direct or indirect bias.
 
