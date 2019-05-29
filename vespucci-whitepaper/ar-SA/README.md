@@ -393,7 +393,7 @@
 * ثم يتم تشغيل عقد محلل VM وتحليل البيانات الجديدة التي تم جمعها (نزعة السوق والتحليل الفني والتكنولوجي & الأساسي) من قبل عقد محلل Vespucci. يتم تخزين النتائج في قاعدة البيانات.
 * أخيرًا، يتم تحديث واجهة المستخدم بشكل دوري، وتحديث العرض الحالي للمستخدم ليشمل نتائج التحليل الجديدة.
 
-للإدارة مجموعة أجهزة الكمبيوتر الخاصة بنا على نحو فعال والتي تتكون من عقد الاستماع والتحليل، نقدم منصة تسهل أي نوع من بنية المكونات (تعتبر Kubernetes أداة مفيدة هنا بمجرد استخدام حاويات Docker). سنقوم بتوفير واجهة برمجة التطبيقات، ولكن سيقرر المطورون تفاصيل التنفيذ. لتوفير أمثلة ملموسة، يتم النظر في أطر العمل لتخزين ومعالجة البيانات الكبيرة ، مثل Apache Hadoop (أو Cassandra). Hadoop هي عبارة عن مجموعة من الأدوات المساعدة المكونة من برامج مفتوحة المصدر التي تسهل استخدام شبكة من أجهزة الكمبيوتر لحل المشاكل التي تنطوي على كميات هائلة من البيانات والحساب، والتعامل تلقائيًا مع فشل الأجهزة. Other frameworks may be considered such as Apache Spark, which is a cluster-computing batch processing framework, with the ability to write applications in multiple languages (Java, Scala, Python, R). Alternatives include Apache Samza, which offers a near-realtime asynchronous framework for distributed stream processing, or Apache Flink, a hybrid framework for stream processes and batch tasks.
+للإدارة مجموعة أجهزة الكمبيوتر الخاصة بنا على نحو فعال والتي تتكون من عقد الاستماع والتحليل، نقدم منصة تسهل أي نوع من بنية المكونات (تعتبر Kubernetes أداة مفيدة هنا بمجرد استخدام حاويات Docker). سنقوم بتوفير واجهة برمجة التطبيقات، ولكن سيقرر المطورون تفاصيل التنفيذ. لتوفير أمثلة ملموسة، يتم النظر في أطر العمل لتخزين ومعالجة البيانات الكبيرة ، مثل Apache Hadoop (أو Cassandra). Hadoop هي عبارة عن مجموعة من الأدوات المساعدة المكونة من برامج مفتوحة المصدر التي تسهل استخدام شبكة من أجهزة الكمبيوتر لحل المشاكل التي تنطوي على كميات هائلة من البيانات والحساب، والتعامل تلقائيًا مع فشل الأجهزة. يمكن اعتبار الأطر الأخرى مثل Apache Spark، وهو إطار معالجة دُفعات مجموعة أجهزة الكمبيوتر، مع إمكانية كتابة التطبيقات بلغات متعددة (Java، Scala، Python و R). Alternatives include Apache Samza, which offers a near-realtime asynchronous framework for distributed stream processing, or Apache Flink, a hybrid framework for stream processes and batch tasks.
 
 ![](https://volentix.io/file/2019/01/Web-1920-–-3@2x.png)
 
@@ -403,9 +403,9 @@
 * Scikit-learn ،TensorFlow للتعلم الألي.
 * NLTK ،Tweepy ،VADER ،TextBlob لتحليل نزعة سوق twitter.
 * pyodbc للربط مع قاعدة بياناتنا.
-* Blockchair.com API and coinmarketcap, a wrapper around the coinmarketcap.com API, to obtain information about each coin, such as the market cap ranking, and to update them easily
+* واجهة برمجة تطبيقات Blockchair.com و coinmarketcap هي عبارة عن غلاف حول واجهة برمجة تطبيقات coinmarketcap.com للحصول على معلومات حول كل عملة، مثل تصنيف الحد الأقصى للسوق وتحديثها بسهولة
 
-Initially, most of those processes run on Linux Virtual Machines and results are kept in SQL databases. In case of insufficiency, a serverless frameworks shall be considered. In the immediate future powerful servers with GPUs are designed to perform efficiently all of our analysis (Kubernetes may be relevant here, assuming Docker containers).
+في البداية، يتم تشغيل معظم هذه العمليات على ألات Linux الإفتراضية ويتم الاحتفاظ بالنتائج في قواعد بيانات SQL. In case of insufficiency, a serverless frameworks shall be considered. In the immediate future powerful servers with GPUs are designed to perform efficiently all of our analysis (Kubernetes may be relevant here, assuming Docker containers).
 
 For Sentiment Analysis, and possibly other modules as well, a **node.js** system is used, though alternative implementations are easily swappable. The aggregate information being recorded, and continuously being derived, storing it in a static place is a requirement for the final version of Vespucci. MongoDB can be used by the other modules in the system to read and write such information. MongoDB is a mature document-oriented database useful in storing structured information, as is the case for the data that exists in the Vespucci system. An alternative may be CockroachDB.
 
