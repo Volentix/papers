@@ -413,7 +413,7 @@ Vespucci **data** sources may include, but not be limited to: historic trading r
 
 Storage techniques may rely on off-chain Order books developed by VLabs, which is a sophisticated data structure with high security standards. It relies on EOS.IO, and its persistence API. One advantage of such a system is that it is not expensive; on the other hand, it is sufficiently efficient for our purposes. While transactions are handled by the VDex, non-transactional data will remain off-chain.
 
-* ### **TIMELINE**
+* ### **الجدول الزمني**
 
 ![](https://volentix.io/file/2019/01/Web-1920-–-2@3x.png)
 
