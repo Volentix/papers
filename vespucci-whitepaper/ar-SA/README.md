@@ -411,7 +411,7 @@ For Sentiment Analysis, and possibly other modules as well, a **node.js** system
 
 Vespucci **data** sources may include, but not be limited to: historic trading records, trading trends, developer activity and plan analysis, digital asset distribution and governance information, terms and conditions and current and historic address balances as well as forum sentiment analysis. This information can be found scattered among blockchain explorer sites and chat rooms. In particular, Sentiment analysis (see relevant [section](https://docs.google.com/document/d/1NLr-rgF66NCBmLmPIdElltKYVPJrLVO7DZDpcNEm6OU/edit?ts=5bec2f33#heading=h.tuaauijo691s)) would require data on all coins for a limited period of time. This is a vast amount of data and in order to minimise the impact that data will have on the system, we employ big data techniques of compression, aggregation, and filtering.
 
-Storage techniques may rely on off-chain Order books developed by VLabs, which is a sophisticated data structure with high security standards. It relies on EOS.IO, and its persistence API. One advantage of such a system is that it is not expensive; on the other hand, it is sufficiently efficient for our purposes. While transactions are handled by the VDex, non-transactional data will remain off-chain.
+يمكن أن تعتمد تقنيات التخزين على دفتر طلبات خارج السلسلة مطور من قبل VLabs، وهي بنية بيانات معقدة ذات معايير أمان عالية. تعتمد هذه التقنيات على EOS.IO وواجهة تطوير تطبيقات ثابتة خاصة بها. من ميزات هذا النظام أنه ليس باهظ الثمن لكنه فعال بما فيه الكفاية لتحقيق أغراضنا. بينما تتم معالجة المعاملات بواسطة VDex، ستبقى البيانات غير المتعلقة بالمعاملات خارج السلسلة.
 
 * ### **الجدول الزمني**
 
