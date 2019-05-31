@@ -8,13 +8,13 @@ L'esplosione relativamente recente delle criptovalute ha attirato molta popolari
 
 Vespucci fa parte dell'ecosistema Volentix. In particolare, implementa uno dei pilastri principali dell'ecosistema Volentix, di cui VDex è il fulcro. VDex is a decentralized exchange with the user and community in mind. Vespucci, oltre ad essere una utility di audit e valutazione di asset digitali accessibile ai non esperti, è anche uno strumento per tracciare e affiancare asset digitali commerciabili. Inoltre, fornisce una dashboard per l'attività delle cripto monete nel mondo digitale.
 
-Il nostro obiettivo primario è quello di offrire a tutti gli utenti di asset digitali un agente analitico intuitivo e un sistema di rating per gli asset digitali, unendo i seguenti aspetti (vedi figura sotto):
+Il nostro obiettivo primario è quello di offrire a tutti gli utilizzatori di asset digitali un agente analitico intuitivo e un sistema di rating per gli asset digitali, unendo i seguenti aspetti (vedi figura sotto):
 
 * un misuratore del sentiment per l'analisi del sentiment (SA),
 * analisi tecnica (TA), e
 * analisi fondamentale / tecnologica (FTA).
 
-Vespucci offers for the first time a well-rounded profile of each digital asset of interest along with a live rating, representing a combination of different indicators, based on the principles of decentralized governance, peer privacy, public ledger via a public blockchain, and open source code. Di conseguenza, la sua analisi è libera da pregiudizi da parte di specifici individui o gruppi di interesse e i metodi utilizzati sono oggetto di esame e di discussione da parte della comunità. Le applicazioni decentralizzate offrono un cambiamento di paradigma nella tecnologia attuale; un esempio particolarmente rilevante è rappresentato dagli exchange di cripto monete emergenti. Utilizzando alcuni dei più potenti metodi all'avanguardia, il nostro approccio si attiene a standard aperti e ai principi di facilità d'utilizzo.
+Vespucci offers for the first time a well-rounded profile of each digital asset of interest along with a live rating, representing a combination of different indicators, based on the principles of decentralized governance, peer privacy, public ledger via a public blockchain, and open source code. Di conseguenza, la sua analisi è libera dai pregiudizi di specifici individui o gruppi di interesse e i metodi utilizzati sono oggetto di esame e di discussione da parte della comunità. Le applicazioni decentralizzate offrono un cambiamento di paradigma nella tecnologia attuale; un esempio particolarmente rilevante è rappresentato dagli exchange di criptovalute emergenti. Utilizzando alcuni dei più potenti metodi all'avanguardia, il nostro approccio si attiene a standard aperti e ai principi di facilità d'utilizzo.
 
 Architettura generale di Vespucci
 
@@ -22,11 +22,11 @@ Architettura generale di Vespucci
 
 * ### **OBJECTIVE**
 
-Vespucci offre una piattaforma web-based per consentire agli utenti di navigare tra i dati relativi alle cripto monete e prendere decisioni informate sul trading e sull'utilizzo degli asset digitali. In particolare, fornisce:
+Vespucci offre una piattaforma web-based per consentire agli utenti di navigare tra i dati relativi alle criptovalute e prendere decisioni informate sul trading e sull'utilizzo degli asset digitali. In particolare, fornisce:
 
-* Un agente analitico intuitivo che porta ad una visione d'insieme di facile comprensione delle criptovalute.
+* Un agente analitico intuitivo che porta ad una visione d'insieme delle criptovalute di facile comprensione.
 * Un sistema di valutazione delle criptovalute, compresa la valutazione del rischio.
-* Una dashboard per le notizie riguardanti le criptomonete.
+* Una dashboard per le notizie riguardanti le criptovalute.
 
 ![](https://volentix.io/file/2019/01/02-icon.jpg)
 
