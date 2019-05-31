@@ -44,13 +44,13 @@ Le funzioni di Vespucci sono le seguenti.
 * Combinazione di uno spettro completo di criteri che vanno dall'Analisi Fondamentale / Tecnologica agli aspetti tecnici / economici fino ad un misuratore del sentiment.
 * Trasparenza nella metodologia (fonti dei dati, meccanismo di ingestione, processo di manipolazione dei dati, algoritmi)
 * Ampia gamma di fonti (per evitare dati di parte)
-* Design modulare che offre la possibilità di estendere la piattaforma ad altre applicazione come ad esempio smart contract.
+* Design modulare che offre la possibilità di estendere la piattaforma ad altre applicazioni come ad esempio smart contract.
 * Sicurezza: Fonti dei Dati sulla Blockchain EOS (VLabs)
 * Alta precisione utilizzando metodi di Valutazione sofisticati, AI, e Apprendimento Profondo
 * Intuitive algorithms, possibility for weighs given by user, Post-processing for humans.
 * #### **PRINCIPLES**
 
-Vespucci è conceputo basandosi sui seguenti principi.
+Vespucci è progettato sulla base dei seguenti principi.
 
 * Obbiettivo per non rischiare di compromettere la buona volontà di Volentix DAO prima che venga accertata senza alcun dubbio
 * Automatizzato
@@ -60,9 +60,9 @@ Vespucci è conceputo basandosi sui seguenti principi.
 * Intuitivo
 * #### **COME FUNZIONA VESPUCCI**
 
-I tre pilastri sono descritti nelle seguenti sottosezioni. In queste sottosezioni vengono menzionati un gran numero di criteri. I risultati del componente SA vengono messi a disposizione degli utenti, insieme ai risultati Tecnici e FTA, in modo che possano accedere a una visione completa a 360 gradi dello stato di ogni moneta, della classifica, ed infine, comprendere il vero valore e il potenziale della moneta. Viene eseguita una valutazione sia delle valute consolidate che delle "monete di tipo scam" conosciute, ed i parametri che ne risultano ritenuti più rilevanti per determinare la validità della moneta criptata sono integrati nel sistema.
+I tre pilastri sono descritti nelle seguenti sottosezioni. In queste sottosezioni vengono menzionati un gran numero di criteri. I risultati del componente SA vengono messi a disposizione degli utenti, insieme ai risultati Tecnici e FTA, in modo che possano accedere a una visione completa a 360 gradi dello stato di ogni moneta, della classifica, ed infine, comprendere il vero valore e il potenziale della moneta. Viene eseguita una valutazione sia delle valute consolidate che delle "monete di tipo scam" conosciute, ed i parametri risultanti, ritenuti più rilevanti per la determinazione della validità della criptovaluta, vengono integrati nel sistema.
 
-Al fine di testare Vespucci in una versione semipubblica utilizzando potenziali volontari, il sistema viene presentato a diversi utenti esterni per il bug testing delle funzioni del sistema di valutazione e dell'interfaccia utente. Si svolge in un ambiente pubblico attraverso l'organizzazione di una versione beta chiusa. Users are selected to allow for more constructive and relevant feedback information.‬ ‪An ongoing iterative process of tweaks, fixes, and adjustments will take place during the beta release from the insight derived from user feedback.‬
+Al fine di testare Vespucci in una versione semi pubblica utilizzando potenziali volontari, il sistema viene presentato a diversi utenti esterni per il bug testing delle funzioni del sistema di valutazione e dell'interfaccia utente. Questo si svolge in un ambiente pubblico attraverso l'organizzazione di una versione beta chiusa. Users are selected to allow for more constructive and relevant feedback information.‬ ‪An ongoing iterative process of tweaks, fixes, and adjustments will take place during the beta release from the insight derived from user feedback.‬
 
 * ### **PILASTRI**
 
