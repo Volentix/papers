@@ -16,17 +16,17 @@
 
 ## Venue
 
-تم التخطيط لـ Venue كمنصة ديناميكية للتواصل الإجتماعي حيث تقوم بجلب وتنظيم أعضاء مجتمع VOLENTIX لتسهيل توزيع العملات الرمزية الأصلية التي تُعرف بـ VTX وتعزيز الوعي بمبادرات مجتمع VOLENTIX. An initial VENUE signature campaign is underway. Please visit <https://venue.volentix.io> for more information.
+تم التخطيط لـ Venue كمنصة ديناميكية للتواصل الإجتماعي حيث تقوم بجلب وتنظيم أعضاء مجتمع VOLENTIX لتسهيل توزيع العملات الرمزية الأصلية التي تُعرف بـ VTX وتعزيز الوعي بمبادرات مجتمع VOLENTIX. هنالك حملة أولية جارية لتوقيع VENUE. الرجاء زيارة <https://venue.volentix.io> للمزيد من المعلومات.
 
 ## Verto
 
-Verto will be a multi-currency wallet for use with the VDEX exchange, and intends to facilitate custody of private keys for use in peer-to-peer transactions. Both private and public keys will be locally managed, with the goal of eliminating the risks of devastating losses of stake associated with traumatic failures of central operators. Please read the VERTO primer by visiting <http://verto.vdex.io/>
+ستكون Verto عبارة عن محفظة متعددة العملات، قابلة للاستخدام مع منصة فدكس للتبادل، وتعتزم تسهيل حفظ المفاتيح الخاصة لاستخدامها في معاملات النظير إلى النظير. سيتم إدارة كل من المفاتيح الخاصة والعامة محليًا بهدف إزالة مخاطر الخسائر المدمرة في الحصص المرتبطة بالفشل الصادم الخاص بالمشغلين المركزيين. Please read the VERTO primer by visiting <http://verto.vdex.io/>
 
 ## Vespucci
 
 من المتوقع أن يكون Vespucci بمثابة محرك تحليلي يمكن الوصول إليه عبر واجهة سهلة الاستخدام مع مجموعات ثرية من بيانات السوق في الوقت الحالي، مثل التقييمات وتحليل توجه السوق. نرغب في تمكين المستخدمين من خلال أدوات لرسم ومقارنة الأصول الرقمية القابلة للتداول، الوصول إلى سجلات التداول التاريخية وتحليلها، رسم الاتجاهات والأنماط وكذلك رصد وتقييم تطورات البرامج مفتوحة المصدر. يسعى VESPUCCI إلى أن يوفر في متناول يديك بيانات موثوقة وشاملة متعلقة بالسوق من خلال تجميع المعلومات المنتشرة حاليًا عبر العديد من سلاسل الكتل المختلفة، مواقع الويب، غرف الدردشة والتبادلات. هذا التطبيق قيد التطوير حاليًا من خلال شركة Pythagoras Systems التابعة لنا.
 
-The fourth pillar of VOLENTIX is the decentralized VDEX exchange, a tradable digital assets platform introduced in detail in our white paper available to view at [https://volentix.io/documentation/vdex-whitepaper](https://volentix.io/documentation/vdex-whitepaper/).
+الدعامة الرابع من VOLENTIX هي عبارة عن مبادل VDEX اللامركزي، وهو يمثل منصة أصول رقمية قابلة للتداول تم تقديمها بالتفصيل في وثيقتنا البيضاء المتاحة للعرض على [ https://volentix.io/documentation/vdex-whitepaper ](https://volentix.io/documentation/vdex-whitepaper/).
 
 ## VDex
 
