@@ -44,20 +44,20 @@
 
 خلال التفكير في التصميم التكنولوجي، قمنا بتقييم مختلف أنظمة التشغيل الحالية (والناشئة). يعتبر برنامج EOS.IO مثالي. EOS.IO هو بنية أساسية مفتوحة المصدر قابلة للتوسع للتطبيقات اللامركزية. يمكننا الاستفادة من الميزات القياسية التي يقدمها EOS.IO مثل إنشاء حسابات ومحافظ، ونخطط أيضًا لتنفيذ بروتوكولات لإنشاء تبادل VDEX اللامركزي من خلال عقود EOS وغيرها من الأدوات.
 
-We aim to make VTX and the four pillars of VOLENTIX — VENUE, VERTO, VESPUCCI, and VDEX — easily accessible to and usable by all those who wish to join our community. We plan a user interface that makes available to you relevant market data as well as your account information. We expect the experience to be enhanced by continuing education, with templates and simulators to support a superior UX/UI relationship.
+نهدف إلى جعل VTX والدعائم الأربعة لـ VOLENTIX (المتمثلة في VENUE، VERTO، VESPUCCI، وVDEX) سهلة الوصول حيث يمكن استخدامها من قبل جميع أولئك الذين يرغبون في الانضمام إلى مجتمعنا. نحن نخطط لواجهة مستخدم تتيح لك بيانات السوق ذات الصلة وكذلك معلومات حسابك. نتوقع تعزيز التجربة من خلال التعلم المستمر، مع القوالب والمحاكاة لدعم علاقة UX / UI متفوقة.
 
 ## الفلسفة والالتزام
 
 فلسفتنا الأساسية هي اللامركزية وتهدف جهودنا المستمرة إلى تشجيع تقليل الاعتماد على السلطة المركزية. الميزة الهائلة لفلسفة الشفرة مفتوحة المصدر  
-هي أن هناك كل يوم إعلانات عن تطورات جديدة في الشفرة تؤثر على التداول والإستعمال الآمن للأصول الرقمية. Our premise is security and ease of operation. Prudence mandates education. The most important asset is knowledge.
+هي أن هناك كل يوم إعلانات عن تطورات جديدة في الشفرة تؤثر على التداول والإستعمال الآمن للأصول الرقمية. إفتراضنا الأساسي هو الأمن وسهولة التعامل. التريث يفرض التعليم. أهم الأصول هي المعرفة.
 
-All of us at VOLENTIX are dedicating sizable quantities of work and insights to developing a program premised on empowerment and independence. Please monitor our website and social media for updates and other important announcements. Thank you very much for your attention and interest.
+جميعنا في VOLENTIX نكرس كميات كبيرة من العمل والرؤى لتطوير برنامج قائم على التمكين والاستقلال. يرجى مراقبة موقعنا على شبكة الإنترنت ووسائل الإعلام الاجتماعية للحصول على التحديثات والإعلانات الهامة الأخرى. شكرا جزيلا على اهتمامك.
 
-Volentix Labs
+مختبرات Volentix
 
-## Disclaimer
+## إخلاء المسؤولية
 
-FOR INFORMATION PURPOSES ONLY. This information does not purport to be comprehensive. The information is subject to change in whole or in part at any time without notice. Volentix Labs reserves the right to amend, replace, remove, or delete any and all information at the sole and exclusive discretion of Volentix Labs. Volentix Labs makes no representation or warranty, expressed or implied, concerning the accuracy or completeness of the information and expressly disclaims any and all liability of any and all kinds whatsoever for the information contained or not contained. Volentix Labs requests each and every reader to read the information fully and carefully, and to undertake independent investigation and analysis of the information, and to seek and obtain professional advice for purposes of evaluating the information. To the knowledge of Volentix Labs, no regulatory agency, government, or other third-party enforcement entity has reviewed, evaluated, or approved any part or all of the information. This information is not an offer or solicitation of any kind whatsoever and does not form the basis for any contract or commitment of any kind whatsoever. Any statement considered to be forward-looking is purely a matter of opinion, and no viewer should rely on any such statement or on any part or all of the information in any way whatsoever.
+لغرض المعلومات فقط. This information does not purport to be comprehensive. The information is subject to change in whole or in part at any time without notice. Volentix Labs reserves the right to amend, replace, remove, or delete any and all information at the sole and exclusive discretion of Volentix Labs. Volentix Labs makes no representation or warranty, expressed or implied, concerning the accuracy or completeness of the information and expressly disclaims any and all liability of any and all kinds whatsoever for the information contained or not contained. Volentix Labs requests each and every reader to read the information fully and carefully, and to undertake independent investigation and analysis of the information, and to seek and obtain professional advice for purposes of evaluating the information. To the knowledge of Volentix Labs, no regulatory agency, government, or other third-party enforcement entity has reviewed, evaluated, or approved any part or all of the information. This information is not an offer or solicitation of any kind whatsoever and does not form the basis for any contract or commitment of any kind whatsoever. Any statement considered to be forward-looking is purely a matter of opinion, and no viewer should rely on any such statement or on any part or all of the information in any way whatsoever.
 
 ## القيود المفروضة على سكان الولايات المتحدة الأمريكية.
 
