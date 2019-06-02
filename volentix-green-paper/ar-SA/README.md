@@ -12,11 +12,11 @@
 
 ## مدخل السوق
 
-To address the prevailing market mandate, the VOLENTIX ecosystem introduces an initializing array of four digital applications, specifically known as VENUE, VERTO, VESPUCCI, and VDEX.
+لمعالجة تفويض السوق السائد، تقدم بيئة VOLENTIX مجموعة من أربعة تطبيقات رقمية تُعرف على وجه التحديد باسم VESPUCCI ،VERTO ،VENUE و VDEX.
 
 ## Venue
 
-Venue is planned as a dynamic community platform that recruits and aligns members of the VOLENTIX community to facilitate distribution of the native VTX token, and to promote awareness of VOLENTIX community initiatives. An initial VENUE signature campaign is underway. Please visit <https://venue.volentix.io> for more information.
+تم التخطيط لـ Venue كمنصة ديناميكية للتواصل الإجتماعي حيث تقوم بجلب وتنظيم أعضاء مجتمع VOLENTIX لتسهيل توزيع العملات الرمزية الأصلية التي تُعرف بـ VTX وتعزيز الوعي بمبادرات مجتمع VOLENTIX. An initial VENUE signature campaign is underway. Please visit <https://venue.volentix.io> for more information.
 
 ## Verto
 
@@ -24,7 +24,7 @@ Verto will be a multi-currency wallet for use with the VDEX exchange, and intend
 
 ## Vespucci
 
-من المتوقع أن يكون Vespucci بمثابة محرك تحليلي يمكن الوصول إليه عبر واجهة سهلة الاستخدام مع مجموعات ثرية من بيانات السوق في الوقت الحالي، مثل التقييمات وتحليل توجه السوق. We wish to empower users with tools to graph and compare tradeable digital assets, to access and parse historical trading records, to plot trends and patterns, and to monitor and assess open-source software developments. VESPUCCI seeks to bring to your fingertips confident and comprehensive market-relevant data by aggregating the information currently scattered throughout many different blockchains, websites, chat rooms, and exchanges. This application is currently in development by our affiliate Pythagoras Systems.
+من المتوقع أن يكون Vespucci بمثابة محرك تحليلي يمكن الوصول إليه عبر واجهة سهلة الاستخدام مع مجموعات ثرية من بيانات السوق في الوقت الحالي، مثل التقييمات وتحليل توجه السوق. نرغب في تمكين المستخدمين من خلال أدوات لرسم ومقارنة الأصول الرقمية القابلة للتداول، الوصول إلى سجلات التداول التاريخية وتحليلها، رسم الاتجاهات والأنماط وكذلك رصد وتقييم تطورات البرامج مفتوحة المصدر. يسعى VESPUCCI إلى أن يوفر في متناول يديك بيانات موثوقة وشاملة متعلقة بالسوق من خلال تجميع المعلومات المنتشرة حاليًا عبر العديد من سلاسل الكتل المختلفة، مواقع الويب، غرف الدردشة والتبادلات. هذا التطبيق قيد التطوير حاليًا من خلال شركة Pythagoras Systems التابعة لنا.
 
 The fourth pillar of VOLENTIX is the decentralized VDEX exchange, a tradable digital assets platform introduced in detail in our white paper available to view at [https://volentix.io/documentation/vdex-whitepaper](https://volentix.io/documentation/vdex-whitepaper/).
 
