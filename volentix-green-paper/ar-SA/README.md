@@ -6,12 +6,11 @@
 
 نتوقع أن يتم اطلاق VDex عند مطابقة متطلبات تصميم Volentix بالتكنولوجيات المتاحة التي يتم تركيبها على نظام التشغيل اللامركزي EOS.IO. نعتزم اختبار افتراضاتنا عن طريق النماذج الأولية عبر برنامج EZEOS المخصص، الذي قمنا ببنائه وتخصيصه باستخدام أدوات سطر الأوامر القريبة من EOS.IO. يوجد هذا البرنامج على: https://github.com/Volentix/ezeos
 
-## إدارة السوق
+## تفويض السوق
 
-في العقد الثاني منذ ظهور الـ Bitcoin، يتم تعريف سوق الأصول الرقمية من خلال الارتفاعات والانخفاضات المذهلة التي يعيشها نسبة ضئيلة من سكان العالم الذين يقومون بتداول آلاف العملات الرقمية والتي يعتبر الكثير منها إحتيالاً. بالنظر إلى عمليات الاحتيال في الماضي ومراقبة قيمة تقنيات التطبيقات الرقمية الموثوقة والناشئة في السنوات العشر الماضية ،فإننا إذا ما أردنا التقدم ونشر هذه التقنيات، فعلينا أن ندخلها التيار. يجب استخدام العملات الرقمية المشروعة في التجارة الواسعة. And the primary focus of digital assets proliferation must be to simplify and enrich user experience. The choices of which existing technologies to employ and which unavailable technologies to develop must be driven by comfort, certainty, and security of user  
-transactions and related experiences.
+في العقد الثاني منذ ظهور الـ Bitcoin، يتم تعريف سوق الأصول الرقمية من خلال الارتفاعات والانخفاضات المذهلة التي يعيشها نسبة ضئيلة من سكان العالم الذين يقومون بتداول آلاف العملات الرقمية والتي يعتبر الكثير منها إحتيالاً. بالنظر إلى عمليات الاحتيال في الماضي ومراقبة قيمة تقنيات التطبيقات الرقمية الموثوقة والناشئة في السنوات العشر الماضية ،فإننا إذا ما أردنا التقدم ونشر هذه التقنيات، فعلينا أن ندخلها التيار. يجب استخدام العملات الرقمية المشروعة في التجارة الواسعة. ويجب أن يكون التركيز الأساسي لانتشار الأصول الرقمية هو تبسيط وإثراء لتجربة المستخدم. يجب أن تكون الدوافع وراء اختيارات التقنيات الحالية التي ستستخدم و التقنيات الغير المتوفرة التي سيتم تطويرها، هي الراحة، اليقين، أمان معاملات المستخدم والخبرات.
 
-## MARKET ENTRY
+## مدخل السوق
 
 To address the prevailing market mandate, the VOLENTIX ecosystem introduces an initializing array of four digital applications, specifically known as VENUE, VERTO, VESPUCCI, and VDEX.
 
@@ -25,7 +24,7 @@ Verto will be a multi-currency wallet for use with the VDEX exchange, and intend
 
 ## Vespucci
 
-Vespucci is envisioned as an analytics engine accessible via a user-friendly interface with real-time treasure troves of market data, such as ratings and sentiment analysis. We wish to empower users with tools to graph and compare tradeable digital assets, to access and parse historical trading records, to plot trends and patterns, and to monitor and assess open-source software developments. VESPUCCI seeks to bring to your fingertips confident and comprehensive market-relevant data by aggregating the information currently scattered throughout many different blockchains, websites, chat rooms, and exchanges. This application is currently in development by our affiliate Pythagoras Systems.
+من المتوقع أن يكون Vespucci بمثابة محرك تحليلي يمكن الوصول إليه عبر واجهة سهلة الاستخدام مع مجموعات ثرية من بيانات السوق في الوقت الحالي، مثل التقييمات وتحليل توجه السوق. We wish to empower users with tools to graph and compare tradeable digital assets, to access and parse historical trading records, to plot trends and patterns, and to monitor and assess open-source software developments. VESPUCCI seeks to bring to your fingertips confident and comprehensive market-relevant data by aggregating the information currently scattered throughout many different blockchains, websites, chat rooms, and exchanges. This application is currently in development by our affiliate Pythagoras Systems.
 
 The fourth pillar of VOLENTIX is the decentralized VDEX exchange, a tradable digital assets platform introduced in detail in our white paper available to view at [https://volentix.io/documentation/vdex-whitepaper](https://volentix.io/documentation/vdex-whitepaper/).
 
