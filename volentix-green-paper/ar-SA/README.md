@@ -38,18 +38,18 @@
 
 لتسهيل الاستخدام والولوج إلى الدعائم الأربعة لبيئة VOLENTIX، نخطط لإصدار العملة الرمزية VTX والتي تمثل أداة مساعدة أصلية. تجري مبدئيًا حملة توقيع VENUE، حيث نقوم بتقييم فرص ما قبل البيع بالإضافة إلى الشروط والأحكام المحتملة في حالة تصريح تمويل جماعي.
 
-As currently conceived, an eosio.token contract from the EOS.IO framework would facilitate the issuance of 2.1 billion EOS.IO-compliant VTX tokens with a circulating supply of 1.3 billion. As a utility token, VTX envisions a diverse array of uses. For additional information, please refer to our VDEX white paper at <https://volentix.io/documentation/vdex-whitepaper.>
+كما تم alta5tit، إن عقد eosio.token من هيكل EOS.IO من شأنه أن يسهل إصدار 2.1 مليار عملة VTX رمزية متوافق مع EOS.IO بعرض متداول قيمته 1.3 مليار. بصفتها أداة مساعدة، لعملة VTX مجموعة متنوعة من الاستخدامات. للحصول على معلومات إضافية، يرجى الرجوع إلى وثيقة VDEX البيضاء الخاصة بنا على [ https://volentix.io/documentation/vdex-whitepaper. ](https://volentix.io/documentation/vdex-whitepaper.)
 
 ## سوق العرض والطلب
 
-In contemplating technological design, we have evaluated various existing (and emerging) operating systems. EOS.IO software stands out as exemplary. EOS.IO is an open-source, scalable infrastructure for decentralized applications. We can benefit from standard features offered by EOS.IO such as the creation of accounts and wallets, and we also plan to implement protocols for creation of the decentralized VDEX exchange through EOS contracts and other tools.
+خلال التفكير في التصميم التكنولوجي، قمنا بتقييم مختلف أنظمة التشغيل الحالية (والناشئة). يعتبر برنامج EOS.IO مثالي. EOS.IO هو بنية أساسية مفتوحة المصدر قابلة للتوسع للتطبيقات اللامركزية. يمكننا الاستفادة من الميزات القياسية التي يقدمها EOS.IO مثل إنشاء حسابات ومحافظ، ونخطط أيضًا لتنفيذ بروتوكولات لإنشاء تبادل VDEX اللامركزي من خلال عقود EOS وغيرها من الأدوات.
 
 We aim to make VTX and the four pillars of VOLENTIX — VENUE, VERTO, VESPUCCI, and VDEX — easily accessible to and usable by all those who wish to join our community. We plan a user interface that makes available to you relevant market data as well as your account information. We expect the experience to be enhanced by continuing education, with templates and simulators to support a superior UX/UI relationship.
 
-## PHILOSOPHY AND COMMITMENT
+## الفلسفة والالتزام
 
-Our guiding philosophy is one of decentralization, and our ongoing efforts are targeted to promoting a reduction in dependence on central authority. The tremendous benefit of the open-source code philosophy  
-is that every day there are announcements of fresh code developments impacting on convenient and safe trading and use of digital assets. Our premise is security and ease of operation. Prudence mandates education. The most important asset is knowledge.
+فلسفتنا الأساسية هي اللامركزية وتهدف جهودنا المستمرة إلى تشجيع تقليل الاعتماد على السلطة المركزية. الميزة الهائلة لفلسفة الشفرة مفتوحة المصدر  
+هي أن هناك كل يوم إعلانات عن تطورات جديدة في الشفرة تؤثر على التداول والإستعمال الآمن للأصول الرقمية. Our premise is security and ease of operation. Prudence mandates education. The most important asset is knowledge.
 
 All of us at VOLENTIX are dedicating sizable quantities of work and insights to developing a program premised on empowerment and independence. Please monitor our website and social media for updates and other important announcements. Thank you very much for your attention and interest.
 
@@ -61,4 +61,4 @@ FOR INFORMATION PURPOSES ONLY. This information does not purport to be comprehen
 
 ## القيود المفروضة على سكان الولايات المتحدة الأمريكية.
 
-نظرًا للارتباك في البيئة التنظيمية الحالية، لا يتوقع Volentix التماس أو قبول مشتريات من قبل أشخاص من الولايات المتحدة الأمريكية. We anticipate vetting users by requiring rigorous identity verification for purposes of KYC/AML predicates.
+نظرًا للارتباك في البيئة التنظيمية الحالية، لا يتوقع Volentix التماس أو قبول مشتريات من قبل أشخاص من الولايات المتحدة الأمريكية. نتوقع فحص المستخدمين من خلال طلب تحقق دقيق من الهوية لأغراض مستندات KYC/AML.
