@@ -38,7 +38,7 @@
 
 لتسهيل الاستخدام والولوج إلى الدعائم الأربعة لبيئة VOLENTIX، نخطط لإصدار العملة الرمزية VTX والتي تمثل أداة مساعدة أصلية. تجري مبدئيًا حملة توقيع VENUE، حيث نقوم بتقييم فرص ما قبل البيع بالإضافة إلى الشروط والأحكام المحتملة في حالة تصريح تمويل جماعي.
 
-كما تم alta5tit، إن عقد eosio.token من هيكل EOS.IO من شأنه أن يسهل إصدار 2.1 مليار عملة VTX رمزية متوافق مع EOS.IO بعرض متداول قيمته 1.3 مليار. بصفتها أداة مساعدة، لعملة VTX مجموعة متنوعة من الاستخدامات. للحصول على معلومات إضافية، يرجى الرجوع إلى وثيقة VDEX البيضاء الخاصة بنا على [ https://volentix.io/documentation/vdex-whitepaper. ](https://volentix.io/documentation/vdex-whitepaper.)
+كما تم التخطيط، إن عقد eosio.token من هيكل EOS.IO من شأنه أن يسهل إصدار 2.1 مليار عملة VTX رمزية متوافق مع EOS.IO بعرض متداول قيمته 1.3 مليار. بصفتها أداة مساعدة، لعملة VTX مجموعة متنوعة من الاستخدامات. للحصول على معلومات إضافية، يرجى الرجوع إلى وثيقة VDEX البيضاء الخاصة بنا على [ https://volentix.io/documentation/vdex-whitepaper. ](https://volentix.io/documentation/vdex-whitepaper.)
 
 ## سوق العرض والطلب
 
@@ -53,11 +53,11 @@
 
 جميعنا في VOLENTIX نكرس كميات كبيرة من العمل والرؤى لتطوير برنامج قائم على التمكين والاستقلال. يرجى مراقبة موقعنا على شبكة الإنترنت ووسائل الإعلام الاجتماعية للحصول على التحديثات والإعلانات الهامة الأخرى. شكرا جزيلا على اهتمامك.
 
-مختبرات Volentix
+Volentix Labs
 
 ## إخلاء المسؤولية
 
-لغرض المعلومات فقط. This information does not purport to be comprehensive. The information is subject to change in whole or in part at any time without notice. Volentix Labs reserves the right to amend, replace, remove, or delete any and all information at the sole and exclusive discretion of Volentix Labs. Volentix Labs makes no representation or warranty, expressed or implied, concerning the accuracy or completeness of the information and expressly disclaims any and all liability of any and all kinds whatsoever for the information contained or not contained. Volentix Labs requests each and every reader to read the information fully and carefully, and to undertake independent investigation and analysis of the information, and to seek and obtain professional advice for purposes of evaluating the information. To the knowledge of Volentix Labs, no regulatory agency, government, or other third-party enforcement entity has reviewed, evaluated, or approved any part or all of the information. This information is not an offer or solicitation of any kind whatsoever and does not form the basis for any contract or commitment of any kind whatsoever. Any statement considered to be forward-looking is purely a matter of opinion, and no viewer should rely on any such statement or on any part or all of the information in any way whatsoever.
+لغرض المعلومات فقط. لا نزعم أن المعلومات المقدمة شاملة. يمكن أن تخضع المعلومات للتغيير كليًا أو جزئيًا في أي وقت ودون إشعار مسبق. تحتفظ Volentix Labs بالحق في تعديل، استبدال، إزالة أو حذف أي/جميع المعلومات وفقًا لتقدير Volentix Labs الحصري. لا تقدم Volentix Labs أي تعهد أو ضمان، صريحًا أو ضمنيًا، فيما يتعلق بدقة أو اكتمال المعلومات وتخلي مسؤوليتها صراحةً عن أي/جميع أنواع المعلومات الواردة أو غير المضمنة. يطلب Volentix Labs من كل قارئ قراءة المعلومات بالكامل وبعناية، إجراء تحقيق مستقل وتحليل للمعلومات، البحث عن استشارة مهنية والحصول عليها من أجل تقييم المعلومات. على حد علم Volentix Labs، لم تقم أي هيئة تنظيمية، حكومة أو أي جهة تنفيذية تابعة لأطراف خارجية بمراجعة، تقييم أو الموافقة على أي جزء من المعلومات أو جميعها. هذه المعلومات ليست عرضًا أو طلبًا من أي نوع ولا تشكل الأساس لأي عقد أو التزام من أي نوع كان. أي بيان يعتبر استشرافيًا هو مجرد مسألة رأي ويجب أن لا يعتمد أي مُشاهد على مثل هذا البيان أو على أي جزء من المعلومات أو جميعها بأي طريقة كانت.
 
 ## القيود المفروضة على سكان الولايات المتحدة الأمريكية.
 
