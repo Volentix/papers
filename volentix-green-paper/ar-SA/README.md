@@ -20,7 +20,7 @@
 
 ## Verto
 
-ستكون Verto عبارة عن محفظة متعددة العملات، قابلة للاستخدام مع منصة فدكس للتبادل، وتعتزم تسهيل حفظ المفاتيح الخاصة لاستخدامها في معاملات النظير إلى النظير. سيتم إدارة كل من المفاتيح الخاصة والعامة محليًا بهدف إزالة مخاطر الخسائر المدمرة في الحصص المرتبطة بالفشل الصادم الخاص بالمشغلين المركزيين. Please read the VERTO primer by visiting <http://verto.vdex.io/>
+ستكون Verto عبارة عن محفظة متعددة العملات، قابلة للاستخدام مع منصة فدكس للتبادل، وتعتزم تسهيل حفظ المفاتيح الخاصة لاستخدامها في معاملات النظير إلى النظير. سيتم إدارة كل من المفاتيح الخاصة والعامة محليًا بهدف إزالة مخاطر الخسائر المدمرة في الحصص المرتبطة بالفشل الصادم الخاص بالمشغلين المركزيين. يرجى قراءة VERTO primer من خلال زيارة <http://verto.vdex.io/>
 
 ## Vespucci
 
@@ -30,17 +30,17 @@
 
 ## VDex
 
-VDEX is being designed as a distributed, decentralized digital- currencies exchange with emphasis on privacy user experience and community development and governance. By accessing established technologies and planning selective new protocols with priority on security, speed, authentication, ease of use, scalability, and multi-asset support, VDEX intends to facilitate peer-to-peer transactions by assembling a portfolio of decentralized applications built on EOS.IO smart contracts.
+تم تصميم VDEX ليكون منصة لتبادل العملات الرقمية اللامركزية والموزعة مع التركيز على خصوصية تجربة المستخدم، تطوير المجتمع والإدارة. By accessing established technologies and planning selective new protocols with priority on security, speed, authentication, ease of use, scalability, and multi-asset support, VDEX intends to facilitate peer-to-peer transactions by assembling a portfolio of decentralized applications built on EOS.IO smart contracts.
 
 For smooth and secure usability, we plan VDEX to integrate with your own personal VERTO wallet and VESPUCCI user interface. Although we expect VERTO and VDEX ultimately to be able to manage transactions involving the vast array of digital assets and blockchains extant from time to time, we are developing VENUE as a complementary adjunct primarily in order to incentivize and drive native VTX-based transactions.
 
-## MARKET SUPPLY AND DEMAND
+## سوق العرض والطلب
 
-To facilitate access to and use of the four pillars of the VOLENTIX ecosystem, we plan to issue the native utility token VTX. An initial VENUE signature campaign is underway, and we are evaluating pre-sale opportunities as well as potential terms and conditions in the event a crowdsale is authorized.
+لتسهيل الاستخدام والولوج إلى الدعائم الأربعة لبيئة VOLENTIX، نخطط لإصدار العملة الرمزية VTX والتي تمثل أداة مساعدة أصلية. An initial VENUE signature campaign is underway, and we are evaluating pre-sale opportunities as well as potential terms and conditions in the event a crowdsale is authorized.
 
 As currently conceived, an eosio.token contract from the EOS.IO framework would facilitate the issuance of 2.1 billion EOS.IO-compliant VTX tokens with a circulating supply of 1.3 billion. As a utility token, VTX envisions a diverse array of uses. For additional information, please refer to our VDEX white paper at <https://volentix.io/documentation/vdex-whitepaper.>
 
-## MARKET SUPPLY AND DEMAND
+## سوق العرض والطلب
 
 In contemplating technological design, we have evaluated various existing (and emerging) operating systems. EOS.IO software stands out as exemplary. EOS.IO is an open-source, scalable infrastructure for decentralized applications. We can benefit from standard features offered by EOS.IO such as the creation of accounts and wallets, and we also plan to implement protocols for creation of the decentralized VDEX exchange through EOS contracts and other tools.
 
