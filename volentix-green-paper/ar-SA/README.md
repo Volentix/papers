@@ -2,13 +2,13 @@
 
 ## المقدمة
 
-يقدم Volentix منصة VDex اللامركزية والموزعة، مصممة لتبادل الأصول الرقمية مع التركيز على تجربة المستخدم وتنمية المجتمع والإدارة. By accessing established technologies and planning selective new protocols with priority on security, speed, authentication, ease of use, scalability, and multi-asset support, VDex intends to facilitate peer-to-peer transactions by assembling a portfolio of decentralized applications built on EOS.IO smart contracts.
+يقدم Volentix منصة VDex اللامركزية والموزعة، مصممة لتبادل الأصول الرقمية مع التركيز على تجربة المستخدم وتنمية المجتمع والإدارة. من خلال إستعمال مختلف التقنيات المعمول بها وتخطيط بروتوكولات جديدة انتقائية مع إعطاء الأولوية للأمان، السرعة، المصادقة، سهولة الاستخدام، قابلية التوسع ودعم الأصول المتعددة، تعتزم VDex على تسهيل معاملات النظير إلى النظير من خلال مجموعة من التطبيقات اللامركزية المبنية على العقود الذكية الخاصة بـ EOS.IO.
 
-The VDex launch point anticipates matching Volentix’s design requirements to available technologies superimposed on the EOS.IO decentralized operating system. We intend to test our assumptions by prototyping via custom EZEOS software, which we built and customized with EOS.IO’s close command line tools. This software resides at: https://github.com/Volentix/ezeos
+نتوقع أن يتم اطلاق VDex عند مطابقة متطلبات تصميم Volentix بالتكنولوجيات المتاحة التي يتم تركيبها على نظام التشغيل اللامركزي EOS.IO. نعتزم اختبار افتراضاتنا عن طريق النماذج الأولية عبر برنامج EZEOS المخصص، الذي قمنا ببنائه وتخصيصه باستخدام أدوات سطر الأوامر القريبة من EOS.IO. يوجد هذا البرنامج على: https://github.com/Volentix/ezeos
 
 ## إدارة السوق
 
-In the second decade since the emergence of Bitcoin, the digital asset marketplace is defined by the dizzying highs and lows experienced by a tiny percentage of the global population trading thousands of cryptocurrencies many of which are outright scams. Looking past the frauds, and observing the value of the credible digital application technologies emerging in the past ten years, if we are to progress and promulgate those technologies, then they must penetrate the mainstream. Legitimate digital currencies must be used in broad commerce. And the primary focus of digital assets proliferation must be to simplify and enrich user experience. The choices of which existing technologies to employ and which unavailable technologies to develop must be driven by comfort, certainty, and security of user  
+في العقد الثاني منذ ظهور الـ Bitcoin، يتم تعريف سوق الأصول الرقمية من خلال الارتفاعات والانخفاضات المذهلة التي يعيشها نسبة ضئيلة من سكان العالم الذين يقومون بتداول آلاف العملات الرقمية والتي يعتبر الكثير منها إحتيالاً. بالنظر إلى عمليات الاحتيال في الماضي ومراقبة قيمة تقنيات التطبيقات الرقمية الموثوقة والناشئة في السنوات العشر الماضية ،فإننا إذا ما أردنا التقدم ونشر هذه التقنيات، فعلينا أن ندخلها التيار. يجب استخدام العملات الرقمية المشروعة في التجارة الواسعة. And the primary focus of digital assets proliferation must be to simplify and enrich user experience. The choices of which existing technologies to employ and which unavailable technologies to develop must be driven by comfort, certainty, and security of user  
 transactions and related experiences.
 
 ## MARKET ENTRY
