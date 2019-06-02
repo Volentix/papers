@@ -30,13 +30,13 @@
 
 ## VDex
 
-تم تصميم VDEX ليكون منصة لتبادل العملات الرقمية اللامركزية والموزعة مع التركيز على خصوصية تجربة المستخدم، تطوير المجتمع والإدارة. By accessing established technologies and planning selective new protocols with priority on security, speed, authentication, ease of use, scalability, and multi-asset support, VDEX intends to facilitate peer-to-peer transactions by assembling a portfolio of decentralized applications built on EOS.IO smart contracts.
+تم تصميم VDEX ليكون منصة لتبادل العملات الرقمية اللامركزية والموزعة مع التركيز على خصوصية تجربة المستخدم، تطوير المجتمع والإدارة. تعتزم VDEX تسهيل معاملات النظير إلى النظير من خلال تجميع مجموعة من التطبيقات اللامركزية المبنية على عقود EOS.IO الذكية وهذا من خلال الوصول إلى التقنيات المعمول بها وتخطيط بروتوكولات جديدة انتقائية مع إعطاء الأولوية للأمان، السرعة، المصادقة، سهولة الاستخدام، قابلية التوسع ودعم الأصول المتعددة.
 
-For smooth and secure usability, we plan VDEX to integrate with your own personal VERTO wallet and VESPUCCI user interface. Although we expect VERTO and VDEX ultimately to be able to manage transactions involving the vast array of digital assets and blockchains extant from time to time, we are developing VENUE as a complementary adjunct primarily in order to incentivize and drive native VTX-based transactions.
+للإستخدام السلس والآمن، نخطط لدمج VDEX مع محفظتك الشخصية VERTO وواجهة مستخدم VESPUCCI. على الرغم من أننا نتوقع أن تتمكن VERTO وVDEX في النهاية من إدارة المعاملات التي تشمل مجموعة واسعة من الأصول الرقمية وسلاسل الكتل الموجودة من وقت لآخر، فإننا نعمل على تطوير VENUE كعنصر تكميلي في المقام الأول من أجل تحفيز ودفع المعاملات الأصلية المستندة على VTX.
 
 ## سوق العرض والطلب
 
-لتسهيل الاستخدام والولوج إلى الدعائم الأربعة لبيئة VOLENTIX، نخطط لإصدار العملة الرمزية VTX والتي تمثل أداة مساعدة أصلية. An initial VENUE signature campaign is underway, and we are evaluating pre-sale opportunities as well as potential terms and conditions in the event a crowdsale is authorized.
+لتسهيل الاستخدام والولوج إلى الدعائم الأربعة لبيئة VOLENTIX، نخطط لإصدار العملة الرمزية VTX والتي تمثل أداة مساعدة أصلية. تجري مبدئيًا حملة توقيع VENUE، حيث نقوم بتقييم فرص ما قبل البيع بالإضافة إلى الشروط والأحكام المحتملة في حالة تصريح تمويل جماعي.
 
 As currently conceived, an eosio.token contract from the EOS.IO framework would facilitate the issuance of 2.1 billion EOS.IO-compliant VTX tokens with a circulating supply of 1.3 billion. As a utility token, VTX envisions a diverse array of uses. For additional information, please refer to our VDEX white paper at <https://volentix.io/documentation/vdex-whitepaper.>
 
@@ -59,6 +59,6 @@ Volentix Labs
 
 FOR INFORMATION PURPOSES ONLY. This information does not purport to be comprehensive. The information is subject to change in whole or in part at any time without notice. Volentix Labs reserves the right to amend, replace, remove, or delete any and all information at the sole and exclusive discretion of Volentix Labs. Volentix Labs makes no representation or warranty, expressed or implied, concerning the accuracy or completeness of the information and expressly disclaims any and all liability of any and all kinds whatsoever for the information contained or not contained. Volentix Labs requests each and every reader to read the information fully and carefully, and to undertake independent investigation and analysis of the information, and to seek and obtain professional advice for purposes of evaluating the information. To the knowledge of Volentix Labs, no regulatory agency, government, or other third-party enforcement entity has reviewed, evaluated, or approved any part or all of the information. This information is not an offer or solicitation of any kind whatsoever and does not form the basis for any contract or commitment of any kind whatsoever. Any statement considered to be forward-looking is purely a matter of opinion, and no viewer should rely on any such statement or on any part or all of the information in any way whatsoever.
 
-## RESTRICTION REGARDING U.S.A.
+## القيود المفروضة على سكان الولايات المتحدة الأمريكية.
 
-In view of confusion in the current regulatory environment, Volentix does not anticipate soliciting or accepting purchases by United States persons. We anticipate vetting users by requiring rigorous identity verification for purposes of KYC/AML predicates.
+نظرًا للارتباك في البيئة التنظيمية الحالية، لا يتوقع Volentix التماس أو قبول مشتريات من قبل أشخاص من الولايات المتحدة الأمريكية. We anticipate vetting users by requiring rigorous identity verification for purposes of KYC/AML predicates.
