@@ -24,7 +24,7 @@ Architettura generale di Vespucci
 
 Vespucci offre una piattaforma web-based per consentire agli utenti di navigare tra i dati relativi alle criptovalute e prendere decisioni informate sul trading e sull'utilizzo degli asset digitali. In particolare, fornisce:
 
-* Un agente analitico intuitivo che porta ad una visione d'insieme delle criptovalute di facile comprensione.
+* Un agente analitico intuitivo che porta ad una visione d'insieme di facile comprensione delle criptovalute.
 * Un sistema di valutazione delle criptovalute, compresa la valutazione del rischio.
 * Una dashboard per le notizie riguardanti le criptovalute.
 
