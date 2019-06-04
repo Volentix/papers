@@ -36,9 +36,9 @@ La valutazione e la capacità analitica di Vespucci si basa sui tre pilastri di:
 
 * ### **DESIGNING VESPUCCI**
 
-* #### **FUNZIONALITà VESPUCCI**
+* #### **FUNZIONALITÀ VESPUCCI**
 
-Le funzioni di Vespucci sono le seguenti.
+Le funzionalità di Vespucci sono le seguenti.
 
 * Valutazione delle criptovalute, che porta facilmente ad una macchina per pronostici.
 * Combinazione di uno spettro completo di criteri che vanno dall'Analisi Fondamentale / Tecnologica agli aspetti tecnici / economici fino ad un misuratore del sentiment.
@@ -46,13 +46,13 @@ Le funzioni di Vespucci sono le seguenti.
 * Ampia gamma di fonti (per evitare dati di parte)
 * Design modulare che offre la possibilità di estendere la piattaforma ad altre applicazioni come ad esempio smart contract.
 * Sicurezza: Fonti dei Dati sulla Blockchain EOS (VLabs)
-* Alta precisione utilizzando metodi di Valutazione sofisticati, AI, e Apprendimento Profondo
+* Alta precisione utilizzando metodi di Valutazione sofisticati, AI, e Apprendimento Approfondito
 * Intuitive algorithms, possibility for weighs given by user, Post-processing for humans.
 * #### **PRINCIPLES**
 
 Vespucci è progettato sulla base dei seguenti principi.
 
-* Obbiettivo per non rischiare di compromettere la buona volontà di Volentix DAO prima che venga accertata senza alcun dubbio
+* Obbiettivo per non rischiare di compromettere la buona volontà di Volentix DAO prima che questa venga accertata senza alcun dubbio
 * Automatizzato
 * In demand
 * Implementazione decentralizzata
@@ -68,13 +68,13 @@ Al fine di testare Vespucci in una versione semi pubblica utilizzando potenziali
 
 * #### **ANALISI DEL SENTIMENT**
 
-Il sentiment di mercato viene esplorato dal campo relativamente nuovo della [finanza comportamentale](https://www.investopedia.com/terms/b/behavioralfinance.asp). Si parte dal presupposto che i mercati sono per la maggior parte del tempo, apparentemente inefficienti, e questa inefficienza può essere spiegata dalla psicologia e da altre [scienze sociali](https://www.investopedia.com/terms/s/social-science.asp). L'idea di applicare la scienza sociale alla finanza e stata pienamente legittimata quando [D. Kahneman](https://www.investopedia.com/terms/d/daniel-kahneman.asp), psicologo, ha vinto il Premio Nobel di Economia del 2002 - fu il primo psicologo che ci è riuscito. Molte delle idee della finanza comportamentale confermano i sospetti osservabili: che gli investitori tendono ad enfatizzare eccessivamente i dati che vengono facilmente in mente; che molti investitori reagiscono provano più sofferenza per le perdite rispetto al piacere che provano con i guadagni equivalenti; e che gli investitori tendono a persistere in un errore.
+Il sentiment di mercato viene esplorato dal campo relativamente nuovo della [finanza comportamentale](https://www.investopedia.com/terms/b/behavioralfinance.asp). Si parte dal presupposto che i mercati sono per la maggior parte del tempo, apparentemente inefficienti, e questa inefficienza può essere spiegata dalla psicologia e da altre [scienze sociali](https://www.investopedia.com/terms/s/social-science.asp). L'idea di applicare la scienza sociale alla finanza e stata pienamente legittimata quando [D. Kahneman](https://www.investopedia.com/terms/d/daniel-kahneman.asp), psicologo, ha vinto il Premio Nobel di Economia del 2002 - fu il primo psicologo che ci è riuscito. Molte delle idee della finanza comportamentale confermano i sospetti osservabili: che gli investitori tendono ad enfatizzare eccessivamente i dati che vengono facilmente in mente; che molti investitori provano più sofferenza per le perdite rispetto al piacere che provano con i guadagni equivalenti; e che gli investitori tendono a persistere in un errore.
 
-Uno dei fattori più significativi che influiscono sulla posizione e sul valore delle criptovalute è la confidenza e il sentiment delle persone. Il Sentiment ha un peso maggiore rispetto alla valutazione monetaria delle criptovalute. Le opinioni pubbliche sono ampiamente disponibili per essere raccolte ed analizzate. Un pilastro fondamentale della piattaforma di classificazione di Vespucci è quindi basato sul Sentiment Analysis (SA) di contenuti correlati alle criptovalute, generati dal pubblico sui Social media (Twitter, Facebook, Telegram), Reddit, Blog, forum e siti di notizie. La differenza fondamentale del componente SA di Vespucci è l'ampio e completo spettro di fonti di dati raccolti e analizzati. Riteniamo che solo coprendo ogni potenziale fonte di opinione pubblica legata ad ogni criptovaluta, può essere scoperto lo stato reale del sentiment del mercato.
+Uno dei fattori più significativi che influiscono sulla posizione e sul valore delle criptovalute è la confidenza e il sentiment delle persone. Il Sentiment ha il peso maggiore nella valutazione monetaria delle criptovalute. Le opinioni pubbliche sono ampiamente disponibili per essere raccolte ed analizzate. Un pilastro fondamentale della piattaforma di classificazione di Vespucci è quindi basato sul Sentiment Analysis (SA) di contenuti correlati alle criptovalute, generati dal pubblico sui Social media (Twitter, Facebook, Telegram), Reddit, Blog, forum e siti di notizie. La differenza fondamentale del componente SA di Vespucci è l'ampio e completo spettro di fonti di dati raccolti e analizzati. Riteniamo che solo coprendo ogni potenziale fonte di opinione pubblica legata ad ogni criptovaluta, può essere scoperto lo stato reale del sentiment del mercato.
 
 Il componente SA di Vespucci è costruito con un approccio graduale. The first phase includes the implementation of a centralized cloud based, highly scalable, Big Data ingestion mechanism. This mechanism is able to listen continuously to the above mentioned data sources and ingest all content/messages that are relevant to each cryptocurrency. It uses no persistent storage. Lo stesso meccanismo valuta il Sentiment del contenuto acquisito. utilizzando una funzione di punteggio, guidata dall'intelligenza artificiale e librerie di analisi del testo per analizzare i contenuti dei social media. Il modulo si basa anche su altri strumenti come NTLK e TextBlob che assegnano punteggi numerici di sentiment a parti di testo. Questo processo non deve necessariamente essere trasparente per l'utente.
 
-Questo assicura che la componente Vespucci SA sia in grado di coprire la stragrande maggioranza dell'opinione pubblica. I risultati vengono comparati in periodi di un ora, un giorno e una settimana. Gli output sono disponibili attraverso le API per uso interno di altri componenti Vespucci come l'interfaccia utente web front-end, nonché per utenti esterni che desiderano consumare i dati o costruire applicazioni di terze parti basate su Vespucci.
+Questo assicura che la componente Vespucci SA sia in grado di coprire la stragrande maggioranza dell'opinione pubblica. I risultati vengono comparati in periodi di un ora, un giorno e una settimana. Gli output sono disponibili attraverso le API per uso interno di altri componenti Vespucci come l'interfaccia utente web front-end, nonché per utenti esterni che desiderano utilizzare i dati o costruire applicazioni di terze parti basate su Vespucci.
 
 Vespucci’s public opinion listeners run on cloud-based VMs that are able to instantly scale-out to address all potential workloads. In questo modo Vespucci gestisce e ingerisce i massicci, ma preziosi, volumi di dati relativi alle criptovalute che vengono generati in qualsiasi momento. La parallelizzazione è fondamentale quando si gestiscono i Big Data e l'architettura di Vespucci sfrutta, ove possibile, la parallelizzazione, il multi-threading e la simultaneità. Micro-services and serverless code run in parallel to orchestrate the ingestion procedures and data flows.
 
