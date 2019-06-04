@@ -36,7 +36,7 @@ La valutazione e la capacità analitica di Vespucci si basa sui tre pilastri di:
 
 * ### **DESIGNING VESPUCCI**
 
-* #### **FUNZIONI VESPUCCI**
+* #### **FUNZIONALITà VESPUCCI**
 
 Le funzioni di Vespucci sono le seguenti.
 
