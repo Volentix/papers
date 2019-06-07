@@ -80,7 +80,7 @@ Vespucci’s public opinion listeners run on cloud-based VMs that are able to in
 
 Nella seconda fase, gli strumenti di scoring vengono adattati e migliorati in modo da concentrare le loro funzionalità sulle criptovalute, eventualmente, potremmo sviluppare un nostro software per questo compito. Inoltre, viene utilizzata un po' di archiviazione (vedi la [sezione](https://docs.google.com/document/d/1NLr-rgF66NCBmLmPIdElltKYVPJrLVO7DZDpcNEm6OU/edit?ts=5bec2f33#heading=h.921dav9nirz6) specifica) per i dati aggregati necessari per (a) effettuare confronti storici e (b) per allenare il Convolutional Neural Network che produce il punteggio finale. Per (a), potremmo utilizzare l'intero storico di ogni token partendo dalla sua creazione. Per (b), l'apprendimento approfondito necessita dati che coprano un periodo fino a due anni.
 
-Eventually, Vespucci will reach out to the open-source community in an attempt to make the platform decentralized to a great degree . The intention is to decentralize the data ingestion and sentiment scoring functionality in order to provide secure, community led, unbiased and credible results.
+Eventualmente, Vespucci si rivolgerà alla comunità open-source nel tentativo di rendere la piattaforma, per la maggior parte, decentralizzata. L'intenzione è di decentralizzate l'ingestione di dati e la funzionalità di assegnazione dello scoring per fornire risultati sicuri, guidati dalla comunità, imparziali e credibili.
 
 ![](https://volentix.io/file/2019/01/a.jpg)
 
