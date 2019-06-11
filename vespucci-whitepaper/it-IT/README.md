@@ -84,7 +84,7 @@ Eventualmente, Vespucci si rivolgerà alla comunità open-source nel tentativo d
 
 ![](https://volentix.io/file/2019/01/a.jpg)
 
-By leveraging Python’s Machine learning framework, and given the language’s advantages, it is only natural for this module to be implemented in Python. It interfaces with particular machine learning libraries such as Scikit-learn, TensorFlow, CNTK, Torch, Theano, and Keras.
+Sfruttando il framework di Machine Learning di Python, e considerando i vantaggi di questo linguaggio di programmazione, è naturale che questo modulo venga implementato in Python. Questo si interfaccia con particolari librerie di machine learning come ad esempio Scikit-learn, TensorFlow, CNTK, Torch, Theano, e Keras.
 
 ‪A user experience linking to the cryptocurrency’s public community forum is developed to provide up to date announcements and statistics of community activity. The final score can be derived as a scoring function. Eventually, machine learning techniques are applied to deliver real-time sentiment analysis.‬
 
