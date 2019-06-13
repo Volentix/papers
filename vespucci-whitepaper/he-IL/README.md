@@ -402,7 +402,7 @@ The **implementation** of the Vespucci analysis tools is in Python using various
 * NumPy, Pandas, Seaborn, matplotlib for the analysis part.
 * Scikit-learn, TensorFlow for machine learning.
 * NLTK, Tweepy, VADER, TextBlob for twitter sentiment analysis.
-* pyodbc to connect with our database.
+* "pyodbc" על מנת להתחבר אל מאגר הנתונים שלנו.
 * Blockchair.com API and coinmarketcap, a wrapper around the coinmarketcap.com API, to obtain information about each coin, such as the market cap ranking, and to update them easily
 
 Initially, most of those processes run on Linux Virtual Machines and results are kept in SQL databases. In case of insufficiency, a serverless frameworks shall be considered. In the immediate future powerful servers with GPUs are designed to perform efficiently all of our analysis (Kubernetes may be relevant here, assuming Docker containers).
