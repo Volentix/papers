@@ -86,7 +86,7 @@ Eventualmente, Vespucci si rivolgerà alla comunità open-source nel tentativo d
 
 Sfruttando il framework di Machine Learning di Python, e considerando i vantaggi di questo linguaggio di programmazione, è naturale che questo modulo venga implementato in Python. Questo si interfaccia con particolari librerie di machine learning come ad esempio Scikit-learn, TensorFlow, CNTK, Torch, Theano, e Keras.
 
-‪A user experience linking to the cryptocurrency’s public community forum is developed to provide up to date announcements and statistics of community activity. The final score can be derived as a scoring function. Eventually, machine learning techniques are applied to deliver real-time sentiment analysis.‬
+‪A user experience linking to the cryptocurrency’s public community forum is developed to provide up to date announcements and statistics of community activity. Il punteggio finale può essere ricavato come una funzione di punteggio. Infine, vengono applicate tecniche di machine learning per fornire analisi del sentiment in tempo reale
 
 <table>
   <tr>
@@ -234,9 +234,9 @@ Sfruttando il framework di Machine Learning di Python, e considerando i vantaggi
   </tr>
 </table>
 
-* #### **TECHNICAL ANALYSIS**
+* #### **ANALISI TECNICA**
 
-Technical analysis is a trading tool employed to evaluate [securities](https://www.investopedia.com/terms/s/security.asp) and identify trading opportunities by analyzing statistics gathered from trading activity, such as price movement and volume. Unlike fundamental analysts who attempt to evaluate a security’s intrinsic value, [technical analysts](https://www.investopedia.com/terms/t/technical-analyst.asp) focus on charts of price movement and va rious analytical tools to evaluate a security’s strength or weakness. A typical source may be **coinmarketcap**. We focus on indicators and methods suitable for assets with high volatility of prices, and hence suitable for cryptocurrencies.
+L'analisi tecnica è uno strumento di trading utilizzato per valutare [securities](https://www.investopedia.com/terms/s/security.asp) e identificare le opportunità di trading analizzando le statistiche raccolte dall'attività di trading, come l'andamento dei prezzi e il volume. A differenza degli analisti fondamentali che cercano di valutare il valore intrinseco di un titolo, gli [analisti tecnici](https://www.investopedia.com/terms/t/technical-analyst.asp) si concentrano su grafici di movimento del prezzo e su strumenti analitici per valutare la forza o la debolezza di un titolo. A typical source may be **coinmarketcap**. We focus on indicators and methods suitable for assets with high volatility of prices, and hence suitable for cryptocurrencies.
 
 Technical analysts believe the analysis of price movement or the supply and demand of currencies is the best way to identify trends in the currency. Price movements tend to trade within a trend or range. In connection with this belief, technical analysts assume that history tends to repeat itself, based on the idea that market participants have often reacted in a similar fashion to reoccurring market events. There is a very large number of techniques and indices for data analysis. In this section, we focus on certain simple techniques, such as Keltner Channels , moving average crossovers, RSI, Bollinger Bands, and the popular MACD, and to some advanced methods, such as Fibonnaci, and Ichimoku Kinko Hyo.
 
