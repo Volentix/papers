@@ -1,65 +1,64 @@
-# Volentix Green Paper
+# الوثيقة الخضراء الخاصة بـ Volentix
 
-## INTRODUCTION
+## المقدمة
 
-Volentix introduces VDex, designed as a distributed, decentralized digital assets exchange with emphasis on user experience and community development and governance. By accessing established technologies and planning selective new protocols with priority on security, speed, authentication, ease of use, scalability, and multi-asset support, VDex intends to facilitate peer-to-peer transactions by assembling a portfolio of decentralized applications built on EOS.IO smart contracts.
+يقدم Volentix منصة VDex المصممة لتبادل الأصول الرقمية اللامركزية والموزعة مع التركيز على تجربة المستخدم وتنمية المجتمع والإدارة. من خلال الولوج لمختلف التقنيات المعمول بها وتخطيط بروتوكولات جديدة انتقائية مع إعطاء الأولوية للأمان، السرعة، المصادقة، سهولة الاستخدام، قابلية التوسع ودعم الأصول المتعددة، تعتزم VDex على تسهيل معاملات النظير إلى النظير من خلال مجموعة من التطبيقات اللامركزية المبنية على العقود الذكية الخاصة بـ EOS.IO.
 
-The VDex launch point anticipates matching Volentix’s design requirements to available technologies superimposed on the EOS.IO decentralized operating system. We intend to test our assumptions by prototyping via custom EZEOS software, which we built and customized with EOS.IO’s close command line tools. This software resides at: https://github.com/Volentix/ezeos
+نتوقع أن يتم اطلاق VDex عند مطابقة متطلبات تصميم Volentix بالتكنولوجيات المتاحة التي يتم تركيبها على نظام التشغيل اللامركزي EOS.IO. نعتزم اختبار افتراضاتنا عن طريق النمذجة الأولية عبر برنامج EZEOS والذي قمنا ببنائه وتخصيصه باستخدام أدوات سطر الأوامر الخاصة بـ EOS.IO. يوجد هذا البرنامج على: https://github.com/Volentix/ezeos
 
-## MARKET MANDATE
+## تفويض السوق
 
-In the second decade since the emergence of Bitcoin, the digital asset marketplace is defined by the dizzying highs and lows experienced by a tiny percentage of the global population trading thousands of cryptocurrencies many of which are outright scams. Looking past the frauds, and observing the value of the credible digital application technologies emerging in the past ten years, if we are to progress and promulgate those technologies, then they must penetrate the mainstream. Legitimate digital currencies must be used in broad commerce. And the primary focus of digital assets proliferation must be to simplify and enrich user experience. The choices of which existing technologies to employ and which unavailable technologies to develop must be driven by comfort, certainty, and security of user  
-transactions and related experiences.
+في العقد الثاني منذ ظهور الـ Bitcoin، يتم تعريف سوق الأصول الرقمية من خلال الارتفاعات والانخفاضات المذهلة التي يعيشها نسبة ضئيلة من سكان العالم الذين يقومون بتداول آلاف العملات الرقمية والتي يعتبر الكثير منها إحتيالاً. بغض النظر عن عمليات الاحتيال في الماضي ومراقبة قيمة تقنيات التطبيقات الرقمية الموثوقة والناشئة في السنوات العشر الماضية، فإننا إذا ما أردنا التقدم ونشر هذه التقنيات، فعلينا أن نجعلها واسعة الإستخدام وسائدة. يجب استخدام العملات الرقمية المشروعة في عمليات تجارية أوسع. ويجب أن يكون التركيز الأساسي لانتشار الأصول الرقمية على تبسيط وإثراء تجربة المستخدم. يجب أن تكون الدوافع وراء اختيارات التقنيات الحالية التي ستستخدم والتقنيات الغير المتوفرة التي سيتم تطويرها، هي الراحة، اليقين، أمان معاملات المستخدم والخبرات.
 
-## MARKET ENTRY
+## مدخل السوق
 
-To address the prevailing market mandate, the VOLENTIX ecosystem introduces an initializing array of four digital applications, specifically known as VENUE, VERTO, VESPUCCI, and VDEX.
+لمعالجة تفويض السوق السائد، تقدم بيئة VOLENTIX مجموعة من أربعة تطبيقات رقمية تُعرف على وجه التحديد باسم VESPUCCI ،VERTO ،VENUE وVDEX.
 
 ## Venue
 
-Venue is planned as a dynamic community platform that recruits and aligns members of the VOLENTIX community to facilitate distribution of the native VTX token, and to promote awareness of VOLENTIX community initiatives. An initial VENUE signature campaign is underway. Please visit <https://venue.volentix.io> for more information.
+تم التخطيط لـ Venue كمنصة ديناميكية للتواصل الإجتماعي حيث تقوم بجلب وتنظيم أعضاء مجتمع VOLENTIX لتسهيل توزيع العملات الرمزية الأصلية التي تُعرف بـ VTX وتعزيز الوعي بمبادرات مجتمع VOLENTIX. هنالك حملة أولية جارية لتوقيع VENUE. الرجاء زيارة <https://venue.volentix.io> للمزيد من المعلومات.
 
 ## Verto
 
-Verto will be a multi-currency wallet for use with the VDEX exchange, and intends to facilitate custody of private keys for use in peer-to-peer transactions. Both private and public keys will be locally managed, with the goal of eliminating the risks of devastating losses of stake associated with traumatic failures of central operators. Please read the VERTO primer by visiting <http://verto.vdex.io/>
+ستكون Verto عبارة عن محفظة متعددة العملات، قابلة للاستخدام مع منصة VDEX للتبادل، وتعتزم تسهيل حفظ المفاتيح الخاصة لاستخدامها في معاملات النظير إلى النظير. سيتم إدارة كل من المفاتيح الخاصة والعامة محليًا بهدف إزالة مخاطر الخسائر المدمرة في الحصص المرتبطة بالفشل الصادم الخاص بالمشغلين المركزيين. يرجى قراءة VERTO primer من خلال زيارة <http://verto.vdex.io/>
 
 ## Vespucci
 
-Vespucci is envisioned as an analytics engine accessible via a user-friendly interface with real-time treasure troves of market data, such as ratings and sentiment analysis. We wish to empower users with tools to graph and compare tradeable digital assets, to access and parse historical trading records, to plot trends and patterns, and to monitor and assess open-source software developments. VESPUCCI seeks to bring to your fingertips confident and comprehensive market-relevant data by aggregating the information currently scattered throughout many different blockchains, websites, chat rooms, and exchanges. This application is currently in development by our affiliate Pythagoras Systems.
+من المتوقع أن يكون Vespucci بمثابة محرك تحليلي يمكن الوصول إليه عبر واجهة سهلة الاستخدام مع مجموعات ثرية من بيانات السوق في الوقت الحالي مثل التقييمات وتحليل توجه السوق. نرغب في تمكين المستخدمين من خلال أدوات لرسم ومقارنة الأصول الرقمية القابلة للتداول، الوصول إلى سجلات التداول التاريخية وتحليلها، رسم الاتجاهات والأنماط وكذلك رصد وتقييم تطورات البرامج مفتوحة المصدر. يسعى VESPUCCI إلى أن يوفر في متناول يديك بيانات موثوقة وشاملة متعلقة بالسوق من خلال تجميع المعلومات المنتشرة حاليًا عبر العديد من سلاسل الكتل المختلفة، مواقع الويب، غرف الدردشة والتبادلات. هذا التطبيق قيد التطوير حاليًا من طرف شركة Pythagoras Systems التابعة لنا.
 
-The fourth pillar of VOLENTIX is the decentralized VDEX exchange, a tradable digital assets platform introduced in detail in our white paper available to view at [https://volentix.io/documentation/vdex-whitepaper](https://volentix.io/documentation/vdex-whitepaper/).
+الدعامة الرابع من VOLENTIX هي عبارة عن منصة VDEX اللامركزية، وهي تمثل منصة أصول رقمية قابلة للتداول تم تقديمها بالتفصيل في وثيقتنا البيضاء المتاحة للعرض على [ https://volentix.io/documentation/vdex-whitepaper ](https://volentix.io/documentation/vdex-whitepaper/).
 
 ## VDex
 
-VDEX is being designed as a distributed, decentralized digital- currencies exchange with emphasis on privacy user experience and community development and governance. By accessing established technologies and planning selective new protocols with priority on security, speed, authentication, ease of use, scalability, and multi-asset support, VDEX intends to facilitate peer-to-peer transactions by assembling a portfolio of decentralized applications built on EOS.IO smart contracts.
+تم تصميم VDEX ليكون منصة لتبادل العملات الرقمية اللامركزية والموزعة مع التركيز على الخصوصية، تجربة المستخدم، تطوير المجتمع والإدارة. تعتزم VDEX تسهيل معاملات النظير إلى النظير من خلال تجميع مجموعة من التطبيقات اللامركزية المبنية على العقود الذكية الخاصة بـ EOS.IO وهذا من خلال الوصول إلى التقنيات المعمول بها وتخطيط بروتوكولات جديدة انتقائية مع إعطاء الأولوية للأمان، السرعة، المصادقة، سهولة الاستخدام، قابلية التوسع ودعم الأصول المتعددة.
 
-For smooth and secure usability, we plan VDEX to integrate with your own personal VERTO wallet and VESPUCCI user interface. Although we expect VERTO and VDEX ultimately to be able to manage transactions involving the vast array of digital assets and blockchains extant from time to time, we are developing VENUE as a complementary adjunct primarily in order to incentivize and drive native VTX-based transactions.
+للإستخدام السلس والآمن، نخطط لدمج VDEX مع محفظتك الشخصية VERTO وواجهة مستخدم VESPUCCI. على الرغم من أننا نتوقع أن تتمكن VERTO وVDEX في النهاية من إدارة المعاملات التي تشمل مجموعة واسعة من الأصول الرقمية وسلاسل الكتل الموجودة من وقت لآخر، فإننا نعمل على تطوير VENUE كعنصر تكميلي في المقام الأول من أجل تحفيز ودفع المعاملات الأصلية المستندة على VTX.
 
-## MARKET SUPPLY AND DEMAND
+## سوق العرض والطلب
 
-To facilitate access to and use of the four pillars of the VOLENTIX ecosystem, we plan to issue the native utility token VTX. An initial VENUE signature campaign is underway, and we are evaluating pre-sale opportunities as well as potential terms and conditions in the event a crowdsale is authorized.
+لتسهيل الاستخدام والولوج إلى الدعائم الأربعة لبيئة VOLENTIX، نخطط لإصدار العملة الرمزية VTX والتي تمثل عملة رمزية مفيدة أصلية (native utility token). تجري مبدئيًا حملة توقيع VENUE، حيث نقوم بتقييم فرص ما قبل البيع بالإضافة إلى الشروط والأحكام المحتملة في حالة تم التصريح بعملية التمويل جماعي (crowdsale).
 
-As currently conceived, an eosio.token contract from the EOS.IO framework would facilitate the issuance of 2.1 billion EOS.IO-compliant VTX tokens with a circulating supply of 1.3 billion. As a utility token, VTX envisions a diverse array of uses. For additional information, please refer to our VDEX white paper at <https://volentix.io/documentation/vdex-whitepaper.>
+كما تم التخطيط، إن عقد eosio.token المأخوذ من هيكل EOS.IO من شأنه أن يسهل إصدار 2.1 مليار عملة VTX متوافقة مع EOS.IO بعرض متداول قيمته 1.3 مليار. بصفتها عملة رمزية مفيدة، تملك VTX مجموعة متنوعة من الاستخدامات. للحصول على معلومات إضافية، يرجى الرجوع إلى وثيقة VDEX البيضاء الخاصة بنا على هذا الرابط [ https://volentix.io/documentation/vdex-whitepaper. ](https://volentix.io/documentation/vdex-whitepaper.)
 
-## MARKET SUPPLY AND DEMAND
+## سوق العرض والطلب
 
-In contemplating technological design, we have evaluated various existing (and emerging) operating systems. EOS.IO software stands out as exemplary. EOS.IO is an open-source, scalable infrastructure for decentralized applications. We can benefit from standard features offered by EOS.IO such as the creation of accounts and wallets, and we also plan to implement protocols for creation of the decentralized VDEX exchange through EOS contracts and other tools.
+خلال التفكير في التصميم التكنولوجي، قمنا بتقييم مختلف أنظمة التشغيل الحالية (والناشئة). يعتبر برنامج EOS.IO مثاليا. EOS.IO هو بنية أساسية مفتوحة المصدر وقابلة للتوسع خاصة بالتطبيقات اللامركزية. يمكننا الاستفادة من الميزات الأساسية التي يقدمها EOS.IO مثل إنشاء حسابات ومحافظ، ونخطط أيضًا لتطبيق بروتوكولات لإنشاء منصة VDEX اللامركزية للتبادل من خلال عقود EOS وغيرها من الأدوات.
 
-We aim to make VTX and the four pillars of VOLENTIX — VENUE, VERTO, VESPUCCI, and VDEX — easily accessible to and usable by all those who wish to join our community. We plan a user interface that makes available to you relevant market data as well as your account information. We expect the experience to be enhanced by continuing education, with templates and simulators to support a superior UX/UI relationship.
+نهدف إلى جعل VTX والدعائم الأربعة لـ VOLENTIX (المتمثلة في VENUE، VERTO، VESPUCCI، وVDEX) سهلة الوصول حيث يمكن استخدامها من قبل جميع أولئك الذين يرغبون في الانضمام إلى مجتمعنا. نحن نخطط لواجهة مستخدم تتيح لك بيانات السوق اللازمة وكذلك معلومات حسابك. نتوقع تعزيز التجربة من خلال التعلم المستمر، القوالب والمحاكين لدعم علاقة متفوقة لـ UX/UI.
 
-## PHILOSOPHY AND COMMITMENT
+## الفلسفة والالتزام
 
-Our guiding philosophy is one of decentralization, and our ongoing efforts are targeted to promoting a reduction in dependence on central authority. The tremendous benefit of the open-source code philosophy  
-is that every day there are announcements of fresh code developments impacting on convenient and safe trading and use of digital assets. Our premise is security and ease of operation. Prudence mandates education. The most important asset is knowledge.
+فلسفتنا الأساسية هي اللامركزية وتهدف جهودنا المستمرة إلى تشجيع تقليل الاعتماد على السلطة المركزية. الميزة الهائلة لفلسفة الشفرة مفتوحة المصدر  
+هي أن هناك كل يوم إعلانات عن تطورات جديدة في الشفرة تؤثر على التداول والإستعمال الآمن للأصول الرقمية. إفتراضنا الأساسي هو الأمن وسهولة التعامل. التريث يفرض التعلم. أهم الأصول هي المعرفة.
 
-All of us at VOLENTIX are dedicating sizable quantities of work and insights to developing a program premised on empowerment and independence. Please monitor our website and social media for updates and other important announcements. Thank you very much for your attention and interest.
+جميعنا في VOLENTIX نكرس كميات كبيرة من العمل والرؤى لتطوير برنامج قائم على التمكين والاستقلالية. يرجى مراقبة موقعنا على شبكة الإنترنت ووسائل الإعلام الاجتماعية للحصول على التحديثات والإعلانات الهامة الأخرى. شكرا جزيلا على اهتمامك.
 
 Volentix Labs
 
-## Disclaimer
+## إخلاء المسؤولية
 
-FOR INFORMATION PURPOSES ONLY. This information does not purport to be comprehensive. The information is subject to change in whole or in part at any time without notice. Volentix Labs reserves the right to amend, replace, remove, or delete any and all information at the sole and exclusive discretion of Volentix Labs. Volentix Labs makes no representation or warranty, expressed or implied, concerning the accuracy or completeness of the information and expressly disclaims any and all liability of any and all kinds whatsoever for the information contained or not contained. Volentix Labs requests each and every reader to read the information fully and carefully, and to undertake independent investigation and analysis of the information, and to seek and obtain professional advice for purposes of evaluating the information. To the knowledge of Volentix Labs, no regulatory agency, government, or other third-party enforcement entity has reviewed, evaluated, or approved any part or all of the information. This information is not an offer or solicitation of any kind whatsoever and does not form the basis for any contract or commitment of any kind whatsoever. Any statement considered to be forward-looking is purely a matter of opinion, and no viewer should rely on any such statement or on any part or all of the information in any way whatsoever.
+لغرض المعلومات فقط. لا نزعم أن المعلومات المقدمة شاملة. يمكن أن تخضع المعلومات للتغيير كليًا أو جزئيًا في أي وقت ودون إشعار مسبق. تحتفظ Volentix Labs بالحق في تعديل، استبدال، إزالة أو حذف أي/جميع المعلومات وفقًا لتقدير Volentix Labs الحصري. لا تقدم Volentix Labs أي تعهد أو ضمان، صريحًا أو ضمنيًا، فيما يتعلق بدقة أو اكتمال المعلومات وتخلي مسؤوليتها صراحةً عن أي/جميع أنواع المعلومات الواردة أو غير المضمنة. يطلب Volentix Labs من كل قارئ قراءة المعلومات بالكامل وبعناية، إجراء تحقيق مستقل وتحليل للمعلومات، البحث عن استشارة مهنية والحصول عليها من أجل تقييم المعلومات. على حد علم Volentix Labs، لم تقم أي هيئة تنظيمية، حكومة أو أي جهة تنفيذية تابعة لأطراف خارجية بمراجعة، تقييم أو الموافقة على أي جزء من المعلومات أو جميعها. هذه المعلومات ليست عرضًا أو طلبًا من أي نوع ولا تشكل الأساس لأي عقد أو التزام من أي نوع كان. أي بيان يعتبر استشرافيًا هو مجرد مسألة رأي ويجب أن لا يعتمد أي مُشاهد على مثل هذا البيان أو على أي جزء من المعلومات أو جميعها بأي طريقة كانت.
 
-## RESTRICTION REGARDING U.S.A.
+## القيود المفروضة على سكان الولايات المتحدة الأمريكية.
 
-In view of confusion in the current regulatory environment, Volentix does not anticipate soliciting or accepting purchases by United States persons. We anticipate vetting users by requiring rigorous identity verification for purposes of KYC/AML predicates.
+نظرًا للارتباك في البيئة التنظيمية الحالية، لا يتوقع Volentix التماس أو قبول مشتريات من قبل أشخاص من الولايات المتحدة الأمريكية. نتوقع فحص المستخدمين من خلال طلب تحقق دقيق من الهوية لأغراض مستندات KYC/AML.

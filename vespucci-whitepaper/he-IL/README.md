@@ -1,8 +1,8 @@
 # רשימה לבנה Vespucci
 
-### **תקציר**
+### **סיכום**
 
-The relatively recent explosion of cryptocurrencies has attracted a lot of popularity and more people are becoming aware of the benefits over fiat currency. המספר ההולך וגדל של פלטפורמות אשר תומכות במטבעות-קריפטו, ומאפשרות העברות בין מגוון רחב של מוצרים ושירותים, מושך משתמשים רבים שנכללים בדור החדש והדינאמי של סוחרים, כאשר עבורם מורכבות טכנולוגיית הבלוקצ'יין שקופה. בכדי לנווט את העולם המורכב של כספי-קריפטו, משתמשים חדשים יחד עם משקיעים מנוסים יטיבו באופן משמעותי ממערכת המעריכה את מטבעות הקריפטו, אשר גם יוצרת מדרג בו ניתן להשתמש כמדריך השקעות שיועצב באופן אישי על-ידי פרמטרים מוגדרים של המשתמש. Vespucci הינה מערכת חדשה אשר עולה הרבה מעבר לפונקציות שנזכרו לעיל. In particular, it monitors the evolution of blockchain and cryptocurrency markets and, by harnessing the power of cutting-edge AI and Machine Learning technolo gy, delivers unbiased, robust and up-to-date rankings that represent the real value of a very wide spectrum of coins so as to, eventually, act as a predictor of their future course. This ranking system is complete in the sense that it draws from a very large set of sources, categorized into three pillars, namely, sentiment analysis, fundamental and technological analysis, and technical analysis. Vespucci is part of the integrated ecosystem of Volentix, built around the decentralized exchange platform VDex; the latter employs a collection of smart EOS.IO contracts to establish quick and secure transactions, user anonymity, liquidity, scalability, performance, and estimation of profit margin. This whit e paper presents an in-depth overview of how Vespucci works, including a discussion of several technical aspects, and also highlights the different ways it can be used.
+The relatively recent explosion of cryptocurrencies has attracted a lot of popularity and more people are becoming aware of the benefits over fiat currency. המספר ההולך וגדל של פלטפורמות אשר תומכות במטבעות-קריפטו, ומאפשרות העברות בין מגוון רחב של מוצרים ושירותים, מושך משתמשים רבים היוצרים דור חדש ודינאמי של סוחרים, כאשר עבורם מורכבות טכנולוגיית הבלוקצ'יין שקופה. בכדי לנווט את העולם המורכב של מטבעות הקריפטו, משתמשים חדשים יחד עם משקיעים מנוסים יטיבו באופן משמעותי ממערכת המעריכה את אותם המטבעות, ויוצרת מדרג בו ניתן להשתמש כמדריך השקעות שיועצב באופן אישי על-ידי פרמטרים מוגדרים של המשתמש. Vespucci הינה מערכת חדשה אשר עולה הרבה מעבר לפונקציות שנזכרו לעיל. In particular, it monitors the evolution of blockchain and cryptocurrency markets and, by harnessing the power of cutting-edge AI and Machine Learning technolo gy, delivers unbiased, robust and up-to-date rankings that represent the real value of a very wide spectrum of coins so as to, eventually, act as a predictor of their future course. This ranking system is complete in the sense that it draws from a very large set of sources, categorized into three pillars, namely, sentiment analysis, fundamental and technological analysis, and technical analysis. Vespucci is part of the integrated ecosystem of Volentix, built around the decentralized exchange platform VDex; the latter employs a collection of smart EOS.IO contracts to establish quick and secure transactions, user anonymity, liquidity, scalability, performance, and estimation of profit margin. This whit e paper presents an in-depth overview of how Vespucci works, including a discussion of several technical aspects, and also highlights the different ways it can be used.
 
 * ###**סקירה כללית**
 
@@ -10,7 +10,7 @@ Vespucci הוא חלק ממערכת הVolentix. באופן ייחודי הוא �
 
 מטרתנו העיקרית היא להציע לכל משתמשי הנכס-הדיגיטלי סוכן אינטואיטיבי ואנליטי, וכמו כן מערכת דירוג בעבור נכסים דיגיטליים, בעת מיזוגם של ההיבטים הבאים:
 
-* מונה סנטימנט עבור ניתוח רגשי (SA),
+* מונה סנטימנטלי עבור ניתוח רגשי (SA),
 * ניתוח טכני (TA), ו
 * ניתוח יסודי / טכנולוגי (FTA).
 
@@ -26,11 +26,11 @@ Vespucci מציע פלטפורמה מבוססת-רשת אשר תאפשר למש�
 
 * סוכן אינטואיטיבי ואנליטי המקל על הבנת הסקירה הכללית של מטבעות-קריפטו.
 * מערכת דירוג של מטבעות-קריפטו, הכוללת הערכת סיכונים.
-* לוח מחוונים בעבור חדשות של מטבעות-קריפטו.
+* "לוח מחוונים" בעבור חדשות של מטבעות-קריפטו.
 
 ![](https://volentix.io/file/2019/01/02-icon.jpg)
 
-היכולת האנליטית ודירוגית של Vespucci מסתמכת על שלושה עמודי תווך שהם: ניתוח סנטימנטלי (רגשי), ניתוח טכני / כלכלי, וניתוח יסודי / טכנולוגי. על ידי העסקת מכונת למידה וטכנולוגיית רשת נוירונים, Vespucci משלב בין היבטים אלו בכדי לספק שיטות מדרג ודירוג. כך גם הוא מציע שירות שאינו היה זמין לפני כן לעולם, לאור השילוב של כל התכונות בחלק הבא.
+היכולת האנליטית ודירוגית של Vespucci מסתמכת על שלושה עמודי תווך שהם: ניתוח סנטימנטלי (רגשי), ניתוח טכני / כלכלי, וניתוח יסודי / טכנולוגי. על ידי העסקת מכונת למידה וטכנולוגיית רשת נוירונים, Vespucci משלב בין היבטים אלו בכדי לספק שיטות מדרג ודירוג. הוא מציע שירות שאינו היה זמין לפני כן לעולם, לאור השילוב של כל התכונות בחלק הבא.
 
 ![](https://volentix.io/file/2019/01/1k.jpg)
 
@@ -41,7 +41,7 @@ Vespucci מציע פלטפורמה מבוססת-רשת אשר תאפשר למש�
 התכונות של Vespucci הן כדלקמן.
 
 * דירוגן של מטבעות-קריפטו, המוביל בקלות אל מכונת חיזוי.
-* קומבינציה של ספקטרום קריטריונים שלם הנלקח מניתוח יסודי / טכנולוגי, משם להיבטים כלכליים / טכניים, ועד מד סנטימנט.
+* קומבינציה של ספקטרום קריטריונים שלם הנלקח מניתוח יסודי / טכנולוגי, משם להיבטים כלכליים / טכניים, ועד למד רגשות.
 * שקיפות במתודולוגיה (מקורות נתוני מידע, מנגנון עיכול, תהליך מניפולציה נתוני, אלגוריתמים)
 * ספקטרום נרחב של מאגרים ( בכדי להימנע מנתונים מוטים)
 * עיצוב מודולרי אשר מציע יכולת הרחבה של הפלטפורמה ליישומים אחרים, כגון חוזים חכמים.
@@ -55,24 +55,24 @@ Vespucci תוכנן תחת העקרונות הבאים.
 * Objective in order not to risk compromising the Volentix DAO goodwill before it is established beyond any doubt
 * אוטומטי
 * בר דרישה
-* יישום מבוזר
+* הטמעה מבוזרת
 * קוד-פתוח
 * אינטואיטיבי
 * ####**איך VESPUCCI עובד**
 
-שלושת עמודי התווך מתוארים בתוך הסעיפים הבאים. בסעיפים אלו מצוינים מספר רב של קריטריונים. The results of the SA component is made available along with the Technical and FTA results to the users so they can access a complete 360 view of each coin’s state, rank and ultimately understand the coin’s true value and potential. ‪An evaluation of both established cryptocurrencies and known “scam-coins” is performed, and the resulting parameters deemed most relevant in determining cryptocurrency validity is integrated into the system.
+שלושת עמודי התווך מתוארים בסעיפים הבאים. בסעיפים אלו מצוינים מספר רב של קריטריונים. The results of the SA component is made available along with the Technical and FTA results to the users so they can access a complete 360 view of each coin’s state, rank and ultimately understand the coin’s true value and potential. ‪An evaluation of both established cryptocurrencies and known “scam-coins” is performed, and the resulting parameters deemed most relevant in determining cryptocurrency validity is integrated into the system.
 
 In order to test Vespucci in a semi-public release using prospective volunteers, the system is being introduced to various outside users for bug testing of the assessment system functions, and the UI. ‬‪It is carried out in a public setting through the organization of a closed beta release. Users are selected to allow for more constructive and relevant feedback information.‬ ‪An ongoing iterative process of tweaks, fixes, and adjustments will take place during the beta release from the insight derived from user feedback.‬
 
 * ### **עמודי תווך**
 
-* #### **ניתוח סנטימנט**
+* #### **ניתוח רגשי**
 
-סנטימנט השוק נחקר על ידי תחום יחסית חדש בשם [ כלכלה התנהגותית](https://www.investopedia.com/terms/b/behavioralfinance.asp). זה מתחיל עם המסקנה שאין השוק יעיל רב הזמן, ואת אי-יעילות זו ניתן להסביר על-ידי פסיכולוגיה ו[מידעי חברה](https://www.investopedia.com/terms/s/social-science.asp) אחרים. הרעיון של החלת מדעי החברה אל עבר הכלכלה הוכשר במלואו כש[D. Kahneman](https://www.investopedia.com/terms/d/daniel-kahneman.asp), פסיכולוג, ב2002 זכה בפרס נובל לכלכלה -- היה הפסיכולוג הראשון לעשות זאת. המון מן הרעיונות בכלכלה התנהגותית מאשרים חשדות הניתנות לצפייה: כאשר משקיעים נוטים להדגשת-יתר של נתוני מידע אשר אמורים לבוא ביתר קלות; כי משקיעים רבים מייחסים חשיבות רבה יותר לאבידות מאשר לרווחים המקבילים; וכשלמשקיעים הנטייה להתמיד בטעות.
+שוק הסנטימנטליות נחקר על ידי תחום יחסית חדש בשם [ כלכלה התנהגותית](https://www.investopedia.com/terms/b/behavioralfinance.asp). זה מתחיל עם המסקנה שאין השוק יעיל רב הזמן, ואת אי-יעילות זו ניתן להסביר על-ידי פסיכולוגיה ו[מידעי חברה](https://www.investopedia.com/terms/s/social-science.asp) אחרים. הרעיון של החלת מדעי החברה אל עבר הכלכלה הוכשר במלואו כש[D. Kahneman](https://www.investopedia.com/terms/d/daniel-kahneman.asp), פסיכולוג, ב2002 זכה בפרס נובל לכלכלה -- היה הפסיכולוג הראשון לעשות זאת. המון מן הרעיונות בכלכלה התנהגותית מאשרים חשדות הניתנות לצפייה: כאשר משקיעים נוטים להדגשת-יתר של נתוני מידע אשר אמורים לבוא ביתר קלות; כי משקיעים רבים מייחסים חשיבות רבה יותר לאבידות מאשר לרווחים המקבילים; וכשלמשקיעים הנטייה להתמיד בטעות.
 
 אחד מהפקטורים החשובים ביותר שמשפיעים על דירוג וערך מטבעות-קריפטו הינו ביטחון וסנטימנט הציבור. Sentiment bears major weight of cryptocurrencies monetary valuation. דעות פומביות לחלוטין זמינות לאיסוף וניתוח. עמוד תווך עיקרי בפלטפורמת הדירוג של Vespucci מבוסס על ניתוח סנטימנטלי (SA) של תכנים הקשורים לקריפטו, הנוצרים על-ידי הציבור במדיה החברתית (טוויטר, פייסבוק, טלגרם, רדיט, בלוגים, פורומים ואתרי חדשות). The key differentiating fact of Vespucci SA component is the broad and complete spectrum of data sources that are collected and analyzed. אנו מאמינים כי רק על-ידי כיסוי כל מקור פוטנציאלי של דעה פומבית הקשורה לכל מטבע-קריפטו, המצב האמיתי של שוק הסנטימנט נחשף.
 
-רכיב הSA של Vespucci נבנה בגישה מושהית. השלב הראשון כולל את מימוש המנגנון לעיכול נתוני מידע רבים (Big Data), המבוסס על ענן מרכזי ומדרגי. מנגנון זה יכול להאזין בצורה ממושכת למקורות נתוני המידע שהוזכרו לעיל, ובאפשרותו לעכל כל תכן/הודעה אשר רלוונטי לתחום מטבעות-הקריפטו. הוא אינו משתמש באחסון מתמיד. The same mechanism scores the Sentiment of the ingested content using an AI driven score function and text analytics libraries for analyzing social media content. The module also relies on further tools such as NTLK and TextBlob that assign numerical scores of sentiment to pieces of text. This process need not be transparent to the user.
+רכיב הSA של Vespucci נבנה בגישה מושהית. השלב הראשון כולל את מימוש המנגנון לעיכול נתוני מידע רבים (Big Data), המבוסס על ענן מרכזי ומדרגי. מנגנון זה יכול להאזין בצורה ממושכת למקורות נתוני המידע שהוזכרו לעיל, ובאפשרותו לעבד כל תוכן/הודעה אשר רלוונטי לכל סוג של מטבע-קריפטו. הוא אינו משתמש באחסון מתמיד. The same mechanism scores the Sentiment of the ingested content using an AI driven score function and text analytics libraries for analyzing social media content. The module also relies on further tools such as NTLK and TextBlob that assign numerical scores of sentiment to pieces of text. This process need not be transparent to the user.
 
 This ensures that Vespucci SA component is able to cover the vast majority of public opinion. Results are compared over periods of one hour, one day and one week. The outputs are available through APIs for internal use by other Vespucci components such as the front-end web UI as well as to external users that want to consume the data or build third-party applications based on Vespucci.
 
@@ -103,7 +103,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>טוויטר </td>
 
-<td>סנטימנט</td>
+<td>רגש</td>
 
   </tr>
   
@@ -112,7 +112,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Reddit</td>
 
-<td>סנטימנט</td>
+<td>רגש</td>
 
   </tr>
   
@@ -121,7 +121,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>פייסבוק</td>
 
-<td>סנטימנט</td>
+<td>רגש</td>
 
   </tr>
   
@@ -130,7 +130,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>טלגרם</td>
 
-<td>סנטימנט</td>
+<td>רגש</td>
 
   </tr>
   
@@ -139,7 +139,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>LinkedIn</td>
 
-<td>סנטימנט וטכנולוגיה</td>
+<td>רגש וטכנולוגיה</td>
 
   </tr>
   
@@ -202,7 +202,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>CCN</td>
 
-<td>סנטימנט (פורומים וחדשות)</td>
+<td>רגש (פורומים וחדשות)</td>
 
   </tr>
   
@@ -211,7 +211,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>CoinDesk</td>
 
-<td>סנטימנט (פורומים וחדשות)</td>
+<td>רגש (פורומים וחדשות)</td>
 
   </tr>
   
@@ -220,7 +220,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Bitcointalk</td>
 
-<td>סנטימנט (פורומים וחדשות) </td>
+<td>רגש (פורומים וחדשות) </td>
 
   </tr>
   
@@ -236,7 +236,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 * ####** ניתוח טכני**
 
-ניתוח טכני הוא כלי מסחר הנועד להעריך [ אבטחות](https://www.investopedia.com/terms/s/security.asp) ולזהות הזדמנויות מסחריות ע''י ניתוח סטטיסטיקות שנאספו מפעילות מסחרית, כגון תנודות ונפח מחיר. לא כמו מנתחים יסודיים אשר מטרתם היא להעריך ערך פנימי מסוים לביטחון, [ מנתחים טכניים](https://www.investopedia.com/terms/t/technical-analyst.asp) מתרכזים על טבלאות של תנודות מחיר וכלים אנליטיים אחדים הנועדו להאמיד ערך חולשה או חוזקה לביטחון. מקור טיפוסי עלול להיות **coinmarketcap**. אנו מרוכזים באינדיקטורים ושיטות המתאימות בעבור נכסים בעלי תנודתיות גבוהה במחירים, ולכן זה מתאים גם בעבור מטבעות-קריפטו.
+ניתוח טכני הוא כלי מסחר הנועד להעריך [ אבטחות](https://www.investopedia.com/terms/s/security.asp) ולזהות הזדמנויות מסחריות ע''י ניתוח סטטיסטיקות שנאספו מפעילות מסחרית, כגון תנודות ונפח מחיר. לא כמו מנתחים יסודיים אשר מטרתם היא להעריך ערך פנימי מסוים לביטחון, [ מנתחים טכניים](https://www.investopedia.com/terms/t/technical-analyst.asp) מתרכזים על טבלאות של תנודות מחיר וכלים אנליטיים אחדים הנועדו להאמיד ערך חולשה או חוזקה לביטחון. מקור אופייני יכול להיות **coinmarketcap**. אנו מרוכזים באינדיקטורים ושיטות המתאימות בעבור נכסים בעלי תנודתיות גבוהה במחירים, ולכן זה מתאים גם בעבור מטבעות-קריפטו.
 
 Technical analysts believe the analysis of price movement or the supply and demand of currencies is the best way to identify trends in the currency. Price movements tend to trade within a trend or range. In connection with this belief, technical analysts assume that history tends to repeat itself, based on the idea that market participants have often reacted in a similar fashion to reoccurring market events. There is a very large number of techniques and indices for data analysis. In this section, we focus on certain simple techniques, such as Keltner Channels , moving average crossovers, RSI, Bollinger Bands, and the popular MACD, and to some advanced methods, such as Fibonnaci, and Ichimoku Kinko Hyo.
 
@@ -402,7 +402,7 @@ The **implementation** of the Vespucci analysis tools is in Python using various
 * NumPy, Pandas, Seaborn, matplotlib for the analysis part.
 * Scikit-learn, TensorFlow for machine learning.
 * NLTK, Tweepy, VADER, TextBlob for twitter sentiment analysis.
-* pyodbc to connect with our database.
+* "pyodbc" על מנת להתחבר אל מאגר הנתונים שלנו.
 * Blockchair.com API and coinmarketcap, a wrapper around the coinmarketcap.com API, to obtain information about each coin, such as the market cap ranking, and to update them easily
 
 Initially, most of those processes run on Linux Virtual Machines and results are kept in SQL databases. In case of insufficiency, a serverless frameworks shall be considered. In the immediate future powerful servers with GPUs are designed to perform efficiently all of our analysis (Kubernetes may be relevant here, assuming Docker containers).
