@@ -288,25 +288,25 @@ Among others, some of the features available by both APIs are:
 * transaction count – number of transactions happening on the public blockchain a day
 * transaction volume (usd) – total value of outputs on the blockchain, on a given day
 * adjusted transaction volume (usd) – estimated ([https://coinmetrics.io/introducing-adjusted-estimates](https://coinmetrics.io/introducing-adjusted-estimates/))
-* payment count
-* active addresses
-* fees
-* median fee
-* generated coins
-* average difficulty
-* median transaction value (usd)
-* block size
-* block count
-* price (usd)
-* market capitalization (usd)
-* exchange volume(usd)
-* total coins mined
-* difficulty adjustment
-* block reward reduction, number & time
+* מונה תשלומים
+* כתובות פעילות
+* עמלות
+* עמלת median
+* מטבעות שנוצרו
+* רמת קושי ממוצעת
+* ערך העברה usd) median) 
+* גודל הבלוק
+* מונה בלוקים
+* מחיר (usd)
+* שווי שוק (usd)
+* נפח סחר (usd)
+* סכום כול המטבעות שכורו.
+* התאמת קושי
+* צמצום תגמול הבלוק, מספר & זמן
 * net hashes per second
-* total coins mined
+* סכום כול המטבעות שכורו.
 
-**Source Code – Developer activity**
+**קוד מקור -- פעילות מפתח**
 
 There is an aspect of quantitative analysis from a social perspective which looks at the involvement of the developer community surrounding the project, quite related to Sentiment Analysis. Research into metrics that accurately reflect rates of community participation as well as creator participation will be assessed. These factors may include but are not limited to:‬
 
@@ -338,7 +338,7 @@ A wide range of technology would be applicable for this layer, though in keeping
 
 A great number of the tokens being traded today are ERC20 tokens implemented on top of the Ethereum blockchain. Further, many of the most exciting tokens are part of a larger system of smart contracts that use an ERC20 token as their native token. Providing an in-depth analysis of these, and any smart contract system riding on top of Ethereum’s EVM is very useful for the high-level goals of Vespucci. This module thus exists to consume smart contract systems associated with some ERC20 tokens to grade them, at the code-level, on overall safety, the presence of bugs, and other important factors that can be ascertained with a static analysis of the contract code in a system of smart contracts. Much of its core logic is written in Python, and bridges are developed to the blockchain statistics module.
 
-* ### **USER EXPERIENCE**
+* ### ** חווית המשתמש**
 
 ‪Vespucci has a User interface (UI) that allows for straightforward parameter input and coherently displays the resulting assessment metrics. The input interface provides a list with all available coins or a selection of the top ranked coins based on market cap value: the user may select those of interest to him/her. Alternatively, it is required for the user to provide the link to one (or more) cryptocurrency’s public blockchain along with the link to the project source code as basic inputs. The type and level of analysis to be performed on the given coin is chosen. More detailed analysis requires more inputs. ‬
 
@@ -346,19 +346,19 @@ The results interface provides a collapsed view, providing an index for expandab
 
 Following the success of the Ethereum Wallet and Ethereum Mist browser, the main interface exposed to a user is hosted inside an Electron app. Electron is a mature technology introduced by Github to create modern desktop applications. Since Vespucci is not tied to Desktop-based APIs however, it is also possible to port this application to run inside of a browser. The interface for the app can be designed by using mature UI libraries for modern applications. With each component existing on its own, it is also straightforward to pull components out and add new ones as the product is trialed with users without adversely affecting the product as a whole.
 
-PLATFORM FEATURES
+מאפייני פלטפורמה
 
-* Show all parameters that were used to calculate Vespucci score.
+* הראה את כל הפרמטרים אשר שומשו בעבור חישוב תוצאת Vespucci.
 * Ability for the user to modify basic parameters for score configuration.
-* Display filters for cryptocoins.
-* Cryptocurrency index
+* הצג פילטרים בעבור מטבעות-קריפטו.
+* אינדקס מטבעות-קריפטו
 * Rating system of Vespucci using 5 stars rating system
 * Show general information and characteristics of the cryptocurrency of user’s choice
-* Sentiment analysis charts
-* Cryptocurrency distribution scheme
-* Transaction history
-* Technical Characteristics
-* Charts of activity on Github
+* טבלאות ניתוח רגשי
+* מערך הפצה של מטבעות-קריפטו
+* היסטוריית העברות
+* תכונות טכניות
+* טבלאות של פעילות בGithub
 * פעילות ברשתות חברתיות המשתמשות בנקודות על-גבי מפת העולם
 * היכולת להוסיף טבלאות שירות נוספות באמצעות רשימה של פרמטרים
 
@@ -399,7 +399,7 @@ PLATFORM FEATURES
 
 The **implementation** of the Vespucci analysis tools is in Python using various data analytics libraries, wrappers for the different APIs, and libraries for machine learning. הספריות הנתונות לשימוש הן חלק מהבאות:
 
-* NumPy, Pandas, Seaborn, matplotlib for the analysis part.
+* NumPy, Pandas, Seaborn, matplotlib בעבור החלק הניתוחי.
 * Scikit-learn, TensorFlow בעבור למידת מכונה.
 * NLTK ,Tweepy, VADER, TextBlob בעבור ניתוח רגשי של טוויטר.
 * "pyodbc" על מנת להתחבר אל מאגר הנתונים שלנו.
