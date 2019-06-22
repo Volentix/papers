@@ -281,7 +281,7 @@ More advanced techniques for data analysis are the Fibonacci methods as well as 
 * מדרגיות נוגעת להשפעה של מספר צמתי-רשת, העברות ומשתמשים, ופיזור המיקום הגאוגרפי של הצמתים, על ביצועי המערכת.
 * Hardware requirements for storage, memory and processors needed to store the blockchain network and validate the transactions and blocks, as well as how these requirements change while the networks grows.
 
-בכדי להביא ליישום את הניתוח הנ"ל, פרטים נוספים ניתנים בחלק הבא. כיום, חוקרי בלוקצ'יין זמינים באופן נרחב על מנת לתמוך במשימה זו. במיוחד, חוקרי בלוקצ'יין כגון [coinmetrics](https://coinmetrics.io/) ו[cryptocompare](https://www.cryptocompare.com/) השתלבו על מנת לענות על הצרכים של FTA. The former is an open source crypto-asset analytics service, providing daily data for the most major cryptocurrencies (about 64 currently). Cryptocompare is a platform with live cryptocurrency data; its API makes available historical and live streaming cryptocurrency data, such as pricing, volume and block explorer data from multiple exchanges and blockchains.
+בכדי להביא ליישום את הניתוח הנ"ל, פרטים נוספים ניתנים בחלק הבא. כיום, חוקרי בלוקצ'יין זמינים באופן נרחב על מנת לתמוך במשימה זו. במיוחד, חוקרי בלוקצ'יין כגון [coinmetrics](https://coinmetrics.io/) ו[cryptocompare](https://www.cryptocompare.com/) השתלבו על מנת לענות על הצרכים של FTA. The former is an open source crypto-asset analytics service, providing daily data for the most major cryptocurrencies (about 64 currently). "Cryptocompare" הוא פלטפורמה עם נתוני מידע של מטבעות-קריפטו בזמן אמת; הAPI שלו מאפשר נראות לנתוני יתרות דיגיטליות היסטוריות עד לזמן אמת, כמו מחיר, נפח ונתוני חוקר בלוק מ"חלפני כספים" ובלוקצ'יינים רבים.
 
 Among others, some of the features available by both APIs are:
 
