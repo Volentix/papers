@@ -316,7 +316,7 @@ There is an aspect of quantitative analysis from a social perspective which look
 
 • יכולת גישה והיענות של היוצר
 
-This module (related to Sentiment analysis) examines information from Github and other sources such as literature review. It grades the quality of a codebase by looking at social cues well-known among software developers, and in particular:
+מודול זה ( הקשור אל ניתוח רגשי) מנתח מידע מGithub ומקורות אחרים כגון ביקורות ספרותיות. It grades the quality of a codebase by looking at social cues well-known among software developers, and in particular:
 
 * The expertise and track record of the team and their continued commitment to their project (frequency of commits, frequency the community responds to bugs, contributions over time, and the amount of time that has been consistently spent building up the project),
 * The activity on GitHub, which is tightly related to the previous item, and the number of followers of the project,
@@ -324,9 +324,9 @@ This module (related to Sentiment analysis) examines information from Github and
 * The corresponding white paper.
 * העקרונות המתמטיות והקריפטוגרפיות של המערכת.
 
-More specifically, some features of the git repositories that determine the repository’s popularity and robustness are its forks and stars, the activity of the maintenance team, measured by the rate of issues closed and of pull requests, as well as the quality of the project’s source code, measured by its test coverage and other code quality metrics. These can be obtained from the [CoinGecko](https://www.coingecko.com/en) API, a cryptocurrency ranking chart app that ranks digital currencies by developer activity, community, and liquidity.
+More specifically, some features of the git repositories that determine the repository’s popularity and robustness are its forks and stars, the activity of the maintenance team, measured by the rate of issues closed and of pull requests, as well as the quality of the project’s source code, measured by its test coverage and other code quality metrics. אלה ניתן להשיג מ[CoinGecko](https://www.coingecko.com/en) API, אפליקציית תרשים דירוגי מטבעות-קריפטו אשר מדרגת יתרות דיגיטליות על סמך פעילות המפתח, קהילה והנזלה.
 
-The combination of these criteria relies essentially on an adapted and powerful scoring function which, eventually, may be replaced by a Convolutional Neural Network, also discussed in support of Sentiment Analysis (see relevant section).
+השילוב של קריטריונים אלה מסתמך על פונקציית ניקוד מותאמת וחזקה אשר, בסופו של דבר, עשויה להיות מוחלפת ע"י רשת עצבית , מה שגם נלקח בחשבון בהסתמך על ניתוח רגשי ( ראה חלק רלוונטי).
 
 * #### ** סטטיסטיקות בלוקצ'יין, צומת רשתי שלם של הבלוקצ'יין, וניתוח EVM**
 
