@@ -278,10 +278,10 @@ More advanced techniques for data analysis are the Fibonacci methods as well as 
 * שלבי העברות, כאשר אמצעים שונים נלקחים בחשבון, כמו מספר ההעברות שהוגשו ואומתו בכל שניה ע''י כל צומת והרשת כולה, הזמן הממוצע של אימות עבור העברה והתנודתיות שלה.
 * מיסי העברות, אשר משתמשים עלולים לשלם לרשת, על מנת להשלים העברות או חוזים חכמים.
 * הביטחון כולל כמה היבטים כגון רגישות של המערכת להתקפות ( לדוגמא בזבוז כפול, התקפות Sybil), הפרטיות של העברות, כמו כן גם אנונימיות המשתמש.
-* Scalability concerns how the system’s performance is affected by the number of nodes, transactions and users, and the scattering of the geographic positions of the nodes.
+* מדרגיות נוגעת להשפעה של מספר צמתי-רשת, העברות ומשתמשים, ופיזור המיקום הגאוגרפי של הצמתים, על ביצועי המערכת.
 * Hardware requirements for storage, memory and processors needed to store the blockchain network and validate the transactions and blocks, as well as how these requirements change while the networks grows.
 
-To implement the above analysis, further detail is given in the next section. Today, blockchain explorers are widely available to support this task. In particular, blockchain explorers such as [coinmetrics](https://coinmetrics.io/) and [cryptocompare](https://www.cryptocompare.com/) were combined, in order to meet the needs of FTA. The former is an open source crypto-asset analytics service, providing daily data for the most major cryptocurrencies (about 64 currently). Cryptocompare is a platform with live cryptocurrency data; its API makes available historical and live streaming cryptocurrency data, such as pricing, volume and block explorer data from multiple exchanges and blockchains.
+בכדי להביא ליישום את הניתוח הנ"ל, פרטים נוספים ניתנים בחלק הבא. כיום, חוקרי בלוקצ'יין זמינים באופן נרחב על מנת לתמוך במשימה זו. במיוחד, חוקרי בלוקצ'יין כגון [coinmetrics](https://coinmetrics.io/) ו[cryptocompare](https://www.cryptocompare.com/) השתלבו על מנת לענות על הצרכים של FTA. The former is an open source crypto-asset analytics service, providing daily data for the most major cryptocurrencies (about 64 currently). Cryptocompare is a platform with live cryptocurrency data; its API makes available historical and live streaming cryptocurrency data, such as pricing, volume and block explorer data from multiple exchanges and blockchains.
 
 Among others, some of the features available by both APIs are:
 
