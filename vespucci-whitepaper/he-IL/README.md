@@ -258,7 +258,7 @@ More advanced techniques for data analysis are the Fibonacci methods as well as 
 
 **Fibonacci Channels:** The Fibonacci pattern can be applied to channels not only vertically, but also diagonally. One common technique is the combination of diagonal and vertical Fibonacci studies to find areas where both indicate significant resistance.
 
-**Ichimoku Kinko Hyo** is a technical indicator that is used to gauge momentum along with future areas of support and resistance.It was originally developed by a Japanese newspaper writer to combine various technical strategies into a single indicator that could be easily implemented and interpreted. Ichimoku indicator is a combination of five key components:
+**Ichimoku Kinko Hyo** הינו אינדיקטור טכני אשר משומש בכדי לאמוד את המומנטום, יחד עם אזורים עתידיים של תמיכה והתנגדות. במקור פותח ע"י כתב עיתונים יפני בשביל לשלב אסטרטגיות טכניות מרובות אל אינדיקטור יחיד אשר בקלות יוכל להתיישם ולהיקטע. אינדיקטור הIchimoku הינו שילוב של חמישה מרכיבים מרכזיים:
 
 1. Tenkan-sen: Represents support and resistance level, and it’s a signal line for reversals.
 2. Kijun-sen: Represents support and resistance level. It’s a confirmation of a trend change, and can be used as a trailing stop-loss point.
