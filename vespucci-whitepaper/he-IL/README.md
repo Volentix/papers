@@ -268,7 +268,7 @@ More advanced techniques for data analysis are the Fibonacci methods as well as 
 
 * #### ** ניתוח טכנולוגי ויסודי**
 
-טכנולוגיות בלוקצ'יין רבות פותחו בעבור התמודדות עם אתגרים שונים, ולכן, נועדו בכדי למלא דרישות שונות. A review of the technical concepts of the different blockchain technologies is our basis in understanding the impact of the different architectures in terms of performance, privacy, security and regulation. ניתוח כמותי מנקודת מבט טכנולוגית ( אל נא בלבלו זאת עם ניתוח טכני) מעריך ומתאם סטטיסטיקות רשתיות שונות הנובעות מהבלוקצ'יין, מה שנותן תצוגה בזמן אמת של מטבעות-קריפטו. סטטיסטיקות אלו כוללות, אך אינן מוגבלות ל:
+טכנולוגיות בלוקצ'יין רבות פותחו בעבור התמודדות עם אתגרים שונים, ולכן, נועדו בכדי למלא דרישות שונות. סקירת המושגים הטכניים בטכנולוגיות בלוקצ'יין שונות מהווה בשבילנו בסיס להבנת ההשפעה של עיצובים מבניים שונים במונחים של ביצוע, פרטיות, ביטחון ורגולציה. ניתוח כמותי מנקודת מבט טכנולוגית ( אל נא בלבלו זאת עם ניתוח טכני) מעריך ומתאם סטטיסטיקות רשתיות שונות הנובעות מהבלוקצ'יין, מה שנותן תצוגה בזמן אמת של מטבעות-קריפטו. סטטיסטיקות אלו כוללות, אך אינן מוגבלות ל:
 
 * זמן ריבוי של בלוקים הוא היבט חשוב, כיון שבלוקים הנוצרו לאחרונה מחויבים להתרבות בהקדם האפשרי על פני הבלוקצ'יין. למעט זמן ההמתנה למשתמש, עוד בעיה מרכזית הנובעת מזמן ריבוי היא שכל עיכוב זעיר יכול להביא להפסד ב ''מרוץ הבלוק'' כנגד בלוק הנוצר באותה עת.
 * גודל פונקציית גיבוב נגד קושי כעבור זמן, מחיר וצריכת כוח. נתונים אלה מציגים חפיפות שונות עם גודל פונקציית הגיבוב, כלומר הפונקציה תוכל לעקוב אחר העלייה\ירידה במקביל למחיר. היקף פונקציית גיבוב רשתית הוא גם כן נתון אבטחתי, כיוון שרשתות אשר להן פונקציית גיבוב נמוכה קל יותר לפרוץ.
@@ -277,7 +277,7 @@ More advanced techniques for data analysis are the Fibonacci methods as well as 
 * Miner distribution‬, indicating the number of miners online and how they are distributed (by pool), their fees, luck etc. Also,he software version of miners is also important, since ideally they should be on its latest version in order to support all the features of the Coin that they are mining.
 * שלבי העברות, כאשר אמצעים שונים נלקחים בחשבון, כמו מספר ההעברות שהוגשו ואומתו בכל שניה ע''י כל צומת והרשת כולה, הזמן הממוצע של אימות עבור העברה והתנודתיות שלה.
 * מיסי העברות, אשר משתמשים עלולים לשלם לרשת, על מנת להשלים העברות או חוזים חכמים.
-* Security includes several aspects such as the vulnerability of the system to attacks (e.g. double spending, Sybil attacks), the confidentiality of transactions, as well as user anonymity.
+* הביטחון כולל כמה היבטים כגון רגישות של המערכת להתקפות ( לדוגמא בזבוז כפול, התקפות Sybil), הפרטיות של העברות, כמו כן גם אנונימיות המשתמש.
 * Scalability concerns how the system’s performance is affected by the number of nodes, transactions and users, and the scattering of the geographic positions of the nodes.
 * Hardware requirements for storage, memory and processors needed to store the blockchain network and validate the transactions and blocks, as well as how these requirements change while the networks grows.
 
