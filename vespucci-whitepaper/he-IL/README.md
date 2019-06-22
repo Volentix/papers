@@ -344,7 +344,7 @@ A great number of the tokens being traded today are ERC20 tokens implemented on 
 
 The results interface provides a collapsed view, providing an index for expandable sections that displays the selected metrics in detail. The collapsed view presents the colour-coded rating summary of a cryptocurrency. The colour-coded rating is calculated using a weighted average of all assessment metrics.‬ ‪Each expandable section displays the metric or group of metrics in a graphical manner. Assessment metrics are separated into different sections based on their represented information such as data relating to social perspective or a technical perspective. An optimal indexing of assessment metrics are determined to allow for intuitive UI interaction in accessing and view data of interest for the user.‬
 
-Following the success of the Ethereum Wallet and Ethereum Mist browser, the main interface exposed to a user is hosted inside an Electron app. Electron is a mature technology introduced by Github to create modern desktop applications. Since Vespucci is not tied to Desktop-based APIs however, it is also possible to port this application to run inside of a browser. הממשק לאפליקציה יכול להתעצב באמצעות ספריות UI ותיקות בעבור יישומים מודרניים. With each component existing on its own, it is also straightforward to pull components out and add new ones as the product is trialed with users without adversely affecting the product as a whole.
+Following the success of the Ethereum Wallet and Ethereum Mist browser, the main interface exposed to a user is hosted inside an Electron app. Electron is a mature technology introduced by Github to create modern desktop applications. Since Vespucci is not tied to Desktop-based APIs however, it is also possible to port this application to run inside of a browser. הממשק לאפליקציה ניתן לעיצוב באמצעות ספריות UI ותיקות בעבור יישומים מודרניים. With each component existing on its own, it is also straightforward to pull components out and add new ones as the product is trialed with users without adversely affecting the product as a whole.
 
 מאפייני פלטפורמה
 
@@ -353,7 +353,7 @@ Following the success of the Ethereum Wallet and Ethereum Mist browser, the main
 * הצג פילטרים בעבור מטבעות-קריפטו.
 * אינדקס מטבעות-קריפטו
 * מערכת דירוג של Vespucci באמצעות מערכת דירוג של 5 כוכבים
-* הראה מידע ומאפיינים כלליים של מטבעות-קריפטו, בבחירת המשתמש.
+* מראה מידע ומאפיינים כלליים של מטבעות-קריפטו, לבחירתו של המשתמש.
 * טבלאות ניתוח רגשי
 * מערך הפצה של מטבעות-קריפטו
 * היסטוריית העברות
