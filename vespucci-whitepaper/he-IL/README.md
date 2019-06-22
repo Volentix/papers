@@ -304,7 +304,7 @@ Among others, some of the features available by both APIs are:
 * התאמת קושי
 * צמצום תגמול הבלוק, מספר & זמן
 * net hashes per second
-* סכום כול המטבעות שכורו.
+* סכום כל המטבעות שנכרו
 
 **קוד מקור -- פעילות מפתח**
 
@@ -330,11 +330,11 @@ The combination of these criteria relies essentially on an adapted and powerful 
 
 * #### **BLOCKCHAIN STATISTICS, BLOCKCHAIN FULL NODE, AND EVM ANALYSIS**
 
-מודול זה אחראי על התקשורת עם כל צומת-רשתי הנפרס על גבי כל בלוקצ'יין שנמצא תחת הערכה. תפקידו הוא לספק ממשק סטנדרטי ועקיב בעבור שכבת הקצה, על מנת להביא טבע מופשט יותר לכל בלוקצ'יין הקיים במערכת. זאת תוך כדי שאילתה (בקשה לדלייה של נתונים מקובץ או מבסיס נתונים) מכל צומת בלוק שלם המנוהל על-ידי המערכת, אשר תביא לאיסוף מידע על השרשור ומאפייני הרשת של אותו שרשור. במקרים רבים, טוקן סחיר אינו מונע על גבי השרשור הנאמן שלו, אלא בא ליישום מוקדם יותר באמצעות מערכת של חוזים הרצים על בלוקצ'יין מאפשר-חוזים-חכמים כגון Ethereum. במקרה שכזה, המודול מתקשר עם הצומת הרשתי השלם בשרשור הזה, וגם עם שאר המודולים. לדוגמא, מודול הניתוח הסטטי של Ethereum מצוין יותר לעומק במסמך זה.
+מודול זה אחראי על התקשורת עם כל צומת-רשתי הנפרס על גבי כל בלוקצ'יין שנמצא בבדיקה. תפקידו הוא לספק ממשק סטנדרטי ועקיב לשכבת הקצה של RESTful , על מנת להביא טבע מופשט יותר לכל בלוקצ'יין הקיים במערכת. זאת תוך כדי שאילתה (בקשה לדלייה של נתונים מקובץ או מבסיס נתונים) מכל צומת בלוק שלם המנוהל על-ידי המערכת, אשר תביא לאיסוף מידע על השרשור ומאפייני הרשת של אותו שרשור. במקרים רבים, מטבע סחיר לא "רץ" על גבי שרשורו הייעודי, אלא מוטמע מוקדם יותר באמצעות מערכת של חוזים הרצים על בלוקצ'יין-מאפשר-חוזים-חכמים כגון Ethereum. במקרה שכזה, המודול מתקשר עם הצומת הרשתי השלם בשרשור הזה, וגם עם שאר המודולים. לדוגמא, מודול הניתוח הסטטי של Ethereum מפורט באופן מעמיק במסמך זה.
 
-A wide range of technology would be applicable for this layer, though in keeping with restricting several different technologies necessary to understand the full system, and using widely-deployed technologies, choosing a similar technology as the RESTful endpoint layer with which this module interacts would be prudent. מודול **מבוסס node.js** יהיה להחלטה נבונה, אף על פי שיישומים טכנולוגיים אחרים בהחלט אפשריים גם כן. Also, Ruby on Rails offers an extremely agile way to create REST APIs as well.
+A wide range of technology would be applicable for this layer, though in keeping with restricting several different technologies necessary to understand the full system, and using widely-deployed technologies, choosing a similar technology as the RESTful endpoint layer with which this module interacts would be prudent. מודול **מבוסס node.js** יהווה בחירה חכמה, אף על פי שהטמעות טכנולוגיות אחרות בהחלט אפשריות גם כן. Also, Ruby on Rails offers an extremely agile way to create REST APIs as well.
 
-על מנת ללקט את המידע הרלוונטי ביותר בנושא בלוקצ'יין מסוים, נחוץ לרוב להריץ צומת שלם אשר יתבונן על כל בלוק נכנס. Doing so, it can provide real-time information on any of several important statistics, including chain height, inferring average and running average block times, block sizes, transaction counts, and any number of other properties visible to any full node. The interface for querying this full node is a decision made by the designers of the client in question, and is thus the responsibility of the blockchain statistics module to conform to this interface to normalize it into a form that can be consumed upstream by modules that are agnostic to the specific interface.
+על מנת לאסוף את המידע המועיל ביותר בנושא בלוקצ'יין מסוים, נחוץ לרוב להריץ צומת שלם אשר יתבונן על כל בלוק נכנס. Doing so, it can provide real-time information on any of several important statistics, including chain height, inferring average and running average block times, block sizes, transaction counts, and any number of other properties visible to any full node. The interface for querying this full node is a decision made by the designers of the client in question, and is thus the responsibility of the blockchain statistics module to conform to this interface to normalize it into a form that can be consumed upstream by modules that are agnostic to the specific interface.
 
 A great number of the tokens being traded today are ERC20 tokens implemented on top of the Ethereum blockchain. Further, many of the most exciting tokens are part of a larger system of smart contracts that use an ERC20 token as their native token. Providing an in-depth analysis of these, and any smart contract system riding on top of Ethereum’s EVM is very useful for the high-level goals of Vespucci. This module thus exists to consume smart contract systems associated with some ERC20 tokens to grade them, at the code-level, on overall safety, the presence of bugs, and other important factors that can be ascertained with a static analysis of the contract code in a system of smart contracts. Much of its core logic is written in Python, and bridges are developed to the blockchain statistics module.
 
@@ -348,7 +348,7 @@ Following the success of the Ethereum Wallet and Ethereum Mist browser, the main
 
 מאפייני פלטפורמה
 
-* הראה את כל הפרמטרים אשר שומשו בעבור חישוב תוצאת Vespucci.
+* הראה את כל הפרמטרים שבהם השתמשו כדי לחשב Vespucci Score.
 * Ability for the user to modify basic parameters for score configuration.
 * הצג פילטרים בעבור מטבעות-קריפטו.
 * אינדקס מטבעות-קריפטו
@@ -357,7 +357,7 @@ Following the success of the Ethereum Wallet and Ethereum Mist browser, the main
 * טבלאות ניתוח רגשי
 * מערך הפצה של מטבעות-קריפטו
 * היסטוריית העברות
-* תכונות טכניות
+* מאפיינים טכניים
 * טבלאות של פעילות בGithub
 * פעילות ברשתות חברתיות המשתמשות בנקודות על-גבי מפת העולם
 * היכולת להוסיף טבלאות שירות נוספות באמצעות רשימה של פרמטרים
