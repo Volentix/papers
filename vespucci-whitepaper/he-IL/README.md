@@ -258,10 +258,10 @@ More advanced techniques for data analysis are the Fibonacci methods as well as 
 
 **Fibonacci Channels:** The Fibonacci pattern can be applied to channels not only vertically, but also diagonally. One common technique is the combination of diagonal and vertical Fibonacci studies to find areas where both indicate significant resistance.
 
-**Ichimoku Kinko Hyo** הינו אינדיקטור טכני אשר משומש בכדי לאמוד את המומנטום, יחד עם אזורים עתידיים של תמיכה והתנגדות. במקור פותח ע"י כתב עיתונים יפני בשביל לשלב אסטרטגיות טכניות מרובות אל אינדיקטור יחיד אשר בקלות יוכל להתיישם ולהיקטע. אינדיקטור הIchimoku הינו שילוב של חמישה מרכיבים מרכזיים:
+**Ichimoku Kinko Hyo** הינו אינדיקטור טכני אשר משמש בכדי לאמוד את המומנטום, יחד עם אזורים עתידיים של תמיכה והתנגדות. במקור פותח ע"י עיתונאי יפני בשביל לאגד אסטרטגיות טכניות מרובות בתוך אינדיקטור יחיד שאפשר להטמיע ולפרש בקלות. אינדיקטור הIchimoku הינו שילוב של חמישה מרכיבים מרכזיים:
 
-1. Tenkan-sen: Represents support and resistance level, and it’s a signal line for reversals.
-2. Kijun-sen: Represents support and resistance level. It’s a confirmation of a trend change, and can be used as a trailing stop-loss point.
+1. Tenkan-sen: מציג רמות תמיכה והתנגדות, כמו כן גם קו קליטה להיפוכים.
+2. Kijun-sen: מציג רמות תמיכה והתנגדות. It’s a confirmation of a trend change, and can be used as a trailing stop-loss point.
 3. Senkou Span A: Is the average of tenkan-sen and kijun-sen for 26 periods ahead. The resulting line is used to identify future areas of support and resistance.
 4. Senkou Span B: Is calculated by the highest high and the lowest low over the past 52 periods, for 26 periods ahead. The resulting line is used to identify future areas of support and resistance.
 5. Chickou Span: Is the current period’s closing price plotted 26 days back on the chart. This line is used to show possible areas of support and resistance.
@@ -344,15 +344,15 @@ A great number of the tokens being traded today are ERC20 tokens implemented on 
 
 The results interface provides a collapsed view, providing an index for expandable sections that displays the selected metrics in detail. The collapsed view presents the colour-coded rating summary of a cryptocurrency. The colour-coded rating is calculated using a weighted average of all assessment metrics.‬ ‪Each expandable section displays the metric or group of metrics in a graphical manner. Assessment metrics are separated into different sections based on their represented information such as data relating to social perspective or a technical perspective. An optimal indexing of assessment metrics are determined to allow for intuitive UI interaction in accessing and view data of interest for the user.‬
 
-Following the success of the Ethereum Wallet and Ethereum Mist browser, the main interface exposed to a user is hosted inside an Electron app. Electron is a mature technology introduced by Github to create modern desktop applications. Since Vespucci is not tied to Desktop-based APIs however, it is also possible to port this application to run inside of a browser. The interface for the app can be designed by using mature UI libraries for modern applications. With each component existing on its own, it is also straightforward to pull components out and add new ones as the product is trialed with users without adversely affecting the product as a whole.
+Following the success of the Ethereum Wallet and Ethereum Mist browser, the main interface exposed to a user is hosted inside an Electron app. Electron is a mature technology introduced by Github to create modern desktop applications. Since Vespucci is not tied to Desktop-based APIs however, it is also possible to port this application to run inside of a browser. הממשק לאפליקציה יכול להתעצב באמצעות ספריות UI ותיקות בעבור יישומים מודרניים. With each component existing on its own, it is also straightforward to pull components out and add new ones as the product is trialed with users without adversely affecting the product as a whole.
 
 מאפייני פלטפורמה
 
 * הראה את כל הפרמטרים שבהם השתמשו כדי לחשב Vespucci Score.
-* Ability for the user to modify basic parameters for score configuration.
+* יכולת בעבור המשתמש לשנות פרמטרים בסיסיים לתצורת ציון.
 * הצג פילטרים בעבור מטבעות-קריפטו.
 * אינדקס מטבעות-קריפטו
-* Rating system of Vespucci using 5 stars rating system
+* מערכת דירוג של Vespucci באמצעות מערכת דירוג של 5 כוכבים
 * הראה מידע ומאפיינים כלליים של מטבעות-קריפטו, בבחירת המשתמש.
 * טבלאות ניתוח רגשי
 * מערך הפצה של מטבעות-קריפטו
