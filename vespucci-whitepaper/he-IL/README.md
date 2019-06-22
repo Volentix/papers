@@ -299,8 +299,8 @@ Among others, some of the features available by both APIs are:
 * מונה בלוקים
 * מחיר (usd)
 * שווי שוק (usd)
-* נפח סחר (usd)
-* סכום כול המטבעות שכורו.
+* נפח מסחר (usd)
+* סכום כל המטבעות שנכרו
 * התאמת קושי
 * צמצום תגמול הבלוק, מספר & זמן
 * net hashes per second
