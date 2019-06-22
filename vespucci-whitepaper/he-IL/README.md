@@ -316,15 +316,15 @@ There is an aspect of quantitative analysis from a social perspective which look
 
 • יכולת גישה והיענות של היוצר
 
-מודול זה ( הקשור אל ניתוח רגשי) מנתח מידע מGithub ומקורות אחרים כגון ביקורות ספרותיות. It grades the quality of a codebase by looking at social cues well-known among software developers, and in particular:
+מודול זה ( הקשור לניתוח רגשי) מנתח מידע מGithub וממקורות אחרים כגון ביקורות ספרותיות. הוא מדרג את האיכות של בסיסי-קוד באמצעות התבוננות ברמזים חברתיים ידועים בקרב מפתחים של תוכנות, ובמיוחד:
 
 * The expertise and track record of the team and their continued commitment to their project (frequency of commits, frequency the community responds to bugs, contributions over time, and the amount of time that has been consistently spent building up the project),
 * The activity on GitHub, which is tightly related to the previous item, and the number of followers of the project,
 * The quality of code (programming languages, test coverage, ratio of bugs over lines of code,build breaks etc), robustness, and maintenance of the software,
-* The corresponding white paper.
+* "הרשימה הלבנה המקבילה".
 * העקרונות המתמטיות והקריפטוגרפיות של המערכת.
 
-More specifically, some features of the git repositories that determine the repository’s popularity and robustness are its forks and stars, the activity of the maintenance team, measured by the rate of issues closed and of pull requests, as well as the quality of the project’s source code, measured by its test coverage and other code quality metrics. אלה ניתן להשיג מ[CoinGecko](https://www.coingecko.com/en) API, אפליקציית תרשים דירוגי מטבעות-קריפטו אשר מדרגת יתרות דיגיטליות על סמך פעילות המפתח, קהילה והנזלה.
+More specifically, some features of the git repositories that determine the repository’s popularity and robustness are its forks and stars, the activity of the maintenance team, measured by the rate of issues closed and of pull requests, as well as the quality of the project’s source code, measured by its test coverage and other code quality metrics. את אלו ניתן להשיג מ[CoinGecko](https://www.coingecko.com/en) API, אפליקציית תרשים דירוגי של מטבעות-קריפטו אשר מדרג יתרות דיגיטליות על סמך פעילות המפתח, קהילה ונזילות המטבע.
 
 השילוב של קריטריונים אלה מסתמך על פונקציית ניקוד מותאמת וחזקה אשר, בסופו של דבר, עשויה להיות מוחלפת ע"י רשת עצבית , מה שגם נלקח בחשבון בהסתמך על ניתוח רגשי ( ראה חלק רלוונטי).
 
