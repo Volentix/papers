@@ -310,11 +310,11 @@ Among others, some of the features available by both APIs are:
 
 There is an aspect of quantitative analysis from a social perspective which looks at the involvement of the developer community surrounding the project, quite related to Sentiment Analysis. Research into metrics that accurately reflect rates of community participation as well as creator participation will be assessed. These factors may include but are not limited to:‬
 
-‪• online community participation
+• השתתפות קהילתית מקוונת
 
-‪• code base activity‬
+• פעילות בסיס קוד
 
-‪• creator approachability and responsiveness ‬.
+• יכולת גישה והיענות של היוצר
 
 This module (related to Sentiment analysis) examines information from Github and other sources such as literature review. It grades the quality of a codebase by looking at social cues well-known among software developers, and in particular:
 
@@ -322,13 +322,13 @@ This module (related to Sentiment analysis) examines information from Github and
 * The activity on GitHub, which is tightly related to the previous item, and the number of followers of the project,
 * The quality of code (programming languages, test coverage, ratio of bugs over lines of code,build breaks etc), robustness, and maintenance of the software,
 * The corresponding white paper.
-* The mathematical and cryptographical principles of the system.
+* העקרונות המתמטיות והקריפטוגרפיות של המערכת.
 
 More specifically, some features of the git repositories that determine the repository’s popularity and robustness are its forks and stars, the activity of the maintenance team, measured by the rate of issues closed and of pull requests, as well as the quality of the project’s source code, measured by its test coverage and other code quality metrics. These can be obtained from the [CoinGecko](https://www.coingecko.com/en) API, a cryptocurrency ranking chart app that ranks digital currencies by developer activity, community, and liquidity.
 
 The combination of these criteria relies essentially on an adapted and powerful scoring function which, eventually, may be replaced by a Convolutional Neural Network, also discussed in support of Sentiment Analysis (see relevant section).
 
-* #### **BLOCKCHAIN STATISTICS, BLOCKCHAIN FULL NODE, AND EVM ANALYSIS**
+* #### ** סטטיסטיקות בלוקצ'יין, צומת רשתי שלם של הבלוקצ'יין, וניתוח EVM**
 
 מודול זה אחראי על התקשורת עם כל צומת-רשתי הנפרס על גבי כל בלוקצ'יין שנמצא בבדיקה. תפקידו הוא לספק ממשק סטנדרטי ועקיב לשכבת הקצה של RESTful , על מנת להביא טבע מופשט יותר לכל בלוקצ'יין הקיים במערכת. זאת תוך כדי שאילתה (בקשה לדלייה של נתונים מקובץ או מבסיס נתונים) מכל צומת בלוק שלם המנוהל על-ידי המערכת, אשר תביא לאיסוף מידע על השרשור ומאפייני הרשת של אותו שרשור. במקרים רבים, מטבע סחיר לא "רץ" על גבי שרשורו הייעודי, אלא מוטמע מוקדם יותר באמצעות מערכת של חוזים הרצים על בלוקצ'יין-מאפשר-חוזים-חכמים כגון Ethereum. במקרה שכזה, המודול מתקשר עם הצומת הרשתי השלם בשרשור הזה, וגם עם שאר המודולים. לדוגמא, מודול הניתוח הסטטי של Ethereum מפורט באופן מעמיק במסמך זה.
 
@@ -403,9 +403,9 @@ The **implementation** of the Vespucci analysis tools is in Python using various
 * Scikit-learn, TensorFlow בעבור למידת מכונה.
 * NLTK ,Tweepy, VADER, TextBlob בעבור ניתוח רגשי של טוויטר.
 * "pyodbc" על מנת להתחבר אל מאגר הנתונים שלנו.
-* ''Blockchair.com API'' ו''coinmarketcap'', מעטפת סביב API הcoinmarketcap.com, עבור השגת מידע על כל מטבע, כמו דירוגי שווי השוק, ולעדכנם בהיתר קלות.
+* ''Blockchair.com API'' ו''coinmarketcap'', מעטפת סביב API הcoinmarketcap.com, עבור השגת מידע על כל מטבע, כמו דירוגי שווי השוק, ולעדכנם בקלות.
 
-תחילה, רוב התהליכים הללו רצים על מכונות וירטואליות של לינוקס (''Linux Virtual Machines''), והתוצאות נשמרות במאגרי נתונים של SQL. במקרה של חוסר יעילות, מסגרות ללא שרת יילקחו בחשבון. בעתיד הקרב, שרתים עוצמתיים עם GPU מעוצבים בכדי לנהל ביעילות את כל תהליכי הניתוח שלנו (Kubernetes עשוי להיות רלוונטי לעניין, בהנחת מיכלי דוקר).
+תחילה, רוב התהליכים הללו רצים על מכונות וירטואליות של לינוקס (''Linux Virtual Machines''), והתוצאות נשמרות במאגרי נתונים של SQL. במקרה של חוסר יעילות, מסגרות ללא שרת יילקחו בחשבון. בעתיד הקרב, שרתים עוצמתיים עם GPU מעוצבים בכדי לנהל ביעילות את כל תהליכי הניתוח שלנו (Kubernetes עשוי להיות רלוונטי לעניין, בהנחת "Docker containers").
 
 בעבור ניתוח רגשיי, ובעבור מודלים אפשריים אחרים, מערכת </strong>js.צומת** נמצאת בשימוש, בעוד כי יישומים חלופיים נמצאים בקלות בהישג יד תמידי. נדרש לאחסן את המידע המצטבר שמופק ונשמר באופן רציף, במקום נייח ובטוח. דבר זה הינו הכרחי עבור הגירסה הסופית של Vespucci. האפליקציות במערכת יכולות להשתמש בMongoDB לסיוע בקריאה וכתיבה של מידע. MongoDB הינו מאגר נתונים ותיק מבוסס-מסמך, שימושי באחסון מידע מובנה, כפי שקורה במאגרי נתוני-המידע שקיימים במערכת הVespucci. אלטרנטיבה קיימת היא CockroachDB.</p> 
 
