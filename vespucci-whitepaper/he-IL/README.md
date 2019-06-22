@@ -258,9 +258,9 @@ More advanced techniques for data analysis are the Fibonacci methods as well as 
 
 **Fibonacci Channels:** The Fibonacci pattern can be applied to channels not only vertically, but also diagonally. One common technique is the combination of diagonal and vertical Fibonacci studies to find areas where both indicate significant resistance.
 
-**Ichimoku Kinko Hyo** הינו אינדיקטור טכני אשר משמש בכדי לאמוד את המומנטום, יחד עם אזורים עתידיים של תמיכה והתנגדות. במקור פותח ע"י עיתונאי יפני בשביל לאגד אסטרטגיות טכניות מרובות בתוך אינדיקטור יחיד שאפשר להטמיע ולפרש בקלות. אינדיקטור הIchimoku הינו שילוב של חמישה מרכיבים מרכזיים:
+**Ichimoku Kinko Hyo** הינו אינדיקטור טכני אשר משמש בכדי לאמוד את המומנטום, יחד עם אזורים עתידיים של תמיכה והתנגדות. במקור פותח ע"י עיתונאי יפני בשביל לאגד אסטרטגיות טכניות מרובות בתוך אינדיקטור יחיד שאפשר להטמיע ולפרש בקלות. אינדיקטור הIchimoku הוא שילוב של חמישה מרכיבים מרכזיים:
 
-1. Tenkan-sen: מציג רמות תמיכה והתנגדות, כמו כן גם קו קליטה להיפוכים.
+1. Tenkan-sen: מציג רמות תמיכה והתנגדות, כמו כן גם קו איתות להיפוכים.
 2. Kijun-sen: מציג רמות תמיכה והתנגדות. It’s a confirmation of a trend change, and can be used as a trailing stop-loss point.
 3. Senkou Span A: Is the average of tenkan-sen and kijun-sen for 26 periods ahead. The resulting line is used to identify future areas of support and resistance.
 4. Senkou Span B: Is calculated by the highest high and the lowest low over the past 52 periods, for 26 periods ahead. The resulting line is used to identify future areas of support and resistance.
@@ -277,11 +277,11 @@ More advanced techniques for data analysis are the Fibonacci methods as well as 
 * Miner distribution‬, indicating the number of miners online and how they are distributed (by pool), their fees, luck etc. Also,he software version of miners is also important, since ideally they should be on its latest version in order to support all the features of the Coin that they are mining.
 * שלבי העברות, כאשר אמצעים שונים נלקחים בחשבון, כמו מספר ההעברות שהוגשו ואומתו בכל שניה ע''י כל צומת והרשת כולה, הזמן הממוצע של אימות עבור העברה והתנודתיות שלה.
 * מיסי העברות, אשר משתמשים עלולים לשלם לרשת, על מנת להשלים העברות או חוזים חכמים.
-* הביטחון כולל כמה היבטים כגון רגישות של המערכת להתקפות ( לדוגמא בזבוז כפול, התקפות Sybil), הפרטיות של העברות, כמו כן גם אנונימיות המשתמש.
+* הביטחון כולל כמה היבטים כגון רגישות של המערכת להתקפות ( לדוגמא בזבוז כפול, התקפות Sybil), פרטיות העסקאות, כמו כן גם אנונימיות המשתמש.
 * מדרגיות נוגעת להשפעה של מספר צמתי-רשת, העברות ומשתמשים, ופיזור המיקום הגאוגרפי של הצמתים, על ביצועי המערכת.
 * Hardware requirements for storage, memory and processors needed to store the blockchain network and validate the transactions and blocks, as well as how these requirements change while the networks grows.
 
-בכדי להביא ליישום את הניתוח הנ"ל, פרטים נוספים ניתנים בחלק הבא. כיום, חוקרי בלוקצ'יין זמינים באופן נרחב על מנת לתמוך במשימה זו. במיוחד, חוקרי בלוקצ'יין כגון [coinmetrics](https://coinmetrics.io/) ו[cryptocompare](https://www.cryptocompare.com/) השתלבו על מנת לענות על הצרכים של FTA. The former is an open source crypto-asset analytics service, providing daily data for the most major cryptocurrencies (about 64 currently). "Cryptocompare" הוא פלטפורמה עם נתוני מידע של מטבעות-קריפטו בזמן אמת; הAPI שלו מאפשר נראות לנתוני יתרות דיגיטליות היסטוריות עד לזמן אמת, כמו מחיר, נפח ונתוני חוקר בלוק מ"חלפני כספים" ובלוקצ'יינים רבים.
+בכדי להטמיע את הניתוח הנ"ל, פרטים נוספים ניתנים בחלק הבא. כיום, blockchain explorers" זמינים באופן נרחב על מנת לתמוך במשימה זו. במיוחד, "blockchain explorers" כגון [coinmetrics](https://coinmetrics.io/) ו[cryptocompare](https://www.cryptocompare.com/) שולבו על מנת לענות על הצרכים של FTA. The former is an open source crypto-asset analytics service, providing daily data for the most major cryptocurrencies (about 64 currently). "Cryptocompare" הוא פלטפורמה עם נתוני מידע של מטבעות-קריפטו בזמן אמת; הAPI שלו מאפשר גישה לנתוני יתרות דיגיטליות היסטוריות ועדכניות, כמו מחיר, היקף ונתוני "block explorer" מ"חלפני כספים" ובלוקצ'יינים רבים.
 
 Among others, some of the features available by both APIs are:
 
