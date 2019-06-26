@@ -124,7 +124,7 @@ Ang EOS.IO ay tinutukoy ang persistence na API, ang order book ay pwedeng samant
 
 #### 3.2.2 On-Chain order book
 
-An on-chain order book is a record of offers residing on the wallet (node) chosen to settle the order book. It resides in a persistent database on each node subscribing to the same account as all the other nodes.
+Ang isang on-chain na order book ay isang talaan ng mga nag-aalok na nakalagay sa wallet (node) na pinili para bayaran ang order book. Ito ay nakalagay sa isang persistent na database sa bawat node na nag-subscribe sa parehong akawnt tulad ng lahat ng iba pang mga node.
 
 #### 3.2.3 Off-Chain order book
 
