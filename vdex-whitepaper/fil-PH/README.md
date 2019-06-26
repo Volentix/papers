@@ -56,11 +56,11 @@ Ang paghiwalay ng awtentikasyon mula sa aplikasyon ay nagpapahintulot sa mas mab
 
 ### Web Assembly(WASM)
 
-Web Assembly enables high-performance Web applications and also secures each application in its own sandbox, through which functionalities VDex can obtain network access, filesystem namespace restrictions, and enforced rule-based execution.
+Ang Web Assembly ay nagbibigay-daan sa mga Web na aplikasyon na may mataas na pagganap at sinisiguro din ang bawat aplikasyon sa sarili nitong sandbox, kung saan ang mga functionality ng VDex ay pwedeng makakuha ng akses sa network, mga paghihigpit sa namespace ng filesystem, at pagpapatupad ng pagpapatupad batay sa patakaran.
 
-### Rust/C++ contracts
+### Rust/C++ na mga kontrata
 
-The well-known and popular programming language C++ appears highly suitable for WASM. C++ has highly mature debugging support and libraries. The EOS codebase uses templates liberally, and C++ allows the use of templates and operator overloading to define a runtime cost-free validation of units. The program reinitializes to clean state at the start of every message, a distinct advantage that streamlines formulation of smart contracts. The WebAssembly framework automatically rejects any transaction addressing memory inaccurately. In case dynamic memory allocation is necessary, users can depart to smart pointers because EOS.IO contracts use C++14. It is noteworthy that the first implementation of PARSEC Directed Acyclic Graph (DAG) technology is expected to be in Rust.
+Ang kilala at tanyag na programming language na C++ ay lilitaw na lubhang angkop para sa WASM. C++ has highly mature debugging support and libraries. The EOS codebase uses templates liberally, and C++ allows the use of templates and operator overloading to define a runtime cost-free validation of units. The program reinitializes to clean state at the start of every message, a distinct advantage that streamlines formulation of smart contracts. The WebAssembly framework automatically rejects any transaction addressing memory inaccurately. In case dynamic memory allocation is necessary, users can depart to smart pointers because EOS.IO contracts use C++14. It is noteworthy that the first implementation of PARSEC Directed Acyclic Graph (DAG) technology is expected to be in Rust.
 
 #### 3.0.2 Schema defined messages and database
 
