@@ -28,7 +28,7 @@ Ang Verto ay itinayo bilang isang multi-currency na wallet para gamitin sa VDex 
 
 ### 2.3 VESPUCCI
 
-Vespucci is envisioned as an analytics engine accessible via a user-friendly interface with treasure troves of real-time and historical market data, such as digital assets ratings and sentiment analysis. We wish to empower users with tools to graph and compare tradeable digital assets, to access and parse historical trading records, to plot trends and patterns, and to monitor and assess open-source software developments. Vespucci seeks to bring to your fingertips confident and comprehensive market-relevant data by aggregating the information currently scattered throughout many different blockchains, websites, chat rooms, and exchanges.
+Ang Vespucci ay inaasahan bilang isang analytics engine naa-access sa pamamagitan ng isang user-friendly na interface na may treasure troves ng real-time at historikal na datos sa merkado, tulad ng mga digital na mga pang-rate ng asset at sentiment na pagsusuri. We wish to empower users with tools to graph and compare tradeable digital assets, to access and parse historical trading records, to plot trends and patterns, and to monitor and assess open-source software developments. Vespucci seeks to bring to your fingertips confident and comprehensive market-relevant data by aggregating the information currently scattered throughout many different blockchains, websites, chat rooms, and exchanges.
 
 ### 2.4 VDEX
 
