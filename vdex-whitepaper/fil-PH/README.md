@@ -44,15 +44,15 @@ Sinuri namin ang iba't ibang mga operating system bilang mga candidate para sa s
 
 ### Konteksto ng mga Libreng Aksyon
 
-Most of the scalability techniques proposed by Ethereum (Sharding, Raiden, Plasma, State Channels) become more efficient, parallelizable, and practical while also ensuring speedy inter-blockchain communication and unimpaired scalability. A Context Free Action involves computations that depend only on transaction data, and not upon the blockchain state.
+Karamihan sa teknik na iskabilidad na iminungkahi ng Ethereum (Sharding, Raiden, Plasma, State Channels) ay nagiging mas mahusay, parallelizable, at praktikal habang tinitiyak din ang mabilis na inter-blockchain na komunikasyon at unimpaired na iskabilidad. Ang isang Konteksto ng Libreng Aksyon ay nadadamay ng mga pag-compute na nakasalalay lamang sa datos ng transaksyon, at hindi sa estado ng blockchain.
 
-### Binary/JSON conversion
+### Binary/JSON na pang-convert
 
-EOS contracts combine the human readability of JSON with the efficiency of binary.
+Ang EOS ay pinagsasama-sama ang human readability ng JSON sa kahusayan ng binary.
 
-### Parallelization and optimization
+### Paralesisasyon at optimisasyon
 
-Separating authentication from application allows faster transaction times and increases bandwidth. EOS.IO blocks are reportedly produced every 500ms.
+Ang paghiwalay ng awtentikasyon mula sa aplikasyon ay nagpapahintulot sa mas mabilis na mga oras ng transaksyon at nagdaragdag ng bandwidth. Bawat 500ms ay inuulat ang mga ginawa sa mga block ng EOS.IO.
 
 ### Web Assembly(WASM)
 
