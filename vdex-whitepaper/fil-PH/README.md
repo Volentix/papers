@@ -140,17 +140,17 @@ Ang order settlement ay naglalaman ng mga pamilyar na elemento ng pinansyal na k
 
 ### 3.4 VTX
 
-#### 3.4.1 VTX Issuance and Use
+#### 3.4.1 Pag-isyu at Paggamit ng VTX
 
-VTX is the native digital asset to be issued and used on the VDex decentralized exchange. We currently plan to use an eosio.token contract from the EOS.IO framework to issue 2.1 billion EOS.IO-compliant VTX tokens with a supply of 1.3 billion. VTX will have a diverse array of uses, for example:
+Ang VTX ay ang katutubong digital na asset na iisyu at ginagamit sa VDex desentralisadong palitan. Pinaplano namen sa kasalukuyan na gumamit ng isang kontrata ng eosio.token mula sa framework ng EOS.IO para mag-isyu ng 2.1 na bilyon na mga token ng VOS ng EOS.IO na may suplay na 1.3 na bilyon. Ang VTX ay magkakaroon ng magkakaibang hanay ng paggamit, para sa halimbawa:
 
-To reward participants in the consensus process and in Venue campaigns.
+Para gantimpalaan ang mga kalahok sa proseso ng pinagkasunduan at sa mga kampanya sa Venue.
 
-To pay and redistribute transaction fees on the VDex exchange.
+Para magbayad at mamahagi ng mga bayarin sa transaksyon sa palitan na VDex.
 
-To submit and vote on proposals to the Volentix ecosystem, using the voting rights allocated to VTX holders.
+Para magsumite at bumoto sa mga panukala sa ekosistema na Volentix, gamit ang mga karapatan sa pagboto na inilalaan sa mga may hawak ng VTX.
 
-To stake support for reviewing proposals and implementing projects.
+Para sa suporta sa stake para sa pagri-ribyu ng mga panukala at pagpapatupad ng mga proyekto.
 
 To incentivize users to participate in order book settlement by becoming nodes via their Verto wallets.
 
