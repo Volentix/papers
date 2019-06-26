@@ -1,7 +1,7 @@
 # ANG VOLENTIX VDEX WHITE PAPER
 
 - Bersyon: 0.1.4
-- Updated: 11-03-2019
+- Na-update nuong: 11-03-2019
 - Website: www.volentix.io
 
 ## 1. PASIMULA
