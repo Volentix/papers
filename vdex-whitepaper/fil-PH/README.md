@@ -32,15 +32,15 @@ Ang Vespucci ay inaasahan bilang isang analytics engine naa-access sa pamamagita
 
 ### 2.4 VDEX
 
-The fourth pillar of Volentix, the VDex exchange, is the tradable digital assets platform introduced in detail in this white paper. For smooth and secure usability, we plan VDex to integrate with your own personal Verto wallet and Vespucci interface. We expect VDex to be able to manage transactions involving both VTX and the vast array of digital assets and blockchains extant from time to time throughout the world. We are developing Venue as a complementary adjunct primarily in order to incentivize and drive native VTX-based initiatives.
+Ang ika-apat na pillar ng Volentix, ang VDex na palitan, ay ang tradable digital assets na plataporma na ipinakilala sa detalye sa white paper na ito. Para sa makinis at siguradong magagamit, pinaplano namin ang VDex para maisama ang iyong sariling personal na Verto na wallet at interface ng Vespucci. Inaasahan namin na mapamahalaan ng VDex ang mga transaksyon na kinasasangkutan ng parehong VTX at ang malawak na hanay ng mga digital na asset at mga blockchain na umiiral oras-oras sa buong mundo. Dini-develop namin ang Venue bilang isang komplimentaryong adjunct lalo na para magbigay-diin at i-drive ng mga katutubong VTX-based na inisyatibo.
 
-## 3. ARCHITECTURE
+## 3. ARKITEKTURA
 
 ![](../8.jpg)
 
 #### 3.0.1 Operating system
 
-We have evaluated various operating systems as candidates for the substructure of our VDex exchange. Though we honor the work done by a number of the established leaders in digital assets and blockchain technology, among those trailblazers the work of EOS.IO as an operating system-like framework upon which decentralized applications can be built stands out, in our opinion, as exemplary. The software provides accounts, authentication, databases, asynchronous communication, and scheduling across clusters. Components and protocols are already built into the platform, and a subset can be used to satisfy our VDex requirements. VDex will initially benefit from the standard features offered by EOS.IO such as account and wallet creation and the recovery of stolen keys, but we plan subsequently to implement protocols for creation of a decentralized exchange through EOS contracts and other tools.[2] Here is a summary of encouraging methodologies:
+Sinuri namin ang iba't ibang mga operating system bilang mga candidate para sa substructure ng aming VDex na palitan. Though we honor the work done by a number of the established leaders in digital assets and blockchain technology, among those trailblazers the work of EOS.IO as an operating system-like framework upon which decentralized applications can be built stands out, in our opinion, as exemplary. The software provides accounts, authentication, databases, asynchronous communication, and scheduling across clusters. Components and protocols are already built into the platform, and a subset can be used to satisfy our VDex requirements. VDex will initially benefit from the standard features offered by EOS.IO such as account and wallet creation and the recovery of stolen keys, but we plan subsequently to implement protocols for creation of a decentralized exchange through EOS contracts and other tools.[2] Here is a summary of encouraging methodologies:
 
 ### Context Free Actions
 
