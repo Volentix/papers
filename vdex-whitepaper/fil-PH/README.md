@@ -14,7 +14,7 @@ Ang VDex ay inilunsad ang mga point anticipatena tumutugma sa mga kinakailangan 
 
 ## 2. VOLENTIX
 
-The Volentix ecosystem will exist atop four pillars, an initializing array of applications specifically known as Venue, Verto, Vespucci, and VDex.
+Ang ekosistema ng Volentix ay umiiral sa ibabaw ng apat na mga pillar, isang nagsisimula ng maraming mga aplikasyon na partikular na kilala bilang Venue, Verto, Vespucci, at VDex.
 
 ### 2.1 VENUE
 
