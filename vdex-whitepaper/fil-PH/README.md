@@ -128,15 +128,15 @@ Ang isang on-chain na order book ay isang talaan ng mga nag-aalok na nakalagay s
 
 #### 3.2.3 Off-Chain order book
 
-Residing on the aggregator, offline order books serve for simulator and security purposes.
+Nakalagay sa aggregator, sini-serve ang offline na order book para simulator at layunin ng seguridad.
 
-#### 3.2.4 Decentralization process of order book settlement
+#### 3.2.4 Desentralisasyon sa pagproseso ng pag-settle sa order book
 
-For decentralization purposes, nodes will take turns to settle the order book. The settling node must be designated by the protocol and all order book entries from all nodes must be available to the settling nodes. We believe the RAFT[9] and PARSEC[10] consensus mechanisms offer effective solutions. RAFT is a well-established algorithm and is easy to implement.[7] PARSEC is more recent and more efficient, using Directed Acyclic Graph (DAG) technology and eliminating the need for copying logs.
+Para sa mga layuning desentralisasyon, ang mga node ay magpapalitan para ma-settle ang order book. Ang node sa pagse-settle ay dapat na itinalaga ng protokol at ang lahat ng mga entry ng order book mula sa lahat ng mga node ay dapat na magagamit sa pagse-settle ng mga node. Naniniwala kami na ang RAFT[9] at PARSEC[10] na mga mekanismo ng pinagkasunduan ay nag-aalok ng mga epektibong solusyon. Ang RAFT ay isang mahusay-na-itinatag na algoritmo at madaling ipatupad.[7] Ang PARSEC ay mas bago at mas mahusay, gamit ang Directed Acyclic Graph (DAG) na teknolohiya at inaalis ang mga kinakailangan para sa mga log ng pagkopya.
 
 ### 3.3 ORDER SETTLEMENT
 
-Order settlement contains familiar elements of conventional financial market transactions. Utilizing FIFO technology to design the order book, VDex intends to check order, inventory, and fill rate, as well as limit orders and cancellations. ![](../7.jpg)
+Ang order settlement ay naglalaman ng mga pamilyar na elemento ng pinansyal na kagawianin na transaksyon sa pamilihan. Ang teknolohiya na FIFO ay ginagamit para mag-disenyo ng order book, nais ng VDex na suriin ang order, imbentaryo, at fill rate, pati na rin ang limitasyon ng mga order at pagkansela. ![](../7.jpg)
 
 ### 3.4 VTX
 
