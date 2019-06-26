@@ -20,7 +20,7 @@ Ang ekosistema ng Volentix ay umiiral sa ibabaw ng apat na mga pillar, isang nag
 
 Ang Venue ay pinlano bilang isang daynamiko na plataporma ng komunidad na nagre-recruit at nakahanay sa mga miyembro ng komunidad ng Volentix para mapabilis ang pamamahagi ng VTX, ang katutubong digital na asset ng ekosistema ng Volentix, at upang itaguyod ang kamalayan ng mga pagkukusa ng Volentix.
 
-Kamakailan inilunsad ang pag-test sa beta, ang Venue ay nagbibigay-daan sa mga gumagamit na makatanggap ng VTX bilang kapalit, halimbawa, para sa pakikilahok sa pagbubuo ng mga dedikadong komunidad, pagsusumite ng mga pag-aayos ng bug, at pagkuha ng mga bounty. Leaderboards and live metrics reflect user participation. The first signature campaign was launched on the https://bitcointalk.org/ forum on July 13, 2018. Please visit https://venue.volentix.io for more information.
+Kamakailan inilunsad ang pag-test sa beta, ang Venue ay nagbibigay-daan sa mga gumagamit na makatanggap ng VTX bilang kapalit, halimbawa, para sa pakikilahok sa pagbubuo ng mga dedikadong komunidad, pagsusumite ng mga pag-aayos ng bug, at pagkuha ng mga bounty. Ang mga leaderboard at live na metriko ay sumasalamin sa pakikilahok ng gumagamit. Ang unang signature na kampanya ay inilunsad sa https://bitcointalk.org/ forum nuong Hulyo 13, 2018. Please visit https://venue.volentix.io for more information.
 
 ### 2.2 VERTO
 
