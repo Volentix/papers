@@ -152,17 +152,17 @@ Para magsumite at bumoto sa mga panukala sa ekosistema na Volentix, gamit ang mg
 
 Para sa suporta sa stake para sa pagri-ribyu ng mga panukala at pagpapatupad ng mga proyekto.
 
-To incentivize users to participate in order book settlement by becoming nodes via their Verto wallets.
+Para sa insentibo ng mga gumagamit para lumahok sa pagse-settle sa order book ay sa paparating na node sa pamamagitan ng kanilang mga wallet ng Verto.
 
-To incentivize users to lock funds in for >24 hours by HTLC time-bound transactions.
+Para sa insentibo ng mga gumagamit para i-lock ang mga pondo sa loob ng >24 na oras sa pamamagitan ng mga transaksyon na may takdang oras ng HTLC.
 
-#### 3.4.2 VTX Allocation
+#### 3.4.2 Alokasyon ng VTX
 
 ![](../6.jpg)
 
-A digital assets ecosystem requires an array of certain fundamental human constituents who shepherd the project forward.[11] It is essential to compensate those individuals for their participation. Subject to adjustment, Volentix currently anticipates the following allocations:
+Ang isang ekosistema ng mga digital na asset ay nangangailangan ng isang hanay ng ilang pangunahing mga nasasakupan ng human na nagpapastol sa proyektong ito.[11] Mahalaga na bayaran ang mga indibidwal para sa kanilang pakikilahok. Alinsunod sa pag-aayos, kasalukuyang binabanggit ng Volentix ang mga sumusunod na alokasyon:
 
-1. Contributors. 12%. An array of individuals, akin to founders, who contribute insights, time and talent, though often work without early compensation.
+1. Mga kontribyutor. 12%. Ang isang hanay ng mga indibidwal, katulad ng mga tagapagtatag, na nag-aambag ng mga pananaw, oras at talento, kahit na madalas ay nagtatrabaho nang walang maagang kabayaran.
 
 2. Supporters.
 
