@@ -114,13 +114,13 @@ EOS.IO has low latency block confirmation (0.5 seconds).[5] This degree of laten
 
 ### 3.2 ORDER BOOK
 
-The order book is the list of buy-and-sell orders VDex records from interested users. Isang magkatugma na engine ay gumagamit ng isang order book para matukoy kung aling mga order ang matutupad. Ang protokol sa Paglo-loop ay nagpapahintulot para sa pagpapasadya ng istraktura ng datos ng order book.[5] Ang mga container na ibinigay ng EOS.IO ay maaaring gamitin para sa mahusay na pagganap.[8]
+The order book is the list of buy-and-sell orders VDex records from interested users. Isang magkatugma na engine ay gumagamit ng isang order book para matukoy kung aling mga order ang matutupad. Ang protokol na Loopring ay nagpapahintulot para sa pagpapasadya ng istraktura ng datos ng order book.[5] Ang mga container na ibinigay ng EOS.IO ay maaaring gamitin para sa mahusay na pagganap.[8]
 
 #### 3.2.1 Mga istraktura ng datos
 
-Using the Loopring Protocol FIFO (first-in first-out) circular buffer, nodes can design their order books to display and match a user’s order. This method follows an OTC model, where limit orders are positioned based on price only.[5]
+Gamit ang FIFO ng protokol na Loopring (first-in first-out) na circular buffer, na pwedeng mag-disenyo ng mga node ang kanilang order book para maipakita at tumutugma sa isang gumagamit ng order. Ang metodong ito ay sumusunod sa isang modelo ng OTC, kung saan ang mga order ng limitasyon ay nakaposisyon batay sa presyo lamang.[5]
 
-Referencing the EOS.IO persistence API, the order book is able to take advantage of the powerful multi-index container shared among nodes through the same EOS.IO account.
+Ang EOS.IO ay tinutukoy ang persistence na API, ang order book ay pwedeng samantalahin ang makapangyarihang multi-index na container na ibinahagi sa mga node sa pamamagitan ng parehong akawnt na EOS.IO.
 
 #### 3.2.2 On-Chain order book
 
