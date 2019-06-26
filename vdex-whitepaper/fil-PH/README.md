@@ -160,7 +160,7 @@ Para sa insentibo ng mga gumagamit para i-lock ang mga pondo sa loob ng >24 na o
 
 ![](../6.jpg)
 
-Ang isang ekosistema ng mga digital na asset ay nangangailangan ng isang hanay ng ilang pangunahing mga nasasakupan ng human na nagpapastol sa proyektong ito.[11] Mahalaga na bayaran ang mga indibidwal para sa kanilang pakikilahok. Alinsunod sa pag-aayos, kasalukuyang binabanggit ng Volentix ang mga sumusunod na alokasyon:
+Ang isang digital assets ecosystem ay nangangailangan ng isang hanay ng ilang pangunahing mga nasasakupan ng human na nagpapastol sa proyektong ito.[11] Mahalaga na bayaran ang mga indibidwal para sa kanilang pakikilahok. Alinsunod sa pag-aayos, kasalukuyang binabanggit ng Volentix ang mga sumusunod na alokasyon:
 
 1. Mga kontribyutor. 12%. Ang isang hanay ng mga indibidwal, katulad ng mga tagapagtatag, na nag-aambag ng mga pananaw, oras at talento, kahit na madalas ay nagtatrabaho nang walang maagang kabayaran.
 
