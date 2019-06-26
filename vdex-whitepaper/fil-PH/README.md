@@ -24,7 +24,7 @@ Kamakailan inilunsad ang pag-test sa beta, ang Venue ay nagbibigay-daan sa mga g
 
 ### 2.2 VERTO
 
-Verto is being built as a multi-currency wallet for use with the VDex decentralized exchange, and intends to facilitate personal custody and local management of private and public keys in peer-to-peer transactions, with the goal of eliminating the risks of devastating losses of stake associated with traumatic failures of central operators. Verto plans to employ a system of smart contracts to maintain the state between two trading clients, the simplest operations being accomplished with atomic swaps.[1]
+Ang Verto ay itinayo bilang isang multi-currency na wallet para gamitin sa VDex desentrilado na palitan, at nagnanais na mapadali ang personal na pag-iingat at lokal na pamamahala ng pribado at pampublikong mga key sa mga transaksyong peer-to-peer, na may layuning alisin ang mga panganib ng mga nagwawasak na pagkalugi ng taya na nauugnay sa mga traumatikong pagkabigo ng mga sentral na opereytor. Verto plans to employ a system of smart contracts to maintain the state between two trading clients, the simplest operations being accomplished with atomic swaps.[1]
 
 ### 2.3 VESPUCCI
 
