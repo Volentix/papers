@@ -80,13 +80,13 @@ Vespucci’s public opinion listeners run on cloud-based VMs that are able to in
 
 Nella seconda fase, gli strumenti di scoring vengono adattati e migliorati in modo da concentrare le loro funzionalità sulle criptovalute, eventualmente, potremmo sviluppare un nostro software per questo compito. Inoltre, viene utilizzata un po' di archiviazione (vedi la [sezione](https://docs.google.com/document/d/1NLr-rgF66NCBmLmPIdElltKYVPJrLVO7DZDpcNEm6OU/edit?ts=5bec2f33#heading=h.921dav9nirz6) specifica) per i dati aggregati necessari per (a) effettuare confronti storici e (b) per allenare il Convolutional Neural Network che produce il punteggio finale. Per (a), potremmo utilizzare l'intero storico di ogni token partendo dalla sua creazione. Per (b), l'apprendimento approfondito necessita dati che coprano un periodo fino a due anni.
 
-Eventualmente, Vespucci si rivolgerà alla comunità open-source nel tentativo di rendere la piattaforma, per la maggior parte, decentralizzata. L'intenzione è di decentralizzate l'ingestione di dati e la funzionalità di assegnazione dello scoring per fornire risultati sicuri, guidati dalla comunità, imparziali e credibili.
+Eventualmente, Vespucci si rivolgerà alla comunità open-source nel tentativo di rendere la piattaforma, per la maggior parte, decentralizzata. L'intenzione è di decentralizzare l'ingestione di dati e la funzionalità di assegnazione dello scoring per fornire risultati sicuri, guidati dalla comunità, imparziali e credibili.
 
 ![](https://volentix.io/file/2019/01/a.jpg)
 
 Sfruttando il framework di Machine Learning di Python, e considerando i vantaggi di questo linguaggio di programmazione, è naturale che questo modulo venga implementato in Python. Questo si interfaccia con particolari librerie di machine learning come ad esempio Scikit-learn, TensorFlow, CNTK, Torch, Theano, e Keras.
 
-‪A user experience linking to the cryptocurrency’s public community forum is developed to provide up to date announcements and statistics of community activity. Il punteggio finale può essere ricavato come una funzione di punteggio. Infine, vengono applicate tecniche di machine learning per fornire analisi del sentiment in tempo reale
+‪A user experience linking to the cryptocurrency’s public community forum is developed to provide up to date announcements and statistics of community activity. Il punteggio finale può essere ricavato come una funzione di assegnazione del punteggio. Infine, vengono applicate tecniche di machine learning per fornire analisi del sentiment in tempo reale
 
 <table>
   <tr>
