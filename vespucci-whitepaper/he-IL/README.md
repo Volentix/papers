@@ -14,7 +14,7 @@ Vespucci הוא חלק ממערכת הVolentix. באופן ייחודי הוא �
 * ניתוח טכני (TA), ו
 * ניתוח יסודי / טכנולוגי (FTA).
 
-Vespucci offers for the first time a well-rounded profile of each digital asset of interest along with a live rating, representing a combination of different indicators, based on the principles of decentralized governance, peer privacy, public ledger via a public blockchain, and open source code. Hence, its analysis is free of the bias of specific individuals or interest groups and the employed methods are up for scrutiny and discussion by the community. Decentralized applications offer a paradigm shift in current technology; a particularly relevant instance lies within the emerging cryptocurrency exchanges. Using some of the most powerful cutting-edge methods, our approach abides by open standards and the principles of ease of use.
+Vespucci offers for the first time a well-rounded profile of each digital asset of interest along with a live rating, representing a combination of different indicators, based on the principles of decentralized governance, peer privacy, public ledger via a public blockchain, and open source code. Hence, its analysis is free of the bias of specific individuals or interest groups and the employed methods are up for scrutiny and discussion by the community. יישומים מבוזרים מציעים שינוי פרדיגמה בטכנולוגיה עדכנית; מקרה רלוונטי במיוחד שוכן בתוך חילופי מטבעות-הקריפטו. באמצעות חלק נרחב של שיטות חדישות ביותר, גישתנו תלויה בסטנדרטים פתוחים ועקרונות של קלות השימוש.
 
 עיצוב מבני כללי של Vespucci
 
