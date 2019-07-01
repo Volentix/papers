@@ -308,7 +308,7 @@ Among others, some of the features available by both APIs are:
 
 **קוד מקור -- פעילות מפתח**
 
-There is an aspect of quantitative analysis from a social perspective which looks at the involvement of the developer community surrounding the project, quite related to Sentiment Analysis. Research into metrics that accurately reflect rates of community participation as well as creator participation will be assessed. These factors may include but are not limited to:‬
+There is an aspect of quantitative analysis from a social perspective which looks at the involvement of the developer community surrounding the project, quite related to Sentiment Analysis. Research into metrics that accurately reflect rates of community participation as well as creator participation will be assessed. גורמים אלו עלולים לכלול, אך אינם מוגבלים ל:
 
 • השתתפות קהילתית מקוונת
 
@@ -318,9 +318,9 @@ There is an aspect of quantitative analysis from a social perspective which look
 
 מודול זה ( הקשור לניתוח רגשי) מנתח מידע מGithub וממקורות אחרים כגון ביקורות ספרותיות. הוא מדרג את האיכות של בסיסי-קוד באמצעות התבוננות ברמזים חברתיים ידועים בקרב מפתחים של תוכנות, ובמיוחד:
 
-* The expertise and track record of the team and their continued commitment to their project (frequency of commits, frequency the community responds to bugs, contributions over time, and the amount of time that has been consistently spent building up the project),
-* The activity on GitHub, which is tightly related to the previous item, and the number of followers of the project,
-* The quality of code (programming languages, test coverage, ratio of bugs over lines of code,build breaks etc), robustness, and maintenance of the software,
+* המומחיות והרשומה של הצוות, כמו כן הנאמנות המתמשכת לפרויקט שלהם ( תדירות ביצוע, תדירות תגובות הקהילה לבאגים, תרומות לאורך זמן, וכמות הזמן אשר הוקדש לבניית הפרויקט),
+* הפעילות בGitHub, אשר קשורה מאוד אל הפריט הקודם, ומספר העוקבים של הפרויקט,
+* איכות הקוד ( שפות תכנות, כיסוי בדיקות, יחס הבאגים על גבי שורות קוד, '',build breaks'' וכדומה), חוסן ותחזוקת התוכנה.
 * "הרשימה הלבנה המקבילה".
 * העקרונות המתמטיות והקריפטוגרפיות של המערכת.
 
@@ -344,7 +344,7 @@ A great number of the tokens being traded today are ERC20 tokens implemented on 
 
 The results interface provides a collapsed view, providing an index for expandable sections that displays the selected metrics in detail. The collapsed view presents the colour-coded rating summary of a cryptocurrency. The colour-coded rating is calculated using a weighted average of all assessment metrics.‬ ‪Each expandable section displays the metric or group of metrics in a graphical manner. Assessment metrics are separated into different sections based on their represented information such as data relating to social perspective or a technical perspective. An optimal indexing of assessment metrics are determined to allow for intuitive UI interaction in accessing and view data of interest for the user.‬
 
-Following the success of the Ethereum Wallet and Ethereum Mist browser, the main interface exposed to a user is hosted inside an Electron app. Electron is a mature technology introduced by Github to create modern desktop applications. Since Vespucci is not tied to Desktop-based APIs however, it is also possible to port this application to run inside of a browser. הממשק לאפליקציה ניתן לעיצוב באמצעות ספריות UI ותיקות בעבור יישומים מודרניים. With each component existing on its own, it is also straightforward to pull components out and add new ones as the product is trialed with users without adversely affecting the product as a whole.
+בעקבות ההצלחה של ארנק האתריום ודפדפן ה''Mist'' של אתריום, הממשק הראשי אשר נחשף למשתמש שוכן בתוך יישום ה''אלקטרון''. ''אלקטרון'' הינו טכנולוגיה ותיקה אשר הובאה לידי-ייצוג בפני Github על מנת ליצור יישומי שולחן-עבודה מודרניים. כיוון שVespucci אינו קשור כלל לAPI's מבוססי-שולחן עבודה, ניתן להעבירו אל תוך דפדפן. הממשק לאפליקציה ניתן לעיצוב באמצעות ספריות UI ותיקות בעבור יישומים מודרניים. With each component existing on its own, it is also straightforward to pull components out and add new ones as the product is trialed with users without adversely affecting the product as a whole.
 
 מאפייני פלטפורמה
 
