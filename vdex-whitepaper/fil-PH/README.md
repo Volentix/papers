@@ -256,19 +256,19 @@ Isang race ng pag-atake ay nangyayari kapag ang dalawang magkakontrahan na mga t
 
 Ang isang Finney na pag-atake ay nag-pre-mines ng isang transaksyon sa isang block at gumastos ng parehong mga token bago ilalabas ang block para magpawalang-bisa sa transaksyong iyon.
 
-A 51% attack can be mounted by anyone owning >50% of the total computing power of a network. A majority ownership position permits reversal of any transaction and allows total control of selection of transactions appearing in blocks. EOS.IO, Loopring, and RAFT appear to prevent this problem. If a block producer takes an unreasonable amount of runtime or is not sufficiently profitable, then the process is blacklisted.[5]
+Ang isang 51% na pag-atake ay pwedeng ma-mount ng sinuman na may-ari >50% ng kabuuang power ng pagkwenta ng isang network. Karamihan sa pagmamay-ari ay pinapahintuloran ang isang pagsaliwa ng anumang transaksyon at nagpapahitulot sa kabuuang kontrol sa pagpili ng mga transaksyon na lumalabas sa mga block. Lumilitaw ang EOS.IO, Loopring, at RAFT para maiwasan ang problemang ito. Kung ang isang prodyuser ng block ay tumatagal ng isang hindi makatwiran na halaga ng runtime o hindi sapat na kapaki-pakinabang, pagkatapos ay ang proseso ay naka-blacklist.[5]
 
 #### 3.9.2 Front running
 
-A front runner steals one or more orders from a pending order book settlement transaction. Both EOS.IO and Loopring offer remedies in which keys are protected because they are not part of the on-chain transaction, and therefore remain unknown to parties other than the owner. Only the order book settling node is possessed of the sensitive information, and each node uses a different solution for resolving the order books, introducing yet another level of complexity to promote security.
+Ang isang front runner ay kumukuha ng isa o higit pang mga order mula sa isang nakabinbing order book na transaksyon. Ang parehong EOS.IO at Loopring ay nag-aalok ng mga remedyo kung saan ang mga key ay protektado dahil hindi sila bahagi ng transaksyon sa on-chain, at samakatuwid ay nananatiling hindi kilala sa mga partido maliban sa may-ari. Tanging ang pagsi-settle node ng order book ay may nagmamay-ari sa sensitibong impormasyon, at ang bawat node ay gumagamit ng ibang solusyon para sa paglutas ng mga order book, na nagpapakilala ng isa pang antas ng pagiging kumplikado upang itaguyod ang seguridad.
 
-#### 3.9.3 Forged identities
+#### 3.9.3 Mga huwad na pagkakakilanlan
 
-Malicious users create forged identities to send a large number of small orders to attack Loopring nodes. However, most of these orders will be rejected for not yielding satisfying profit when matched.
+Ang mga malisyoso na gumagamit ay lumikha ng mga huwad na pagkakakilanlan para magpadala ng isang malaking bilang ng mga maliliit na order para atakihin ang mga node ng Loopring. Gayunpaman, karamihan sa mga order na ito ay tatanggihan para sa hindi pagbibigay ng kasiya-siyang kita kapag naitugma.
 
-#### 3.9.4 Insufficient Balance
+#### 3.9.4 Hindi sapat ang balanse
 
-Malicious users sign and spread orders the value of which is non-zero but the address of which has a zero balance. Nodes monitor actual balances, update these order states accordingly, and then discard them.
+Ang mga malisyoso na mga gumagamit ay nag-sign at kumakalat ng mga order na ang halaga ng kung saan ay di-sero per ang address na may sero na balanse. Nodes monitor actual balances, update these order states accordingly, and then discard them.
 
 #### 3.9.5 Timing attack
 
