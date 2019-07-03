@@ -1,168 +1,168 @@
 # ANG VOLENTIX VDEX WHITE PAPER
 
 - Bersyon: 0.1.4
-- Updated: 11-03-2019
+- Na-update nuong: 11-03-2019
 - Website: www.volentix.io
 
 ## 1. PASIMULA
 
-Inilunsad sa Volentix ang VDex, na dinisenyo bilang isang desentralisadong digital asset exchange na pinagtuunan ang user experience, ang pagpapaunlad ng komunidad, at pamamahala. By accessing established technologies and planning selective new protocols with priority on security, speed, authentication, ease of use, scalability, and multi-asset support, VDex intends to facilitate peer-to-peer transactions by assembling a portfolio of decentralized applications built on EOS.IO smart contracts.
+Inilunsad sa Volentix ang VDex, na dinisenyo bilang isang desentralisadong digital asset exchange na pinagtuunan ang user experience, ang pagpapaunlad ng komunidad, at pamamahala. Sa pamamagitan ng pag-akses sa mga itinatag na teknolohiya at pagpaplano ng mga bagong protokol na may prayoridad sa seguridad, bilis, awtentikasyon, madaling gamitin, kakayahang sumukat, at suporta sa multi-asset, VDex ay nagnanais na mapadali ang mga transaksyong peer-to-peer sa pamamagitan ng pag-assemble ng isang porporlyo ng mga desentralisadong aplikasyon na binuo sa EOS.Ito ang mga matatalinong kontrata.
 
-The VDex launch point anticipates matching Volentix's design requirements to available technologies superimposed on the EOS.IO decentralized operating system. We intend to test our assumptions by prototyping via custom EZEOS software, which we built and customized with EOS.IO's cleos command line tools. This software resides at: https://github.com/Volentix/ezeos
+Ang VDex ay inilunsad ang mga point anticipatena tumutugma sa mga kinakailangan sa disenyo ng Volentix para maging available na mga teknolohiya na pinapalampas sa EOS.IO desentralisadong operating system. Nais naming subukan ang aming mga haka-haka sa pamamagitan ng pag-prototype sa pamamagitan ng pasadyang software na EZEOS, na aming binuo at na-customize gamit ang mga tool ng linya ng command ng EOS.IO's cleos. Nakalagay ang software na ito sa: https://github.com/Volentix/ezeos
 
 ![](../main3-3000px.jpg)
 
 ## 2. VOLENTIX
 
-The Volentix ecosystem will exist atop four pillars, an initializing array of applications specifically known as Venue, Verto, Vespucci, and VDex.
+Ang ekosistema ng Volentix ay umiiral sa ibabaw ng apat na mga pillar, isang nagsisimula ng maraming mga aplikasyon na partikular na kilala bilang Venue, Verto, Vespucci, at VDex.
 
 ### 2.1 VENUE
 
-Venue is planned as a dynamic community platform that recruits and aligns members of the Volentix community to facilitate distribution of VTX, the native digital asset of the Volentix ecosystem, and to promote awareness of Volentix initiatives.
+Ang Venue ay pinlano bilang isang daynamiko na plataporma ng komunidad na nagre-recruit at nakahanay sa mga miyembro ng komunidad ng Volentix para mapabilis ang pamamahagi ng VTX, ang katutubong digital na asset ng ekosistema ng Volentix, at upang itaguyod ang kamalayan ng mga pagkukusa ng Volentix.
 
-Recently launched in beta testing, Venue enables users to receive VTX in exchange, for example, for participating in developing dedicated communities, submitting bug fixes, and claiming bounties. Leaderboards and live metrics reflect user participation. The first signature campaign was launched on the https://bitcointalk.org/ forum on July 13, 2018. Please visit https://venue.volentix.io for more information.
+Kamakailan inilunsad ang pag-test sa beta, ang Venue ay nagbibigay-daan sa mga gumagamit na makatanggap ng VTX bilang kapalit, halimbawa, para sa pakikilahok sa pagbubuo ng mga dedikadong komunidad, pagsusumite ng mga pag-aayos ng bug, at pagkuha ng mga bounty. Ang mga leaderboard at live na metriko ay sumasalamin sa pakikilahok ng gumagamit. Ang unang signature na kampanya ay inilunsad sa https://bitcointalk.org/ forum nuong Hulyo 13, 2018. Para sa karagdagang impormasyon mangyaring bisitahin sa https://venue.volentix.io.
 
 ### 2.2 VERTO
 
-Verto is being built as a multi-currency wallet for use with the VDex decentralized exchange, and intends to facilitate personal custody and local management of private and public keys in peer-to-peer transactions, with the goal of eliminating the risks of devastating losses of stake associated with traumatic failures of central operators. Verto plans to employ a system of smart contracts to maintain the state between two trading clients, the simplest operations being accomplished with atomic swaps.[1]
+Ang Verto ay itinayo bilang isang multi-currency na wallet para gamitin sa VDex desentrilado na palitan, at nagnanais na mapadali ang personal na pag-iingat at lokal na pamamahala ng pribado at pampublikong mga key sa mga transaksyong peer-to-peer, na may layuning alisin ang mga panganib ng mga nagwawasak na pagkalugi ng taya na nauugnay sa mga traumatikong pagkabigo ng mga sentral na opereytor. Pinaplano ng Verto na mag-employ ng isang sistem ng mga matalinong kontrata para mapanatili ang estado sa pagitan ng dalawang trading client, ang pinakasimpleng operasyon na natapos sa atomic swaps.[1]
 
 ### 2.3 VESPUCCI
 
-Vespucci is envisioned as an analytics engine accessible via a user-friendly interface with treasure troves of real-time and historical market data, such as digital assets ratings and sentiment analysis. We wish to empower users with tools to graph and compare tradeable digital assets, to access and parse historical trading records, to plot trends and patterns, and to monitor and assess open-source software developments. Vespucci seeks to bring to your fingertips confident and comprehensive market-relevant data by aggregating the information currently scattered throughout many different blockchains, websites, chat rooms, and exchanges.
+Ang Vespucci ay inaasahan bilang isang analytics engine naa-access sa pamamagitan ng isang user-friendly na interface na may treasure troves ng real-time at historikal na datos sa merkado, tulad ng mga digital na mga pang-rate ng asset at sentiment na pagsusuri. Nais naming bigyan ng kapangyarihan ang mga gumagamit na may mga tool para talaguhitan at ihambing ang mga tradeable digital assets, upang ma-akses at mai-parse ang historikal na mga talaan ng kalakalan, para mag-plot ng mga trend at mga pattern, at para masubaybayan at suriin ang mga pag-develop ng open-source software. Naglalayong dalhin sa iyong mga kamay ang tiwala at komprehensibong datos ng Vespucci na nauugnay sa merkado sa pamamagitan ng pagsasama ng impormasyon na kasalukuyang nakakalat sa maraming iba't ibang mga block, website, chat room, at palitan.
 
 ### 2.4 VDEX
 
-The fourth pillar of Volentix, the VDex exchange, is the tradable digital assets platform introduced in detail in this white paper. For smooth and secure usability, we plan VDex to integrate with your own personal Verto wallet and Vespucci interface. We expect VDex to be able to manage transactions involving both VTX and the vast array of digital assets and blockchains extant from time to time throughout the world. We are developing Venue as a complementary adjunct primarily in order to incentivize and drive native VTX-based initiatives.
+Ang ika-apat na pillar ng Volentix, ang VDex na palitan, ay ang tradable digital assets na plataporma na ipinakilala sa detalye sa white paper na ito. Para sa makinis at siguradong magagamit, pinaplano namin ang VDex para maisama ang iyong sariling personal na Verto na wallet at interface ng Vespucci. Inaasahan namin na mapamahalaan ng VDex ang mga transaksyon na kinasasangkutan ng parehong VTX at ang malawak na hanay ng mga digital na asset at mga blockchain na umiiral oras-oras sa buong mundo. Dini-develop namin ang Venue bilang isang komplimentaryong adjunct lalo na para magbigay-diin at i-drive ng mga katutubong VTX-based na inisyatibo.
 
-## 3. ARCHITECTURE
+## 3. ARKITEKTURA
 
 ![](../8.jpg)
 
 #### 3.0.1 Operating system
 
-We have evaluated various operating systems as candidates for the substructure of our VDex exchange. Though we honor the work done by a number of the established leaders in digital assets and blockchain technology, among those trailblazers the work of EOS.IO as an operating system-like framework upon which decentralized applications can be built stands out, in our opinion, as exemplary. The software provides accounts, authentication, databases, asynchronous communication, and scheduling across clusters. Components and protocols are already built into the platform, and a subset can be used to satisfy our VDex requirements. VDex will initially benefit from the standard features offered by EOS.IO such as account and wallet creation and the recovery of stolen keys, but we plan subsequently to implement protocols for creation of a decentralized exchange through EOS contracts and other tools.[2] Here is a summary of encouraging methodologies:
+Sinuri namin ang iba't ibang mga operating system bilang mga candidate para sa substructure ng aming VDex na palitan. Bagama't pinararangalan natin ang natapos na gawain ng isang bilang na itinatag na mga lider sa mga digital na asset at blockchain na teknolohiya, kabilang sa mga trailblazer na ang gawain ng EOS.IO bilang isang operating system na tulad ng balangkas kung saan ang mga desentralisadong aplikasyon ay maaaring itayo, sa aming opinyon, bilang kapuri-puri. Software na nagbibigay ng mga akawnt, awtentikasyon, database, asynchronous na komunikasyon, at pag-iiskedyul ng mga klaster. Ang mga bahagi at mga protokol ay naitayo na sa plataporma, at isang subset ang pwedeng magamit para masunod ang aming mga kinakailangan sa VDex. Unang makikinabang ang VDex mula sa mga karaniwang katangian na inalok ng EOS.IO tulad ng paglikha ng akawnt at wallet at pag-rekober ng mga ninakaw na key, pero plano namin sa dakong huli na ipatupad ang mga protokol para sa paglikha ng isang desentralisado na palitan sa pamamagitan ng mga kontrata ng EOS at iba pang mga tool.[2] Narito ang isang buod ng naghihikayat sa mga pamamaraan:
 
-### Context Free Actions
+### Konteksto ng mga Libreng Aksyon
 
-Most of the scalability techniques proposed by Ethereum (Sharding, Raiden, Plasma, State Channels) become more efficient, parallelizable, and practical while also ensuring speedy inter-blockchain communication and unimpaired scalability. A Context Free Action involves computations that depend only on transaction data, and not upon the blockchain state.
+Karamihan sa teknik na iskabilidad na iminungkahi ng Ethereum (Sharding, Raiden, Plasma, State Channels) ay nagiging mas mahusay, parallelizable, at praktikal habang tinitiyak din ang mabilis na inter-blockchain na komunikasyon at unimpaired na iskabilidad. Ang isang Konteksto ng Libreng Aksyon ay nadadamay ng mga pag-compute na nakasalalay lamang sa datos ng transaksyon, at hindi sa estado ng blockchain.
 
-### Binary/JSON conversion
+### Binary/JSON na pang-convert
 
-EOS contracts combine the human readability of JSON with the efficiency of binary.
+Ang EOS ay pinagsasama-sama ang human readability ng JSON sa kahusayan ng binary.
 
-### Parallelization and optimization
+### Paralesisasyon at optimisasyon
 
-Separating authentication from application allows faster transaction times and increases bandwidth. EOS.IO blocks are reportedly produced every 500ms.
+Ang paghiwalay ng awtentikasyon mula sa aplikasyon ay nagpapahintulot sa mas mabilis na mga oras ng transaksyon at nagdaragdag ng bandwidth. Bawat 500ms ay inuulat ang mga ginawa sa mga block ng EOS.IO.
 
 ### Web Assembly(WASM)
 
-Web Assembly enables high-performance Web applications and also secures each application in its own sandbox, through which functionalities VDex can obtain network access, filesystem namespace restrictions, and enforced rule-based execution.
+Ang Web Assembly ay nagbibigay-daan sa mga Web na aplikasyon na may mataas na pagganap at sinisiguro din ang bawat aplikasyon sa sarili nitong sandbox, kung saan ang mga functionality ng VDex ay pwedeng makakuha ng akses sa network, mga paghihigpit sa namespace ng filesystem, at pagpapatupad ng pagpapatupad batay sa patakaran.
 
-### Rust/C++ contracts
+### Rust/C++ na mga kontrata
 
-The well-known and popular programming language C++ appears highly suitable for WASM. C++ has highly mature debugging support and libraries. The EOS codebase uses templates liberally, and C++ allows the use of templates and operator overloading to define a runtime cost-free validation of units. The program reinitializes to clean state at the start of every message, a distinct advantage that streamlines formulation of smart contracts. The WebAssembly framework automatically rejects any transaction addressing memory inaccurately. In case dynamic memory allocation is necessary, users can depart to smart pointers because EOS.IO contracts use C++14. It is noteworthy that the first implementation of PARSEC Directed Acyclic Graph (DAG) technology is expected to be in Rust.
+Ang kilala at tanyag na programming language na C++ ay lilitaw na lubhang angkop para sa WASM. Ang C ++ ay may mataas na mature na suporta sa pagde-debig at mga library. Ang codebase ng EOS ay gumagamit ng mga template na liberally, at C++ ay nagpapahintulot sa paggamit ng mga template at opereytor sa pag-overload para tukuyin ang isang runtime cost-free na balidasyon ng mga yunit. Ang program ay ini-reinitializes para linisin ang estado sa simula ng bawat mensahe, isang natatanging kalamangan na streamlines pagbabalangkas ng mga matalinong kontrata. Ang framework ng WebAssembly ay awtomatikong tatanggihan ang anumang transaksyon na tumutugon sa memory nang hindi wasto. Sa kaso ng dynamic na alokasyon ng memory ay kinakailangan, ang mga gumagamit ay pwedeng umalis sa mga smart pointer dahil ginagamit ng mga kontrata ng EOS.IO ang C++14. Kapansin-pansin na ang unang implimentasyon ng PARSEC Directed Acyclic Graph (DAG) na teknolohiya ay inaasahan na nasa Rust.
 
-#### 3.0.2 Schema defined messages and database
+#### 3.0.2 Tinukoy ng iskema ang mga mensahe at database
 
-Service contracts are standardized to provide a baseline measure of interoperability between and among disparate systems by harmonization of data models. Indeed, the Standardized Service Contract design principle advocates that service contracts be based on standardized data models. Analysis is done on the service inventory blueprint to find out the commonly occurring business documents that are exchanged between services. These business documents are then modeled in a standardized manner. The Canonical Schema pattern reduces the need for application of the data model transformation design pattern. [3]
+Ginawang pamantayan ang mga kontrata ng serbisyo para magbigay ng isang baseline measure ng interoperability sa pagitan ng at sa mga sistem na disparate sa pamamagitan ng harmonisasyon ng mga modelo ng datos. Sa katotohanan, ang prinsipyo ng disenyo ng Standardised Service Contract ay nagtataguyod na ang mga kontrata sa serbisyo ay batay sa mga pamantayang modelo ng datos. Tapos na ang pagsusuri sa blueprint ng serbisyo ng imbentaryo para malaman ang mga karaniwang nangyayari na mga dokumento ng negosyo na ipinagpapalit sa pagitan ng mga serbisyo. Binubuo ng isang standardized na paraan ang mga dokumentong ito sa negosyo. Ang pattern ng Canonical na Iskema ay binabawasan ang pangangailangan para sa aplikasyon ng pattern ng transpormasyon ng disenyo ng modelo. [3]
 
 #### 3.0.3 Inter-Contract Communication
 
-Data is shared between contracts via an oracle, which, "in the context of blockchains and smart contracts, is an agent that finds and verifies real-world occurrences and submits this information to a blockchain to be used by smart contracts.” [4] Every node will have an identical copy of these data, for use in smart contract computation. Rather than the smart contract functioning to pull the data, instead the oracle pushes the data onto the blockchain. In the instance of a blockchain, most reading of the data is done via polling "models" in order to monitor blockchain state and to perform certain responsive actions.
+Ibinahagi na ang datos sa pagitan ng mga kontrata sa pamamagitan ng isang orakulo, na, "sa konteksto ng mga blockchain at matalinong kontrata, ay isang ahente na nakakahanap at nagpapatunay ng mga pangyayari sa real-world at nagsusumite ng impormasyong ito sa isang blockchain na gagamitin ng mga matalinong kontrata." [4] Ang bawat node ay magkakaroon ng magkaparehong kopya ng mga datos na ito, para magamit sa matalinong kompitisyon ng kontrata. Sa halip na ang nagpa-function ang matalinong kontrata para hilahin ang datos, sa halip ang pinupush ng orakulo ang datos papunta sa blockchain. Sa halimbawa ng isang blockchain, ang karamihan sa pagbabasa ng datos ay ginagawa sa pamamagitan ng polling na "mga modelo" para masubaybayan ang estado ng blockchain at para maisagawa ang ilang mga aksyon sa pagtugon.
 
 #### 3.0.4 Sidechains
 
-In EOS.IO, issuance of a digital asset creates a sidechain, which is an emerging mechanism permitting digital assets from one blockchain to be securely used in a separate blockchain and then moved back to the original blockchain. Efficiency of processing is promoted by creating multiple sidechains. A TCP-like communication channel between different blockchains evaluates proofs. For each shard (a unit of parallelizable execution in a cycle), a balanced merkle tree is constructed of these action commitments to generate a temporary shared merkle root; this is done for speed of parallel computation. The block header contains the root of a balanced merkle tree the leaves of which are the roots of these individual shard merkle trees. [2]
+Sa EOS.IO, ang pagbibigay ng isang digital na asset ay lumilikha ng isang sidechain, na isang lumilitaw na mekanismo na nagpapahintulot sa mga digital na asset mula sa isang blockchain para maging ligtas sa paggamit sa isang hiwalay na blockchain at pagkatapos ay inilipat pabalik sa orihinal na blockchain. Ang kahusayan sa pagpoproseso ay na-promote sa pamamagitan ng paglikha ng maramihang mga sidechain. Ang isang TCP-na tulad ng tsanel na komunikasyon sa pagitan ng iba't-ibang mga blockchains ay sinusuri ang mga patunay. Para sa bawat shard (isang yunit ng parallelizable execution sa isang cycle), isang balanseng merkle na tree ang itinatayo ng mga aksyon na ito sa pagkilos para bumuo ng isang pansamantalang ibinahaging merkle root; ito ay ginagawa para sa bilis na pagkukuwenta ng magkakahelera. Ang block na header ay naglalaman ng root ng isang balanseng merkle na tree na ang mga dahon nito ay mga root ng mga indibidwal na shard merkle tree. [2]
 
 #### 3.0.5 Liquidity
 
-A digital asset is liquid if it is easily sold or purchased in ordinary trading volumes without a significant short-term impact on its prevailing market price. In order to achieve such a status, traditionally any tradable asset must surmount a trading volume threshold sufficient to support stability. Specifically, we anticipate adopting the following methodologies: Loopring protocol with the use of EOS.IO contracts acting as nodes.[5] Bancor algorithm used to bring stability to the digital asset.[6] Toggles between these protocols and HTLC (atomic swaps) according to Vespucci analyses on the VDex network.
+Ang isang digital na asset ay liquid kung ito ay madaling ibenta o binili sa karaniwang mga bolyum ng kalakalan nang walang isang makabuluhang panandaliang epekto sa kanyang umiiral na presyo sa merkado. Para makamit ang naturang estado, ayon sa tradisyon ang natitrade na asset ng namimili ay dapat magtagumpay sa limitadong dami ng kalakalan para suportahan ang katatagan. Sa partikular, inaasahan namin na gagamitin ang mga sumusunod na pamamaraan: Loopring protocol sa paggamit ng mga kontrata ng EOS.IO na nagpapanggap bilang mga node.[5] Ang algoritmo ng Bancor na ginamit para dalhin ang katatagan sa digital na asset.[6] Tina-toggle sa pagitan ng mga protocol na ito at HTLC (atomic swap) ayon sa Vespucci na pagsusuri sa network ng VDex.
 
 #### 3.0.6 Hashed Timelock Contracts (Atomic Swaps)
 
-A Hashed Timelock Contract (HTLC)[1] is a smart contract enabling the implementation of time-bound transactions. Users will be offered a variable lock-in period for their transactions, with a discount on transaction fees in exchange for choosing a longer lock-in period.
+Isang Hashed Timelock Contract (HTLC)[1] ay isang matalinong kontrata na nagpapahintulot sa pagpapatupad ng mga transaksyon na may takdang oras. Inaalok ang mga gumagamit ng isang variable na lock-in na period para sa kanilang mga transaksyon, na may diskwento sa mga bayarin sa transaksyon bilang kapalit ng pagpili ng mas mahabang period ng pag-lock.
 
 ### 3.1 NETWORK TOPOLOGY
 
-#### 3.1.1 Nodes
+#### 3.1.1 Mga Node
 
 ![](../9.jpg)
 
-Nodes are the endpoints of the VDex exchange. Their functions are:
+Ang mga node ay ang mga endpoint ng VDex na palitan. Ang kanilang mga function ay:
 
-1. Act as portals to VDex through the Verto wallet.
+1. Nagpapanggap bilang mga portal sa VDex sa pamamagitan ng wallet ng Verto.
 
-2. Merge order book information.
+2. I-merge ang impormasyon ng order book.
 
-3. Settle order book.
+3. I-settle ang order book.
 
-4. Manage order cancellation.
+4. Pamahalaan ang kanselasyon ng order.
 
-5. Assign timeouts for the RAFT protocol.
+5. Magtalaga ng mga timeout para sa protolol na RAFT.
 
-6. Initiate contracts for orders that have been filled.
+6. Magsimula ng mga kontrata para sa mga order na napunan.
 
-Nodes earn a portion of the fee for each transaction. If a user has sufficient funds and possesses a good track record, his or her Verto wallet can act as a node.
+Ang mga node ay nag-earn ng isang porsyon ng bayad para sa bawat transaksyon. Kung ang isang gumagamit ay may sapat na pondo at nagtataglay ng isang mahusay na trak ng rekord, ang kanyang wallet na Verto ay pwedeng kumilos bilang isang node.
 
-#### 3.1.2 Aggregators
+#### 3.1.2 Mga Aggregator
 
-The VDex aggregators are dedicated Volentix servers for simulator and security purposes. One of their functions is to pull logs and order book data from nodes into sparse distributed representations for hierarchical temporal memory as intrusion [7] analysis for detecting anomalies in the system. The aggregators will also be host to other components such as metachain ledgers and blockchain scrapers.
+Ang mga VDex na aggregator ay nakatuon sa mga serber ng Volentix para sa mga layunin ng pag-simulate at seguridad. Ang isa sa kanilang mga function ay para kunin ang mga log at order book ng datos mula sa mga node sa kalat-kalat na ibinahagi na representasyon para sa hierarchical temporal memory bilang panghihimasok [7] sa pagsusuri para sa pag-detect ng mga anomalya sa sistem. Ang mga aggregator ay magkakaroon din ng host sa iba pang mga bahagi tulad ng mga metachain na ledger at blockchain na scraper.
 
 #### 3.1.3 Latency
 
-EOS.IO has low latency block confirmation (0.5 seconds).[5] This degree of latency can be maintained in transactions with other blockchains if those chains admit of similar latency. But fundamentally the transaction is only as rapid as the lesser-rapid chain in the equation. It is well known, for example, that a Bitcoin block requires approximately ten minutes for processing. Receiving a transaction hash does not mean the transaction is confirmed; it means only that a node accepted the transaction without error, although there is generally a high probability other block producers will accept it.
+Ang EOS.IO ay may mababang latency sa pag-block ng kumpirmasyon na (0.5 segundo).[5] Ang antas ng latency na ito ay maaaring mapanatili sa mga transaksyon sa iba pang mga blockchains kung ang mga chain ay ina-admint ng mga katulad na latency. Pero sa panimula ang transaksyon ay kasing bilis lamang ng mas mababang-rapid na chin sa pagpapantay. Ito ay kinikilala na mahusay, halimbawa, na ang isang Bitcoin block ay nangangailangan ng humigit-kumulang sampung minuto para sa pagpoproseso. Ang pagtanggap ng isang transaksyon ay hindi nangangahulugan na ang transaksyon ay nakumpirma; ito ay nangangahulugan lamang na ang isang node ay tinanggap ang transaksyon nang walang error, bagama't sa pangkalahatan ay isang mataas na posibilidad ng iba pang mga nagpo-produce na block ay tanggapin ito.
 
 ### 3.2 ORDER BOOK
 
-The order book is the list of buy-and-sell orders VDex records from interested users. A matching engine uses an order book to determine which orders can be fulfilled. The Loopring protocol allows for customizing the order book data structure.[5] Containers provided by EOS.IO can be used for optimal performance.[8]
+Ang order book ay ang listahan ng mga buy-and-sell na mga order ng mga rekord ng VDex mula sa mga interesadong gumagamit. Isang magkatugma na engine ay gumagamit ng isang order book para matukoy kung aling mga order ang matutupad. Ang protokol na Loopring ay nagpapahintulot para sa pagpapasadya ng istraktura ng datos ng order book.[5] Ang mga container na ibinigay ng EOS.IO ay maaaring gamitin para sa mahusay na pagganap.[8]
 
-#### 3.2.1 Data structures
+#### 3.2.1 Mga istraktura ng datos
 
-Using the Loopring Protocol FIFO (first-in first-out) circular buffer, nodes can design their order books to display and match a user’s order. This method follows an OTC model, where limit orders are positioned based on price only.[5]
+Gamit ang FIFO ng protokol na Loopring (first-in first-out) na circular buffer, na pwedeng mag-disenyo ng mga node ang kanilang order book para maipakita at tumutugma sa isang gumagamit ng order. Ang metodong ito ay sumusunod sa isang modelo ng OTC, kung saan ang mga order ng limitasyon ay nakaposisyon batay sa presyo lamang.[5]
 
-Referencing the EOS.IO persistence API, the order book is able to take advantage of the powerful multi-index container shared among nodes through the same EOS.IO account.
+Ang EOS.IO ay tinutukoy ang persistence na API, ang order book ay pwedeng samantalahin ang makapangyarihang multi-index na container na ibinahagi sa mga node sa pamamagitan ng parehong akawnt na EOS.IO.
 
 #### 3.2.2 On-Chain order book
 
-An on-chain order book is a record of offers residing on the wallet (node) chosen to settle the order book. It resides in a persistent database on each node subscribing to the same account as all the other nodes.
+Ang isang on-chain na order book ay isang talaan ng mga nag-aalok na nakalagay sa wallet (node) na pinili para bayaran ang order book. Ito ay nakalagay sa isang persistent na database sa bawat node na nag-subscribe sa parehong akawnt tulad ng lahat ng iba pang mga node.
 
 #### 3.2.3 Off-Chain order book
 
-Residing on the aggregator, offline order books serve for simulator and security purposes.
+Nakalagay sa aggregator, sini-serve ang offline na order book para simulator at layunin ng seguridad.
 
-#### 3.2.4 Decentralization process of order book settlement
+#### 3.2.4 Desentralisasyon sa pagproseso ng pag-settle sa order book
 
-For decentralization purposes, nodes will take turns to settle the order book. The settling node must be designated by the protocol and all order book entries from all nodes must be available to the settling nodes. We believe the RAFT[9] and PARSEC[10] consensus mechanisms offer effective solutions. RAFT is a well-established algorithm and is easy to implement.[7] PARSEC is more recent and more efficient, using Directed Acyclic Graph (DAG) technology and eliminating the need for copying logs.
+Para sa mga layuning desentralisasyon, ang mga node ay magpapalitan para ma-settle ang order book. Ang node sa pagse-settle ay dapat na itinalaga ng protokol at ang lahat ng mga entry ng order book mula sa lahat ng mga node ay dapat na magagamit sa pagse-settle ng mga node. Naniniwala kami na ang RAFT[9] at PARSEC[10] na mga mekanismo ng pinagkasunduan ay nag-aalok ng mga epektibong solusyon. Ang RAFT ay isang mahusay-na-itinatag na algoritmo at madaling ipatupad.[7] Ang PARSEC ay mas bago at mas mahusay, gamit ang Directed Acyclic Graph (DAG) na teknolohiya at inaalis ang mga kinakailangan para sa mga log ng pagkopya.
 
 ### 3.3 ORDER SETTLEMENT
 
-Order settlement contains familiar elements of conventional financial market transactions. Utilizing FIFO technology to design the order book, VDex intends to check order, inventory, and fill rate, as well as limit orders and cancellations. ![](../7.jpg)
+Ang order settlement ay naglalaman ng mga pamilyar na elemento ng pinansyal na kagawianin na transaksyon sa pamilihan. Ang teknolohiya na FIFO ay ginagamit para mag-disenyo ng order book, nais ng VDex na suriin ang order, imbentaryo, at fill rate, pati na rin ang limitasyon ng mga order at pagkansela. ![](../7.jpg)
 
 ### 3.4 VTX
 
-#### 3.4.1 VTX Issuance and Use
+#### 3.4.1 Pag-isyu at Paggamit ng VTX
 
-VTX is the native digital asset to be issued and used on the VDex decentralized exchange. We currently plan to use an eosio.token contract from the EOS.IO framework to issue 2.1 billion EOS.IO-compliant VTX tokens with a supply of 1.3 billion. VTX will have a diverse array of uses, for example:
+Ang VTX ay ang katutubong digital na asset na iisyu at ginagamit sa VDex desentralisadong palitan. Pinaplano namen sa kasalukuyan na gumamit ng isang kontrata ng eosio.token mula sa framework ng EOS.IO para mag-isyu ng 2.1 na bilyon na mga token ng VOS ng EOS.IO na may suplay na 1.3 na bilyon. Ang VTX ay magkakaroon ng magkakaibang hanay ng paggamit, para sa halimbawa:
 
-To reward participants in the consensus process and in Venue campaigns.
+Para gantimpalaan ang mga kalahok sa proseso ng pinagkasunduan at sa mga kampanya sa Venue.
 
-To pay and redistribute transaction fees on the VDex exchange.
+Para magbayad at mamahagi ng mga bayarin sa transaksyon sa palitan na VDex.
 
-To submit and vote on proposals to the Volentix ecosystem, using the voting rights allocated to VTX holders.
+Para magsumite at bumoto sa mga panukala sa ekosistema na Volentix, gamit ang mga karapatan sa pagboto na inilalaan sa mga may hawak ng VTX.
 
-To stake support for reviewing proposals and implementing projects.
+Para sa suporta sa stake para sa pagri-ribyu ng mga panukala at pagpapatupad ng mga proyekto.
 
-To incentivize users to participate in order book settlement by becoming nodes via their Verto wallets.
+Para sa insentibo ng mga gumagamit para lumahok sa pagse-settle sa order book ay sa paparating na node sa pamamagitan ng kanilang mga wallet ng Verto.
 
-To incentivize users to lock funds in for >24 hours by HTLC time-bound transactions.
+Para sa insentibo ng mga gumagamit para i-lock ang mga pondo sa loob ng >24 na oras sa pamamagitan ng mga transaksyon na may takdang oras ng HTLC.
 
-#### 3.4.2 VTX Allocation
+#### 3.4.2 Alokasyon ng VTX
 
 ![](../6.jpg)
 
-A digital assets ecosystem requires an array of certain fundamental human constituents who shepherd the project forward.[11] It is essential to compensate those individuals for their participation. Subject to adjustment, Volentix currently anticipates the following allocations:
+Ang isang digital assets ecosystem ay nangangailangan ng isang hanay ng ilang pangunahing mga nasasakupan ng human na nagpapastol sa proyektong ito.[11] Mahalaga na bayaran ang mga indibidwal para sa kanilang pakikilahok. Alinsunod sa pag-aayos, kasalukuyang binabanggit ng Volentix ang mga sumusunod na alokasyon:
 
-1. Contributors. 12%. An array of individuals, akin to founders, who contribute insights, time and talent, though often work without early compensation.
+1. Mga kontribyutor. 12%. Ang isang hanay ng mga indibidwal, katulad ng mga tagapagtatag, na nag-aambag ng mga pananaw, oras at talento, kahit na madalas ay nagtatrabaho nang walang maagang kabayaran.
 
 2. Supporters.
 
@@ -230,53 +230,53 @@ Include ability to pause the functionality of a contract.
 
 Include ability to delay an action of a contract.
 
-#### 3.8.2 Auditing rogue processes
+#### 3.8.2 Pag-awdit ng mga proseso ng pagnanakaw
 
-The advanced anomaly detection algorithms provided by Numenta’s Nupic library will require less voluminous training data sets than conventional AI systems.
+Ang mga advance na algoritmo sa pagtuklas ng anomalya na ibinigay ng Nupic na library ng Nupu ay mangangailangan ng mas mababang mga hanay ng datos ng pagsasanay kaysa sa mga sistema ng conventional AI.
 
-#### 3.8.3 Randomization
+#### 3.8.3 Randominisasyon
 
-True randomisation of address space layout, route or utilizing varying lengths of timeouts as in the RAFT protocol can complexify systems enough to enhance resilience and further secure systems against a side-channel attack or front running.
+Ang tunay na randomisasyon ng address ng layout ng space, ruta o paggamit ng iba't ibang mga haba ng mga timeout tulad ng sa protokol na RAFT ay maaaring kumplikado sapat na sistem para mapahusay ang kabanatan at karagdagang mga siguridad na sistem laban sa isang side-channel na pag-atake o harapang gumagana.
 
-#### 3.8.4 Log inspection
+#### 3.8.4 Inspeksyon sa Pag-log
 
-Parsec does not rely on logs for the determination of consensus. On the other hand, RAFT will require this. In any case, Validator nodes will be designed to require minimal information To determine consensus as to minimize the transaction process time.
+Ang Parsec ay hindi umaasa sa mga log para sa determinasyon ng mga consensus. Sa kabilang banda, kinakailangan ito ng RAFT. Sa anumang kaso, Ang mga node ng pagpapatunay ay idinisenyo apra mangailangan ng kaunting impormasyon Para matukoy ang pinagkasunduan para mabawasan ang oras ng proseso ng transaksyon.
 
 #### 3.8.5 Transaction as Proof of Stake (TaPoS)
 
-This mechanism prevents the replay of a transaction on forks that do not include the referenced block. Signals the network that a particular user and stake are on a specific fork.
+Pinipigilan ng mekanismong ito ang replay ng isang transaksyon sa mga fork na hindi kasama ang reperensiya ng block. Nag-signal ang network na ang isang partikular na gumagamit at stake ay nasa isang tiyak na fork.
 
-### 3.9 Security threats and remedies
+### 3.9 Mga banta sa seguridad at mga remedyo
 
-#### 3.9.1 Double spend
+#### 3.9.1 Dobleng paggastos
 
-A double spend is an attack in which a particular cryptocurrency stake is spent in more than one transaction.
+Ang isang dobleng paggastos ay isang pag-atake kung saan ang isang partikular na cryptocurrency stake ay ginugol sa higit sa isang transaksyon.
 
-A race attack occurs when two conflicting transactions are sent in rapid succession into the network.
+Isang race ng pag-atake ay nangyayari kapag ang dalawang magkakontrahan na mga transaksyon ay ipinadala sa mabilis na pagkakasunud-sunod sa network.
 
-A Finney attack pre-mines one transaction into a block and spends the same tokens before releasing the block to invalidate that transaction.
+Ang isang Finney na pag-atake ay nag-pre-mines ng isang transaksyon sa isang block at gumastos ng parehong mga token bago ilalabas ang block para magpawalang-bisa sa transaksyong iyon.
 
-A 51% attack can be mounted by anyone owning >50% of the total computing power of a network. A majority ownership position permits reversal of any transaction and allows total control of selection of transactions appearing in blocks. EOS.IO, Loopring, and RAFT appear to prevent this problem. If a block producer takes an unreasonable amount of runtime or is not sufficiently profitable, then the process is blacklisted.[5]
+Ang isang 51% na pag-atake ay pwedeng ma-mount ng sinuman na may-ari >50% ng kabuuang power ng pagkwenta ng isang network. Karamihan sa pagmamay-ari ay pinapahintuloran ang isang pagsaliwa ng anumang transaksyon at nagpapahitulot sa kabuuang kontrol sa pagpili ng mga transaksyon na lumalabas sa mga block. Lumilitaw ang EOS.IO, Loopring, at RAFT para maiwasan ang problemang ito. Kung ang isang prodyuser ng block ay tumatagal ng isang hindi makatwiran na halaga ng runtime o hindi sapat na kapaki-pakinabang, pagkatapos ay ang proseso ay naka-blacklist.[5]
 
 #### 3.9.2 Front running
 
-A front runner steals one or more orders from a pending order book settlement transaction. Both EOS.IO and Loopring offer remedies in which keys are protected because they are not part of the on-chain transaction, and therefore remain unknown to parties other than the owner. Only the order book settling node is possessed of the sensitive information, and each node uses a different solution for resolving the order books, introducing yet another level of complexity to promote security.
+Ang isang front runner ay kumukuha ng isa o higit pang mga order mula sa isang nakabinbing order book na transaksyon. Ang parehong EOS.IO at Loopring ay nag-aalok ng mga remedyo kung saan ang mga key ay protektado dahil hindi sila bahagi ng transaksyon sa on-chain, at samakatuwid ay nananatiling hindi kilala sa mga partido maliban sa may-ari. Tanging ang pagsi-settle node ng order book ay may nagmamay-ari sa sensitibong impormasyon, at ang bawat node ay gumagamit ng ibang solusyon para sa paglutas ng mga order book, na nagpapakilala ng isa pang antas ng pagiging kumplikado upang itaguyod ang seguridad.
 
-#### 3.9.3 Forged identities
+#### 3.9.3 Mga huwad na pagkakakilanlan
 
-Malicious users create forged identities to send a large number of small orders to attack Loopring nodes. However, most of these orders will be rejected for not yielding satisfying profit when matched.
+Ang mga malisyoso na gumagamit ay lumikha ng mga huwad na pagkakakilanlan para magpadala ng isang malaking bilang ng mga maliliit na order para atakihin ang mga node ng Loopring. Gayunpaman, karamihan sa mga order na ito ay tatanggihan para sa hindi pagbibigay ng kasiya-siyang kita kapag naitugma.
 
-#### 3.9.4 Insufficient Balance
+#### 3.9.4 Hindi sapat ang balanse
 
-Malicious users sign and spread orders the value of which is non-zero but the address of which has a zero balance. Nodes monitor actual balances, update these order states accordingly, and then discard them.
+Ang mga malisyoso na mga gumagamit ay nag-sign at kumakalat ng mga order na ang halaga ng kung saan ay di-sero per ang address na may sero na balanse. Ang aktwal na balanse ay sinusubaybayan ng mga node, i-update ang mga order na ito ayon sa naaayon, at pagkatapos ay itapon ang mga ito.
 
-#### 3.9.5 Timing attack
+#### 3.9.5 Oras ng pag-atake
 
-Timing attacks are a class of cryptographic attacks through which a third-party observer can deduce the content of encrypted data by recording and analyzing the time taken to execute cryptographic algorithms. The RAFT algorithm prevents timing attacks by using randomness of timeouts.
+Ang oras ng pag-atake ay isang uri ng cryptographic na pag-atake kung saan ang isang third-party na tagamasid ay pwedeng pagmulan ng nilalaman ng naka-encrypt na datos sa pamamagitan ng pagtatala at pag-aaral ng oras na kinuha para mag-execute ng cryptographic na algoritmo. Pinipigilan ng algoritmo ng RAFT ang oras ng pag-atake sa pamamagitan ng paggamit ng randomness ng mga timeout.
 
-### 3.10 USER EXPERIENCE
+### 3.10 KARANIWANG PAGGAMIT
 
-Our focus on user experience is primary. We wish to make VTX and the four pillars of Volentix -- Venue, Verto, Vespucci, and VDex -- easily accessible to and useable by all those who wish to join our community. We expect the experience continually to be educational as well, with templates and simulators to support a superior UX/UI relationship.
+Naka-pokus kame sa pangunahing nararanasanng gumagamit. Gusto naming gawin ang VTX at ang apat na mga pillar ng Volentix -- Venue, Verto, Vespucci, at VDex - madaling mapupuntahan at magagamit ng lahat ng mga nais na sumali sa aming komunidad. Inaasahan namin na ang karanasan ay patuloy na pang-edukasyon din, na may mga template at mga simulator para suportahan ang isang relasyon sa superior UX/UI.
 
 ### 3.11 TRUE DECENTRALIZATION
 
