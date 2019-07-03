@@ -68,7 +68,7 @@ Ginawang pamantayan ang mga kontrata ng serbisyo para magbigay ng isang baseline
 
 #### 3.0.3 Inter-Contract Communication
 
-Ibinahagi na ang datos sa pagitan ng mga kontrata sa pamamagitan ng isang orakulo, na, "sa konteksto ng mga blockchain at matalinong kontrata, ay isang ahente na nakakahanap at nagpapatunay ng mga pangyayari sa real-world at nagsusumite ng impormasyong ito sa isang blockchain na gagamitin ng mga matalinong kontrata." [4] Ang bawat node ay magkakaroon ng magkaparehong kopya ng mga datos na ito, para magamit sa matalinong kompitisyon ng kontrata. Rather than the smart contract functioning to pull the data, instead the oracle pushes the data onto the blockchain. In the instance of a blockchain, most reading of the data is done via polling "models" in order to monitor blockchain state and to perform certain responsive actions.
+Ibinahagi na ang datos sa pagitan ng mga kontrata sa pamamagitan ng isang orakulo, na, "sa konteksto ng mga blockchain at matalinong kontrata, ay isang ahente na nakakahanap at nagpapatunay ng mga pangyayari sa real-world at nagsusumite ng impormasyong ito sa isang blockchain na gagamitin ng mga matalinong kontrata." [4] Ang bawat node ay magkakaroon ng magkaparehong kopya ng mga datos na ito, para magamit sa matalinong kompitisyon ng kontrata. Sa halip na ang nagpa-function ang matalinong kontrata para hilahin ang datos, sa halip ang pinupush ng orakulo ang datos papunta sa blockchain. Sa halimbawa ng isang blockchain, ang karamihan sa pagbabasa ng datos ay ginagawa sa pamamagitan ng polling na "mga modelo" para masubaybayan ang estado ng blockchain at para maisagawa ang ilang mga aksyon sa pagtugon.
 
 #### 3.0.4 Sidechains
 
