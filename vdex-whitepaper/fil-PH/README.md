@@ -268,11 +268,11 @@ Ang mga malisyoso na gumagamit ay lumikha ng mga huwad na pagkakakilanlan para m
 
 #### 3.9.4 Hindi sapat ang balanse
 
-Ang mga malisyoso na mga gumagamit ay nag-sign at kumakalat ng mga order na ang halaga ng kung saan ay di-sero per ang address na may sero na balanse. Nodes monitor actual balances, update these order states accordingly, and then discard them.
+Ang mga malisyoso na mga gumagamit ay nag-sign at kumakalat ng mga order na ang halaga ng kung saan ay di-sero per ang address na may sero na balanse. Ang aktwal na balanse ay sinusubaybayan ng mga node, i-update ang mga order na ito ayon sa naaayon, at pagkatapos ay itapon ang mga ito.
 
-#### 3.9.5 Timing attack
+#### 3.9.5 Oras ng pag-atake
 
-Timing attacks are a class of cryptographic attacks through which a third-party observer can deduce the content of encrypted data by recording and analyzing the time taken to execute cryptographic algorithms. The RAFT algorithm prevents timing attacks by using randomness of timeouts.
+Ang oras ng pag-atake ay isang uri ng cryptographic na pag-atake kung saan ang isang third-party na tagamasid ay pwedeng pagmulan ng nilalaman ng naka-encrypt na datos sa pamamagitan ng pagtatala at pag-aaral ng oras na kinuha para mag-execute ng cryptographic na algoritmo. The RAFT algorithm prevents timing attacks by using randomness of timeouts.
 
 ### 3.10 USER EXPERIENCE
 
