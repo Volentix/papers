@@ -106,11 +106,11 @@ Ang mga node ay nag-earn ng isang porsyon ng bayad para sa bawat transaksyon. Ku
 
 #### 3.1.2 Mga Aggregator
 
-The VDex aggregators are dedicated Volentix servers for simulator and security purposes. One of their functions is to pull logs and order book data from nodes into sparse distributed representations for hierarchical temporal memory as intrusion [7] analysis for detecting anomalies in the system. The aggregators will also be host to other components such as metachain ledgers and blockchain scrapers.
+Ang mga VDex na aggregator ay nakatuon sa mga serber ng Volentix para sa mga layunin ng pag-simulate at seguridad. Ang isa sa kanilang mga function ay para kunin ang mga log at order book ng datos mula sa mga node sa kalat-kalat na ibinahagi na representasyon para sa hierarchical temporal memory bilang panghihimasok [7] sa pagsusuri para sa pag-detect ng mga anomalya sa sistem. Ang mga aggregator ay magkakaroon din ng host sa iba pang mga bahagi tulad ng mga metachain na ledger at blockchain na scraper.
 
 #### 3.1.3 Latency
 
-EOS.IO has low latency block confirmation (0.5 seconds).[5] This degree of latency can be maintained in transactions with other blockchains if those chains admit of similar latency. But fundamentally the transaction is only as rapid as the lesser-rapid chain in the equation. It is well known, for example, that a Bitcoin block requires approximately ten minutes for processing. Receiving a transaction hash does not mean the transaction is confirmed; it means only that a node accepted the transaction without error, although there is generally a high probability other block producers will accept it.
+Ang EOS.IO ay may mababang latency sa pag-block ng kumpirmasyon na (0.5 segundo).[5] Ang antas ng latency na ito ay maaaring mapanatili sa mga transaksyon sa iba pang mga blockchains kung ang mga chain ay ina-admint ng mga katulad na latency. Pero sa panimula ang transaksyon ay kasing bilis lamang ng mas mababang-rapid na chin sa pagpapantay. Ito ay kinikilala na mahusay, halimbawa, na ang isang Bitcoin block ay nangangailangan ng humigit-kumulang sampung minuto para sa pagpoproseso. Receiving a transaction hash does not mean the transaction is confirmed; it means only that a node accepted the transaction without error, although there is generally a high probability other block producers will accept it.
 
 ### 3.2 ORDER BOOK
 
