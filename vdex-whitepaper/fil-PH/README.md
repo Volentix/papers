@@ -76,7 +76,7 @@ Sa EOS.IO, ang pagbibigay ng isang digital na asset ay lumilikha ng isang sidech
 
 #### 3.0.5 Liquidity
 
-Ang isang digital na asset ay liquid kung ito ay madaling ibenta o binili sa karaniwang mga bolyum ng kalakalan nang walang isang makabuluhang panandaliang epekto sa kanyang umiiral na presyo sa merkado. In order to achieve such a status, traditionally any tradable asset must surmount a trading volume threshold sufficient to support stability. Specifically, we anticipate adopting the following methodologies: Loopring protocol with the use of EOS.IO contracts acting as nodes.[5] Bancor algorithm used to bring stability to the digital asset.[6] Toggles between these protocols and HTLC (atomic swaps) according to Vespucci analyses on the VDex network.
+Ang isang digital na asset ay liquid kung ito ay madaling ibenta o binili sa karaniwang mga bolyum ng kalakalan nang walang isang makabuluhang panandaliang epekto sa kanyang umiiral na presyo sa merkado. Para makamit ang naturang estado, ayon sa tradisyon ang natitrade na asset ng namimili ay dapat magtagumpay sa limitadong dami ng kalakalan para suportahan ang katatagan. Sa partikular, inaasahan namin na gagamitin ang mga sumusunod na pamamaraan: Loopring protocol sa paggamit ng mga kontrata ng EOS.IO na nagpapanggap bilang mga node.[5] Ang algoritmo ng Bancor na ginamit para dalhin ang katatagan sa digital na asset.[6] Tina-toggle sa pagitan ng mga protocol na ito at HTLC (atomic swap) ayon sa Vespucci na pagsusuri sa network ng VDex.
 
 #### 3.0.6 Hashed Timelock Contracts (Atomic Swaps)
 
