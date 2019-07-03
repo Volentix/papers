@@ -88,23 +88,23 @@ Isang Hashed Timelock Contract (HTLC)[1] ay isang matalinong kontrata na nagpapa
 
 ![](../9.jpg)
 
-Ang mga node ay ang mga endpoint ng VDex na palitan. Their functions are:
+Ang mga node ay ang mga endpoint ng VDex na palitan. Ang kanilang mga function ay:
 
-1. Act as portals to VDex through the Verto wallet.
+1. Nagpapanggap bilang mga portal sa VDex sa pamamagitan ng wallet ng Verto.
 
-2. Merge order book information.
+2. I-merge ang impormasyon ng order book.
 
-3. Settle order book.
+3. I-settle ang order book.
 
-4. Manage order cancellation.
+4. Pamahalaan ang kanselasyon ng order.
 
-5. Assign timeouts for the RAFT protocol.
+5. Magtalaga ng mga timeout para sa protolol na RAFT.
 
-6. Initiate contracts for orders that have been filled.
+6. Magsimula ng mga kontrata para sa mga order na napunan.
 
-Nodes earn a portion of the fee for each transaction. If a user has sufficient funds and possesses a good track record, his or her Verto wallet can act as a node.
+Ang mga node ay nag-earn ng isang porsyon ng bayad para sa bawat transaksyon. Kung ang isang gumagamit ay may sapat na pondo at nagtataglay ng isang mahusay na trak ng rekord, ang kanyang wallet na Verto ay pwedeng kumilos bilang isang node.
 
-#### 3.1.2 Aggregators
+#### 3.1.2 Mga Aggregator
 
 The VDex aggregators are dedicated Volentix servers for simulator and security purposes. One of their functions is to pull logs and order book data from nodes into sparse distributed representations for hierarchical temporal memory as intrusion [7] analysis for detecting anomalies in the system. The aggregators will also be host to other components such as metachain ledgers and blockchain scrapers.
 
