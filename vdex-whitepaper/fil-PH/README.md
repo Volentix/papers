@@ -272,11 +272,11 @@ Ang mga malisyoso na mga gumagamit ay nag-sign at kumakalat ng mga order na ang 
 
 #### 3.9.5 Oras ng pag-atake
 
-Ang oras ng pag-atake ay isang uri ng cryptographic na pag-atake kung saan ang isang third-party na tagamasid ay pwedeng pagmulan ng nilalaman ng naka-encrypt na datos sa pamamagitan ng pagtatala at pag-aaral ng oras na kinuha para mag-execute ng cryptographic na algoritmo. The RAFT algorithm prevents timing attacks by using randomness of timeouts.
+Ang oras ng pag-atake ay isang uri ng cryptographic na pag-atake kung saan ang isang third-party na tagamasid ay pwedeng pagmulan ng nilalaman ng naka-encrypt na datos sa pamamagitan ng pagtatala at pag-aaral ng oras na kinuha para mag-execute ng cryptographic na algoritmo. Pinipigilan ng algoritmo ng RAFT ang oras ng pag-atake sa pamamagitan ng paggamit ng randomness ng mga timeout.
 
-### 3.10 USER EXPERIENCE
+### 3.10 KARANIWANG PAGGAMIT
 
-Our focus on user experience is primary. We wish to make VTX and the four pillars of Volentix -- Venue, Verto, Vespucci, and VDex -- easily accessible to and useable by all those who wish to join our community. We expect the experience continually to be educational as well, with templates and simulators to support a superior UX/UI relationship.
+Naka-pokus kame sa pangunahing nararanasanng gumagamit. Gusto naming gawin ang VTX at ang apat na mga pillar ng Volentix -- Venue, Verto, Vespucci, at VDex - madaling mapupuntahan at magagamit ng lahat ng mga nais na sumali sa aming komunidad. Inaasahan namin na ang karanasan ay patuloy na pang-edukasyon din, na may mga template at mga simulator para suportahan ang isang relasyon sa superior UX/UI.
 
 ### 3.11 TRUE DECENTRALIZATION
 
