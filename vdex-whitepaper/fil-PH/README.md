@@ -110,11 +110,11 @@ Ang mga VDex na aggregator ay nakatuon sa mga serber ng Volentix para sa mga lay
 
 #### 3.1.3 Latency
 
-Ang EOS.IO ay may mababang latency sa pag-block ng kumpirmasyon na (0.5 segundo).[5] Ang antas ng latency na ito ay maaaring mapanatili sa mga transaksyon sa iba pang mga blockchains kung ang mga chain ay ina-admint ng mga katulad na latency. Pero sa panimula ang transaksyon ay kasing bilis lamang ng mas mababang-rapid na chin sa pagpapantay. Ito ay kinikilala na mahusay, halimbawa, na ang isang Bitcoin block ay nangangailangan ng humigit-kumulang sampung minuto para sa pagpoproseso. Receiving a transaction hash does not mean the transaction is confirmed; it means only that a node accepted the transaction without error, although there is generally a high probability other block producers will accept it.
+Ang EOS.IO ay may mababang latency sa pag-block ng kumpirmasyon na (0.5 segundo).[5] Ang antas ng latency na ito ay maaaring mapanatili sa mga transaksyon sa iba pang mga blockchains kung ang mga chain ay ina-admint ng mga katulad na latency. Pero sa panimula ang transaksyon ay kasing bilis lamang ng mas mababang-rapid na chin sa pagpapantay. Ito ay kinikilala na mahusay, halimbawa, na ang isang Bitcoin block ay nangangailangan ng humigit-kumulang sampung minuto para sa pagpoproseso. Ang pagtanggap ng isang transaksyon ay hindi nangangahulugan na ang transaksyon ay nakumpirma; ito ay nangangahulugan lamang na ang isang node ay tinanggap ang transaksyon nang walang error, bagama't sa pangkalahatan ay isang mataas na posibilidad ng iba pang mga nagpo-produce na block ay tanggapin ito.
 
 ### 3.2 ORDER BOOK
 
-The order book is the list of buy-and-sell orders VDex records from interested users. Isang magkatugma na engine ay gumagamit ng isang order book para matukoy kung aling mga order ang matutupad. Ang protokol na Loopring ay nagpapahintulot para sa pagpapasadya ng istraktura ng datos ng order book.[5] Ang mga container na ibinigay ng EOS.IO ay maaaring gamitin para sa mahusay na pagganap.[8]
+Ang order book ay ang listahan ng mga buy-and-sell na mga order ng mga rekord ng VDex mula sa mga interesadong gumagamit. Isang magkatugma na engine ay gumagamit ng isang order book para matukoy kung aling mga order ang matutupad. Ang protokol na Loopring ay nagpapahintulot para sa pagpapasadya ng istraktura ng datos ng order book.[5] Ang mga container na ibinigay ng EOS.IO ay maaaring gamitin para sa mahusay na pagganap.[8]
 
 #### 3.2.1 Mga istraktura ng datos
 
@@ -230,17 +230,17 @@ Include ability to pause the functionality of a contract.
 
 Include ability to delay an action of a contract.
 
-#### 3.8.2 Auditing rogue processes
+#### 3.8.2 Pag-awdit ng mga proseso ng pagnanakaw
 
-The advanced anomaly detection algorithms provided by Numenta’s Nupic library will require less voluminous training data sets than conventional AI systems.
+Ang mga advance na algoritmo sa pagtuklas ng anomalya na ibinigay ng Nupic na library ng Nupu ay mangangailangan ng mas mababang mga hanay ng datos ng pagsasanay kaysa sa mga sistema ng conventional AI.
 
-#### 3.8.3 Randomization
+#### 3.8.3 Randominisasyon
 
-True randomisation of address space layout, route or utilizing varying lengths of timeouts as in the RAFT protocol can complexify systems enough to enhance resilience and further secure systems against a side-channel attack or front running.
+Ang tunay na randomisasyon ng address ng layout ng space, ruta o paggamit ng iba't ibang mga haba ng mga timeout tulad ng sa protokol na RAFT ay maaaring kumplikado sapat na sistem para mapahusay ang kabanatan at karagdagang mga siguridad na sistem laban sa isang side-channel na pag-atake o harapang gumagana.
 
-#### 3.8.4 Log inspection
+#### 3.8.4 Inspeksyon sa Pag-log
 
-Parsec does not rely on logs for the determination of consensus. On the other hand, RAFT will require this. In any case, Validator nodes will be designed to require minimal information To determine consensus as to minimize the transaction process time.
+Ang Parsec ay hindi umaasa sa mga log para sa determinasyon ng mga consensus. Sa kabilang banda, kinakailangan ito ng RAFT. In any case, Validator nodes will be designed to require minimal information To determine consensus as to minimize the transaction process time.
 
 #### 3.8.5 Transaction as Proof of Stake (TaPoS)
 
