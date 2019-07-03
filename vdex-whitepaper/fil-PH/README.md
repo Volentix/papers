@@ -64,7 +64,7 @@ Ang kilala at tanyag na programming language na C++ ay lilitaw na lubhang angkop
 
 #### 3.0.2 Tinukoy ng iskema ang mga mensahe at database
 
-Ginawang pamantayan ang mga kontrata ng serbisyo para magbigay ng isang baseline measure ng interoperability sa pagitan ng at sa mga sistem na disparate sa pamamagitan ng harmonisasyon ng mga modelo ng datos. Indeed, the Standardized Service Contract design principle advocates that service contracts be based on standardized data models. Analysis is done on the service inventory blueprint to find out the commonly occurring business documents that are exchanged between services. These business documents are then modeled in a standardized manner. The Canonical Schema pattern reduces the need for application of the data model transformation design pattern. [3]
+Ginawang pamantayan ang mga kontrata ng serbisyo para magbigay ng isang baseline measure ng interoperability sa pagitan ng at sa mga sistem na disparate sa pamamagitan ng harmonisasyon ng mga modelo ng datos. Sa katotohanan, ang prinsipyo ng disenyo ng Standardised Service Contract ay nagtataguyod na ang mga kontrata sa serbisyo ay batay sa mga pamantayang modelo ng datos. Tapos na ang pagsusuri sa blueprint ng serbisyo ng imbentaryo para malaman ang mga karaniwang nangyayari na mga dokumento ng negosyo na ipinagpapalit sa pagitan ng mga serbisyo. Binubuo ng isang standardized na paraan ang mga dokumentong ito sa negosyo. Ang pattern ng Canonical na Iskema ay binabawasan ang pangangailangan para sa aplikasyon ng pattern ng transpormasyon ng disenyo ng modelo. [3]
 
 #### 3.0.3 Inter-Contract Communication
 
