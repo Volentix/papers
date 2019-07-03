@@ -240,21 +240,21 @@ Ang tunay na randomisasyon ng address ng layout ng space, ruta o paggamit ng iba
 
 #### 3.8.4 Inspeksyon sa Pag-log
 
-Ang Parsec ay hindi umaasa sa mga log para sa determinasyon ng mga consensus. Sa kabilang banda, kinakailangan ito ng RAFT. In any case, Validator nodes will be designed to require minimal information To determine consensus as to minimize the transaction process time.
+Ang Parsec ay hindi umaasa sa mga log para sa determinasyon ng mga consensus. Sa kabilang banda, kinakailangan ito ng RAFT. Sa anumang kaso, Ang mga node ng pagpapatunay ay idinisenyo apra mangailangan ng kaunting impormasyon Para matukoy ang pinagkasunduan para mabawasan ang oras ng proseso ng transaksyon.
 
 #### 3.8.5 Transaction as Proof of Stake (TaPoS)
 
-This mechanism prevents the replay of a transaction on forks that do not include the referenced block. Signals the network that a particular user and stake are on a specific fork.
+Pinipigilan ng mekanismong ito ang replay ng isang transaksyon sa mga fork na hindi kasama ang reperensiya ng block. Nag-signal ang network na ang isang partikular na gumagamit at stake ay nasa isang tiyak na fork.
 
-### 3.9 Security threats and remedies
+### 3.9 Mga banta sa seguridad at mga remedyo
 
-#### 3.9.1 Double spend
+#### 3.9.1 Dobleng paggastos
 
-A double spend is an attack in which a particular cryptocurrency stake is spent in more than one transaction.
+Ang isang dobleng paggastos ay isang pag-atake kung saan ang isang partikular na cryptocurrency stake ay ginugol sa higit sa isang transaksyon.
 
-A race attack occurs when two conflicting transactions are sent in rapid succession into the network.
+Isang race ng pag-atake ay nangyayari kapag ang dalawang magkakontrahan na mga transaksyon ay ipinadala sa mabilis na pagkakasunud-sunod sa network.
 
-A Finney attack pre-mines one transaction into a block and spends the same tokens before releasing the block to invalidate that transaction.
+Ang isang Finney na pag-atake ay nag-pre-mines ng isang transaksyon sa isang block at gumastos ng parehong mga token bago ilalabas ang block para magpawalang-bisa sa transaksyong iyon.
 
 A 51% attack can be mounted by anyone owning >50% of the total computing power of a network. A majority ownership position permits reversal of any transaction and allows total control of selection of transactions appearing in blocks. EOS.IO, Loopring, and RAFT appear to prevent this problem. If a block producer takes an unreasonable amount of runtime or is not sufficiently profitable, then the process is blacklisted.[5]
 
