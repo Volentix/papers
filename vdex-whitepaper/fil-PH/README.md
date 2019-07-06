@@ -170,13 +170,13 @@ Yugto 1.5%. Maagang mga funder sa pasibong seed.
 
 Yugto 2. 28%. Mga funder sa pamamagitan ng kwalipikadong pribadong pre-sales at posibleng pagbebenta sa publiko.
 
-3. Mga facilitator. (Advisors, Developers, Promoters, Custodians). Note that requirements for assistance from the sub-categories in this category may differ significantly before and after the project receives substantial funding support, but certain individuals may serve during both phases.
+3. Mga facilitator. (Mga Tagapayo, Mga Nag-develop, Mga Tagapagtaguyod, Mga Tagapangalaga). Paalala na ang mga kinakailangan para sa tulong mula sa mga sub-na kategorya sa kategoryang ito ay pwedeng magkakaiba bago at pagkatapos ng proyekto ay tumatanggap ng malaking suporta sa pagpopondo, pero ang ilang mga indibidwal ay maaaring maglingkod sa panahon ng parehong mga yugto.
 
-Phase 1. 10%.
+Yugto 1. 10%.
 
-Phase 2. 10%.
+Yugto 2. 10%.
 
-4. Decentralized treasury. 35%. Community members incentivized and rewarded for participation in progressive development of a decentralized autonomous organization (DAO). A decentralized treasury is anticipated to be administered by smart contracts and community consensus. ![](../5.jpg)
+4. Desentralisadong pananalapi. 35%. Ang mga miyembro ng komunidad ay insentibado at ginantimpalaan para sa partisipasyon sa progresibong pag-unlad ng isang decentralized autonomous organization (DAO). A decentralized treasury is anticipated to be administered by smart contracts and community consensus. ![](../5.jpg)
 
 #### 3.4.3 VTX Distribution
 
