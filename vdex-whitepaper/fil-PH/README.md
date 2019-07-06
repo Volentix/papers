@@ -176,11 +176,11 @@ Yugto 1. 10%.
 
 Yugto 2. 10%.
 
-4. Desentralisadong pananalapi. 35%. Ang mga miyembro ng komunidad ay insentibado at ginantimpalaan para sa partisipasyon sa progresibong pag-unlad ng isang decentralized autonomous organization (DAO). A decentralized treasury is anticipated to be administered by smart contracts and community consensus. ![](../5.jpg)
+4. Desentralisadong pananalapi. 35%. Ang mga miyembro ng komunidad ay insentibado at ginantimpalaan para sa partisipasyon sa progresibong pag-unlad ng isang decentralized autonomous organization (DAO). Ang isang desentralisadong pananalapi ay inaasahang ibibigay ng mga matalinong kontrata at consensus ng komunidad. ![](../5.jpg)
 
-#### 3.4.3 VTX Distribution
+#### 3.4.3 Distribusyon ng VTX
 
-In light of market conditions at the time of this writing, Volentix is considering timing, means, and terms and conditions of VTX distribution as a function of private pre-sales and possible public sale. Please monitor our website for updates.
+Sa liwanag ng mga kondisyon sa merkado sa panahon ng pagsulat nito, Kinukonsidura ang pag-timing ng Volentix, paraan, at mga tuntunin at kondisyon ng pamamahagi ng VTX bilang isang function ng pribadong pre-sales at posibleng pagbebenta sa publiko. Please monitor our website for updates.
 
 ### 3.5 EOS.IO PLATFORM DEPLOYMENT
 
