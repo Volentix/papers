@@ -202,11 +202,11 @@ Dinisenyo ang EOS.IO ay para gumawa ng Inter-Blockchain Communication (IBC) ng m
 
 #### 3.6.2 Impormasyon ng Multi-Blockchain
 
-Pwedeng makuha ang impormasyon ng multi-blockchain na pwedeng maunawaan sa pamamagitan ng pag-aggregate ng mga timeline ng blockchain na magkakasabay (na may pagkakaiba sa frequency ng pagbabago ng estado). This system can trigger multi-chain load balancers, transfer states, draw data outputs from smart contracts, and foreign blockchain transaction execution. Relative block distance, relative global state, and timestamped events are recorded on a global ledger to optimize and confirm transactions before they actually happen on the native chain. This approach could also be used to determine block production coincidence between chains to access greater liquidity.[12]
+Pwedeng makuha ang impormasyon ng multi-blockchain na pwedeng maunawaan sa pamamagitan ng pag-aggregate ng mga timeline ng blockchain na magkakasabay (na may pagkakaiba sa frequency ng pagbabago ng estado). Ang sistem na ito ay pwedeng mag-trigger ng multi-chain sa pag-load ng mga balancer, mga estado ng paglipat, gumuhit ng mga output ng datos mula sa mga matalinong kontrata, at pagpapatupad ng transaksyon ng foreign blockchain. Kaugnay sa block ng distansya, relative sa pandaigdigang estado, at timestamped na mga kaganapan ay naitala sa isang global ledger para ma-optimize at kumpirmahin ang mga transaksyon bago sila aktwal na mangyari sa katutubong chain. Ang paraan na ito ay pwede ding gamitin para matukoy ang pagkakataon sa produksyon ng block sa pagitan ng mga chain para ma-akses ang mas higit na liquidity.[12]
 
-### 3.7 SECURITY CONCERNS
+### 3.7 MGA ALALAHANIN SA SEGURIDAD
 
-To shake out certain assumptions, we intend to commence security testing following the prototyping phase. Security concerns are of paramount importance to users and must be addressed. Threats include, for example, an attacker executing malicious code within a transaction or manipulating the order of transactions or the timestamps of blocks. In the following sections, we address certain security measures and specific security threats and remedies.
+Para maiwasan ang ilang mga pagpapalagay, nilalayon naming magsimula ng pagsubok sa seguridad kasunod ng yugto ng pagproto-type. Security concerns are of paramount importance to users and must be addressed. Threats include, for example, an attacker executing malicious code within a transaction or manipulating the order of transactions or the timestamps of blocks. In the following sections, we address certain security measures and specific security threats and remedies.
 
 ### 3.8 SECURITY MEASURES
 
