@@ -198,9 +198,9 @@ Ang maramihang mga mensahe at maraming mga akawnt ay maaaring italaga sa parehon
 
 #### 3.6.1 Komunikasyon ng Inter-Blockchain
 
-Dinisenyo ang EOS.IO ay para gumawa ng Inter-Blockchain Communication (IBC) ng mga magagaang patunay. Para sa mga chain na may sapat na kapasidad para sa pagpoproseso ng mga patunay ng IBC at pagtatatag ng bisa, mayroong isang pagpipilian para i-default sa mga pinagkakatiwalaang mga orakulo/escrow. With an EOS.IO-based smart contract, a trusted multi-signature wallet holding the asset in escrow can be used to persuade the signing/publishing of the transaction based on IBC proofs from the originating chain.
+Dinisenyo ang EOS.IO ay para gumawa ng Inter-Blockchain Communication (IBC) ng mga magagaang patunay. Para sa mga chain na may sapat na kapasidad para sa pagpoproseso ng mga patunay ng IBC at pagtatatag ng bisa, mayroong isang pagpipilian para i-default sa mga pinagkakatiwalaang mga orakulo/escrow. Sa pamamagitan ng isang EOS-bases na matalinong kontrata, ang isang pinagkakatiwalaang multi-signature na wallet na may hawak na asset sa escrow ay pwedeng magamit para hikayatin ang pag-sig /paglalathala ng transaksyon batay sa mga patunay ng IBC mula sa nagbuo ng chain.
 
-#### 3.6.2 Multi-Blockchain Information
+#### 3.6.2 Impormasyon ng Multi-Blockchain
 
 Comprehensible multi-blockchain information can be obtained by aggregating blockchain timelines in parallel order (with variance in the frequency of change of state). This system can trigger multi-chain load balancers, transfer states, draw data outputs from smart contracts, and foreign blockchain transaction execution. Relative block distance, relative global state, and timestamped events are recorded on a global ledger to optimize and confirm transactions before they actually happen on the native chain. This approach could also be used to determine block production coincidence between chains to access greater liquidity.[12]
 
