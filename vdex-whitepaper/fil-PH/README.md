@@ -286,7 +286,7 @@ Para sa halimbawa, sa umpisa plano naming magtayo ng isang sistem para sa pagpil
 
 ### 3.12 PAG-REKOBER SA SISTEM
 
-Ang protokol ng RAFT at PARSEC ay nagbibigay ng isang matatag na sistem para sa pag-rekober sakaling mabigo ang node. Security measures are also provided for trading between and among native blockchains. If a chain defies identification, the system defaults to the next block or a short time lock.
+Ang protokol ng RAFT at PARSEC ay nagbibigay ng isang matatag na sistem para sa pag-rekober sakaling mabigo ang node. Ang mga panukala sa seguridad ay ipinagkakaloob para sa pagitan ng pangangalakal at sa mga katutubong blockchain. Kung ang isang chain ay nagpapahiwatig ng pagkakakilanlan, ang sistem ay nagbabago sa susunod na block o isang lock ng maiksing oras.
 
 ### 3.13 EVOLVING ARCHITECTURE
 
