@@ -294,11 +294,11 @@ Ang anunsyo sa araw-araw ng mga pag-develop sa mga bagong code na nakakaapekto s
 
 ## 4. PAGTATAPOS NG MGA SALOOBIN
 
-All of us at Volentix are dedicating our work and insights to developing a program premised on empowerment and independence. If you are of a mind to join us, in whatever capacity, then please do so and please become educated on the topics contained in this white paper and additional Volentix publications as we share them with our community.
+Lahat tayo sa Volentix ay naghahandog sa ating gawain at pananaw sa pagbuo ng isang programa na nakatuon sa pagpapalakas at pagsasarili. Kung ikaw ay nag-iisip na sumali sa amin, sa anumang kapasidad, pagkatapos ay mangyaring gawin ito at mangyaring maging edukado sa mga paksa na nakapaloob sa puting papel at karagdagang Volentix mga pahayagan bilang ibinabahagi namin ang mga ito sa aming komunidad.
 
 ## 5. TIMELINE
 
-Please monitor our website and social media for updates and other important announcements. Thank you very much for your attention and interest.
+Para sa mga update at iba pang mahalagang mga anunsyo mangyaring subaybayan ang aming websayt at social media. Maraming salamat sa iyong atensyon at interes.
 
 ## DISCLAIMER
 
