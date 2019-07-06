@@ -302,19 +302,19 @@ Para sa mga update at iba pang mahalagang mga anunsyo mangyaring subaybayan ang 
 
 ## PAGPAPAHAYAG
 
-Ang puting papel na ito ay inihanda, at presentado, para lamang sa mga layuning pang-impormasyon. Ay hindi nagmula sa komprehensibo ang impormasyong iniharap. Ang impormasyon ay maaaring magbago nang buo o parte sa anumang oras nang walang abiso. Irereserba ng Labs ng Volentix ang karapatan na baguhin, palitan, alisin, o tanggalin ang anuman at lahat ng impormasyon sa sole at eksklusibong paghuhusga ng Volentix. Ang Labs ng Volentix ay hindi gumagawa ng representasyon o garantiya, ipinahayag o ipinahiwatig, tungkol sa katumpakan o pagkakumpleto ng impormasyon at hayagang tinatanggihan ang anumang at lahat ng pananagutan ng anuman at lahat ng uri ng anumang para sa impormasyon na nilalaman o hindi nakapaloob. Volentix Labs requests each and every reader to read the information fully and carefully, and to undertake independent investigation and analysis of the information, and to seek and obtain professional advice for purposes of evaluating the information. To the knowledge of Volentix Labs, no regulatory agency, government, or other third-party enforcement entity has reviewed, evaluated, or approved any part or all of the information. This information is not an offer or solicitation of any kind whatsoever and does not form the basis for any contract or commitment of any kind whatsoever. Any statement considered to be forward-looking is purely a matter of opinion, and no viewer should rely on any such statement or on any part or all of the information in any way whatsoever.
+Ang puting papel na ito ay inihanda, at presentado, para lamang sa mga layuning pang-impormasyon. Ay hindi nagmula sa komprehensibo ang impormasyong iniharap. Ang impormasyon ay maaaring magbago nang buo o parte sa anumang oras nang walang abiso. Irereserba ng Labs ng Volentix ang karapatan na baguhin, palitan, alisin, o tanggalin ang anuman at lahat ng impormasyon sa sole at eksklusibong paghuhusga ng Volentix. Ang Labs ng Volentix ay hindi gumagawa ng representasyon o garantiya, ipinahayag o ipinahiwatig, tungkol sa katumpakan o pagkakumpleto ng impormasyon at hayagang tinatanggihan ang anumang at lahat ng pananagutan ng anuman at lahat ng uri ng anumang para sa impormasyon na nilalaman o hindi nakapaloob. Humihiling ang Labs ng Volentix na sa bawat mambabasa na basahin nang ganap at maingat sa impormasyon, at magsagawa ng independiyenteng pagsisiyasat at pagtatasa ng impormasyon, at humingi at kumuha ng propesyonal na payo para sa mga layunin ng pagsusuri ng impormasyon. Sa kaalaman ng Labs ng Volentix, walang nagpapatupad na ahensiya, gobyerno, o iba pang entidad na nagpapatupad ng mga third-party na sinuri, sinusuri, o inaprubahan ang anumang bahagi o lahat ng impormasyon. Hindi inaalok ang impormasyong ito ay o panghihingi ng anumang uri at hindi bumubuo ng batayan para sa anumang kontrata o pangako ng anumang uri. Ang anumang pahayag na itinuturing na pagtingin-ng-daritso ay isang bagay lamang ng opinyon, at walang manonood ang dapat umasa sa anumang naturang pahayag o sa anumang bahagi o lahat ng impormasyon sa anumang paraan.
 
-## FOOTNOTES
+## MGA TALABABA
 
-1. K. Kurokawa, Atomic cross chain transfer, an overview, (2015).
+1. K. Kurokawa, Paglipat ng Atomic cross chain, isang pangkalahatang-ideya, (2015).
 
-2. EOS.IO, Eos.io technical white paper v2, (2018).
+2. EOS.IO, Eos.io teknikal na puting papel v2, (2018).
 
-3. T. Earl, Soa principles of service design, (2016).
+3. T. Earl, Soa prinsipyo ng disenyo ng serbisyo, (2016).
 
 4. blockchainhub.net, blockchain-oracles, (2017).
 
-5. F. Zhou, Wang, Loopring: A decentralized token exchange protocol, (2018).
+5. F. Zhou, Wang, Loopring: Isang desentralisadong protokol ng palitan ng token, (2018).
 
 6. G. B. Eyal Hertzog, Guy Benartzi, Bancor protocol: Continuous liquidity for cryptographic tokens through their smart contracts, (2018).
 
