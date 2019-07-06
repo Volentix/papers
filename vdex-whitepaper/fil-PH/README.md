@@ -206,27 +206,27 @@ Pwedeng makuha ang impormasyon ng multi-blockchain na pwedeng maunawaan sa pamam
 
 ### 3.7 MGA ALALAHANIN SA SEGURIDAD
 
-Para maiwasan ang ilang mga pagpapalagay, nilalayon naming magsimula ng pagsubok sa seguridad kasunod ng yugto ng pagproto-type. Security concerns are of paramount importance to users and must be addressed. Threats include, for example, an attacker executing malicious code within a transaction or manipulating the order of transactions or the timestamps of blocks. In the following sections, we address certain security measures and specific security threats and remedies.
+Para maiwasan ang ilang mga pagpapalagay, nilalayon naming magsimula ng pagsubok sa seguridad kasunod ng yugto ng pagproto-type. Higit na mahalaga ang mga alalahanin sa seguridad sa mga gumagamit at dapat na matugunan. Kabilang sa mga pagbabanta, halimbawa, ang isang umaatake na nagsasagawa ng malisyosong code sa loob ng isang transaksyon o pagmamanipula ng pagkakasunud-sunod ng mga transaksyon o mga timestamp ng mga block. Sa mga sumusunod na seksyon, tinutugunan namin ang ilang mga hakbang sa seguridad at mga pag-tukoy sa pagbabanta sa seguridad at mga remedyo.
 
-### 3.8 SECURITY MEASURES
+### 3.8 MGA KATANGIAN SA SEGURIDAD
 
-#### 3.8.1 Contract security
+#### 3.8.1 Kontrata sa seguridad
 
-Retain vast majority of funds in a time-delayed, multi-signature-controlled account.
+Panatilihin ang karamihan sa mga pondo sa isang oras na naantala, isang multi-signature na kinokontrol na akawnt.
 
-Use multi-signatures on a hot wallet with several independent processes/servers double-checking all withdrawals, with the concomitant benefit of creating a trusted list of accounts.
+Gumamit ng mga multi-signature sa isang mainit na wallet na may ilang mga independiyenteng proseso/mga serber na dobleng-itsitsek ang lahat ng mga withdrawal, na may kasamang benepisyo ng paglikha ng isang pinagkakatiwalaang listahan ng mga akawnt.
 
-Deploy a custom contract that allows withdrawals only to accounts verified by KYC/AML.
+Magtakda ng pinasadyang kontrata na nagpapahintulot sa mga withdrawal lamang sa mga akawnt na napatunayan ng KYC/AML.
 
-Deploy a custom contract that accepts only deposits of known assets from accounts verified by KYC/AML.
+Magtakda ng pinasadyang kontrata na tumatanggap lamang ng mga deposito ng mga kilalang asset mula sa mga akawnt na napatunayan ng KYC/AML.
 
-Deploy a custom contract that requires a mandatory 24-hour waiting period for all withdrawals.
+Magtakda ng pinasadyang kontrata na nangangailangan ng isang sapilitan na 24 na oras na paghihintay para sa lahat ng mga withdrawal.
 
-Utilize contracts with hardware wallets for all signing, including for automated withdrawals.
+Gamitin ang mga kontrata sa mga hardware na wallet para sa lahat ng pag-sign, kabilang ang para sa automated na mga withdrawal.
 
-Upgrade broken contracts.
+I-upgrade ang nasirang mga kontrata.
 
-Include ability to pause the functionality of a contract.
+Kasama ang kakayahan na ihinto ang pag-function ng isang kontrata.
 
 Include ability to delay an action of a contract.
 
