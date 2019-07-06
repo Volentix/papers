@@ -342,7 +342,7 @@ S. Cormier, Isang makina batay sa societal na modelo para sa pag-curse ng pagkam
 
 M. Duncan, Quale, Plataporma ng Halo, (2018).
 
-S. D. K. M. T. S. H. Garcia-Molina, The eigentrust algorithm for reputation management in p2p networks, (2018).
+S. D. K. M. T. S. H. Garcia-Molina, Ang eigentrust na algoritmo para sa pamamahala ng reputasyon sa mga p2p network, (2018).
 
 M. R. Garrick Hileman, Global cryptocurrency benchmarking study, (2017).
 
