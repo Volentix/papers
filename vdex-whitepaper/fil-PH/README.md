@@ -316,31 +316,31 @@ Ang puting papel na ito ay inihanda, at presentado, para lamang sa mga layuning 
 
 5. F. Zhou, Wang, Loopring: Isang desentralisadong protokol ng palitan ng token, (2018).
 
-6. G. B. Eyal Hertzog, Guy Benartzi, Bancor protocol: Continuous liquidity for cryptographic tokens through their smart contracts, (2018).
+6. G. B. Eyal Hertzog, Guy Benartzi, Bancor protocol: Patuloy na liquidity para sa mga cryptographic na mga token sa pamamagitan ng kanilang mga matalinong kontrata, (2018).
 
-7. L. Lamport, The part time parliament, (1998).
+7. L. Lamport, Ang part time na parlayamento, (1998).
 
 8. D. Larimer, eosio.boot telegram chat, (2018).
 
-9. J. O. Diego Ongaro, In search of an understandable consensus algorithm, (2018).
+9. J. O. Diego Ongaro, Sa paghahanap ng isang naiintindihan na algoritmo ng pinagkasunduan, (2018).
 
-10. F. H. Q. M. S. S. Pierre Chevalier, Bart lomiej KamiÂťnski, Protocol for asynchronous, reliable, secure and efficient consensus (parsec), (2018).
+10. F. H. Q. M. S. S. Pierre Chevalier, Bart lomiej KamiÂťnski, Protokol para sa asynchronous, maaasahan, ligtas at mahusay na pinagkasunduan (parsec), (2018).
 
 11. Dane Keller Rutledge, Fundamental Human Constituents of a Digital Assets Ecosystem (DAE). (2018).
 
 12. BlockColliderTeam, Block collider white paper, (2018).
 
-## SUPPLEMENTAL REFERENCES
+## SUPPLEMENTAL NA MGA REPERENSIYA
 
-Aelf, A multi-chain parallel computing blockchain framework, (2018).
+Aelf, Isang multi-chain parallel computing blockchain framework, (2018).
 
-ARK, A platform for consumer adoption, (2018).
+ARK, Isang plataporma para sa pag-adopt ng taga-konsumo, (2018).
 
-V. Buterin, Ethereum: a next generation smart contract and decentralized application platform, (2013).
+V. Buterin, Ethereum: isang susunod na henerasyon ng matalinong kontrata at plataporma ng desentrelasidong aplikasyon, (2013).
 
-S. Cormier, A machine based societal model for curbing citizen cynicism, (2017).
+S. Cormier, Isang makina batay sa societal na modelo para sa pag-curse ng pagkamatay ng mamamayan, (2017).
 
-M. Duncan, Quale, Halo platform, (2018).
+M. Duncan, Quale, Plataporma ng Halo, (2018).
 
 S. D. K. M. T. S. H. Garcia-Molina, The eigentrust algorithm for reputation management in p2p networks, (2018).
 
