@@ -180,13 +180,13 @@ Yugto 2. 10%.
 
 #### 3.4.3 Distribusyon ng VTX
 
-Sa liwanag ng mga kondisyon sa merkado sa panahon ng pagsulat nito, Kinukonsidura ang pag-timing ng Volentix, paraan, at mga tuntunin at kondisyon ng pamamahagi ng VTX bilang isang function ng pribadong pre-sales at posibleng pagbebenta sa publiko. Please monitor our website for updates.
+Sa liwanag ng mga kondisyon sa merkado sa panahon ng pagsulat nito, Kinukonsidura ang pag-timing ng Volentix, paraan, at mga tuntunin at kondisyon ng pamamahagi ng VTX bilang isang function ng pribadong pre-sales at posibleng pagbebenta sa publiko. Para sa mga update mangyaring subaybayan ang aming websayt.
 
 ### 3.5 EOS.IO PLATFORM DEPLOYMENT
 
-The following considerations are relevant to our deploying the VDex exchange on the EOS.IO platform:
+Ang mga sumusunod na konsiderasyon ay may kaugnayan sa aming pag-deploy ng palitan na VDex sa platapormang EOS.IO:
 
-Deploying a contract has a cost but is free to use.
+Ang pag-deploy ng isang kontrata ay may bayad pero libreng gamitin.
 
 Developers stake EOS.IO-compliant tokens to deploy a smart contract. After the contract is deployed, the locked tokens are returned.
 
