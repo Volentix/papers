@@ -290,9 +290,9 @@ Ang protokol ng RAFT at PARSEC ay nagbibigay ng isang matatag na sistem para sa 
 
 ### 3.13 PAG-EVOLVE NG ARKITEKTURA
 
-Ang anunsyo sa araw-araw ng mga pag-develop sa mga bagong code na nakakaapekto sa paggamit ng mga digital na asset ay nagbubunyag ng napakalaking benepisyo ng pilosopiya ng open-source code. We at Volentix recognize we are the beneficiaries of the enormous financial resources dedicated by many early movers to developing digital assets applications over the past decade. We now have an opportunity to take the next step by creating VDex, a decentralized exchange for the next generation of digital assets transactions.
+Ang anunsyo sa araw-araw ng mga pag-develop sa mga bagong code na nakakaapekto sa paggamit ng mga digital na asset ay nagbubunyag ng napakalaking benepisyo ng pilosopiya ng open-source code. Nauunawaan namin sa Volentix na kami ang mga benepisyaryo ng napakalaking pinansiyal na mga mapagkukunan na nakatuon sa maraming mga maagang nag-umpisa sa pagbubuo ng mga aplikasyon ng mga digital na asset sa nakalipas na dekada. Mayroon na tayong isang oportunidad na gawin ang susunod na hakbang sa pamamagitan ng paglikha ng VDex, isang desentralisadong palitan para sa susunod na henerasyon ng mga transaksyong digital na asset.
 
-## 4. CONCLUDING THOUGHTS
+## 4. PAGTATAPOS NG MGA SALOOBIN
 
 All of us at Volentix are dedicating our work and insights to developing a program premised on empowerment and independence. If you are of a mind to join us, in whatever capacity, then please do so and please become educated on the topics contained in this white paper and additional Volentix publications as we share them with our community.
 
