@@ -164,13 +164,13 @@ Ang isang digital assets ecosystem ay nangangailangan ng isang hanay ng ilang pa
 
 1. Mga kontribyutor. 12%. Ang isang hanay ng mga indibidwal, katulad ng mga tagapagtatag, na nag-aambag ng mga pananaw, oras at talento, kahit na madalas ay nagtatrabaho nang walang maagang kabayaran.
 
-2. Supporters.
+2. Mga taga-suporta.
 
-Phase 1. 5%. Early passive seed funders.
+Yugto 1.5%. Maagang mga funder sa pasibong seed.
 
-Phase 2. 28%. Funders via qualified private pre-sales and possible public sale.
+Yugto 2. 28%. Mga funder sa pamamagitan ng kwalipikadong pribadong pre-sales at posibleng pagbebenta sa publiko.
 
-3. Facilitators. (Advisors, Developers, Promoters, Custodians). Note that requirements for assistance from the sub-categories in this category may differ significantly before and after the project receives substantial funding support, but certain individuals may serve during both phases.
+3. Mga facilitator. (Advisors, Developers, Promoters, Custodians). Note that requirements for assistance from the sub-categories in this category may differ significantly before and after the project receives substantial funding support, but certain individuals may serve during both phases.
 
 Phase 1. 10%.
 
