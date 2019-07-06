@@ -188,15 +188,15 @@ Ang mga sumusunod na konsiderasyon ay may kaugnayan sa aming pag-deploy ng palit
 
 Ang pag-deploy ng isang kontrata ay may bayad pero libreng gamitin.
 
-Developers stake EOS.IO-compliant tokens to deploy a smart contract. After the contract is deployed, the locked tokens are returned.
+Nagtatakda ng mga token ang mga Nag-develop ng EOS.IO para mag-deploy ng matalinong kontrata. Matapos i-deploy ang kontrata, ibabalik ang naka-lock na mga token.
 
-Decentralized applications allocate memory, CPU, bandwidth, and other resources to their contracts.
+Ang mga aplikasyon na desentralisado mga ay naglalaan ng memory, CPU, bandwidth, at iba pang mga mapagkukunan sa kanilang mga kontrata.
 
-Multiple messages and multiple accounts can be assigned to the same thread.
+Ang maramihang mga mensahe at maraming mga akawnt ay maaaring italaga sa parehong thread.
 
-### 3.6 BLOCKCHAIN INTERACTION
+### 3.6 INTERASKYON NG BLOCKCHAIN
 
-#### 3.6.1 Inter-Blockchain Communication
+#### 3.6.1 Komunikasyon ng Inter-Blockchain
 
 EOS.IO is designed to make Inter-Blockchain Communication (IBC) proofs lightweight. For chains with insufficient capacity for processing the IBC proofs and establishing validity, there is an option to default to trusted oracles/escrows. With an EOS.IO-based smart contract, a trusted multi-signature wallet holding the asset in escrow can be used to persuade the signing/publishing of the transaction based on IBC proofs from the originating chain.
 
