@@ -228,7 +228,7 @@ I-upgrade ang nasirang mga kontrata.
 
 Kasama ang kakayahan na ihinto ang pag-function ng isang kontrata.
 
-Include ability to delay an action of a contract.
+Kasama ang kakayahan na para maantala ang isang aksyon ng isang kontrata.
 
 #### 3.8.2 Pag-awdit ng mga proseso ng pagnanakaw
 
@@ -278,15 +278,15 @@ Ang oras ng pag-atake ay isang uri ng cryptographic na pag-atake kung saan ang i
 
 Naka-pokus kame sa pangunahing nararanasanng gumagamit. Gusto naming gawin ang VTX at ang apat na mga pillar ng Volentix -- Venue, Verto, Vespucci, at VDex - madaling mapupuntahan at magagamit ng lahat ng mga nais na sumali sa aming komunidad. Inaasahan namin na ang karanasan ay patuloy na pang-edukasyon din, na may mga template at mga simulator para suportahan ang isang relasyon sa superior UX/UI.
 
-### 3.11 TRUE DECENTRALIZATION
+### 3.11 TOTOONG DESENTRELESASYON
 
-EOS.IO is an open-source, scalable infrastructure for decentralized applications. Its goal is a fair and transparent block producer (BP) election process utilizing a democratic delegated proof of stake (DPoS) consensus. Particularly as such a system just begins to proliferate, there will be glitches. Therefore, some degree of retained centralization is inevitable and necessary. But our guiding philosophy is one of decentralization, and our ongoing efforts are targeted to promoting a reduction in dependence on central authority.
+Isang open-source ang EOS.IO, scalable infrastructure para sa mga desentralisadong aplikasyon. Ang layunin nito ay isang patas at transparent na block producer (BP) ng eleksyon na gumagamit ng isang demokratikong delegado na proof ng stake (DPoS) na pinagkasunduan. Lalo na tulad ng isang sistem lamang ay nagsisimula para palaganapin, magkakaroon ng mga glitche. Sakatunayan, ang ilang antas ng napanatili na sentralisasyon ay hindi maiiwasan at kinakailangan. Pero ang ating gabay na pilosopiya ay isa sa desentralisasyon, at ang aming patuloy na pagsisikap ay naka-target sa pagtataguyod ng pagbawas sa pag-asa sa sentral na awtoridad.
 
-For example, initially we plan to erect a system for electing nodes (when solving order books) that will not use a shared central clock or DPoS but instead will be based either on random timeouts for the determination of leaders in an election (RAFT) or on Directed Acyclic Graph (DAG) in the PARSEC protocol.
+Para sa halimbawa, sa umpisa plano naming magtayo ng isang sistem para sa pagpili ng mga node (kapag nilutas ang mga order book) na hindi gagamit ng isang nakabahaging sentral na clock o DPoS pero sa halip ay batay sa alinman sa random na mga timeout para sa determinasyon ng mga lider sa isang halalan (RAFT) o sa Directed Acyclic Graph (DAG) sa protokol ng PARSEC.
 
-### 3.12 SYSTEM RECOVERY
+### 3.12 PAG-REKOBER SA SISTEM
 
-The RAFT and PARSEC protocols provide a robust system for recovery in the case of node failure. Security measures are also provided for trading between and among native blockchains. If a chain defies identification, the system defaults to the next block or a short time lock.
+Ang protokol ng RAFT at PARSEC ay nagbibigay ng isang matatag na sistem para sa pag-rekober sakaling mabigo ang node. Security measures are also provided for trading between and among native blockchains. If a chain defies identification, the system defaults to the next block or a short time lock.
 
 ### 3.13 EVOLVING ARCHITECTURE
 
