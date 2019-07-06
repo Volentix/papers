@@ -288,9 +288,9 @@ Para sa halimbawa, sa umpisa plano naming magtayo ng isang sistem para sa pagpil
 
 Ang protokol ng RAFT at PARSEC ay nagbibigay ng isang matatag na sistem para sa pag-rekober sakaling mabigo ang node. Ang mga panukala sa seguridad ay ipinagkakaloob para sa pagitan ng pangangalakal at sa mga katutubong blockchain. Kung ang isang chain ay nagpapahiwatig ng pagkakakilanlan, ang sistem ay nagbabago sa susunod na block o isang lock ng maiksing oras.
 
-### 3.13 EVOLVING ARCHITECTURE
+### 3.13 PAG-EVOLVE NG ARKITEKTURA
 
-Daily announcements of fresh code developments impacting on use of digital assets reveal the tremendous benefit of the open-source code philosophy. We at Volentix recognize we are the beneficiaries of the enormous financial resources dedicated by many early movers to developing digital assets applications over the past decade. We now have an opportunity to take the next step by creating VDex, a decentralized exchange for the next generation of digital assets transactions.
+Ang anunsyo sa araw-araw ng mga pag-develop sa mga bagong code na nakakaapekto sa paggamit ng mga digital na asset ay nagbubunyag ng napakalaking benepisyo ng pilosopiya ng open-source code. We at Volentix recognize we are the beneficiaries of the enormous financial resources dedicated by many early movers to developing digital assets applications over the past decade. We now have an opportunity to take the next step by creating VDex, a decentralized exchange for the next generation of digital assets transactions.
 
 ## 4. CONCLUDING THOUGHTS
 
