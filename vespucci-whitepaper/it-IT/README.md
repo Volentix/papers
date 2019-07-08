@@ -256,7 +256,7 @@ Tecniche più avanzate per l'analisi dei dati sono i metodi di Fibonacci e le te
 
 **Fibonacci Clusters:** The Fibonacci cluster is a culmination of Fibonacci retracements from various significant highs and lows during a given time period. Ognuno di questi livelli di Fibonacci viene poi tracciato sull'asse "Y" (prezzo). Ogni livello di ritracciamento sovrapposto rende più scura la tonalità del cluster - più il cluster è scuro, più il livello di supporto o di resistenza è significativo. Questa tecnica può essere utilizzata insieme ad altre tecniche Fibonacci o modelli di grafici per avere conferma dei livelli di supporto o di resistenza.
 
-**Canali Fibonacci:** Il modello Fibonacci può essere applicato ai canali non solo verticalmente, ma anche diagonalmente. One common technique is the combination of diagonal and vertical Fibonacci studies to find areas where both indicate significant resistance.
+**Canali Fibonacci:** Il modello Fibonacci può essere applicato ai canali non solo verticalmente, ma anche diagonalmente. Una tecnica comune è la combinazione di studi di Fibonacci diagonali e verticali per trovare aree in cui entrambi indicano una ristenza significativa.
 
 **Ichimoku Kinko Hyo** is a technical indicator that is used to gauge momentum along with future areas of support and resistance.It was originally developed by a Japanese newspaper writer to combine various technical strategies into a single indicator that could be easily implemented and interpreted. Ichimoku indicator is a combination of five key components:
 
