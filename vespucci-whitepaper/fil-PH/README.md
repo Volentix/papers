@@ -24,29 +24,29 @@ Pangkalahatang arkitektura ng Vespucci
 
 Nag-aalok ang Vespucci ng isang plataporma na nakabatay sa web para paganahin ang mga gumagamit na mag-navigate sa pamamagitan ng datos ng crypto at gumawa ng matalinong kalakalan at mga desisyon sa paggamit ng digital-asset. Sa partikular, nagbibigay ito:
 
-* An intuitive analytical agent leading to an easy to understand overview of cryptocurrencies.
-* A rating system of cryptocurrencies, including risk assessment.
-* A dashboard for cryptocurrency news.
+* Isang agent ng intuwisyon na analitikal na humahantong sa isang madaling maunawaan ang pangkalahatang-ideya ng mga cryptocurrency.
+* Isang sistema ng pagraranggo ng mga cryptocurrency, kabilang ang mapanganib na pagsusuri.
+* Isang dashboard para sa mga balita ng cryptocurrency.
 
 ![](https://volentix.io/file/2019/01/02-icon.jpg)
 
-The rating and analytical capacity of Vespucci relies on the three pillars of: Sentiment analysis, Technical / economic analysis, and Fundamental / technological analysis. Vespucci combines these aspects in order to provide rating and ranking by employing Machine Learning and Neural Network (NN) technology. It offers a service that has never been available before since it integrates all features in the following figure.
+Ang pagraranggo at analitikal na kapasidad ng Vespucci ay nakasalalay sa tatlong pillar ng: Sentimento ng pagsusuri, Teknikal/pang-ekonomiyang pagsusuri, at Fundamental/teknolohikal na pagsusuri. Pinagsasama ng Vespucci ang mga aspeto para magbigay ng rating at pagraranggo sa pamamagitan ng paggamit ng teknolohiya ng Machine Learning at Neural Network (NN). Nag-aalok ito ng isang serbisyo na hindi pa magagamit bago pa isinama nito ang lahat ng mga katangian sa sumusunod na pigura.
 
 ![](https://volentix.io/file/2019/01/1k.jpg)
 
-* ### **DESIGNING VESPUCCI**
+* ### **PAGDIDISENYO NG VESPUCCI**
 
-* #### **VESPUCCI FEATURES**
+* #### **MGA KATANGIAN NG VESPUCCI**
 
-The features of Vespucci are as follows.
+Ang mga katangian ng Vespucci ay ang mga sumusunod.
 
-* Rating of cryptocurrencies, easily leading to a Prediction machine.
-* Combination of a complete spectrum of criteria ranging from Fundamental / Technological Analysis to technical / economics aspects up to a sentiment gauge.
-* Transparency in methodology (data sources, ingestion mechanism, data manipulation process, algorithms)
-* Broad spectrum of sources (to avoid biased data)
-* Modular design that offers the ability to extend the platform to other applications such as smart contracts.
-* Security: Data Sources on EOS Blockchain (VLabs)
-* High accuracy using sophisticated Evaluation methods, AI, and Deep Learning
+* Pagri-rate ng mga cryptocurrency, madaling humahantong sa isang Prediksyon na machine.
+* Kumbinasyon ng isang kumpletong spectrum ng nasasaklaw na krayterya mula sa Fundamental/Teknolohikal na Pagsusuri sa mga aspeto ng teknikal/ekonomiya hanggang sa isang sentimental na sukatan.
+* Transparency sa pamamaraan (mga mapagkukunan ng datos, mekanismo ng ingestion, proseso ng pagmamanipula ng datos, mga algoritmo)
+* Malawak na mga mapagkukunan ng spectrum (para maiwasan ang bias na datos)
+* Modular na disenyo na nag-aalok ng kakayahang pahabain ang plataporma sa iba pang mga aplikasyon tulad ng mga matalinong kontrata.
+* Seguridad: Mga Pagmumulan ng Datos sa EOS Blockchain (VLabs)
+* Mataas na accuracy gamit ang sopistikadong mga pamamaraan ng Ebalwasyon, AI, at Deep Learning
 * Intuitive algorithms, possibility for weighs given by user, Post-processing for humans.
 * #### **PRINCIPLES**
 
