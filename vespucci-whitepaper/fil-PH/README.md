@@ -14,15 +14,15 @@ Ang aming pangunahing layunin ay para i-alok sa lahat ng mga gumagamit ng mga di
 * technical analysis (TA), at
 * fundamental/technological analysis (FTA).
 
-Vespucci offers for the first time a well-rounded profile of each digital asset of interest along with a live rating, representing a combination of different indicators, based on the principles of decentralized governance, peer privacy, public ledger via a public blockchain, and open source code. Hence, its analysis is free of the bias of specific individuals or interest groups and the employed methods are up for scrutiny and discussion by the community. Decentralized applications offer a paradigm shift in current technology; a particularly relevant instance lies within the emerging cryptocurrency exchanges. Using some of the most powerful cutting-edge methods, our approach abides by open standards and the principles of ease of use.
+Nag-aalok ang Vespucci sa unang pagkakataon ng isang well-rounded na propayl ng bawat digital na asset ng interes kasama ang isang live na pagraranggo, na kumakatawan sa isang kumbinasyon ng iba't ibang mga tagapagpahiwatig, batay sa mga prinsipyo ng desentralisadong pamamahala, privacy ng peer, pampublikong ledger sa pamamagitan ng isang pampublikong blockchain, at open source na code. Samakatuwid, ang pagsusuri nito ay libre sa mga bias ng mga partikular na indibidwal o mga interes ng grupo at ang mga pamamaraan sa trabaho ay para sa pagsusuri at diskusyon ng komunidad. Ang mga aplikasyon na desentralisadong ay nag-aalok ng paradigm shift sa kasalukuyang teknolohiya; ang isang partikular na kaugnay na halimbawa ay nasa loob ng lumilitaw na mga palitan ng cryptocurrency. Gamit ang ilan sa mga pinaka-makapangyarihang paraan ng cutting-edge, ang aming diskarte ay sumusunod sa mga bukas na pamantayan at ang mga prinsipyo ng kadalian ng paggamit.
 
-General architecture of Vespucci
+Pangkalahatang arkitektura ng Vespucci
 
 ![](https://volentix.io/file/2019/01/Web-1920-–-6@3x.png)
 
 * ### **OBJECTIVE**
 
-Vespucci offers a web-based platform to enable users to navigate through crypto data and make informed trading and digital-asset utilization decisions. In particular, it provides:
+Nag-aalok ang Vespucci ng isang plataporma na nakabatay sa web para paganahin ang mga gumagamit na mag-navigate sa pamamagitan ng datos ng crypto at gumawa ng matalinong kalakalan at mga desisyon sa paggamit ng digital-asset. Sa partikular, nagbibigay ito:
 
 * An intuitive analytical agent leading to an easy to understand overview of cryptocurrencies.
 * A rating system of cryptocurrencies, including risk assessment.
