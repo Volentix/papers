@@ -6,13 +6,13 @@ Sa kasalukuyan iilan lang ang eksplosyon ng mga cryptocurrency ay nakakuha ng ma
 
 * ### **PANGKALAHATANG IDEYA**
 
-Parte ng ekosistema ng Volentix ang Vespucci. In particular, it implements one of the main pillars of the Volentix ecosystem, of which VDex is the fulcrum. VDex is a decentralized exchange with the user and community in mind. Vespucci, besides being a digital asset audit and assessment utility accessible to non-experts, it is also a tool to chart and juxtapose tradeable digital assets. Moreover, it provides a dashboard for cryptocurrencies’ activity in the digital world.
+Parte ng ekosistema ng Volentix ang Vespucci. Sa partikular, ipinapatupad nito ang isa sa pangunahing mga pillar ng ekosistema ng Volentix, kung saan ang VDex ang fulcrum. Ssang desentralisadong palitan ang VDex sa isip ng gumagamit at komunidad. Ang Vespucci, bukod sa pagiging isang digital na pag-audit ng asset at pagsusuri na utility na-aakses sa mga di-eksperto, ito rin ay isang tool sa tsart at juxtapose tradeable digital na mga asset. Bukod dito, nagbibigay ito ng dashboard para sa aktibidad ng cryptocurrency sa digital world.
 
-Our primary goal is to offer all users of digital assets an intuitive analytical agent and rating system for digital assets, merging the following aspects (see figure below):
+Ang aming pangunahing layunin ay para i-alok sa lahat ng mga gumagamit ng mga digital na asset ang isang intuitive analytical agent at sistem ng pagraranggo para sa mga digital na asset, pagsasama ng mga sumusunod na aspeto (tingnan ang pigura sa ibaba):
 
-* a sentiment gauge for sentiment analysis (SA),
-* technical analysis (TA), and
-* fundamental / technological analysis (FTA).
+* isang sentimental gauge para sa sentiment analysis (SA),
+* technical analysis (TA), at
+* fundamental/technological analysis (FTA).
 
 Vespucci offers for the first time a well-rounded profile of each digital asset of interest along with a live rating, representing a combination of different indicators, based on the principles of decentralized governance, peer privacy, public ledger via a public blockchain, and open source code. Hence, its analysis is free of the bias of specific individuals or interest groups and the employed methods are up for scrutiny and discussion by the community. Decentralized applications offer a paradigm shift in current technology; a particularly relevant instance lies within the emerging cryptocurrency exchanges. Using some of the most powerful cutting-edge methods, our approach abides by open standards and the principles of ease of use.
 
