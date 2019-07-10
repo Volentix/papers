@@ -175,7 +175,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Coinbio</td>
 
-<td>General Information about every crypto </td>
+<td>Pangkalahatang Impormasyon tungkol sa bawat crypto </td>
 
   </tr>
   
@@ -184,7 +184,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>BitInfoCharts</td>
 
-<td>Technical </td>
+<td>Teknikal </td>
 
   </tr>
   
@@ -193,7 +193,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Cointelegraph</td>
 
-<td>Technical </td>
+<td>Teknikal </td>
 
   </tr>
   
@@ -202,7 +202,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>CCN</td>
 
-<td>Sentiment (Forums & News)</td>
+<td>Sentiment (Mga Usapin At Mga Balita)</td>
 
   </tr>
   
@@ -211,7 +211,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>CoinDesk</td>
 
-<td>Sentiment (Forums & News)</td>
+<td>Sentiment (Mga Usapin At Mga Balita)</td>
 
   </tr>
   
@@ -220,25 +220,25 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Bitcointalk</td>
 
-<td>Sentiment (Forums & News) </td>
+<td>Sentiment (Mga Usapin At Mga Balita) </td>
 
   </tr>
   
   <tr>
     
 
-<td>Crypto Coin Rankings</td>
+<td>Mga Ranggo ng Crypto Coin</td>
 
-<td>Technological & Technical </td>
+<td>Teknolohikal At Teknikal </td>
 
   </tr>
 </table>
 
-* #### **TECHNICAL ANALYSIS**
+* #### **TEKNIKAL NA PAGSUSURI**
 
-Technical analysis is a trading tool employed to evaluate [securities](https://www.investopedia.com/terms/s/security.asp) and identify trading opportunities by analyzing statistics gathered from trading activity, such as price movement and volume. Unlike fundamental analysts who attempt to evaluate a security’s intrinsic value, [technical analysts](https://www.investopedia.com/terms/t/technical-analyst.asp) focus on charts of price movement and va rious analytical tools to evaluate a security’s strength or weakness. A typical source may be **coinmarketcap**. We focus on indicators and methods suitable for assets with high volatility of prices, and hence suitable for cryptocurrencies.
+Ang teknikal na pagsusuri ay isang tool sa pangangalakal na ginagamit para suriin ang mga[seguridad](https://www.investopedia.com/terms/s/security.asp)at tukuyin ang mga pagkakataon sa pangangalakal sa pamamagitan ng pagsusuri ng mga istatistika na natipon mula sa aktibidad ng kalakalan, tulad ng paggalaw ng presyo at dami. Hindi tulad ng mga pangunahing analyst na nagtatangkang suriin ang tunay na balyu ng seguridad, ang mga [teknikal na analyst](https://www.investopedia.com/terms/t/technical-analyst.asp) ay nakatuon sa mga tsart ng paggalaw ng presyo at ng mga mahuhusay na tool na analitikal para suriin ang lakas o kahinaan ng seguridad. Ang isang tipikal na pinagmulan ay maaaring sa **coinmarketcap**. Kame ay nakatuon sa mga tagapagpahiwatig at mga pamamaraan na angkop para sa mga asset na may mataas na volatility ng mga presyo, at kaya angkop para sa mga cryptocurrency.
 
-Technical analysts believe the analysis of price movement or the supply and demand of currencies is the best way to identify trends in the currency. Price movements tend to trade within a trend or range. In connection with this belief, technical analysts assume that history tends to repeat itself, based on the idea that market participants have often reacted in a similar fashion to reoccurring market events. There is a very large number of techniques and indices for data analysis. In this section, we focus on certain simple techniques, such as Keltner Channels , moving average crossovers, RSI, Bollinger Bands, and the popular MACD, and to some advanced methods, such as Fibonnaci, and Ichimoku Kinko Hyo.
+Naniniwala ang mga taga-analyze ng teknikal na ang pagsusuri sa paggalaw ng presyo o ang suplay at demand ng mga currency ay ang pinakamahusay na paraan para makilala ang mga uso sa currency. Ang mga paggalaw ng presyo ay may posibilidad na mag-trade sa loob ng trend o saklaw. May koneksyon sa paniniwalang ito, ang mga taga-analyze ng teknikal ay nagsasaad na ang historya ay may gawi na ulitin ang sarili nito, batay sa ideya na ang mga kalahok sa merkado ay madalas na tumugon sa katulad na paraan para muling pagsanib ang mga kaganapan sa merkado. There is a very large number of techniques and indices for data analysis. In this section, we focus on certain simple techniques, such as Keltner Channels , moving average crossovers, RSI, Bollinger Bands, and the popular MACD, and to some advanced methods, such as Fibonnaci, and Ichimoku Kinko Hyo.
 
 * Keltner Channels put an upper, middle and lower band around the price action on a stock chart. The indicator is most useful in strongly [trending markets](https://www.investopedia.com/terms/t/trending-market.asp) when the price is making higher highs and higher lows for an [uptrend](https://www.investopedia.com/terms/u/uptrend.asp), or lower highs and lower lows for a [downtrend](https://www.investopedia.com/terms/d/downtrend.asp).
 
