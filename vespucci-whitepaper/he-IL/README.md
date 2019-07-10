@@ -252,7 +252,7 @@ Technical analysts believe the analysis of price movement or the supply and dema
 
 טכניקות מתקדמות יותר לניתוח נתונים הן ''שיטות פיבונאצ'י'', כמו כן ''טכניקות Ichimoku Kinko Hyo'', כפי שנדון בהמשך.
 
-**Fibonacci Extension:** They are popular forecasting tools, often used in combination with other technical chart patterns. Many traders use this technique in conjunction with wave-based studies (Elliott Wave, Wolfe Wave) to estimate the height of each wave and define the different waves. They commonly used with other chart patterns such as the ascending triangle. Once the pattern is identified, a forecast can be created by adding 61.8% of the distance between the upper resistance and the base of the triangle to the entry price.
+** סיומת פיבונאצ'י:** הינם כלים פופולאריים בעבור חיזוי, המשמשים לעתים קרובות בשילוב עם דפוסים טכניים תרשימיים אחרים. סוחרים רבים משתמשים בטכניקה זו בשילוב עם מחקרים מבוססי-גלים (Elliott Wave, Wolfe Wave) בכדי להעריך את את הגובה של כל גל ולהגדירם. They commonly used with other chart patterns such as the ascending triangle. Once the pattern is identified, a forecast can be created by adding 61.8% of the distance between the upper resistance and the base of the triangle to the entry price.
 
 **Fibonacci Clusters:** The Fibonacci cluster is a culmination of Fibonacci retracements from various significant highs and lows during a given time period. Each of these Fibonacci levels is then plotted on the “Y” axis (price). Each overlapping retracement level makes a darker shade on the cluster – the darker the cluster is, the more significant the support or resistance level tends to be. This technique can be used in conjunction with other Fibonacci techniques or chart patterns to confirm support and resistance levels.
 
