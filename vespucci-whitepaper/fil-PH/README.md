@@ -47,14 +47,14 @@ Ang mga katangian ng Vespucci ay ang mga sumusunod.
 * Modular na disenyo na nag-aalok ng kakayahang pahabain ang plataporma sa iba pang mga aplikasyon tulad ng mga matalinong kontrata.
 * Seguridad: Mga Pagmumulan ng Datos sa EOS Blockchain (VLabs)
 * Mataas na accuracy gamit ang sopistikadong mga pamamaraan ng Ebalwasyon, AI, at Deep Learning
-* Intuitive algorithms, possibility for weighs given by user, Post-processing for humans.
-* #### **PRINCIPLES**
+* Mga inusyatibong algoritmo, posibilidad para sa weighs na ibinigay ng gumagamit, Post-processing para sa mga tao.
+* #### **MGA PRINSIPYO**
 
-Vespucci is designed under the following principles.
+Dinisenyo ang Vespucci sa ilalim ng mga sumusunod na prinsipyo.
 
-* Objective in order not to risk compromising the Volentix DAO goodwill before it is established beyond any doubt
+* Layunin na para hindi mapanganib ang pag-kompromiso sa mabuting kalooban ng Volentix DAO bago ito maitatag nang higit sa anumang pagdududa
 * Automated
-* In demand
+* Uso
 * Decentralized implementation
 * Open-source
 * Intuitive
@@ -94,7 +94,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>**Source**</td>
 
-<td>**Analysis**</td>
+<td>**Pagsusuri**</td>
 
   </tr>
   
@@ -139,16 +139,16 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>LinkedIn</td>
 
-<td>Sentiment & Technological</td>
+<td>Sentiment At Teknolohikal</td>
 
   </tr>
   
   <tr>
     
 
-<td>Coin Sites</td>
+<td>Mga Site ng Coin</td>
 
-<td>Technological & Fundamental</td>
+<td>Teknolohikal At Fundamental</td>
 
   </tr>
   
@@ -157,7 +157,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>CoinMarketCap</td>
 
-<td>Technical, Technological & Fundamental</td>
+<td>Teknikal, Teknolohikal At Fundamental</td>
 
   </tr>
   
@@ -166,7 +166,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Github</td>
 
-<td>Technological</td>
+<td>Teknolohikal</td>
 
   </tr>
   
