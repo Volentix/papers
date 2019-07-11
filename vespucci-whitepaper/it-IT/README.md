@@ -258,7 +258,7 @@ Tecniche più avanzate per l'analisi dei dati sono i metodi di Fibonacci e le te
 
 **Canali Fibonacci:** Il modello Fibonacci può essere applicato ai canali non solo verticalmente, ma anche diagonalmente. Una tecnica comune è la combinazione di studi di Fibonacci diagonali e verticali per trovare aree in cui entrambi indicano una ristenza significativa.
 
-**Ichimoku Kinko Hyo** is a technical indicator that is used to gauge momentum along with future areas of support and resistance.It was originally developed by a Japanese newspaper writer to combine various technical strategies into a single indicator that could be easily implemented and interpreted. Ichimoku indicator is a combination of five key components:
+**Ichimoku Kinko Hyo** è un indicatore tecnico che viene utilizzato per calcolare il momentum e le future zone di sostegno e resistenza. In origine è stato sviluppato da uno scritto giapponese per combinare varie strategie tecniche in un unico indicatore che potesse essere facilmente implementato e interpretato. Ichimoku indicator is a combination of five key components:
 
 1. Tenkan-sen: Represents support and resistance level, and it’s a signal line for reversals.
 2. Kijun-sen: Represents support and resistance level. It’s a confirmation of a trend change, and can be used as a trailing stop-loss point.
