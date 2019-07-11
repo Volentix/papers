@@ -258,10 +258,10 @@ Tecniche più avanzate per l'analisi dei dati sono i metodi di Fibonacci e le te
 
 **Canali Fibonacci:** Il modello Fibonacci può essere applicato ai canali non solo verticalmente, ma anche diagonalmente. Una tecnica comune è la combinazione di studi di Fibonacci diagonali e verticali per trovare aree in cui entrambi indicano una ristenza significativa.
 
-**Ichimoku Kinko Hyo** è un indicatore tecnico che viene utilizzato per calcolare il momentum e le future zone di sostegno e resistenza. In origine è stato sviluppato da uno scritto giapponese per combinare varie strategie tecniche in un unico indicatore che potesse essere facilmente implementato e interpretato. Ichimoku indicator is a combination of five key components:
+**Ichimoku Kinko Hyo** è un indicatore tecnico che viene utilizzato per calcolare il momentum e le future zone di sostegno e resistenza. In origine è stato sviluppato da uno scritto giapponese per combinare varie strategie tecniche in un unico indicatore che potesse essere facilmente implementato e interpretato. L'indicatore Ichimoku è una combinazione di 5 componenti chiave:
 
-1. Tenkan-sen: Represents support and resistance level, and it’s a signal line for reversals.
-2. Kijun-sen: Represents support and resistance level. It’s a confirmation of a trend change, and can be used as a trailing stop-loss point.
+1. Tenkan-Sen: Rappresenta il livello di supporto e di resistenza, ed è una linea di segnalazione per le inversioni di tendenza.
+2. Kijun-sen: Rappresenta il livello di supporto e resistenza. It’s a confirmation of a trend change, and can be used as a trailing stop-loss point.
 3. Senkou Span A: Is the average of tenkan-sen and kijun-sen for 26 periods ahead. The resulting line is used to identify future areas of support and resistance.
 4. Senkou Span B: Is calculated by the highest high and the lowest low over the past 52 periods, for 26 periods ahead. The resulting line is used to identify future areas of support and resistance.
 5. Chickou Span: Is the current period’s closing price plotted 26 days back on the chart. This line is used to show possible areas of support and resistance.
