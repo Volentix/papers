@@ -263,10 +263,10 @@ Tecniche più avanzate per l'analisi dei dati sono i metodi di Fibonacci e le te
 1. Tenkan-Sen: Rappresenta il livello di supporto e di resistenza, ed è una linea di segnalazione per le inversioni di tendenza.
 2. Kijun-sen: Rappresenta il livello di supporto e resistenza. It’s a confirmation of a trend change, and can be used as a trailing stop-loss point.
 3. Senkou Span A: È la media di tenkan-sen e kijun-sen per 26 periodi successivi. La linea che ne consegue viene utilizzata per identificare future aree di supporto e resistenza.
-4. Senkou Span B: Is calculated by the highest high and the lowest low over the past 52 periods, for 26 periods ahead. The resulting line is used to identify future areas of support and resistance.
-5. Chickou Span: Is the current period’s closing price plotted 26 days back on the chart. This line is used to show possible areas of support and resistance.
+4. Senkou Span B: Is calculated by the highest high and the lowest low over the past 52 periods, for 26 periods ahead. La linea che ne consegue viene utilizzata per identificare future aree di supporto e resistenza.
+5. Chickou Span: È il prezzo di chiusura del periodo corrente tracciato sul grafico sui 26 giorni passati. Questa linea viene utilizzata per mostrare possibili aree di supporto e resistenza.
 
-* #### **FUNDAMENTAL AND TECHNOLOGICAL ANALYSIS**
+* #### **ANALISI FONDAMENTALE E TECNOLOGICA**
 
 Various blockchain technologies have been developed to tackle various challenges and, therefore, are meant to satisfy different requirements. A review of the technical concepts of the different blockchain technologies is our basis in understanding the impact of the different architectures in terms of performance, privacy, security and regulation. Quantitative analysis from a technological perspective (not to be confused with technical analysis) appraises and correlates various network statistics gleamed from the blockchain, giving a real-time view of the cryptocurrency. These statistics include but are not limited to:‬
 
