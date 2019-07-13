@@ -55,10 +55,10 @@ Dinisenyo ang Vespucci sa ilalim ng mga sumusunod na prinsipyo.
 * Layunin na para hindi mapanganib ang pag-kompromiso sa mabuting kalooban ng Volentix DAO bago ito maitatag nang higit sa anumang pagdududa
 * Automated
 * Uso
-* Decentralized implementation
+* Desentralisadong implementasyon
 * Open-source
 * Intuitive
-* #### **HOW VESPUCCI WORKS**
+* #### **PAANO GUMAGANA ANG VESPUCCI**
 
 The three pillars are described in the following subsections. In these subsections a large number of criteria is mentioned. The results of the SA component is made available along with the Technical and FTA results to the users so they can access a complete 360 view of each coin’s state, rank and ultimately understand the coin’s true value and potential. ‪An evaluation of both established cryptocurrencies and known “scam-coins” is performed, and the resulting parameters deemed most relevant in determining cryptocurrency validity is integrated into the system.
 
