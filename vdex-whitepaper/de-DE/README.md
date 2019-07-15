@@ -6,9 +6,9 @@
 
 ## 1. Einführung
 
-Volentix introduces VDex, designed as a distributed, decentralized digital assets exchange with emphasis on user experience and community development and governance. By accessing established technologies and planning selective new protocols with priority on security, speed, authentication, ease of use, scalability, and multi-asset support, VDex intends to facilitate peer-to-peer transactions by assembling a portfolio of decentralized applications built on EOS.IO smart contracts.
+Volentix führt VDex ein, das als verteilte, dezentralisierte Exchange-Börse für digitale Assets mit einem Schwerpunkt auf Benutzererfahrung und Community-Entwicklung und -Verwaltung konzipiert wurde. Durch Zugriff auf etablierte Technologien und die Planung ausgewählter neuer Protokolle mit der Priorität auf Sicherheit, Geschwindigkeit, Authentifizierung, einfache Benutzung, Skalierbarkeit und Unterstützung von Multi-Assets, beabsichtigt VDex Peer-to-Peer-Transaktionen zu ermöglichen durch die Zusammenstellung eines Portfolios an dezentralisierten Anwendungen, welche auf der Basis von EOS.IO Smart Contracts geschaffen wurden.
 
-The VDex launch point anticipates matching Volentix's design requirements to available technologies superimposed on the EOS.IO decentralized operating system. We intend to test our assumptions by prototyping via custom EZEOS software, which we built and customized with EOS.IO's cleos command line tools. This software resides at: https://github.com/Volentix/ezeos
+Der VDex-Startpunkt erwartet die Übereinstimmung der Volentix Design-Anforderungen an verfügbare Technologien, die auf das dezentrale Betriebssystem EOS.IO übertragen werden. We intend to test our assumptions by prototyping via custom EZEOS software, which we built and customized with EOS.IO's cleos command line tools. This software resides at: https://github.com/Volentix/ezeos
 
 ![](../main3-3000px.jpg)
 
