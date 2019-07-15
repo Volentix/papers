@@ -24,7 +24,7 @@ Venue, welches kürzlich im Beta-Test gestartet wurde, ermöglicht Usern VTX zu 
 
 ### 2.2 VERTO
 
-Verto is being built as a multi-currency wallet for use with the VDex decentralized exchange, and intends to facilitate personal custody and local management of private and public keys in peer-to-peer transactions, with the goal of eliminating the risks of devastating losses of stake associated with traumatic failures of central operators. Verto plans to employ a system of smart contracts to maintain the state between two trading clients, the simplest operations being accomplished with atomic swaps.[1]
+Verto wird erschaffen als Multi-Währungs-Wallet zur Nutzung mit der dezentralisierten Exchange-Börse von VDex und soll die persönliche Aufbewahrung und das lokale Management privater und öffentlicher Schlüssel in Peer-to-Peer-Transaktionen erleichtern, mit dem Ziel, die Risiken des vernichtenden Verlustes von Einlagen zu beseitigen, die mit den traumatischen Ausfällen zentraler Betreiber verbunden sind. Verto plant, ein System an Smart Contracts einzubinden, um den Status zwischen zwei Handelspartnern aufrechtzuerhalten, den einfachsten Operationen, die mit Atomic Swaps ausgeführt werden.[1]
 
 ### 2.3 VESPUCCI
 
