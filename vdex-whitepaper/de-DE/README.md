@@ -42,19 +42,19 @@ Die vierte Säule von Volentix, die VDex Exchange-Börse, ist die Plattform für
 
 Wir haben verschiedene Betriebssysteme als Kandidaten für die Substruktur unserer VDex Exchange-Börse evaluiert. Auch wenn wir die Arbeit wertschätzen, die von einer Zahl etablierter Führungskräfte im Bereich digitaler Assets und der Blockchain-Technologie geleistet wurde, so hebt sich unter diesen Wegbereitern die Arbeit von EOS.IO als operierendes system-ähnliches Framework, auf dem dezentralisierte Anwendungen geschaffen werden können, unserer Ansicht nach als exemplarisch ab. Die Software bietet Accounts, Authentifizierung, Datenbanken, asynchrone Kommunikation und Terminplanung über Cluster. Komponenten und Protokolle sind bereits in die Plattform integriert und ein Teil davon kann genutzt werden, um die Anforderungen unseres VDex zu erfüllen. VDex wird anfangs von den Standard-Features profitieren, die von EOS.IO angeboten werden, wie u.a. Account- und Wallet-Generierung und die Wiederherstellung gestohlener Keys, aber wir planen nach und nach Protokolle zur Schaffung einer dezentralisierten Exchange-Börse über EOS-Contracts und andere Tools zu implementieren.[2] Nachfolgend eine Zusammenfassung der vielversprechenden Methoden:
 
-### Context Free Actions
+### Aktionen ohne Kontext
 
-Most of the scalability techniques proposed by Ethereum (Sharding, Raiden, Plasma, State Channels) become more efficient, parallelizable, and practical while also ensuring speedy inter-blockchain communication and unimpaired scalability. A Context Free Action involves computations that depend only on transaction data, and not upon the blockchain state.
+Die meisten der Skalierungstechniken, die von Ethereum eingeführt wurden (Sharding, Raiden, Plasma, State Channels) werden immer effizienter, parallelisierbarer und praktischer, während sie gleichzeitig für eine zügige Kommunikation zwischen den Blockchains und eine einheitliche Skalierbarkeit sorgen. Eine Aktion ohne Kontext beinhaltet Berechnungen, die nur auf Transaktionsdaten beruhen und nicht auf dem Zustand der Blockchain.
 
-### Binary/JSON conversion
+### Binäre/JSON-Umwandlung
 
-EOS contracts combine the human readability of JSON with the efficiency of binary.
+EOS-Contracts verbinden die menschliche Lesbarkeit von JSON mit der Effizienz von Binärcode.
 
-### Parallelization and optimization
+### Parallelisierung und Optimierung
 
-Separating authentication from application allows faster transaction times and increases bandwidth. EOS.IO blocks are reportedly produced every 500ms.
+Die Trennung der Authentifikation von der Applikation erlaubt schnellere Transaktionszeiten und erhöht die Bandbreite. EOS.IO-Blöcke werden bekanntermaßen alle 500ms produziert.
 
-### Web Assembly(WASM)
+### Web-Assembly (WASM)
 
 Web Assembly enables high-performance Web applications and also secures each application in its own sandbox, through which functionalities VDex can obtain network access, filesystem namespace restrictions, and enforced rule-based execution.
 
