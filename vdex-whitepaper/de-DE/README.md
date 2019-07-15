@@ -8,19 +8,19 @@
 
 Volentix führt VDex ein, das als verteilte, dezentralisierte Exchange-Börse für digitale Assets mit einem Schwerpunkt auf Benutzererfahrung und Community-Entwicklung und -Verwaltung konzipiert wurde. Durch Zugriff auf etablierte Technologien und die Planung ausgewählter neuer Protokolle mit der Priorität auf Sicherheit, Geschwindigkeit, Authentifizierung, einfache Benutzung, Skalierbarkeit und Unterstützung von Multi-Assets, beabsichtigt VDex Peer-to-Peer-Transaktionen zu ermöglichen durch die Zusammenstellung eines Portfolios an dezentralisierten Anwendungen, welche auf der Basis von EOS.IO Smart Contracts geschaffen wurden.
 
-Der VDex-Startpunkt erwartet die Übereinstimmung der Volentix Design-Anforderungen an verfügbare Technologien, die auf das dezentrale Betriebssystem EOS.IO übertragen werden. We intend to test our assumptions by prototyping via custom EZEOS software, which we built and customized with EOS.IO's cleos command line tools. This software resides at: https://github.com/Volentix/ezeos
+Der VDex-Startpunkt erwartet die Übereinstimmung der Volentix Design-Anforderungen an verfügbare Technologien, die auf das dezentrale Betriebssystem EOS.IO übertragen werden. Wir beabsichtigen, unsere Annahmen durch Prototyping über die eigene EZEOS-Software zu testen, die wir mit Hilfe des Kommandozeilen-Tools von EOS.IO cleo geschaffen und angepasst haben. Die Software ist erhältlich unter: https://github.com/Volentix/ezeos
 
 ![](../main3-3000px.jpg)
 
 ## 2. VOLENTIX
 
-The Volentix ecosystem will exist atop four pillars, an initializing array of applications specifically known as Venue, Verto, Vespucci, and VDex.
+Das Volentix-Ökosystem wird auf vier Säulen basieren, einer initialisierdenden Reihe von Anwendungen, speziell bekannt als Venue, Verto, Vespucci und VDex.
 
 ### 2.1 VENUE
 
-Venue is planned as a dynamic community platform that recruits and aligns members of the Volentix community to facilitate distribution of VTX, the native digital asset of the Volentix ecosystem, and to promote awareness of Volentix initiatives.
+Venue ist als dynamische Community-Plattform geplant, die Mitglieder der Volentix-Community rekrutiert und darauf ausrichtet, die Verbreitung von VTX, dem nativen digitalen Asset des Volentix-Ökosystems, zu erleichtern und das Bewusstsein für die Volentix-Initiativen zu schärfen.
 
-Recently launched in beta testing, Venue enables users to receive VTX in exchange, for example, for participating in developing dedicated communities, submitting bug fixes, and claiming bounties. Leaderboards and live metrics reflect user participation. The first signature campaign was launched on the https://bitcointalk.org/ forum on July 13, 2018. Please visit https://venue.volentix.io for more information.
+Venue, welches kürzlich im Beta-Test gestartet wurde, ermöglicht Usern VTX zu erhalten im Gegenzug für beispielsweise die Teilnahme an der Entwicklung dedizierter Communities, für das Einreichen von Fehlerbehebungen und das Einfordern von Bounties. Bestenlisten und Live-Auswertungen spiegeln die Nutzer-Beteiligung wider. The first signature campaign was launched on the https://bitcointalk.org/ forum on July 13, 2018. Please visit https://venue.volentix.io for more information.
 
 ### 2.2 VERTO
 
