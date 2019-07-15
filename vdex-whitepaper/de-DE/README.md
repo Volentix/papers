@@ -1,10 +1,10 @@
-# THE VOLENTIX VDEX WHITE PAPER
+# DAS VOLENTIX VDEX WHITEPAPER
 
 - Version: 0.1.4
-- Updated: 11-03-2019
+- Aktualisiert am: 11.03.2019
 - Website: www.volentix.io
 
-## 1. INTRODUCTION
+## 1. Einführung
 
 Volentix introduces VDex, designed as a distributed, decentralized digital assets exchange with emphasis on user experience and community development and governance. By accessing established technologies and planning selective new protocols with priority on security, speed, authentication, ease of use, scalability, and multi-asset support, VDex intends to facilitate peer-to-peer transactions by assembling a portfolio of decentralized applications built on EOS.IO smart contracts.
 
