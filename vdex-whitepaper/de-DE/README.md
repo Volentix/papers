@@ -20,7 +20,7 @@ Das Volentix-Ökosystem wird auf vier Säulen basieren, einer initialisierdenden
 
 Venue ist als dynamische Community-Plattform geplant, die Mitglieder der Volentix-Community rekrutiert und darauf ausrichtet, die Verbreitung von VTX, dem nativen digitalen Asset des Volentix-Ökosystems, zu erleichtern und das Bewusstsein für die Volentix-Initiativen zu schärfen.
 
-Venue, welches kürzlich im Beta-Test gestartet wurde, ermöglicht Usern VTX zu erhalten im Gegenzug für beispielsweise die Teilnahme an der Entwicklung dedizierter Communities, für das Einreichen von Fehlerbehebungen und das Einfordern von Bounties. Bestenlisten und Live-Auswertungen spiegeln die Nutzer-Beteiligung wider. The first signature campaign was launched on the https://bitcointalk.org/ forum on July 13, 2018. Please visit https://venue.volentix.io for more information.
+Venue, welches kürzlich im Beta-Test gestartet wurde, ermöglicht Usern VTX zu erhalten im Gegenzug für beispielsweise die Teilnahme an der Entwicklung dedizierter Communities, für das Einreichen von Fehlerbehebungen und das Einfordern von Bounties. Bestenlisten und Live-Auswertungen spiegeln die Nutzer-Beteiligung wider. Die erste Signatur-Kampagne wurde am 13. Juli 2018 im Forum auf https://bitcointalk.org/ gestartet. Please visit https://venue.volentix.io for more information.
 
 ### 2.2 VERTO
 
