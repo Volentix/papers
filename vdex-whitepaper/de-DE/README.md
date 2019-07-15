@@ -64,9 +64,9 @@ Die bekannte und populäre Programmiersprache C++ erscheint sehr geeignet für W
 
 #### 3.0.2. Schema-definierte Nachrichten und Datenbank
 
-Service-Contracts werden standardisiert, um durch Harmonisierung von Datenmodellen ein Mindestmaß an Interoperabilität zwischen und unter verschiedenen Systemen zu ermöglichen. Tatsächlich befürwortet das Prinzip des "Standardisierten Service-Contract-Designs", dass Service-Contracts auf standardisierten Datenmodellen beruhen. Die Analyse wird auf der Grundlage des Service-Inventar-Entwurfs ausgeführt, um die häufig vorkommenden geschäftlichen Dokumente zu identifizieren, die zwischen Diensten ausgetauscht werden. These business documents are then modeled in a standardized manner. The Canonical Schema pattern reduces the need for application of the data model transformation design pattern. [3]
+Service-Contracts werden standardisiert, um durch Harmonisierung von Datenmodellen ein Mindestmaß an Interoperabilität zwischen und unter verschiedenen Systemen zu ermöglichen. Tatsächlich befürwortet das Prinzip des "Standardisierten Service-Contract-Designs", dass Service-Contracts auf standardisierten Datenmodellen beruhen. Die Analyse wird auf der Grundlage des Service-Inventar-Entwurfs ausgeführt, um die häufig vorkommenden geschäftlichen Dokumente zu identifizieren, die zwischen Diensten ausgetauscht werden. Diese geschäftlichen Dokumente werden dann standardisiert geformt. Das Muster des "Kanonischen Schemas" reduziert die Notwendigkeit der Anwendung des Musters der Datenmodell-Umwandlung. [3]
 
-#### 3.0.3 Inter-Contract Communication
+#### 3.0.3 Inter-Contract-Kommunikation
 
 Data is shared between contracts via an oracle, which, "in the context of blockchains and smart contracts, is an agent that finds and verifies real-world occurrences and submits this information to a blockchain to be used by smart contracts.” [4] Every node will have an identical copy of these data, for use in smart contract computation. Rather than the smart contract functioning to pull the data, instead the oracle pushes the data onto the blockchain. In the instance of a blockchain, most reading of the data is done via polling "models" in order to monitor blockchain state and to perform certain responsive actions.
 
