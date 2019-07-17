@@ -276,8 +276,8 @@ Diverse tecnologie blockchain sono state sviluppate per far fronte a diverse sfi
 * Distribuzione delle monete, comprese le informazioni su come la moneta è distribuita tra gli sviluppatori, il team di fondazione/produzione e il pubblico. Inoltre, il tasso di variazione dell'offerta totale e di come viene poi distribuita sembra fornire statistiche utili sul valore reale della moneta e l'indicazione di possibili frodi.
 * Distribuzione dei miner, indicando il numero di miner online e come sono distribuiti (per pool), le loro commissioni, fortuna, ecc. Inoltre, anche la versione software dei miner è importante, dal momento che idealmente dovrebbero essere tutto sull'ultima versione per supportare tutte le caratteristiche della Moneta che stanno producendo.
 * Livelli di transazione, in cui possono essere prese in considerazione diverse misure, come il numero di transazioni presentate o convalidate al secondo da ciascun nodo e dall'intera rete, il tempo medio di convalida di un'operazione e la sua volatilità.
-* Tra nsactions fees, that users might pay to the network, in order to complete transactions or smart contracts.
-* Security includes several aspects such as the vulnerability of the system to attacks (e.g. double spending, Sybil attacks), the confidentiality of transactions, as well as user anonymity.
+* Commissioni della transazione, che gli utenti potrebbero pagare alla rete, per completare le transazioni o gli smart contract.
+* La sicurezza comprende diversi aspetti quali la vulnerabilità del sistema agli attacchi (ad es. doppia spesa, attacchi Sybil), la riservatezza delle transazioni, nonchè l'anonimato dell'utente.
 * Scalability concerns how the system’s performance is affected by the number of nodes, transactions and users, and the scattering of the geographic positions of the nodes.
 * Hardware requirements for storage, memory and processors needed to store the blockchain network and validate the transactions and blocks, as well as how these requirements change while the networks grows.
 
