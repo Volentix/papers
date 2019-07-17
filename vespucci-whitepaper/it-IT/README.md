@@ -281,19 +281,19 @@ Diverse tecnologie blockchain sono state sviluppate per far fronte a diverse sfi
 * La scalabilità riguarda il modo in cui la performance del sistema è influenzata dal numero di nodi, transazioni e utenti, e il modo in cui sono sparse le posizioni geografiche dei nodi.
 * Requisiti hardware per l'archiviazione, la memoria e i processori necessari per memorizzare la rete blockchain e per convalidare le transazioni e i blocchi, nonché il modo in cui questi requisiti cambiano mentre le reti crescono.
 
-Per implementare l'analisi cui sopra, ulteriori dettagli sono forniti nella sezione successiva. Oggi, gli esploratori della blockchain sono ampiamente disponibili per sostenere questo compito. In particular, blockchain explorers such as [coinmetrics](https://coinmetrics.io/) and [cryptocompare](https://www.cryptocompare.com/) were combined, in order to meet the needs of FTA. The former is an open source crypto-asset analytics service, providing daily data for the most major cryptocurrencies (about 64 currently). Cryptocompare is a platform with live cryptocurrency data; its API makes available historical and live streaming cryptocurrency data, such as pricing, volume and block explorer data from multiple exchanges and blockchains.
+Per implementare l'analisi cui sopra, ulteriori dettagli sono forniti nella sezione successiva. Oggi, gli esploratori della blockchain sono ampiamente disponibili per sostenere questo compito. In particolare, esploratori blockchain come [coinmetrics](https://coinmetrics.io/) e [cryptocompare](https://www.cryptocompare.com/) sono stati combinati per soddisfare le esigenze dell'FTA. Il primo è un servizio di analisi criptoasset open source, che fornisce dati giornalieri per le principali criptovalute (attualmente circa 64). Cryptocompare è una piattaforma con dati riguardanti le criptomonete live; la sua API rende disponibili dati storici e live streaming delle criptomonete, come prezzi, volumi e dati block explorer provenienti da multipli exchange e blockchain.
 
-Among others, some of the features available by both APIs are:
+Tra le altre, alcune delle funzionalità disponibili per entrambe le API sono:
 
-* transaction count – number of transactions happening on the public blockchain a day
-* transaction volume (usd) – total value of outputs on the blockchain, on a given day
-* adjusted transaction volume (usd) – estimated ([https://coinmetrics.io/introducing-adjusted-estimates](https://coinmetrics.io/introducing-adjusted-estimates/))
-* payment count
-* active addresses
-* fees
-* median fee
-* generated coins
-* average difficulty
+* conteggio transazioni - numero delle transazioni che vengono effettuate sulla blockchain pubblica al giorno
+* volume delle transazioni (usd) - valore totale delle uscite sulla blockchain, in un dato giorno
+* volume delle transazioni corretto (usd) - stimato ([https://coinmetrics.io/introducing-adjusted-estimates](https://coinmetrics.io/introducing-adjusted-estimates/)>)
+* conteggio pagamenti
+* indirizzi attivi
+* commissioni
+* commissione media
+* monete generate
+* difficoltà media
 * median transaction value (usd)
 * block size
 * block count
