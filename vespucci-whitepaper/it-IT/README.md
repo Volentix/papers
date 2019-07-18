@@ -294,7 +294,7 @@ Tra le altre, alcune delle funzionalità disponibili per entrambe le API sono:
 * commissione media
 * monete generate
 * difficoltà media
-* median transaction value (usd)
+* valore medio della transazione (usd)
 * block size
 * block count
 * price (usd)
