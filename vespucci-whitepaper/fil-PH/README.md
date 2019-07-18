@@ -258,9 +258,9 @@ Ang **Fibonacci na Extension:** Ang mga ito ay sikat na mga kagamitan sa pagtata
 
 **Fibonacci Channels:** Ang pattern na Fibonacci ay pwedeng mai-aplay sa mga tsanel hindi lamang patayo, kundi pati na rin sa pahilis. Isa sa karaniwang teknik ay ang kumbinasyon ng palihis at patayo na pag-aaral ng Fibonacci para makahanap ng mga lugar kung saan nagpapahiwatig ang parehong makabuluhang resistance.
 
-Ang **Ichimoku Kinko Hyo** ay isang teknikal na tagapagtuto na ginagamit para masukat ang momentum kasama ang mga hinaharap na lugar ng suporta at resistance. Ito ay orihinal na binuo ng isang manunulat ng pahayagan ng Hapones para pagsamahin ang iba't ibang teknikal na estratehiya sa isang solong tagapagturo na maaaring madaling ipatupad at ipaliwanag. Ichimoku indicator is a combination of five key components:
+Ang **Ichimoku Kinko Hyo** ay isang teknikal na tagapagtuto na ginagamit para masukat ang momentum kasama ang mga hinaharap na lugar ng suporta at resistance. Ito ay orihinal na binuo ng isang manunulat ng pahayagan ng Hapones para pagsamahin ang iba't ibang teknikal na estratehiya sa isang solong tagapagturo na maaaring madaling ipatupad at ipaliwanag. Ang tagapagturo na Ichimoku ay isang kombinasyon ng mga nilalaman ng limang key:
 
-1. Tenkan-sen: Represents support and resistance level, and it’s a signal line for reversals.
+1. Ang Tenkan-sen: Ay nirerepresnta ang antas ng suporta at resistance, at ito ay isang linya ng signal para sa mga reversal.
 2. Kijun-sen: Represents support and resistance level. It’s a confirmation of a trend change, and can be used as a trailing stop-loss point.
 3. Senkou Span A: Is the average of tenkan-sen and kijun-sen for 26 periods ahead. The resulting line is used to identify future areas of support and resistance.
 4. Senkou Span B: Is calculated by the highest high and the lowest low over the past 52 periods, for 26 periods ahead. The resulting line is used to identify future areas of support and resistance.
