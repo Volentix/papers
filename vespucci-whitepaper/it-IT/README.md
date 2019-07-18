@@ -318,13 +318,13 @@ C'è un aspetto dell'analisi quantitativa da una prospettiva sociale che guarda 
 
 Questo modulo (relativo all'analisi del sentimento) esamina le informazioni provenienti da Github e da altre fonti come la rivista letteraria. Valuta la qualità di un codice guardando gli spunti sociali ben noti tra gli sviluppatori di software, e in particolare:
 
-* The expertise and track record of the team and their continued commitment to their project (frequency of commits, frequency the community responds to bugs, contributions over time, and the amount of time that has been consistently spent building up the project),
-* The activity on GitHub, which is tightly related to the previous item, and the number of followers of the project,
-* The quality of code (programming languages, test coverage, ratio of bugs over lines of code,build breaks etc), robustness, and maintenance of the software,
-* The corresponding white paper.
-* The mathematical and cryptographical principles of the system.
+* L'esperienza e il track record del team e il loro continuo impegno nel loro progetto (frequenza dei commit, frequenza con cui la comunità risponde ai bug, contributi nel tempo e la quantità di tempo che è stato costantemente impiegato per costruire il progetto),
+* L'attività su GitHub, che è strettamente correlata alla voce precedente, e il numero di follower del progetto,
+* La qualità del codice (linguaggi di programmazione, copertura dei test, rapporto tra i bug sulle righe di codice, build break, ecc), robustezza e manutenzione del software,
+* Il corrispondente white paper.
+* I principi matematici e crittografici del sistema.
 
-More specifically, some features of the git repositories that determine the repository’s popularity and robustness are its forks and stars, the activity of the maintenance team, measured by the rate of issues closed and of pull requests, as well as the quality of the project’s source code, measured by its test coverage and other code quality metrics. These can be obtained from the [CoinGecko](https://www.coingecko.com/en) API, a cryptocurrency ranking chart app that ranks digital currencies by developer activity, community, and liquidity.
+Più specificamente, alcune caratteristiche dei repository git che determinano la popolarità e la robustezza delle repository sono i loro fork e stelle, l'attività del team di manutenzione, misurata dal tasso di problemi risolti e di richieste di pull, così come la qualità del codice sorgente del progetto, misurata dalla copertura dei test e da altre metriche di qualità del codice. These can be obtained from the [CoinGecko](https://www.coingecko.com/en) API, a cryptocurrency ranking chart app that ranks digital currencies by developer activity, community, and liquidity.
 
 The combination of these criteria relies essentially on an adapted and powerful scoring function which, eventually, may be replaced by a Convolutional Neural Network, also discussed in support of Sentiment Analysis (see relevant section).
 
