@@ -316,7 +316,7 @@ C'è un aspetto dell'analisi quantitativa da una prospettiva sociale che guarda 
 
 ‪• l'accessibilità e la reattività del creatore.
 
-This module (related to Sentiment analysis) examines information from Github and other sources such as literature review. It grades the quality of a codebase by looking at social cues well-known among software developers, and in particular:
+Questo modulo (relativo all'analisi del sentimento) esamina le informazioni provenienti da Github e da altre fonti come la rivista letteraria. Valuta la qualità di un codice guardando gli spunti sociali ben noti tra gli sviluppatori di software, e in particolare:
 
 * The expertise and track record of the team and their continued commitment to their project (frequency of commits, frequency the community responds to bugs, contributions over time, and the amount of time that has been consistently spent building up the project),
 * The activity on GitHub, which is tightly related to the previous item, and the number of followers of the project,
