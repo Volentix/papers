@@ -295,26 +295,26 @@ Tra le altre, alcune delle funzionalità disponibili per entrambe le API sono:
 * monete generate
 * difficoltà media
 * valore medio della transazione (usd)
-* block size
-* block count
-* price (usd)
-* market capitalization (usd)
-* exchange volume(usd)
-* total coins mined
-* difficulty adjustment
-* block reward reduction, number & time
-* net hashes per second
-* total coins mined
+* dimensione del blocco
+* conteggio dei blocchi
+* prezzi (usd)
+* capitalizzazione di mercato (usd)
+* volume di scambio (usd)
+* totale monete minate
+* aggiustamento della difficoltà
+* riduzione della ricompensa per la produzione di blocchi, numero & tempo
+* hash netti al secondo
+* totale monete minate
 
-**Source Code – Developer activity**
+**Codice sorgente - attività degli sviluppatori**
 
-There is an aspect of quantitative analysis from a social perspective which looks at the involvement of the developer community surrounding the project, quite related to Sentiment Analysis. Research into metrics that accurately reflect rates of community participation as well as creator participation will be assessed. These factors may include but are not limited to:‬
+C'è un aspetto dell'analisi quantitativa da una prospettiva sociale che guarda al coinvolgimento della comunità di sviluppatori che circonda il progetto, piuttosto legato all'analisi del Sentiment. Verrà valutata la ricerca di metriche che riflettano accuratamente i tassi di partecipazione della comunità e dei creatori. Questi fattori possono includere ma non sono limitati a:
 
-‪• online community participation
+‪• partecipazione della comunità online
 
 ‪• code base activity‬
 
-‪• creator approachability and responsiveness ‬.
+‪• l'accessibilità e la reattività del creatore.
 
 This module (related to Sentiment analysis) examines information from Github and other sources such as literature review. It grades the quality of a codebase by looking at social cues well-known among software developers, and in particular:
 
