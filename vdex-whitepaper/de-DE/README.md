@@ -8,7 +8,7 @@
 
 Volentix führt VDex ein, das als verteilte, dezentralisierte Exchange-Börse für digitale Assets mit einem Schwerpunkt auf Benutzererfahrung und Community-Entwicklung und -Verwaltung konzipiert wurde. Durch Zugriff auf etablierte Technologien und die Planung ausgewählter neuer Protokolle mit der Priorität auf Sicherheit, Geschwindigkeit, Authentifizierung, einfache Benutzung, Skalierbarkeit und Unterstützung von Multi-Assets, beabsichtigt VDex Peer-to-Peer-Transaktionen durch die Zusammenstellung eines Portfolios an dezentralisierten Anwendungen zu ermöglichen, welche auf der Basis von EOS.IO Smart-Contracts geschaffen wurden.
 
-Der VDex-Startpunkt erwartet die Übereinstimmung der Volentix Design-Anforderungen an verfügbarem Technologien, die auf das dezentrale Betriebssystem EOS.IO übertragen werden. Wir beabsichtigen, unsere Annahmen durch Prototyping über die eigene EZEOS-Software zu testen, die wir mit Hilfe des Kommandozeilen-Tools von EOS.IO cleo geschaffen und angepasst haben. Die Software ist erhältlich unter: https://github.com/Volentix/ezeos
+Der VDex-Startpunkt erwartet die Übereinstimmung der Volentix Design-Anforderungen an verfügbaren Technologien, die auf das dezentrale Betriebssystem EOS.IO übertragen werden. Wir beabsichtigen, unsere Annahmen durch Prototyping über die eigene EZEOS-Software zu testen, die wir mit Hilfe des Kommandozeilen-Tools von EOS.IO cleo geschaffen und angepasst haben. Die Software ist erhältlich unter: https://github.com/Volentix/ezeos
 
 ![](../main3-3000px.jpg)
 
@@ -18,7 +18,7 @@ Das Volentix-Ökosystem wird auf vier Säulen basieren, einer initialisierenden 
 
 ### 2.1 VENUE
 
-Venue ist als dynamische Community-Plattform geplant, die Mitglieder der Volentix-Community rekrutiert und darauf ausrichtet, die Verbreitung von VTX, dem nativen digitalen Asset des Volentix-Ökosystems, zu erleichtern und das Bewusstsein für die Volentix-Initiativen zu schärfen.
+Venue ist als dynamische Community-Plattform geplant, die Mitglieder der Volentix-Community rekrutiert und darauf koordiniert, die Verbreitung von VTX, dem nativen digitalen Asset des Volentix-Ökosystems, zu erleichtern und das Bewusstsein für die Volentix-Initiativen zu schärfen.
 
 Venue, welches kürzlich im Beta-Test gestartet wurde, ermöglicht Usern, VTX zu erhalten im Gegenzug für beispielsweise die Teilnahme an der Entwicklung dedizierter Communities, für das Einreichen von Fehlerbehebungen und das Einfordern von Bounties. Bestenlisten und Live-Auswertungen spiegeln die Nutzer-Beteiligung wider. Die erste Signatur-Kampagne wurde am 13. Juli 2018 im Forum auf https://bitcointalk.org/ gestartet. Bitte besuchen Sie https://venue.volentix.io für weitere Informationen.
 
@@ -32,7 +32,7 @@ Vespucci wurde als Analysator konzipiert, der über ein nutzerfreundliches Inter
 
 ### 2.4. VDEX
 
-Die vierte Säule von Volentix, die VDex Exchange-Börse, ist die Plattform für handelbare digitale Assets, die in diesem Whitepaper detailiert eingeführt wird. Für eine reibungslose und sichere Bedienbarkeit planen wir, Ihre eigene persönliche Verto-Wallet und das Vespucci-Interface mit VDex zu verbinden. Wir erwarten, dass VDex in der Lage sein wird, Transaktionen zu verwalten, die sowohl VTX als auch die riesige Anzahl digitaler Assets und Blockchains, die von Zeit zu Zeit in der ganzen Welt vorhanden sind, beinhalten. Wir entwickeln Venue primär als ergänzenden Zusatz, um native VTX-basierte Initiativen anzuregen und zu betreiben.
+Die vierte Säule von Volentix, die VDex Exchange-Börse, ist die Plattform für handelbare digitale Assets, die in diesem Whitepaper detailliert eingeführt wird. Für eine reibungslose und sichere Bedienbarkeit planen wir, Ihre eigene persönliche Verto-Wallet und das Vespucci-Interface mit VDex zu verbinden. Wir erwarten, dass VDex in der Lage sein wird, Transaktionen zu verwalten, die sowohl VTX als auch die riesige Anzahl digitaler Assets und Blockchains, die von Zeit zu Zeit in der ganzen Welt vorhanden sind, beinhalten. Wir entwickeln Venue primär als ergänzenden Zusatz, um native VTX-basierte Initiativen anzuregen und zu betreiben.
 
 ## 3. ARCHITEKTUR
 
