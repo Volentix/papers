@@ -60,7 +60,7 @@ Web-Assambly ermöglicht hochperformante Webanwendungen und sichert auch jede An
 
 ### Rust/C++-Contracts
 
-Die bekannte und populäre Programmiersprache C++ erscheint sehr geeignet für WASM. C++ besitzt sehr fortschrittliche Debugging-Unterstützung und Bibliotheken. Die EOS-Codebase verwendet weitgehend Vorlagen und C++ erlaubt es, Vorlagen und Bediener zu überladen, um die laufzeitkostenfreie Validierung von Units zu definieren. Das Programm startet erneut, um den Status beim Start jeder Nachricht zurückzusetzen, was einen entscheidenden Vorteil bei der Formulierung von Smart-Contracts nachzeichnet. Das Web-Assambly-Framework weist automatische jede Transaktion zurück, die die gespeicherte Information ungenau adressiert. Falls eine dynamische Speicherzuweisung erforderlich ist, können Nutzer auf Smart- Pointers umsteigen, da EOS.IO-Contracts C++14 verwenden. Es ist erwähnenswert, dass die erste Implementierung der Technologie von PARSEC Directed Acyclic Graph (DAG) in Rust erwartet wird.
+Die bekannte und populäre Programmiersprache C++ erscheint sehr geeignet für WASM. C++ besitzt sehr fortschrittliche Debugging-Unterstützung und Bibliotheken. Die EOS-Codebase verwendet weitgehend Vorlagen und C++ erlaubt es, Vorlagen und Bediener zu überladen, um die laufzeitkostenfreie Validierung von Units zu definieren. Das Programm startet erneut, um den Status beim Start jeder Nachricht zurückzusetzen, was einen entscheidenden Vorteil bei der Formulierung von Smart-Contracts nachzeichnet. Das Web-Assambly-Framework weist automatische jede Transaktion zurück, die die gespeicherte Information ungenau adressiert. Falls eine dynamische Speicherzuweisung erforderlich ist, können Nutzer auf Smart-Pointers umsteigen, da EOS.IO-Contracts C++14 verwenden. Es ist erwähnenswert, dass die erste Implementierung der Technologie von PARSEC Directed Acyclic Graph (DAG) in Rust erwartet wird.
 
 #### 3.0.2. Schema-definierte Nachrichten und Datenbank
 
@@ -68,7 +68,7 @@ Service-Contracts werden standardisiert, um durch Harmonisierung von Datenmodell
 
 #### 3.0.3 Inter-Contract-Kommunikation
 
-Daten werden zwischen Contracts über ein Orakel geteilt, welches "im Kontext der Blockchains und Smart-Contracts ein Agent ist, der Ereignisse der wahren Welt findet und verifiziert und diese Information an eine Blockchain weiterleitet, damit sie in Smart-Contracts verwendet werden." [4] Jeder Netzknoten besitzt eine identische Kopie dieser Daten zur Nutzung in Smart-Contract-Berechnungen. Statt dass Smart-Contracts so funktionieren, dass sie die Daten herausziehen, drückt das Orakel die Daten auf die Blockchain. Im Falle einer Blockchain erfolgt das Lesen der Daten meistens über Abstimmungs-"Modelle", um den Blockchain-Zustand erfassen zu können und bestimmte reaktive Aktionen auszuführen.
+Daten werden zwischen Contracts über ein Orakel geteilt, welches "im Kontext der Blockchains und Smart-Contracts ein Agent ist, der Ereignisse der realen Welt findet und verifiziert und diese Information an eine Blockchain weiterleitet, damit sie in Smart-Contracts verwendet werden." [4] Jeder Netzknoten besitzt eine identische Kopie dieser Daten zur Nutzung in Smart-Contract-Berechnungen. Statt dass der Smart-Contract so funktioniert, um die Daten herauszuziehen, schiebt das Orakel die Daten auf die Blockchain. Im Falle einer Blockchain erfolgt das Lesen der Daten meistens über Abstimmungs-"Modelle", um den Blockchain-Zustand erfassen zu können und bestimmte reaktive Aktionen auszuführen.
 
 #### 3.0.4 Side-Chains
 
