@@ -31,9 +31,9 @@ Ang ika-apat na pillar ng VOLENTIX ay ang desentralisadong palitan ng VDEX, isan
 
 ## VDex
 
-VDEX is being designed as a distributed, decentralized digital- currencies exchange with emphasis on privacy user experience and community development and governance. By accessing established technologies and planning selective new protocols with priority on security, speed, authentication, ease of use, scalability, and multi-asset support, VDEX intends to facilitate peer-to-peer transactions by assembling a portfolio of decentralized applications built on EOS.IO smart contracts.
+Ang VDEX ay dinisenyo para naipapamahagi, desentralisadong mga palitan ng digital- currency na may pagdidiin sa karanasan ng gumagamit sa privacy at pag-develop ng komunidad at pamamahala. Sa pamamagitan ng pag-akses sa mga itinatag na teknolohiya at pagpaplano ng mga piniling mga bagong protokol na may prayoridad sa seguridad, bilis, pagpapatunay, madaling gamitin, kakayahang sumukat, at suporta sa multi-asset, ang VDEX ay nagnanais na mapadali ang mga transaksyong peer-to-peer sa pamamagitan ng pag-assemble ng isang porpolyo ng mga desentralisadong aplikasyon na binuo sa EOS.Ito ang mga matatalinong kontrata.
 
-For smooth and secure usability, we plan VDEX to integrate with your own personal VERTO wallet and VESPUCCI user interface. Although we expect VERTO and VDEX ultimately to be able to manage transactions involving the vast array of digital assets and blockchains extant from time to time, we are developing VENUE as a complementary adjunct primarily in order to incentivize and drive native VTX-based transactions.
+Para sa makinis at siguradong magagamit, pinaplano namin ang VDex para maisama ang iyong sariling personal na Verto na wallet at interface ng Vespucci. Bagamat inaasahan namin ang VERTO at VDEX ay magagawang pamahalaan ang mga transaksyon na kinasasangkutan ng malawak na hanay ng mga digital na asset at mga blockchain na umiiral sa pana-panahon, pinapaunlad natin ang VENUE bilang isang komplementaryong pandagdag na pangunahin upang maudyukan at makapagpatakbo ng mga katutubong transaksyon na batay sa VTX.
 
 ## MARKET SUPPLY AND DEMAND
 
