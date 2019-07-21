@@ -13,11 +13,11 @@ mga transaksyon at may kaugnayan sa karanasan.
 
 ## PAGPASOK SA MERKADO
 
-To address the prevailing market mandate, the VOLENTIX ecosystem introduces an initializing array of four digital applications, specifically known as VENUE, VERTO, VESPUCCI, and VDEX.
+Para matugunan ang nananaig na mandato sa merkado, ang ekosistema ng VOLENTIX ay nagpapakilala ng isang initializing array ng apat na digital na aplikasyon, partikular na kilala bilang VENUE, VERTO, VESPUCCI, at VDEX.
 
 ## Venue
 
-Venue is planned as a dynamic community platform that recruits and aligns members of the VOLENTIX community to facilitate distribution of the native VTX token, and to promote awareness of VOLENTIX community initiatives. An initial VENUE signature campaign is underway. Please visit <https://venue.volentix.io> for more information.
+Pinaplano ang venue bilang isang dynamic na plataporma ng komunidad na nagaanyaya at naka-align na mga miyembro ng komunidad ng VOLENTIX para mapadali ang pamamahagi ng katutubong token ng VTX, at para itaguyod ang kamalayan ng mga pagkukusa ng komunidad ng VOLENTIX. Isinasagawa ang isang inisyal na signature na kampanya ng VENUE. Para sa karagdagang impormasyon mangyaring bisitahin ang <https://venue.volentix.io>.
 
 ## Verto
 
