@@ -35,9 +35,9 @@ Ang VDEX ay dinisenyo para naipapamahagi, desentralisadong mga palitan ng digita
 
 Para sa makinis at siguradong magagamit, pinaplano namin ang VDex para maisama ang iyong sariling personal na Verto na wallet at interface ng Vespucci. Bagamat inaasahan namin ang VERTO at VDEX ay magagawang pamahalaan ang mga transaksyon na kinasasangkutan ng malawak na hanay ng mga digital na asset at mga blockchain na umiiral sa pana-panahon, pinapaunlad natin ang VENUE bilang isang komplementaryong pandagdag na pangunahin upang maudyukan at makapagpatakbo ng mga katutubong transaksyon na batay sa VTX.
 
-## MARKET SUPPLY AND DEMAND
+## SUPLAY SA MERKADO AT PANGANGAILANGAN
 
-To facilitate access to and use of the four pillars of the VOLENTIX ecosystem, we plan to issue the native utility token VTX. An initial VENUE signature campaign is underway, and we are evaluating pre-sale opportunities as well as potential terms and conditions in the event a crowdsale is authorized.
+Para mapadali ang pag-akses sa at paggamit ng apat na pillar ng ekosistema ng VOLENTIX, plano naming mag-isyu ng katutubong utility token VTX. Ang isang inisyal na kampanya ng signature ng VENUE ay isinasagawa, at sinusuri namin ang mga pagkakataon sa pre-sale pati na rin ang mga potensyal na termino at kundisyon kung ang isang crowdsale ay awtorisado.
 
 As currently conceived, an eosio.token contract from the EOS.IO framework would facilitate the issuance of 2.1 billion EOS.IO-compliant VTX tokens with a circulating supply of 1.3 billion. As a utility token, VTX envisions a diverse array of uses. For additional information, please refer to our VDEX white paper at <https://volentix.io/documentation/vdex-whitepaper.>
 
