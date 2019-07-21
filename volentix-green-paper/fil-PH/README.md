@@ -43,11 +43,11 @@ Gaya ng kasalukuyang conceived, isang kontrata ng eosio.token mula sa framework 
 
 ## SUPLAY SA MERKADO AT PANGANGAILANGAN
 
-Sa pag-iisip sa desinyong teknolohikal, sinusuri namin ang iba't ibang umiiral na (at lumalabas) na operating system. EOS.IO software stands out as exemplary. EOS.IO is an open-source, scalable infrastructure for decentralized applications. We can benefit from standard features offered by EOS.IO such as the creation of accounts and wallets, and we also plan to implement protocols for creation of the decentralized VDEX exchange through EOS contracts and other tools.
+Sa pag-iisip sa desinyong teknolohikal, sinusuri namin ang iba't ibang umiiral na (at lumalabas) na operating system. Ang software ng EOS.IO ay kapuri-puri na nakakatulong. Ang EOS.IO ay isang open-source, scalable infrastructure para sa mga desentralisadong aplikasyon. Kami ay makikinabang mula sa mga karaniwang katangian na inalok ng EOS.IO tulad ng paglikha ng mga akawnt at wallet, at plano din naming ipatupad ang mga protokol para sa paglikha ng desentralisadong palitan sa VDEX sa pamamagitan ng mga kontrata ng EOS at iba pang mga tool.
 
-We aim to make VTX and the four pillars of VOLENTIX — VENUE, VERTO, VESPUCCI, and VDEX — easily accessible to and usable by all those who wish to join our community. We plan a user interface that makes available to you relevant market data as well as your account information. We expect the experience to be enhanced by continuing education, with templates and simulators to support a superior UX/UI relationship.
+Layunin naming gawin ang VTX at ang apat na pillar ng VOLENTIX - VENUE, VERTO, VESPUCCI, at VDEX - madaling ma-aakses at magagamit ng lahat ng mga nais na sumali sa aming komunidad. Nagpaplano kami ng isang user interface na nagbibigay sa iyo ng may-katuturang datos sa merkado pati na rin ang impormasyon ng iyong akawnt. Inaasahan namin na ang karanasan ay pinahusay ng patuloy sa pag-aaral, na may mga template at simulator para suportahan ang isang superior UX/UI na relasyon.
 
-## PHILOSOPHY AND COMMITMENT
+## PILOSOPIYA AT KOMPROMISO
 
 Our guiding philosophy is one of decentralization, and our ongoing efforts are targeted to promoting a reduction in dependence on central authority. The tremendous benefit of the open-source code philosophy  
 is that every day there are announcements of fresh code developments impacting on convenient and safe trading and use of digital assets. Our premise is security and ease of operation. Prudence mandates education. The most important asset is knowledge.
