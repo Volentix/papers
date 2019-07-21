@@ -21,7 +21,7 @@ Pinaplano ang venue bilang isang dynamic na plataporma ng komunidad na nagaanyay
 
 ## Verto
 
-Verto will be a multi-currency wallet for use with the VDEX exchange, and intends to facilitate custody of private keys for use in peer-to-peer transactions. Both private and public keys will be locally managed, with the goal of eliminating the risks of devastating losses of stake associated with traumatic failures of central operators. Please read the VERTO primer by visiting <http://verto.vdex.io/>
+Ang Verto ay isang wallet ng multi-currency para sa paggamit sa VDEX na palitan, at nagnanais na mapadali ang pag-iingat ng mga pribadong key para magamit sa mga transaksyong peer-to-peer. Ang parehong pribado at pampublikong mga key ay loka na pinamamahalaan, na may layuning alisin ang mga panganib ng mga nagwawasak na pagkawala ng stake na nauugnay sa mga traumatikong pagkabigo ng mga sentral na opereytor. Mangyari na basahin ang VERTO na primer sa pagmamagitan ng pagbisita sa <http://verto.vdex.io/>
 
 ## Vespucci
 
