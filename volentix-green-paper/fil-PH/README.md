@@ -27,7 +27,7 @@ Ang Verto ay isang wallet ng multi-currency para sa paggamit sa VDEX na palitan,
 
 Ang Vespucci ay makikita bilang isang analytics engine na na-aakses sa pamamagitan ng isang user-friendly na interface na may real-time na troves na treasure ng datos ng merkado, tulad ng mga rating at sentimyento na pagsururi. Gusto naming bigyan ng kapangyarihan ang mga gumagamit ng mga tool para i-graph at ihambing ang mga tradeable na digital asset, para ma-akses at mai-parse ang mga talaan sa historikal ng kalakalan, apra magplano ng mga trend at mga pattern, at para subaybayan at suriin ang mga pag-develop ng open-source na software. Ang VESPUCCI ay naglalayong dalhin sa iyong mga kamay ang tiwala at komprehensibong datos na may kaugnayan sa merkado sa pamamagitan ng pagsasama sa impormasyon na kasalukuyang nakakalat sa maraming iba't ibang mga blockchain, websayt, chat room, at palitan. Ang aplikasyon na ito ay kasalukuyang nasa pag-develop ng aming mga kaakibat na Pythagoras System.
 
-The fourth pillar of VOLENTIX is the decentralized VDEX exchange, a tradable digital assets platform introduced in detail in our white paper available to view at [https://volentix.io/documentation/vdex-whitepaper](https://volentix.io/documentation/vdex-whitepaper/).
+Ang ika-apat na pillar ng VOLENTIX ay ang desentralisadong palitan ng VDEX, isang tradable ng mga digital asset na ipinakilala nang detalyado sa aming white paper na available para makita sa [https://volentix.io/documentation/vdex-whitepaper](https://volentix.io/documentation/vdex-whitepaper/).
 
 ## VDex
 
