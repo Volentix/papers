@@ -8,10 +8,10 @@ Tumutugma sa paghihintay sa point ng pag-launch ng VDEX sa mga kinakailangan sa 
 
 ## MANDATO SA MERKADO
 
-Sa ikalawang dekada sa simula ng paglitaw ng Bitcoin, ang marketplace ng asset ay tinukoy sa pamamagitan ng pagtaas at pagbaba na dizzying na naranasan ng isang maliit na porsyento sa pandaigdigang populasyon na kalakalan ng libu-libong mga cryptocurrencys na marami sa mga ito ay tahasang mga pandaraya. Ang mga pandaraya sa nakalipas, at obserbahan ang balyu ng mga kapani-paniwala na teknolohiya ng digital na lumilitaw sa nakalipas na sampung taon, kung isusulong natin at ipahayag ang mga teknolohiyang iyon, dapat nilang maipasok sa mainstream. Legitimate digital currencies must be used in broad commerce. And the primary focus of digital assets proliferation must be to simplify and enrich user experience. The choices of which existing technologies to employ and which unavailable technologies to develop must be driven by comfort, certainty, and security of user  
-transactions and related experiences.
+Sa ikalawang dekada sa simula ng paglitaw ng Bitcoin, ang marketplace ng asset ay tinukoy sa pamamagitan ng pagtaas at pagbaba na dizzying na naranasan ng isang maliit na porsyento sa pandaigdigang populasyon na kalakalan ng libu-libong mga cryptocurrencys na marami sa mga ito ay tahasang mga pandaraya. Ang mga pandaraya sa nakalipas, at obserbahan ang balyu ng mga kapani-paniwala na teknolohiya ng digital na lumilitaw sa nakalipas na sampung taon, kung isusulong natin at ipahayag ang mga teknolohiyang iyon, dapat nilang maipasok sa mainstream. Ang mga lehitimong digital na mga currency ay dapat gamitin sa malawak na komersiyo. At ang pangunahing pokus sa paglaganap ng mga digital na asset ay dapat na gawing simple at mapagbuti ang karanasan ng gumagamit. Ang mga pagpipilian kung ano ang umiiral na mga teknolohiya para magamit at kung saan hindi magagamit ang mga teknolohiya para bumuo ay dapat na hinihimok ng ginhawa, katiyakan, at seguridad ng gumagamit  
+mga transaksyon at may kaugnayan sa karanasan.
 
-## MARKET ENTRY
+## PAGPASOK SA MERKADO
 
 To address the prevailing market mandate, the VOLENTIX ecosystem introduces an initializing array of four digital applications, specifically known as VENUE, VERTO, VESPUCCI, and VDEX.
 
