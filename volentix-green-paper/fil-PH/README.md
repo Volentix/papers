@@ -39,11 +39,11 @@ Para sa makinis at siguradong magagamit, pinaplano namin ang VDex para maisama a
 
 Para mapadali ang pag-akses sa at paggamit ng apat na pillar ng ekosistema ng VOLENTIX, plano naming mag-isyu ng katutubong utility token VTX. Ang isang inisyal na kampanya ng signature ng VENUE ay isinasagawa, at sinusuri namin ang mga pagkakataon sa pre-sale pati na rin ang mga potensyal na termino at kundisyon kung ang isang crowdsale ay awtorisado.
 
-As currently conceived, an eosio.token contract from the EOS.IO framework would facilitate the issuance of 2.1 billion EOS.IO-compliant VTX tokens with a circulating supply of 1.3 billion. As a utility token, VTX envisions a diverse array of uses. For additional information, please refer to our VDEX white paper at <https://volentix.io/documentation/vdex-whitepaper.>
+Gaya ng kasalukuyang conceived, isang kontrata ng eosio.token mula sa framework ng EOS.IO ay mapadali ang pagpapalabas ng 2.1 bilyon na EOS.IO na mga sumusunod sa VTX token na may nagpapaikot ng suplay na 1.3 bilyon. Bilang isang utility token, tinutukoy ng VTX ang magkakaibang hanay ng mga paggamit. Para sa karagdagang impormasyon, mangyaring i-refer sa aming white paper ng VDEX sa <https://volentix.io/documentation/vdex-whitepaper.>
 
-## MARKET SUPPLY AND DEMAND
+## SUPLAY SA MERKADO AT PANGANGAILANGAN
 
-In contemplating technological design, we have evaluated various existing (and emerging) operating systems. EOS.IO software stands out as exemplary. EOS.IO is an open-source, scalable infrastructure for decentralized applications. We can benefit from standard features offered by EOS.IO such as the creation of accounts and wallets, and we also plan to implement protocols for creation of the decentralized VDEX exchange through EOS contracts and other tools.
+Sa pag-iisip sa desinyong teknolohikal, sinusuri namin ang iba't ibang umiiral na (at lumalabas) na operating system. EOS.IO software stands out as exemplary. EOS.IO is an open-source, scalable infrastructure for decentralized applications. We can benefit from standard features offered by EOS.IO such as the creation of accounts and wallets, and we also plan to implement protocols for creation of the decentralized VDEX exchange through EOS contracts and other tools.
 
 We aim to make VTX and the four pillars of VOLENTIX — VENUE, VERTO, VESPUCCI, and VDEX — easily accessible to and usable by all those who wish to join our community. We plan a user interface that makes available to you relevant market data as well as your account information. We expect the experience to be enhanced by continuing education, with templates and simulators to support a superior UX/UI relationship.
 
