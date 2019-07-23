@@ -60,7 +60,7 @@ Vespucci תוכנן תחת העקרונות הבאים.
 * אינטואיטיבי
 * ####**איך VESPUCCI עובד**
 
-שלושת עמודי התווך מתוארים בסעיפים הבאים. בסעיפים אלו מצוינים מספר רב של קריטריונים. The results of the SA component is made available along with the Technical and FTA results to the users so they can access a complete 360 view of each coin’s state, rank and ultimately understand the coin’s true value and potential. ‪An evaluation of both established cryptocurrencies and known “scam-coins” is performed, and the resulting parameters deemed most relevant in determining cryptocurrency validity is integrated into the system.
+שלושת עמודי התווך מתוארים בסעיפים הבאים. בסעיפים אלו מצוינים מספר רב של קריטריונים. התוצאות של רכיב ה-SA מתקבלות יחד עם התוצאות הטכניות וה-FTA למשתמשים בכדי שיוכלו לקבל גישה לתצוגת 360 מלאה של כל מצב מטבע, דירוג, ובסופו של דבר להבין את הערך האמיתי של המטבע והפוטנציאל שלו. ‪An evaluation of both established cryptocurrencies and known “scam-coins” is performed, and the resulting parameters deemed most relevant in determining cryptocurrency validity is integrated into the system.
 
 In order to test Vespucci in a semi-public release using prospective volunteers, the system is being introduced to various outside users for bug testing of the assessment system functions, and the UI. ‬‪It is carried out in a public setting through the organization of a closed beta release. Users are selected to allow for more constructive and relevant feedback information.‬ ‪An ongoing iterative process of tweaks, fixes, and adjustments will take place during the beta release from the insight derived from user feedback.‬
 
@@ -263,8 +263,8 @@ Technical analysts believe the analysis of price movement or the supply and dema
 1. Tenkan-sen: מציג רמות תמיכה והתנגדות, כמו כן גם קו איתות להיפוכים.
 2. Kijun-sen: מציג רמות תמיכה והתנגדות. זהו אישור של שינוי מגמה, וניתן להשתמש בו כנקודת עצירה למניעת הפסד.
 3. Senkou Span A: Is the average of tenkan-sen and kijun-sen for 26 periods ahead. השורה המתקבלת משמשת לזיהוי שטחים עתידיים של תמיכה והתנגדות.
-4. Senkou Span B: Is calculated by the highest high and the lowest low over the past 52 periods, for 26 periods ahead. השורה המתקבלת משמשת לזיהוי שטחים עתידיים של תמיכה והתנגדות.
-5. Chickou Span: Is the current period’s closing price plotted 26 days back on the chart. שורה זו משמשת לייצוג שטחים עתידיים של תמיכה והתנגדות.
+4. Senkou Span B: מחושב על-פי הרמה הגבוהה ביותר והשפל הנמוך ביותר ב52 התקופות האחרונות, למשך 26 תקופות קדימה. השורה המתקבלת משמשת לזיהוי שטחים עתידיים של תמיכה והתנגדות.
+5. Chickou Span: מחיר הסגירה של התקופה הנוכחית התווה 26 ימים לפני התרשים. שורה זו משמשת לייצוג שטחים עתידיים של תמיכה והתנגדות.
 
 * #### ** ניתוח טכנולוגי ויסודי**
 
