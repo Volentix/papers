@@ -279,13 +279,13 @@ Technical analysts believe the analysis of price movement or the supply and dema
 * מיסי העברות, אשר משתמשים עלולים לשלם לרשת, על מנת להשלים העברות או חוזים חכמים.
 * הביטחון כולל כמה היבטים כגון רגישות של המערכת להתקפות ( לדוגמא בזבוז כפול, התקפות Sybil), פרטיות העסקאות, כמו כן גם אנונימיות המשתמש.
 * מדרגיות נוגעת להשפעה של מספר צמתי-רשת, העברות ומשתמשים, ופיזור המיקום הגאוגרפי של הצמתים, על ביצועי המערכת.
-* Hardware requirements for storage, memory and processors needed to store the blockchain network and validate the transactions and blocks, as well as how these requirements change while the networks grows.
+* דרישות חומרה לאחסון, זיכרון ומעבדים הדרושים לאחסון רשת הבלוקצ'יין ולאימות טרנזקציות ובלוקים, כמו גם כיצד דרישות אלה משתנות בזמן שהרשתות גדלות.
 
-בכדי להטמיע את הניתוח הנ"ל, פרטים נוספים ניתנים בחלק הבא. כיום, blockchain explorers" זמינים באופן נרחב על מנת לתמוך במשימה זו. במיוחד, "blockchain explorers" כגון [coinmetrics](https://coinmetrics.io/) ו[cryptocompare](https://www.cryptocompare.com/) שולבו על מנת לענות על הצרכים של FTA. The former is an open source crypto-asset analytics service, providing daily data for the most major cryptocurrencies (about 64 currently). "Cryptocompare" הוא פלטפורמה עם נתוני מידע של מטבעות-קריפטו בזמן אמת; הAPI שלו מאפשר גישה לנתוני יתרות דיגיטליות היסטוריות ועדכניות, כמו מחיר, היקף ונתוני "block explorer" מ"חלפני כספים" ובלוקצ'יינים רבים.
+בכדי להטמיע את הניתוח הנ"ל, פרטים נוספים ניתנים בחלק הבא. כיום, blockchain explorers" זמינים באופן נרחב על מנת לתמוך במשימה זו. במיוחד, "blockchain explorers" כגון [coinmetrics](https://coinmetrics.io/) ו[cryptocompare](https://www.cryptocompare.com/) שולבו על מנת לענות על הצרכים של FTA. הקודם הינו שירות ניתוח הצפנה בקוד פתוח, המספק נתונים יומיים למטבעות-הקריפטו המרכזיים ביותר (כרגע בסביבות ה-64) "Cryptocompare" הוא פלטפורמה עם נתוני מידע של מטבעות-קריפטו בזמן אמת; הAPI שלו מאפשר גישה לנתוני יתרות דיגיטליות היסטוריות ועדכניות, כמו מחיר, היקף ונתוני "block explorer" מ"חלפני כספים" ובלוקצ'יינים רבים.
 
-Among others, some of the features available by both APIs are:
+בין היתר, חלק מהתכונות הזמינות על ידי שני ה-APIs הינם:
 
-* transaction count – number of transactions happening on the public blockchain a day
+* ספירת העברות - מספר ההעברות שמתרחשות על רשת הבלוקצ'יין הציבורי כל יום.
 * transaction volume (usd) – total value of outputs on the blockchain, on a given day
 * adjusted transaction volume (usd) – estimated ([https://coinmetrics.io/introducing-adjusted-estimates](https://coinmetrics.io/introducing-adjusted-estimates/))
 * מונה תשלומים
