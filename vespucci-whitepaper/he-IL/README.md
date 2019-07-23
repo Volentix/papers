@@ -62,7 +62,7 @@ Vespucci תוכנן תחת העקרונות הבאים.
 
 שלושת עמודי התווך מתוארים בסעיפים הבאים. בסעיפים אלו מצוינים מספר רב של קריטריונים. התוצאות של רכיב ה-SA מתקבלות יחד עם התוצאות הטכניות וה-FTA למשתמשים בכדי שיוכלו לקבל גישה לתצוגת 360 מלאה של כל מצב מטבע, דירוג, ובסופו של דבר להבין את הערך האמיתי של המטבע והפוטנציאל שלו. ‪An evaluation of both established cryptocurrencies and known “scam-coins” is performed, and the resulting parameters deemed most relevant in determining cryptocurrency validity is integrated into the system.
 
-In order to test Vespucci in a semi-public release using prospective volunteers, the system is being introduced to various outside users for bug testing of the assessment system functions, and the UI. ‬‪It is carried out in a public setting through the organization of a closed beta release. Users are selected to allow for more constructive and relevant feedback information.‬ ‪An ongoing iterative process of tweaks, fixes, and adjustments will take place during the beta release from the insight derived from user feedback.‬
+על מנת לבדוק את Vespucci בגרסה למחצה-ציבורית באמצעות מתנדבים פוטנציאליים, המערכת מוצגת בפני משתמשים חיצוניים שונים עבור בדיקות באג של פונקציות מערכת ההערכה וממשק המשתמש. ‬‪It is carried out in a public setting through the organization of a closed beta release. Users are selected to allow for more constructive and relevant feedback information.‬ ‪An ongoing iterative process of tweaks, fixes, and adjustments will take place during the beta release from the insight derived from user feedback.‬
 
 * ### **עמודי תווך**
 
