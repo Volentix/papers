@@ -254,17 +254,17 @@ Technical analysts believe the analysis of price movement or the supply and dema
 
 ** תוספי פיבונאצ'י:** הם כלים פופולאריים לחיזוי, המשמשים לעתים קרובות בשילוב עם דפוסים טכניים תרשימיים אחרים. סוחרים רבים משתמשים בטכניקה זו בשילוב עם מחקרים מבוססי-גלים (Elliott Wave, Wolfe Wave) בכדי להעריך את את הגובה של כל גל ולהגדירו. הם משמשים בדרך כלל עם תבניות תרשים אחרות, כגון משולש עולה (ascending triangle). Once the pattern is identified, a forecast can be created by adding 61.8% of the distance between the upper resistance and the base of the triangle to the entry price.
 
-**אשכולות פיבונאצ'י:** אשכול הפיבונאצ'י הוא שיא של נסיגות פיבונאצ'י מגבהים ומורדות משמעותיים שונים במהלך תקופת זמן נתונה. Each of these Fibonacci levels is then plotted on the “Y” axis (price). Each overlapping retracement level makes a darker shade on the cluster – the darker the cluster is, the more significant the support or resistance level tends to be. This technique can be used in conjunction with other Fibonacci techniques or chart patterns to confirm support and resistance levels.
+**אשכולות פיבונאצ'י:** אשכול הפיבונאצ'י הוא שיא של נסיגות פיבונאצ'י מגבהים ומורדות משמעותיים שונים במהלך תקופת זמן נתונה. Each of these Fibonacci levels is then plotted on the “Y” axis (price). כל רמת נסיגה חופפת לשניה מקבלת גוון כהה יותר לאשכול – כאשר האשכול כהה יותר, כך רמת התמיכה או ההתנגדות נוטה להיות יותר משמעותית. טכניקה זו ניתנת לשילוב עם טכניקות פיבונאצ'י אחרות או דפוסים תרשימיים בכדי לאשר רמות תמיכה והתנגדות.
 
-**Fibonacci Channels:** The Fibonacci pattern can be applied to channels not only vertically, but also diagonally. One common technique is the combination of diagonal and vertical Fibonacci studies to find areas where both indicate significant resistance.
+**ערוצי פיבונאצ'י:** דפוס פיבונאצ'י ניתן להחיל על ערוצים לא רק באופן אנכי, אלא גם באלכסון. טכניקה נפוצה אחת היא שילוב לימודי האלכסון והאנכיות של פיבונאצ'י בכדי למצוא אזורים ששניהם מצביעים על התנגדות משמעותית.
 
 **Ichimoku Kinko Hyo** הינו אינדיקטור טכני אשר משמש בכדי לאמוד את המומנטום, יחד עם אזורים עתידיים של תמיכה והתנגדות. במקור פותח ע"י עיתונאי יפני בשביל לאגד אסטרטגיות טכניות מרובות בתוך אינדיקטור יחיד שאפשר להטמיע ולפרש בקלות. אינדיקטור הIchimoku הוא שילוב של חמישה מרכיבים מרכזיים:
 
 1. Tenkan-sen: מציג רמות תמיכה והתנגדות, כמו כן גם קו איתות להיפוכים.
-2. Kijun-sen: מציג רמות תמיכה והתנגדות. It’s a confirmation of a trend change, and can be used as a trailing stop-loss point.
-3. Senkou Span A: Is the average of tenkan-sen and kijun-sen for 26 periods ahead. The resulting line is used to identify future areas of support and resistance.
-4. Senkou Span B: Is calculated by the highest high and the lowest low over the past 52 periods, for 26 periods ahead. The resulting line is used to identify future areas of support and resistance.
-5. Chickou Span: Is the current period’s closing price plotted 26 days back on the chart. This line is used to show possible areas of support and resistance.
+2. Kijun-sen: מציג רמות תמיכה והתנגדות. זהו אישור של שינוי מגמה, וניתן להשתמש בו כנקודת עצירה למניעת הפסד.
+3. Senkou Span A: Is the average of tenkan-sen and kijun-sen for 26 periods ahead. השורה המתקבלת משמשת לזיהוי שטחים עתידיים של תמיכה והתנגדות.
+4. Senkou Span B: Is calculated by the highest high and the lowest low over the past 52 periods, for 26 periods ahead. השורה המתקבלת משמשת לזיהוי שטחים עתידיים של תמיכה והתנגדות.
+5. Chickou Span: Is the current period’s closing price plotted 26 days back on the chart. שורה זו משמשת לייצוג שטחים עתידיים של תמיכה והתנגדות.
 
 * #### ** ניתוח טכנולוגי ויסודי**
 
