@@ -47,12 +47,12 @@ Vespucci מציע פלטפורמה מבוססת-רשת אשר תאפשר למש�
 * עיצוב מודולרי אשר מציע יכולת הרחבה של הפלטפורמה ליישומים אחרים, כגון חוזים חכמים.
 * אבטחה: מקורות מידע על בלוקצ'יין VLabs) EOS)
 * יכולת דיוק גבוהה באמצעות שיטות הערכה מתקדמות, בינה ממלאכותית, ולמידה עמוקה
-* Intuitive algorithms, possibility for weighs given by user, Post-processing for humans.
+* אלגוריתמים אינטואיטיביים, אפשרות לשוקלים ניתנה על ידי המשתמש, לאחר עיבוד עבור בני אדם.
 * ####**עקרונות**
 
 Vespucci תוכנן תחת העקרונות הבאים.
 
-* Objective in order not to risk compromising the Volentix DAO goodwill before it is established beyond any doubt
+* אובייקטיביות למטרה של אי סיכון בפגיעה ברצון הטוב של Volentix DAO לפני שהיא נוצרת מעבר לכל ספק
 * אוטומטי
 * בעל דרישה
 * הטמעה מבוזרת
@@ -62,7 +62,7 @@ Vespucci תוכנן תחת העקרונות הבאים.
 
 שלושת עמודי התווך מתוארים בסעיפים הבאים. בסעיפים אלו מצוינים מספר רב של קריטריונים. התוצאות של רכיב ה-SA מתקבלות יחד עם התוצאות הטכניות וה-FTA למשתמשים בכדי שיוכלו לקבל גישה לתצוגת 360 מלאה של כל מצב מטבע, דירוג, ובסופו של דבר להבין את הערך האמיתי של המטבע והפוטנציאל שלו. ‪An evaluation of both established cryptocurrencies and known “scam-coins” is performed, and the resulting parameters deemed most relevant in determining cryptocurrency validity is integrated into the system.
 
-על מנת לבדוק את Vespucci בגרסה למחצה-ציבורית באמצעות מתנדבים פוטנציאליים, המערכת מוצגת בפני משתמשים חיצוניים שונים עבור בדיקות באג של פונקציות מערכת ההערכה וממשק המשתמש. ‬‪It is carried out in a public setting through the organization of a closed beta release. Users are selected to allow for more constructive and relevant feedback information.‬ ‪An ongoing iterative process of tweaks, fixes, and adjustments will take place during the beta release from the insight derived from user feedback.‬
+על מנת לבדוק את Vespucci בגרסה למחצה-ציבורית באמצעות מתנדבים פוטנציאליים, המערכת מוצגת בפני משתמשים חיצוניים שונים עבור בדיקות באג של פונקציות מערכת ההערכה וממשק המשתמש. ההליך מתבצע במסגרת ציבורית באמצעות ארגון שחרור הביתא הסגור. משתמשים נבחרים להביא מידע משוב בונה ורלבנטי יותר. תהליך איטרטיבי מתמשך של שדרוגים, תיקונים והתאמות יתקיים במהלך שחרור הביתא מהתובנה הנגזרת של משוב המשתמש.
 
 * ### **עמודי תווך**
 
@@ -74,7 +74,7 @@ Vespucci תוכנן תחת העקרונות הבאים.
 
 רכיב הSA של Vespucci נבנה בגישה של שלבים. השלב הראשון כולל את הטמעת המנגנון לעיבוד נתוני מידע רבים (Big Data), המבוסס על ענן מרכזי ומדרגי. מנגנון זה יכול להאזין בצורה ממושכת למקורות נתוני המידע שהוזכרו לעיל, ובאפשרותו לעבד כל תוכן/הודעה אשר רלוונטי לכל סוג של מטבע-קריפטו. הוא אינו משתמש באחסון מתמיד. The same mechanism scores the Sentiment of the ingested content using an AI driven score function and text analytics libraries for analyzing social media content. The module also relies on further tools such as NTLK and TextBlob that assign numerical scores of sentiment to pieces of text. תהליך זה אמור להיות נראה למשתמש.
 
-This ensures that Vespucci SA component is able to cover the vast majority of public opinion. Results are compared over periods of one hour, one day and one week. The outputs are available through APIs for internal use by other Vespucci components such as the front-end web UI as well as to external users that want to consume the data or build third-party applications based on Vespucci.
+This ensures that Vespucci SA component is able to cover the vast majority of public opinion. התוצאות מושוות על-גבי תקופות של שעה אחת, יום אחד ושבוע אחד. התפוקות זמינות באמצעות ממשקי Api לשימוש פנימי על-ידי רכיבי Vespucci אחרים כגון ממשק המשתמש החזיתי, כמו כן גם למשתמשים חיצוניים המעוניינים לצרוך את הנתונים או לבנות יישומי צד שלישי המבוססים על Vespucci.
 
 Vespucci’s public opinion listeners run on cloud-based VMs that are able to instantly scale-out to address all potential workloads. This way Vespucci handles and ingests the massive, yet valuable, data volumes related to cryptocurrencies that are being generated at every given moment. Parallelization is key when handling Big Data and Vespucci’s architecture leverages parallelization, multi-threading and concurrency wherever possible. Micro-services and serverless code run in parallel to orchestrate the ingestion procedures and data flows.
 
