@@ -78,15 +78,15 @@ Vespucci תוכנן תחת העקרונות הבאים.
 
 Vespucci’s public opinion listeners run on cloud-based VMs that are able to instantly scale-out to address all potential workloads. בדרך זו, Vespucci מטפל ומעבד את אמצעי האחסון המסיביים, אך יקרי-הערך, הקשורים לסוגי מטבעות-קריפטו הנוצרים בכל רגע נתון. מקבילות היא המפתח בעת טיפול במידע מסיבי וארכיטקטורה ממנפת מקבילות של ווספוצ'י, בשל ריבוי הליכים משתפים ומשניים בכל מקום אפשרי. שירותי-מיקרו וקודים ללא-שרת רצים במקביל על מנת לתכנן את הליכי העיבוד וזרימות הנתונים.
 
-בשלב השני, כלי ניקוד עוברים תהליך התאמה ושיפור בכדי למקד את הפונקציונליות שלהם במטבעות-קריפטו, אשר בסופו של דבר יביא לפיתוח התוכנה שלנו תחת משימה זו. יתר על כן, חלק מן האחסון משמש ( ראה חלק</a> רלוונטי) עבור צבור נתונים הדרושים בכדי (א) לבצע השוואות היסטוריות (ב) להכשיר את הרשת העצבית הסובבת האשר מייצרת את התוצאה הסופית. על פי כן (א), נוכל לעשות שימוש בהיסטוריה של כל אסימון מאז היווצרותו. For (b), deep learning needs data covering a period of up to two years.</p> 
+בשלב השני, כלי ניקוד עוברים תהליך התאמה ושיפור בכדי למקד את הפונקציונליות שלהם במטבעות-קריפטו, אשר בסופו של דבר יביא לפיתוח התוכנה שלנו תחת משימה זו. יתר על כן, חלק מן האחסון משמש ( ראה חלק</a> רלוונטי) עבור צבור נתונים הדרושים בכדי (א) לבצע השוואות היסטוריות (ב) להכשיר את הרשת העצבית הסובבת האשר מייצרת את התוצאה הסופית. על פי כן (א), נוכל לעשות שימוש בהיסטוריה של כל אסימון מאז היווצרותו. בנוסף (ב), למידה עמוקה זקוקה לנתונים המכסים תקופה של עד כשנתיים.</p> 
 
-Eventually, Vespucci will reach out to the open-source community in an attempt to make the platform decentralized to a great degree . The intention is to decentralize the data ingestion and sentiment scoring functionality in order to provide secure, community led, unbiased and credible results.
+בסופו של דבר, Vespucci יבוא אל קהילת הקוד הפתוח בניסיון להפוך את הפלטפורמה למבוזרת במידה רבה. הכוונה הינה לבצע ביזור של פונקציונליות ניקוד הרגשי ועיבוד נתוני, בכדי לספק תוצאות בטוחות, אמינות המובלות על-ידי הקהילה.
 
 ![](https://volentix.io/file/2019/01/a.jpg)
 
-By leveraging Python’s Machine learning framework, and given the language’s advantages, it is only natural for this module to be implemented in Python. It interfaces with particular machine learning libraries such as Scikit-learn, TensorFlow, CNTK, Torch, Theano, and Keras.
+By leveraging Python’s Machine learning framework, and given the language’s advantages, it is only natural for this module to be implemented in Python. הוא מתנהל עם ספריות למידה מסוימות של למידה ממוחשבת של Scikit-learn, TensorFlow, CNTK, Torch, Theano, וKeras.
 
-‪A user experience linking to the cryptocurrency’s public community forum is developed to provide up to date announcements and statistics of community activity. The final score can be derived as a scoring function. Eventually, machine learning techniques are applied to deliver real-time sentiment analysis.‬
+חוויית משתמש שמקושרת אל הפורום הציבורי של מטבעות-קריפטו נמצאת תחת פיתוח בכדי לספק הודעות עדכניות וסטטיסטיקות של פעילות קהילתית. הציון הסופי ניתן לגזירה כפונקצית ניקוד. טכניקות לימוד ממוחשבות מוחלות על מנת לספק ניתוח סנטימנטליות בזמן אמת
 
 <table>
   <tr>
@@ -238,7 +238,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 ניתוח טכני הוא כלי מסחר הנועד להעריך [ אבטחות](https://www.investopedia.com/terms/s/security.asp) ולזהות הזדמנויות מסחריות ע''י ניתוח סטטיסטיקות שנאספו מפעילות מסחרית, כגון תנודות מחיר וכמות. לא כמו מנתחים יסודיים אשר מטרתם היא להעריך ערך פנימי מסוים לביטחון, [ מנתחים טכניים](https://www.investopedia.com/terms/t/technical-analyst.asp) מתרכזים בטבלאות של תנודות מחירים ומגוון כלים אנליטיים הנועדו להעריך חולשות או את חוזקות הביטחון. מקור אופייני יכול להיות **coinmarketcap**. אנו מתרכזים באינדיקטורים ושיטות המתאימות בעבור נכסים בעלי תנודתיות גבוהה במחירים, ולכן זה מתאים גם בעבור מטבעות-קריפטו.
 
-Technical analysts believe the analysis of price movement or the supply and demand of currencies is the best way to identify trends in the currency. Price movements tend to trade within a trend or range. In connection with this belief, technical analysts assume that history tends to repeat itself, based on the idea that market participants have often reacted in a similar fashion to reoccurring market events. There is a very large number of techniques and indices for data analysis. In this section, we focus on certain simple techniques, such as Keltner Channels , moving average crossovers, RSI, Bollinger Bands, and the popular MACD, and to some advanced methods, such as Fibonnaci, and Ichimoku Kinko Hyo.
+אנליסטים טכניים רבים מאמינים כי הניתוח של תנועת המחירים או ההיצע והביקוש למטבעות היא הדרך הטובה ביותר לזיהוי מגמות תזוזה במטבע. תנועת מחירים נוטה לקרות בתוך מגמה או טווח. In connection with this belief, technical analysts assume that history tends to repeat itself, based on the idea that market participants have often reacted in a similar fashion to reoccurring market events. There is a very large number of techniques and indices for data analysis. In this section, we focus on certain simple techniques, such as Keltner Channels , moving average crossovers, RSI, Bollinger Bands, and the popular MACD, and to some advanced methods, such as Fibonnaci, and Ichimoku Kinko Hyo.
 
 * Keltner Channels put an upper, middle and lower band around the price action on a stock chart. The indicator is most useful in strongly [trending markets](https://www.investopedia.com/terms/t/trending-market.asp) when the price is making higher highs and higher lows for an [uptrend](https://www.investopedia.com/terms/u/uptrend.asp), or lower highs and lower lows for a [downtrend](https://www.investopedia.com/terms/d/downtrend.asp).
 
