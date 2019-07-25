@@ -324,7 +324,7 @@ Vespucci תוכנן תחת העקרונות הבאים.
 * "הרשימה הלבנה המקבילה".
 * העקרונות המתמטיות והקריפטוגרפיות של המערכת.
 
-More specifically, some features of the git repositories that determine the repository’s popularity and robustness are its forks and stars, the activity of the maintenance team, measured by the rate of issues closed and of pull requests, as well as the quality of the project’s source code, measured by its test coverage and other code quality metrics. את אלו ניתן להשיג מ[CoinGecko](https://www.coingecko.com/en) API, אפליקציית תרשים דירוגי של מטבעות-קריפטו אשר מדרג יתרות דיגיטליות על סמך פעילות המפתח, קהילה ונזילות המטבע.
+ליתר דיוק, תכונות מסוימות של מאגרי ה-"git" הקובעים את הפופולריות והחוסן של המאגר הם ה"forks" וה"כוכבים", פעילות צוות התחזוקה, הנמדדת על פי תדירות הבעיות שנסגרו ובקשות משיכה, כמו גם איכות קוד המקור של הפרוייקט, הנמדד על ידי מכסה-מבחן ומדדי איכות קוד אחרים. את אלו ניתן להשיג מ[CoinGecko](https://www.coingecko.com/en) API, אפליקציית תרשים דירוגי של מטבעות-קריפטו אשר מדרג יתרות דיגיטליות על סמך פעילות המפתח, קהילה ונזילות המטבע.
 
 השילוב של קריטריונים אלה מסתמך על פונקציית ניקוד מותאמת וחזקה אשר, בסופו של דבר, עשויה להיות מוחלפת ע"י רשת עצבית , מה שגם נלקח בחשבון בהסתמך על ניתוח רגשי ( ראה חלק רלוונטי).
 
