@@ -1,19 +1,32 @@
-# Volentix Papers
+# volentix-papers
 
-(c) 2019 Volentix, Inc.  All rights reserved
+[![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-This repository contains the LaTeX source code for the Volentix papers. The
-instructions to clone the repository and build the PDF using pandoc are
-described below.
+> This repository contains the LaTeX source code for the Volentix papers.
 
-## Translation Guide
-
-[![Crowdin](https://d322cqt584bo4o.cloudfront.net/volentix-papers/localized.svg)](https://crowdin.com/project/volentix-papers)
+This repository is to host the files for the translation of the vaious papers into languages other than english. It is bound to the bounty platform hosted by [![Crowdin](https://d322cqt584bo4o.cloudfront.net/volentix-papers/localized.svg)](https://crowdin.com/project/volentix-papers) and follows its conventions.
 
 If you want to add new language, review/update existing translation or help to finish specific translations, you can join and do that by following link:
 https://crowdin.com/project/volentix-papers
 
-## Fast Build
+Note that this repo is ephemeral and will be moved to the [documentation](https://github.com/volentix/documentation) repo once it is complete.
+
+## Table of Contents
+
+* [Install](#install)
+    + [OSX](#osx)
+    + [Docker Already Installed, Linux](#docker-already-installed-linux)
+    + [Manual Build](#manual-build)
+  * [Usage](#usage)
+    + [Compile Images](#compile-images)
+    + [Build PDF](#build-pdf)
+  * [Maintainers](#maintainers)
+  * [Contribute](#contribute)
+  * [License](#license)
+
+## Install
+
+The following are the installation instructions for the various platforms available.
 
 ### OSX
 
@@ -31,19 +44,19 @@ https://crowdin.com/project/volentix-papers
 * `docker build -t Volentix/papers .`
 * `docker run Volentix/papers/vdex-whitepaper/en-US/ > vdex-whitepaper.pdf`
 
-## Manual Build
+### Manual Build
 
 Currently the manual build instructions are for Ubuntu 16.04 or higher but
 may successfully build on other distributions. Pull requests to update the
 papers will be gladly accepted and reviewed.
-
-### Install Packages
 
 ```bash
 sudo apt-get update
 sudo apt install -y texlive-xetex pandoc python3-pip graphviz imagemagick
 pip3 install matplotlib
 ```
+
+## Usage
 
 ### Compile Images
 
@@ -64,3 +77,19 @@ pandoc README.md --pdf-engine=xelatex -o vdex-whitepaper.pdf
 ```
 
 After building, the pdf file will be output to `vdex-whitepaper.pdf`.
+
+## Maintainers
+
+[@gregory.luneau@gmail.com](https://github.com/gregory.luneau@gmail.com)
+
+## Contribute
+
+See [the contribute file](.github/CONTRIBUTING.md)!
+
+PRs accepted.
+
+Small note: If editing the README, please conform to the [standard-readme](https://github.com/RichardLitt/standard-readme) specification.
+
+## License
+
+MIT © 2019 Volentix Labs Inc.
