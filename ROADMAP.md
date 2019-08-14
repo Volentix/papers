@@ -1,4 +1,4 @@
-# Verto Roadmap
+# Roadmap
 
 This document outlines the development plan from a high level and will be updated as the project progresses. It should be noted that this roadmap applies only to the Verto software and not to the other tools and utilities such as vDex which will have their own teams and dedicated roadmaps.
 
