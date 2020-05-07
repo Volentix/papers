@@ -1,20 +1,20 @@
 # THE VOLENTIX VDEX WHITE PAPER
 
-- Version: 0.1.4
-- Updated: 11-03-2019
-- Website: www.volentix.io
+- Versiya: 0.1.4
+- Yeniləndi: 11-03-2019
+- Veb sayt: www.volentix.io
 
-## 1. INTRODUCTION
+## 1. GİRİŞ
 
-Volentix introduces VDex, designed as a distributed, decentralized digital assets exchange with emphasis on user experience and community development and governance. By accessing established technologies and planning selective new protocols with priority on security, speed, authentication, ease of use, scalability, and multi-asset support, VDex intends to facilitate peer-to-peer transactions by assembling a portfolio of decentralized applications built on EOS.IO smart contracts.
+Volentix, istifadəçi təcrübəsi, cəmiyyətin inkişafı və idarə edilməsinə diqqət edilərək paylaşdırılmış, mərkəzləşdirilməmiş bir rəqəmsal mülk mübadiləsi olaraq dizany edilmiş VDex-i təqdim edir. Vdex, quraşdırılmış texnologiyalara müraciət edərək və təhlükəsizlik, sürət, kimlik təsdiqləmə, istifadə rahatlığı, hesablana bilmə və çoxlu mülk dəstəyi mövzularında prioritetlə seçici yeni protokollar planlayaraq, EOS.IO ağıllı müqavilələri əsasında qurulmuş mərkəzləşdirilməmiş tətbiqetmə portfolio yaradaraq cütlər arası köçürmələri asanlaşdırmaq məqsədindədir.
 
-The VDex launch point anticipates matching Volentix's design requirements to available technologies superimposed on the EOS.IO decentralized operating system. We intend to test our assumptions by prototyping via custom EZEOS software, which we built and customized with EOS.IO's cleos command line tools. This software resides at: https://github.com/Volentix/ezeos
+Vdex başlanğıc nöqtəsi, Volentix-in dizayn tələblərini mərkəzləşdirilməmiş EOS.IO əməliyyat sistemində olan mövcud texnologiyalarla uyğunlaşdırmağı hədəfləyir. Ehtimallarımızı, EOS.IO-nun cleos əmr sətri alətləri ilə yaradıb özəlləşdirdiyimiz fərdi EZEOS proqram təminatı vasitəsilə prototipləyərək sınaqdan keçirmək niyyətindəyik. Bu proqram təminatı buradadır: https://github.com/Volentix/ezeos
 
 ![](../main3-3000px.jpg)
 
 ## 2. VOLENTIX
 
-The Volentix ecosystem will exist atop four pillars, an initializing array of applications specifically known as Venue, Verto, Vespucci, and VDex.
+Volentix ekosistemi, xüsusilə Venue, Verto, Vespucci və VDex kimi bilinən bir sıra tətbiqetmələr başladan dörd sütunun üzərində olacaq.
 
 ### 2.1 VENUE
 
