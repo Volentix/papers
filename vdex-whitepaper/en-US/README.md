@@ -10,7 +10,7 @@ Volentix introduces VDex, designed as a distributed, decentralized digital asset
 
 The VDex launch point anticipates matching Volentix's design requirements to available technologies superimposed on the EOS.IO decentralized operating system. We intend to test our assumptions by prototyping via custom EZEOS software, which we built and customized with EOS.IO's cleos command line tools. This software resides at: https://github.com/Volentix/ezeos
 
-![](../main3-3000px.jpg)
+![](https://github.com/Volentix/papers/blob/master/vdex-whitepaper/main3-3000px.jpg)
 ## 2. VOLENTIX
 
 The Volentix ecosystem will exist atop four pillars, an initializing array of applications specifically known as Venue, Verto, Vespucci, and VDex.
