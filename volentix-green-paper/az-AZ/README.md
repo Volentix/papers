@@ -1,12 +1,12 @@
-# Volentix Green Paper
+# Volentix Yaşıl Sənədi
 
-## INTRODUCTION
+## GİRİŞ
 
-Volentix introduces VDex, designed as a distributed, decentralized digital assets exchange with emphasis on user experience and community development and governance. By accessing established technologies and planning selective new protocols with priority on security, speed, authentication, ease of use, scalability, and multi-asset support, VDex intends to facilitate peer-to-peer transactions by assembling a portfolio of decentralized applications built on EOS.IO smart contracts.
+Volentix, istifadəçi təcrübəsi, cəmiyyətin inkişafı və idarə edilməsinə diqqət edilərək paylaşdırılmış, mərkəzləşdirilməmiş bir rəqəmsal mülk mübadiləsi olaraq dizany edilmiş VDex-i təqdim edir. Vdex, quraşdırılmış texnologiyalara müraciət edərək və təhlükəsizlik, sürət, kimlik təsdiqləmə, istifadə rahatlığı, hesablana bilmə və çoxlu mülk dəstəyi mövzularında prioritetlə seçici yeni protokollar planlayaraq, EOS.IO ağıllı müqavilələri əsasında qurulmuş mərkəzləşdirilməmiş tətbiqetmə portfolio yaradaraq cütlər arası köçürmələri asanlaşdırmaq məqsədindədir.
 
-The VDex launch point anticipates matching Volentix’s design requirements to available technologies superimposed on the EOS.IO decentralized operating system. We intend to test our assumptions by prototyping via custom EZEOS software, which we built and customized with EOS.IO’s close command line tools. This software resides at: https://github.com/Volentix/ezeos
+Vdex başlanğıc nöqtəsi, Volentix-in dizayn tələblərini mərkəzləşdirilməmiş EOS.IO əməliyyat sistemində olan mövcud texnologiyalarla uyğunlaşdırmağı hədəfləyir. Ehtimallarımızı, EOS.IO-nun cleos əmr sətri alətləri ilə yaradıb özəlləşdirdiyimiz fərdi EZEOS proqram təminatı vasitəsilə prototipləyərək sınaqdan keçirmək niyyətindəyik. Bu proqram təminatı buradadır: https://github.com/Volentix/ezeos
 
-## MARKET MANDATE
+## BAZAR MANDATI
 
 In the second decade since the emergence of Bitcoin, the digital asset marketplace is defined by the dizzying highs and lows experienced by a tiny percentage of the global population trading thousands of cryptocurrencies many of which are outright scams. Looking past the frauds, and observing the value of the credible digital application technologies emerging in the past ten years, if we are to progress and promulgate those technologies, then they must penetrate the mainstream. Legitimate digital currencies must be used in broad commerce. And the primary focus of digital assets proliferation must be to simplify and enrich user experience. The choices of which existing technologies to employ and which unavailable technologies to develop must be driven by comfort, certainty, and security of user  
 transactions and related experiences.
