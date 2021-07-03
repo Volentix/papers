@@ -78,13 +78,13 @@ Questo assicura che la componente Vespucci SA sia in grado di coprire la stragra
 
 Vespucci’s public opinion listeners run on cloud-based VMs that are able to instantly scale-out to address all potential workloads. In questo modo Vespucci gestisce e ingerisce i massicci, ma preziosi, volumi di dati relativi alle criptovalute che vengono generati in qualsiasi momento. La parallelizzazione è fondamentale quando si gestiscono i Big Data e l'architettura di Vespucci sfrutta, ove possibile, la parallelizzazione, il multi-threading e la simultaneità. Micro-services and serverless code run in parallel to orchestrate the ingestion procedures and data flows.
 
-Nella seconda fase, gli strumenti di scoring vengono adattati e migliorati in modo da concentrare le loro funzionalità sulle criptovalute, eventualmente, potremmo sviluppare un nostro software per questo compito. Inoltre, viene utilizzata un po' di archiviazione (vedi la [sezione](https://docs.google.com/document/d/1NLr-rgF66NCBmLmPIdElltKYVPJrLVO7DZDpcNEm6OU/edit?ts=5bec2f33#heading=h.921dav9nirz6) specifica) per i dati aggregati necessari per (a) effettuare confronti storici e (b) per allenare il Convolutional Neural Network che produce il punteggio finale. Per (a), potremmo utilizzare l'intero storico di ogni token partendo dalla sua creazione. Per (b), l'apprendimento approfondito necessita dati che coprano un periodo fino a due anni.
+Nella seconda fase, gli strumenti di scoring vengono adattati e migliorati in modo da concentrare le loro funzionalità sulle criptovalute, eventualmente, potremmo sviluppare un nostro software per questo compito. Inoltre, viene utilizzato un certo tipo' di archiviazione (vedi la [sezione](https://docs.google.com/document/d/1NLr-rgF66NCBmLmPIdElltKYVPJrLVO7DZDpcNEm6OU/edit?ts=5bec2f33#heading=h.921dav9nirz6) specifica) per i dati aggregati necessari per (a) effettuare confronti storici e (b) per allenare il Convolutional Neural Network che produce il punteggio finale. Per (a), potremmo utilizzare l'intero storico di ogni token sin dalla sua creazione. Per (b), l'apprendimento approfondito necessita dati che coprano un periodo fino a due anni.
 
-Eventualmente, Vespucci si rivolgerà alla comunità open-source nel tentativo di rendere la piattaforma, per la maggior parte, decentralizzata. L'intenzione è di decentralizzare l'ingestione di dati e la funzionalità di assegnazione dello scoring per fornire risultati sicuri, guidati dalla comunità, imparziali e credibili.
+Eventualmente, Vespucci si rivolgerà alla comunità open-source nel tentativo di rendere la piattaforma, per la maggior parte, decentralizzata. L'obbiettivo è di decentralizzare l'ingestione di dati e la funzionalità di assegnazione dello scoring per fornire risultati sicuri, guidati dalla comunità, imparziali e credibili.
 
 ![](https://volentix.io/file/2019/01/a.jpg)
 
-Sfruttando il framework di Machine Learning di Python, e considerando i vantaggi di questo linguaggio di programmazione, è naturale che questo modulo venga implementato in Python. Questo si interfaccia con particolari librerie di machine learning come ad esempio Scikit-learn, TensorFlow, CNTK, Torch, Theano, e Keras.
+Sfruttando il framework di Machine Learning di Python, e considerando i vantaggi di questo linguaggio di programmazione, è naturale che questo modulo venga implementato in Python. Questo si interfaccia con particolari machine learning library come ad esempio Scikit-learn, TensorFlow, CNTK, Torch, Theano, e Keras.
 
 ‪A user experience linking to the cryptocurrency’s public community forum is developed to provide up to date announcements and statistics of community activity. Il punteggio finale può essere ricavato come una funzione di assegnazione del punteggio. Infine, vengono applicate tecniche di machine learning per fornire analisi del sentiment in tempo reale
 
@@ -236,17 +236,17 @@ Sfruttando il framework di Machine Learning di Python, e considerando i vantaggi
 
 * #### **ANALISI TECNICA**
 
-L'analisi tecnica è uno strumento di trading utilizzato per valutare [titoli](https://www.investopedia.com/terms/s/security.asp) e identificare le opportunità di trading analizzando le statistiche raccolte dall'attività di trading, come l'andamento dei prezzi e il volume. A differenza degli analisti fondamentali che cercano di valutare il valore intrinseco di un titolo, gli [analisti tecnici](https://www.investopedia.com/terms/t/technical-analyst.asp) si concentrano su grafici di movimento del prezzo e su strumenti analitici per valutare la forza o la debolezza di un titolo. Una fonte tipica può essere **coinmarketcap**. Ci concentriamo su indicatori e metodi adatti ad asset con elevata volatilità dei prezzi, e di conseguenza adatti alle criptovalute.
+L'analisi tecnica è uno strumento di trading utilizzato per valutare [titoli](https://www.investopedia.com/terms/s/security.asp) e identificare le opportunità di trading analizzando le statistiche raccolte dall'attività di trading, come l'andamento dei prezzi e il volume. A differenza di coloro che utilizzano l'analisi fondamentale che cercano di valutare il valore intrinseco di un titolo, gli [analisti tecnici](https://www.investopedia.com/terms/t/technical-analyst.asp) si concentrano su grafici di movimento del prezzo e su strumenti analitici per valutare la forza o la debolezza di un titolo. Una fonte tipica può essere **coinmarketcap**. Ci concentriamo su indicatori e metodi adatti ad asset con elevata volatilità dei prezzi, e di conseguenza adatti alle criptovalute.
 
-Gli analisti tecnici credono che l'analisi del movimento dei prezzi o la domanda e l'offerta delle criptovalute sia il miglior modo per identificare le tendenza di una moneta. Price movements tend to trade within a trend or range. In relazione a questa convinzione, gli analisti tecnici ritengono che la storia tenda a ripetersi, partendo dall'idea che i partecipanti al mercato hanno spesso reagito in modo simile agli eventi ricorrenti del mercato. Vi sono un gran numero di tecniche e indici per l'analisi dei dati. In questa sezione, ci concentriamo su alcune tecniche semplici, come i Canali Keltner, crossover a media mobile, RSI, Bollinger Bands e il popolare MACD, e su alcuni metodi avanzati, come Fibonnaci, e Ichimoku Kinko Hyo.
+Coloro che utilizzano l'analisi tecnica credono che l'analisi del movimento dei prezzi o la domanda e l'offerta delle criptovalute sia il miglior modo per identificare le tendenze di una moneta. Price movements tend to trade within a trend or range. In relazione a questa convinzione, coloro che utilizzano l'analisi tecnica ritengono che la storia tenda a ripetersi, partendo dall'idea che i partecipanti al mercato hanno spesso reagito in modo simile agli eventi ricorrenti del mercato. Vi sono un gran numero di tecniche e indici per l'analisi dei dati. In questa sezione, ci concentriamo su alcune tecniche semplici, come i Canali Keltner, crossover a media mobile, RSI, Bande di Bollinger e il popolare MACD, e su alcuni metodi avanzati, come Fibonnaci, e Ichimoku Kinko Hyo.
 
 * Keltner Channels put an upper, middle and lower band around the price action on a stock chart. L'indicatore è più utile nei mercati più [popolari](https://www.investopedia.com/terms/t/trending-market.asp) quando il prezzo sta facendo alti e bassi più alti per un [uptrend](https://www.investopedia.com/terms/u/uptrend.asp), o alti e bassi più bassi per un [downtrend](https://www.investopedia.com/terms/d/downtrend.asp).
 
-**Crossover a media mobile:** La ragione per cui la media mobile è così importante per i trader e gli analisti è il suo ruolo di smoothing. Questo è responsabile per l'eliminazione del rumore, per l'individuazione dei valori anomali e sottolinea le tendenze a lungo termine. Esistono diversi tipi di calcolo della media mobile, ma tutti sono utilizzati per tracciare una linea rispetto ad un grafico dei prezzi o ad un altro indicatore. La direzione e la pendenza delle linee della media mobile informano gli investitori sulla relazione tra i valori dei dati storici e i valori dei dati attuali. La flessibilità delle medie mobili consente di utilizzarle per analizzare altre medie mobili. Una strategia comune consiste nel tracciare due linee di media mobile di intervalli di tempo diversi e interpretare la loro relazione per individuare le tendenze, i previsti movimenti dei prezzi, e piazzare i trade. I crossover dei media mobili sono in seguito diventati il fulcro di un intero sottoinsieme di indicatori tecnici. Durante l'utilizzo dei media mobili, i crossover possono determinare un cambiamento nella tendenza dei prezzi. Una tecnica comune di inversione della tendenza è utilizzare un media mobile semplice su un periodo di 5 anni con un media mobile semplice di un periodo di 15 anni. Quando la media mobile di 5 anni forma un crossover, segnala un inversione di tendenza e potenzialmente l'inizio di una nuova tendenza, che viene chiamata breakout o breakdown.
+**Crossover a media mobile:** La ragione per cui la media mobile è così importante per i trader e gli analisti è il suo ruolo di smoothing. Questo è responsabile per l'eliminazione del rumore, per l'individuazione dei valori anomali e sottolinea le tendenze a lungo termine. Esistono diversi tipi di calcolo della media mobile, ma tutti sono utilizzati per tracciare una linea rispetto ad un grafico dei prezzi o ad un altro indicatore. La direzione e la pendenza delle linee della media mobile informano gli investitori sulla relazione tra i valori dei dati storici e i valori dei dati attuali. La flessibilità delle medie mobili consente di utilizzarle per analizzare altre medie mobili. Una strategia comune consiste nel tracciare due linee di media mobile di intervalli di tempo diversi e interpretare la loro relazione per individuare le tendenze, i previsti movimenti dei prezzi, e piazzare i propri trade. I crossover a media mobile sono in seguito diventati il fulcro di un intero sottoinsieme di indicatori tecnici. Durante l'utilizzo dei media mobili, i crossover possono determinare un cambiamento nella tendenza dei prezzi. Una tecnica comune di inversione della tendenza è utilizzare un media mobile semplice su un periodo di 5 anni con un media mobile semplice su periodo di 15 anni. Quando la media mobile di 5 anni forma un crossover, segnala un inversione di tendenza e potenzialmente l'inizio di una nuova tendenza, che viene chiamata breakout o breakdown.
 
 **Indice di Forza Relativa (RSI)** è un indicatore di momentum che misura l'entità delle recenti variazioni di prezzo per analizzare le condizioni di ipercomprato o ipervenduto. Viene utilizzato principalmente per cercare di identificare le condizioni di ipercomprato o ipervenduto nella commercializzazione di un asset. L'RSI fornisce una valutazione relativa della forza dell'andamento recente del prezzo di un titolo, rendendolo così un indicatore di momentum. I valori RSI pari o maggiori di 70 indicano che un titolo sta diventando ipercomprato o sopravvalutato. La lettura di un RSI inferiore o uguale a 30 è comunemente interpretata come l'indicazione di una condizione di ipervenduto o sottovalutato che può segnalare un cambiamento di tendenza o un'inversione al rialzo del prezzo correttivo. Alcuni trader, nel tentativo di evitare falsi segnali dall'RSI, utilizzano valori RSI più estremi come segnali di acquisto o vendita, come le letture RSI superiori a 80 per indicare condizioni di ipercomprato e le letture RSI inferiori a 20 per indicare condizioni di ipervenduto. Grandi movimenti di prezzo improvvisi possono creare falsi segnali di acquisto o di vendita nell'RSI. È quindi meglio utilizzarlo con miglioramenti alla sua applicazione o in combinazione con altri indicatori tecnici attestanti.
 
-**Bande di Bollinger** sono un indicatore tecnico di grafico popolare tra i trader di diversi mercati finanziari. Su un grafico ci sono due "bande" che fanno da sandwitch per il prezzo di mercato. Molti le usano principalmente per determinare i livelli di ipercomprato e ipervenduto. Una strategia comune è quella di vendere quando il prezzo tocca la Banda di Bollinger superiore e comprare quando questo tocca la banda inferiore. Questa tecnica viene chiamata anche mercati range-bound. In questo tipo di mercato, il prezzo rimbalza sulle Bande di Bollinger proprio come una palla rimbalza tra due muri.
+**Bande di Bollinger** sono un indicatore tecnico di grafico popolare tra i trader di diversi mercati finanziari. Su un grafico ci sono due "bande" che fanno da limite per il prezzo di mercato. Molti le usano principalmente per determinare i livelli di ipercomprato e ipervenduto. Una strategia comune è quella di vendere quando il prezzo tocca la Banda di Bollinger superiore e comprare quando questo tocca la banda inferiore. Questa tecnica viene chiamata anche mercati range-bound. In questo tipo di mercato, il prezzo rimbalza sulle Bande di Bollinger proprio come una palla rimbalza tra due muri.
 
 **MACD** calcola la differenza tra la media mobile esponenziale di una valuta (EMA) a 26-giorni e a 12-giorni. L'EMA dei 12-giorni è la più veloce, mentre quella dei 26-giorni è una media mobile lenta. Il calcolo di entrambe le EMA utilizza il prezzo di chiusura di qualsiasi periodo che viene misurato. On the MACD chart, a nine-day EMA of MACD itself is plotted as well, and it acts as a signal for buy and sell decisions.The MACD histogram provides a visual depiction of the difference between MACD and its nine-day EMA. L'istogramma MACD è uno dei principali strumenti utilizzati dai trader per misurare il momentum, perché fornisce una rappresentazione visiva ed intuitiva della velocità di movimento dei prezzi. Per questo motivo, il MACD è comunemente usato per misurare la forza di un movimento dei prezzi piuttosto che la direzione o la tendenza di una valuta.
 
@@ -254,77 +254,77 @@ Tecniche più avanzate per l'analisi dei dati sono i metodi di Fibonacci e le te
 
 **Fibonacci Extension:** Sono popolari strumenti di previsione, spesso utilizzati in combinazione con altri modelli di grafici tecnici. Molti trader utilizzano questa tecnica in combinazione con studi basati sulle onde (Elliott Wave, Wolfe Wave) per stimare l'altezza di ogni onda e definire le diverse onde. Questi vengono comunemente utilizzati con altri modelli di grafici come il triangolo ascendente. Una volta identificato il modello, è possibile creare una previsione aggiungendo al prezzo di ingresso il 61,8% della distanza tra la resistenza superiore e la base del triangolo.
 
-**Fibonacci Clusters:** The Fibonacci cluster is a culmination of Fibonacci retracements from various significant highs and lows during a given time period. Each of these Fibonacci levels is then plotted on the “Y” axis (price). Each overlapping retracement level makes a darker shade on the cluster – the darker the cluster is, the more significant the support or resistance level tends to be. This technique can be used in conjunction with other Fibonacci techniques or chart patterns to confirm support and resistance levels.
+**Fibonacci Clusters:** The Fibonacci cluster is a culmination of Fibonacci retracements from various significant highs and lows during a given time period. Ognuno di questi livelli di Fibonacci viene poi tracciato sull'asse "Y" (prezzo). Ogni livello di ritracciamento sovrapposto rende più scura la tonalità del cluster - più il cluster è scuro, più il livello di supporto o di resistenza è significativo. Questa tecnica può essere utilizzata insieme ad altre tecniche Fibonacci o modelli di grafici per avere conferma dei livelli di supporto o di resistenza.
 
-**Fibonacci Channels:** The Fibonacci pattern can be applied to channels not only vertically, but also diagonally. One common technique is the combination of diagonal and vertical Fibonacci studies to find areas where both indicate significant resistance.
+**Canali Fibonacci:** Il modello Fibonacci può essere applicato ai canali non solo verticalmente, ma anche diagonalmente. Una tecnica comune è la combinazione di studi di Fibonacci diagonali e verticali per trovare aree in cui entrambi indicano una ristenza significativa.
 
-**Ichimoku Kinko Hyo** is a technical indicator that is used to gauge momentum along with future areas of support and resistance.It was originally developed by a Japanese newspaper writer to combine various technical strategies into a single indicator that could be easily implemented and interpreted. Ichimoku indicator is a combination of five key components:
+**Ichimoku Kinko Hyo** è un indicatore tecnico che viene utilizzato per calcolare il momentum e le future zone di sostegno e resistenza. In origine è stato sviluppato da uno scritto giapponese per combinare varie strategie tecniche in un unico indicatore che potesse essere facilmente implementato e interpretato. L'indicatore Ichimoku è una combinazione di 5 componenti chiave:
 
-1. Tenkan-sen: Represents support and resistance level, and it’s a signal line for reversals.
-2. Kijun-sen: Represents support and resistance level. It’s a confirmation of a trend change, and can be used as a trailing stop-loss point.
-3. Senkou Span A: Is the average of tenkan-sen and kijun-sen for 26 periods ahead. The resulting line is used to identify future areas of support and resistance.
-4. Senkou Span B: Is calculated by the highest high and the lowest low over the past 52 periods, for 26 periods ahead. The resulting line is used to identify future areas of support and resistance.
-5. Chickou Span: Is the current period’s closing price plotted 26 days back on the chart. This line is used to show possible areas of support and resistance.
+1. Tenkan-Sen: Rappresenta il livello di supporto e di resistenza, ed è una linea di segnalazione per le inversioni di tendenza.
+2. Kijun-sen: Rappresenta il livello di supporto e resistenza. It’s a confirmation of a trend change, and can be used as a trailing stop-loss point.
+3. Senkou Span A: È la media di tenkan-sen e kijun-sen per 26 periodi successivi. La linea che ne consegue viene utilizzata per identificare future aree di supporto e resistenza.
+4. Senkou Span B: Is calculated by the highest high and the lowest low over the past 52 periods, for 26 periods ahead. La linea che ne consegue viene utilizzata per identificare future aree di supporto e resistenza.
+5. Chickou Span: È il prezzo di chiusura del periodo corrente tracciato sul grafico sui 26 giorni passati. Questa linea viene utilizzata per mostrare possibili aree di supporto e resistenza.
 
-* #### **FUNDAMENTAL AND TECHNOLOGICAL ANALYSIS**
+* #### **ANALISI FONDAMENTALE E TECNOLOGICA**
 
-Various blockchain technologies have been developed to tackle various challenges and, therefore, are meant to satisfy different requirements. A review of the technical concepts of the different blockchain technologies is our basis in understanding the impact of the different architectures in terms of performance, privacy, security and regulation. Quantitative analysis from a technological perspective (not to be confused with technical analysis) appraises and correlates various network statistics gleamed from the blockchain, giving a real-time view of the cryptocurrency. These statistics include but are not limited to:‬
+Diverse tecnologie blockchain sono state sviluppate per far fronte a diverse sfide e, pertanto, sono destinate a soddisfare esigenze diverse. Una revisione dei concetti tecnici delle diverse tecnologie blockchain è la nostra base per comprendere l'impatto delle diverse architetture in termini di prestazioni, privacy, sicurezza e regolamentazione. L'analisi quantitativa da un punto di vista tecnologico (da non confondere con l'analisi tecnica) valuta e correla diverse statistiche di rete estratte dalla blockchain, dando una visione in tempo reale della criptovaluta. These statistics include but are not limited to:‬
 
-* Block propagation time is important, since newly-found blocks need to be propagated as soon as possible across the blockchain network. Except for the waiting time for the user, another major issue coming from propagation time is that even for tiny delays‬, another block found at the same time might win the “block race”.
-* Hash rate vs Difficulty over Time‬, Price and Power consumption. These indicators, could show various correlations with Hash Rate, i.e. the hashrate could follow a corresponding increase or decrease to the price. Networks’ Hash Rate is also a security indicator, since networks which have low hash rate is easier to be tampered.
-* Node activity‬ and distribution‬. Nodes are vital parts of a blockchain, since it is maintained by them. They are connected to the blockchain network, transmitting and receiving the transactions, having their own copy of the blockchain. Therefore, their activity, distribution and average size can provide useful information about the blockchain.
-* Coin distribution‬, including information on how the coin is distributed among the developers, the foundation/production team, and the public. Also, the rate of change of the total supply and how is then distributed seems to provide useful statistics on the actual value of the coin and indication of possible frauds.
-* Miner distribution‬, indicating the number of miners online and how they are distributed (by pool), their fees, luck etc. Also,he software version of miners is also important, since ideally they should be on its latest version in order to support all the features of the Coin that they are mining.
-* Transaction levels, where various measures could be taken into account, such as the number of transactions submitted or validated per second by each node and the entire network, the average time of validation for a transaction and its volatility.
-* Tra nsactions fees, that users might pay to the network, in order to complete transactions or smart contracts.
-* Security includes several aspects such as the vulnerability of the system to attacks (e.g. double spending, Sybil attacks), the confidentiality of transactions, as well as user anonymity.
-* Scalability concerns how the system’s performance is affected by the number of nodes, transactions and users, and the scattering of the geographic positions of the nodes.
-* Hardware requirements for storage, memory and processors needed to store the blockchain network and validate the transactions and blocks, as well as how these requirements change while the networks grows.
+* Il tempo di propagazione dei blocchi è importante, poiché i blocchi appena trovati devono essere propagati il più presto possibile sulla rete blockchain. Oltre il tempo di attesa per l'utente, un altro grande problema derivante dal tempo di propagazione è che anche per piccoli ritardi, un altro blocco trovato allo stesso tempo potrebbe vincere la "block race".
+* Hash rate vs Difficoltà nel Tempo, prezzo e consumo Energetico. Questi indicatori, potrebbero mostrare varie correlazioni con l'Hash Rate, cioè l'hashrate potrebbe seguire un corrispondente aumento o diminuzione del prezzo. L'Hash Rate delle reti è anche un indicatore di sicurezza, in quanto le reti con un basso tasso di hash rate sono più facili da manomettere.
+* Attività del nodo e distribuzione. I nodi sono le parti vitali di una blockchain, poiché questa è mantenuta da loro. Sono collegati alla rete blockchain, trasmettono e ricevono le transazioni, e hanno la propria copia della blockchain. Pertanto, la loro attività, distribuzione e dimensione media possono fornire informazioni utili riguardanti la blockchain.
+* Distribuzione delle monete, comprese le informazioni su come la moneta è distribuita tra gli sviluppatori, il team di fondazione/produzione e il pubblico. Inoltre, il tasso di variazione dell'offerta totale e di come viene poi distribuita sembra fornire statistiche utili sul valore reale della moneta e l'indicazione di possibili frodi.
+* Distribuzione dei miner, indicando il numero di miner online e come sono distribuiti (per pool), le loro commissioni, fortuna, ecc. Inoltre, anche la versione software dei miner è importante, dal momento che idealmente dovrebbero essere tutto sull'ultima versione per supportare tutte le caratteristiche della Moneta che stanno producendo.
+* Livelli di transazione, in cui possono essere prese in considerazione diverse misure, come il numero di transazioni presentate o convalidate al secondo da ciascun nodo e dall'intera rete, il tempo medio di convalida di un'operazione e la sua volatilità.
+* Commissioni della transazione, che gli utenti potrebbero pagare alla rete, per completare le transazioni o gli smart contract.
+* La sicurezza comprende diversi aspetti quali la vulnerabilità del sistema agli attacchi (ad es. doppia spesa, attacchi Sybil), la riservatezza delle transazioni, nonchè l'anonimato dell'utente.
+* La scalabilità riguarda il modo in cui la performance del sistema è influenzata dal numero di nodi, transazioni e utenti, e il modo in cui sono sparse le posizioni geografiche dei nodi.
+* Requisiti hardware per l'archiviazione, la memoria e i processori necessari per memorizzare la rete blockchain e per convalidare le transazioni e i blocchi, nonché il modo in cui questi requisiti cambiano mentre le reti crescono.
 
-To implement the above analysis, further detail is given in the next section. Today, blockchain explorers are widely available to support this task. In particular, blockchain explorers such as [coinmetrics](https://coinmetrics.io/) and [cryptocompare](https://www.cryptocompare.com/) were combined, in order to meet the needs of FTA. The former is an open source crypto-asset analytics service, providing daily data for the most major cryptocurrencies (about 64 currently). Cryptocompare is a platform with live cryptocurrency data; its API makes available historical and live streaming cryptocurrency data, such as pricing, volume and block explorer data from multiple exchanges and blockchains.
+Per implementare l'analisi cui sopra, ulteriori dettagli sono forniti nella sezione successiva. Oggi, gli esploratori della blockchain sono ampiamente disponibili per sostenere questo compito. In particolare, esploratori blockchain come [coinmetrics](https://coinmetrics.io/) e [cryptocompare](https://www.cryptocompare.com/) sono stati combinati per soddisfare le esigenze dell'FTA. Il primo è un servizio di analisi criptoasset open source, che fornisce dati giornalieri per le principali criptovalute (attualmente circa 64). Cryptocompare è una piattaforma con dati riguardanti le criptomonete live; la sua API rende disponibili dati storici e live streaming delle criptomonete, come prezzi, volumi e dati block explorer provenienti da multipli exchange e blockchain.
 
-Among others, some of the features available by both APIs are:
+Tra le altre, alcune delle funzionalità disponibili per entrambe le API sono:
 
-* transaction count – number of transactions happening on the public blockchain a day
-* transaction volume (usd) – total value of outputs on the blockchain, on a given day
-* adjusted transaction volume (usd) – estimated ([https://coinmetrics.io/introducing-adjusted-estimates](https://coinmetrics.io/introducing-adjusted-estimates/))
-* payment count
-* active addresses
-* fees
-* median fee
-* generated coins
-* average difficulty
-* median transaction value (usd)
-* block size
-* block count
-* price (usd)
-* market capitalization (usd)
-* exchange volume(usd)
-* total coins mined
-* difficulty adjustment
-* block reward reduction, number & time
-* net hashes per second
-* total coins mined
+* conteggio transazioni - numero delle transazioni che vengono effettuate sulla blockchain pubblica al giorno
+* volume delle transazioni (usd) - valore totale delle uscite sulla blockchain, in un dato giorno
+* volume delle transazioni corretto (usd) - stimato ([https://coinmetrics.io/introducing-adjusted-estimates](https://coinmetrics.io/introducing-adjusted-estimates/)>)
+* conteggio pagamenti
+* indirizzi attivi
+* commissioni
+* commissione media
+* monete generate
+* difficoltà media
+* valore medio della transazione (usd)
+* dimensione del blocco
+* conteggio dei blocchi
+* prezzi (usd)
+* capitalizzazione di mercato (usd)
+* volume di scambio (usd)
+* totale monete minate
+* aggiustamento della difficoltà
+* riduzione della ricompensa per la produzione di blocchi, numero & tempo
+* hash netti al secondo
+* totale monete minate
 
-**Source Code – Developer activity**
+**Codice sorgente - attività degli sviluppatori**
 
-There is an aspect of quantitative analysis from a social perspective which looks at the involvement of the developer community surrounding the project, quite related to Sentiment Analysis. Research into metrics that accurately reflect rates of community participation as well as creator participation will be assessed. These factors may include but are not limited to:‬
+C'è un aspetto dell'analisi quantitativa da una prospettiva sociale che guarda al coinvolgimento della comunità di sviluppatori che circonda il progetto, piuttosto legato all'analisi del Sentiment. Verrà valutata la ricerca di metriche che riflettano accuratamente i tassi di partecipazione della comunità e dei creatori. Questi fattori possono includere ma non sono limitati a:
 
-‪• online community participation
+‪• partecipazione della comunità online
 
 ‪• code base activity‬
 
-‪• creator approachability and responsiveness ‬.
+‪• l'accessibilità e la reattività del creatore.
 
-This module (related to Sentiment analysis) examines information from Github and other sources such as literature review. It grades the quality of a codebase by looking at social cues well-known among software developers, and in particular:
+Questo modulo (relativo all'analisi del sentimento) esamina le informazioni provenienti da Github e da altre fonti come la rivista letteraria. Valuta la qualità di un codice guardando gli spunti sociali ben noti tra gli sviluppatori di software, e in particolare:
 
-* The expertise and track record of the team and their continued commitment to their project (frequency of commits, frequency the community responds to bugs, contributions over time, and the amount of time that has been consistently spent building up the project),
-* The activity on GitHub, which is tightly related to the previous item, and the number of followers of the project,
-* The quality of code (programming languages, test coverage, ratio of bugs over lines of code,build breaks etc), robustness, and maintenance of the software,
-* The corresponding white paper.
-* The mathematical and cryptographical principles of the system.
+* L'esperienza e il track record del team e il loro continuo impegno nel loro progetto (frequenza dei commit, frequenza con cui la comunità risponde ai bug, contributi nel tempo e la quantità di tempo che è stato costantemente impiegato per costruire il progetto),
+* L'attività su GitHub, che è strettamente correlata alla voce precedente, e il numero di follower del progetto,
+* La qualità del codice (linguaggi di programmazione, copertura dei test, rapporto tra i bug sulle righe di codice, build break, ecc), robustezza e manutenzione del software,
+* Il corrispondente white paper.
+* I principi matematici e crittografici del sistema.
 
-More specifically, some features of the git repositories that determine the repository’s popularity and robustness are its forks and stars, the activity of the maintenance team, measured by the rate of issues closed and of pull requests, as well as the quality of the project’s source code, measured by its test coverage and other code quality metrics. These can be obtained from the [CoinGecko](https://www.coingecko.com/en) API, a cryptocurrency ranking chart app that ranks digital currencies by developer activity, community, and liquidity.
+Più specificamente, alcune caratteristiche dei repository git che determinano la popolarità e la robustezza delle repository sono i loro fork e stelle, l'attività del team di manutenzione, misurata dal tasso di problemi risolti e di richieste di pull, così come la qualità del codice sorgente del progetto, misurata dalla copertura dei test e da altre metriche di qualità del codice. These can be obtained from the [CoinGecko](https://www.coingecko.com/en) API, a cryptocurrency ranking chart app that ranks digital currencies by developer activity, community, and liquidity.
 
 The combination of these criteria relies essentially on an adapted and powerful scoring function which, eventually, may be replaced by a Convolutional Neural Network, also discussed in support of Sentiment Analysis (see relevant section).
 

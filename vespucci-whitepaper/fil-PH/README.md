@@ -1,100 +1,100 @@
-# Vespucci Whitepaper
+# Whitepaper ng Vespucci
 
-### **ABSTRACT**
+### **ABSTRAKTO**
 
-The relatively recent explosion of cryptocurrencies has attracted a lot of popularity and more people are becoming aware of the benefits over fiat currency. The ever-increasing number of platforms that support cryptocurrencies and allow for transactions between a wide variety of products and services attract many users forming a new, dynamic generation of traders, for whom the intricacies of the blockchain technology are transparent. To navigate the complex world of cryptocurrencies, new users, along with experienced investors, would greatly benefit from a system that evaluates cryptocurrencies and creates a ranking that can be used as an investing guide, to be personalized with user-defined parameters. Vespucci is a new system that goes beyond the aforementioned functionalities. In particular, it monitors the evolution of blockchain and cryptocurrency markets and, by harnessing the power of cutting-edge AI and Machine Learning technolo gy, delivers unbiased, robust and up-to-date rankings that represent the real value of a very wide spectrum of coins so as to, eventually, act as a predictor of their future course. This ranking system is complete in the sense that it draws from a very large set of sources, categorized into three pillars, namely, sentiment analysis, fundamental and technological analysis, and technical analysis. Vespucci is part of the integrated ecosystem of Volentix, built around the decentralized exchange platform VDex; the latter employs a collection of smart EOS.IO contracts to establish quick and secure transactions, user anonymity, liquidity, scalability, performance, and estimation of profit margin. This whit e paper presents an in-depth overview of how Vespucci works, including a discussion of several technical aspects, and also highlights the different ways it can be used.
+Sa kasalukuyan iilan lang ang eksplosyon ng mga cryptocurrency na nakakuha ng maraming katanyagan at mas maraming mga tao ang nagkakaroon ng kamalayan sa mga benepisyo na higit pa kesa fiat currency. Ang patuloy-na-pagtaas ng bilang ng mga plataporma na sumusuporta sa mga cryptocurrency at nagpapahintulot para sa mga transaksyon sa pagitan ng iba't ibang uri ng mga produkto at serbisyo ay nakakaakit ng maraming mga gumagamit na bumubuo ng isang bagong, daynamiko na henerasyon ng mga mangangalakal, para sa kanino ang mga intricacies ng teknolohiyang blockchain ay transparent. Para i-navigate ang masalimuot na mundo ng mga cryptocurrency, ang mga bagong gumagamit, kasama ang mga nakaranas ng mga mamumuhunan, ay lubhang makikinabang mula sa isang sistem na sinusuri ang mga cryptocurrency at lumilikha ng isang ranggo na maaaring magamit bilang isang gabay sa pamumuhunan, para i-personalized sa mga parameter na tinukoy ng gumagamit. Isang bagong sistem ang Vespucci na napupunta sa kabila ng mga nabanggit na mga functionality. Sa partikular, sinusubaybayan nito ang ebolusyon ng blockchain at cryptocurrency na mga merkado at, sa pamamagitan ng paggamit ng kapangyarihan ng cutting-edge na AI at Machine Learning na teknolohiya, naghahatid ng walang pinapanigan, mahusay at up-to-date na ranggo na kumakatawan sa tunay na balyu ng isang malawak na spectrum ng mga barya upang, sa kalaunan, kumilos bilang tagahula ng kanilang kurso sa hinaharap. Kumpleto sa kahulugan ang sistema ng pagraranggo na ito na kumukuha ito mula sa isang napakalawak na hanay ng mga pinagkukunan, na ikinategorya sa tatlong haligi, katulad ng pagtatasa ng sentimyento, pagtatasa ng pangunahing at teknolohikal, at pagsusuri ng teknikal. Ang Vespucci ay bahagi ng integrated na ecosystem ng Volentix, na binuo sa paligid ng desentrelisado na plataporma ng palitan ng VDex; ang latter ay nag-eemploy ng isang koleksyon ng mga smart EOS.IO kontrata para magtatag ng mabilis at ligtas na mga transaksyon, pagkawala ng lagda ng gumagamit, liquidity, kakayahang sumukat, pagganap, at estimasyon ng profit margin. Nagpapakita ang white paper na ito ng isang malalim na pangkalahatang-ideya kung paano gumagana ang Vespucci, kabilang ang isang talakayan ng ilang mga teknikal na aspeto, at din nagha-highlight ang iba't ibang mga paraan na magagamit nito.
 
-* ### **OVERVIEW**
+* ### **PANGKALAHATANG IDEYA**
 
-Vespucci is part of the Volentix ecosystem. In particular, it implements one of the main pillars of the Volentix ecosystem, of which VDex is the fulcrum. VDex is a decentralized exchange with the user and community in mind. Vespucci, besides being a digital asset audit and assessment utility accessible to non-experts, it is also a tool to chart and juxtapose tradeable digital assets. Moreover, it provides a dashboard for cryptocurrencies’ activity in the digital world.
+Parte ng ekosistema ng Volentix ang Vespucci. Sa partikular, ipinapatupad nito ang isa sa pangunahing mga pillar ng ekosistema ng Volentix, kung saan ang VDex ang fulcrum. Ssang desentralisadong palitan ang VDex sa isip ng gumagamit at komunidad. Ang Vespucci, bukod sa pagiging isang digital na pag-audit ng asset at pagsusuri na utility na-aakses sa mga di-eksperto, ito rin ay isang tool sa tsart at juxtapose tradeable digital na mga asset. Bukod dito, nagbibigay ito ng dashboard para sa aktibidad ng cryptocurrency sa digital world.
 
-Our primary goal is to offer all users of digital assets an intuitive analytical agent and rating system for digital assets, merging the following aspects (see figure below):
+Ang aming pangunahing layunin ay para i-alok sa lahat ng mga gumagamit ng mga digital na asset ang isang intuitive analytical agent at sistem ng pagraranggo para sa mga digital na asset, pagsasama ng mga sumusunod na aspeto (tingnan ang pigura sa ibaba):
 
-* a sentiment gauge for sentiment analysis (SA),
-* technical analysis (TA), and
-* fundamental / technological analysis (FTA).
+* isang sentimental gauge para sa sentiment analysis (SA),
+* technical analysis (TA), at
+* fundamental/technological analysis (FTA).
 
-Vespucci offers for the first time a well-rounded profile of each digital asset of interest along with a live rating, representing a combination of different indicators, based on the principles of decentralized governance, peer privacy, public ledger via a public blockchain, and open source code. Hence, its analysis is free of the bias of specific individuals or interest groups and the employed methods are up for scrutiny and discussion by the community. Decentralized applications offer a paradigm shift in current technology; a particularly relevant instance lies within the emerging cryptocurrency exchanges. Using some of the most powerful cutting-edge methods, our approach abides by open standards and the principles of ease of use.
+Nag-aalok ang Vespucci sa unang pagkakataon ng isang well-rounded na propayl ng bawat digital na asset ng interes kasama ang isang live na pagraranggo, na kumakatawan sa isang kumbinasyon ng iba't ibang mga tagapagpahiwatig, batay sa mga prinsipyo ng desentralisadong pamamahala, privacy ng peer, pampublikong ledger sa pamamagitan ng isang pampublikong blockchain, at open source na code. Samakatuwid, ang pagsusuri nito ay libre sa mga bias ng mga partikular na indibidwal o mga interes ng grupo at ang mga pamamaraan sa trabaho ay para sa pagsusuri at diskusyon ng komunidad. Ang mga aplikasyon na desentralisadong ay nag-aalok ng paradigm shift sa kasalukuyang teknolohiya; ang isang partikular na kaugnay na halimbawa ay nasa loob ng lumilitaw na mga palitan ng cryptocurrency. Gamit ang ilan sa mga pinaka-makapangyarihang paraan ng cutting-edge, ang aming diskarte ay sumusunod sa mga bukas na pamantayan at ang mga prinsipyo ng kadalian ng paggamit.
 
-General architecture of Vespucci
+Pangkalahatang arkitektura ng Vespucci
 
 ![](https://volentix.io/file/2019/01/Web-1920-–-6@3x.png)
 
 * ### **OBJECTIVE**
 
-Vespucci offers a web-based platform to enable users to navigate through crypto data and make informed trading and digital-asset utilization decisions. In particular, it provides:
+Nag-aalok ang Vespucci ng isang plataporma na nakabatay sa web para paganahin ang mga gumagamit na mag-navigate sa pamamagitan ng datos ng crypto at gumawa ng matalinong kalakalan at mga desisyon sa paggamit ng digital-asset. Sa partikular, nagbibigay ito:
 
-* An intuitive analytical agent leading to an easy to understand overview of cryptocurrencies.
-* A rating system of cryptocurrencies, including risk assessment.
-* A dashboard for cryptocurrency news.
+* Isang agent ng intuwisyon na analitikal na humahantong sa isang madaling maunawaan ang pangkalahatang-ideya ng mga cryptocurrency.
+* Isang sistema ng pagraranggo ng mga cryptocurrency, kabilang ang mapanganib na pagsusuri.
+* Isang dashboard para sa mga balita ng cryptocurrency.
 
 ![](https://volentix.io/file/2019/01/02-icon.jpg)
 
-The rating and analytical capacity of Vespucci relies on the three pillars of: Sentiment analysis, Technical / economic analysis, and Fundamental / technological analysis. Vespucci combines these aspects in order to provide rating and ranking by employing Machine Learning and Neural Network (NN) technology. It offers a service that has never been available before since it integrates all features in the following figure.
+Ang pagraranggo at analitikal na kapasidad ng Vespucci ay nakasalalay sa tatlong pillar ng: Sentimento ng pagsusuri, Teknikal/pang-ekonomiyang pagsusuri, at Fundamental/teknolohikal na pagsusuri. Pinagsasama ng Vespucci ang mga aspeto para magbigay ng rating at pagraranggo sa pamamagitan ng paggamit ng teknolohiya ng Machine Learning at Neural Network (NN). Nag-aalok ito ng isang serbisyo na hindi pa magagamit bago pa isinama nito ang lahat ng mga katangian sa sumusunod na pigura.
 
 ![](https://volentix.io/file/2019/01/1k.jpg)
 
-* ### **DESIGNING VESPUCCI**
+* ### **PAGDIDISENYO NG VESPUCCI**
 
-* #### **VESPUCCI FEATURES**
+* #### **MGA KATANGIAN NG VESPUCCI**
 
-The features of Vespucci are as follows.
+Ang mga katangian ng Vespucci ay ang mga sumusunod.
 
-* Rating of cryptocurrencies, easily leading to a Prediction machine.
-* Combination of a complete spectrum of criteria ranging from Fundamental / Technological Analysis to technical / economics aspects up to a sentiment gauge.
-* Transparency in methodology (data sources, ingestion mechanism, data manipulation process, algorithms)
-* Broad spectrum of sources (to avoid biased data)
-* Modular design that offers the ability to extend the platform to other applications such as smart contracts.
-* Security: Data Sources on EOS Blockchain (VLabs)
-* High accuracy using sophisticated Evaluation methods, AI, and Deep Learning
-* Intuitive algorithms, possibility for weighs given by user, Post-processing for humans.
-* #### **PRINCIPLES**
+* Pagri-rate ng mga cryptocurrency, madaling humahantong sa isang Prediksyon na machine.
+* Kumbinasyon ng isang kumpletong spectrum ng nasasaklaw na krayterya mula sa Fundamental/Teknolohikal na Pagsusuri sa mga aspeto ng teknikal/ekonomiya hanggang sa isang sentimental na sukatan.
+* Transparency sa pamamaraan (mga mapagkukunan ng datos, mekanismo ng ingestion, proseso ng pagmamanipula ng datos, mga algoritmo)
+* Malawak na mga mapagkukunan ng spectrum (para maiwasan ang bias na datos)
+* Modular na disenyo na nag-aalok ng kakayahang pahabain ang plataporma sa iba pang mga aplikasyon tulad ng mga matalinong kontrata.
+* Seguridad: Mga Pagmumulan ng Datos sa EOS Blockchain (VLabs)
+* Mataas na accuracy gamit ang sopistikadong mga pamamaraan ng Ebalwasyon, AI, at Deep Learning
+* Mga inusyatibong algoritmo, posibilidad para sa weighs na ibinigay ng gumagamit, Post-processing para sa mga tao.
+* #### **MGA PRINSIPYO**
 
-Vespucci is designed under the following principles.
+Dinisenyo ang Vespucci sa ilalim ng mga sumusunod na prinsipyo.
 
-* Objective in order not to risk compromising the Volentix DAO goodwill before it is established beyond any doubt
+* Layunin na para hindi mapanganib ang pag-kompromiso sa mabuting kalooban ng Volentix DAO bago ito maitatag nang higit sa anumang pagdududa
 * Automated
-* In demand
-* Decentralized implementation
+* Uso
+* Desentralisadong implementasyon
 * Open-source
 * Intuitive
-* #### **HOW VESPUCCI WORKS**
+* #### **PAANO GUMAGANA ANG VESPUCCI**
 
-The three pillars are described in the following subsections. In these subsections a large number of criteria is mentioned. The results of the SA component is made available along with the Technical and FTA results to the users so they can access a complete 360 view of each coin’s state, rank and ultimately understand the coin’s true value and potential. ‪An evaluation of both established cryptocurrencies and known “scam-coins” is performed, and the resulting parameters deemed most relevant in determining cryptocurrency validity is integrated into the system.
+Inilalarawan ang tatlong pillar sa mga sumusunod na subsection. Nabanggit ang isang malaking bilang ng pamantayan sa mga subseksyon na ito. Ang mga resulta ng bahagi ng SA ay ginawang available kasama ang mga resulta ng Teknikal at FTA sa mga gumagamit para ma-akses nila ang isang kumpletong 360 na view ng estado ng bawat coin, ranggo at sa huli ay maunawaan ang tunay na balyu at potensyal ng coin. Ang ebalwasyon ng parehong inilathala na mga cryptocurrency at kilala na "scam-coins" ay ginanap, at ang mga nagresultang parameter na itinuturing na pinaka-may-katuturan sa pagtukoy ng validity ng cryptocurrency ay isinama sa sistem.
 
-In order to test Vespucci in a semi-public release using prospective volunteers, the system is being introduced to various outside users for bug testing of the assessment system functions, and the UI. ‬‪It is carried out in a public setting through the organization of a closed beta release. Users are selected to allow for more constructive and relevant feedback information.‬ ‪An ongoing iterative process of tweaks, fixes, and adjustments will take place during the beta release from the insight derived from user feedback.‬
+Para subukan ang Vespucci sa isang pagpapalabas sa semi-public gamit ang mga propektibo na mga boluntaryo, ang sistem ay ipinakilala sa iba't ibang mga gumagamit sa labas para sa bug pagsubok ng pagtatasa ng mga function ng sistem, at ang UI. Ito ay isinasagawa sa isang pampublikong setting sa pamamagitan ng organisasyon ng isang saradong pag-release ng beta. Napili ang mga gumagamit para pahintulutan ang mas nakakatulong at may-katuturang impormasyon na feedback. Ang isang patuloy na proseso ng pag-uulit ng mga tweak, pag-aayos, at mga pagsasaayos ay magaganap sa panahon ng pag-release ng beta mula sa pananaw na nagmula sa feedback ng gumagamit
 
-* ### **PILARS**
+* ### **MGA PILAR**
 
-* #### **SENTIMENT ANALYSIS**
+* #### **SENTIMYENTO SA PAGSUSURI**
 
-Market sentiment is being explored by the relatively new field of [behavioral finance](https://www.investopedia.com/terms/b/behavioralfinance.asp). It starts with the assumption that markets are apparently inefficient much of the time, and this inefficiency can be explained by psychology and other [social sciences](https://www.investopedia.com/terms/s/social-science.asp). The idea of applying social science to finance was fully legitimized when [D. Kahneman](https://www.investopedia.com/terms/d/daniel-kahneman.asp), a psychologist, won the 2002 Nobel Memorial Prize in Economics – he was the first psychologist to do so. Many of the ideas in behavioral finance confirm observable suspicions: that investors tend to overemphasize data that come easily to mind; that many investors react with greater pain to losses than with pleasure to equivalent gains; and that investors tend to persist in a mistake.
+Ang sentimyento sa merkado ay ginagabayan ng medyo makabagong larangan ng [behavioral finance](https://www.investopedia.com/terms/b/behavioralfinance.asp). Ito ay nagsisimula sa pag-aakala na ang mga merkado ay tila hindi sapat ang panahon, at ang kahusayan na ito ay maaaring ipaliwanag sa pamamagitan ng sikolohiya at iba pang mga [agham panlipunan](https://www.investopedia.com/terms/s/social-science.asp). Ang ideya sa pag-aaplay ng agham panlipunan sa pananalapi ay ganap na pinagtibay kung kailan [D. Si Kahneman](https://www.investopedia.com/terms/d/daniel-kahneman.asp), ay isang sikolohista, ang nanalo sa 2002 Nobel Memorial Prize sa Ekonomika - siya ang unang sikolohista na gumawa nito. Marami sa mga ideya sa behavioral na pinansyal ay nakumpirma na ang mga kapansin-pansin na mga hinala: na ang mga mamumuhunan ay may posibilidad na lubusang mapahalagahan ang datos na madaling maintindihan sa isipan; na maraming ang mga mamumuhunan ay gumagaling na may mas sakit sa pagkalugi kaysa sa kasiyahan sa mga katumbas na kita; at ang mga namumuhunan ay may posibilidad na manatili sa isang pagkakamali.
 
-One of the most significant factors that affect the rank and value of crypto-coins is the public confidence and sentiment. Sentiment bears major weight of cryptocurrencies monetary valuation. Public opinions are widely available to collect and analyze. A m ajor pillar of the Vespucci ranking platform is hence based on Sentiment Analysis (SA) of crypto related content, generated by the public on Social media (Twitter, Facebook, Telegram), Reddit, Blogs, forums and news sites. The key differentiating fact of Vespucci SA component is the broad and complete spectrum of data sources that are collected and analyzed. We believe that only by covering every potential source of public opinion related to each crypto-coin, the true state of market sentiment is revealed.
+Ang isa sa mga pinakamahalagang bagay na nakakaapekto sa ranggo at balyu ng mga crypto-coin ay ang kumpiyansa at sentimyento ng publiko. Ang sentimyento ng mga bear ay may pangunahing bigat sa mga cryptocurrency ng monetary valuation. Ang mga pampublikong opinyon ay malawak na magagamit para kolektahin at pag-aralan. Ang isang pangunahing pillar ng plataporma ng pag-rarango ng Vespucci ay batay dito sa Sentiment Analysis (SA) ng may kaugnayan sa nilalaman ng crypto, na binuo ng publiko sa Social media (Twitter, Facebook, Telegram), Reddit, mga Blog, mga forum at mga site ng balita. Ang pangunahing pagkakaiba ng katotohanan sa bahagi ng Vespucci SA ay ang malawak at kumpletong spectrum ng mga pinagkukunan ng datos na nakolekta at nasuri. Kami ay naniniwala na sa pamamagitan lamang ng pagsaklaw sa bawat potensyal na pinagmumulan ng pampublikong opinyon na may kaugnayan sa bawat crypto-coin, ang tunay na estado ng sentimyento sa merkado ay ipinahayag.
 
-Vespucci SA component is built in a phased approach. The first phase includes the implementation of a centralized cloud based, highly scalable, Big Data ingestion mechanism. This mechanism is able to listen continuously to the above mentioned data sources and ingest all content/messages that are relevant to each cryptocurrency. It uses no persistent storage. The same mechanism scores the Sentiment of the ingested content using an AI driven score function and text analytics libraries for analyzing social media content. The module also relies on further tools such as NTLK and TextBlob that assign numerical scores of sentiment to pieces of text. This process need not be transparent to the user.
+Ang bahagi ng Vespucci SA ay binubuo sa isang paunti-unti na diskarte. Kabilang sa unang yugto ang implementasyon ng mekanismo ng isang sentralisadong based cloud, mataas na scalable, mekanismo sa pagpasok ng Malaking Datos. Ang mekanismo na ito ay patuloy na nakikinig sa nabanggit na mga mapagkukunang datos at na-imbak ang lahat ng nilalaman/mga mensahe na may kaugnayan sa bawat cryptocurrency. Gumagamit ito ng hindi paulit-ulit na imbakan. Ang parehong mekanismo ay tumutukoy sa Sentimyento ng napasok na nilalaman gamit ang isang AI hinimok ang pag-function at teksto ng mga analitiko ng library para sa pagsusuri ng nilalaman sa social media. Nakasalalat din ang module sa karagdagang mga tool tulad ng NTLK at TextBlob na nagtatalaga ng mga numerical score ng sentimyento sa mga piraso ng teksto. Ang proseso na ito ay hindi kailangang maging transparent sa gumagamit.
 
-This ensures that Vespucci SA component is able to cover the vast majority of public opinion. Results are compared over periods of one hour, one day and one week. The outputs are available through APIs for internal use by other Vespucci components such as the front-end web UI as well as to external users that want to consume the data or build third-party applications based on Vespucci.
+Sinisigurado nito na ang bahagi ng Vespucci SA ay pwedeng masakop ang karamihan ng opinyon ng publiko. Ang mga resulta ay ikukumpara sa mga period ng isang oras, isang araw at isang linggo. Ang mga awtput ay available sa pamamagitan ng mga API para sa internal na paggamit ng iba pang mga bahagi ng Vespucci gaya ng front-end na web UI pati na rin sa mga eksternal na paggamit na gustong ubusin ang datos o bumuo ng mga aplikasyon ng third-party batay sa Vespucci.
 
-Vespucci’s public opinion listeners run on cloud-based VMs that are able to instantly scale-out to address all potential workloads. This way Vespucci handles and ingests the massive, yet valuable, data volumes related to cryptocurrencies that are being generated at every given moment. Parallelization is key when handling Big Data and Vespucci’s architecture leverages parallelization, multi-threading and concurrency wherever possible. Micro-services and serverless code run in parallel to orchestrate the ingestion procedures and data flows.
+Ang mga tagapakinig sa opinyon ng publiko ng Vespucci ay gumagana sa mga VM na nakabatay sa cloud na pwede agad na mag-scale para tugunan ang lahat ng potensyal na workload. Sa ganitong paraan tinatangkilik at ipinasok ng Vespucci ang napakalaking, mahalagang balyu ng datos na may kaugnayan sa mga cryptocurrency na binubuo sa bawat naibigay na sandali. Ang paralesasyon ay susi kapag ang paghawak sa arkitektura ng Malaking Datos at Vespucci ay gumagamit ng paralesasyon, multi-threading at concurrency hangga't maaari. Ang mga micro-service at serverless na code ay gumagana nang magkakasabay para mag-orchestrate ang mga pamamaraan ng pag-pasok at daloy ng datos.
 
-In the second phase, scoring tools are adapted and enhanced so as to focus their functionality to cryptocurrencies and, eventually, our own software shall be developed for this task. Moreover, some storage is used (see the relevant [section](https://docs.google.com/document/d/1NLr-rgF66NCBmLmPIdElltKYVPJrLVO7DZDpcNEm6OU/edit?ts=5bec2f33#heading=h.921dav9nirz6)) for aggregate data needed in order (a) to make historical comparisons and (b) to train the Convolutional Neural Network that produces the final score. For (a), we could make use of the entire history of each token since its creation. For (b), deep learning needs data covering a period of up to two years.
+Sa ikalawang yugto, ang mga tool sa pag-iiskor ay inangkop at pinahusay para ipokus ang kanilang pag-function sa mga cryptocurrency at, sa kalaunan, ang aming sariling software ay bubuuin para sa gawaing ito. Bukod dito, ginagamit ang ilang imbakan (tingnan ang may-kaugnayan sa [seksiyon](https://docs.google.com/document/d/1NLr-rgF66NCBmLmPIdElltKYVPJrLVO7DZDpcNEm6OU/edit?ts=5bec2f33#heading=h.921dav9nirz6)) para sa pinagsama-samang datos na kinakailangan sa (a) gumawa ng mga paghahambing sa historikal at (b) para sanayin ang Convolutional Neural Network na naglalabas ng pangwakas na iskor. Para sa (a), pwede naming gamitin ang buong history ng bawat token mula noong paglikha nito. Para sa (b), ang malalim na pag-aaral ay nangangailangan ng datos na nagtatagal sa isang period ng hanggang dalawang taon.
 
-Eventually, Vespucci will reach out to the open-source community in an attempt to make the platform decentralized to a great degree . The intention is to decentralize the data ingestion and sentiment scoring functionality in order to provide secure, community led, unbiased and credible results.
+Sa kalaunan, maaabot ng Vespucci ang komunidad ng open-source sa pagtatangkang gawin ang plataporma ng desentralisado sa isang mahusay na antas. Ang intensyon ay ang gawing desentralisasyon ang pag-function ng datos at pag-function ng sentimento para magbigay ng ligtas, namumuno sa komunidad, walang pinapanigan at kapani-paniwala na mga resulta.
 
 ![](https://volentix.io/file/2019/01/a.jpg)
 
-By leveraging Python’s Machine learning framework, and given the language’s advantages, it is only natural for this module to be implemented in Python. It interfaces with particular machine learning libraries such as Scikit-learn, TensorFlow, CNTK, Torch, Theano, and Keras.
+Sa pamamagitan pag-leverage sa pag-aaral ng framework ng Python’s Machine, at ibinigay ang mga advatange ng wika, natural lamang para sa modyul na ito na maipatupad sa Python. Nag-interface ito ng mga partikular na library sa pag-aaral ng machine tulad ng Scikit-learn, TensorFlow, CNTK, Torch, Theano, at Keras.
 
-‪A user experience linking to the cryptocurrency’s public community forum is developed to provide up to date announcements and statistics of community activity. The final score can be derived as a scoring function. Eventually, machine learning techniques are applied to deliver real-time sentiment analysis.‬
+Ang isang karanasan sa paggamit na nagli-link sa forum ng pampublikong komunidad ng cryptocurrency ay binuo para magbigay ng napapanahon na mga anunsyo at istatistika ng aktibidad ng komunidad. Ang kabuuang iskor ay pwedeng makuha bilang isang function ng pag-iiskor. Sa kalaunan, ang mga diskarte sa pag-aaral ng machine ay ini-aaplay para makapaghatid ng real-time na sentimyento sa pagsusuri
 
 <table>
   <tr>
     
 
-<td>**Source**</td>
+<td>**Pinagmulan**</td>
 
-<td>**Analysis**</td>
+<td>**Pagsusuri**</td>
 
   </tr>
   
@@ -139,16 +139,16 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>LinkedIn</td>
 
-<td>Sentiment & Technological</td>
+<td>Sentiment At Teknolohikal</td>
 
   </tr>
   
   <tr>
     
 
-<td>Coin Sites</td>
+<td>Mga Site ng Coin</td>
 
-<td>Technological & Fundamental</td>
+<td>Teknolohikal At Fundamental</td>
 
   </tr>
   
@@ -157,7 +157,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>CoinMarketCap</td>
 
-<td>Technical, Technological & Fundamental</td>
+<td>Teknikal, Teknolohikal At Fundamental</td>
 
   </tr>
   
@@ -166,7 +166,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Github</td>
 
-<td>Technological</td>
+<td>Teknolohikal</td>
 
   </tr>
   
@@ -175,7 +175,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Coinbio</td>
 
-<td>General Information about every crypto </td>
+<td>Pangkalahatang Impormasyon tungkol sa bawat crypto </td>
 
   </tr>
   
@@ -184,7 +184,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>BitInfoCharts</td>
 
-<td>Technical </td>
+<td>Teknikal </td>
 
   </tr>
   
@@ -193,7 +193,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Cointelegraph</td>
 
-<td>Technical </td>
+<td>Teknikal </td>
 
   </tr>
   
@@ -202,7 +202,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>CCN</td>
 
-<td>Sentiment (Forums & News)</td>
+<td>Sentiment (Mga Usapin At Mga Balita)</td>
 
   </tr>
   
@@ -211,7 +211,7 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>CoinDesk</td>
 
-<td>Sentiment (Forums & News)</td>
+<td>Sentiment (Mga Usapin At Mga Balita)</td>
 
   </tr>
   
@@ -220,68 +220,68 @@ By leveraging Python’s Machine learning framework, and given the language’s 
 
 <td>Bitcointalk</td>
 
-<td>Sentiment (Forums & News) </td>
+<td>Sentiment (Mga Usapin At Mga Balita) </td>
 
   </tr>
   
   <tr>
     
 
-<td>Crypto Coin Rankings</td>
+<td>Mga Ranggo ng Crypto Coin</td>
 
-<td>Technological & Technical </td>
+<td>Teknolohikal At Teknikal </td>
 
   </tr>
 </table>
 
-* #### **TECHNICAL ANALYSIS**
+* #### **TEKNIKAL NA PAGSUSURI**
 
-Technical analysis is a trading tool employed to evaluate [securities](https://www.investopedia.com/terms/s/security.asp) and identify trading opportunities by analyzing statistics gathered from trading activity, such as price movement and volume. Unlike fundamental analysts who attempt to evaluate a security’s intrinsic value, [technical analysts](https://www.investopedia.com/terms/t/technical-analyst.asp) focus on charts of price movement and va rious analytical tools to evaluate a security’s strength or weakness. A typical source may be **coinmarketcap**. We focus on indicators and methods suitable for assets with high volatility of prices, and hence suitable for cryptocurrencies.
+Ang teknikal na pagsusuri ay isang tool sa pangangalakal na ginagamit para suriin ang mga[seguridad](https://www.investopedia.com/terms/s/security.asp)at tukuyin ang mga pagkakataon sa pangangalakal sa pamamagitan ng pagsusuri ng mga istatistika na natipon mula sa aktibidad ng kalakalan, tulad ng paggalaw ng presyo at dami. Hindi tulad ng mga pangunahing analyst na nagtatangkang suriin ang tunay na balyu ng seguridad, ang mga [teknikal na analyst](https://www.investopedia.com/terms/t/technical-analyst.asp) ay nakatuon sa mga tsart ng paggalaw ng presyo at ng mga mahuhusay na tool na analitikal para suriin ang lakas o kahinaan ng seguridad. Ang isang tipikal na pinagmulan ay maaaring sa **coinmarketcap**. Kame ay nakatuon sa mga tagapagpahiwatig at mga pamamaraan na angkop para sa mga asset na may mataas na volatility ng mga presyo, at kaya angkop para sa mga cryptocurrency.
 
-Technical analysts believe the analysis of price movement or the supply and demand of currencies is the best way to identify trends in the currency. Price movements tend to trade within a trend or range. In connection with this belief, technical analysts assume that history tends to repeat itself, based on the idea that market participants have often reacted in a similar fashion to reoccurring market events. There is a very large number of techniques and indices for data analysis. In this section, we focus on certain simple techniques, such as Keltner Channels , moving average crossovers, RSI, Bollinger Bands, and the popular MACD, and to some advanced methods, such as Fibonnaci, and Ichimoku Kinko Hyo.
+Naniniwala ang mga taga-analyze ng teknikal na ang pagsusuri sa paggalaw ng presyo o ang suplay at demand ng mga currency ay ang pinakamahusay na paraan para makilala ang mga uso sa currency. Ang mga paggalaw ng presyo ay may posibilidad na mag-trade sa loob ng trend o saklaw. May koneksyon sa paniniwalang ito, ang mga taga-analyze ng teknikal ay nagsasaad na ang historya ay may gawi na ulitin ang sarili nito, batay sa ideya na ang mga kalahok sa merkado ay madalas na tumugon sa katulad na paraan para muling pagsanib ang mga kaganapan sa merkado. Mayroong isang napakalaking bilang ng mga pamamaraan at indeks para sa pagsusuri ng datos. Sa seksyon na ito, kami nakatuon sa ilang mga simpleng pamamaraan, tulad ng Keltner na mga Tsanel, paglipat ng average crossovers, RSI, Bollinger Bands, at popular na MACD, at sa ilang mga advanced na pamamaraan, tulad ng Fibonnaci, at Ichimoku Kinko Hyo.
 
-* Keltner Channels put an upper, middle and lower band around the price action on a stock chart. The indicator is most useful in strongly [trending markets](https://www.investopedia.com/terms/t/trending-market.asp) when the price is making higher highs and higher lows for an [uptrend](https://www.investopedia.com/terms/u/uptrend.asp), or lower highs and lower lows for a [downtrend](https://www.investopedia.com/terms/d/downtrend.asp).
+* Ang mga Keltner na Tsanel ay naglagay ng isang upper, middle at lower na band sa paligid ng aksyon ng presyo sa tsart ng stock. Ang nagtuturo ay pinaka kapaki-pakinabang sa [malakas na merkado](https://www.investopedia.com/terms/t/trending-market.asp) kung ang presyo ay gumagawa ng mas mataas na mataas at mas mataas na mga antas para sa isang [uptrend](https://www.investopedia.com/terms/u/uptrend.asp), o mas mababang mga mataas at mas mababang mga hilig para sa isang [downtrend](https://www.investopedia.com/terms/d/downtrend.asp).
 
-**Moving average crossovers:** The reason moving average is so important for traders and analysts is its smoothing role. It is responsible for noise removal, for outlier detection and emphasizes in long term trends. Several different kinds of moving average calculations exist, but all of them are used to plot a line against either a price chart or another indicator. The direction and slope of moving average lines inform investors about the relationship between historical data values and present data values. The flexibility of moving averages allows them to be used to analyze other moving averages. A common strategy involves plotting two moving average lines of different time intervals and interpreting their relationship to spot trends, forecast price movements and place trades. Moving average crossovers have subsequently become the focus of an entire subset of technical indicators. When utilizing moving averages, crossovers can determine a change in the price trend. A common trend reversal technique is utilizing a five-period simple moving average with a 15-period simple moving average. When the five-period moving average forms a crossover, it signals a reversal in the trend and potentially the start of a new opposite trend, which is called a breakout or a breakdown.
+**Paggalaw ng average crossovers:** Ang dahilan ng pagagalaw ng average ay napakahalaga para sa mga mangangalakal at taga-analyze ay ang kanyang makinis na role. Para sa pag-aalis ng ingay ito ay responsable, para sa di-makikitang pagtukoy at nagbibigay-diin sa mga pangmatagalang mga uso. Maraming iba't ibang uri ng paggalaw ng mga average na umiiral na pagkakakalkula, pero lahat ng mga ito ay ginagamit para i-plot ang isang linya laban sa alinman sa isang tsart ng presyo o isa pang nagtuturo. Ang direksyon at slope ng paggalaw ng mga linya ng average ay nagpapaalam sa mga namumuhunan tungkol sa relasyon sa pagitan ng mga halaga ng makasaysayang datos at kasalukuyang mga balyu ng datos. Ang kakayahang umangkop sa paggalaw ng mga average ay nagpapahintulot sa mga ito para magamit para pag-aralan ang iba pang mga paggalaw ng mga average. Ang isang karaniwang istratehiya ay nagsasangkot ng paglalagay ng dalawang paggalaw ng linya ng average na ng iba't ibang mga agwat ng oras at pagbibigay-kahulugan sa kanilang relasyon sa mga trend ng lugar, forecast ng mga paggalaw ng presyo at mga trades ng lugar. Ang paggalaw ng average na mga crossover ay naging kasunod ng isang buong subset ng mga teknikal na tagapagturo. Kapag ini-utilize ang paggalaw ng mga average, ang mga crossover ay pwedeng matukoy ang isang pagbabago sa trend ng presyo. Ang isang pangkaraniwang paraan ng pag-reverse ng trend ay ang paggamit ng limang-period simpleng paggalaw ng average sa isang 15-period simpleng paggalaw ng average. Kapag ang paggalaw ng average ng limang-period ay bumubuo ng isang crossover, ito ay nagpapahiwatig ng pagbaliktad sa trend at potensyal na ang pagsisimula ng isang bagong kabaligtaran trend, na tinatawag na breakout o breakdown.
 
-**Relative Strength Index (RSI)** is a momentum indicator that measures the magnitude of recent price changes to analyze overbought or oversold conditions. It is primarily used to attempt to identify overbought or oversold conditions in the trading of an asset. The RSI provides a relative evaluation of the strength of a security’s recent price performance, thus making it a momentum indicator. RSI values above or equal to 70 indicate that a security is becoming overbought or overvalued. RSI reading below or equal to 30 is commonly interpreted as indicating an oversold or undervalued condition that may signal a trend change or corrective price reversal to the upside. Some traders, in an attempt to avoid false signals from the RSI, use more extreme RSI values as buy or sell signals, such as RSI readings above 80 to indicate overbought conditions and RSI readings below 20 to indicate oversold conditions. Sudden large price movements can create false buy or sell signals in the RSI. It is, therefore, best used with refinements to its application or in conjunction with other, confirming technical indicators.
+Ang **Relative Strength Index (RSI)** ay isang tagapagturo ng momentum na sumusukat sa magnitude ng kamakailang mga pagbabago sa presyo para pag-aralan ang overbought o oversold na kondisyon. Ito ay unang ginagamit para subukang kilalanin ang mga overbought o oversold na kondisyon sa kalakalan ng isang asset. Ang RSI ay nagbibigay ng isang may kaugnayan sa ebalwasyon ng lakas ng kamakailang pagganap ng presyo ng seguridad, kaya ginagawa itong isang tagapagturo ng momentum. Ang mga balyu ng RSI sa itaas o katumbas ng 70 ay nagpapahiwatig na ang isang seguridad ay nagiging labis na balanse o sobra na ang balyu. Ang pagbabasa ng RSI sa ibaba o katumbas ng 30 ay karaniwang binibigyang-kahulugan na nagpapahiwatig ng isang oversold o undervalued na kondisyon na pwedeng magpahiwatig ng pagbabago ng kalakal o pagwawasto ng presyo ng pagwawasto sa baligtad. Ilan sa mga mangangalakal, sa pagtatangkang maiwasan ang mga huwad na signal mula sa RSI, ay gumagamit ng mas matinding mga balyu ng RSI bilang bumili o magbenta ng mga signal, tulad ng pagbabasa ng RSI sa itaas na 80 para ipahiwatig ang mga overbought na kondisyon at mga pagbabasa ng RSI sa ibaba 20 para ipahiwatig ang mga oversold na kondisyon. Ang biglaang paggalaw ng malaking presyo ay pwedeng lumikha ng maling pagbili o pagbenta ng mga signal sa RSI. Samakatuwid, ito ay ang, pinakamahusay na ginagamit sa mga refinement sa aplikasyon nito o sa kasabay ng iba pang, na nagpapatibay ng mga teknikal na tagapagturo.
 
-**Bollinger Bands** are a technical chart indicator popular among traders across several financial markets. On a chart there are two “bands” that sandwich the market price. Many use them primarily to determine overbought and oversold levels. A common strategy is to sell when the price touches the upper Bollinger Band and buy when it hits the lower band. This technique also called range-bound markets. In this type of market, the price bounces off the Bollinger Bands like a ball bouncing between two walls.
+Ang mga **Bollinger Band** ay isang teknikal na tagapagpaturo ng tsart na sikat sa mga negosyante sa maraming pinansiyal na mga merkado. Sa isang tsart mayroong dalawang "band" na sandwich ang presyo ng merkado. Maraming gamit ang mga ito lalo na para matukoy ang overbought at oversold na mga antas. Ang isa sa karaniwang diskarte ay para magbenta kapag ang presyo pumalo ang itaas na Bollinger Band at bumili kapag ito bumagsak sa mas mababang band. Ang teknik na ito ay tinatawag ding range-bound na mga merkado. Sa ganitong uri ng merkado, ang mga presyo ay nagba-bounce sa mga Bollinger Band gaya ng bola na nagba-bounce sa pagitan ng dalawang pader.
 
-**MACD** calculates the difference between a currency’s 26-day and 12-day exponential moving averages (EMA). The 12-day EMA is the faster one, while the 26-day is a slower moving average. The calculation of both EMAs uses the closing prices of whatever period is measured. On the MACD chart, a nine-day EMA of MACD itself is plotted as well, and it acts as a signal for buy and sell decisions.The MACD histogram provides a visual depiction of the difference between MACD and its nine-day EMA. MACD histogram is one of the main tools traders use to gauge momentum, because it gives an intuitive visual representation of the speed of price movement. For this reason, the MACD is commonly used to measure the strength of a price move rather than the direction or trend of a currency.
+Ang **MACD** ay kinakalkula ang pagkakaiba ng isang currency sa pagitan ng 26-na araw at 12-na araw ng exponential moving averages (EMA). Ang 12-na araw na EMA ay ang isa sa mas mabilis, habang ang 26-na araw ay isang mas mabagal na paggalaw ng average. Ang kalkulasyon ng parehong EMAs ay gumagamit ng pagpapalapit ng mga presyo ng anumang period ay sinusukat. Sa tsart ng MACD, ang siyam na araw na EMA ng MACD mismo ay naka-plot rin, at nagsisilbing isang senyas para sa mga desisyon sa pagbili at magbenta. Ang histogram ng MACD ay nagbibigay ng isang visual na paglalarawan ng pagkakaiba sa pagitan ng MACD at siyam na araw na EMA nito. Ang histogram ng MACD ay isa sa pangunahing ginagamit ng mga mangangalakal na gamit para sukatin ang momentum, sapagkat nagbibigay ito ng isang intuitive visual na representasyon ng bilis ng paggalaw ng presyo. Para sa rason na ito, ang MACD ay karaniwang ginagamit para sukatin ang lakas ng isang paggalaw ng presyo sa halip na ang direksyon o trend ng isang currency.
 
-More advanced techniques for data analysis are the Fibonacci methods as well as Ichimoku Kinko Hyo techniques, as discussed in the sequel.
+Ang higit pang pinaka-advance na teknik para sa pagsusuri ng datos ay ang mga pamamaraan ni Fibonacci pati na rin ang mga teknik ni Ichimoku Kinko Hyo, tulad ng tinalakay sa sumunod na pangyayari.
 
-**Fibonacci Extension:** They are popular forecasting tools, often used in combination with other technical chart patterns. Many traders use this technique in conjunction with wave-based studies (Elliott Wave, Wolfe Wave) to estimate the height of each wave and define the different waves. They commonly used with other chart patterns such as the ascending triangle. Once the pattern is identified, a forecast can be created by adding 61.8% of the distance between the upper resistance and the base of the triangle to the entry price.
+Ang **Fibonacci na Extension:** Ang mga ito ay sikat na mga kagamitan sa pagtataya, na kadalasang ginagamit sa kumbinasyon sa iba pang mga teknikal na pattern ng tsart. Maraming mga mangangalak ang gumagamit ng teknik na ito kasabay ng mga pag-aaral na nakabatay sa wave (Elliott Wave, Wolfe Wave) para tantiyahin ang taas ng bawat wave at tukuyin ang iba't ibang mga wave. Sila din ay karaniwang ginagamit sa iba pang mga pattern ng tsart tulad ng ascending triangle. Kapag natukoy na ang pattern, ang isang forecast ay maaaring malikha sa pamamagitan ng pagdaragdag ng 61.8% ng distansya sa pagitan ng itaas na resistance at base sa tatsulok sa pagpasok ng presyo.
 
-**Fibonacci Clusters:** The Fibonacci cluster is a culmination of Fibonacci retracements from various significant highs and lows during a given time period. Each of these Fibonacci levels is then plotted on the “Y” axis (price). Each overlapping retracement level makes a darker shade on the cluster – the darker the cluster is, the more significant the support or resistance level tends to be. This technique can be used in conjunction with other Fibonacci techniques or chart patterns to confirm support and resistance levels.
+**Fibonacci na mga Klaster:**Ang Fibonacci na klaster ay isang kulminasyon ng Fibonacci retracements mula sa iba't ibang makabuluhang mga pagtaas at mga pababa sa isang naibigay na tagal ng panahon. Ang bawat isa sa mga antas ng Fibonacci ay naka-plot sa "Y" axis ng (presyo). Ang bawat antas ng overlapping retracement ay gumagawa ng isang mas madilim na shade sa klaster - ang madilim na klaster ay, mas makabuluhang ang suporta o antas ng resistance ay may tend. Ang teknik na ito ay pwedeng gamitin kasabay ng iba pang mga diskarte sa Fibonacci o mga pattern sa tsart para kumpirmahin ang mga antas ng suporta at resistance.
 
-**Fibonacci Channels:** The Fibonacci pattern can be applied to channels not only vertically, but also diagonally. One common technique is the combination of diagonal and vertical Fibonacci studies to find areas where both indicate significant resistance.
+**Fibonacci Channels:** Ang pattern na Fibonacci ay pwedeng mai-aplay sa mga tsanel hindi lamang patayo, kundi pati na rin sa pahilis. Isa sa karaniwang teknik ay ang kumbinasyon ng palihis at patayo na pag-aaral ng Fibonacci para makahanap ng mga lugar kung saan nagpapahiwatig ang parehong makabuluhang resistance.
 
-**Ichimoku Kinko Hyo** is a technical indicator that is used to gauge momentum along with future areas of support and resistance.It was originally developed by a Japanese newspaper writer to combine various technical strategies into a single indicator that could be easily implemented and interpreted. Ichimoku indicator is a combination of five key components:
+Ang **Ichimoku Kinko Hyo** ay isang teknikal na tagapagtuto na ginagamit para masukat ang momentum kasama ang mga hinaharap na lugar ng suporta at resistance. Ito ay orihinal na binuo ng isang manunulat ng pahayagan ng Hapones para pagsamahin ang iba't ibang teknikal na estratehiya sa isang solong tagapagturo na maaaring madaling ipatupad at ipaliwanag. Ang tagapagturo na Ichimoku ay isang kombinasyon ng mga nilalaman ng limang key:
 
-1. Tenkan-sen: Represents support and resistance level, and it’s a signal line for reversals.
-2. Kijun-sen: Represents support and resistance level. It’s a confirmation of a trend change, and can be used as a trailing stop-loss point.
-3. Senkou Span A: Is the average of tenkan-sen and kijun-sen for 26 periods ahead. The resulting line is used to identify future areas of support and resistance.
-4. Senkou Span B: Is calculated by the highest high and the lowest low over the past 52 periods, for 26 periods ahead. The resulting line is used to identify future areas of support and resistance.
-5. Chickou Span: Is the current period’s closing price plotted 26 days back on the chart. This line is used to show possible areas of support and resistance.
+1. Ang Tenkan-sen: Ay nirerepresnta ang antas ng suporta at resistance, at ito ay isang linya ng signal para sa mga reversal.
+2. Ang Kijun-sen: Ay nirerepresenta ang antas ng suporta at resistance. Ito ay isang kumpirmasyon ng isang pagbabago ng trend, at pwedeng magamit bilang isang trailing stop-loss point.
+3. Ang Senkou Span A: Ang average ng tenkan-sen at kijun-sen para sa 26 paparating na mga period. Ang resulta sa linya ay ginagamit para matukoy ang mga hinaharap na lugar ng suporta at resistance.
+4. Ang Senkou Span B: Ay kinakalkula ayon sa pinakamataas na mataas at ang pinakamababang mababa sa nakalipas na 52 na mga period, para sa 26 na paparating na mga period. Ang resulta ng linya ay ginagamit para makilala ang mga hinaharap na lugar ng suporta at resistance.
+5. Ang Chickou Span: Ang paglapit ng presyo ng kasalukuyang panahon ay naka-plot nang 26 na araw pabalik sa tsart. Ang linyang ito ay ginagamit para ipakita ang posibleng mga lugar ng suporta at resistance.
 
-* #### **FUNDAMENTAL AND TECHNOLOGICAL ANALYSIS**
+* #### **FUNDAMENTAL AT TEKNOLOHIKAL NA PAGSUSURI**
 
-Various blockchain technologies have been developed to tackle various challenges and, therefore, are meant to satisfy different requirements. A review of the technical concepts of the different blockchain technologies is our basis in understanding the impact of the different architectures in terms of performance, privacy, security and regulation. Quantitative analysis from a technological perspective (not to be confused with technical analysis) appraises and correlates various network statistics gleamed from the blockchain, giving a real-time view of the cryptocurrency. These statistics include but are not limited to:‬
+Binuo ang iba't ibang mga teknolohiya ng blockchain para matugunan ang iba't ibang mga hamon at, samakatuwid, ay sinadya para masiyahan ang iba't ibang mga kinakailangan. Ang pag-ribyu sa mga teknikal na konsepto ng iba't ibang mga teknolohiya ng blockchain ay ang batayan namin sa pag-unawa sa epekto ng iba't ibang mga arkitektura sa mga tuntunin ng pagganap, privacy, seguridad at regulasyon. Ang quantitative na pagsusuri ay mula sa isang teknolohikal na pananaw (hindi nalilito sa teknikal na pagsusuri) ay sinusuri at iniuugnay ang iba't ibang mga istatistika ng network na gleamed mula sa blockchain, na nagbibigay ng real-time na pagtingin sa cryptocurrency. Kasama ang mga istatistika na ito pero hindi limitado sa
 
-* Block propagation time is important, since newly-found blocks need to be propagated as soon as possible across the blockchain network. Except for the waiting time for the user, another major issue coming from propagation time is that even for tiny delays‬, another block found at the same time might win the “block race”.
-* Hash rate vs Difficulty over Time‬, Price and Power consumption. These indicators, could show various correlations with Hash Rate, i.e. the hashrate could follow a corresponding increase or decrease to the price. Networks’ Hash Rate is also a security indicator, since networks which have low hash rate is easier to be tampered.
-* Node activity‬ and distribution‬. Nodes are vital parts of a blockchain, since it is maintained by them. They are connected to the blockchain network, transmitting and receiving the transactions, having their own copy of the blockchain. Therefore, their activity, distribution and average size can provide useful information about the blockchain.
-* Coin distribution‬, including information on how the coin is distributed among the developers, the foundation/production team, and the public. Also, the rate of change of the total supply and how is then distributed seems to provide useful statistics on the actual value of the coin and indication of possible frauds.
-* Miner distribution‬, indicating the number of miners online and how they are distributed (by pool), their fees, luck etc. Also,he software version of miners is also important, since ideally they should be on its latest version in order to support all the features of the Coin that they are mining.
-* Transaction levels, where various measures could be taken into account, such as the number of transactions submitted or validated per second by each node and the entire network, the average time of validation for a transaction and its volatility.
-* Tra nsactions fees, that users might pay to the network, in order to complete transactions or smart contracts.
-* Security includes several aspects such as the vulnerability of the system to attacks (e.g. double spending, Sybil attacks), the confidentiality of transactions, as well as user anonymity.
-* Scalability concerns how the system’s performance is affected by the number of nodes, transactions and users, and the scattering of the geographic positions of the nodes.
-* Hardware requirements for storage, memory and processors needed to store the blockchain network and validate the transactions and blocks, as well as how these requirements change while the networks grows.
+* Mahalaga ang pag-block ng oras ng propagasyon, dahil ang mga bagong nahanap na mga block ay kailangang palaganapin sa lalong madaling panahon sa network ng blockchain. Maliban sa oras ng paghihintay para sa gumagamit, isa pang pangunahing isyu na nagmumula sa oras ng propagasyon ay kahit na para sa mga maliliit na pagkaantala, ang isa pang block na natagpuan sa parehong oras ay maaaring manalo sa "block race".
+* Hash rate kumpara sa Difficulty sa Oras, Presyo at pagkonsumo ng Power. Ang mga tagapagturo na ito, ay maaaring magpakita ng iba't ibang ugnayan sa Hash Rate, kaya ang hashrate ay maaaring sundin ng nararapat na pagtaas o pagbaba sa presyo. Ang Hash Rate ng mga Network ay isa ring tagapagturo ng seguridad, dahil ang mga network na may mababang rate ng hash ay mas madali na mabago.
+* Aktibidad at pamamahagi ng node. Ang mga node ay mahahalagang parte ng isang blockchain, dahil pinapanatili ito ng mga ito. Konektado ang mga ito sa blockchain network, pagpapadala at pagtanggap ng mga transaksyon, pagkakaroon ng kanilang sariling kopya ng blockchain. Samakatuwid, ang kanilang aktibidad, pamamahagi at sukat na average ay maaaring magbigay ng kapaki-pakinabang na impormasyon tungkol sa blockchain.
+* Ang pamamahagi ng coin, kasama ang impormasyon kung paano ibinahagi ang coin sa mga tagapag-develop, ang pundasyon/produksyon, at ang publiko. Gayundin, ang rate ng pagbabago ng kabuuang suplay at kung paano pagkatapos ay ipinamamahagi tila para magbigay ng mga kapaki-pakinabang na mga istatistika sa aktwal na balyu ng coin at indikasyon ng mga posibleng mga fraud.
+* Ang pamamahagi ng minero, na nagpapahiwatig ng bilang ng mga online na minero at kung paano sila ibinahagi (sa pool), ang kanilang mga bayarin, swerte atbp. Gayundin, ang bersyon ng software ng mga minero ay mahalaga rin, dahil sa perpektong dapat sila ay sa kanyang pinakabagong bersyon upang suportahan ang lahat ng mga katangian ng Coin na sila ay pagmimina.
+* Ang mga antas ng transaksyon, kung saan pwedeng maiugnay ang iba't ibang mga panukala, tulad ng bilang ng mga transaksyon na isinumite o napatunayan sa bawat segundo ng bawat node at sa buong network, ang average na oras ng pagpapatunay para sa isang transaksyon at pagkasumpungin nito.
+* Ang mga bayad sa mga transaksyon, na pwedeng bayaran ng mga gumagamit sa network, para makumpleto ang mga transaksyon o mga matatalino na kontrata.
+* Ang ilang aspesto ay kasama sa seguridad tulad ng kahinaan ng sistem sa pag-atake (hal. dobleng paggasta, pag-atakeng Sybil), ang pagiging kumpidensyal ng mga transaksyon, pati na rin ang pagkawala ng lagda ng gumagamit.
+* Nababahala sa pag-scalelable kung paano naapektuhan ang pagganap ng sistem sa bilang ng mga node, mga transaksyon at mga gumagamit, at ang pagkalat ng mga heograpikong posisyon ng mga node.
+* Kinakailangan ng imbakan para sa hardware, memory at processor para maiimbak ang blockchain network at patunayan ang mga transaksyon at mga block, pati na rin kung paano magbabago ang mga kinakailangan habang lumalaki ang mga network.
 
-To implement the above analysis, further detail is given in the next section. Today, blockchain explorers are widely available to support this task. In particular, blockchain explorers such as [coinmetrics](https://coinmetrics.io/) and [cryptocompare](https://www.cryptocompare.com/) were combined, in order to meet the needs of FTA. The former is an open source crypto-asset analytics service, providing daily data for the most major cryptocurrencies (about 64 currently). Cryptocompare is a platform with live cryptocurrency data; its API makes available historical and live streaming cryptocurrency data, such as pricing, volume and block explorer data from multiple exchanges and blockchains.
+Para ipatupad ang pagsusuri sa itaas, ang karagdagang detalye ay ibinigay sa susunod na seksyon. Ngayon, ang mga eksplorer ng blockchain ay malawak na magagamit para suportahan ang gawaing ito. In particular, blockchain explorers such as [coinmetrics](https://coinmetrics.io/) and [cryptocompare](https://www.cryptocompare.com/) were combined, in order to meet the needs of FTA. Dati ay isang open source ang crypto-asset analytics service, na nagbibigay ng pang-araw-araw na datos para sa mga pinaka-pangunahing mga cryptocurrency (mga 64 sa kasalukuyan). Ang Cryptocompare ay isang plataporma na may live na datos ng cryptocurrency; ang API nito ay nagbibigay ng magagamit na historikal at live streaming ng datos ng cryptocurrency, tulad ng datos ng pagpepresyo, dami at block explorer mula sa maraming palitan at blockchain.
 
 Among others, some of the features available by both APIs are:
 
@@ -336,15 +336,15 @@ A wide range of technology would be applicable for this layer, though in keeping
 
 To glean the most useful information about a blockchain, it’s usually necessary to run a full node that observes each incoming block. Doing so, it can provide real-time information on any of several important statistics, including chain height, inferring average and running average block times, block sizes, transaction counts, and any number of other properties visible to any full node. The interface for querying this full node is a decision made by the designers of the client in question, and is thus the responsibility of the blockchain statistics module to conform to this interface to normalize it into a form that can be consumed upstream by modules that are agnostic to the specific interface.
 
-A great number of the tokens being traded today are ERC20 tokens implemented on top of the Ethereum blockchain. Further, many of the most exciting tokens are part of a larger system of smart contracts that use an ERC20 token as their native token. Providing an in-depth analysis of these, and any smart contract system riding on top of Ethereum’s EVM is very useful for the high-level goals of Vespucci. This module thus exists to consume smart contract systems associated with some ERC20 tokens to grade them, at the code-level, on overall safety, the presence of bugs, and other important factors that can be ascertained with a static analysis of the contract code in a system of smart contracts. Much of its core logic is written in Python, and bridges are developed to the blockchain statistics module.
+Ang isang mahusay na bilang ng mga token ay pwedeng ikalakala ngayon ay mga ERC20 na mga token na ipinatupad sa ibabaw ng Ethereum blockchain. Dagdag dito, marami sa mga pinaka kapana-panabik na mga token ay bahagi ng isang mas malaking sistema ng mga matatalinong kontrata na gumagamit ng ERC20 na token bilang kanilang katutubong token. Ang pagbibigay ng malalim na pagsusuri sa mga ito, at ang anumang sistem ng matalinong kontrata na umuungas sa itaas ng EVM ng Ethereum ay lubhang kapaki-pakinabang para sa mataas na antas ng mga layunin ng Vespucci. Ang module na ito sa gayon ay umiiral para ubusin ang mga sistem ng matalinong kontrata na nauugnay sa ilang mga ERC20 na mga token para i-grade ang mga ito, sa antas ng code, sa pangkalahatang kaligtasan, ang pagkakaroon ng mga bug, at iba pang mahalagang mga kadahilanan na maaaring matukoy ng isang static na pagsusuri ng code ng kontrata sa isang sistem ng mga matatalinong kontrata. Karamihan sa mga pangunahing lohika nito ay nakasulat sa Python, at ang mga bridge ay binuo sa istatistika ng module n blockchain.
 
 * ### **USER EXPERIENCE**
 
-‪Vespucci has a User interface (UI) that allows for straightforward parameter input and coherently displays the resulting assessment metrics. The input interface provides a list with all available coins or a selection of the top ranked coins based on market cap value: the user may select those of interest to him/her. Alternatively, it is required for the user to provide the link to one (or more) cryptocurrency’s public blockchain along with the link to the project source code as basic inputs. The type and level of analysis to be performed on the given coin is chosen. More detailed analysis requires more inputs. ‬
+Ang Vespucci ay may isang User interface (UI) na nagpapahintulot para sa input na straightforward parameter at coherently ipinapakita ang mga nagresultang mga assessment ng metriko. Ang input ng interface ay nagbibigay ng isang listahan sa lahat ng available na mga coin o isang seleksyon ng mga top sa ranggo na mga coin batay sa balyu sa market cap: pwedeng piliin ng gumagamit ang mga interes sa kanya. Bilang alternatibo, ito ay kinakailangan para sa gumagamit na magbigay ng link sa isang pampublikong blockchain ng isang (o higit pa) cryptocurrency kasama ang link sa pinagmulan ng code ng proyekto bilang mga pangunahing input. Ang uri at antas ng pagsusuri na isasagawa sa ibinigay na coin ay napili. More detailed analysis requires more inputs. ‬
 
-The results interface provides a collapsed view, providing an index for expandable sections that displays the selected metrics in detail. The collapsed view presents the colour-coded rating summary of a cryptocurrency. The colour-coded rating is calculated using a weighted average of all assessment metrics.‬ ‪Each expandable section displays the metric or group of metrics in a graphical manner. Assessment metrics are separated into different sections based on their represented information such as data relating to social perspective or a technical perspective. An optimal indexing of assessment metrics are determined to allow for intuitive UI interaction in accessing and view data of interest for the user.‬
+Ang resulat sa interface ay nagbibigay ng collapse view, na nagbibigay ng isang indeks para sa napapalawak na mga seksyon na nagpapakita ng mga napiling metriko nang detalyado. Ang pag-collapse ng pag-byu ay nagpapakita ng buod ng kulay na colour-coded na grado ng isang cryptocurrency. Ang ranggo ng colour-coded ay kinakalkula gamit ang isang timbangan na average ng lahat ng mga sukatan ng pagsusuri. Ang bawat napapalawak na seksyon ay nagpapakita ng sukatan o grupo ng mga sukatan sa isang graphical na paraan. Ang mga sukatan ng pagsusuri ay pinaghihiwalay sa iba't ibang mga seksyon batay sa kanilang kinakatawan na impormasyon tulad ng datos na may kaugnayan sa sosyal na perspektibo o teknikal na perspektibo. Ang isang optimal na pag-indeks ng mga metriko ng pagsusuri ay tinutukoy para pahintulutan ang intuitive na pakikipag-ugnayan ng UI sa pag-akses at pagtingin ng datos ng interes para sa gumagamit
 
-Following the success of the Ethereum Wallet and Ethereum Mist browser, the main interface exposed to a user is hosted inside an Electron app. Electron is a mature technology introduced by Github to create modern desktop applications. Since Vespucci is not tied to Desktop-based APIs however, it is also possible to port this application to run inside of a browser. The interface for the app can be designed by using mature UI libraries for modern applications. With each component existing on its own, it is also straightforward to pull components out and add new ones as the product is trialed with users without adversely affecting the product as a whole.
+Kasunod ng tagumpay ng Wallet ng Ethereum at Mist browser ng Ethereum, ang pangunahing interface na nakalantad sa isang gumagamit ay naka-host sa loob ng isang app ng Electron. Ang elektron ay isang mature na teknolohiya na ipinakilala ni Github para lumikha ng mga modernong desktop na aplikasyon. Since Vespucci is not tied to Desktop-based APIs however, it is also possible to port this application to run inside of a browser. The interface for the app can be designed by using mature UI libraries for modern applications. With each component existing on its own, it is also straightforward to pull components out and add new ones as the product is trialed with users without adversely affecting the product as a whole.
 
 PLATFORM FEATURES
 

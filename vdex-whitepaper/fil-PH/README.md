@@ -164,71 +164,71 @@ Ang isang digital assets ecosystem ay nangangailangan ng isang hanay ng ilang pa
 
 1. Mga kontribyutor. 12%. Ang isang hanay ng mga indibidwal, katulad ng mga tagapagtatag, na nag-aambag ng mga pananaw, oras at talento, kahit na madalas ay nagtatrabaho nang walang maagang kabayaran.
 
-2. Supporters.
+2. Mga taga-suporta.
 
-Phase 1. 5%. Early passive seed funders.
+Yugto 1.5%. Maagang mga funder sa pasibong seed.
 
-Phase 2. 28%. Funders via qualified private pre-sales and possible public sale.
+Yugto 2. 28%. Mga funder sa pamamagitan ng kwalipikadong pribadong pre-sales at posibleng pagbebenta sa publiko.
 
-3. Facilitators. (Advisors, Developers, Promoters, Custodians). Note that requirements for assistance from the sub-categories in this category may differ significantly before and after the project receives substantial funding support, but certain individuals may serve during both phases.
+3. Mga facilitator. (Mga Tagapayo, Mga Nag-develop, Mga Tagapagtaguyod, Mga Tagapangalaga). Paalala na ang mga kinakailangan para sa tulong mula sa mga sub-na kategorya sa kategoryang ito ay pwedeng magkakaiba bago at pagkatapos ng proyekto ay tumatanggap ng malaking suporta sa pagpopondo, pero ang ilang mga indibidwal ay maaaring maglingkod sa panahon ng parehong mga yugto.
 
-Phase 1. 10%.
+Yugto 1. 10%.
 
-Phase 2. 10%.
+Yugto 2. 10%.
 
-4. Decentralized treasury. 35%. Community members incentivized and rewarded for participation in progressive development of a decentralized autonomous organization (DAO). A decentralized treasury is anticipated to be administered by smart contracts and community consensus. ![](../5.jpg)
+4. Desentralisadong pananalapi. 35%. Ang mga miyembro ng komunidad ay insentibado at ginantimpalaan para sa partisipasyon sa progresibong pag-unlad ng isang decentralized autonomous organization (DAO). Ang isang desentralisadong pananalapi ay inaasahang ibibigay ng mga matalinong kontrata at consensus ng komunidad. ![](../5.jpg)
 
-#### 3.4.3 VTX Distribution
+#### 3.4.3 Distribusyon ng VTX
 
-In light of market conditions at the time of this writing, Volentix is considering timing, means, and terms and conditions of VTX distribution as a function of private pre-sales and possible public sale. Please monitor our website for updates.
+Sa liwanag ng mga kondisyon sa merkado sa panahon ng pagsulat nito, Kinukonsidura ang pag-timing ng Volentix, paraan, at mga tuntunin at kondisyon ng pamamahagi ng VTX bilang isang function ng pribadong pre-sales at posibleng pagbebenta sa publiko. Para sa mga update mangyaring subaybayan ang aming websayt.
 
 ### 3.5 EOS.IO PLATFORM DEPLOYMENT
 
-The following considerations are relevant to our deploying the VDex exchange on the EOS.IO platform:
+Ang mga sumusunod na konsiderasyon ay may kaugnayan sa aming pag-deploy ng palitan na VDex sa platapormang EOS.IO:
 
-Deploying a contract has a cost but is free to use.
+Ang pag-deploy ng isang kontrata ay may bayad pero libreng gamitin.
 
-Developers stake EOS.IO-compliant tokens to deploy a smart contract. After the contract is deployed, the locked tokens are returned.
+Nagtatakda ng mga token ang mga Nag-develop ng EOS.IO para mag-deploy ng matalinong kontrata. Matapos i-deploy ang kontrata, ibabalik ang naka-lock na mga token.
 
-Decentralized applications allocate memory, CPU, bandwidth, and other resources to their contracts.
+Ang mga aplikasyon na desentralisado mga ay naglalaan ng memory, CPU, bandwidth, at iba pang mga mapagkukunan sa kanilang mga kontrata.
 
-Multiple messages and multiple accounts can be assigned to the same thread.
+Ang maramihang mga mensahe at maraming mga akawnt ay maaaring italaga sa parehong thread.
 
-### 3.6 BLOCKCHAIN INTERACTION
+### 3.6 INTERASKYON NG BLOCKCHAIN
 
-#### 3.6.1 Inter-Blockchain Communication
+#### 3.6.1 Komunikasyon ng Inter-Blockchain
 
-EOS.IO is designed to make Inter-Blockchain Communication (IBC) proofs lightweight. For chains with insufficient capacity for processing the IBC proofs and establishing validity, there is an option to default to trusted oracles/escrows. With an EOS.IO-based smart contract, a trusted multi-signature wallet holding the asset in escrow can be used to persuade the signing/publishing of the transaction based on IBC proofs from the originating chain.
+Dinisenyo ang EOS.IO ay para gumawa ng Inter-Blockchain Communication (IBC) ng mga magagaang patunay. Para sa mga chain na may sapat na kapasidad para sa pagpoproseso ng mga patunay ng IBC at pagtatatag ng bisa, mayroong isang pagpipilian para i-default sa mga pinagkakatiwalaang mga orakulo/escrow. Sa pamamagitan ng isang EOS-bases na matalinong kontrata, ang isang pinagkakatiwalaang multi-signature na wallet na may hawak na asset sa escrow ay pwedeng magamit para hikayatin ang pag-sig /paglalathala ng transaksyon batay sa mga patunay ng IBC mula sa nagbuo ng chain.
 
-#### 3.6.2 Multi-Blockchain Information
+#### 3.6.2 Impormasyon ng Multi-Blockchain
 
-Comprehensible multi-blockchain information can be obtained by aggregating blockchain timelines in parallel order (with variance in the frequency of change of state). This system can trigger multi-chain load balancers, transfer states, draw data outputs from smart contracts, and foreign blockchain transaction execution. Relative block distance, relative global state, and timestamped events are recorded on a global ledger to optimize and confirm transactions before they actually happen on the native chain. This approach could also be used to determine block production coincidence between chains to access greater liquidity.[12]
+Pwedeng makuha ang impormasyon ng multi-blockchain na pwedeng maunawaan sa pamamagitan ng pag-aggregate ng mga timeline ng blockchain na magkakasabay (na may pagkakaiba sa frequency ng pagbabago ng estado). Ang sistem na ito ay pwedeng mag-trigger ng multi-chain sa pag-load ng mga balancer, mga estado ng paglipat, gumuhit ng mga output ng datos mula sa mga matalinong kontrata, at pagpapatupad ng transaksyon ng foreign blockchain. Kaugnay sa block ng distansya, relative sa pandaigdigang estado, at timestamped na mga kaganapan ay naitala sa isang global ledger para ma-optimize at kumpirmahin ang mga transaksyon bago sila aktwal na mangyari sa katutubong chain. Ang paraan na ito ay pwede ding gamitin para matukoy ang pagkakataon sa produksyon ng block sa pagitan ng mga chain para ma-akses ang mas higit na liquidity.[12]
 
-### 3.7 SECURITY CONCERNS
+### 3.7 MGA ALALAHANIN SA SEGURIDAD
 
-To shake out certain assumptions, we intend to commence security testing following the prototyping phase. Security concerns are of paramount importance to users and must be addressed. Threats include, for example, an attacker executing malicious code within a transaction or manipulating the order of transactions or the timestamps of blocks. In the following sections, we address certain security measures and specific security threats and remedies.
+Para maiwasan ang ilang mga pagpapalagay, nilalayon naming magsimula ng pagsubok sa seguridad kasunod ng yugto ng pagproto-type. Higit na mahalaga ang mga alalahanin sa seguridad sa mga gumagamit at dapat na matugunan. Kabilang sa mga pagbabanta, halimbawa, ang isang umaatake na nagsasagawa ng malisyosong code sa loob ng isang transaksyon o pagmamanipula ng pagkakasunud-sunod ng mga transaksyon o mga timestamp ng mga block. Sa mga sumusunod na seksyon, tinutugunan namin ang ilang mga hakbang sa seguridad at mga pag-tukoy sa pagbabanta sa seguridad at mga remedyo.
 
-### 3.8 SECURITY MEASURES
+### 3.8 MGA KATANGIAN SA SEGURIDAD
 
-#### 3.8.1 Contract security
+#### 3.8.1 Kontrata sa seguridad
 
-Retain vast majority of funds in a time-delayed, multi-signature-controlled account.
+Panatilihin ang karamihan sa mga pondo sa isang oras na naantala, isang multi-signature na kinokontrol na akawnt.
 
-Use multi-signatures on a hot wallet with several independent processes/servers double-checking all withdrawals, with the concomitant benefit of creating a trusted list of accounts.
+Gumamit ng mga multi-signature sa isang mainit na wallet na may ilang mga independiyenteng proseso/mga serber na dobleng-itsitsek ang lahat ng mga withdrawal, na may kasamang benepisyo ng paglikha ng isang pinagkakatiwalaang listahan ng mga akawnt.
 
-Deploy a custom contract that allows withdrawals only to accounts verified by KYC/AML.
+Magtakda ng pinasadyang kontrata na nagpapahintulot sa mga withdrawal lamang sa mga akawnt na napatunayan ng KYC/AML.
 
-Deploy a custom contract that accepts only deposits of known assets from accounts verified by KYC/AML.
+Magtakda ng pinasadyang kontrata na tumatanggap lamang ng mga deposito ng mga kilalang asset mula sa mga akawnt na napatunayan ng KYC/AML.
 
-Deploy a custom contract that requires a mandatory 24-hour waiting period for all withdrawals.
+Magtakda ng pinasadyang kontrata na nangangailangan ng isang sapilitan na 24 na oras na paghihintay para sa lahat ng mga withdrawal.
 
-Utilize contracts with hardware wallets for all signing, including for automated withdrawals.
+Gamitin ang mga kontrata sa mga hardware na wallet para sa lahat ng pag-sign, kabilang ang para sa automated na mga withdrawal.
 
-Upgrade broken contracts.
+I-upgrade ang nasirang mga kontrata.
 
-Include ability to pause the functionality of a contract.
+Kasama ang kakayahan na ihinto ang pag-function ng isang kontrata.
 
-Include ability to delay an action of a contract.
+Kasama ang kakayahan na para maantala ang isang aksyon ng isang kontrata.
 
 #### 3.8.2 Pag-awdit ng mga proseso ng pagnanakaw
 
@@ -278,71 +278,71 @@ Ang oras ng pag-atake ay isang uri ng cryptographic na pag-atake kung saan ang i
 
 Naka-pokus kame sa pangunahing nararanasanng gumagamit. Gusto naming gawin ang VTX at ang apat na mga pillar ng Volentix -- Venue, Verto, Vespucci, at VDex - madaling mapupuntahan at magagamit ng lahat ng mga nais na sumali sa aming komunidad. Inaasahan namin na ang karanasan ay patuloy na pang-edukasyon din, na may mga template at mga simulator para suportahan ang isang relasyon sa superior UX/UI.
 
-### 3.11 TRUE DECENTRALIZATION
+### 3.11 TOTOONG DESENTRELESASYON
 
-EOS.IO is an open-source, scalable infrastructure for decentralized applications. Its goal is a fair and transparent block producer (BP) election process utilizing a democratic delegated proof of stake (DPoS) consensus. Particularly as such a system just begins to proliferate, there will be glitches. Therefore, some degree of retained centralization is inevitable and necessary. But our guiding philosophy is one of decentralization, and our ongoing efforts are targeted to promoting a reduction in dependence on central authority.
+Isang open-source ang EOS.IO, scalable infrastructure para sa mga desentralisadong aplikasyon. Ang layunin nito ay isang patas at transparent na block producer (BP) ng eleksyon na gumagamit ng isang demokratikong delegado na proof ng stake (DPoS) na pinagkasunduan. Lalo na tulad ng isang sistem lamang ay nagsisimula para palaganapin, magkakaroon ng mga glitche. Sakatunayan, ang ilang antas ng napanatili na sentralisasyon ay hindi maiiwasan at kinakailangan. Pero ang ating gabay na pilosopiya ay isa sa desentralisasyon, at ang aming patuloy na pagsisikap ay naka-target sa pagtataguyod ng pagbawas sa pag-asa sa sentral na awtoridad.
 
-For example, initially we plan to erect a system for electing nodes (when solving order books) that will not use a shared central clock or DPoS but instead will be based either on random timeouts for the determination of leaders in an election (RAFT) or on Directed Acyclic Graph (DAG) in the PARSEC protocol.
+Para sa halimbawa, sa umpisa plano naming magtayo ng isang sistem para sa pagpili ng mga node (kapag nilutas ang mga order book) na hindi gagamit ng isang nakabahaging sentral na clock o DPoS pero sa halip ay batay sa alinman sa random na mga timeout para sa determinasyon ng mga lider sa isang halalan (RAFT) o sa Directed Acyclic Graph (DAG) sa protokol ng PARSEC.
 
-### 3.12 SYSTEM RECOVERY
+### 3.12 PAG-REKOBER SA SISTEM
 
-The RAFT and PARSEC protocols provide a robust system for recovery in the case of node failure. Security measures are also provided for trading between and among native blockchains. If a chain defies identification, the system defaults to the next block or a short time lock.
+Ang protokol ng RAFT at PARSEC ay nagbibigay ng isang matatag na sistem para sa pag-rekober sakaling mabigo ang node. Ang mga panukala sa seguridad ay ipinagkakaloob para sa pagitan ng pangangalakal at sa mga katutubong blockchain. Kung ang isang chain ay nagpapahiwatig ng pagkakakilanlan, ang sistem ay nagbabago sa susunod na block o isang lock ng maiksing oras.
 
-### 3.13 EVOLVING ARCHITECTURE
+### 3.13 PAG-EVOLVE NG ARKITEKTURA
 
-Daily announcements of fresh code developments impacting on use of digital assets reveal the tremendous benefit of the open-source code philosophy. We at Volentix recognize we are the beneficiaries of the enormous financial resources dedicated by many early movers to developing digital assets applications over the past decade. We now have an opportunity to take the next step by creating VDex, a decentralized exchange for the next generation of digital assets transactions.
+Ang anunsyo sa araw-araw ng mga pag-develop sa mga bagong code na nakakaapekto sa paggamit ng mga digital na asset ay nagbubunyag ng napakalaking benepisyo ng pilosopiya ng open-source code. Nauunawaan namin sa Volentix na kami ang mga benepisyaryo ng napakalaking pinansiyal na mga mapagkukunan na nakatuon sa maraming mga maagang nag-umpisa sa pagbubuo ng mga aplikasyon ng mga digital na asset sa nakalipas na dekada. Mayroon na tayong isang oportunidad na gawin ang susunod na hakbang sa pamamagitan ng paglikha ng VDex, isang desentralisadong palitan para sa susunod na henerasyon ng mga transaksyong digital na asset.
 
-## 4. CONCLUDING THOUGHTS
+## 4. PAGTATAPOS NG MGA SALOOBIN
 
-All of us at Volentix are dedicating our work and insights to developing a program premised on empowerment and independence. If you are of a mind to join us, in whatever capacity, then please do so and please become educated on the topics contained in this white paper and additional Volentix publications as we share them with our community.
+Lahat tayo sa Volentix ay naghahandog sa ating gawain at pananaw sa pagbuo ng isang programa na nakatuon sa pagpapalakas at pagsasarili. Kung ikaw ay nag-iisip na sumali sa amin, sa anumang kapasidad, pagkatapos ay mangyaring gawin ito at mangyaring maging edukado sa mga paksa na nakapaloob sa puting papel at karagdagang Volentix mga pahayagan bilang ibinabahagi namin ang mga ito sa aming komunidad.
 
 ## 5. TIMELINE
 
-Please monitor our website and social media for updates and other important announcements. Thank you very much for your attention and interest.
+Para sa mga update at iba pang mahalagang mga anunsyo mangyaring subaybayan ang aming websayt at social media. Maraming salamat sa iyong atensyon at interes.
 
-## DISCLAIMER
+## PAGPAPAHAYAG
 
-This white paper was prepared, and is presented, for information purposes only. The information presented does not purport to be comprehensive. The information is subject to change in whole or in part at any time without notice. Volentix Labs reserves the right to amend, replace, remove, or delete any and all information at the sole and exclusive discretion of Volentix. Volentix Labs makes no representation or warranty, expressed or implied, concerning the accuracy or completeness of the information and expressly disclaims any and all liability of any and all kinds whatsoever for the information contained or not contained. Volentix Labs requests each and every reader to read the information fully and carefully, and to undertake independent investigation and analysis of the information, and to seek and obtain professional advice for purposes of evaluating the information. To the knowledge of Volentix Labs, no regulatory agency, government, or other third-party enforcement entity has reviewed, evaluated, or approved any part or all of the information. This information is not an offer or solicitation of any kind whatsoever and does not form the basis for any contract or commitment of any kind whatsoever. Any statement considered to be forward-looking is purely a matter of opinion, and no viewer should rely on any such statement or on any part or all of the information in any way whatsoever.
+Ang puting papel na ito ay inihanda, at presentado, para lamang sa mga layuning pang-impormasyon. Ay hindi nagmula sa komprehensibo ang impormasyong iniharap. Ang impormasyon ay maaaring magbago nang buo o parte sa anumang oras nang walang abiso. Irereserba ng Labs ng Volentix ang karapatan na baguhin, palitan, alisin, o tanggalin ang anuman at lahat ng impormasyon sa sole at eksklusibong paghuhusga ng Volentix. Ang Labs ng Volentix ay hindi gumagawa ng representasyon o garantiya, ipinahayag o ipinahiwatig, tungkol sa katumpakan o pagkakumpleto ng impormasyon at hayagang tinatanggihan ang anumang at lahat ng pananagutan ng anuman at lahat ng uri ng anumang para sa impormasyon na nilalaman o hindi nakapaloob. Humihiling ang Labs ng Volentix na sa bawat mambabasa na basahin nang ganap at maingat sa impormasyon, at magsagawa ng independiyenteng pagsisiyasat at pagtatasa ng impormasyon, at humingi at kumuha ng propesyonal na payo para sa mga layunin ng pagsusuri ng impormasyon. Sa kaalaman ng Labs ng Volentix, walang nagpapatupad na ahensiya, gobyerno, o iba pang entidad na nagpapatupad ng mga third-party na sinuri, sinusuri, o inaprubahan ang anumang bahagi o lahat ng impormasyon. Hindi inaalok ang impormasyong ito ay o panghihingi ng anumang uri at hindi bumubuo ng batayan para sa anumang kontrata o pangako ng anumang uri. Ang anumang pahayag na itinuturing na pagtingin-ng-daritso ay isang bagay lamang ng opinyon, at walang manonood ang dapat umasa sa anumang naturang pahayag o sa anumang bahagi o lahat ng impormasyon sa anumang paraan.
 
-## FOOTNOTES
+## MGA TALABABA
 
-1. K. Kurokawa, Atomic cross chain transfer, an overview, (2015).
+1. K. Kurokawa, Paglipat ng Atomic cross chain, isang pangkalahatang-ideya, (2015).
 
-2. EOS.IO, Eos.io technical white paper v2, (2018).
+2. EOS.IO, Eos.io teknikal na puting papel v2, (2018).
 
-3. T. Earl, Soa principles of service design, (2016).
+3. T. Earl, Soa prinsipyo ng disenyo ng serbisyo, (2016).
 
 4. blockchainhub.net, blockchain-oracles, (2017).
 
-5. F. Zhou, Wang, Loopring: A decentralized token exchange protocol, (2018).
+5. F. Zhou, Wang, Loopring: Isang desentralisadong protokol ng palitan ng token, (2018).
 
-6. G. B. Eyal Hertzog, Guy Benartzi, Bancor protocol: Continuous liquidity for cryptographic tokens through their smart contracts, (2018).
+6. G. B. Eyal Hertzog, Guy Benartzi, Bancor protocol: Patuloy na liquidity para sa mga cryptographic na mga token sa pamamagitan ng kanilang mga matalinong kontrata, (2018).
 
-7. L. Lamport, The part time parliament, (1998).
+7. L. Lamport, Ang part time na parlayamento, (1998).
 
 8. D. Larimer, eosio.boot telegram chat, (2018).
 
-9. J. O. Diego Ongaro, In search of an understandable consensus algorithm, (2018).
+9. J. O. Diego Ongaro, Sa paghahanap ng isang naiintindihan na algoritmo ng pinagkasunduan, (2018).
 
-10. F. H. Q. M. S. S. Pierre Chevalier, Bart lomiej KamiÂťnski, Protocol for asynchronous, reliable, secure and efficient consensus (parsec), (2018).
+10. F. H. Q. M. S. S. Pierre Chevalier, Bart lomiej KamiÂťnski, Protokol para sa asynchronous, maaasahan, ligtas at mahusay na pinagkasunduan (parsec), (2018).
 
 11. Dane Keller Rutledge, Fundamental Human Constituents of a Digital Assets Ecosystem (DAE). (2018).
 
 12. BlockColliderTeam, Block collider white paper, (2018).
 
-## SUPPLEMENTAL REFERENCES
+## SUPPLEMENTAL NA MGA REPERENSIYA
 
-Aelf, A multi-chain parallel computing blockchain framework, (2018).
+Aelf, Isang multi-chain parallel computing blockchain framework, (2018).
 
-ARK, A platform for consumer adoption, (2018).
+ARK, Isang plataporma para sa pag-adopt ng taga-konsumo, (2018).
 
-V. Buterin, Ethereum: a next generation smart contract and decentralized application platform, (2013).
+V. Buterin, Ethereum: isang susunod na henerasyon ng matalinong kontrata at plataporma ng desentrelasidong aplikasyon, (2013).
 
-S. Cormier, A machine based societal model for curbing citizen cynicism, (2017).
+S. Cormier, Isang makina batay sa societal na modelo para sa pag-curse ng pagkamatay ng mamamayan, (2017).
 
-M. Duncan, Quale, Halo platform, (2018).
+M. Duncan, Quale, Plataporma ng Halo, (2018).
 
-S. D. K. M. T. S. H. Garcia-Molina, The eigentrust algorithm for reputation management in p2p networks, (2018).
+S. D. K. M. T. S. H. Garcia-Molina, Ang eigentrust na algoritmo para sa pamamahala ng reputasyon sa mga p2p network, (2018).
 
 M. R. Garrick Hileman, Global cryptocurrency benchmarking study, (2017).
 
